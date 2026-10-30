@@ -46,6 +46,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "agents-and-tool-use" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/react-prompting> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://purl.org/dc/terms/created> "2026-10-30" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://www.w3.org/2000/01/rdf-schema#label> "Artificial neural network" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://www.w3.org/2004/02/skos/core#altLabel> "ANN" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://www.w3.org/2004/02/skos/core#altLabel> "connectionist network" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://www.w3.org/2004/02/skos/core#altLabel> "neural net" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://www.w3.org/2004/02/skos/core#altLabel> "neural network" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://www.w3.org/2004/02/skos/core#definition> "A computational model built from many simple, interconnected units (\"neurons\") that each combine weighted inputs and apply a nonlinear function, with the connection weights learned from data so that the network as a whole computes a useful function of its input." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://www.w3.org/2004/02/skos/core#prefLabel> "Artificial neural network" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "deep-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/a-logical-calculus-of-the-ideas-immanent-in-nervous-activity> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chinese-room-argument> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chinese-room-argument> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chinese-room-argument> <http://www.w3.org/2000/01/rdf-schema#label> "Chinese room argument" .
@@ -209,6 +234,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s4> <https://schema.org/url> "https://www.anthropic.com/research/building-effective-agents" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s1> <http://purl.org/dc/terms/publisher> "The Bulletin of Mathematical Biophysics 5, 115–133 (1943) (McCulloch and Pitts)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s1> <http://purl.org/dc/terms/title> "A logical calculus of the ideas immanent in nervous activity" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s1> <https://schema.org/url> "https://link.springer.com/doi/10.1007/BF02478259" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s2> <http://purl.org/dc/terms/publisher> "Psychological Review 65(6), 386–408 (1958) (Rosenblatt), author's paper hosted by UIC" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s2> <http://purl.org/dc/terms/title> "The perceptron: A probabilistic model for information storage and organization in the brain" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s2> <https://schema.org/url> "https://homepages.math.uic.edu/~lreyzin/papers/rosenblatt58.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s3> <http://purl.org/dc/terms/publisher> "Nature 323, 533–536 (1986) (Rumelhart, Hinton and Williams), NASA ADS record" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s3> <http://purl.org/dc/terms/title> "Learning representations by back-propagating errors" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s3> <https://schema.org/url> "https://ui.adsabs.harvard.edu/abs/1986Natur.323..533R/abstract" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s4> <http://purl.org/dc/terms/publisher> "Zhang, Lipton, Li and Smola, Dive into Deep Learning (d2l.ai)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s4> <http://purl.org/dc/terms/title> "Dive into Deep Learning: Multilayer Perceptron" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s4> <https://schema.org/url> "https://ja.d2l.ai/chapter_deep-learning-basics/mlp.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s5> <http://purl.org/dc/terms/publisher> "NYU Stern working paper IS-92-13, 1992 (Leshno, Lin, Pinkus and Schocken)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s5> <http://purl.org/dc/terms/title> "Multilayer Feedforward Networks with Non-Polynomial Activation Function Can Approximate Any Function" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s5> <https://schema.org/url> "https://archive.nyu.edu/bitstream/2451/14329/1/IS-92-13.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s6> <http://purl.org/dc/terms/publisher> "NeurIPS 2012, Advances in Neural Information Processing Systems 25 (Krizhevsky, Sutskever and Hinton)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s6> <http://purl.org/dc/terms/title> "ImageNet Classification with Deep Convolutional Neural Networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s6> <https://schema.org/url> "https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/chinese-room-argument/s1> <http://purl.org/dc/terms/publisher> "J. R. Searle, The Behavioral and Brain Sciences 3 (1980) 417–457 (copy hosted for Yale CPSC 458)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/chinese-room-argument/s1> <http://purl.org/dc/terms/title> "Minds, brains, and programs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/chinese-room-argument/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

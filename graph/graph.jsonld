@@ -589,6 +589,96 @@
       ]
     },
     {
+      "@id": "kt:artificial-neural-network",
+      "@type": "kto:Architecture",
+      "skos:prefLabel": "Artificial neural network",
+      "skos:definition": "A computational model built from many simple, interconnected units (\"neurons\") that each combine weighted inputs and apply a nonlinear function, with the connection weights learned from data so that the network as a whole computes a useful function of its input.",
+      "kto:domain": "deep-learning",
+      "dcterms:created": "2026-10-30",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "A logical calculus of the ideas immanent in nervous activity",
+          "dcterms:publisher": "The Bulletin of Mathematical Biophysics 5, 115–133 (1943) (McCulloch and Pitts)",
+          "schema:url": "https://link.springer.com/doi/10.1007/BF02478259",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The perceptron: A probabilistic model for information storage and organization in the brain",
+          "dcterms:publisher": "Psychological Review 65(6), 386–408 (1958) (Rosenblatt), author's paper hosted by UIC",
+          "schema:url": "https://homepages.math.uic.edu/~lreyzin/papers/rosenblatt58.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Learning representations by back-propagating errors",
+          "dcterms:publisher": "Nature 323, 533–536 (1986) (Rumelhart, Hinton and Williams), NASA ADS record",
+          "schema:url": "https://ui.adsabs.harvard.edu/abs/1986Natur.323..533R/abstract",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Dive into Deep Learning: Multilayer Perceptron",
+          "dcterms:publisher": "Zhang, Lipton, Li and Smola, Dive into Deep Learning (d2l.ai)",
+          "schema:url": "https://ja.d2l.ai/chapter_deep-learning-basics/mlp.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Multilayer Feedforward Networks with Non-Polynomial Activation Function Can Approximate Any Function",
+          "dcterms:publisher": "NYU Stern working paper IS-92-13, 1992 (Leshno, Lin, Pinkus and Schocken)",
+          "schema:url": "https://archive.nyu.edu/bitstream/2451/14329/1/IS-92-13.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "ImageNet Classification with Deep Convolutional Neural Networks",
+          "dcterms:publisher": "NeurIPS 2012, Advances in Neural Information Processing Systems 25 (Krizhevsky, Sutskever and Hinton)",
+          "schema:url": "https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/deep-learning/artificial-neural-network.md",
+      "skos:altLabel": [
+        "ANN",
+        "neural network",
+        "neural net",
+        "connectionist network"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:machine-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:deep-learning"
+        },
+        {
+          "@id": "kt:convolutional-neural-network"
+        },
+        {
+          "@id": "kt:universal-approximation-theorem"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity"
+        }
+      ],
+      "kto:trainedWith": [
+        {
+          "@id": "kt:backpropagation"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:activation-function"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:perceptron"
+        }
+      ]
+    },
+    {
       "@id": "kt:large-language-model",
       "@type": "kto:Concept",
       "skos:prefLabel": "Large language model",

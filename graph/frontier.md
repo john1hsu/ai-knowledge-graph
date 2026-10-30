@@ -5,17 +5,22 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:ai-evaluation` | `kt:agentic-workflow`, `kt:turing-test`, `kt:mlops` |
+| `kt:deep-learning` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:artificial-neural-network` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:turing-test` |
-| `kt:deep-learning` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
+| `kt:machine-learning` | `kt:mlops`, `kt:artificial-neural-network` |
 | `kt:multi-agent-systems` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:tool-use` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
+| `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` | `kt:artificial-neural-network` |
+| `kt:activation-function` | `kt:artificial-neural-network` |
 | `kt:agent-memory` | `kt:ai-agent` |
 | `kt:agentic-systems` | `kt:agentic-workflow` |
 | `kt:alan-turing` | `kt:turing-test` |
+| `kt:backpropagation` | `kt:artificial-neural-network` |
 | `kt:computing-machinery-and-intelligence` | `kt:turing-test` |
+| `kt:convolutional-neural-network` | `kt:artificial-neural-network` |
 | `kt:data-drift` | `kt:mlops` |
 | `kt:deep-unsupervised-learning-using-nonequilibrium-thermodynamics` | `kt:diffusion-model` |
 | `kt:devops` | `kt:mlops` |
@@ -33,11 +38,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:language-model` | `kt:large-language-model` |
 | `kt:latent-diffusion-model` | `kt:diffusion-model` |
 | `kt:llmops` | `kt:mlops` |
-| `kt:machine-learning` | `kt:mlops` |
 | `kt:minds-brains-and-programs` | `kt:chinese-room-argument` |
 | `kt:mlflow` | `kt:mlops` |
 | `kt:model-registry` | `kt:mlops` |
 | `kt:model-serving` | `kt:mlops` |
+| `kt:perceptron` | `kt:artificial-neural-network` |
 | `kt:philosophy-of-artificial-intelligence` | `kt:chinese-room-argument` |
 | `kt:pretraining` | `kt:large-language-model` |
 | `kt:react-prompting` | `kt:ai-agent` |
@@ -50,4 +55,5 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:symbol-grounding-problem` | `kt:chinese-room-argument` |
 | `kt:text-to-image-generation` | `kt:diffusion-model` |
 | `kt:transformer-architecture` | `kt:large-language-model` |
+| `kt:universal-approximation-theorem` | `kt:artificial-neural-network` |
 | `kt:wasserstein-gan` | `kt:generative-adversarial-network` |

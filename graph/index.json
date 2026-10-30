@@ -42,6 +42,29 @@
     ]
   },
   {
+    "id": "kt:artificial-neural-network",
+    "title": "Artificial neural network",
+    "aliases": [
+      "ANN",
+      "neural network",
+      "neural net",
+      "connectionist network"
+    ],
+    "type": "Architecture",
+    "domain": "deep-learning",
+    "file": "articles/deep-learning/artificial-neural-network.md",
+    "created": "2026-10-30",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://link.springer.com/doi/10.1007/BF02478259",
+      "https://homepages.math.uic.edu/~lreyzin/papers/rosenblatt58.pdf",
+      "https://ui.adsabs.harvard.edu/abs/1986Natur.323..533R/abstract",
+      "https://ja.d2l.ai/chapter_deep-learning-basics/mlp.html",
+      "https://archive.nyu.edu/bitstream/2451/14329/1/IS-92-13.pdf",
+      "https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html"
+    ]
+  },
+  {
     "id": "kt:chinese-room-argument",
     "title": "Chinese room argument",
     "aliases": [
