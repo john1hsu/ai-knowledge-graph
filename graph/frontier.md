@@ -6,6 +6,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:ai-evaluation` | `kt:agentic-workflow`, `kt:turing-test`, `kt:mlops` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:turing-test` |
+| `kt:generative-adversarial-network` | `kt:diffusion-model`, `kt:diffusion-model` |
 | `kt:multi-agent-systems` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:tool-use` | `kt:agentic-workflow`, `kt:ai-agent` |
@@ -14,16 +15,21 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alan-turing` | `kt:turing-test` |
 | `kt:computing-machinery-and-intelligence` | `kt:turing-test` |
 | `kt:data-drift` | `kt:mlops` |
+| `kt:deep-learning` | `kt:diffusion-model` |
+| `kt:deep-unsupervised-learning-using-nonequilibrium-thermodynamics` | `kt:diffusion-model` |
 | `kt:devops` | `kt:mlops` |
 | `kt:distributed-training` | `kt:mlops` |
 | `kt:eliza` | `kt:turing-test` |
 | `kt:feature-store` | `kt:mlops` |
 | `kt:foundation-model` | `kt:large-language-model` |
+| `kt:generative-model` | `kt:diffusion-model` |
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
+| `kt:hugging-face-diffusers` | `kt:diffusion-model` |
 | `kt:in-context-learning` | `kt:large-language-model` |
 | `kt:john-searle` | `kt:chinese-room-argument` |
 | `kt:langgraph` | `kt:agentic-workflow` |
 | `kt:language-model` | `kt:large-language-model` |
+| `kt:latent-diffusion-model` | `kt:diffusion-model` |
 | `kt:llmops` | `kt:mlops` |
 | `kt:machine-learning` | `kt:mlops` |
 | `kt:minds-brains-and-programs` | `kt:chinese-room-argument` |
@@ -35,7 +41,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:react-prompting` | `kt:ai-agent` |
 | `kt:rlhf` | `kt:large-language-model` |
 | `kt:scaling-laws` | `kt:large-language-model` |
+| `kt:score-matching` | `kt:diffusion-model` |
 | `kt:self-refine` | `kt:agentic-workflow` |
 | `kt:strong-ai` | `kt:chinese-room-argument` |
 | `kt:symbol-grounding-problem` | `kt:chinese-room-argument` |
+| `kt:text-to-image-generation` | `kt:diffusion-model` |
 | `kt:transformer-architecture` | `kt:large-language-model` |
+| `kt:variational-autoencoder` | `kt:diffusion-model` |

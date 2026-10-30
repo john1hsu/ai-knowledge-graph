@@ -61,6 +61,28 @@
     ]
   },
   {
+    "id": "kt:diffusion-model",
+    "title": "Diffusion model",
+    "aliases": [
+      "denoising diffusion probabilistic model",
+      "DDPM",
+      "score-based generative model",
+      "diffusion probabilistic model"
+    ],
+    "type": "Architecture",
+    "domain": "computer-vision-and-multimodal",
+    "file": "articles/computer-vision-and-multimodal/diffusion-model.md",
+    "created": "2026-10-30",
+    "maturity": "established",
+    "source_urls": [
+      "https://proceedings.mlr.press/v37/sohl-dickstein15.html",
+      "https://arxiv.org/pdf/2006.11239v2",
+      "https://research.google/pubs/score-based-generative-modeling-through-stochastic-differential-equations/",
+      "https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html",
+      "https://huggingface.co/docs/diffusers/en/using-diffusers/schedulers"
+    ]
+  },
+  {
     "id": "kt:large-language-model",
     "title": "Large language model",
     "aliases": [
