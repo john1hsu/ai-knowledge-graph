@@ -56,10 +56,10 @@ In the textbook framing, an agent's behaviour is an *agent function* that maps t
 
 Earlier autonomous agents were usually trained with limited knowledge inside isolated environments. LLMs trained on web-scale data brought broad world knowledge to the problem, which set off a surge of research into LLM-based agents.[^s2] The survey by Wang et al. (first posted August 2023) proposes a unified architecture with four modules:[^s2]
 
-- **Profile**: the agent's role, usually written into the prompt.
-- **Memory**: a store of what the agent has perceived and experienced, used to guide later actions.
-- **Planning**: breaking tasks into subtasks, with or without feedback from the environment, humans or the model itself.
-- **Action**: turning decisions into concrete effects on the environment.
+- **Profile**: the agent's role, usually written into the prompt.[^s2]
+- **Memory**: a store of what the agent has perceived and experienced, used to guide later actions.[^s2]
+- **Planning**: breaking tasks into subtasks, with or without feedback from the environment, humans or the model itself.[^s2]
+- **Action**: turning decisions into concrete effects on the environment.[^s2]
 
 A key early technique was ReAct (Yao et al., ICLR 2023). ReAct prompts a model to interleave free-text reasoning with actions such as search-API calls or moves in a simulated environment. The reasoning steps help the model plan and recover from errors, and the observations ground it in external information.[^s3] With only one or two in-context examples, the authors report absolute success-rate gains of 34 and 10 points over imitation- and reinforcement-learning baselines on ALFWorld and WebShop. They also report less hallucination than chain-of-thought alone on HotpotQA and FEVER.[^s3]
 

@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "kt:ai-agent",
+    "title": "AI agent",
+    "aliases": [
+      "intelligent agent",
+      "autonomous agent",
+      "LLM-based agent",
+      "LLM agent"
+    ],
+    "type": "Concept",
+    "domain": "agents-and-tool-use",
+    "file": "articles/agents-and-tool-use/ai-agent.md",
+    "created": "2026-10-30",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://www.cs.umd.edu/~nau/cmsc421/chapter02.pdf",
+      "https://arxiv.org/html/2308.11432v7",
+      "https://iclr.cc/virtual/2023/poster/11003",
+      "https://www.anthropic.com/research/building-effective-agents"
+    ]
+  }
+]

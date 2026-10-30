@@ -1,1 +1,44 @@
-
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <http://purl.org/dc/terms/created> "2026-10-30" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <http://www.w3.org/2000/01/rdf-schema#label> "AI agent" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <http://www.w3.org/2004/02/skos/core#altLabel> "LLM agent" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <http://www.w3.org/2004/02/skos/core#altLabel> "LLM-based agent" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <http://www.w3.org/2004/02/skos/core#altLabel> "autonomous agent" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <http://www.w3.org/2004/02/skos/core#altLabel> "intelligent agent" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <http://www.w3.org/2004/02/skos/core#definition> "A system that perceives its environment and acts on it to achieve goals; in current usage, usually a large language model that decides its own sequence of steps and tool calls in a loop driven by feedback from the environment." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <http://www.w3.org/2004/02/skos/core#prefLabel> "AI agent" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/agent-memory> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "agents-and-tool-use" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/react-prompting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s1> <http://purl.org/dc/terms/publisher> "University of Maryland, Department of Computer Science" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s1> <http://purl.org/dc/terms/title> "Chapter 2: Intelligent Agents (CMSC 421 lecture slides, after Russell & Norvig, AIMA)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s1> <https://schema.org/url> "https://www.cs.umd.edu/~nau/cmsc421/chapter02.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s2> <http://purl.org/dc/terms/publisher> "Wang et al., arXiv 2308.11432 (authors' version)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s2> <http://purl.org/dc/terms/title> "A Survey on Large Language Model based Autonomous Agents" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s2> <https://schema.org/url> "https://arxiv.org/html/2308.11432v7" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s3> <http://purl.org/dc/terms/publisher> "ICLR 2023 (Yao et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s3> <http://purl.org/dc/terms/title> "ReAct: Synergizing Reasoning and Acting in Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s3> <https://schema.org/url> "https://iclr.cc/virtual/2023/poster/11003" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s4> <http://purl.org/dc/terms/publisher> "Anthropic Engineering (Erik S. and Barry Zhang)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s4> <http://purl.org/dc/terms/title> "Building effective agents" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s4> <https://schema.org/url> "https://www.anthropic.com/research/building-effective-agents" .

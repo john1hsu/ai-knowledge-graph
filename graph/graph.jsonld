@@ -8,5 +8,87 @@
     "schema": "https://schema.org/",
     "@base": "https://github.com/john1hsu/ai-knowledge-graph/id/"
   },
-  "@graph": []
+  "@graph": [
+    {
+      "@id": "kt:ai-agent",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "AI agent",
+      "skos:definition": "A system that perceives its environment and acts on it to achieve goals; in current usage, usually a large language model that decides its own sequence of steps and tool calls in a loop driven by feedback from the environment.",
+      "kto:domain": "agents-and-tool-use",
+      "dcterms:created": "2026-10-30",
+      "kto:maturity": "emerging",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chapter 2: Intelligent Agents (CMSC 421 lecture slides, after Russell & Norvig, AIMA)",
+          "dcterms:publisher": "University of Maryland, Department of Computer Science",
+          "schema:url": "https://www.cs.umd.edu/~nau/cmsc421/chapter02.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "A Survey on Large Language Model based Autonomous Agents",
+          "dcterms:publisher": "Wang et al., arXiv 2308.11432 (authors' version)",
+          "schema:url": "https://arxiv.org/html/2308.11432v7",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "dcterms:publisher": "ICLR 2023 (Yao et al.)",
+          "schema:url": "https://iclr.cc/virtual/2023/poster/11003",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Building effective agents",
+          "dcterms:publisher": "Anthropic Engineering (Erik S. and Barry Zhang)",
+          "schema:url": "https://www.anthropic.com/research/building-effective-agents",
+          "kto:sourceType": "lab-research"
+        }
+      ],
+      "kto:file": "articles/agents-and-tool-use/ai-agent.md",
+      "skos:altLabel": [
+        "intelligent agent",
+        "autonomous agent",
+        "LLM-based agent",
+        "LLM agent"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:artificial-intelligence"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:agentic-workflow"
+        },
+        {
+          "@id": "kt:multi-agent-systems"
+        },
+        {
+          "@id": "kt:agent-memory"
+        },
+        {
+          "@id": "kt:planning-in-llms"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:tool-use"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:react-prompting"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:agentic-workflow"
+        }
+      ]
+    }
+  ]
 }
