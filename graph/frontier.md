@@ -4,11 +4,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:agentic-workflow` | `kt:ai-agent`, `kt:ai-agent` |
+| `kt:large-language-model` | `kt:agentic-workflow`, `kt:ai-agent` |
+| `kt:multi-agent-systems` | `kt:agentic-workflow`, `kt:ai-agent` |
+| `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent` |
+| `kt:tool-use` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:agent-memory` | `kt:ai-agent` |
+| `kt:agentic-systems` | `kt:agentic-workflow` |
+| `kt:ai-evaluation` | `kt:agentic-workflow` |
 | `kt:artificial-intelligence` | `kt:ai-agent` |
-| `kt:large-language-model` | `kt:ai-agent` |
-| `kt:multi-agent-systems` | `kt:ai-agent` |
-| `kt:planning-in-llms` | `kt:ai-agent` |
+| `kt:langgraph` | `kt:agentic-workflow` |
 | `kt:react-prompting` | `kt:ai-agent` |
-| `kt:tool-use` | `kt:ai-agent` |
+| `kt:self-refine` | `kt:agentic-workflow` |

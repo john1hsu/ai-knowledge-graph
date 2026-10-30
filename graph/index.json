@@ -1,5 +1,26 @@
 [
   {
+    "id": "kt:agentic-workflow",
+    "title": "Agentic workflow",
+    "aliases": [
+      "LLM workflow",
+      "agentic design patterns",
+      "compound LLM workflow"
+    ],
+    "type": "Technique",
+    "domain": "agents-and-tool-use",
+    "file": "articles/agents-and-tool-use/agentic-workflow.md",
+    "created": "2026-10-30",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://www.anthropic.com/research/building-effective-agents",
+      "https://docs.langchain.com/oss/langgraph/workflows-agents",
+      "https://proceedings.neurips.cc/paper_files/paper/2023/hash/91edff07232fb1b55a505a9e9f6c0ff3-Abstract.html",
+      "https://proceedings.iclr.cc/paper_files/paper/2025/hash/5492ecbce4439401798dcd2c90be94cd-Abstract-Conference.html",
+      "https://www.deeplearning.ai/the-batch/check-out-our-course-on-how-to-build-ai-agents"
+    ]
+  },
+  {
     "id": "kt:ai-agent",
     "title": "AI agent",
     "aliases": [

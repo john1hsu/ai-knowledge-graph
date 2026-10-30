@@ -10,6 +10,92 @@
   },
   "@graph": [
     {
+      "@id": "kt:agentic-workflow",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Agentic workflow",
+      "skos:definition": "A way of building LLM applications in which several model calls and tool calls are orchestrated along code paths the developer defines in advance, such as chains, routers, parallel branches, orchestrator–worker splits and generate–critique loops, rather than leaving the overall control flow to the model.",
+      "kto:domain": "agents-and-tool-use",
+      "dcterms:created": "2026-10-30",
+      "kto:maturity": "emerging",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Building effective agents",
+          "dcterms:publisher": "Anthropic Engineering (Erik S. and Barry Zhang)",
+          "schema:url": "https://www.anthropic.com/research/building-effective-agents",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Workflows and agents",
+          "dcterms:publisher": "LangChain, LangGraph documentation",
+          "schema:url": "https://docs.langchain.com/oss/langgraph/workflows-agents",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "dcterms:publisher": "NeurIPS 2023 (Madaan et al.)",
+          "schema:url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/91edff07232fb1b55a505a9e9f6c0ff3-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "AFlow: Automating Agentic Workflow Generation",
+          "dcterms:publisher": "ICLR 2025 (Zhang et al.)",
+          "schema:url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/5492ecbce4439401798dcd2c90be94cd-Abstract-Conference.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Check Out Our Course on How to Build AI Agents",
+          "dcterms:publisher": "DeepLearning.AI, The Batch (Andrew Ng letter, 8 Oct 2025)",
+          "schema:url": "https://www.deeplearning.ai/the-batch/check-out-our-course-on-how-to-build-ai-agents",
+          "kto:sourceType": "news"
+        }
+      ],
+      "kto:file": "articles/agents-and-tool-use/agentic-workflow.md",
+      "skos:altLabel": [
+        "LLM workflow",
+        "agentic design patterns",
+        "compound LLM workflow"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:agentic-systems"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:self-refine"
+        },
+        {
+          "@id": "kt:multi-agent-systems"
+        },
+        {
+          "@id": "kt:planning-in-llms"
+        },
+        {
+          "@id": "kt:ai-evaluation"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:ai-agent"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:tool-use"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:langgraph"
+        }
+      ]
+    },
+    {
       "@id": "kt:ai-agent",
       "@type": "kto:Concept",
       "skos:prefLabel": "AI agent",

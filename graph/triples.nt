@@ -1,3 +1,27 @@
+<https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> <http://purl.org/dc/terms/created> "2026-10-30" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> <http://www.w3.org/2000/01/rdf-schema#label> "Agentic workflow" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> <http://www.w3.org/2004/02/skos/core#altLabel> "LLM workflow" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> <http://www.w3.org/2004/02/skos/core#altLabel> "agentic design patterns" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> <http://www.w3.org/2004/02/skos/core#altLabel> "compound LLM workflow" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/agentic-systems> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> <http://www.w3.org/2004/02/skos/core#definition> "A way of building LLM applications in which several model calls and tool calls are orchestrated along code paths the developer defines in advance, such as chains, routers, parallel branches, orchestrator–worker splits and generate–critique loops, rather than leaving the overall control flow to the model." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agentic workflow" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/self-refine> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "agents-and-tool-use" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <http://www.w3.org/2000/01/rdf-schema#label> "AI agent" .
@@ -22,6 +46,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "agents-and-tool-use" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/react-prompting> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s1> <http://purl.org/dc/terms/publisher> "Anthropic Engineering (Erik S. and Barry Zhang)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s1> <http://purl.org/dc/terms/title> "Building effective agents" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s1> <https://schema.org/url> "https://www.anthropic.com/research/building-effective-agents" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s2> <http://purl.org/dc/terms/publisher> "LangChain, LangGraph documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s2> <http://purl.org/dc/terms/title> "Workflows and agents" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s2> <https://schema.org/url> "https://docs.langchain.com/oss/langgraph/workflows-agents" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s3> <http://purl.org/dc/terms/publisher> "NeurIPS 2023 (Madaan et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s3> <http://purl.org/dc/terms/title> "Self-Refine: Iterative Refinement with Self-Feedback" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s3> <https://schema.org/url> "https://proceedings.neurips.cc/paper_files/paper/2023/hash/91edff07232fb1b55a505a9e9f6c0ff3-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s4> <http://purl.org/dc/terms/publisher> "ICLR 2025 (Zhang et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s4> <http://purl.org/dc/terms/title> "AFlow: Automating Agentic Workflow Generation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s4> <https://schema.org/url> "https://proceedings.iclr.cc/paper_files/paper/2025/hash/5492ecbce4439401798dcd2c90be94cd-Abstract-Conference.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s5> <http://purl.org/dc/terms/publisher> "DeepLearning.AI, The Batch (Andrew Ng letter, 8 Oct 2025)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s5> <http://purl.org/dc/terms/title> "Check Out Our Course on How to Build AI Agents" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s5> <https://schema.org/url> "https://www.deeplearning.ai/the-batch/check-out-our-course-on-how-to-build-ai-agents" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s1> <http://purl.org/dc/terms/publisher> "University of Maryland, Department of Computer Science" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s1> <http://purl.org/dc/terms/title> "Chapter 2: Intelligent Agents (CMSC 421 lecture slides, after Russell & Norvig, AIMA)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
