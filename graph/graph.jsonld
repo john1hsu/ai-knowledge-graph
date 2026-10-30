@@ -177,6 +177,80 @@
       ]
     },
     {
+      "@id": "kt:chinese-room-argument",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Chinese room argument",
+      "skos:definition": "A thought experiment published by philosopher John Searle in 1980 arguing that running a program, however convincing its outputs, is not by itself sufficient for understanding, because symbol manipulation is purely syntactic while minds have semantic content.",
+      "kto:domain": "ai-history",
+      "dcterms:created": "2026-10-30",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Minds, brains, and programs",
+          "dcterms:publisher": "J. R. Searle, The Behavioral and Brain Sciences 3 (1980) 417–457 (copy hosted for Yale CPSC 458)",
+          "schema:url": "https://zoo.cs.yale.edu/classes/cs458/lectures/minds-brains-and-programs.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Chinese Room Argument (Summer 2006 edition)",
+          "dcterms:publisher": "Stanford Encyclopedia of Philosophy (David Cole)",
+          "schema:url": "https://plato.stanford.edu/archives/sum2006/entries/chinese-room/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Chinese Room Argument",
+          "dcterms:publisher": "Internet Encyclopedia of Philosophy (Larry Hauser)",
+          "schema:url": "https://iep.utm.edu/chinese-room-argument/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data",
+          "dcterms:publisher": "Bender and Koller, Proceedings of ACL 2020, pp. 5185–5198",
+          "schema:url": "https://aclanthology.org/2020.acl-main.463.pdf",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/ai-history/chinese-room-argument.md",
+      "skos:altLabel": [
+        "Chinese room",
+        "Searle's Chinese room"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:philosophy-of-artificial-intelligence"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:turing-test"
+        },
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:symbol-grounding-problem"
+        },
+        {
+          "@id": "kt:strong-ai"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:john-searle"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:minds-brains-and-programs"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:turing-test"
+        }
+      ]
+    },
+    {
       "@id": "kt:turing-test",
       "@type": "kto:Concept",
       "skos:prefLabel": "Turing test",

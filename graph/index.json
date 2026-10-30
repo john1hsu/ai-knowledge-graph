@@ -42,6 +42,25 @@
     ]
   },
   {
+    "id": "kt:chinese-room-argument",
+    "title": "Chinese room argument",
+    "aliases": [
+      "Chinese room",
+      "Searle's Chinese room"
+    ],
+    "type": "Concept",
+    "domain": "ai-history",
+    "file": "articles/ai-history/chinese-room-argument.md",
+    "created": "2026-10-30",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://zoo.cs.yale.edu/classes/cs458/lectures/minds-brains-and-programs.pdf",
+      "https://plato.stanford.edu/archives/sum2006/entries/chinese-room/",
+      "https://iep.utm.edu/chinese-room-argument/",
+      "https://aclanthology.org/2020.acl-main.463.pdf"
+    ]
+  },
+  {
     "id": "kt:large-language-model",
     "title": "Large language model",
     "aliases": [

@@ -6,7 +6,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:ai-evaluation` | `kt:agentic-workflow`, `kt:turing-test`, `kt:mlops` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:turing-test` |
-| `kt:chinese-room-argument` | `kt:turing-test`, `kt:turing-test` |
 | `kt:multi-agent-systems` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:tool-use` | `kt:agentic-workflow`, `kt:ai-agent` |
@@ -22,16 +21,21 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:foundation-model` | `kt:large-language-model` |
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
 | `kt:in-context-learning` | `kt:large-language-model` |
+| `kt:john-searle` | `kt:chinese-room-argument` |
 | `kt:langgraph` | `kt:agentic-workflow` |
 | `kt:language-model` | `kt:large-language-model` |
 | `kt:llmops` | `kt:mlops` |
 | `kt:machine-learning` | `kt:mlops` |
+| `kt:minds-brains-and-programs` | `kt:chinese-room-argument` |
 | `kt:mlflow` | `kt:mlops` |
 | `kt:model-registry` | `kt:mlops` |
 | `kt:model-serving` | `kt:mlops` |
+| `kt:philosophy-of-artificial-intelligence` | `kt:chinese-room-argument` |
 | `kt:pretraining` | `kt:large-language-model` |
 | `kt:react-prompting` | `kt:ai-agent` |
 | `kt:rlhf` | `kt:large-language-model` |
 | `kt:scaling-laws` | `kt:large-language-model` |
 | `kt:self-refine` | `kt:agentic-workflow` |
+| `kt:strong-ai` | `kt:chinese-room-argument` |
+| `kt:symbol-grounding-problem` | `kt:chinese-room-argument` |
 | `kt:transformer-architecture` | `kt:large-language-model` |
