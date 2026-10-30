@@ -1,0 +1,22 @@
+# Domains the hourly run draws from. Edit freely: add domains, remove ones you
+# don't want, or add seed topics to steer what gets written next. The run picks
+# the least-covered domain for breadth runs and works the frontier for depth runs.
+# Seeds are suggestions, not a queue: skip any that already exist.
+# Foundations through frontier, with practitioner depth on LLMs, agents and governance.
+
+domains:
+  ml-foundations: [supervised-learning, unsupervised-learning, bias-variance-tradeoff, overfitting, regularization, gradient-descent, cross-validation, loss-function, decision-tree, support-vector-machine, ensemble-methods]
+  deep-learning: [artificial-neural-network, backpropagation, activation-function, convolutional-neural-network, recurrent-neural-network, lstm, batch-normalization, dropout, residual-connection, adam-optimizer]
+  transformers-and-llms: [transformer-architecture, self-attention, attention-is-all-you-need, tokenization, positional-encoding, large-language-model, scaling-laws, mixture-of-experts, context-window, kv-cache, emergent-abilities, in-context-learning]
+  training-and-adaptation: [pretraining, fine-tuning, instruction-tuning, rlhf, direct-preference-optimization, constitutional-ai, lora, parameter-efficient-fine-tuning, knowledge-distillation, synthetic-data]
+  inference-and-optimization: [quantization, speculative-decoding, flash-attention, model-pruning, batching-and-paged-attention, tensorrt-llm, triton-inference-server, sampling-temperature-and-top-p]
+  retrieval-and-knowledge: [retrieval-augmented-generation, embeddings, vector-database, semantic-search, knowledge-graph, graphrag, chunking-strategies, reranking, hybrid-search]
+  agents-and-tool-use: [ai-agent, tool-use, react-prompting, model-context-protocol, multi-agent-systems, agentic-workflow, computer-use-agents, planning-in-llms, agent-memory]
+  prompting-and-reasoning: [prompt-engineering, chain-of-thought, few-shot-prompting, test-time-compute, reasoning-models, self-consistency, structured-output]
+  evaluation-and-benchmarks: [ai-evaluation, mmlu, swe-bench, perplexity, llm-as-a-judge, benchmark-contamination, human-evaluation, red-teaming]
+  safety-alignment-and-security: [ai-alignment, prompt-injection, jailbreak, hallucination, reward-hacking, mechanistic-interpretability, responsible-scaling-policy, data-poisoning, model-extraction]
+  governance-and-policy: [nist-ai-risk-management-framework, eu-ai-act, iso-iec-42001, omb-ai-memoranda, executive-orders-on-ai, ai-safety-institutes, model-cards, algorithmic-bias-and-fairness]
+  computer-vision-and-multimodal: [image-classification, object-detection, diffusion-model, generative-adversarial-network, vision-transformer, clip, vision-language-model, speech-recognition]
+  reinforcement-learning: [markov-decision-process, q-learning, policy-gradient, proximal-policy-optimization, deep-q-network, alphago, alphazero, exploration-exploitation]
+  ai-infrastructure-and-mlops: [gpu-computing, cuda, tensor-cores, tpu, nvidia-nemo, mlops, llmops, distributed-training, model-serving, ai-in-the-cloud]
+  ai-history: [turing-test, dartmouth-workshop, symbolic-ai, expert-systems, ai-winter, perceptron, imagenet-and-alexnet, deep-blue, deep-learning-revolution]

@@ -1,0 +1,95 @@
+@prefix kt:   <https://github.com/john1hsu/ai-knowledge-graph/id/> .
+@prefix kto:  <https://github.com/john1hsu/ai-knowledge-graph/ontology#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+
+# ---------------------------------------------------------------------------
+# AI Knowledge Graph ontology
+# Every article is a node. Its class comes from frontmatter `type`; its edges
+# come from `broader` (skos:broader), `related` (skos:related) and `relations`
+# (the typed predicates below). Provenance uses PROV-O.
+# Add a class or property here BEFORE using it in an article. Reuse first.
+# ---------------------------------------------------------------------------
+
+kto: a owl:Ontology ;
+    rdfs:label "AI Knowledge Graph ontology" ;
+    owl:versionInfo "1.0.0" .
+
+# ---- Classes ---------------------------------------------------------------
+kto:Entity       a owl:Class ; rdfs:label "Entity" .
+kto:Concept      a owl:Class ; rdfs:subClassOf kto:Entity , skos:Concept ;
+    rdfs:comment "An AI idea or phenomenon: overfitting, emergent abilities, hallucination, scaling laws." .
+kto:Architecture a owl:Class ; rdfs:subClassOf kto:Concept ;
+    rdfs:comment "A model architecture or component: transformer, attention, mixture of experts, CNN, diffusion model." .
+kto:Algorithm    a owl:Class ; rdfs:subClassOf kto:Concept ;
+    rdfs:comment "A learning or inference algorithm: backpropagation, gradient descent, PPO, beam search, k-means." .
+kto:Technique    a owl:Class ; rdfs:subClassOf kto:Concept ;
+    rdfs:comment "A training, adaptation or prompting method: LoRA, RLHF, quantization, chain-of-thought, RAG." .
+kto:Paradigm     a owl:Class ; rdfs:subClassOf kto:Concept ;
+    rdfs:comment "A learning paradigm or approach: supervised learning, reinforcement learning, symbolic AI, self-supervised learning." .
+kto:Model        a owl:Class ; rdfs:subClassOf kto:Entity , schema:SoftwareApplication ;
+    rdfs:comment "A specific named model or model family: BERT, GPT-3, AlphaGo, ResNet, Llama." .
+kto:Dataset      a owl:Class ; rdfs:subClassOf kto:Entity , schema:Dataset .
+kto:Benchmark    a owl:Class ; rdfs:subClassOf kto:Entity ;
+    rdfs:comment "An evaluation benchmark or metric: ImageNet top-1, MMLU, SWE-bench, BLEU, perplexity." .
+kto:Tool         a owl:Class ; rdfs:subClassOf kto:Entity , schema:SoftwareApplication ;
+    rdfs:comment "A framework, library, protocol or platform: PyTorch, Hugging Face Transformers, CUDA, NeMo, Triton, MCP." .
+kto:Hardware     a owl:Class ; rdfs:subClassOf kto:Entity ;
+    rdfs:comment "Compute hardware: GPU, TPU, tensor cores, HBM, NVLink." .
+kto:Risk         a owl:Class ; rdfs:subClassOf kto:Concept ;
+    rdfs:comment "A safety, security or societal risk: prompt injection, reward hacking, bias, data poisoning." .
+kto:Policy       a owl:Class ; rdfs:subClassOf kto:Entity , schema:Legislation ;
+    rdfs:comment "A law, regulation, framework or standard: EU AI Act, NIST AI RMF, ISO/IEC 42001, OMB AI memos." .
+kto:Organization a owl:Class ; rdfs:subClassOf kto:Entity , schema:Organization ;
+    rdfs:comment "A lab, company, agency or standards body." .
+kto:Person       a owl:Class ; rdfs:subClassOf kto:Entity , schema:Person .
+kto:Work         a owl:Class ; rdfs:subClassOf kto:Entity , schema:ScholarlyArticle ;
+    rdfs:comment "A landmark paper or book: 'Attention Is All You Need', 'Computing Machinery and Intelligence'." .
+kto:Event        a owl:Class ; rdfs:subClassOf kto:Entity , schema:Event ;
+    rdfs:comment "A dated milestone: Dartmouth workshop, AI winters, AlexNet's ImageNet win, AlphaGo vs Lee Sedol." .
+kto:Application  a owl:Class ; rdfs:subClassOf kto:Concept ;
+    rdfs:comment "An application area or task: machine translation, code generation, medical imaging, autonomous driving." .
+kto:Field        a owl:Class ; rdfs:subClassOf kto:Concept ;
+    rdfs:comment "A subfield: NLP, computer vision, robotics, interpretability, AI alignment." .
+kto:Source       a owl:Class ; rdfs:subClassOf prov:Entity , schema:CreativeWork .
+
+# ---- Hierarchy (SKOS) ------------------------------------------------------
+# skos:broader / skos:narrower / skos:related are used directly.
+
+# ---- Typed relations -------------------------------------------------------
+kto:partOf        a owl:ObjectProperty , owl:TransitiveProperty ; owl:inverseOf kto:hasPart ; rdfs:label "part of / component of" .
+kto:hasPart       a owl:ObjectProperty ; rdfs:label "has part" .
+kto:instanceOf    a owl:ObjectProperty ; rdfs:label "instance of" .
+kto:createdBy     a owl:ObjectProperty ; rdfs:label "introduced / developed by (person or org)" .
+kto:introducedIn  a owl:ObjectProperty ; rdfs:range kto:Work ; rdfs:label "introduced in (paper)" .
+kto:basedOn       a owl:ObjectProperty ; rdfs:label "based on / built on" .
+kto:extends       a owl:ObjectProperty ; rdfs:label "extends / improves on" .
+kto:supersededBy  a owl:ObjectProperty ; owl:inverseOf kto:supersedes ; rdfs:label "superseded by" .
+kto:supersedes    a owl:ObjectProperty ; rdfs:label "supersedes" .
+kto:trainedWith   a owl:ObjectProperty ; rdfs:label "trained with (technique or dataset)" .
+kto:evaluatedOn   a owl:ObjectProperty ; rdfs:range kto:Benchmark ; rdfs:label "evaluated on" .
+kto:implementedIn a owl:ObjectProperty ; rdfs:range kto:Tool ; rdfs:label "implemented in / supported by tool" .
+kto:runsOn        a owl:ObjectProperty ; rdfs:range kto:Hardware ; rdfs:label "runs on / accelerated by" .
+kto:enables       a owl:ObjectProperty ; rdfs:label "enables" .
+kto:dependsOn     a owl:ObjectProperty ; rdfs:label "depends on / requires" .
+kto:usedIn        a owl:ObjectProperty ; rdfs:label "used in (application)" .
+kto:mitigates     a owl:ObjectProperty ; rdfs:label "mitigates (risk)" .
+kto:causes        a owl:ObjectProperty ; rdfs:label "causes / gives rise to" .
+kto:exploits      a owl:ObjectProperty ; rdfs:label "exploits (vulnerability)" .
+kto:regulatedBy   a owl:ObjectProperty ; rdfs:range kto:Policy ; rdfs:label "regulated / governed by" .
+kto:alternativeTo a owl:ObjectProperty , owl:SymmetricProperty ; rdfs:label "alternative to" .
+kto:contrastsWith a owl:ObjectProperty , owl:SymmetricProperty ; rdfs:label "contrasts with / commonly confused with" .
+kto:influencedBy  a owl:ObjectProperty ; rdfs:label "influenced by" .
+kto:studiedIn     a owl:ObjectProperty ; rdfs:range kto:Field ; rdfs:label "studied in" .
+kto:precededBy    a owl:ObjectProperty ; owl:inverseOf kto:followedBy ; rdfs:label "preceded by" .
+kto:followedBy    a owl:ObjectProperty ; rdfs:label "followed by" .
+
+# ---- Datatype properties written by scripts/kg.py --------------------------
+kto:maturity      a owl:DatatypeProperty ; rdfs:label "maturity: historical, foundational, established, emerging, frontier" .
+kto:domain        a owl:DatatypeProperty ; rdfs:label "domain" .
+kto:sourceType    a owl:DatatypeProperty ; rdfs:label "source type" .
