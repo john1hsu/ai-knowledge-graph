@@ -6,25 +6,27 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:ai-evaluation` | `kt:agentic-workflow`, `kt:turing-test`, `kt:mlops` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:turing-test` |
-| `kt:generative-adversarial-network` | `kt:diffusion-model`, `kt:diffusion-model` |
+| `kt:deep-learning` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
+| `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:multi-agent-systems` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:tool-use` | `kt:agentic-workflow`, `kt:ai-agent` |
+| `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:agent-memory` | `kt:ai-agent` |
 | `kt:agentic-systems` | `kt:agentic-workflow` |
 | `kt:alan-turing` | `kt:turing-test` |
 | `kt:computing-machinery-and-intelligence` | `kt:turing-test` |
 | `kt:data-drift` | `kt:mlops` |
-| `kt:deep-learning` | `kt:diffusion-model` |
 | `kt:deep-unsupervised-learning-using-nonequilibrium-thermodynamics` | `kt:diffusion-model` |
 | `kt:devops` | `kt:mlops` |
 | `kt:distributed-training` | `kt:mlops` |
 | `kt:eliza` | `kt:turing-test` |
 | `kt:feature-store` | `kt:mlops` |
 | `kt:foundation-model` | `kt:large-language-model` |
-| `kt:generative-model` | `kt:diffusion-model` |
+| `kt:generative-adversarial-nets` | `kt:generative-adversarial-network` |
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
 | `kt:hugging-face-diffusers` | `kt:diffusion-model` |
+| `kt:ian-goodfellow` | `kt:generative-adversarial-network` |
 | `kt:in-context-learning` | `kt:large-language-model` |
 | `kt:john-searle` | `kt:chinese-room-argument` |
 | `kt:langgraph` | `kt:agentic-workflow` |
@@ -44,7 +46,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:score-matching` | `kt:diffusion-model` |
 | `kt:self-refine` | `kt:agentic-workflow` |
 | `kt:strong-ai` | `kt:chinese-room-argument` |
+| `kt:stylegan` | `kt:generative-adversarial-network` |
 | `kt:symbol-grounding-problem` | `kt:chinese-room-argument` |
 | `kt:text-to-image-generation` | `kt:diffusion-model` |
 | `kt:transformer-architecture` | `kt:large-language-model` |
-| `kt:variational-autoencoder` | `kt:diffusion-model` |
+| `kt:wasserstein-gan` | `kt:generative-adversarial-network` |

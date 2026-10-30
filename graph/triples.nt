@@ -93,6 +93,29 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/diffusion-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-diffusers> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/diffusion-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-unsupervised-learning-using-nonequilibrium-thermodynamics> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/diffusion-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://purl.org/dc/terms/created> "2026-10-30" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://www.w3.org/2000/01/rdf-schema#label> "Generative adversarial network" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://www.w3.org/2004/02/skos/core#altLabel> "GAN" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://www.w3.org/2004/02/skos/core#altLabel> "adversarial generative model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://www.w3.org/2004/02/skos/core#altLabel> "generative adversarial nets" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/generative-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://www.w3.org/2004/02/skos/core#definition> "A generative modelling framework in which two neural networks are trained against each other: a generator that maps random noise to synthetic samples, and a discriminator that tries to tell those samples apart from real training data, so that the generator gradually learns to produce data the discriminator cannot distinguish." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://www.w3.org/2004/02/skos/core#prefLabel> "Generative adversarial network" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/stylegan> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/wasserstein-gan> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/diffusion-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/variational-autoencoder> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/ian-goodfellow> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "computer-vision-and-multimodal" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-nets> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <http://www.w3.org/2000/01/rdf-schema#label> "Large language model" .
@@ -231,6 +254,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/diffusion-model/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/diffusion-model/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/diffusion-model/s5> <https://schema.org/url> "https://huggingface.co/docs/diffusers/en/using-diffusers/schedulers" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 2014, Advances in Neural Information Processing Systems 27 (Goodfellow et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s1> <http://purl.org/dc/terms/title> "Generative Adversarial Nets" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s1> <https://schema.org/url> "https://proceedings.neurips.cc/paper/5423-generative-adversarial-nets" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s2> <http://purl.org/dc/terms/publisher> "arXiv 1511.06434 (Radford, Metz and Chintala)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s2> <http://purl.org/dc/terms/title> "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s2> <https://schema.org/url> "https://arxiv.org/abs/1511.06434" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s3> <http://purl.org/dc/terms/publisher> "Proceedings of ICML 2017, PMLR 70:214–223 (Arjovsky, Chintala and Bottou)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s3> <http://purl.org/dc/terms/title> "Wasserstein Generative Adversarial Networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s3> <https://schema.org/url> "https://proceedings.mlr.press/v70/arjovsky17a.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s4> <http://purl.org/dc/terms/publisher> "CVPR 2019, pp. 4401–4410 (Karras, Laine and Aila)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s4> <http://purl.org/dc/terms/title> "A Style-Based Generator Architecture for Generative Adversarial Networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s4> <https://schema.org/url> "https://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s5> <http://purl.org/dc/terms/publisher> "NeurIPS 2021, Advances in Neural Information Processing Systems 34 (Dhariwal and Nichol)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s5> <http://purl.org/dc/terms/title> "Diffusion Models Beat GANs on Image Synthesis" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s5> <https://schema.org/url> "https://papers.nips.cc/paper/2021/hash/49ad23d1ec9fa4bd8d77d02681df5cfa-Abstract.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s1> <http://purl.org/dc/terms/publisher> "D. Jurafsky and J. H. Martin, Stanford University (draft of August 2026)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s1> <http://purl.org/dc/terms/title> "Speech and Language Processing (3rd ed. draft), Chapter 7: Transformers and Pretraining" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

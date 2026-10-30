@@ -506,6 +506,89 @@
       ]
     },
     {
+      "@id": "kt:generative-adversarial-network",
+      "@type": "kto:Architecture",
+      "skos:prefLabel": "Generative adversarial network",
+      "skos:definition": "A generative modelling framework in which two neural networks are trained against each other: a generator that maps random noise to synthetic samples, and a discriminator that tries to tell those samples apart from real training data, so that the generator gradually learns to produce data the discriminator cannot distinguish.",
+      "kto:domain": "computer-vision-and-multimodal",
+      "dcterms:created": "2026-10-30",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Generative Adversarial Nets",
+          "dcterms:publisher": "NeurIPS 2014, Advances in Neural Information Processing Systems 27 (Goodfellow et al.)",
+          "schema:url": "https://proceedings.neurips.cc/paper/5423-generative-adversarial-nets",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks",
+          "dcterms:publisher": "arXiv 1511.06434 (Radford, Metz and Chintala)",
+          "schema:url": "https://arxiv.org/abs/1511.06434",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Wasserstein Generative Adversarial Networks",
+          "dcterms:publisher": "Proceedings of ICML 2017, PMLR 70:214–223 (Arjovsky, Chintala and Bottou)",
+          "schema:url": "https://proceedings.mlr.press/v70/arjovsky17a.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "A Style-Based Generator Architecture for Generative Adversarial Networks",
+          "dcterms:publisher": "CVPR 2019, pp. 4401–4410 (Karras, Laine and Aila)",
+          "schema:url": "https://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Diffusion Models Beat GANs on Image Synthesis",
+          "dcterms:publisher": "NeurIPS 2021, Advances in Neural Information Processing Systems 34 (Dhariwal and Nichol)",
+          "schema:url": "https://papers.nips.cc/paper/2021/hash/49ad23d1ec9fa4bd8d77d02681df5cfa-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/computer-vision-and-multimodal/generative-adversarial-network.md",
+      "skos:altLabel": [
+        "GAN",
+        "generative adversarial nets",
+        "adversarial generative model"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:generative-model"
+        },
+        {
+          "@id": "kt:deep-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:wasserstein-gan"
+        },
+        {
+          "@id": "kt:stylegan"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:generative-adversarial-nets"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:ian-goodfellow"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:diffusion-model"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:variational-autoencoder"
+        }
+      ]
+    },
+    {
       "@id": "kt:large-language-model",
       "@type": "kto:Concept",
       "skos:prefLabel": "Large language model",

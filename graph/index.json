@@ -83,6 +83,27 @@
     ]
   },
   {
+    "id": "kt:generative-adversarial-network",
+    "title": "Generative adversarial network",
+    "aliases": [
+      "GAN",
+      "generative adversarial nets",
+      "adversarial generative model"
+    ],
+    "type": "Architecture",
+    "domain": "computer-vision-and-multimodal",
+    "file": "articles/computer-vision-and-multimodal/generative-adversarial-network.md",
+    "created": "2026-10-30",
+    "maturity": "established",
+    "source_urls": [
+      "https://proceedings.neurips.cc/paper/5423-generative-adversarial-nets",
+      "https://arxiv.org/abs/1511.06434",
+      "https://proceedings.mlr.press/v70/arjovsky17a.html",
+      "https://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html",
+      "https://papers.nips.cc/paper/2021/hash/49ad23d1ec9fa4bd8d77d02681df5cfa-Abstract.html"
+    ]
+  },
+  {
     "id": "kt:large-language-model",
     "title": "Large language model",
     "aliases": [
