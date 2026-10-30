@@ -4,7 +4,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:ai-evaluation` | `kt:agentic-workflow`, `kt:turing-test` |
+| `kt:ai-evaluation` | `kt:agentic-workflow`, `kt:turing-test`, `kt:mlops` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:turing-test` |
 | `kt:chinese-room-argument` | `kt:turing-test`, `kt:turing-test` |
 | `kt:multi-agent-systems` | `kt:agentic-workflow`, `kt:ai-agent` |
@@ -14,11 +14,21 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:agentic-systems` | `kt:agentic-workflow` |
 | `kt:alan-turing` | `kt:turing-test` |
 | `kt:computing-machinery-and-intelligence` | `kt:turing-test` |
+| `kt:data-drift` | `kt:mlops` |
+| `kt:devops` | `kt:mlops` |
+| `kt:distributed-training` | `kt:mlops` |
 | `kt:eliza` | `kt:turing-test` |
+| `kt:feature-store` | `kt:mlops` |
 | `kt:foundation-model` | `kt:large-language-model` |
+| `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
 | `kt:in-context-learning` | `kt:large-language-model` |
 | `kt:langgraph` | `kt:agentic-workflow` |
 | `kt:language-model` | `kt:large-language-model` |
+| `kt:llmops` | `kt:mlops` |
+| `kt:machine-learning` | `kt:mlops` |
+| `kt:mlflow` | `kt:mlops` |
+| `kt:model-registry` | `kt:mlops` |
+| `kt:model-serving` | `kt:mlops` |
 | `kt:pretraining` | `kt:large-language-model` |
 | `kt:react-prompting` | `kt:ai-agent` |
 | `kt:rlhf` | `kt:large-language-model` |

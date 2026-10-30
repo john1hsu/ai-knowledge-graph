@@ -251,6 +251,97 @@
       ]
     },
     {
+      "@id": "kt:mlops",
+      "@type": "kto:Paradigm",
+      "skos:prefLabel": "MLOps",
+      "skos:definition": "An engineering paradigm and culture that applies DevOps and data-engineering practice to machine learning, automating and monitoring the full lifecycle of ML products, from data and training pipelines through deployment, serving and continuous retraining.",
+      "kto:domain": "ai-infrastructure-and-mlops",
+      "dcterms:created": "2026-10-30",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Hidden Technical Debt in Machine Learning Systems",
+          "dcterms:publisher": "NeurIPS 2015 (Sculley et al., Google)",
+          "schema:url": "https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Machine Learning Operations (MLOps): Overview, Definition, and Architecture",
+          "dcterms:publisher": "IEEE Access vol. 11, 2023 (Kreuzberger, Kühl, Hirschl), University of Bayreuth repository",
+          "schema:url": "https://epub.uni-bayreuth.de/7577/1/Machine_Learning_Operations_MLOps_Overview_Definition_and_Architecture.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "MLOps: Continuous delivery and automation pipelines in machine learning",
+          "dcterms:publisher": "Google Cloud Architecture Center",
+          "schema:url": "https://docs.cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction",
+          "dcterms:publisher": "IEEE Big Data 2017 (Breck et al.), Google Research",
+          "schema:url": "https://research.google/pubs/pub46555/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "MLflow documentation: traditional ML",
+          "dcterms:publisher": "MLflow Project (LF Projects)",
+          "schema:url": "https://mlflow.org/docs/latest/ml/",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/ai-infrastructure-and-mlops/mlops.md",
+      "skos:altLabel": [
+        "machine learning operations",
+        "ML operations"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:devops"
+        },
+        {
+          "@id": "kt:machine-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:llmops"
+        },
+        {
+          "@id": "kt:model-serving"
+        },
+        {
+          "@id": "kt:distributed-training"
+        },
+        {
+          "@id": "kt:ai-evaluation"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:hidden-technical-debt-in-machine-learning-systems"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:feature-store"
+        },
+        {
+          "@id": "kt:model-registry"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:data-drift"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:mlflow"
+        }
+      ]
+    },
+    {
       "@id": "kt:large-language-model",
       "@type": "kto:Concept",
       "skos:prefLabel": "Large language model",

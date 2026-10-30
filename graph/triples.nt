@@ -69,6 +69,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <http://purl.org/dc/terms/created> "2026-10-30" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Paradigm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <http://www.w3.org/2000/01/rdf-schema#label> "MLOps" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <http://www.w3.org/2004/02/skos/core#altLabel> "ML operations" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <http://www.w3.org/2004/02/skos/core#altLabel> "machine learning operations" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/devops> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <http://www.w3.org/2004/02/skos/core#definition> "An engineering paradigm and culture that applies DevOps and data-engineering practice to machine learning, automating and monitoring the full lifecycle of ML products, from data and training pipelines through deployment, serving and continuous retraining." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <http://www.w3.org/2004/02/skos/core#prefLabel> "MLOps" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/llmops> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-infrastructure-and-mlops" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/feature-store> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/model-registry> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/mlflow> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/hidden-technical-debt-in-machine-learning-systems> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <https://github.com/john1hsu/ai-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/ai-knowledge-graph/id/data-drift> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s1> <http://purl.org/dc/terms/publisher> "Anthropic Engineering (Erik S. and Barry Zhang)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s1> <http://purl.org/dc/terms/title> "Building effective agents" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -139,6 +164,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s5> <https://schema.org/url> "https://arxiv.org/abs/2108.07258" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 2015 (Sculley et al., Google)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s1> <http://purl.org/dc/terms/title> "Hidden Technical Debt in Machine Learning Systems" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s1> <https://schema.org/url> "https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s2> <http://purl.org/dc/terms/publisher> "IEEE Access vol. 11, 2023 (Kreuzberger, Kühl, Hirschl), University of Bayreuth repository" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s2> <http://purl.org/dc/terms/title> "Machine Learning Operations (MLOps): Overview, Definition, and Architecture" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s2> <https://schema.org/url> "https://epub.uni-bayreuth.de/7577/1/Machine_Learning_Operations_MLOps_Overview_Definition_and_Architecture.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s3> <http://purl.org/dc/terms/publisher> "Google Cloud Architecture Center" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s3> <http://purl.org/dc/terms/title> "MLOps: Continuous delivery and automation pipelines in machine learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s3> <https://schema.org/url> "https://docs.cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s4> <http://purl.org/dc/terms/publisher> "IEEE Big Data 2017 (Breck et al.), Google Research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s4> <http://purl.org/dc/terms/title> "The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s4> <https://schema.org/url> "https://research.google/pubs/pub46555/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s5> <http://purl.org/dc/terms/publisher> "MLflow Project (LF Projects)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s5> <http://purl.org/dc/terms/title> "MLflow documentation: traditional ML" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s5> <https://schema.org/url> "https://mlflow.org/docs/latest/ml/" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s1> <http://purl.org/dc/terms/publisher> "A. M. Turing, Mind 59 (236), 1950 (copy hosted for MIT CSAIL course 6.803)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s1> <http://purl.org/dc/terms/title> "Computing Machinery and Intelligence" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
