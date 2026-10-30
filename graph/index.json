@@ -40,5 +40,24 @@
       "https://iclr.cc/virtual/2023/poster/11003",
       "https://www.anthropic.com/research/building-effective-agents"
     ]
+  },
+  {
+    "id": "kt:turing-test",
+    "title": "Turing test",
+    "aliases": [
+      "imitation game",
+      "Turing's imitation game"
+    ],
+    "type": "Concept",
+    "domain": "ai-history",
+    "file": "articles/ai-history/turing-test.md",
+    "created": "2026-10-30",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://courses.csail.mit.edu/6.803/pdf/turing.pdf",
+      "https://plato.stanford.edu/archives/sum2006/entries/turing-test/",
+      "https://www.britannica.com/topic/Turing-test",
+      "https://arxiv.org/abs/2503.23674v1"
+    ]
   }
 ]

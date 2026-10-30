@@ -91,3 +91,44 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s4> <https://schema.org/url> "https://www.anthropic.com/research/building-effective-agents" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s1> <http://purl.org/dc/terms/publisher> "A. M. Turing, Mind 59 (236), 1950 (copy hosted for MIT CSAIL course 6.803)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s1> <http://purl.org/dc/terms/title> "Computing Machinery and Intelligence" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s1> <https://schema.org/url> "https://courses.csail.mit.edu/6.803/pdf/turing.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s2> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s2> <http://purl.org/dc/terms/title> "The Turing Test (Summer 2006 edition)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s2> <https://schema.org/url> "https://plato.stanford.edu/archives/sum2006/entries/turing-test/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s3> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s3> <http://purl.org/dc/terms/title> "Turing test" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s3> <https://schema.org/url> "https://www.britannica.com/topic/Turing-test" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s4> <http://purl.org/dc/terms/publisher> "Jones and Bergen, UC San Diego, arXiv 2503.23674 (authors' version)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s4> <http://purl.org/dc/terms/title> "Large Language Models Pass the Turing Test" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s4> <https://schema.org/url> "https://arxiv.org/abs/2503.23674v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <http://purl.org/dc/terms/created> "2026-10-30" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <http://www.w3.org/2000/01/rdf-schema#label> "Turing test" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <http://www.w3.org/2004/02/skos/core#altLabel> "Turing's imitation game" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <http://www.w3.org/2004/02/skos/core#altLabel> "imitation game" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <http://www.w3.org/2004/02/skos/core#definition> "A behavioural test proposed by Alan Turing in 1950 in which a human interrogator converses by text with a hidden human and a hidden machine and tries to tell which is which; the machine does well if it is mistaken for the human about as often as not." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <http://www.w3.org/2004/02/skos/core#prefLabel> "Turing test" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/chinese-room-argument> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/eliza> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/chinese-room-argument> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/alan-turing> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-history" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/computing-machinery-and-intelligence> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .

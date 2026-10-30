@@ -4,14 +4,18 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:large-language-model` | `kt:agentic-workflow`, `kt:ai-agent` |
+| `kt:large-language-model` | `kt:agentic-workflow`, `kt:ai-agent`, `kt:turing-test` |
+| `kt:ai-evaluation` | `kt:agentic-workflow`, `kt:turing-test` |
+| `kt:artificial-intelligence` | `kt:ai-agent`, `kt:turing-test` |
+| `kt:chinese-room-argument` | `kt:turing-test`, `kt:turing-test` |
 | `kt:multi-agent-systems` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:tool-use` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:agent-memory` | `kt:ai-agent` |
 | `kt:agentic-systems` | `kt:agentic-workflow` |
-| `kt:ai-evaluation` | `kt:agentic-workflow` |
-| `kt:artificial-intelligence` | `kt:ai-agent` |
+| `kt:alan-turing` | `kt:turing-test` |
+| `kt:computing-machinery-and-intelligence` | `kt:turing-test` |
+| `kt:eliza` | `kt:turing-test` |
 | `kt:langgraph` | `kt:agentic-workflow` |
 | `kt:react-prompting` | `kt:ai-agent` |
 | `kt:self-refine` | `kt:agentic-workflow` |
