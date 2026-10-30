@@ -46,6 +46,29 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "agents-and-tool-use" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/react-prompting> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <http://purl.org/dc/terms/created> "2026-10-30" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <http://www.w3.org/2000/01/rdf-schema#label> "Large language model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <http://www.w3.org/2004/02/skos/core#altLabel> "LLM" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <http://www.w3.org/2004/02/skos/core#altLabel> "LLMs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <http://www.w3.org/2004/02/skos/core#altLabel> "large language models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/foundation-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <http://www.w3.org/2004/02/skos/core#definition> "A neural language model, almost always a transformer, with billions of parameters that is pretrained on very large text corpora to predict the next token and can then be prompted or adapted to perform a wide range of language tasks." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <http://www.w3.org/2004/02/skos/core#prefLabel> "Large language model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "transformers-and-llms" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s1> <http://purl.org/dc/terms/publisher> "Anthropic Engineering (Erik S. and Barry Zhang)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s1> <http://purl.org/dc/terms/title> "Building effective agents" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -91,6 +114,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s4> <https://schema.org/url> "https://www.anthropic.com/research/building-effective-agents" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s1> <http://purl.org/dc/terms/publisher> "D. Jurafsky and J. H. Martin, Stanford University (draft of August 2026)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s1> <http://purl.org/dc/terms/title> "Speech and Language Processing (3rd ed. draft), Chapter 7: Transformers and Pretraining" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s1> <https://schema.org/url> "https://web.stanford.edu/~jurafsky/slp3/7.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s2> <http://purl.org/dc/terms/publisher> "Brown et al. (OpenAI), NeurIPS 2020" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s2> <http://purl.org/dc/terms/title> "Language Models are Few-Shot Learners" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s2> <https://schema.org/url> "https://papers.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s3> <http://purl.org/dc/terms/publisher> "Kaplan et al. (OpenAI), arXiv 2001.08361 (authors' version)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s3> <http://purl.org/dc/terms/title> "Scaling Laws for Neural Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s3> <https://schema.org/url> "https://arxiv.org/abs/2001.08361v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s4> <http://purl.org/dc/terms/publisher> "Ouyang et al. (OpenAI), NeurIPS 2022" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s4> <http://purl.org/dc/terms/title> "Training language models to follow instructions with human feedback" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s4> <https://schema.org/url> "https://neurips.cc/virtual/2022/poster/52886" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s5> <http://purl.org/dc/terms/publisher> "Bommasani et al., Stanford Center for Research on Foundation Models, arXiv 2108.07258" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s5> <http://purl.org/dc/terms/title> "On the Opportunities and Risks of Foundation Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s5> <https://schema.org/url> "https://arxiv.org/abs/2108.07258" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s1> <http://purl.org/dc/terms/publisher> "A. M. Turing, Mind 59 (236), 1950 (copy hosted for MIT CSAIL course 6.803)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s1> <http://purl.org/dc/terms/title> "Computing Machinery and Intelligence" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

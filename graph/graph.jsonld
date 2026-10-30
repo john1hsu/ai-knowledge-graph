@@ -249,6 +249,85 @@
           "@id": "kt:chinese-room-argument"
         }
       ]
+    },
+    {
+      "@id": "kt:large-language-model",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Large language model",
+      "skos:definition": "A neural language model, almost always a transformer, with billions of parameters that is pretrained on very large text corpora to predict the next token and can then be prompted or adapted to perform a wide range of language tasks.",
+      "kto:domain": "transformers-and-llms",
+      "dcterms:created": "2026-10-30",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Speech and Language Processing (3rd ed. draft), Chapter 7: Transformers and Pretraining",
+          "dcterms:publisher": "D. Jurafsky and J. H. Martin, Stanford University (draft of August 2026)",
+          "schema:url": "https://web.stanford.edu/~jurafsky/slp3/7.pdf",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Language Models are Few-Shot Learners",
+          "dcterms:publisher": "Brown et al. (OpenAI), NeurIPS 2020",
+          "schema:url": "https://papers.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Scaling Laws for Neural Language Models",
+          "dcterms:publisher": "Kaplan et al. (OpenAI), arXiv 2001.08361 (authors' version)",
+          "schema:url": "https://arxiv.org/abs/2001.08361v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Training language models to follow instructions with human feedback",
+          "dcterms:publisher": "Ouyang et al. (OpenAI), NeurIPS 2022",
+          "schema:url": "https://neurips.cc/virtual/2022/poster/52886",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "On the Opportunities and Risks of Foundation Models",
+          "dcterms:publisher": "Bommasani et al., Stanford Center for Research on Foundation Models, arXiv 2108.07258",
+          "schema:url": "https://arxiv.org/abs/2108.07258",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/transformers-and-llms/large-language-model.md",
+      "skos:altLabel": [
+        "LLM",
+        "LLMs",
+        "large language models"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:language-model"
+        },
+        {
+          "@id": "kt:foundation-model"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:scaling-laws"
+        },
+        {
+          "@id": "kt:in-context-learning"
+        },
+        {
+          "@id": "kt:ai-agent"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:transformer-architecture"
+        }
+      ],
+      "kto:trainedWith": [
+        {
+          "@id": "kt:pretraining"
+        },
+        {
+          "@id": "kt:rlhf"
+        }
+      ]
     }
   ]
 }

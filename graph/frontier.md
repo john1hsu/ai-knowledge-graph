@@ -4,7 +4,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:large-language-model` | `kt:agentic-workflow`, `kt:ai-agent`, `kt:turing-test` |
 | `kt:ai-evaluation` | `kt:agentic-workflow`, `kt:turing-test` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:turing-test` |
 | `kt:chinese-room-argument` | `kt:turing-test`, `kt:turing-test` |
@@ -16,6 +15,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alan-turing` | `kt:turing-test` |
 | `kt:computing-machinery-and-intelligence` | `kt:turing-test` |
 | `kt:eliza` | `kt:turing-test` |
+| `kt:foundation-model` | `kt:large-language-model` |
+| `kt:in-context-learning` | `kt:large-language-model` |
 | `kt:langgraph` | `kt:agentic-workflow` |
+| `kt:language-model` | `kt:large-language-model` |
+| `kt:pretraining` | `kt:large-language-model` |
 | `kt:react-prompting` | `kt:ai-agent` |
+| `kt:rlhf` | `kt:large-language-model` |
+| `kt:scaling-laws` | `kt:large-language-model` |
 | `kt:self-refine` | `kt:agentic-workflow` |
+| `kt:transformer-architecture` | `kt:large-language-model` |

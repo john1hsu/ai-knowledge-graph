@@ -42,6 +42,27 @@
     ]
   },
   {
+    "id": "kt:large-language-model",
+    "title": "Large language model",
+    "aliases": [
+      "LLM",
+      "LLMs",
+      "large language models"
+    ],
+    "type": "Concept",
+    "domain": "transformers-and-llms",
+    "file": "articles/transformers-and-llms/large-language-model.md",
+    "created": "2026-10-30",
+    "maturity": "established",
+    "source_urls": [
+      "https://web.stanford.edu/~jurafsky/slp3/7.pdf",
+      "https://papers.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html",
+      "https://arxiv.org/abs/2001.08361v1",
+      "https://neurips.cc/virtual/2022/poster/52886",
+      "https://arxiv.org/abs/2108.07258"
+    ]
+  },
+  {
     "id": "kt:turing-test",
     "title": "Turing test",
     "aliases": [
