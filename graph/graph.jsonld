@@ -1357,6 +1357,108 @@
       ]
     },
     {
+      "@id": "kt:policy-gradient",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Policy gradient methods",
+      "skos:definition": "A family of reinforcement learning methods that represent the policy directly as a parameterized, usually stochastic function and improve it by gradient ascent on expected return, using gradients estimated from sampled experience.",
+      "kto:domain": "reinforcement-learning",
+      "dcterms:created": "2026-10-31",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Policy Gradient Methods for Reinforcement Learning with Function Approximation",
+          "dcterms:publisher": "Advances in Neural Information Processing Systems 12 (NIPS 1999) (Sutton, McAllester, Singh and Mansour)",
+          "schema:url": "https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinfo",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Simple statistical gradient-following algorithms for connectionist reinforcement learning",
+          "dcterms:publisher": "Machine Learning 8(3), 229-256, 1992 (Ronald J. Williams), Springer",
+          "schema:url": "https://link.springer.com/doi/10.1007/BF00992696",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Spinning Up in Deep RL, Part 3: Intro to Policy Optimization",
+          "dcterms:publisher": "OpenAI",
+          "schema:url": "https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Spinning Up in Deep RL: Vanilla Policy Gradient",
+          "dcterms:publisher": "OpenAI",
+          "schema:url": "https://spinningup.openai.com/en/latest/algorithms/vpg.html",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "High-Dimensional Continuous Control Using Generalized Advantage Estimation",
+          "dcterms:publisher": "Schulman, Moritz, Levine, Jordan and Abbeel, arXiv 1506.02438",
+          "schema:url": "https://arxiv.org/abs/1506.02438",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Proximal Policy Optimization Algorithms",
+          "dcterms:publisher": "Schulman, Wolski, Dhariwal, Radford and Klimov, arXiv 1707.06347",
+          "schema:url": "https://arxiv.org/abs/1707.06347",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/reinforcement-learning/policy-gradient.md",
+      "skos:altLabel": [
+        "policy gradient",
+        "policy-gradient methods",
+        "policy gradient theorem",
+        "vanilla policy gradient",
+        "VPG"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:reinforcement-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:markov-decision-process"
+        },
+        {
+          "@id": "kt:q-learning"
+        },
+        {
+          "@id": "kt:actor-critic"
+        },
+        {
+          "@id": "kt:backpropagation"
+        },
+        {
+          "@id": "kt:rlhf"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:policy-gradient-methods-for-reinforcement-learning-with-function-approximation"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:reinforce-algorithm"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:q-learning"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:proximal-policy-optimization"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:rlhf"
+        }
+      ]
+    },
+    {
       "@id": "kt:rlhf",
       "@type": "kto:Technique",
       "skos:prefLabel": "Reinforcement learning from human feedback",

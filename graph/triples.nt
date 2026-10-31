@@ -334,6 +334,35 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "governance-and-policy" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/nist-generative-ai-profile> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://purl.org/dc/terms/created> "2026-10-31" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://www.w3.org/2000/01/rdf-schema#label> "Policy gradient methods" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://www.w3.org/2004/02/skos/core#altLabel> "VPG" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://www.w3.org/2004/02/skos/core#altLabel> "policy gradient theorem" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://www.w3.org/2004/02/skos/core#altLabel> "policy gradient" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://www.w3.org/2004/02/skos/core#altLabel> "policy-gradient methods" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://www.w3.org/2004/02/skos/core#altLabel> "vanilla policy gradient" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://www.w3.org/2004/02/skos/core#definition> "A family of reinforcement learning methods that represent the policy directly as a parameterized, usually stochastic function and improve it by gradient ascent on expected return, using gradients estimated from sampled experience." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://www.w3.org/2004/02/skos/core#prefLabel> "Policy gradient methods" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/markov-decision-process> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/reinforce-algorithm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "reinforcement-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient-methods-for-reinforcement-learning-with-function-approximation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://www.w3.org/2000/01/rdf-schema#label> "Quantization" .
@@ -772,6 +801,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s6> <https://schema.org/url> "https://www.nist.gov/node/1855536" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s1> <http://purl.org/dc/terms/publisher> "Advances in Neural Information Processing Systems 12 (NIPS 1999) (Sutton, McAllester, Singh and Mansour)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s1> <http://purl.org/dc/terms/title> "Policy Gradient Methods for Reinforcement Learning with Function Approximation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s1> <https://schema.org/url> "https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinfo" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s2> <http://purl.org/dc/terms/publisher> "Machine Learning 8(3), 229-256, 1992 (Ronald J. Williams), Springer" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s2> <http://purl.org/dc/terms/title> "Simple statistical gradient-following algorithms for connectionist reinforcement learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s2> <https://schema.org/url> "https://link.springer.com/doi/10.1007/BF00992696" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s3> <http://purl.org/dc/terms/publisher> "OpenAI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s3> <http://purl.org/dc/terms/title> "Spinning Up in Deep RL, Part 3: Intro to Policy Optimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s3> <https://schema.org/url> "https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s4> <http://purl.org/dc/terms/publisher> "OpenAI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s4> <http://purl.org/dc/terms/title> "Spinning Up in Deep RL: Vanilla Policy Gradient" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s4> <https://schema.org/url> "https://spinningup.openai.com/en/latest/algorithms/vpg.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s5> <http://purl.org/dc/terms/publisher> "Schulman, Moritz, Levine, Jordan and Abbeel, arXiv 1506.02438" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s5> <http://purl.org/dc/terms/title> "High-Dimensional Continuous Control Using Generalized Advantage Estimation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s5> <https://schema.org/url> "https://arxiv.org/abs/1506.02438" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s6> <http://purl.org/dc/terms/publisher> "Schulman, Wolski, Dhariwal, Radford and Klimov, arXiv 1707.06347" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s6> <http://purl.org/dc/terms/title> "Proximal Policy Optimization Algorithms" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s6> <https://schema.org/url> "https://arxiv.org/abs/1707.06347" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s1> <http://purl.org/dc/terms/publisher> "CVPR 2018 (Jacob, Kligys, Chen, Zhu, Tang, Howard, Adam and Kalenichenko), authors' arXiv version 1712.05877" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s1> <http://purl.org/dc/terms/title> "Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

@@ -299,6 +299,30 @@
     ]
   },
   {
+    "id": "kt:policy-gradient",
+    "title": "Policy gradient methods",
+    "aliases": [
+      "policy gradient",
+      "policy-gradient methods",
+      "policy gradient theorem",
+      "vanilla policy gradient",
+      "VPG"
+    ],
+    "type": "Technique",
+    "domain": "reinforcement-learning",
+    "file": "articles/reinforcement-learning/policy-gradient.md",
+    "created": "2026-10-31",
+    "maturity": "established",
+    "source_urls": [
+      "https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinfo",
+      "https://link.springer.com/doi/10.1007/BF00992696",
+      "https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html",
+      "https://spinningup.openai.com/en/latest/algorithms/vpg.html",
+      "https://arxiv.org/abs/1506.02438",
+      "https://arxiv.org/abs/1707.06347"
+    ]
+  },
+  {
     "id": "kt:quantization",
     "title": "Quantization",
     "aliases": [
