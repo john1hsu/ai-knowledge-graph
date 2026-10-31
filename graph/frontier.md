@@ -9,6 +9,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:turing-test` |
 | `kt:executive-orders-on-ai` | `kt:red-teaming`, `kt:nist-ai-risk-management-framework` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
+| `kt:model-pruning` | `kt:quantization`, `kt:quantization` |
+| `kt:model-serving` | `kt:mlops`, `kt:quantization` |
 | `kt:multi-agent-systems` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:rlhf` | `kt:red-teaming`, `kt:large-language-model` |
@@ -36,12 +38,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:generative-adversarial-nets` | `kt:generative-adversarial-network` |
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
 | `kt:hugging-face-diffusers` | `kt:diffusion-model` |
+| `kt:hugging-face-transformers` | `kt:quantization` |
 | `kt:ian-goodfellow` | `kt:generative-adversarial-network` |
 | `kt:in-context-learning` | `kt:large-language-model` |
 | `kt:inspect-ai` | `kt:ai-evaluation` |
 | `kt:iso-iec-42001` | `kt:nist-ai-risk-management-framework` |
 | `kt:jailbreak` | `kt:red-teaming` |
 | `kt:john-searle` | `kt:chinese-room-argument` |
+| `kt:knowledge-distillation` | `kt:quantization` |
 | `kt:langgraph` | `kt:agentic-workflow` |
 | `kt:language-model` | `kt:large-language-model` |
 | `kt:latent-diffusion-model` | `kt:diffusion-model` |
@@ -49,8 +53,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:llmops` | `kt:mlops` |
 | `kt:minds-brains-and-programs` | `kt:chinese-room-argument` |
 | `kt:mlflow` | `kt:mlops` |
+| `kt:model-compression` | `kt:quantization` |
 | `kt:model-registry` | `kt:mlops` |
-| `kt:model-serving` | `kt:mlops` |
 | `kt:nist` | `kt:nist-ai-risk-management-framework` |
 | `kt:nist-generative-ai-profile` | `kt:nist-ai-risk-management-framework` |
 | `kt:penetration-testing` | `kt:red-teaming` |
@@ -58,6 +62,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:philosophy-of-artificial-intelligence` | `kt:chinese-room-argument` |
 | `kt:pretraining` | `kt:large-language-model` |
 | `kt:prompt-injection` | `kt:red-teaming` |
+| `kt:qlora` | `kt:quantization` |
 | `kt:react-prompting` | `kt:ai-agent` |
 | `kt:scaling-laws` | `kt:large-language-model` |
 | `kt:score-matching` | `kt:diffusion-model` |
@@ -65,6 +70,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strong-ai` | `kt:chinese-room-argument` |
 | `kt:stylegan` | `kt:generative-adversarial-network` |
 | `kt:symbol-grounding-problem` | `kt:chinese-room-argument` |
+| `kt:tensorrt-llm` | `kt:quantization` |
 | `kt:text-to-image-generation` | `kt:diffusion-model` |
 | `kt:transformer-architecture` | `kt:large-language-model` |
 | `kt:universal-approximation-theorem` | `kt:artificial-neural-network` |

@@ -240,6 +240,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "governance-and-policy" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/nist-generative-ai-profile> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://purl.org/dc/terms/created> "2026-10-31" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://www.w3.org/2000/01/rdf-schema#label> "Quantization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://www.w3.org/2004/02/skos/core#altLabel> "low-precision inference" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://www.w3.org/2004/02/skos/core#altLabel> "model quantization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://www.w3.org/2004/02/skos/core#altLabel> "neural network quantization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://www.w3.org/2004/02/skos/core#altLabel> "weight quantization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://www.w3.org/2004/02/skos/core#definition> "A model-compression technique that represents a neural network's weights (and often its activations) with low-precision numbers such as 8-bit or 4-bit integers or 8/4-bit floats instead of 16- or 32-bit floats, cutting memory and bandwidth and enabling faster integer or low-precision arithmetic at a small cost in accuracy." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://www.w3.org/2004/02/skos/core#prefLabel> "Quantization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/qlora> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "inference-and-optimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <http://www.w3.org/2000/01/rdf-schema#label> "Red teaming" .
@@ -519,6 +545,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s6> <https://schema.org/url> "https://www.nist.gov/node/1855536" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s1> <http://purl.org/dc/terms/publisher> "CVPR 2018 (Jacob, Kligys, Chen, Zhu, Tang, Howard, Adam and Kalenichenko), authors' arXiv version 1712.05877" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s1> <http://purl.org/dc/terms/title> "Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s1> <https://schema.org/url> "https://arxiv.org/pdf/1712.05877" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s2> <http://purl.org/dc/terms/publisher> "Dettmers, Lewis, Belkada and Zettlemoyer, arXiv 2208.07339 (2022)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s2> <http://purl.org/dc/terms/title> "LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s2> <https://schema.org/url> "https://arxiv.org/abs/2208.07339v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s3> <http://purl.org/dc/terms/publisher> "Frantar, Ashkboos, Hoefler and Alistarh, arXiv 2210.17323 (2022, revised 2023)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s3> <http://purl.org/dc/terms/title> "GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s3> <https://schema.org/url> "https://arxiv.org/abs/2210.17323v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s4> <http://purl.org/dc/terms/publisher> "Hugging Face Transformers documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s4> <http://purl.org/dc/terms/title> "Selecting a quantization method" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s4> <https://schema.org/url> "https://huggingface.co/docs/transformers/quantization/selecting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s5> <http://purl.org/dc/terms/publisher> "NVIDIA Technical Blog (Alvarez, Mao, Chen and Almog), August 2025, updated March 2026" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s5> <http://purl.org/dc/terms/title> "Optimizing LLMs for Performance and Accuracy with Post-training Quantization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s5> <https://schema.org/url> "https://developer.nvidia.com/blog/optimizing-llms-for-performance-and-accuracy-with-post-training-quantization" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s1> <http://purl.org/dc/terms/publisher> "Proceedings of EMNLP 2022, pp. 3419–3448 (Perez et al.), ACL Anthology" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s1> <http://purl.org/dc/terms/title> "Red Teaming Language Models with Language Models" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

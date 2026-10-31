@@ -934,6 +934,96 @@
       ]
     },
     {
+      "@id": "kt:quantization",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Quantization",
+      "skos:definition": "A model-compression technique that represents a neural network's weights (and often its activations) with low-precision numbers such as 8-bit or 4-bit integers or 8/4-bit floats instead of 16- or 32-bit floats, cutting memory and bandwidth and enabling faster integer or low-precision arithmetic at a small cost in accuracy.",
+      "kto:domain": "inference-and-optimization",
+      "dcterms:created": "2026-10-31",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference",
+          "dcterms:publisher": "CVPR 2018 (Jacob, Kligys, Chen, Zhu, Tang, Howard, Adam and Kalenichenko), authors' arXiv version 1712.05877",
+          "schema:url": "https://arxiv.org/pdf/1712.05877",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale",
+          "dcterms:publisher": "Dettmers, Lewis, Belkada and Zettlemoyer, arXiv 2208.07339 (2022)",
+          "schema:url": "https://arxiv.org/abs/2208.07339v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers",
+          "dcterms:publisher": "Frantar, Ashkboos, Hoefler and Alistarh, arXiv 2210.17323 (2022, revised 2023)",
+          "schema:url": "https://arxiv.org/abs/2210.17323v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Selecting a quantization method",
+          "dcterms:publisher": "Hugging Face Transformers documentation",
+          "schema:url": "https://huggingface.co/docs/transformers/quantization/selecting",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Optimizing LLMs for Performance and Accuracy with Post-training Quantization",
+          "dcterms:publisher": "NVIDIA Technical Blog (Alvarez, Mao, Chen and Almog), August 2025, updated March 2026",
+          "schema:url": "https://developer.nvidia.com/blog/optimizing-llms-for-performance-and-accuracy-with-post-training-quantization",
+          "kto:sourceType": "lab-research"
+        }
+      ],
+      "kto:file": "articles/inference-and-optimization/quantization.md",
+      "skos:altLabel": [
+        "model quantization",
+        "neural network quantization",
+        "low-precision inference",
+        "weight quantization"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:model-compression"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:model-pruning"
+        },
+        {
+          "@id": "kt:knowledge-distillation"
+        },
+        {
+          "@id": "kt:qlora"
+        },
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:model-serving"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:tensorrt-llm"
+        },
+        {
+          "@id": "kt:hugging-face-transformers"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:model-pruning"
+        }
+      ]
+    },
+    {
       "@id": "kt:large-language-model",
       "@type": "kto:Concept",
       "skos:prefLabel": "Large language model",
