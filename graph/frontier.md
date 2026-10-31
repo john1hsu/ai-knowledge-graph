@@ -19,9 +19,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:proximal-policy-optimization` | `kt:policy-gradient`, `kt:rlhf` |
 | `kt:q-learning` | `kt:policy-gradient`, `kt:policy-gradient` |
 | `kt:react-prompting` | `kt:ai-agent`, `kt:chain-of-thought` |
+| `kt:retrieval-augmented-generation` | `kt:embeddings`, `kt:embeddings` |
+| `kt:semantic-search` | `kt:embeddings`, `kt:embeddings` |
 | `kt:supervised-learning` | `kt:bias-variance-tradeoff`, `kt:machine-learning` |
 | `kt:tool-use` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
+| `kt:a-neural-probabilistic-language-model` | `kt:embeddings` |
 | `kt:actor-critic` | `kt:policy-gradient` |
 | `kt:agent-memory` | `kt:ai-agent` |
 | `kt:agentic-systems` | `kt:agentic-workflow` |
@@ -32,6 +35,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:arthur-samuel` | `kt:machine-learning` |
 | `kt:automatic-differentiation` | `kt:backpropagation` |
 | `kt:benchmark-contamination` | `kt:ai-evaluation` |
+| `kt:bm25` | `kt:embeddings` |
 | `kt:chain-of-thought-prompting-elicits-reasoning-in-large-language-models` | `kt:chain-of-thought` |
 | `kt:computing-machinery-and-intelligence` | `kt:turing-test` |
 | `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
@@ -91,6 +95,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:reasoning-models` | `kt:chain-of-thought` |
 | `kt:regularization` | `kt:bias-variance-tradeoff` |
 | `kt:reinforce-algorithm` | `kt:policy-gradient` |
+| `kt:representation-learning` | `kt:embeddings` |
 | `kt:reward-hacking` | `kt:rlhf` |
 | `kt:scaling-laws` | `kt:large-language-model` |
 | `kt:score-matching` | `kt:diffusion-model` |
@@ -107,6 +112,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:turing-machine` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:universal-approximation-theorem` | `kt:artificial-neural-network` |
 | `kt:unsupervised-learning` | `kt:machine-learning` |
+| `kt:vector-database` | `kt:embeddings` |
 | `kt:walter-pitts` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:warren-mcculloch` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:wasserstein-gan` | `kt:generative-adversarial-network` |
+| `kt:word2vec` | `kt:embeddings` |

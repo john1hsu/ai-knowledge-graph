@@ -243,6 +243,35 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/diffusion-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-diffusers> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/diffusion-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-unsupervised-learning-using-nonequilibrium-thermodynamics> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/diffusion-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <http://purl.org/dc/terms/created> "2026-10-31" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <http://www.w3.org/2000/01/rdf-schema#label> "Embeddings" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <http://www.w3.org/2004/02/skos/core#altLabel> "dense vector representations" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <http://www.w3.org/2004/02/skos/core#altLabel> "distributed representations" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <http://www.w3.org/2004/02/skos/core#altLabel> "embedding" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <http://www.w3.org/2004/02/skos/core#altLabel> "vector embeddings" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <http://www.w3.org/2004/02/skos/core#altLabel> "word embeddings" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <http://www.w3.org/2004/02/skos/core#definition> "Learned, dense, fixed-length vectors of real numbers that represent discrete items such as words, sentences, documents or images, arranged so that geometric closeness (for example, high cosine similarity) reflects semantic or functional similarity." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <http://www.w3.org/2004/02/skos/core#prefLabel> "Embeddings" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/vector-database> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/bm25> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "retrieval-and-knowledge" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/a-neural-probabilistic-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://www.w3.org/2000/01/rdf-schema#label> "Generative adversarial network" .
@@ -724,6 +753,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/diffusion-model/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/diffusion-model/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/diffusion-model/s5> <https://schema.org/url> "https://huggingface.co/docs/diffusers/en/using-diffusers/schedulers" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s1> <http://purl.org/dc/terms/publisher> "Journal of Machine Learning Research 3 (2003), 1137-1155 (Bengio, Ducharme, Vincent and Jauvin)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s1> <http://purl.org/dc/terms/title> "A Neural Probabilistic Language Model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s1> <https://schema.org/url> "https://www.jmlr.org/papers/v3/bengio03a.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s2> <http://purl.org/dc/terms/publisher> "Mikolov, Chen, Corrado and Dean, arXiv 1301.3781 (2013)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s2> <http://purl.org/dc/terms/title> "Efficient Estimation of Word Representations in Vector Space" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s2> <https://schema.org/url> "https://arxiv.org/abs/1301.3781" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s3> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (Zhang, Lipton, Li and Smola)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s3> <http://purl.org/dc/terms/title> "15.1. Word Embedding (word2vec)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s3> <https://schema.org/url> "https://d2l.ai/chapter_natural-language-processing-pretraining/word2vec.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s4> <http://purl.org/dc/terms/publisher> "EMNLP-IJCNLP 2019, pages 3982-3992 (Reimers and Gurevych)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s4> <http://purl.org/dc/terms/title> "Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s4> <https://schema.org/url> "https://aclanthology.org/D19-1410" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s5> <http://purl.org/dc/terms/publisher> "EMNLP 2020, pages 6769-6781 (Karpukhin, Oguz, Min, Lewis, Wu, Edunov, Chen and Yih)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s5> <http://purl.org/dc/terms/title> "Dense Passage Retrieval for Open-Domain Question Answering" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s5> <https://schema.org/url> "https://aclanthology.org/2020.emnlp-main.550" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 2014, Advances in Neural Information Processing Systems 27 (Goodfellow et al.)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s1> <http://purl.org/dc/terms/title> "Generative Adversarial Nets" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

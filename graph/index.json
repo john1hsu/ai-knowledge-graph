@@ -217,6 +217,29 @@
     ]
   },
   {
+    "id": "kt:embeddings",
+    "title": "Embeddings",
+    "aliases": [
+      "embedding",
+      "vector embeddings",
+      "word embeddings",
+      "dense vector representations",
+      "distributed representations"
+    ],
+    "type": "Concept",
+    "domain": "retrieval-and-knowledge",
+    "file": "articles/retrieval-and-knowledge/embeddings.md",
+    "created": "2026-10-31",
+    "maturity": "established",
+    "source_urls": [
+      "https://www.jmlr.org/papers/v3/bengio03a.html",
+      "https://arxiv.org/abs/1301.3781",
+      "https://d2l.ai/chapter_natural-language-processing-pretraining/word2vec.html",
+      "https://aclanthology.org/D19-1410",
+      "https://aclanthology.org/2020.emnlp-main.550"
+    ]
+  },
+  {
     "id": "kt:generative-adversarial-network",
     "title": "Generative adversarial network",
     "aliases": [

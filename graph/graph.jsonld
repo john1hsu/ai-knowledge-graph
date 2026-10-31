@@ -1556,6 +1556,103 @@
       ]
     },
     {
+      "@id": "kt:embeddings",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Embeddings",
+      "skos:definition": "Learned, dense, fixed-length vectors of real numbers that represent discrete items such as words, sentences, documents or images, arranged so that geometric closeness (for example, high cosine similarity) reflects semantic or functional similarity.",
+      "kto:domain": "retrieval-and-knowledge",
+      "dcterms:created": "2026-10-31",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "A Neural Probabilistic Language Model",
+          "dcterms:publisher": "Journal of Machine Learning Research 3 (2003), 1137-1155 (Bengio, Ducharme, Vincent and Jauvin)",
+          "schema:url": "https://www.jmlr.org/papers/v3/bengio03a.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Efficient Estimation of Word Representations in Vector Space",
+          "dcterms:publisher": "Mikolov, Chen, Corrado and Dean, arXiv 1301.3781 (2013)",
+          "schema:url": "https://arxiv.org/abs/1301.3781",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "15.1. Word Embedding (word2vec)",
+          "dcterms:publisher": "Dive into Deep Learning (Zhang, Lipton, Li and Smola)",
+          "schema:url": "https://d2l.ai/chapter_natural-language-processing-pretraining/word2vec.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks",
+          "dcterms:publisher": "EMNLP-IJCNLP 2019, pages 3982-3992 (Reimers and Gurevych)",
+          "schema:url": "https://aclanthology.org/D19-1410",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Dense Passage Retrieval for Open-Domain Question Answering",
+          "dcterms:publisher": "EMNLP 2020, pages 6769-6781 (Karpukhin, Oguz, Min, Lewis, Wu, Edunov, Chen and Yih)",
+          "schema:url": "https://aclanthology.org/2020.emnlp-main.550",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/retrieval-and-knowledge/embeddings.md",
+      "skos:altLabel": [
+        "embedding",
+        "vector embeddings",
+        "word embeddings",
+        "dense vector representations",
+        "distributed representations"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:representation-learning"
+        },
+        {
+          "@id": "kt:machine-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:word2vec"
+        },
+        {
+          "@id": "kt:vector-database"
+        },
+        {
+          "@id": "kt:semantic-search"
+        },
+        {
+          "@id": "kt:retrieval-augmented-generation"
+        },
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:artificial-neural-network"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:a-neural-probabilistic-language-model"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:semantic-search"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:retrieval-augmented-generation"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:bm25"
+        }
+      ]
+    },
+    {
       "@id": "kt:rlhf",
       "@type": "kto:Technique",
       "skos:prefLabel": "Reinforcement learning from human feedback",
