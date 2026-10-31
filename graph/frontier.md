@@ -4,13 +4,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:deep-learning` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:artificial-neural-network`, `kt:backpropagation`, `kt:machine-learning` |
 | `kt:perceptron` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:artificial-neural-network`, `kt:backpropagation` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:turing-test`, `kt:machine-learning` |
 | `kt:reinforcement-learning` | `kt:machine-learning`, `kt:policy-gradient`, `kt:rlhf` |
 | `kt:activation-function` | `kt:artificial-neural-network`, `kt:backpropagation` |
+| `kt:convolutional-neural-network` | `kt:artificial-neural-network`, `kt:deep-learning` |
 | `kt:executive-orders-on-ai` | `kt:red-teaming`, `kt:nist-ai-risk-management-framework` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
+| `kt:gradient-descent` | `kt:backpropagation`, `kt:deep-learning` |
 | `kt:in-context-learning` | `kt:chain-of-thought`, `kt:large-language-model` |
 | `kt:model-pruning` | `kt:quantization`, `kt:quantization` |
 | `kt:model-serving` | `kt:mlops`, `kt:quantization` |
@@ -19,6 +20,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:proximal-policy-optimization` | `kt:policy-gradient`, `kt:rlhf` |
 | `kt:q-learning` | `kt:policy-gradient`, `kt:policy-gradient` |
 | `kt:react-prompting` | `kt:ai-agent`, `kt:chain-of-thought` |
+| `kt:representation-learning` | `kt:deep-learning`, `kt:embeddings` |
 | `kt:retrieval-augmented-generation` | `kt:embeddings`, `kt:embeddings` |
 | `kt:semantic-search` | `kt:embeddings`, `kt:embeddings` |
 | `kt:supervised-learning` | `kt:bias-variance-tradeoff`, `kt:machine-learning` |
@@ -39,9 +41,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chain-of-thought-prompting-elicits-reasoning-in-large-language-models` | `kt:chain-of-thought` |
 | `kt:computing-machinery-and-intelligence` | `kt:turing-test` |
 | `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
-| `kt:convolutional-neural-network` | `kt:artificial-neural-network` |
 | `kt:cross-validation` | `kt:bias-variance-tradeoff` |
 | `kt:data-drift` | `kt:mlops` |
+| `kt:deep-belief-network` | `kt:deep-learning` |
 | `kt:deep-reinforcement-learning-from-human-preferences` | `kt:rlhf` |
 | `kt:deep-unsupervised-learning-using-nonequilibrium-thermodynamics` | `kt:diffusion-model` |
 | `kt:devops` | `kt:mlops` |
@@ -57,7 +59,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:foundation-model` | `kt:large-language-model` |
 | `kt:generative-adversarial-nets` | `kt:generative-adversarial-network` |
-| `kt:gradient-descent` | `kt:backpropagation` |
 | `kt:gsm8k` | `kt:chain-of-thought` |
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
 | `kt:hugging-face-diffusers` | `kt:diffusion-model` |
@@ -93,9 +94,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pytorch` | `kt:backpropagation` |
 | `kt:qlora` | `kt:quantization` |
 | `kt:reasoning-models` | `kt:chain-of-thought` |
+| `kt:recurrent-neural-network` | `kt:deep-learning` |
 | `kt:regularization` | `kt:bias-variance-tradeoff` |
 | `kt:reinforce-algorithm` | `kt:policy-gradient` |
-| `kt:representation-learning` | `kt:embeddings` |
 | `kt:reward-hacking` | `kt:rlhf` |
 | `kt:scaling-laws` | `kt:large-language-model` |
 | `kt:score-matching` | `kt:diffusion-model` |

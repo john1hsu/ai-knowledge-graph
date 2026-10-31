@@ -195,6 +195,28 @@
     ]
   },
   {
+    "id": "kt:deep-learning",
+    "title": "Deep learning",
+    "aliases": [
+      "DL",
+      "deep neural networks",
+      "deep structured learning"
+    ],
+    "type": "Field",
+    "domain": "deep-learning",
+    "file": "articles/deep-learning/deep-learning.md",
+    "created": "2026-10-31",
+    "maturity": "established",
+    "source_urls": [
+      "https://ideas.repec.org/a/nat/nature/v521y2015i7553d10.1038_nature14539.html",
+      "https://www.cs.utoronto.ca/~hinton/absps/ncfast.pdf",
+      "https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html",
+      "https://arxiv.org/pdf/1206.5538",
+      "https://arxiv.org/pdf/2106.11342",
+      "https://research.google/pubs/understanding-deep-learning-requires-rethinking-generalization/"
+    ]
+  },
+  {
     "id": "kt:diffusion-model",
     "title": "Diffusion model",
     "aliases": [

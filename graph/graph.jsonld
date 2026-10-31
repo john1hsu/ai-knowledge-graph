@@ -856,6 +856,99 @@
       ]
     },
     {
+      "@id": "kt:deep-learning",
+      "@type": "kto:Field",
+      "skos:prefLabel": "Deep learning",
+      "skos:definition": "The branch of machine learning that uses neural networks with many stacked processing layers, trained end to end (usually by backpropagation and gradient descent), to learn representations of data at successively higher levels of abstraction directly from raw inputs.",
+      "kto:domain": "deep-learning",
+      "dcterms:created": "2026-10-31",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Deep learning",
+          "dcterms:publisher": "Nature 521(7553), 436–444 (2015) (LeCun, Bengio and Hinton), RePEc/IDEAS record, doi:10.1038/nature14539",
+          "schema:url": "https://ideas.repec.org/a/nat/nature/v521y2015i7553d10.1038_nature14539.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "A Fast Learning Algorithm for Deep Belief Nets",
+          "dcterms:publisher": "Neural Computation 18, 1527–1554 (2006) (Hinton, Osindero and Teh), author's copy, University of Toronto",
+          "schema:url": "https://www.cs.utoronto.ca/~hinton/absps/ncfast.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "ImageNet Classification with Deep Convolutional Neural Networks",
+          "dcterms:publisher": "NeurIPS 2012, Advances in Neural Information Processing Systems 25 (Krizhevsky, Sutskever and Hinton)",
+          "schema:url": "https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Representation Learning: A Review and New Perspectives",
+          "dcterms:publisher": "Bengio, Courville and Vincent, Université de Montréal, authors' arXiv version (arXiv:1206.5538v3, 2014)",
+          "schema:url": "https://arxiv.org/pdf/1206.5538",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Dive into Deep Learning",
+          "dcterms:publisher": "Zhang, Lipton, Li and Smola, open textbook (arXiv:2106.11342)",
+          "schema:url": "https://arxiv.org/pdf/2106.11342",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Understanding deep learning requires rethinking generalization",
+          "dcterms:publisher": "ICLR 2017 (Zhang, Bengio, Hardt, Recht and Vinyals), Google Research publication page",
+          "schema:url": "https://research.google/pubs/understanding-deep-learning-requires-rethinking-generalization/",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/deep-learning/deep-learning.md",
+      "skos:altLabel": [
+        "DL",
+        "deep neural networks",
+        "deep structured learning"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:machine-learning"
+        },
+        {
+          "@id": "kt:representation-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:convolutional-neural-network"
+        },
+        {
+          "@id": "kt:recurrent-neural-network"
+        },
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:deep-belief-network"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:artificial-neural-network"
+        }
+      ],
+      "kto:trainedWith": [
+        {
+          "@id": "kt:backpropagation"
+        },
+        {
+          "@id": "kt:gradient-descent"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:large-language-model"
+        }
+      ]
+    },
+    {
       "@id": "kt:ai-evaluation",
       "@type": "kto:Field",
       "skos:prefLabel": "Evaluation of AI systems",

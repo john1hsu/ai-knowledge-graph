@@ -217,6 +217,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/chinese-room-argument> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-history" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chinese-room-argument> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/minds-brains-and-programs> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chinese-room-argument> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <http://purl.org/dc/terms/created> "2026-10-31" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Field> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <http://www.w3.org/2000/01/rdf-schema#label> "Deep learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "DL" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "deep neural networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "deep structured learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <http://www.w3.org/2004/02/skos/core#definition> "The branch of machine learning that uses neural networks with many stacked processing layers, trained end to end (usually by backpropagation and gradient descent), to learn representations of data at successively higher levels of abstraction directly from raw inputs." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <http://www.w3.org/2004/02/skos/core#prefLabel> "Deep learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-belief-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "deep-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/gradient-descent> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/diffusion-model> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/diffusion-model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/diffusion-model> <http://www.w3.org/2000/01/rdf-schema#label> "Diffusion model" .
@@ -728,6 +754,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/chinese-room-argument/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/chinese-room-argument/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/chinese-room-argument/s4> <https://schema.org/url> "https://aclanthology.org/2020.acl-main.463.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s1> <http://purl.org/dc/terms/publisher> "Nature 521(7553), 436–444 (2015) (LeCun, Bengio and Hinton), RePEc/IDEAS record, doi:10.1038/nature14539" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s1> <http://purl.org/dc/terms/title> "Deep learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s1> <https://schema.org/url> "https://ideas.repec.org/a/nat/nature/v521y2015i7553d10.1038_nature14539.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s2> <http://purl.org/dc/terms/publisher> "Neural Computation 18, 1527–1554 (2006) (Hinton, Osindero and Teh), author's copy, University of Toronto" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s2> <http://purl.org/dc/terms/title> "A Fast Learning Algorithm for Deep Belief Nets" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s2> <https://schema.org/url> "https://www.cs.utoronto.ca/~hinton/absps/ncfast.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s3> <http://purl.org/dc/terms/publisher> "NeurIPS 2012, Advances in Neural Information Processing Systems 25 (Krizhevsky, Sutskever and Hinton)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s3> <http://purl.org/dc/terms/title> "ImageNet Classification with Deep Convolutional Neural Networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s3> <https://schema.org/url> "https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s4> <http://purl.org/dc/terms/publisher> "Bengio, Courville and Vincent, Université de Montréal, authors' arXiv version (arXiv:1206.5538v3, 2014)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s4> <http://purl.org/dc/terms/title> "Representation Learning: A Review and New Perspectives" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s4> <https://schema.org/url> "https://arxiv.org/pdf/1206.5538" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s5> <http://purl.org/dc/terms/publisher> "Zhang, Lipton, Li and Smola, open textbook (arXiv:2106.11342)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s5> <http://purl.org/dc/terms/title> "Dive into Deep Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s5> <https://schema.org/url> "https://arxiv.org/pdf/2106.11342" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s6> <http://purl.org/dc/terms/publisher> "ICLR 2017 (Zhang, Bengio, Hardt, Recht and Vinyals), Google Research publication page" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s6> <http://purl.org/dc/terms/title> "Understanding deep learning requires rethinking generalization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s6> <https://schema.org/url> "https://research.google/pubs/understanding-deep-learning-requires-rethinking-generalization/" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/diffusion-model/s1> <http://purl.org/dc/terms/publisher> "Sohl-Dickstein, Weiss, Maheswaranathan and Ganguli, Proceedings of ICML 2015 (PMLR 37), pp. 2256–2265" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/diffusion-model/s1> <http://purl.org/dc/terms/title> "Deep Unsupervised Learning using Nonequilibrium Thermodynamics" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/diffusion-model/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
