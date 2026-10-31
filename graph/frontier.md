@@ -4,11 +4,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:ai-evaluation` | `kt:agentic-workflow`, `kt:turing-test`, `kt:mlops` |
 | `kt:deep-learning` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:artificial-neural-network` |
+| `kt:machine-learning` | `kt:mlops`, `kt:artificial-neural-network`, `kt:ai-evaluation` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:turing-test` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
-| `kt:machine-learning` | `kt:mlops`, `kt:artificial-neural-network` |
 | `kt:multi-agent-systems` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:tool-use` | `kt:agentic-workflow`, `kt:ai-agent` |
@@ -19,6 +18,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:agentic-systems` | `kt:agentic-workflow` |
 | `kt:alan-turing` | `kt:turing-test` |
 | `kt:backpropagation` | `kt:artificial-neural-network` |
+| `kt:benchmark-contamination` | `kt:ai-evaluation` |
 | `kt:computing-machinery-and-intelligence` | `kt:turing-test` |
 | `kt:convolutional-neural-network` | `kt:artificial-neural-network` |
 | `kt:data-drift` | `kt:mlops` |
@@ -33,19 +33,23 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hugging-face-diffusers` | `kt:diffusion-model` |
 | `kt:ian-goodfellow` | `kt:generative-adversarial-network` |
 | `kt:in-context-learning` | `kt:large-language-model` |
+| `kt:inspect-ai` | `kt:ai-evaluation` |
 | `kt:john-searle` | `kt:chinese-room-argument` |
 | `kt:langgraph` | `kt:agentic-workflow` |
 | `kt:language-model` | `kt:large-language-model` |
 | `kt:latent-diffusion-model` | `kt:diffusion-model` |
+| `kt:llm-as-a-judge` | `kt:ai-evaluation` |
 | `kt:llmops` | `kt:mlops` |
 | `kt:minds-brains-and-programs` | `kt:chinese-room-argument` |
 | `kt:mlflow` | `kt:mlops` |
 | `kt:model-registry` | `kt:mlops` |
 | `kt:model-serving` | `kt:mlops` |
+| `kt:nist-ai-risk-management-framework` | `kt:ai-evaluation` |
 | `kt:perceptron` | `kt:artificial-neural-network` |
 | `kt:philosophy-of-artificial-intelligence` | `kt:chinese-room-argument` |
 | `kt:pretraining` | `kt:large-language-model` |
 | `kt:react-prompting` | `kt:ai-agent` |
+| `kt:red-teaming` | `kt:ai-evaluation` |
 | `kt:rlhf` | `kt:large-language-model` |
 | `kt:scaling-laws` | `kt:large-language-model` |
 | `kt:score-matching` | `kt:diffusion-model` |

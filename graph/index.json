@@ -42,6 +42,30 @@
     ]
   },
   {
+    "id": "kt:ai-evaluation",
+    "title": "Evaluation of AI systems",
+    "aliases": [
+      "AI evaluation",
+      "model evaluation",
+      "LLM evaluation",
+      "evals",
+      "AI testing and evaluation"
+    ],
+    "type": "Field",
+    "domain": "evaluation-and-benchmarks",
+    "file": "articles/evaluation-and-benchmarks/ai-evaluation.md",
+    "created": "2026-10-31",
+    "maturity": "established",
+    "source_urls": [
+      "https://mlanthology.org/tmlr/2023/liang2023tmlr-holistic",
+      "https://proceedings.neurips.cc/paper_files/paper/2023/hash/91f18a1287b398d378ef22505bf41832-Abstract.html",
+      "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.200-2.ipd.pdf",
+      "https://www.nist.gov/node/1731741",
+      "https://hai.stanford.edu/news/ai-benchmarks-hit-saturation",
+      "https://oecd.ai/en/catalogue/tools/inspect"
+    ]
+  },
+  {
     "id": "kt:artificial-neural-network",
     "title": "Artificial neural network",
     "aliases": [
