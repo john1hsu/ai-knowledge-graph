@@ -118,6 +118,34 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/a-logical-calculus-of-the-ideas-immanent-in-nervous-activity> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <http://purl.org/dc/terms/created> "2026-10-31" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <http://www.w3.org/2000/01/rdf-schema#label> "Backpropagation algorithm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <http://www.w3.org/2004/02/skos/core#altLabel> "back-propagation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <http://www.w3.org/2004/02/skos/core#altLabel> "backprop" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <http://www.w3.org/2004/02/skos/core#altLabel> "backpropagation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <http://www.w3.org/2004/02/skos/core#altLabel> "backward propagation of errors" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <http://www.w3.org/2004/02/skos/core#altLabel> "error backpropagation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/automatic-differentiation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <http://www.w3.org/2004/02/skos/core#definition> "An algorithm that computes the gradient of a network's loss with respect to every parameter by applying the chain rule backward through the computation, from the output to the inputs, reusing values stored during the forward pass; it is the reverse mode of automatic differentiation specialised to neural networks." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Backpropagation algorithm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/gradient-descent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "deep-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/learning-representations-by-back-propagating-errors> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <http://www.w3.org/2000/01/rdf-schema#label> "Bias-variance tradeoff" .
@@ -571,6 +599,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s6> <https://schema.org/url> "https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s1> <http://purl.org/dc/terms/publisher> "Nature 323, 533 (October 1986) (Rumelhart, Hinton and Williams), NASA ADS record" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s1> <http://purl.org/dc/terms/title> "Learning representations by back-propagating errors" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s1> <https://schema.org/url> "https://ui.adsabs.harvard.edu/abs/1986Natur.323..533R/abstract" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s2> <http://purl.org/dc/terms/publisher> "Documenta Mathematica, Extra Volume ISMP (2012), 389–400 (Andreas Griewank)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s2> <http://purl.org/dc/terms/title> "Who Invented the Reverse Mode of Differentiation?" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s2> <https://schema.org/url> "https://papers.baulab.info/papers/also/Griewank-2012.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s3> <http://purl.org/dc/terms/publisher> "Zhang, Lipton, Li and Smola, Dive into Deep Learning (d2l.ai), section 5.3" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s3> <http://purl.org/dc/terms/title> "Forward Propagation, Backward Propagation, and Computational Graphs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s3> <https://schema.org/url> "https://d2l.ai/chapter_multilayer-perceptrons/backprop.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s4> <http://purl.org/dc/terms/publisher> "Stanford University, CS231n Deep Learning for Computer Vision, Spring 2026" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s4> <http://purl.org/dc/terms/title> "CS231n Section 2: Backpropagation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s4> <https://schema.org/url> "https://cs231n.stanford.edu/slides/2026/section_2_backprop.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s5> <http://purl.org/dc/terms/publisher> "PyTorch documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s5> <http://purl.org/dc/terms/title> "Autograd mechanics" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s5> <https://schema.org/url> "https://docs.pytorch.org/docs/main/notes/autograd.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s6> <http://purl.org/dc/terms/publisher> "Nature Reviews Neuroscience 21, 335–346 (2020), doi:10.1038/s41583-020-0277-3 (Lillicrap, Santoro, Marris, Akerman and Hinton), University of Oxford record" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s6> <http://purl.org/dc/terms/title> "Backpropagation and the brain" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s6> <https://schema.org/url> "https://www.neuroscience.ox.ac.uk/publications/1100959" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s1> <http://purl.org/dc/terms/publisher> "Neural Computation 4, 1–58 (1992) (Geman, Bienenstock and Doursat), ML Anthology record" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s1> <http://purl.org/dc/terms/title> "Neural Networks and the Bias/Variance Dilemma" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

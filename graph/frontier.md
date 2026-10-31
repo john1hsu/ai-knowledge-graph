@@ -4,11 +4,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:deep-learning` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:artificial-neural-network`, `kt:machine-learning` |
+| `kt:deep-learning` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:artificial-neural-network`, `kt:backpropagation`, `kt:machine-learning` |
+| `kt:perceptron` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:artificial-neural-network`, `kt:backpropagation` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:turing-test`, `kt:machine-learning` |
-| `kt:perceptron` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:artificial-neural-network` |
 | `kt:reinforcement-learning` | `kt:machine-learning`, `kt:policy-gradient`, `kt:rlhf` |
-| `kt:backpropagation` | `kt:artificial-neural-network`, `kt:policy-gradient` |
+| `kt:activation-function` | `kt:artificial-neural-network`, `kt:backpropagation` |
 | `kt:executive-orders-on-ai` | `kt:red-teaming`, `kt:nist-ai-risk-management-framework` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:in-context-learning` | `kt:chain-of-thought`, `kt:large-language-model` |
@@ -22,7 +22,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:supervised-learning` | `kt:bias-variance-tradeoff`, `kt:machine-learning` |
 | `kt:tool-use` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
-| `kt:activation-function` | `kt:artificial-neural-network` |
 | `kt:actor-critic` | `kt:policy-gradient` |
 | `kt:agent-memory` | `kt:ai-agent` |
 | `kt:agentic-systems` | `kt:agentic-workflow` |
@@ -31,6 +30,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ai-risk-management` | `kt:nist-ai-risk-management-framework` |
 | `kt:alan-turing` | `kt:turing-test` |
 | `kt:arthur-samuel` | `kt:machine-learning` |
+| `kt:automatic-differentiation` | `kt:backpropagation` |
 | `kt:benchmark-contamination` | `kt:ai-evaluation` |
 | `kt:chain-of-thought-prompting-elicits-reasoning-in-large-language-models` | `kt:chain-of-thought` |
 | `kt:computing-machinery-and-intelligence` | `kt:turing-test` |
@@ -53,6 +53,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:foundation-model` | `kt:large-language-model` |
 | `kt:generative-adversarial-nets` | `kt:generative-adversarial-network` |
+| `kt:gradient-descent` | `kt:backpropagation` |
 | `kt:gsm8k` | `kt:chain-of-thought` |
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
 | `kt:hugging-face-diffusers` | `kt:diffusion-model` |
@@ -68,6 +69,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:langgraph` | `kt:agentic-workflow` |
 | `kt:language-model` | `kt:large-language-model` |
 | `kt:latent-diffusion-model` | `kt:diffusion-model` |
+| `kt:learning-representations-by-back-propagating-errors` | `kt:backpropagation` |
 | `kt:llm-as-a-judge` | `kt:ai-evaluation` |
 | `kt:llmops` | `kt:mlops` |
 | `kt:markov-decision-process` | `kt:policy-gradient` |
@@ -84,6 +86,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pretraining` | `kt:large-language-model` |
 | `kt:prompt-engineering` | `kt:chain-of-thought` |
 | `kt:prompt-injection` | `kt:red-teaming` |
+| `kt:pytorch` | `kt:backpropagation` |
 | `kt:qlora` | `kt:quantization` |
 | `kt:reasoning-models` | `kt:chain-of-thought` |
 | `kt:regularization` | `kt:bias-variance-tradeoff` |

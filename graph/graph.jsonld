@@ -759,6 +759,103 @@
       ]
     },
     {
+      "@id": "kt:backpropagation",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "Backpropagation algorithm",
+      "skos:definition": "An algorithm that computes the gradient of a network's loss with respect to every parameter by applying the chain rule backward through the computation, from the output to the inputs, reusing values stored during the forward pass; it is the reverse mode of automatic differentiation specialised to neural networks.",
+      "kto:domain": "deep-learning",
+      "dcterms:created": "2026-10-31",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Learning representations by back-propagating errors",
+          "dcterms:publisher": "Nature 323, 533 (October 1986) (Rumelhart, Hinton and Williams), NASA ADS record",
+          "schema:url": "https://ui.adsabs.harvard.edu/abs/1986Natur.323..533R/abstract",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Who Invented the Reverse Mode of Differentiation?",
+          "dcterms:publisher": "Documenta Mathematica, Extra Volume ISMP (2012), 389–400 (Andreas Griewank)",
+          "schema:url": "https://papers.baulab.info/papers/also/Griewank-2012.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Forward Propagation, Backward Propagation, and Computational Graphs",
+          "dcterms:publisher": "Zhang, Lipton, Li and Smola, Dive into Deep Learning (d2l.ai), section 5.3",
+          "schema:url": "https://d2l.ai/chapter_multilayer-perceptrons/backprop.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "CS231n Section 2: Backpropagation",
+          "dcterms:publisher": "Stanford University, CS231n Deep Learning for Computer Vision, Spring 2026",
+          "schema:url": "https://cs231n.stanford.edu/slides/2026/section_2_backprop.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Autograd mechanics",
+          "dcterms:publisher": "PyTorch documentation",
+          "schema:url": "https://docs.pytorch.org/docs/main/notes/autograd.html",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Backpropagation and the brain",
+          "dcterms:publisher": "Nature Reviews Neuroscience 21, 335–346 (2020), doi:10.1038/s41583-020-0277-3 (Lillicrap, Santoro, Marris, Akerman and Hinton), University of Oxford record",
+          "schema:url": "https://www.neuroscience.ox.ac.uk/publications/1100959",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/deep-learning/backpropagation.md",
+      "skos:altLabel": [
+        "backpropagation",
+        "backprop",
+        "back-propagation",
+        "backward propagation of errors",
+        "error backpropagation"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:automatic-differentiation"
+        },
+        {
+          "@id": "kt:deep-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:artificial-neural-network"
+        },
+        {
+          "@id": "kt:gradient-descent"
+        },
+        {
+          "@id": "kt:activation-function"
+        },
+        {
+          "@id": "kt:policy-gradient"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:learning-representations-by-back-propagating-errors"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:artificial-neural-network"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:pytorch"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:perceptron"
+        }
+      ]
+    },
+    {
       "@id": "kt:ai-evaluation",
       "@type": "kto:Field",
       "skos:prefLabel": "Evaluation of AI systems",

@@ -109,6 +109,30 @@
     ]
   },
   {
+    "id": "kt:backpropagation",
+    "title": "Backpropagation algorithm",
+    "aliases": [
+      "backpropagation",
+      "backprop",
+      "back-propagation",
+      "backward propagation of errors",
+      "error backpropagation"
+    ],
+    "type": "Algorithm",
+    "domain": "deep-learning",
+    "file": "articles/deep-learning/backpropagation.md",
+    "created": "2026-10-31",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://ui.adsabs.harvard.edu/abs/1986Natur.323..533R/abstract",
+      "https://papers.baulab.info/papers/also/Griewank-2012.pdf",
+      "https://d2l.ai/chapter_multilayer-perceptrons/backprop.html",
+      "https://cs231n.stanford.edu/slides/2026/section_2_backprop.pdf",
+      "https://docs.pytorch.org/docs/main/notes/autograd.html",
+      "https://www.neuroscience.ox.ac.uk/publications/1100959"
+    ]
+  },
+  {
     "id": "kt:bias-variance-tradeoff",
     "title": "Bias-variance tradeoff",
     "aliases": [
