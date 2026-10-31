@@ -4,8 +4,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
+| `kt:machine-learning` | `kt:mlops`, `kt:artificial-neural-network`, `kt:ai-evaluation`, `kt:bias-variance-tradeoff` |
 | `kt:deep-learning` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:artificial-neural-network` |
-| `kt:machine-learning` | `kt:mlops`, `kt:artificial-neural-network`, `kt:ai-evaluation` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:turing-test` |
 | `kt:executive-orders-on-ai` | `kt:red-teaming`, `kt:nist-ai-risk-management-framework` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
@@ -27,13 +27,16 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:benchmark-contamination` | `kt:ai-evaluation` |
 | `kt:computing-machinery-and-intelligence` | `kt:turing-test` |
 | `kt:convolutional-neural-network` | `kt:artificial-neural-network` |
+| `kt:cross-validation` | `kt:bias-variance-tradeoff` |
 | `kt:data-drift` | `kt:mlops` |
 | `kt:deep-reinforcement-learning-from-human-preferences` | `kt:rlhf` |
 | `kt:deep-unsupervised-learning-using-nonequilibrium-thermodynamics` | `kt:diffusion-model` |
 | `kt:devops` | `kt:mlops` |
 | `kt:direct-preference-optimization` | `kt:rlhf` |
 | `kt:distributed-training` | `kt:mlops` |
+| `kt:double-descent` | `kt:bias-variance-tradeoff` |
 | `kt:eliza` | `kt:turing-test` |
+| `kt:ensemble-methods` | `kt:bias-variance-tradeoff` |
 | `kt:eu-ai-act` | `kt:nist-ai-risk-management-framework` |
 | `kt:feature-store` | `kt:mlops` |
 | `kt:fine-tuning` | `kt:rlhf` |
@@ -62,6 +65,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:model-registry` | `kt:mlops` |
 | `kt:nist` | `kt:nist-ai-risk-management-framework` |
 | `kt:nist-generative-ai-profile` | `kt:nist-ai-risk-management-framework` |
+| `kt:overfitting` | `kt:bias-variance-tradeoff` |
 | `kt:penetration-testing` | `kt:red-teaming` |
 | `kt:perceptron` | `kt:artificial-neural-network` |
 | `kt:philosophy-of-artificial-intelligence` | `kt:chinese-room-argument` |
@@ -70,13 +74,16 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:proximal-policy-optimization` | `kt:rlhf` |
 | `kt:qlora` | `kt:quantization` |
 | `kt:react-prompting` | `kt:ai-agent` |
+| `kt:regularization` | `kt:bias-variance-tradeoff` |
 | `kt:reinforcement-learning` | `kt:rlhf` |
 | `kt:reward-hacking` | `kt:rlhf` |
 | `kt:scaling-laws` | `kt:large-language-model` |
 | `kt:score-matching` | `kt:diffusion-model` |
 | `kt:self-refine` | `kt:agentic-workflow` |
+| `kt:statistical-learning-theory` | `kt:bias-variance-tradeoff` |
 | `kt:strong-ai` | `kt:chinese-room-argument` |
 | `kt:stylegan` | `kt:generative-adversarial-network` |
+| `kt:supervised-learning` | `kt:bias-variance-tradeoff` |
 | `kt:symbol-grounding-problem` | `kt:chinese-room-argument` |
 | `kt:tensorrt-llm` | `kt:quantization` |
 | `kt:text-to-image-generation` | `kt:diffusion-model` |

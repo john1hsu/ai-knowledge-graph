@@ -1024,6 +1024,88 @@
       ]
     },
     {
+      "@id": "kt:bias-variance-tradeoff",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Bias-variance tradeoff",
+      "skos:definition": "The tension between a learner's systematic error (bias) and its sensitivity to the particular training sample (variance), formalised by decomposing expected squared test error into bias squared, variance and irreducible noise; it explains underfitting and overfitting and guides choices of model complexity.",
+      "kto:domain": "ml-foundations",
+      "dcterms:created": "2026-10-31",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Neural Networks and the Bias/Variance Dilemma",
+          "dcterms:publisher": "Neural Computation 4, 1–58 (1992) (Geman, Bienenstock and Doursat), ML Anthology record",
+          "schema:url": "https://mlanthology.org/neco/1992/geman1992neco-neural",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Lecture Notes: Bias-Variance Tradeoff",
+          "dcterms:publisher": "Cornell University CS 4/5780 Machine Learning, Spring 2022",
+          "schema:url": "https://www.cs.cornell.edu/courses/cs4780/2022sp/notes/LectureNotes17.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Modeling Basics: Assessment, Selection, and Complexity",
+          "dcterms:publisher": "Carnegie Mellon University, Statistical Machine Learning lecture notes (Ryan Tibshirani, Larry Wasserman)",
+          "schema:url": "https://www.stat.cmu.edu/~ryantibs/statml/review/modelbasics.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Reconciling modern machine learning practice and the bias-variance trade-off",
+          "dcterms:publisher": "Belkin, Hsu, Ma and Mandal, arXiv:1812.11118 (authors' version; published in PNAS, doi 10.1073/pnas.1903070116)",
+          "schema:url": "https://arxiv.org/abs/1812.11118v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Deep Double Descent: Where Bigger Models and More Data Hurt",
+          "dcterms:publisher": "ICLR 2020 (Nakkiran, Kaplun, Bansal, Yang, Barak and Sutskever)",
+          "schema:url": "https://iclr.cc/virtual/2020/poster/1489",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/ml-foundations/bias-variance-tradeoff.md",
+      "skos:altLabel": [
+        "bias-variance dilemma",
+        "bias-variance decomposition",
+        "bias–variance trade-off"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:machine-learning"
+        },
+        {
+          "@id": "kt:supervised-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:overfitting"
+        },
+        {
+          "@id": "kt:regularization"
+        },
+        {
+          "@id": "kt:cross-validation"
+        },
+        {
+          "@id": "kt:artificial-neural-network"
+        },
+        {
+          "@id": "kt:ensemble-methods"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:double-descent"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:statistical-learning-theory"
+        }
+      ]
+    },
+    {
       "@id": "kt:rlhf",
       "@type": "kto:Technique",
       "skos:prefLabel": "Reinforcement learning from human feedback",

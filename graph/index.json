@@ -89,6 +89,27 @@
     ]
   },
   {
+    "id": "kt:bias-variance-tradeoff",
+    "title": "Bias-variance tradeoff",
+    "aliases": [
+      "bias-variance dilemma",
+      "bias-variance decomposition",
+      "bias–variance trade-off"
+    ],
+    "type": "Concept",
+    "domain": "ml-foundations",
+    "file": "articles/ml-foundations/bias-variance-tradeoff.md",
+    "created": "2026-10-31",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://mlanthology.org/neco/1992/geman1992neco-neural",
+      "https://www.cs.cornell.edu/courses/cs4780/2022sp/notes/LectureNotes17.html",
+      "https://www.stat.cmu.edu/~ryantibs/statml/review/modelbasics.pdf",
+      "https://arxiv.org/abs/1812.11118v2",
+      "https://iclr.cc/virtual/2020/poster/1489"
+    ]
+  },
+  {
     "id": "kt:chinese-room-argument",
     "title": "Chinese room argument",
     "aliases": [

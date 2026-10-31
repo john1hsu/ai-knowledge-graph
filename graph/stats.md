@@ -1,9 +1,9 @@
 # Graph statistics
 
-- Articles (nodes written): **14**
-- Frontier nodes (referenced, unwritten): **79**
-- Edges: **124**
-- Citations: **71**
+- Articles (nodes written): **15**
+- Frontier nodes (referenced, unwritten): **86**
+- Edges: **133**
+- Citations: **76**
 
 - Weakly connected components: **1**
 - Isolated articles (no edges): **0**
@@ -12,38 +12,38 @@
 
 | Node | PageRank | Written |
 |---|---|---|
-| `kt:large-language-model` | 0.0177 | yes |
-| `kt:ai-evaluation` | 0.0150 | yes |
-| `kt:red-teaming` | 0.0132 | yes |
-| `kt:machine-learning` | 0.0128 | no |
-| `kt:rlhf` | 0.0125 | yes |
-| `kt:nist-ai-risk-management-framework` | 0.0125 | yes |
-| `kt:turing-test` | 0.0124 | yes |
-| `kt:deep-learning` | 0.0123 | no |
-| `kt:ai-agent` | 0.0121 | yes |
-| `kt:artificial-intelligence` | 0.0120 | no |
-| `kt:executive-orders-on-ai` | 0.0118 | no |
-| `kt:multi-agent-systems` | 0.0115 | no |
-| `kt:planning-in-llms` | 0.0115 | no |
-| `kt:tool-use` | 0.0115 | no |
-| `kt:generative-model` | 0.0113 | no |
+| `kt:large-language-model` | 0.0163 | yes |
+| `kt:ai-evaluation` | 0.0139 | yes |
+| `kt:machine-learning` | 0.0127 | no |
+| `kt:red-teaming` | 0.0122 | yes |
+| `kt:rlhf` | 0.0116 | yes |
+| `kt:nist-ai-risk-management-framework` | 0.0115 | yes |
+| `kt:deep-learning` | 0.0114 | no |
+| `kt:turing-test` | 0.0114 | yes |
+| `kt:ai-agent` | 0.0112 | yes |
+| `kt:artificial-intelligence` | 0.0111 | no |
+| `kt:executive-orders-on-ai` | 0.0109 | no |
+| `kt:multi-agent-systems` | 0.0106 | no |
+| `kt:planning-in-llms` | 0.0106 | no |
+| `kt:tool-use` | 0.0106 | no |
+| `kt:generative-model` | 0.0104 | no |
 
 ## Communities (Louvain): 9
 
-1. `kt:ai-evaluation`, `kt:benchmark-contamination`, `kt:data-drift`, `kt:devops`, `kt:distributed-training`, `kt:feature-store`, `kt:hidden-technical-debt-in-machine-learning-systems`, `kt:inspect-ai`, `kt:llm-as-a-judge`, `kt:llmops`, `kt:machine-learning`, `kt:mlflow` …
-2. `kt:deep-learning`, `kt:deep-unsupervised-learning-using-nonequilibrium-thermodynamics`, `kt:diffusion-model`, `kt:generative-adversarial-nets`, `kt:generative-adversarial-network`, `kt:generative-model`, `kt:hugging-face-diffusers`, `kt:ian-goodfellow`, `kt:latent-diffusion-model`, `kt:score-matching`, `kt:stylegan`, `kt:text-to-image-generation` …
-3. `kt:ai-governance`, `kt:ai-risk-management`, `kt:eu-ai-act`, `kt:executive-orders-on-ai`, `kt:iso-iec-42001`, `kt:jailbreak`, `kt:nist`, `kt:nist-ai-risk-management-framework`, `kt:nist-generative-ai-profile`, `kt:penetration-testing`, `kt:prompt-injection`, `kt:red-teaming`
-4. `kt:alan-turing`, `kt:artificial-intelligence`, `kt:chinese-room-argument`, `kt:computing-machinery-and-intelligence`, `kt:eliza`, `kt:john-searle`, `kt:minds-brains-and-programs`, `kt:philosophy-of-artificial-intelligence`, `kt:strong-ai`, `kt:symbol-grounding-problem`, `kt:turing-test`
+1. `kt:alan-turing`, `kt:artificial-intelligence`, `kt:chinese-room-argument`, `kt:computing-machinery-and-intelligence`, `kt:eliza`, `kt:foundation-model`, `kt:in-context-learning`, `kt:john-searle`, `kt:language-model`, `kt:large-language-model`, `kt:minds-brains-and-programs`, `kt:philosophy-of-artificial-intelligence` …
+2. `kt:ai-evaluation`, `kt:benchmark-contamination`, `kt:data-drift`, `kt:devops`, `kt:distributed-training`, `kt:feature-store`, `kt:hidden-technical-debt-in-machine-learning-systems`, `kt:inspect-ai`, `kt:llm-as-a-judge`, `kt:llmops`, `kt:machine-learning`, `kt:mlflow` …
+3. `kt:deep-learning`, `kt:deep-unsupervised-learning-using-nonequilibrium-thermodynamics`, `kt:diffusion-model`, `kt:generative-adversarial-nets`, `kt:generative-adversarial-network`, `kt:generative-model`, `kt:hugging-face-diffusers`, `kt:ian-goodfellow`, `kt:latent-diffusion-model`, `kt:score-matching`, `kt:stylegan`, `kt:text-to-image-generation` …
+4. `kt:ai-governance`, `kt:ai-risk-management`, `kt:eu-ai-act`, `kt:executive-orders-on-ai`, `kt:iso-iec-42001`, `kt:jailbreak`, `kt:nist`, `kt:nist-ai-risk-management-framework`, `kt:nist-generative-ai-profile`, `kt:penetration-testing`, `kt:prompt-injection`, `kt:red-teaming`
 5. `kt:ai-alignment`, `kt:deep-reinforcement-learning-from-human-preferences`, `kt:direct-preference-optimization`, `kt:fine-tuning`, `kt:hugging-face-trl`, `kt:instruction-tuning`, `kt:proximal-policy-optimization`, `kt:reinforcement-learning`, `kt:reward-hacking`, `kt:rlhf`
 6. `kt:agent-memory`, `kt:agentic-systems`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:langgraph`, `kt:multi-agent-systems`, `kt:planning-in-llms`, `kt:react-prompting`, `kt:self-refine`, `kt:tool-use`
 7. `kt:hugging-face-transformers`, `kt:knowledge-distillation`, `kt:model-compression`, `kt:model-pruning`, `kt:model-serving`, `kt:qlora`, `kt:quantization`, `kt:tensorrt-llm`
-8. `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:activation-function`, `kt:artificial-neural-network`, `kt:backpropagation`, `kt:convolutional-neural-network`, `kt:perceptron`, `kt:universal-approximation-theorem`
-9. `kt:foundation-model`, `kt:in-context-learning`, `kt:language-model`, `kt:large-language-model`, `kt:pretraining`, `kt:scaling-laws`, `kt:transformer-architecture`
+8. `kt:bias-variance-tradeoff`, `kt:cross-validation`, `kt:double-descent`, `kt:ensemble-methods`, `kt:overfitting`, `kt:regularization`, `kt:statistical-learning-theory`, `kt:supervised-learning`
+9. `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:activation-function`, `kt:artificial-neural-network`, `kt:backpropagation`, `kt:convolutional-neural-network`, `kt:perceptron`, `kt:universal-approximation-theorem`
 
 ## By type
 
 - Architecture: 3
-- Concept: 4
+- Concept: 5
 - Field: 1
 - Paradigm: 1
 - Policy: 1
@@ -59,6 +59,7 @@
 - evaluation-and-benchmarks: 2
 - governance-and-policy: 1
 - inference-and-optimization: 1
+- ml-foundations: 1
 - training-and-adaptation: 1
 - transformers-and-llms: 1
 
@@ -66,4 +67,4 @@
 
 - emerging: 3
 - established: 8
-- foundational: 3
+- foundational: 4

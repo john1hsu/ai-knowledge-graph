@@ -96,6 +96,30 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/a-logical-calculus-of-the-ideas-immanent-in-nervous-activity> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <http://purl.org/dc/terms/created> "2026-10-31" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <http://www.w3.org/2000/01/rdf-schema#label> "Bias-variance tradeoff" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <http://www.w3.org/2004/02/skos/core#altLabel> "bias-variance decomposition" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <http://www.w3.org/2004/02/skos/core#altLabel> "bias-variance dilemma" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <http://www.w3.org/2004/02/skos/core#altLabel> "bias–variance trade-off" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <http://www.w3.org/2004/02/skos/core#definition> "The tension between a learner's systematic error (bias) and its sensitivity to the particular training sample (variance), formalised by decomposing expected squared test error into bias squared, variance and irreducible noise; it explains underfitting and overfitting and guides choices of model complexity." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bias-variance tradeoff" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/cross-validation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ensemble-methods> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/regularization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ml-foundations" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chinese-room-argument> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chinese-room-argument> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chinese-room-argument> <http://www.w3.org/2000/01/rdf-schema#label> "Chinese room argument" .
@@ -423,6 +447,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s6> <https://schema.org/url> "https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s1> <http://purl.org/dc/terms/publisher> "Neural Computation 4, 1–58 (1992) (Geman, Bienenstock and Doursat), ML Anthology record" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s1> <http://purl.org/dc/terms/title> "Neural Networks and the Bias/Variance Dilemma" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s1> <https://schema.org/url> "https://mlanthology.org/neco/1992/geman1992neco-neural" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s2> <http://purl.org/dc/terms/publisher> "Cornell University CS 4/5780 Machine Learning, Spring 2022" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s2> <http://purl.org/dc/terms/title> "Lecture Notes: Bias-Variance Tradeoff" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s2> <https://schema.org/url> "https://www.cs.cornell.edu/courses/cs4780/2022sp/notes/LectureNotes17.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s3> <http://purl.org/dc/terms/publisher> "Carnegie Mellon University, Statistical Machine Learning lecture notes (Ryan Tibshirani, Larry Wasserman)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s3> <http://purl.org/dc/terms/title> "Modeling Basics: Assessment, Selection, and Complexity" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s3> <https://schema.org/url> "https://www.stat.cmu.edu/~ryantibs/statml/review/modelbasics.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s4> <http://purl.org/dc/terms/publisher> "Belkin, Hsu, Ma and Mandal, arXiv:1812.11118 (authors' version; published in PNAS, doi 10.1073/pnas.1903070116)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s4> <http://purl.org/dc/terms/title> "Reconciling modern machine learning practice and the bias-variance trade-off" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s4> <https://schema.org/url> "https://arxiv.org/abs/1812.11118v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s5> <http://purl.org/dc/terms/publisher> "ICLR 2020 (Nakkiran, Kaplun, Bansal, Yang, Barak and Sutskever)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s5> <http://purl.org/dc/terms/title> "Deep Double Descent: Where Bigger Models and More Data Hurt" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s5> <https://schema.org/url> "https://iclr.cc/virtual/2020/poster/1489" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/chinese-room-argument/s1> <http://purl.org/dc/terms/publisher> "J. R. Searle, The Behavioral and Brain Sciences 3 (1980) 417–457 (copy hosted for Yale CPSC 458)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/chinese-room-argument/s1> <http://purl.org/dc/terms/title> "Minds, brains, and programs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/chinese-room-argument/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
