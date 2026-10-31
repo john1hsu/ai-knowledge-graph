@@ -240,6 +240,30 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "governance-and-policy" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/nist-generative-ai-profile> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <http://purl.org/dc/terms/created> "2026-10-31" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <http://www.w3.org/2000/01/rdf-schema#label> "Red teaming" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <http://www.w3.org/2004/02/skos/core#altLabel> "AI red teaming" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <http://www.w3.org/2004/02/skos/core#altLabel> "AI red-teaming" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <http://www.w3.org/2004/02/skos/core#altLabel> "adversarial testing of AI systems" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <http://www.w3.org/2004/02/skos/core#altLabel> "red-teaming" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <http://www.w3.org/2004/02/skos/core#definition> "A structured, adversarial testing practice in which people (and increasingly other models) deliberately try to make an AI system fail or behave harmfully, so that its flaws and vulnerabilities can be found, measured and mitigated before or after deployment." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <http://www.w3.org/2004/02/skos/core#prefLabel> "Red teaming" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/jailbreak> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-injection> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/penetration-testing> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "evaluation-and-benchmarks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <https://github.com/john1hsu/ai-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s1> <http://purl.org/dc/terms/publisher> "Anthropic Engineering (Erik S. and Barry Zhang)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s1> <http://purl.org/dc/terms/title> "Building effective agents" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -495,6 +519,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s6> <https://schema.org/url> "https://www.nist.gov/node/1855536" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s1> <http://purl.org/dc/terms/publisher> "Proceedings of EMNLP 2022, pp. 3419–3448 (Perez et al.), ACL Anthology" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s1> <http://purl.org/dc/terms/title> "Red Teaming Language Models with Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s1> <https://schema.org/url> "https://aclanthology.org/2022.emnlp-main.225" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s2> <http://purl.org/dc/terms/publisher> "arXiv:2209.07858 (Ganguli et al., Anthropic), 2022" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s2> <http://purl.org/dc/terms/title> "Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s2> <https://schema.org/url> "https://arxiv.org/abs/2209.07858v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s3> <http://purl.org/dc/terms/publisher> "arXiv:2401.15897v3 (Feffer, Sinha, Deng, Lipton and Heidari, Carnegie Mellon University)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s3> <http://purl.org/dc/terms/title> "Red-Teaming for Generative AI: Silver Bullet or Security Theater?" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "preprint" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s3> <https://schema.org/url> "https://arxiv.org/html/2401.15897v3" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s4> <http://purl.org/dc/terms/publisher> "Code of Federal Regulations, Title 3 (2024 edition), U.S. Government Publishing Office" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s4> <http://purl.org/dc/terms/title> "Executive Order 14110: Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s4> <https://schema.org/url> "https://govinfo.gov/content/pkg/CFR-2024-title3-vol1/pdf/CFR-2024-title3-vol1-eo14110.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s5> <http://purl.org/dc/terms/publisher> "Daily Compilation of Presidential Documents, U.S. Government Publishing Office, January 20, 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s5> <http://purl.org/dc/terms/title> "Executive Order 14148: Initial Rescissions of Harmful Executive Orders and Actions" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s5> <https://schema.org/url> "https://www.govinfo.gov/content/pkg/DCPD-202500115/html/DCPD-202500115.htm" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s1> <http://purl.org/dc/terms/publisher> "A. M. Turing, Mind 59 (236), 1950 (copy hosted for MIT CSAIL course 6.803)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s1> <http://purl.org/dc/terms/title> "Computing Machinery and Intelligence" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

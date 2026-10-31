@@ -765,6 +765,86 @@
       ]
     },
     {
+      "@id": "kt:red-teaming",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Red teaming",
+      "skos:definition": "A structured, adversarial testing practice in which people (and increasingly other models) deliberately try to make an AI system fail or behave harmfully, so that its flaws and vulnerabilities can be found, measured and mitigated before or after deployment.",
+      "kto:domain": "evaluation-and-benchmarks",
+      "dcterms:created": "2026-10-31",
+      "kto:maturity": "emerging",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Red Teaming Language Models with Language Models",
+          "dcterms:publisher": "Proceedings of EMNLP 2022, pp. 3419–3448 (Perez et al.), ACL Anthology",
+          "schema:url": "https://aclanthology.org/2022.emnlp-main.225",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned",
+          "dcterms:publisher": "arXiv:2209.07858 (Ganguli et al., Anthropic), 2022",
+          "schema:url": "https://arxiv.org/abs/2209.07858v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Red-Teaming for Generative AI: Silver Bullet or Security Theater?",
+          "dcterms:publisher": "arXiv:2401.15897v3 (Feffer, Sinha, Deng, Lipton and Heidari, Carnegie Mellon University)",
+          "schema:url": "https://arxiv.org/html/2401.15897v3",
+          "kto:sourceType": "preprint"
+        },
+        {
+          "dcterms:title": "Executive Order 14110: Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence",
+          "dcterms:publisher": "Code of Federal Regulations, Title 3 (2024 edition), U.S. Government Publishing Office",
+          "schema:url": "https://govinfo.gov/content/pkg/CFR-2024-title3-vol1/pdf/CFR-2024-title3-vol1-eo14110.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Executive Order 14148: Initial Rescissions of Harmful Executive Orders and Actions",
+          "dcterms:publisher": "Daily Compilation of Presidential Documents, U.S. Government Publishing Office, January 20, 2025",
+          "schema:url": "https://www.govinfo.gov/content/pkg/DCPD-202500115/html/DCPD-202500115.htm",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/evaluation-and-benchmarks/red-teaming.md",
+      "skos:altLabel": [
+        "AI red teaming",
+        "AI red-teaming",
+        "red-teaming",
+        "adversarial testing of AI systems"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-evaluation"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:nist-ai-risk-management-framework"
+        },
+        {
+          "@id": "kt:rlhf"
+        },
+        {
+          "@id": "kt:jailbreak"
+        },
+        {
+          "@id": "kt:prompt-injection"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:executive-orders-on-ai"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:penetration-testing"
+        }
+      ]
+    },
+    {
       "@id": "kt:nist-ai-risk-management-framework",
       "@type": "kto:Policy",
       "skos:prefLabel": "NIST AI Risk Management Framework",

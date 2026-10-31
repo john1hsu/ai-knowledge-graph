@@ -215,6 +215,28 @@
     ]
   },
   {
+    "id": "kt:red-teaming",
+    "title": "Red teaming",
+    "aliases": [
+      "AI red teaming",
+      "AI red-teaming",
+      "red-teaming",
+      "adversarial testing of AI systems"
+    ],
+    "type": "Technique",
+    "domain": "evaluation-and-benchmarks",
+    "file": "articles/evaluation-and-benchmarks/red-teaming.md",
+    "created": "2026-10-31",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://aclanthology.org/2022.emnlp-main.225",
+      "https://arxiv.org/abs/2209.07858v1",
+      "https://arxiv.org/html/2401.15897v3",
+      "https://govinfo.gov/content/pkg/CFR-2024-title3-vol1/pdf/CFR-2024-title3-vol1-eo14110.pdf",
+      "https://www.govinfo.gov/content/pkg/DCPD-202500115/html/DCPD-202500115.htm"
+    ]
+  },
+  {
     "id": "kt:turing-test",
     "title": "Turing test",
     "aliases": [
