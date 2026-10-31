@@ -4,15 +4,16 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:machine-learning` | `kt:mlops`, `kt:artificial-neural-network`, `kt:ai-evaluation`, `kt:bias-variance-tradeoff` |
-| `kt:deep-learning` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:artificial-neural-network` |
-| `kt:artificial-intelligence` | `kt:ai-agent`, `kt:turing-test` |
+| `kt:deep-learning` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:artificial-neural-network`, `kt:machine-learning` |
+| `kt:artificial-intelligence` | `kt:ai-agent`, `kt:turing-test`, `kt:machine-learning` |
 | `kt:executive-orders-on-ai` | `kt:red-teaming`, `kt:nist-ai-risk-management-framework` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:model-pruning` | `kt:quantization`, `kt:quantization` |
 | `kt:model-serving` | `kt:mlops`, `kt:quantization` |
 | `kt:multi-agent-systems` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent` |
+| `kt:reinforcement-learning` | `kt:machine-learning`, `kt:rlhf` |
+| `kt:supervised-learning` | `kt:bias-variance-tradeoff`, `kt:machine-learning` |
 | `kt:tool-use` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` | `kt:artificial-neural-network` |
@@ -23,6 +24,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ai-governance` | `kt:nist-ai-risk-management-framework` |
 | `kt:ai-risk-management` | `kt:nist-ai-risk-management-framework` |
 | `kt:alan-turing` | `kt:turing-test` |
+| `kt:arthur-samuel` | `kt:machine-learning` |
 | `kt:backpropagation` | `kt:artificial-neural-network` |
 | `kt:benchmark-contamination` | `kt:ai-evaluation` |
 | `kt:computing-machinery-and-intelligence` | `kt:turing-test` |
@@ -75,7 +77,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:qlora` | `kt:quantization` |
 | `kt:react-prompting` | `kt:ai-agent` |
 | `kt:regularization` | `kt:bias-variance-tradeoff` |
-| `kt:reinforcement-learning` | `kt:rlhf` |
 | `kt:reward-hacking` | `kt:rlhf` |
 | `kt:scaling-laws` | `kt:large-language-model` |
 | `kt:score-matching` | `kt:diffusion-model` |
@@ -83,10 +84,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:statistical-learning-theory` | `kt:bias-variance-tradeoff` |
 | `kt:strong-ai` | `kt:chinese-room-argument` |
 | `kt:stylegan` | `kt:generative-adversarial-network` |
-| `kt:supervised-learning` | `kt:bias-variance-tradeoff` |
 | `kt:symbol-grounding-problem` | `kt:chinese-room-argument` |
 | `kt:tensorrt-llm` | `kt:quantization` |
 | `kt:text-to-image-generation` | `kt:diffusion-model` |
 | `kt:transformer-architecture` | `kt:large-language-model` |
 | `kt:universal-approximation-theorem` | `kt:artificial-neural-network` |
+| `kt:unsupervised-learning` | `kt:machine-learning` |
 | `kt:wasserstein-gan` | `kt:generative-adversarial-network` |

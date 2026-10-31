@@ -213,6 +213,28 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> <http://purl.org/dc/terms/created> "2026-10-31" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Field> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> <http://www.w3.org/2000/01/rdf-schema#label> "Machine learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "ML" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "statistical learning from data" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> <http://www.w3.org/2004/02/skos/core#definition> "The subfield of artificial intelligence that studies computer programs which improve their performance at a task through experience, typically by fitting a model to data rather than being explicitly programmed with rules." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> <http://www.w3.org/2004/02/skos/core#prefLabel> "Machine learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/arthur-samuel> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ml-foundations" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Paradigm> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <http://www.w3.org/2000/01/rdf-schema#label> "MLOps" .
@@ -567,6 +589,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s5> <https://schema.org/url> "https://arxiv.org/abs/2108.07258" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s1> <http://purl.org/dc/terms/publisher> "IBM Journal of Research and Development 3(3), 210–229 (1959) (Arthur L. Samuel), ML Anthology record" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s1> <http://purl.org/dc/terms/title> "Some Studies in Machine Learning Using the Game of Checkers" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s1> <https://schema.org/url> "https://mlanthology.org/misc/1959/samuel1959misc-some" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s2> <http://purl.org/dc/terms/publisher> "Arthur L. Samuel, IBM Journal, July 1959; copy hosted by MIT CSAIL (Rodney Brooks)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s2> <http://purl.org/dc/terms/title> "Some Studies in Machine Learning Using the Game of Checkers (full text)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s2> <https://schema.org/url> "https://people.csail.mit.edu/brooks/idocs/Samuel.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s3> <http://purl.org/dc/terms/publisher> "Stanford University CS229 Machine Learning (Andrew Ng and Tengyu Ma)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s3> <http://purl.org/dc/terms/title> "CS229 Lecture Notes" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s3> <https://schema.org/url> "https://cs229.stanford.edu/main_notes.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s4> <http://purl.org/dc/terms/publisher> "CS 5751 Machine Learning, University of Minnesota Duluth (Richard Maclin)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s4> <http://purl.org/dc/terms/title> "Chapter 1: Introduction (lecture notes based on Mitchell, Machine Learning)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s4> <https://schema.org/url> "https://www.d.umn.edu/~rmaclin/cs5751/notes/Chapter01-1PerPage.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s5> <http://purl.org/dc/terms/publisher> "Connectionists mailing list archive, Carnegie Mellon University, 13 April 1997 (Tom Mitchell)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s5> <http://purl.org/dc/terms/title> "new Machine Learning book (announcement of Mitchell, Machine Learning, McGraw Hill 1997)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s5> <https://schema.org/url> "https://mailman.srv.cs.cmu.edu/pipermail/connectionists/1997-April/017688.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s6> <http://purl.org/dc/terms/publisher> "Standards Council of Canada standards database record" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s6> <http://purl.org/dc/terms/title> "ISO/IEC 23053:2022 Framework for Artificial Intelligence (AI) Systems Using Machine Learning (ML)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "standards-body" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s6> <https://schema.org/url> "https://scc-ccn.ca/standardsdb/standards/2049844" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 2015 (Sculley et al., Google)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s1> <http://purl.org/dc/terms/title> "Hidden Technical Debt in Machine Learning Systems" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

@@ -1106,6 +1106,87 @@
       ]
     },
     {
+      "@id": "kt:machine-learning",
+      "@type": "kto:Field",
+      "skos:prefLabel": "Machine learning",
+      "skos:definition": "The subfield of artificial intelligence that studies computer programs which improve their performance at a task through experience, typically by fitting a model to data rather than being explicitly programmed with rules.",
+      "kto:domain": "ml-foundations",
+      "dcterms:created": "2026-10-31",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Some Studies in Machine Learning Using the Game of Checkers",
+          "dcterms:publisher": "IBM Journal of Research and Development 3(3), 210–229 (1959) (Arthur L. Samuel), ML Anthology record",
+          "schema:url": "https://mlanthology.org/misc/1959/samuel1959misc-some",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Some Studies in Machine Learning Using the Game of Checkers (full text)",
+          "dcterms:publisher": "Arthur L. Samuel, IBM Journal, July 1959; copy hosted by MIT CSAIL (Rodney Brooks)",
+          "schema:url": "https://people.csail.mit.edu/brooks/idocs/Samuel.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "CS229 Lecture Notes",
+          "dcterms:publisher": "Stanford University CS229 Machine Learning (Andrew Ng and Tengyu Ma)",
+          "schema:url": "https://cs229.stanford.edu/main_notes.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Chapter 1: Introduction (lecture notes based on Mitchell, Machine Learning)",
+          "dcterms:publisher": "CS 5751 Machine Learning, University of Minnesota Duluth (Richard Maclin)",
+          "schema:url": "https://www.d.umn.edu/~rmaclin/cs5751/notes/Chapter01-1PerPage.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "new Machine Learning book (announcement of Mitchell, Machine Learning, McGraw Hill 1997)",
+          "dcterms:publisher": "Connectionists mailing list archive, Carnegie Mellon University, 13 April 1997 (Tom Mitchell)",
+          "schema:url": "https://mailman.srv.cs.cmu.edu/pipermail/connectionists/1997-April/017688.html",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "ISO/IEC 23053:2022 Framework for Artificial Intelligence (AI) Systems Using Machine Learning (ML)",
+          "dcterms:publisher": "Standards Council of Canada standards database record",
+          "schema:url": "https://scc-ccn.ca/standardsdb/standards/2049844",
+          "kto:sourceType": "standards-body"
+        }
+      ],
+      "kto:file": "articles/ml-foundations/machine-learning.md",
+      "skos:altLabel": [
+        "ML",
+        "statistical learning from data"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:artificial-intelligence"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:bias-variance-tradeoff"
+        },
+        {
+          "@id": "kt:deep-learning"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:supervised-learning"
+        },
+        {
+          "@id": "kt:unsupervised-learning"
+        },
+        {
+          "@id": "kt:reinforcement-learning"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:arthur-samuel"
+        }
+      ]
+    },
+    {
       "@id": "kt:rlhf",
       "@type": "kto:Technique",
       "skos:prefLabel": "Reinforcement learning from human feedback",

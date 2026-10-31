@@ -193,6 +193,27 @@
     ]
   },
   {
+    "id": "kt:machine-learning",
+    "title": "Machine learning",
+    "aliases": [
+      "ML",
+      "statistical learning from data"
+    ],
+    "type": "Field",
+    "domain": "ml-foundations",
+    "file": "articles/ml-foundations/machine-learning.md",
+    "created": "2026-10-31",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://mlanthology.org/misc/1959/samuel1959misc-some",
+      "https://people.csail.mit.edu/brooks/idocs/Samuel.pdf",
+      "https://cs229.stanford.edu/main_notes.pdf",
+      "https://www.d.umn.edu/~rmaclin/cs5751/notes/Chapter01-1PerPage.pdf",
+      "https://mailman.srv.cs.cmu.edu/pipermail/connectionists/1997-April/017688.html",
+      "https://scc-ccn.ca/standardsdb/standards/2049844"
+    ]
+  },
+  {
     "id": "kt:mlops",
     "title": "MLOps",
     "aliases": [
