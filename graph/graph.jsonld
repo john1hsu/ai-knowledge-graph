@@ -177,6 +177,86 @@
       ]
     },
     {
+      "@id": "kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity",
+      "@type": "kto:Work",
+      "skos:prefLabel": "A Logical Calculus of the Ideas Immanent in Nervous Activity",
+      "skos:definition": "The 1943 paper by Warren McCulloch and Walter Pitts that modelled neurons as all-or-none threshold units, showed that networks of such units realize logical propositions, and so supplied the first formal model of a neural network and an early model of finite automata.",
+      "kto:domain": "ai-history",
+      "dcterms:created": "2026-10-31",
+      "kto:maturity": "historical",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "A Logical Calculus of the Ideas Immanent in Nervous Activity",
+          "dcterms:publisher": "Bulletin of Mathematical Biophysics 5, 115–133 (1943), DOI 10.1007/BF02478259; ML Anthology record",
+          "schema:url": "https://mlanthology.org/misc/1943/mcculloch1943misc-logical",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "A Logical Calculus of the Ideas Immanent in Nervous Activity (full text)",
+          "dcterms:publisher": "McCulloch and Pitts, 1943; copy hosted for a University of Illinois ECE course",
+          "schema:url": "https://jontallen.ece.illinois.edu/uploads/498-NS.S21/McCulloch-Pitts-1943-neural-networks-ocr.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Walter Pitts",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/biography/Walter-Pitts",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "CS7015 Deep Learning, Lecture 2: McCulloch Pitts Neuron, Thresholding Logic, Perceptrons",
+          "dcterms:publisher": "IIT Madras (Mitesh M. Khapra), course handout",
+          "schema:url": "https://www.cse.iitm.ac.in/~miteshk/CS7015/Slides/Handout/Lecture2.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Representation of Events in Nerve Nets and Finite Automata",
+          "dcterms:publisher": "S. C. Kleene, RAND Research Memorandum RM-704, 1951",
+          "schema:url": "https://www.rand.org/pubs/research_memoranda/RM704.html",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/ai-history/a-logical-calculus-of-the-ideas-immanent-in-nervous-activity.md",
+      "skos:altLabel": [
+        "McCulloch and Pitts 1943",
+        "McCulloch–Pitts paper"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:connectionism"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:artificial-neural-network"
+        },
+        {
+          "@id": "kt:perceptron"
+        },
+        {
+          "@id": "kt:finite-automaton"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:warren-mcculloch"
+        },
+        {
+          "@id": "kt:walter-pitts"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:turing-machine"
+        }
+      ],
+      "kto:followedBy": [
+        {
+          "@id": "kt:perceptron"
+        }
+      ]
+    },
+    {
       "@id": "kt:chinese-room-argument",
       "@type": "kto:Concept",
       "skos:prefLabel": "Chinese room argument",

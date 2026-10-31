@@ -1,5 +1,25 @@
 [
   {
+    "id": "kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity",
+    "title": "A Logical Calculus of the Ideas Immanent in Nervous Activity",
+    "aliases": [
+      "McCulloch and Pitts 1943",
+      "McCulloch–Pitts paper"
+    ],
+    "type": "Work",
+    "domain": "ai-history",
+    "file": "articles/ai-history/a-logical-calculus-of-the-ideas-immanent-in-nervous-activity.md",
+    "created": "2026-10-31",
+    "maturity": "historical",
+    "source_urls": [
+      "https://mlanthology.org/misc/1943/mcculloch1943misc-logical",
+      "https://jontallen.ece.illinois.edu/uploads/498-NS.S21/McCulloch-Pitts-1943-neural-networks-ocr.pdf",
+      "https://www.britannica.com/biography/Walter-Pitts",
+      "https://www.cse.iitm.ac.in/~miteshk/CS7015/Slides/Handout/Lecture2.pdf",
+      "https://www.rand.org/pubs/research_memoranda/RM704.html"
+    ]
+  },
+  {
     "id": "kt:agentic-workflow",
     "title": "Agentic workflow",
     "aliases": [
