@@ -120,6 +120,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ml-foundations" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://purl.org/dc/terms/created> "2026-10-31" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/2000/01/rdf-schema#label> "Chain-of-thought prompting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/2004/02/skos/core#altLabel> "CoT prompting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/2004/02/skos/core#altLabel> "CoT" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/2004/02/skos/core#altLabel> "chain of thought" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/2004/02/skos/core#altLabel> "step-by-step prompting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/2004/02/skos/core#definition> "A prompting technique in which a language model is led to write out a sequence of intermediate natural-language reasoning steps before giving its final answer, which improves accuracy on multi-step arithmetic, commonsense and symbolic reasoning tasks in sufficiently large models." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chain-of-thought prompting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/react-prompting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "prompting-and-reasoning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/test-time-compute> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought-prompting-elicits-reasoning-in-large-language-models> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chinese-room-argument> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chinese-room-argument> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chinese-room-argument> <http://www.w3.org/2000/01/rdf-schema#label> "Chinese room argument" .
@@ -494,6 +520,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s5> <https://schema.org/url> "https://iclr.cc/virtual/2020/poster/1489" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 2022 (Wei, Wang, Schuurmans, Bosma, Ichter, Xia, Chi, Le, Zhou)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s1> <http://purl.org/dc/terms/title> "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s1> <https://schema.org/url> "https://proceedings.nips.cc/paper_files/paper/2022/file/9d5609613524ecf4f15af0f7b31abca4-Paper-Conference.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s2> <http://purl.org/dc/terms/publisher> "NeurIPS 2022 (Kojima, Gu, Reid, Matsuo, Iwasawa)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s2> <http://purl.org/dc/terms/title> "Large Language Models are Zero-Shot Reasoners" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s2> <https://schema.org/url> "https://proceedings.neurips.cc/paper/2022/hash/8bb0d291acd4acf06ef112099c16f326-Abstract-Conference.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s3> <http://purl.org/dc/terms/publisher> "arXiv 2203.11171 (Wang, Wei, Schuurmans, Le, Chi, Narang, Chowdhery, Zhou; ICLR 2023)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s3> <http://purl.org/dc/terms/title> "Self-Consistency Improves Chain of Thought Reasoning in Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s3> <https://schema.org/url> "https://arxiv.org/abs/2203.11171v4" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s4> <http://purl.org/dc/terms/publisher> "arXiv 2305.04388 (Turpin, Michael, Perez, Bowman; NeurIPS 2023)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s4> <http://purl.org/dc/terms/title> "Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s4> <https://schema.org/url> "https://arxiv.org/abs/2305.04388v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s5> <http://purl.org/dc/terms/publisher> "Anthropic, Claude Platform documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s5> <http://purl.org/dc/terms/title> "Prompting best practices (chain of thought)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s5> <https://schema.org/url> "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/chain-of-thought" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/chinese-room-argument/s1> <http://purl.org/dc/terms/publisher> "J. R. Searle, The Behavioral and Brain Sciences 3 (1980) 417–457 (copy hosted for Yale CPSC 458)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/chinese-room-argument/s1> <http://purl.org/dc/terms/title> "Minds, brains, and programs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/chinese-room-argument/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

@@ -110,6 +110,28 @@
     ]
   },
   {
+    "id": "kt:chain-of-thought",
+    "title": "Chain-of-thought prompting",
+    "aliases": [
+      "chain of thought",
+      "CoT",
+      "CoT prompting",
+      "step-by-step prompting"
+    ],
+    "type": "Technique",
+    "domain": "prompting-and-reasoning",
+    "file": "articles/prompting-and-reasoning/chain-of-thought.md",
+    "created": "2026-10-31",
+    "maturity": "established",
+    "source_urls": [
+      "https://proceedings.nips.cc/paper_files/paper/2022/file/9d5609613524ecf4f15af0f7b31abca4-Paper-Conference.pdf",
+      "https://proceedings.neurips.cc/paper/2022/hash/8bb0d291acd4acf06ef112099c16f326-Abstract-Conference.html",
+      "https://arxiv.org/abs/2203.11171v4",
+      "https://arxiv.org/abs/2305.04388v2",
+      "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/chain-of-thought"
+    ]
+  },
+  {
     "id": "kt:chinese-room-argument",
     "title": "Chinese room argument",
     "aliases": [

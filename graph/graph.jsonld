@@ -1187,6 +1187,96 @@
       ]
     },
     {
+      "@id": "kt:chain-of-thought",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Chain-of-thought prompting",
+      "skos:definition": "A prompting technique in which a language model is led to write out a sequence of intermediate natural-language reasoning steps before giving its final answer, which improves accuracy on multi-step arithmetic, commonsense and symbolic reasoning tasks in sufficiently large models.",
+      "kto:domain": "prompting-and-reasoning",
+      "dcterms:created": "2026-10-31",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
+          "dcterms:publisher": "NeurIPS 2022 (Wei, Wang, Schuurmans, Bosma, Ichter, Xia, Chi, Le, Zhou)",
+          "schema:url": "https://proceedings.nips.cc/paper_files/paper/2022/file/9d5609613524ecf4f15af0f7b31abca4-Paper-Conference.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Large Language Models are Zero-Shot Reasoners",
+          "dcterms:publisher": "NeurIPS 2022 (Kojima, Gu, Reid, Matsuo, Iwasawa)",
+          "schema:url": "https://proceedings.neurips.cc/paper/2022/hash/8bb0d291acd4acf06ef112099c16f326-Abstract-Conference.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Self-Consistency Improves Chain of Thought Reasoning in Language Models",
+          "dcterms:publisher": "arXiv 2203.11171 (Wang, Wei, Schuurmans, Le, Chi, Narang, Chowdhery, Zhou; ICLR 2023)",
+          "schema:url": "https://arxiv.org/abs/2203.11171v4",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting",
+          "dcterms:publisher": "arXiv 2305.04388 (Turpin, Michael, Perez, Bowman; NeurIPS 2023)",
+          "schema:url": "https://arxiv.org/abs/2305.04388v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Prompting best practices (chain of thought)",
+          "dcterms:publisher": "Anthropic, Claude Platform documentation",
+          "schema:url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/chain-of-thought",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/prompting-and-reasoning/chain-of-thought.md",
+      "skos:altLabel": [
+        "chain of thought",
+        "CoT",
+        "CoT prompting",
+        "step-by-step prompting"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:prompt-engineering"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:in-context-learning"
+        },
+        {
+          "@id": "kt:self-consistency"
+        },
+        {
+          "@id": "kt:reasoning-models"
+        },
+        {
+          "@id": "kt:react-prompting"
+        },
+        {
+          "@id": "kt:few-shot-prompting"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:chain-of-thought-prompting-elicits-reasoning-in-large-language-models"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:gsm8k"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:test-time-compute"
+        }
+      ]
+    },
+    {
       "@id": "kt:rlhf",
       "@type": "kto:Technique",
       "skos:prefLabel": "Reinforcement learning from human feedback",
