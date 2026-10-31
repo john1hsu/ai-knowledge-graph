@@ -214,6 +214,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/hidden-technical-debt-in-machine-learning-systems> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <https://github.com/john1hsu/ai-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/ai-knowledge-graph/id/data-drift> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://purl.org/dc/terms/created> "2026-10-31" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Policy> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/2000/01/rdf-schema#label> "NIST AI Risk Management Framework" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/2004/02/skos/core#altLabel> "AI RMF 1.0" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/2004/02/skos/core#altLabel> "AI RMF" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/2004/02/skos/core#altLabel> "NIST AI 100-1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/2004/02/skos/core#altLabel> "NIST AI RMF" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/2004/02/skos/core#definition> "A voluntary, sector-neutral framework published by the US National Institute of Standards and Technology in January 2023 that helps organizations identify, assess and manage the risks of AI systems through four core functions (Govern, Map, Measure, Manage) and a set of trustworthiness characteristics." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/2004/02/skos/core#prefLabel> "NIST AI Risk Management Framework" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/iso-iec-42001> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/nist> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "governance-and-policy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/nist-generative-ai-profile> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s1> <http://purl.org/dc/terms/publisher> "Anthropic Engineering (Erik S. and Barry Zhang)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s1> <http://purl.org/dc/terms/title> "Building effective agents" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -439,6 +465,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s5> <https://schema.org/url> "https://mlflow.org/docs/latest/ml/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s1> <http://purl.org/dc/terms/publisher> "National Institute of Standards and Technology (Tabassi), 26 January 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s1> <http://purl.org/dc/terms/title> "Artificial Intelligence Risk Management Framework (AI RMF 1.0), NIST AI 100-1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s1> <https://schema.org/url> "https://www.nist.gov/node/1731741" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s2> <http://purl.org/dc/terms/publisher> "NIST Trustworthy and Responsible AI Resource Center (AIRC)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s2> <http://purl.org/dc/terms/title> "AI RMF 1.0 — Executive Summary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s2> <https://schema.org/url> "https://airc.nist.gov/airmf-resources/airmf/0-ai-rmf-1-0" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s3> <http://purl.org/dc/terms/publisher> "NIST Trustworthy and Responsible AI Resource Center (AIRC)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s3> <http://purl.org/dc/terms/title> "AI RMF Core" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s3> <https://schema.org/url> "https://airc.nist.gov/airmf-resources/airmf/5-sec-core/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s4> <http://purl.org/dc/terms/publisher> "NIST Trustworthy and Responsible AI Resource Center (AIRC)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s4> <http://purl.org/dc/terms/title> "AI Risks and Trustworthiness" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s4> <https://schema.org/url> "https://airc.nist.gov/airmf-resources/airmf/3-sec-characteristics/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s5> <http://purl.org/dc/terms/publisher> "National Institute of Standards and Technology (page updated 13 August 2026)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s5> <http://purl.org/dc/terms/title> "AI Risk Management Framework FAQs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s5> <https://schema.org/url> "https://www.nist.gov/artificial-intelligence/ai-risk-management-framework-faqs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s6> <http://purl.org/dc/terms/publisher> "National Institute of Standards and Technology, 26 July 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s6> <http://purl.org/dc/terms/title> "Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile (NIST AI 600-1)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s6> <https://schema.org/url> "https://www.nist.gov/node/1855536" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s1> <http://purl.org/dc/terms/publisher> "A. M. Turing, Mind 59 (236), 1950 (copy hosted for MIT CSAIL course 6.803)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s1> <http://purl.org/dc/terms/title> "Computing Machinery and Intelligence" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

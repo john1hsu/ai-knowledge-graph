@@ -765,6 +765,95 @@
       ]
     },
     {
+      "@id": "kt:nist-ai-risk-management-framework",
+      "@type": "kto:Policy",
+      "skos:prefLabel": "NIST AI Risk Management Framework",
+      "skos:definition": "A voluntary, sector-neutral framework published by the US National Institute of Standards and Technology in January 2023 that helps organizations identify, assess and manage the risks of AI systems through four core functions (Govern, Map, Measure, Manage) and a set of trustworthiness characteristics.",
+      "kto:domain": "governance-and-policy",
+      "dcterms:created": "2026-10-31",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Artificial Intelligence Risk Management Framework (AI RMF 1.0), NIST AI 100-1",
+          "dcterms:publisher": "National Institute of Standards and Technology (Tabassi), 26 January 2023",
+          "schema:url": "https://www.nist.gov/node/1731741",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "AI RMF 1.0 — Executive Summary",
+          "dcterms:publisher": "NIST Trustworthy and Responsible AI Resource Center (AIRC)",
+          "schema:url": "https://airc.nist.gov/airmf-resources/airmf/0-ai-rmf-1-0",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "AI RMF Core",
+          "dcterms:publisher": "NIST Trustworthy and Responsible AI Resource Center (AIRC)",
+          "schema:url": "https://airc.nist.gov/airmf-resources/airmf/5-sec-core/",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "AI Risks and Trustworthiness",
+          "dcterms:publisher": "NIST Trustworthy and Responsible AI Resource Center (AIRC)",
+          "schema:url": "https://airc.nist.gov/airmf-resources/airmf/3-sec-characteristics/",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "AI Risk Management Framework FAQs",
+          "dcterms:publisher": "National Institute of Standards and Technology (page updated 13 August 2026)",
+          "schema:url": "https://www.nist.gov/artificial-intelligence/ai-risk-management-framework-faqs",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile (NIST AI 600-1)",
+          "dcterms:publisher": "National Institute of Standards and Technology, 26 July 2024",
+          "schema:url": "https://www.nist.gov/node/1855536",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/governance-and-policy/nist-ai-risk-management-framework.md",
+      "skos:altLabel": [
+        "AI RMF",
+        "NIST AI RMF",
+        "AI RMF 1.0",
+        "NIST AI 100-1"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-governance"
+        },
+        {
+          "@id": "kt:ai-risk-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:ai-evaluation"
+        },
+        {
+          "@id": "kt:red-teaming"
+        },
+        {
+          "@id": "kt:iso-iec-42001"
+        },
+        {
+          "@id": "kt:eu-ai-act"
+        },
+        {
+          "@id": "kt:executive-orders-on-ai"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:nist"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:nist-generative-ai-profile"
+        }
+      ]
+    },
+    {
       "@id": "kt:large-language-model",
       "@type": "kto:Concept",
       "skos:prefLabel": "Large language model",

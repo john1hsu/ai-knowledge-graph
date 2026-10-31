@@ -192,6 +192,29 @@
     ]
   },
   {
+    "id": "kt:nist-ai-risk-management-framework",
+    "title": "NIST AI Risk Management Framework",
+    "aliases": [
+      "AI RMF",
+      "NIST AI RMF",
+      "AI RMF 1.0",
+      "NIST AI 100-1"
+    ],
+    "type": "Policy",
+    "domain": "governance-and-policy",
+    "file": "articles/governance-and-policy/nist-ai-risk-management-framework.md",
+    "created": "2026-10-31",
+    "maturity": "established",
+    "source_urls": [
+      "https://www.nist.gov/node/1731741",
+      "https://airc.nist.gov/airmf-resources/airmf/0-ai-rmf-1-0",
+      "https://airc.nist.gov/airmf-resources/airmf/5-sec-core/",
+      "https://airc.nist.gov/airmf-resources/airmf/3-sec-characteristics/",
+      "https://www.nist.gov/artificial-intelligence/ai-risk-management-framework-faqs",
+      "https://www.nist.gov/node/1855536"
+    ]
+  },
+  {
     "id": "kt:turing-test",
     "title": "Turing test",
     "aliases": [

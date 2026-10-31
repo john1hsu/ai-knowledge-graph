@@ -10,12 +10,15 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:multi-agent-systems` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent` |
+| `kt:red-teaming` | `kt:ai-evaluation`, `kt:nist-ai-risk-management-framework` |
 | `kt:tool-use` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` | `kt:artificial-neural-network` |
 | `kt:activation-function` | `kt:artificial-neural-network` |
 | `kt:agent-memory` | `kt:ai-agent` |
 | `kt:agentic-systems` | `kt:agentic-workflow` |
+| `kt:ai-governance` | `kt:nist-ai-risk-management-framework` |
+| `kt:ai-risk-management` | `kt:nist-ai-risk-management-framework` |
 | `kt:alan-turing` | `kt:turing-test` |
 | `kt:backpropagation` | `kt:artificial-neural-network` |
 | `kt:benchmark-contamination` | `kt:ai-evaluation` |
@@ -26,6 +29,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:devops` | `kt:mlops` |
 | `kt:distributed-training` | `kt:mlops` |
 | `kt:eliza` | `kt:turing-test` |
+| `kt:eu-ai-act` | `kt:nist-ai-risk-management-framework` |
+| `kt:executive-orders-on-ai` | `kt:nist-ai-risk-management-framework` |
 | `kt:feature-store` | `kt:mlops` |
 | `kt:foundation-model` | `kt:large-language-model` |
 | `kt:generative-adversarial-nets` | `kt:generative-adversarial-network` |
@@ -34,6 +39,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ian-goodfellow` | `kt:generative-adversarial-network` |
 | `kt:in-context-learning` | `kt:large-language-model` |
 | `kt:inspect-ai` | `kt:ai-evaluation` |
+| `kt:iso-iec-42001` | `kt:nist-ai-risk-management-framework` |
 | `kt:john-searle` | `kt:chinese-room-argument` |
 | `kt:langgraph` | `kt:agentic-workflow` |
 | `kt:language-model` | `kt:large-language-model` |
@@ -44,12 +50,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mlflow` | `kt:mlops` |
 | `kt:model-registry` | `kt:mlops` |
 | `kt:model-serving` | `kt:mlops` |
-| `kt:nist-ai-risk-management-framework` | `kt:ai-evaluation` |
+| `kt:nist` | `kt:nist-ai-risk-management-framework` |
+| `kt:nist-generative-ai-profile` | `kt:nist-ai-risk-management-framework` |
 | `kt:perceptron` | `kt:artificial-neural-network` |
 | `kt:philosophy-of-artificial-intelligence` | `kt:chinese-room-argument` |
 | `kt:pretraining` | `kt:large-language-model` |
 | `kt:react-prompting` | `kt:ai-agent` |
-| `kt:red-teaming` | `kt:ai-evaluation` |
 | `kt:rlhf` | `kt:large-language-model` |
 | `kt:scaling-laws` | `kt:large-language-model` |
 | `kt:score-matching` | `kt:diffusion-model` |
