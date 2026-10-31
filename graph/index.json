@@ -259,6 +259,29 @@
     ]
   },
   {
+    "id": "kt:rlhf",
+    "title": "Reinforcement learning from human feedback",
+    "aliases": [
+      "RLHF",
+      "RL from human feedback",
+      "RL from human preferences",
+      "preference-based reinforcement learning"
+    ],
+    "type": "Technique",
+    "domain": "training-and-adaptation",
+    "file": "articles/training-and-adaptation/rlhf.md",
+    "created": "2026-10-31",
+    "maturity": "established",
+    "source_urls": [
+      "https://proceedings.neurips.cc/paper/2017/file/d5e2c0adad503c91f91df240d0cd4e49-Paper.pdf",
+      "https://papers.nips.cc/paper/2020/hash/1f89885d556929e98d3ef9b86448f951-Abstract.html",
+      "https://arxiv.org/pdf/2203.02155v1",
+      "https://arxiv.org/pdf/2307.15217",
+      "https://proceedings.neurips.cc/paper_files/paper/2023/hash/a85b405ed65c6477a4fe8302b5e06ce7-Abstract.html",
+      "https://huggingface.co/docs/trl/v0.12.0/en/index"
+    ]
+  },
+  {
     "id": "kt:turing-test",
     "title": "Turing test",
     "aliases": [

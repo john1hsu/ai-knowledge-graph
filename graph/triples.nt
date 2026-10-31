@@ -290,6 +290,34 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "evaluation-and-benchmarks" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <https://github.com/john1hsu/ai-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://purl.org/dc/terms/created> "2026-10-31" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/2000/01/rdf-schema#label> "Reinforcement learning from human feedback" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/2004/02/skos/core#altLabel> "RL from human feedback" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/2004/02/skos/core#altLabel> "RL from human preferences" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/2004/02/skos/core#altLabel> "RLHF" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/2004/02/skos/core#altLabel> "preference-based reinforcement learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/2004/02/skos/core#definition> "A training technique in which humans compare model outputs, a reward model is fitted to those preferences, and the model (policy) is then optimized with reinforcement learning to maximize the learned reward, usually under a penalty that keeps it close to its starting point." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reinforcement learning from human feedback" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/direct-preference-optimization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "training-and-adaptation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-reinforcement-learning-from-human-preferences> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s1> <http://purl.org/dc/terms/publisher> "Anthropic Engineering (Erik S. and Barry Zhang)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s1> <http://purl.org/dc/terms/title> "Building effective agents" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -595,6 +623,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s5> <https://schema.org/url> "https://www.govinfo.gov/content/pkg/DCPD-202500115/html/DCPD-202500115.htm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 2017, Advances in Neural Information Processing Systems 30 (Christiano, Leike, Brown, Martic, Legg and Amodei)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s1> <http://purl.org/dc/terms/title> "Deep Reinforcement Learning from Human Preferences" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s1> <https://schema.org/url> "https://proceedings.neurips.cc/paper/2017/file/d5e2c0adad503c91f91df240d0cd4e49-Paper.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s2> <http://purl.org/dc/terms/publisher> "NeurIPS 2020, Advances in Neural Information Processing Systems 33 (Stiennon et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s2> <http://purl.org/dc/terms/title> "Learning to summarize with human feedback" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s2> <https://schema.org/url> "https://papers.nips.cc/paper/2020/hash/1f89885d556929e98d3ef9b86448f951-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s3> <http://purl.org/dc/terms/publisher> "Ouyang et al., arXiv 2203.02155 (published at NeurIPS 2022)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s3> <http://purl.org/dc/terms/title> "Training language models to follow instructions with human feedback" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s3> <https://schema.org/url> "https://arxiv.org/pdf/2203.02155v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s4> <http://purl.org/dc/terms/publisher> "Casper et al., arXiv 2307.15217 (published in Transactions on Machine Learning Research, 2023)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s4> <http://purl.org/dc/terms/title> "Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s4> <https://schema.org/url> "https://arxiv.org/pdf/2307.15217" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s5> <http://purl.org/dc/terms/publisher> "NeurIPS 2023, Advances in Neural Information Processing Systems 36 (Rafailov, Sharma, Mitchell, Manning, Ermon and Finn)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s5> <http://purl.org/dc/terms/title> "Direct Preference Optimization: Your Language Model is Secretly a Reward Model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s5> <https://schema.org/url> "https://proceedings.neurips.cc/paper_files/paper/2023/hash/a85b405ed65c6477a4fe8302b5e06ce7-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s6> <http://purl.org/dc/terms/publisher> "Hugging Face, TRL documentation (v0.12.0)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s6> <http://purl.org/dc/terms/title> "TRL - Transformer Reinforcement Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s6> <https://schema.org/url> "https://huggingface.co/docs/trl/v0.12.0/en/index" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s1> <http://purl.org/dc/terms/publisher> "A. M. Turing, Mind 59 (236), 1950 (copy hosted for MIT CSAIL course 6.803)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s1> <http://purl.org/dc/terms/title> "Computing Machinery and Intelligence" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

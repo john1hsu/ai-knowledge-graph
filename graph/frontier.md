@@ -13,13 +13,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:model-serving` | `kt:mlops`, `kt:quantization` |
 | `kt:multi-agent-systems` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent` |
-| `kt:rlhf` | `kt:red-teaming`, `kt:large-language-model` |
 | `kt:tool-use` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` | `kt:artificial-neural-network` |
 | `kt:activation-function` | `kt:artificial-neural-network` |
 | `kt:agent-memory` | `kt:ai-agent` |
 | `kt:agentic-systems` | `kt:agentic-workflow` |
+| `kt:ai-alignment` | `kt:rlhf` |
 | `kt:ai-governance` | `kt:nist-ai-risk-management-framework` |
 | `kt:ai-risk-management` | `kt:nist-ai-risk-management-framework` |
 | `kt:alan-turing` | `kt:turing-test` |
@@ -28,20 +28,25 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:computing-machinery-and-intelligence` | `kt:turing-test` |
 | `kt:convolutional-neural-network` | `kt:artificial-neural-network` |
 | `kt:data-drift` | `kt:mlops` |
+| `kt:deep-reinforcement-learning-from-human-preferences` | `kt:rlhf` |
 | `kt:deep-unsupervised-learning-using-nonequilibrium-thermodynamics` | `kt:diffusion-model` |
 | `kt:devops` | `kt:mlops` |
+| `kt:direct-preference-optimization` | `kt:rlhf` |
 | `kt:distributed-training` | `kt:mlops` |
 | `kt:eliza` | `kt:turing-test` |
 | `kt:eu-ai-act` | `kt:nist-ai-risk-management-framework` |
 | `kt:feature-store` | `kt:mlops` |
+| `kt:fine-tuning` | `kt:rlhf` |
 | `kt:foundation-model` | `kt:large-language-model` |
 | `kt:generative-adversarial-nets` | `kt:generative-adversarial-network` |
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
 | `kt:hugging-face-diffusers` | `kt:diffusion-model` |
 | `kt:hugging-face-transformers` | `kt:quantization` |
+| `kt:hugging-face-trl` | `kt:rlhf` |
 | `kt:ian-goodfellow` | `kt:generative-adversarial-network` |
 | `kt:in-context-learning` | `kt:large-language-model` |
 | `kt:inspect-ai` | `kt:ai-evaluation` |
+| `kt:instruction-tuning` | `kt:rlhf` |
 | `kt:iso-iec-42001` | `kt:nist-ai-risk-management-framework` |
 | `kt:jailbreak` | `kt:red-teaming` |
 | `kt:john-searle` | `kt:chinese-room-argument` |
@@ -62,8 +67,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:philosophy-of-artificial-intelligence` | `kt:chinese-room-argument` |
 | `kt:pretraining` | `kt:large-language-model` |
 | `kt:prompt-injection` | `kt:red-teaming` |
+| `kt:proximal-policy-optimization` | `kt:rlhf` |
 | `kt:qlora` | `kt:quantization` |
 | `kt:react-prompting` | `kt:ai-agent` |
+| `kt:reinforcement-learning` | `kt:rlhf` |
+| `kt:reward-hacking` | `kt:rlhf` |
 | `kt:scaling-laws` | `kt:large-language-model` |
 | `kt:score-matching` | `kt:diffusion-model` |
 | `kt:self-refine` | `kt:agentic-workflow` |

@@ -1024,6 +1024,105 @@
       ]
     },
     {
+      "@id": "kt:rlhf",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Reinforcement learning from human feedback",
+      "skos:definition": "A training technique in which humans compare model outputs, a reward model is fitted to those preferences, and the model (policy) is then optimized with reinforcement learning to maximize the learned reward, usually under a penalty that keeps it close to its starting point.",
+      "kto:domain": "training-and-adaptation",
+      "dcterms:created": "2026-10-31",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Deep Reinforcement Learning from Human Preferences",
+          "dcterms:publisher": "NeurIPS 2017, Advances in Neural Information Processing Systems 30 (Christiano, Leike, Brown, Martic, Legg and Amodei)",
+          "schema:url": "https://proceedings.neurips.cc/paper/2017/file/d5e2c0adad503c91f91df240d0cd4e49-Paper.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Learning to summarize with human feedback",
+          "dcterms:publisher": "NeurIPS 2020, Advances in Neural Information Processing Systems 33 (Stiennon et al.)",
+          "schema:url": "https://papers.nips.cc/paper/2020/hash/1f89885d556929e98d3ef9b86448f951-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Training language models to follow instructions with human feedback",
+          "dcterms:publisher": "Ouyang et al., arXiv 2203.02155 (published at NeurIPS 2022)",
+          "schema:url": "https://arxiv.org/pdf/2203.02155v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback",
+          "dcterms:publisher": "Casper et al., arXiv 2307.15217 (published in Transactions on Machine Learning Research, 2023)",
+          "schema:url": "https://arxiv.org/pdf/2307.15217",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+          "dcterms:publisher": "NeurIPS 2023, Advances in Neural Information Processing Systems 36 (Rafailov, Sharma, Mitchell, Manning, Ermon and Finn)",
+          "schema:url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/a85b405ed65c6477a4fe8302b5e06ce7-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "TRL - Transformer Reinforcement Learning",
+          "dcterms:publisher": "Hugging Face, TRL documentation (v0.12.0)",
+          "schema:url": "https://huggingface.co/docs/trl/v0.12.0/en/index",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/training-and-adaptation/rlhf.md",
+      "skos:altLabel": [
+        "RLHF",
+        "RL from human feedback",
+        "RL from human preferences",
+        "preference-based reinforcement learning"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:fine-tuning"
+        },
+        {
+          "@id": "kt:reinforcement-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:red-teaming"
+        },
+        {
+          "@id": "kt:reward-hacking"
+        },
+        {
+          "@id": "kt:ai-alignment"
+        },
+        {
+          "@id": "kt:instruction-tuning"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:deep-reinforcement-learning-from-human-preferences"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:proximal-policy-optimization"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:direct-preference-optimization"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:hugging-face-trl"
+        }
+      ]
+    },
+    {
       "@id": "kt:large-language-model",
       "@type": "kto:Concept",
       "skos:prefLabel": "Large language model",
