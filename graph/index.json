@@ -477,6 +477,28 @@
     ]
   },
   {
+    "id": "kt:mechanistic-interpretability",
+    "title": "Mechanistic interpretability",
+    "aliases": [
+      "mech interp",
+      "mechanistic interpretability research",
+      "circuits research"
+    ],
+    "type": "Field",
+    "domain": "safety-alignment-and-security",
+    "file": "articles/safety-alignment-and-security/mechanistic-interpretability.md",
+    "created": "2026-11-08",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://mlanthology.org/distill/2020/olah2020distill-zoom",
+      "https://mlanthology.org/tmlr/2024/bereska2024tmlr-mechanistic",
+      "https://arxiv.org/abs/2209.11895",
+      "https://transformer-circuits.pub/2023/monosemantic-features/",
+      "https://transformer-circuits.pub/2024/scaling-monosemanticity/",
+      "https://transformer-circuits.pub/2025/attribution-graphs/biology.html"
+    ]
+  },
+  {
     "id": "kt:mlops",
     "title": "MLOps",
     "aliases": [

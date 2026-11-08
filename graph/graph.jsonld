@@ -2760,6 +2760,96 @@
       ]
     },
     {
+      "@id": "kt:mechanistic-interpretability",
+      "@type": "kto:Field",
+      "skos:prefLabel": "Mechanistic interpretability",
+      "skos:definition": "A research field that tries to reverse-engineer trained neural networks, identifying the features they represent and the circuits that compute with them, to give a causal, human-understandable account of model behaviour.",
+      "kto:domain": "safety-alignment-and-security",
+      "dcterms:created": "2026-11-08",
+      "kto:maturity": "emerging",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Zoom In: An Introduction to Circuits",
+          "dcterms:publisher": "Distill, 2020 (Olah, Cammarata, Schubert, Goh, Petrov, Carter); doi:10.23915/distill.00024.001",
+          "schema:url": "https://mlanthology.org/distill/2020/olah2020distill-zoom",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Mechanistic Interpretability for AI Safety — A Review",
+          "dcterms:publisher": "Transactions on Machine Learning Research, 2024 (Bereska, Gavves)",
+          "schema:url": "https://mlanthology.org/tmlr/2024/bereska2024tmlr-mechanistic",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "In-context Learning and Induction Heads",
+          "dcterms:publisher": "arXiv:2209.11895 (Olsson, Elhage, Nanda et al., Anthropic), 2022",
+          "schema:url": "https://arxiv.org/abs/2209.11895",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Towards Monosemanticity: Decomposing Language Models With Dictionary Learning",
+          "dcterms:publisher": "Anthropic, Transformer Circuits Thread, 4 October 2023 (Bricken, Templeton, Batson et al.)",
+          "schema:url": "https://transformer-circuits.pub/2023/monosemantic-features/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet",
+          "dcterms:publisher": "Anthropic, Transformer Circuits Thread, 21 May 2024",
+          "schema:url": "https://transformer-circuits.pub/2024/scaling-monosemanticity/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "On the Biology of a Large Language Model",
+          "dcterms:publisher": "Anthropic, Transformer Circuits Thread, 27 March 2025",
+          "schema:url": "https://transformer-circuits.pub/2025/attribution-graphs/biology.html",
+          "kto:sourceType": "lab-research"
+        }
+      ],
+      "kto:file": "articles/safety-alignment-and-security/mechanistic-interpretability.md",
+      "skos:altLabel": [
+        "mech interp",
+        "mechanistic interpretability research",
+        "circuits research"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:interpretability"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:artificial-neural-network"
+        },
+        {
+          "@id": "kt:in-context-learning"
+        },
+        {
+          "@id": "kt:hallucination"
+        },
+        {
+          "@id": "kt:chain-of-thought"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:ai-alignment"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:sparse-autoencoder"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:induction-head"
+        }
+      ]
+    },
+    {
       "@id": "kt:rlhf",
       "@type": "kto:Technique",
       "skos:prefLabel": "Reinforcement learning from human feedback",

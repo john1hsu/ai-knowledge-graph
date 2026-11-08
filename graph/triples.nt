@@ -541,6 +541,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Field> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> <http://www.w3.org/2000/01/rdf-schema#label> "Mechanistic interpretability" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> <http://www.w3.org/2004/02/skos/core#altLabel> "circuits research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> <http://www.w3.org/2004/02/skos/core#altLabel> "mech interp" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> <http://www.w3.org/2004/02/skos/core#altLabel> "mechanistic interpretability research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/interpretability> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> <http://www.w3.org/2004/02/skos/core#definition> "A research field that tries to reverse-engineer trained neural networks, identifying the features they represent and the circuits that compute with them, to give a causal, human-understandable account of model behaviour." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mechanistic interpretability" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/sparse-autoencoder> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "safety-alignment-and-security" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/induction-head> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Paradigm> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <http://www.w3.org/2000/01/rdf-schema#label> "MLOps" .
@@ -1362,6 +1387,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "standards-body" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s6> <https://schema.org/url> "https://scc-ccn.ca/standardsdb/standards/2049844" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s1> <http://purl.org/dc/terms/publisher> "Distill, 2020 (Olah, Cammarata, Schubert, Goh, Petrov, Carter); doi:10.23915/distill.00024.001" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s1> <http://purl.org/dc/terms/title> "Zoom In: An Introduction to Circuits" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s1> <https://schema.org/url> "https://mlanthology.org/distill/2020/olah2020distill-zoom" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s2> <http://purl.org/dc/terms/publisher> "Transactions on Machine Learning Research, 2024 (Bereska, Gavves)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s2> <http://purl.org/dc/terms/title> "Mechanistic Interpretability for AI Safety — A Review" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s2> <https://schema.org/url> "https://mlanthology.org/tmlr/2024/bereska2024tmlr-mechanistic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s3> <http://purl.org/dc/terms/publisher> "arXiv:2209.11895 (Olsson, Elhage, Nanda et al., Anthropic), 2022" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s3> <http://purl.org/dc/terms/title> "In-context Learning and Induction Heads" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s3> <https://schema.org/url> "https://arxiv.org/abs/2209.11895" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s4> <http://purl.org/dc/terms/publisher> "Anthropic, Transformer Circuits Thread, 4 October 2023 (Bricken, Templeton, Batson et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s4> <http://purl.org/dc/terms/title> "Towards Monosemanticity: Decomposing Language Models With Dictionary Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s4> <https://schema.org/url> "https://transformer-circuits.pub/2023/monosemantic-features/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s5> <http://purl.org/dc/terms/publisher> "Anthropic, Transformer Circuits Thread, 21 May 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s5> <http://purl.org/dc/terms/title> "Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s5> <https://schema.org/url> "https://transformer-circuits.pub/2024/scaling-monosemanticity/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s6> <http://purl.org/dc/terms/publisher> "Anthropic, Transformer Circuits Thread, 27 March 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s6> <http://purl.org/dc/terms/title> "On the Biology of a Large Language Model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s6> <https://schema.org/url> "https://transformer-circuits.pub/2025/attribution-graphs/biology.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 2015 (Sculley et al., Google)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s1> <http://purl.org/dc/terms/title> "Hidden Technical Debt in Machine Learning Systems" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
