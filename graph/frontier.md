@@ -6,10 +6,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:retrieval-augmented-generation` | `kt:bm25`, `kt:embeddings`, `kt:embeddings`, `kt:semantic-search`, `kt:semantic-search` |
 | `kt:perceptron` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:artificial-neural-network`, `kt:backpropagation` |
+| `kt:q-learning` | `kt:actor-critic`, `kt:actor-critic`, `kt:policy-gradient`, `kt:policy-gradient` |
+| `kt:reinforcement-learning` | `kt:machine-learning`, `kt:actor-critic`, `kt:policy-gradient`, `kt:rlhf` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:turing-test`, `kt:machine-learning` |
 | `kt:hybrid-search` | `kt:bm25`, `kt:bm25`, `kt:semantic-search` |
 | `kt:in-context-learning` | `kt:chain-of-thought`, `kt:jailbreak`, `kt:large-language-model` |
-| `kt:reinforcement-learning` | `kt:machine-learning`, `kt:policy-gradient`, `kt:rlhf` |
 | `kt:activation-function` | `kt:artificial-neural-network`, `kt:backpropagation` |
 | `kt:ai-alignment` | `kt:jailbreak`, `kt:rlhf` |
 | `kt:beir` | `kt:bm25`, `kt:semantic-search` |
@@ -19,6 +20,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:gradient-descent` | `kt:backpropagation`, `kt:deep-learning` |
 | `kt:information-retrieval` | `kt:bm25`, `kt:semantic-search` |
+| `kt:markov-decision-process` | `kt:actor-critic`, `kt:policy-gradient` |
 | `kt:model-pruning` | `kt:quantization`, `kt:quantization` |
 | `kt:model-serving` | `kt:mlops`, `kt:quantization` |
 | `kt:multi-agent-systems` | `kt:agentic-workflow`, `kt:ai-agent` |
@@ -26,7 +28,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:probabilistic-relevance-framework` | `kt:bm25`, `kt:bm25` |
 | `kt:prompt-injection` | `kt:red-teaming`, `kt:jailbreak` |
 | `kt:proximal-policy-optimization` | `kt:policy-gradient`, `kt:rlhf` |
-| `kt:q-learning` | `kt:policy-gradient`, `kt:policy-gradient` |
 | `kt:react-prompting` | `kt:ai-agent`, `kt:chain-of-thought` |
 | `kt:representation-learning` | `kt:deep-learning`, `kt:embeddings` |
 | `kt:reranking` | `kt:bm25`, `kt:semantic-search` |
@@ -36,7 +37,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:vector-database` | `kt:embeddings`, `kt:semantic-search` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings` |
-| `kt:actor-critic` | `kt:policy-gradient` |
 | `kt:adversarial-machine-learning` | `kt:jailbreak` |
 | `kt:agent-memory` | `kt:ai-agent` |
 | `kt:agentic-systems` | `kt:agentic-workflow` |
@@ -46,6 +46,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:apache-lucene` | `kt:bm25` |
 | `kt:approximate-nearest-neighbor-search` | `kt:semantic-search` |
 | `kt:arthur-samuel` | `kt:machine-learning` |
+| `kt:asynchronous-advantage-actor-critic` | `kt:actor-critic` |
 | `kt:automatic-differentiation` | `kt:backpropagation` |
 | `kt:benchmark-contamination` | `kt:ai-evaluation` |
 | `kt:chain-of-thought-prompting-elicits-reasoning-in-large-language-models` | `kt:chain-of-thought` |
@@ -89,7 +90,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:learning-representations-by-back-propagating-errors` | `kt:backpropagation` |
 | `kt:llm-as-a-judge` | `kt:ai-evaluation` |
 | `kt:llmops` | `kt:mlops` |
-| `kt:markov-decision-process` | `kt:policy-gradient` |
 | `kt:minds-brains-and-programs` | `kt:chinese-room-argument` |
 | `kt:mlflow` | `kt:mlops` |
 | `kt:model-compression` | `kt:quantization` |
@@ -116,10 +116,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:score-matching` | `kt:diffusion-model` |
 | `kt:self-consistency` | `kt:chain-of-thought` |
 | `kt:self-refine` | `kt:agentic-workflow` |
+| `kt:soft-actor-critic` | `kt:actor-critic` |
 | `kt:statistical-learning-theory` | `kt:bias-variance-tradeoff` |
 | `kt:strong-ai` | `kt:chinese-room-argument` |
 | `kt:stylegan` | `kt:generative-adversarial-network` |
 | `kt:symbol-grounding-problem` | `kt:chinese-room-argument` |
+| `kt:temporal-difference-learning` | `kt:actor-critic` |
 | `kt:tensorrt-llm` | `kt:quantization` |
 | `kt:test-time-compute` | `kt:chain-of-thought` |
 | `kt:text-to-image-generation` | `kt:diffusion-model` |

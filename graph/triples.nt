@@ -20,6 +20,29 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/a-logical-calculus-of-the-ideas-immanent-in-nervous-activity> <https://github.com/john1hsu/ai-knowledge-graph/ontology#followedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/a-logical-calculus-of-the-ideas-immanent-in-nervous-activity> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/turing-machine> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/a-logical-calculus-of-the-ideas-immanent-in-nervous-activity> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "historical" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> <http://www.w3.org/2000/01/rdf-schema#label> "Actor-critic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> <http://www.w3.org/2004/02/skos/core#altLabel> "actor-critic algorithms" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> <http://www.w3.org/2004/02/skos/core#altLabel> "actor-critic architecture" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> <http://www.w3.org/2004/02/skos/core#definition> "A reinforcement learning design that trains two coupled function approximators: an actor, which is the parameterized policy that chooses actions, and a critic, which learns value estimates used to score and correct the actor's updates." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> <http://www.w3.org/2004/02/skos/core#prefLabel> "Actor-critic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/markov-decision-process> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "reinforcement-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/asynchronous-advantage-actor-critic> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/soft-actor-critic> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> <http://www.w3.org/2000/01/rdf-schema#label> "Agentic workflow" .
@@ -655,6 +678,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/a-logical-calculus-of-the-ideas-immanent-in-nervous-activity/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/a-logical-calculus-of-the-ideas-immanent-in-nervous-activity/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/a-logical-calculus-of-the-ideas-immanent-in-nervous-activity/s5> <https://schema.org/url> "https://www.rand.org/pubs/research_memoranda/RM704.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s1> <http://purl.org/dc/terms/publisher> "Advances in Neural Information Processing Systems 12 (NIPS 1999) (Konda and Tsitsiklis)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s1> <http://purl.org/dc/terms/title> "Actor-Critic Algorithms" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s1> <https://schema.org/url> "https://papers.nips.cc/paper/1786-actor-critic-algorithms" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s2> <http://purl.org/dc/terms/publisher> "Proceedings of the 33rd ICML, PMLR 48:1928-1937, 2016 (Mnih et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s2> <http://purl.org/dc/terms/title> "Asynchronous Methods for Deep Reinforcement Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s2> <https://schema.org/url> "https://proceedings.mlr.press/v48/mniha16.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s3> <http://purl.org/dc/terms/publisher> "Proceedings of the 35th ICML, PMLR 80:1861-1870, 2018 (Haarnoja, Zhou, Abbeel and Levine)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s3> <http://purl.org/dc/terms/title> "Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s3> <https://schema.org/url> "https://proceedings.mlr.press/v80/haarnoja18b.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s4> <http://purl.org/dc/terms/publisher> "Hugging Face" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s4> <http://purl.org/dc/terms/title> "Deep RL Course, Unit 6: Advantage Actor-Critic (A2C)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s4> <https://schema.org/url> "https://huggingface.co/learn/deep-rl-course/unit6/advantage-actor-critic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s5> <http://purl.org/dc/terms/publisher> "OpenAI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s5> <http://purl.org/dc/terms/title> "Spinning Up in Deep RL: Soft Actor-Critic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s5> <https://schema.org/url> "https://spinningup.openai.com/en/latest/algorithms/sac.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s1> <http://purl.org/dc/terms/publisher> "Anthropic Engineering (Erik S. and Barry Zhang)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s1> <http://purl.org/dc/terms/title> "Building effective agents" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

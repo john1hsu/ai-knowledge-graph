@@ -1636,6 +1636,89 @@
       ]
     },
     {
+      "@id": "kt:actor-critic",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Actor-critic",
+      "skos:definition": "A reinforcement learning design that trains two coupled function approximators: an actor, which is the parameterized policy that chooses actions, and a critic, which learns value estimates used to score and correct the actor's updates.",
+      "kto:domain": "reinforcement-learning",
+      "dcterms:created": "2026-11-08",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Actor-Critic Algorithms",
+          "dcterms:publisher": "Advances in Neural Information Processing Systems 12 (NIPS 1999) (Konda and Tsitsiklis)",
+          "schema:url": "https://papers.nips.cc/paper/1786-actor-critic-algorithms",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Asynchronous Methods for Deep Reinforcement Learning",
+          "dcterms:publisher": "Proceedings of the 33rd ICML, PMLR 48:1928-1937, 2016 (Mnih et al.)",
+          "schema:url": "https://proceedings.mlr.press/v48/mniha16.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor",
+          "dcterms:publisher": "Proceedings of the 35th ICML, PMLR 80:1861-1870, 2018 (Haarnoja, Zhou, Abbeel and Levine)",
+          "schema:url": "https://proceedings.mlr.press/v80/haarnoja18b.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Deep RL Course, Unit 6: Advantage Actor-Critic (A2C)",
+          "dcterms:publisher": "Hugging Face",
+          "schema:url": "https://huggingface.co/learn/deep-rl-course/unit6/advantage-actor-critic",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Spinning Up in Deep RL: Soft Actor-Critic",
+          "dcterms:publisher": "OpenAI",
+          "schema:url": "https://spinningup.openai.com/en/latest/algorithms/sac.html",
+          "kto:sourceType": "lab-research"
+        }
+      ],
+      "kto:file": "articles/reinforcement-learning/actor-critic.md",
+      "skos:altLabel": [
+        "actor-critic algorithms",
+        "actor-critic architecture"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:policy-gradient"
+        },
+        {
+          "@id": "kt:reinforcement-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:q-learning"
+        },
+        {
+          "@id": "kt:markov-decision-process"
+        },
+        {
+          "@id": "kt:deep-learning"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:temporal-difference-learning"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:asynchronous-advantage-actor-critic"
+        },
+        {
+          "@id": "kt:soft-actor-critic"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:q-learning"
+        }
+      ]
+    },
+    {
       "@id": "kt:policy-gradient",
       "@type": "kto:Technique",
       "skos:prefLabel": "Policy gradient methods",
