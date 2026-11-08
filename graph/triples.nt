@@ -524,6 +524,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-reinforcement-learning-from-human-preferences> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <http://www.w3.org/2000/01/rdf-schema#label> "Semantic search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <http://www.w3.org/2004/02/skos/core#altLabel> "dense semantic search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <http://www.w3.org/2004/02/skos/core#altLabel> "meaning-based search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <http://www.w3.org/2004/02/skos/core#altLabel> "neural search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <http://www.w3.org/2004/02/skos/core#altLabel> "vector search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <http://www.w3.org/2004/02/skos/core#definition> "An information retrieval approach that ranks documents by how closely their meaning matches a query's, rather than by exact keyword overlap, typically by mapping queries and documents into a shared vector space and returning the nearest items." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <http://www.w3.org/2004/02/skos/core#prefLabel> "Semantic search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/bm25> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/hybrid-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/reranking> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/vector-database> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/bm25> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/latent-semantic-analysis> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "retrieval-and-knowledge" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/beir> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/a-logical-calculus-of-the-ideas-immanent-in-nervous-activity/s1> <http://purl.org/dc/terms/publisher> "Bulletin of Mathematical Biophysics 5, 115–133 (1943), DOI 10.1007/BF02478259; ML Anthology record" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/a-logical-calculus-of-the-ideas-immanent-in-nervous-activity/s1> <http://purl.org/dc/terms/title> "A Logical Calculus of the Ideas Immanent in Nervous Activity" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/a-logical-calculus-of-the-ideas-immanent-in-nervous-activity/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -1079,6 +1109,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s6> <https://schema.org/url> "https://huggingface.co/docs/trl/v0.12.0/en/index" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s1> <http://purl.org/dc/terms/publisher> "Journal of the American Society for Information Science 41(6), 391-407, 1990 (Deerwester, Dumais, Furnas, Landauer and Harshman); author copy hosted by Microsoft Research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s1> <http://purl.org/dc/terms/title> "Indexing by Latent Semantic Analysis" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s1> <https://schema.org/url> "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/JASIS90.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s2> <http://purl.org/dc/terms/publisher> "Cambridge University Press, 2008 (Manning, Raghavan and Schütze); Stanford NLP Group online edition" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s2> <http://purl.org/dc/terms/title> "Introduction to Information Retrieval, Chapter 18: Matrix decompositions and latent semantic indexing" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s2> <https://schema.org/url> "https://nlp.stanford.edu/IR-book/pdf/18lsi.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s3> <http://purl.org/dc/terms/publisher> "Sentence Transformers documentation (sbert.net)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s3> <http://purl.org/dc/terms/title> "Semantic Search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s3> <https://schema.org/url> "https://sbert.net/examples/sentence_transformer/applications/semantic-search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s4> <http://purl.org/dc/terms/publisher> "Malkov and Yashunin, arXiv 1603.09320" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s4> <http://purl.org/dc/terms/title> "Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s4> <https://schema.org/url> "https://arxiv.org/pdf/1603.09320" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s5> <http://purl.org/dc/terms/publisher> "Khattab and Zaharia, arXiv 2004.12832" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s5> <http://purl.org/dc/terms/title> "ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s5> <https://schema.org/url> "https://arxiv.org/abs/2004.12832v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s6> <http://purl.org/dc/terms/publisher> "Thakur, Reimers, Rücklé, Srivastava and Gurevych, arXiv 2104.08663 (NeurIPS 2021 Datasets and Benchmarks Track)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s6> <http://purl.org/dc/terms/title> "BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s6> <https://schema.org/url> "https://arxiv.org/abs/2104.08663" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s1> <http://purl.org/dc/terms/publisher> "A. M. Turing, Mind 59 (236), 1950 (copy hosted for MIT CSAIL course 6.803)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s1> <http://purl.org/dc/terms/title> "Computing Machinery and Intelligence" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

@@ -459,6 +459,29 @@
     ]
   },
   {
+    "id": "kt:semantic-search",
+    "title": "Semantic search",
+    "aliases": [
+      "meaning-based search",
+      "neural search",
+      "vector search",
+      "dense semantic search"
+    ],
+    "type": "Technique",
+    "domain": "retrieval-and-knowledge",
+    "file": "articles/retrieval-and-knowledge/semantic-search.md",
+    "created": "2026-11-08",
+    "maturity": "established",
+    "source_urls": [
+      "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/JASIS90.pdf",
+      "https://nlp.stanford.edu/IR-book/pdf/18lsi.pdf",
+      "https://sbert.net/examples/sentence_transformer/applications/semantic-search",
+      "https://arxiv.org/pdf/1603.09320",
+      "https://arxiv.org/abs/2004.12832v2",
+      "https://arxiv.org/abs/2104.08663"
+    ]
+  },
+  {
     "id": "kt:turing-test",
     "title": "Turing test",
     "aliases": [
