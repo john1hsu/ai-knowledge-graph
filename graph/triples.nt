@@ -170,6 +170,35 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ml-foundations" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <http://www.w3.org/2000/01/rdf-schema#label> "BM25" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <http://www.w3.org/2004/02/skos/core#altLabel> "BM25 ranking function" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <http://www.w3.org/2004/02/skos/core#altLabel> "Best Matching 25" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <http://www.w3.org/2004/02/skos/core#altLabel> "Okapi BM25" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/probabilistic-relevance-framework> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <http://www.w3.org/2004/02/skos/core#definition> "A lexical ranking function from the probabilistic relevance framework that scores a document by summing, over the query terms it contains, an inverse-document-frequency weight multiplied by a saturating, length-normalized term-frequency factor." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <http://www.w3.org/2004/02/skos/core#prefLabel> "BM25" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/hybrid-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/reranking> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/probabilistic-relevance-framework> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "retrieval-and-knowledge" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/beir> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <https://github.com/john1hsu/ai-knowledge-graph/ontology#extends> <https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hybrid-search> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/2000/01/rdf-schema#label> "Chain-of-thought prompting" .
@@ -762,6 +791,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s5> <https://schema.org/url> "https://iclr.cc/virtual/2020/poster/1489" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s1> <http://purl.org/dc/terms/publisher> "Foundations and Trends in Information Retrieval 3(4), 333-389, 2009 (Robertson and Zaragoza); author copy hosted by City, University of London" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s1> <http://purl.org/dc/terms/title> "The Probabilistic Relevance Framework: BM25 and Beyond" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s1> <https://schema.org/url> "https://staff.city.ac.uk/~sbrp622/papers/foundations_bm25_review.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s2> <http://purl.org/dc/terms/publisher> "Robertson, Walker, Jones, Hancock-Beaulieu and Gatford (City University London), Third Text REtrieval Conference (TREC-3), NIST; copy hosted by Microsoft Research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s2> <http://purl.org/dc/terms/title> "Okapi at TREC-3" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s2> <https://schema.org/url> "https://microsoft.com/en-us/research/wp-content/uploads/2016/02/okapi_trec3.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s3> <http://purl.org/dc/terms/publisher> "Thakur, Reimers, Rücklé, Srivastava and Gurevych, arXiv 2104.08663v1 (2021)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s3> <http://purl.org/dc/terms/title> "BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s3> <https://schema.org/url> "https://arxiv.org/abs/2104.08663v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s4> <http://purl.org/dc/terms/publisher> "Elastic blog (Shane Connelly), April 2018" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s4> <http://purl.org/dc/terms/title> "Practical BM25 - Part 2: The BM25 Algorithm and its Variables" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s4> <https://schema.org/url> "https://www.elastic.co/blog/practical-bm25-part-2-the-bm25-algorithm-and-its-variables" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s5> <http://purl.org/dc/terms/publisher> "Apache Software Foundation JIRA (Apache Solr / Lucene project)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s5> <http://purl.org/dc/terms/title> "SOLR-8057 (issue on making BM25 Solr's default similarity)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s5> <https://schema.org/url> "https://issues.apache.org/jira/browse/SOLR-8057" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 2022 (Wei, Wang, Schuurmans, Bosma, Ichter, Xia, Chi, Le, Zhou)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s1> <http://purl.org/dc/terms/title> "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

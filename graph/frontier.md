@@ -4,28 +4,33 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
+| `kt:retrieval-augmented-generation` | `kt:bm25`, `kt:embeddings`, `kt:embeddings`, `kt:semantic-search`, `kt:semantic-search` |
 | `kt:perceptron` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:artificial-neural-network`, `kt:backpropagation` |
-| `kt:retrieval-augmented-generation` | `kt:embeddings`, `kt:embeddings`, `kt:semantic-search`, `kt:semantic-search` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:turing-test`, `kt:machine-learning` |
-| `kt:bm25` | `kt:embeddings`, `kt:semantic-search`, `kt:semantic-search` |
+| `kt:hybrid-search` | `kt:bm25`, `kt:bm25`, `kt:semantic-search` |
 | `kt:in-context-learning` | `kt:chain-of-thought`, `kt:jailbreak`, `kt:large-language-model` |
 | `kt:reinforcement-learning` | `kt:machine-learning`, `kt:policy-gradient`, `kt:rlhf` |
 | `kt:activation-function` | `kt:artificial-neural-network`, `kt:backpropagation` |
 | `kt:ai-alignment` | `kt:jailbreak`, `kt:rlhf` |
+| `kt:beir` | `kt:bm25`, `kt:semantic-search` |
 | `kt:convolutional-neural-network` | `kt:artificial-neural-network`, `kt:deep-learning` |
 | `kt:executive-orders-on-ai` | `kt:red-teaming`, `kt:nist-ai-risk-management-framework` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:gradient-descent` | `kt:backpropagation`, `kt:deep-learning` |
+| `kt:information-retrieval` | `kt:bm25`, `kt:semantic-search` |
 | `kt:model-pruning` | `kt:quantization`, `kt:quantization` |
 | `kt:model-serving` | `kt:mlops`, `kt:quantization` |
 | `kt:multi-agent-systems` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent` |
+| `kt:probabilistic-relevance-framework` | `kt:bm25`, `kt:bm25` |
 | `kt:prompt-injection` | `kt:red-teaming`, `kt:jailbreak` |
 | `kt:proximal-policy-optimization` | `kt:policy-gradient`, `kt:rlhf` |
 | `kt:q-learning` | `kt:policy-gradient`, `kt:policy-gradient` |
 | `kt:react-prompting` | `kt:ai-agent`, `kt:chain-of-thought` |
 | `kt:representation-learning` | `kt:deep-learning`, `kt:embeddings` |
+| `kt:reranking` | `kt:bm25`, `kt:semantic-search` |
 | `kt:supervised-learning` | `kt:bias-variance-tradeoff`, `kt:machine-learning` |
+| `kt:tf-idf` | `kt:bm25`, `kt:bm25` |
 | `kt:tool-use` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:vector-database` | `kt:embeddings`, `kt:semantic-search` |
@@ -37,10 +42,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ai-governance` | `kt:nist-ai-risk-management-framework` |
 | `kt:ai-risk-management` | `kt:nist-ai-risk-management-framework` |
 | `kt:alan-turing` | `kt:turing-test` |
+| `kt:apache-lucene` | `kt:bm25` |
 | `kt:approximate-nearest-neighbor-search` | `kt:semantic-search` |
 | `kt:arthur-samuel` | `kt:machine-learning` |
 | `kt:automatic-differentiation` | `kt:backpropagation` |
-| `kt:beir` | `kt:semantic-search` |
 | `kt:benchmark-contamination` | `kt:ai-evaluation` |
 | `kt:chain-of-thought-prompting-elicits-reasoning-in-large-language-models` | `kt:chain-of-thought` |
 | `kt:computing-machinery-and-intelligence` | `kt:turing-test` |
@@ -68,9 +73,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hugging-face-diffusers` | `kt:diffusion-model` |
 | `kt:hugging-face-transformers` | `kt:quantization` |
 | `kt:hugging-face-trl` | `kt:rlhf` |
-| `kt:hybrid-search` | `kt:semantic-search` |
 | `kt:ian-goodfellow` | `kt:generative-adversarial-network` |
-| `kt:information-retrieval` | `kt:semantic-search` |
 | `kt:inspect-ai` | `kt:ai-evaluation` |
 | `kt:instruction-tuning` | `kt:rlhf` |
 | `kt:iso-iec-42001` | `kt:nist-ai-risk-management-framework` |
@@ -102,7 +105,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:recurrent-neural-network` | `kt:deep-learning` |
 | `kt:regularization` | `kt:bias-variance-tradeoff` |
 | `kt:reinforce-algorithm` | `kt:policy-gradient` |
-| `kt:reranking` | `kt:semantic-search` |
 | `kt:reward-hacking` | `kt:rlhf` |
 | `kt:scaling-laws` | `kt:large-language-model` |
 | `kt:score-matching` | `kt:diffusion-model` |

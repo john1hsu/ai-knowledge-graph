@@ -1649,6 +1649,111 @@
       ]
     },
     {
+      "@id": "kt:bm25",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "BM25",
+      "skos:definition": "A lexical ranking function from the probabilistic relevance framework that scores a document by summing, over the query terms it contains, an inverse-document-frequency weight multiplied by a saturating, length-normalized term-frequency factor.",
+      "kto:domain": "retrieval-and-knowledge",
+      "dcterms:created": "2026-11-08",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Probabilistic Relevance Framework: BM25 and Beyond",
+          "dcterms:publisher": "Foundations and Trends in Information Retrieval 3(4), 333-389, 2009 (Robertson and Zaragoza); author copy hosted by City, University of London",
+          "schema:url": "https://staff.city.ac.uk/~sbrp622/papers/foundations_bm25_review.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Okapi at TREC-3",
+          "dcterms:publisher": "Robertson, Walker, Jones, Hancock-Beaulieu and Gatford (City University London), Third Text REtrieval Conference (TREC-3), NIST; copy hosted by Microsoft Research",
+          "schema:url": "https://microsoft.com/en-us/research/wp-content/uploads/2016/02/okapi_trec3.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models",
+          "dcterms:publisher": "Thakur, Reimers, Rücklé, Srivastava and Gurevych, arXiv 2104.08663v1 (2021)",
+          "schema:url": "https://arxiv.org/abs/2104.08663v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Practical BM25 - Part 2: The BM25 Algorithm and its Variables",
+          "dcterms:publisher": "Elastic blog (Shane Connelly), April 2018",
+          "schema:url": "https://www.elastic.co/blog/practical-bm25-part-2-the-bm25-algorithm-and-its-variables",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "SOLR-8057 (issue on making BM25 Solr's default similarity)",
+          "dcterms:publisher": "Apache Software Foundation JIRA (Apache Solr / Lucene project)",
+          "schema:url": "https://issues.apache.org/jira/browse/SOLR-8057",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/retrieval-and-knowledge/bm25.md",
+      "skos:altLabel": [
+        "Okapi BM25",
+        "Best Matching 25",
+        "BM25 ranking function"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:information-retrieval"
+        },
+        {
+          "@id": "kt:probabilistic-relevance-framework"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:semantic-search"
+        },
+        {
+          "@id": "kt:embeddings"
+        },
+        {
+          "@id": "kt:hybrid-search"
+        },
+        {
+          "@id": "kt:tf-idf"
+        },
+        {
+          "@id": "kt:retrieval-augmented-generation"
+        },
+        {
+          "@id": "kt:reranking"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:probabilistic-relevance-framework"
+        }
+      ],
+      "kto:extends": [
+        {
+          "@id": "kt:tf-idf"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:semantic-search"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:beir"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:apache-lucene"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:hybrid-search"
+        }
+      ]
+    },
+    {
       "@id": "kt:embeddings",
       "@type": "kto:Concept",
       "skos:prefLabel": "Embeddings",
