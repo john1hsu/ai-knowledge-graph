@@ -1853,6 +1853,83 @@
       ]
     },
     {
+      "@id": "kt:jailbreak",
+      "@type": "kto:Risk",
+      "skos:prefLabel": "Jailbreak",
+      "skos:definition": "An attack in which a user crafts direct inputs to a safety-trained AI model so that it circumvents the restrictions its developer placed on its outputs, typically getting it to produce content it was trained to refuse.",
+      "kto:domain": "safety-alignment-and-security",
+      "dcterms:created": "2026-11-08",
+      "kto:maturity": "emerging",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations (NIST AI 100-2 E2025)",
+          "dcterms:publisher": "NIST (Vassilev, Oprea, Fordyce, Anderson, Davies, Hamin), March 2025",
+          "schema:url": "https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-2e2025.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Jailbroken: How Does LLM Safety Training Fail?",
+          "dcterms:publisher": "NeurIPS 2023 (Wei, Haghtalab, Steinhardt)",
+          "schema:url": "https://neurips.cc/virtual/2023/poster/70702",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Universal and Transferable Adversarial Attacks on Aligned Language Models",
+          "dcterms:publisher": "arXiv:2307.15043 (Zou, Wang, Carlini, Nasr, Kolter, Fredrikson), 2023",
+          "schema:url": "https://arxiv.org/abs/2307.15043",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Many-shot jailbreaking",
+          "dcterms:publisher": "Anthropic, 2 April 2024",
+          "schema:url": "https://www.anthropic.com/research/many-shot-jailbreaking",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Constitutional Classifiers: Defending against universal jailbreaks",
+          "dcterms:publisher": "Anthropic, 3 February 2025 (updated 13 February 2025)",
+          "schema:url": "https://www.anthropic.com/news/constitutional-classifiers",
+          "kto:sourceType": "lab-research"
+        }
+      ],
+      "kto:file": "articles/safety-alignment-and-security/jailbreak.md",
+      "skos:altLabel": [
+        "jailbreaking",
+        "LLM jailbreak",
+        "jailbreak attack",
+        "direct prompting attack"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:adversarial-machine-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:red-teaming"
+        },
+        {
+          "@id": "kt:rlhf"
+        },
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:ai-alignment"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:prompt-injection"
+        }
+      ],
+      "kto:exploits": [
+        {
+          "@id": "kt:in-context-learning"
+        }
+      ]
+    },
+    {
       "@id": "kt:rlhf",
       "@type": "kto:Technique",
       "skos:prefLabel": "Reinforcement learning from human feedback",

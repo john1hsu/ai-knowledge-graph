@@ -8,17 +8,19 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:retrieval-augmented-generation` | `kt:embeddings`, `kt:embeddings`, `kt:semantic-search`, `kt:semantic-search` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:turing-test`, `kt:machine-learning` |
 | `kt:bm25` | `kt:embeddings`, `kt:semantic-search`, `kt:semantic-search` |
+| `kt:in-context-learning` | `kt:chain-of-thought`, `kt:jailbreak`, `kt:large-language-model` |
 | `kt:reinforcement-learning` | `kt:machine-learning`, `kt:policy-gradient`, `kt:rlhf` |
 | `kt:activation-function` | `kt:artificial-neural-network`, `kt:backpropagation` |
+| `kt:ai-alignment` | `kt:jailbreak`, `kt:rlhf` |
 | `kt:convolutional-neural-network` | `kt:artificial-neural-network`, `kt:deep-learning` |
 | `kt:executive-orders-on-ai` | `kt:red-teaming`, `kt:nist-ai-risk-management-framework` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:gradient-descent` | `kt:backpropagation`, `kt:deep-learning` |
-| `kt:in-context-learning` | `kt:chain-of-thought`, `kt:large-language-model` |
 | `kt:model-pruning` | `kt:quantization`, `kt:quantization` |
 | `kt:model-serving` | `kt:mlops`, `kt:quantization` |
 | `kt:multi-agent-systems` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent` |
+| `kt:prompt-injection` | `kt:red-teaming`, `kt:jailbreak` |
 | `kt:proximal-policy-optimization` | `kt:policy-gradient`, `kt:rlhf` |
 | `kt:q-learning` | `kt:policy-gradient`, `kt:policy-gradient` |
 | `kt:react-prompting` | `kt:ai-agent`, `kt:chain-of-thought` |
@@ -29,9 +31,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:vector-database` | `kt:embeddings`, `kt:semantic-search` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings` |
 | `kt:actor-critic` | `kt:policy-gradient` |
+| `kt:adversarial-machine-learning` | `kt:jailbreak` |
 | `kt:agent-memory` | `kt:ai-agent` |
 | `kt:agentic-systems` | `kt:agentic-workflow` |
-| `kt:ai-alignment` | `kt:rlhf` |
 | `kt:ai-governance` | `kt:nist-ai-risk-management-framework` |
 | `kt:ai-risk-management` | `kt:nist-ai-risk-management-framework` |
 | `kt:alan-turing` | `kt:turing-test` |
@@ -72,7 +74,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:inspect-ai` | `kt:ai-evaluation` |
 | `kt:instruction-tuning` | `kt:rlhf` |
 | `kt:iso-iec-42001` | `kt:nist-ai-risk-management-framework` |
-| `kt:jailbreak` | `kt:red-teaming` |
 | `kt:john-searle` | `kt:chinese-room-argument` |
 | `kt:knowledge-distillation` | `kt:quantization` |
 | `kt:langgraph` | `kt:agentic-workflow` |
@@ -95,7 +96,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:policy-gradient-methods-for-reinforcement-learning-with-function-approximation` | `kt:policy-gradient` |
 | `kt:pretraining` | `kt:large-language-model` |
 | `kt:prompt-engineering` | `kt:chain-of-thought` |
-| `kt:prompt-injection` | `kt:red-teaming` |
 | `kt:pytorch` | `kt:backpropagation` |
 | `kt:qlora` | `kt:quantization` |
 | `kt:reasoning-models` | `kt:chain-of-thought` |

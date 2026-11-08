@@ -283,6 +283,28 @@
     ]
   },
   {
+    "id": "kt:jailbreak",
+    "title": "Jailbreak",
+    "aliases": [
+      "jailbreaking",
+      "LLM jailbreak",
+      "jailbreak attack",
+      "direct prompting attack"
+    ],
+    "type": "Risk",
+    "domain": "safety-alignment-and-security",
+    "file": "articles/safety-alignment-and-security/jailbreak.md",
+    "created": "2026-11-08",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-2e2025.pdf",
+      "https://neurips.cc/virtual/2023/poster/70702",
+      "https://arxiv.org/abs/2307.15043",
+      "https://www.anthropic.com/research/many-shot-jailbreaking",
+      "https://www.anthropic.com/news/constitutional-classifiers"
+    ]
+  },
+  {
     "id": "kt:large-language-model",
     "title": "Large language model",
     "aliases": [
