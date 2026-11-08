@@ -14,6 +14,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ai-alignment` | `kt:jailbreak`, `kt:rlhf` |
 | `kt:beir` | `kt:bm25`, `kt:semantic-search` |
 | `kt:convolutional-neural-network` | `kt:artificial-neural-network`, `kt:deep-learning` |
+| `kt:distributed-training` | `kt:cuda`, `kt:mlops` |
 | `kt:executive-orders-on-ai` | `kt:red-teaming`, `kt:nist-ai-risk-management-framework` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:gradient-descent` | `kt:backpropagation`, `kt:deep-learning` |
@@ -51,13 +52,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:computing-machinery-and-intelligence` | `kt:turing-test` |
 | `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:cross-validation` | `kt:bias-variance-tradeoff` |
+| `kt:cudnn` | `kt:cuda` |
 | `kt:data-drift` | `kt:mlops` |
 | `kt:deep-belief-network` | `kt:deep-learning` |
 | `kt:deep-reinforcement-learning-from-human-preferences` | `kt:rlhf` |
 | `kt:deep-unsupervised-learning-using-nonequilibrium-thermodynamics` | `kt:diffusion-model` |
 | `kt:devops` | `kt:mlops` |
 | `kt:direct-preference-optimization` | `kt:rlhf` |
-| `kt:distributed-training` | `kt:mlops` |
 | `kt:double-descent` | `kt:bias-variance-tradeoff` |
 | `kt:eliza` | `kt:turing-test` |
 | `kt:ensemble-methods` | `kt:bias-variance-tradeoff` |
@@ -68,12 +69,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:foundation-model` | `kt:large-language-model` |
 | `kt:generative-adversarial-nets` | `kt:generative-adversarial-network` |
+| `kt:gpu-computing` | `kt:cuda` |
 | `kt:gsm8k` | `kt:chain-of-thought` |
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
 | `kt:hugging-face-diffusers` | `kt:diffusion-model` |
 | `kt:hugging-face-transformers` | `kt:quantization` |
 | `kt:hugging-face-trl` | `kt:rlhf` |
 | `kt:ian-goodfellow` | `kt:generative-adversarial-network` |
+| `kt:imagenet-and-alexnet` | `kt:cuda` |
 | `kt:inspect-ai` | `kt:ai-evaluation` |
 | `kt:instruction-tuning` | `kt:rlhf` |
 | `kt:iso-iec-42001` | `kt:nist-ai-risk-management-framework` |
@@ -93,7 +96,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:model-registry` | `kt:mlops` |
 | `kt:nist` | `kt:nist-ai-risk-management-framework` |
 | `kt:nist-generative-ai-profile` | `kt:nist-ai-risk-management-framework` |
+| `kt:nvidia` | `kt:cuda` |
 | `kt:overfitting` | `kt:bias-variance-tradeoff` |
+| `kt:parallel-computing` | `kt:cuda` |
 | `kt:penetration-testing` | `kt:red-teaming` |
 | `kt:philosophy-of-artificial-intelligence` | `kt:chinese-room-argument` |
 | `kt:policy-gradient-methods-for-reinforcement-learning-with-function-approximation` | `kt:policy-gradient` |
@@ -106,6 +111,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:regularization` | `kt:bias-variance-tradeoff` |
 | `kt:reinforce-algorithm` | `kt:policy-gradient` |
 | `kt:reward-hacking` | `kt:rlhf` |
+| `kt:scalable-parallel-programming-with-cuda` | `kt:cuda` |
 | `kt:scaling-laws` | `kt:large-language-model` |
 | `kt:score-matching` | `kt:diffusion-model` |
 | `kt:self-consistency` | `kt:chain-of-thought` |

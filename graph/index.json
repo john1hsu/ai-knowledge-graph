@@ -216,6 +216,28 @@
     ]
   },
   {
+    "id": "kt:cuda",
+    "title": "CUDA",
+    "aliases": [
+      "Compute Unified Device Architecture",
+      "CUDA Toolkit",
+      "CUDA platform"
+    ],
+    "type": "Tool",
+    "domain": "ai-infrastructure-and-mlops",
+    "file": "articles/ai-infrastructure-and-mlops/cuda.md",
+    "created": "2026-11-08",
+    "maturity": "established",
+    "source_urls": [
+      "https://docs.nvidia.com/cuda/cuda-programming-guide/01-introduction/programming-model.html",
+      "https://grothoff.org/christian/teaching/2008/4704/scalable_cuda.pdf",
+      "https://arxiv.org/abs/1410.0759",
+      "https://courses.cs.duke.edu/fall16/compsci527/papers/Krizhevsky%20et%20al%20DNN%20ImageNet%202012.pdf",
+      "https://docs.pytorch.org/docs/2.3/notes/cuda.html",
+      "https://developer.nvidia.com/cuda-zone"
+    ]
+  },
+  {
     "id": "kt:deep-learning",
     "title": "Deep learning",
     "aliases": [

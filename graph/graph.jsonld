@@ -405,6 +405,95 @@
       ]
     },
     {
+      "@id": "kt:cuda",
+      "@type": "kto:Tool",
+      "skos:prefLabel": "CUDA",
+      "skos:definition": "NVIDIA's parallel computing platform and programming model for general-purpose computation on its GPUs, in which a host program launches kernels executed by a hierarchy of thousands of lightweight threads; it is the software layer beneath most deep-learning training and inference.",
+      "kto:domain": "ai-infrastructure-and-mlops",
+      "dcterms:created": "2026-11-08",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "CUDA Programming Guide, 1.2 Programming Model (v13.4.2)",
+          "dcterms:publisher": "NVIDIA CUDA documentation",
+          "schema:url": "https://docs.nvidia.com/cuda/cuda-programming-guide/01-introduction/programming-model.html",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Scalable Parallel Programming with CUDA",
+          "dcterms:publisher": "ACM Queue 6(2), March 2008 (Nickolls, Buck, Garland, Skadron); course copy",
+          "schema:url": "https://grothoff.org/christian/teaching/2008/4704/scalable_cuda.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "cuDNN: Efficient Primitives for Deep Learning",
+          "dcterms:publisher": "arXiv:1410.0759 (Chetlur et al., NVIDIA / UC Berkeley), 2014",
+          "schema:url": "https://arxiv.org/abs/1410.0759",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "ImageNet Classification with Deep Convolutional Neural Networks",
+          "dcterms:publisher": "NIPS 2012 (Krizhevsky, Sutskever, Hinton); Duke course copy",
+          "schema:url": "https://courses.cs.duke.edu/fall16/compsci527/papers/Krizhevsky%20et%20al%20DNN%20ImageNet%202012.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "CUDA semantics",
+          "dcterms:publisher": "PyTorch documentation (v2.3)",
+          "schema:url": "https://docs.pytorch.org/docs/2.3/notes/cuda.html",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "CUDA Zone",
+          "dcterms:publisher": "NVIDIA Developer",
+          "schema:url": "https://developer.nvidia.com/cuda-zone",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/ai-infrastructure-and-mlops/cuda.md",
+      "skos:altLabel": [
+        "Compute Unified Device Architecture",
+        "CUDA Toolkit",
+        "CUDA platform"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:gpu-computing"
+        },
+        {
+          "@id": "kt:parallel-computing"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:deep-learning"
+        },
+        {
+          "@id": "kt:distributed-training"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:nvidia"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:scalable-parallel-programming-with-cuda"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:cudnn"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:imagenet-and-alexnet"
+        }
+      ]
+    },
+    {
       "@id": "kt:mlops",
       "@type": "kto:Paradigm",
       "skos:prefLabel": "MLOps",

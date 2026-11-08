@@ -246,6 +246,30 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/chinese-room-argument> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-history" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chinese-room-argument> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/minds-brains-and-programs> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chinese-room-argument> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Tool> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <http://www.w3.org/2000/01/rdf-schema#label> "CUDA" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <http://www.w3.org/2004/02/skos/core#altLabel> "CUDA Toolkit" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <http://www.w3.org/2004/02/skos/core#altLabel> "CUDA platform" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <http://www.w3.org/2004/02/skos/core#altLabel> "Compute Unified Device Architecture" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/parallel-computing> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <http://www.w3.org/2004/02/skos/core#definition> "NVIDIA's parallel computing platform and programming model for general-purpose computation on its GPUs, in which a host program launches kernels executed by a hierarchy of thousands of lightweight threads; it is the software layer beneath most deep-learning training and inference." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <http://www.w3.org/2004/02/skos/core#prefLabel> "CUDA" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/nvidia> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-infrastructure-and-mlops" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/cudnn> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/scalable-parallel-programming-with-cuda> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Field> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <http://www.w3.org/2000/01/rdf-schema#label> "Deep learning" .
@@ -861,6 +885,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/chinese-room-argument/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/chinese-room-argument/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/chinese-room-argument/s4> <https://schema.org/url> "https://aclanthology.org/2020.acl-main.463.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s1> <http://purl.org/dc/terms/publisher> "NVIDIA CUDA documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s1> <http://purl.org/dc/terms/title> "CUDA Programming Guide, 1.2 Programming Model (v13.4.2)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s1> <https://schema.org/url> "https://docs.nvidia.com/cuda/cuda-programming-guide/01-introduction/programming-model.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s2> <http://purl.org/dc/terms/publisher> "ACM Queue 6(2), March 2008 (Nickolls, Buck, Garland, Skadron); course copy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s2> <http://purl.org/dc/terms/title> "Scalable Parallel Programming with CUDA" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s2> <https://schema.org/url> "https://grothoff.org/christian/teaching/2008/4704/scalable_cuda.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s3> <http://purl.org/dc/terms/publisher> "arXiv:1410.0759 (Chetlur et al., NVIDIA / UC Berkeley), 2014" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s3> <http://purl.org/dc/terms/title> "cuDNN: Efficient Primitives for Deep Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s3> <https://schema.org/url> "https://arxiv.org/abs/1410.0759" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s4> <http://purl.org/dc/terms/publisher> "NIPS 2012 (Krizhevsky, Sutskever, Hinton); Duke course copy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s4> <http://purl.org/dc/terms/title> "ImageNet Classification with Deep Convolutional Neural Networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s4> <https://schema.org/url> "https://courses.cs.duke.edu/fall16/compsci527/papers/Krizhevsky%20et%20al%20DNN%20ImageNet%202012.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s5> <http://purl.org/dc/terms/publisher> "PyTorch documentation (v2.3)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s5> <http://purl.org/dc/terms/title> "CUDA semantics" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s5> <https://schema.org/url> "https://docs.pytorch.org/docs/2.3/notes/cuda.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s6> <http://purl.org/dc/terms/publisher> "NVIDIA Developer" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s6> <http://purl.org/dc/terms/title> "CUDA Zone" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s6> <https://schema.org/url> "https://developer.nvidia.com/cuda-zone" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s1> <http://purl.org/dc/terms/publisher> "Nature 521(7553), 436–444 (2015) (LeCun, Bengio and Hinton), RePEc/IDEAS record, doi:10.1038/nature14539" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s1> <http://purl.org/dc/terms/title> "Deep learning" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
