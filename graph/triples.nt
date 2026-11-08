@@ -424,6 +424,29 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "computer-vision-and-multimodal" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-nets> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Benchmark> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <http://www.w3.org/2000/01/rdf-schema#label> "GSM8K" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <http://www.w3.org/2004/02/skos/core#altLabel> "GSM-8K" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <http://www.w3.org/2004/02/skos/core#altLabel> "Grade School Math 8K" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <http://www.w3.org/2004/02/skos/core#altLabel> "grade-school-math dataset" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <http://www.w3.org/2004/02/skos/core#definition> "A dataset of about 8,500 human-written grade school math word problems, each needing 2 to 8 steps of basic arithmetic, released by OpenAI in 2021 and widely used to measure multi-step mathematical reasoning in language models." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <http://www.w3.org/2004/02/skos/core#prefLabel> "GSM8K" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/openai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "evaluation-and-benchmarks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/training-verifiers-to-solve-math-word-problems> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Tool> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <http://www.w3.org/2000/01/rdf-schema#label> "Hugging Face Transformers" .
@@ -1209,6 +1232,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s5> <https://schema.org/url> "https://papers.nips.cc/paper/2021/hash/49ad23d1ec9fa4bd8d77d02681df5cfa-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s1> <http://purl.org/dc/terms/publisher> "arXiv:2110.14168 (Cobbe, Kosaraju, Bavarian, Chen, Jun, Kaiser, Plappert, Tworek, Hilton, Nakano, Hesse, Schulman; OpenAI), October 2021" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s1> <http://purl.org/dc/terms/title> "Training Verifiers to Solve Math Word Problems" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s1> <https://schema.org/url> "https://arxiv.org/abs/2110.14168v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s2> <http://purl.org/dc/terms/publisher> "OpenAI on GitHub" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s2> <http://purl.org/dc/terms/title> "openai/grade-school-math (GSM8K dataset release)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s2> <https://schema.org/url> "https://github.com/openai/grade-school-math" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s3> <http://purl.org/dc/terms/publisher> "Hugging Face Datasets" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s3> <http://purl.org/dc/terms/title> "openai/gsm8k dataset card" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s3> <https://schema.org/url> "https://huggingface.co/datasets/openai/gsm8k/blame/main/README.md" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s4> <http://purl.org/dc/terms/publisher> "NeurIPS 2024 Datasets and Benchmarks Track (Zhang, Da, Lee et al.; Scale AI)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s4> <http://purl.org/dc/terms/title> "A Careful Examination of Large Language Model Performance on Grade School Arithmetic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s4> <https://schema.org/url> "https://proceedings.neurips.cc/paper_files/paper/2024/hash/53384f2090c6a5cac952c598fd67992f-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s5> <http://purl.org/dc/terms/publisher> "ICLR 2025 (Mirzadeh, Alizadeh, Shahrokhi, Tuzel, Bengio, Farajtabar; Apple)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s5> <http://purl.org/dc/terms/title> "GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s5> <https://schema.org/url> "https://proceedings.iclr.cc/paper_files/paper/2025/file/ec2e7a896f8250986b3907f57621ce94-Paper-Conference.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s6> <http://purl.org/dc/terms/publisher> "OpenAI, arXiv:2303.08774 (ar5iv rendering), 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s6> <http://purl.org/dc/terms/title> "GPT-4 Technical Report" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s6> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/2303.08774" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s1> <http://purl.org/dc/terms/publisher> "Proceedings of EMNLP 2020, System Demonstrations, pp. 38–45 (Wolf et al., Hugging Face)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s1> <http://purl.org/dc/terms/title> "Transformers: State-of-the-Art Natural Language Processing" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

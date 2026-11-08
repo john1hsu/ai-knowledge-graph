@@ -17,13 +17,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:activation-function` | `kt:artificial-neural-network`, `kt:backpropagation` |
 | `kt:ai-governance` | `kt:ai-safety-institutes`, `kt:nist-ai-risk-management-framework` |
 | `kt:beir` | `kt:bm25`, `kt:semantic-search` |
+| `kt:benchmark-contamination` | `kt:ai-evaluation`, `kt:gsm8k` |
 | `kt:convolutional-neural-network` | `kt:artificial-neural-network`, `kt:deep-learning` |
 | `kt:distributed-training` | `kt:cuda`, `kt:mlops` |
 | `kt:ensemble-methods` | `kt:bias-variance-tradeoff`, `kt:self-consistency` |
 | `kt:fine-tuning` | `kt:hugging-face-transformers`, `kt:rlhf` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:gradient-descent` | `kt:backpropagation`, `kt:deep-learning` |
-| `kt:gsm8k` | `kt:chain-of-thought`, `kt:self-consistency` |
 | `kt:information-retrieval` | `kt:bm25`, `kt:semantic-search` |
 | `kt:model-pruning` | `kt:quantization`, `kt:quantization` |
 | `kt:multi-agent-systems` | `kt:agentic-workflow`, `kt:ai-agent` |
@@ -58,7 +58,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:asynchronous-advantage-actor-critic` | `kt:actor-critic` |
 | `kt:automatic-differentiation` | `kt:backpropagation` |
 | `kt:beam-search` | `kt:self-consistency` |
-| `kt:benchmark-contamination` | `kt:ai-evaluation` |
 | `kt:center-for-ai-standards-and-innovation` | `kt:ai-safety-institutes` |
 | `kt:chain-of-thought-prompting-elicits-reasoning-in-large-language-models` | `kt:chain-of-thought` |
 | `kt:christopher-watkins` | `kt:q-learning` |
@@ -114,6 +113,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:nist` | `kt:nist-ai-risk-management-framework` |
 | `kt:nist-generative-ai-profile` | `kt:nist-ai-risk-management-framework` |
 | `kt:nvidia` | `kt:cuda` |
+| `kt:openai` | `kt:gsm8k` |
 | `kt:overfitting` | `kt:bias-variance-tradeoff` |
 | `kt:parallel-computing` | `kt:cuda` |
 | `kt:penetration-testing` | `kt:red-teaming` |
@@ -140,6 +140,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:symbol-grounding-problem` | `kt:chinese-room-argument` |
 | `kt:tensorrt-llm` | `kt:quantization` |
 | `kt:text-to-image-generation` | `kt:diffusion-model` |
+| `kt:training-verifiers-to-solve-math-word-problems` | `kt:gsm8k` |
 | `kt:transformers-state-of-the-art-natural-language-processing` | `kt:hugging-face-transformers` |
 | `kt:turing-machine` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:uk-ai-security-institute` | `kt:ai-safety-institutes` |

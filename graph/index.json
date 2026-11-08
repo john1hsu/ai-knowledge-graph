@@ -370,6 +370,28 @@
     ]
   },
   {
+    "id": "kt:gsm8k",
+    "title": "GSM8K",
+    "aliases": [
+      "GSM-8K",
+      "Grade School Math 8K",
+      "grade-school-math dataset"
+    ],
+    "type": "Benchmark",
+    "domain": "evaluation-and-benchmarks",
+    "file": "articles/evaluation-and-benchmarks/gsm8k.md",
+    "created": "2026-11-08",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/abs/2110.14168v1",
+      "https://github.com/openai/grade-school-math",
+      "https://huggingface.co/datasets/openai/gsm8k/blame/main/README.md",
+      "https://proceedings.neurips.cc/paper_files/paper/2024/hash/53384f2090c6a5cac952c598fd67992f-Abstract.html",
+      "https://proceedings.iclr.cc/paper_files/paper/2025/file/ec2e7a896f8250986b3907f57621ce94-Paper-Conference.pdf",
+      "https://ar5iv.labs.arxiv.org/html/2303.08774"
+    ]
+  },
+  {
     "id": "kt:hugging-face-transformers",
     "title": "Hugging Face Transformers",
     "aliases": [

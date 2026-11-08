@@ -1211,6 +1211,88 @@
       ]
     },
     {
+      "@id": "kt:gsm8k",
+      "@type": "kto:Benchmark",
+      "skos:prefLabel": "GSM8K",
+      "skos:definition": "A dataset of about 8,500 human-written grade school math word problems, each needing 2 to 8 steps of basic arithmetic, released by OpenAI in 2021 and widely used to measure multi-step mathematical reasoning in language models.",
+      "kto:domain": "evaluation-and-benchmarks",
+      "dcterms:created": "2026-11-08",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Training Verifiers to Solve Math Word Problems",
+          "dcterms:publisher": "arXiv:2110.14168 (Cobbe, Kosaraju, Bavarian, Chen, Jun, Kaiser, Plappert, Tworek, Hilton, Nakano, Hesse, Schulman; OpenAI), October 2021",
+          "schema:url": "https://arxiv.org/abs/2110.14168v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "openai/grade-school-math (GSM8K dataset release)",
+          "dcterms:publisher": "OpenAI on GitHub",
+          "schema:url": "https://github.com/openai/grade-school-math",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "openai/gsm8k dataset card",
+          "dcterms:publisher": "Hugging Face Datasets",
+          "schema:url": "https://huggingface.co/datasets/openai/gsm8k/blame/main/README.md",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "A Careful Examination of Large Language Model Performance on Grade School Arithmetic",
+          "dcterms:publisher": "NeurIPS 2024 Datasets and Benchmarks Track (Zhang, Da, Lee et al.; Scale AI)",
+          "schema:url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/53384f2090c6a5cac952c598fd67992f-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models",
+          "dcterms:publisher": "ICLR 2025 (Mirzadeh, Alizadeh, Shahrokhi, Tuzel, Bengio, Farajtabar; Apple)",
+          "schema:url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/ec2e7a896f8250986b3907f57621ce94-Paper-Conference.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "GPT-4 Technical Report",
+          "dcterms:publisher": "OpenAI, arXiv:2303.08774 (ar5iv rendering), 2023",
+          "schema:url": "https://ar5iv.labs.arxiv.org/html/2303.08774",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/evaluation-and-benchmarks/gsm8k.md",
+      "skos:altLabel": [
+        "GSM-8K",
+        "Grade School Math 8K",
+        "grade-school-math dataset"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-evaluation"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:chain-of-thought"
+        },
+        {
+          "@id": "kt:self-consistency"
+        },
+        {
+          "@id": "kt:benchmark-contamination"
+        },
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:training-verifiers-to-solve-math-word-problems"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:openai"
+        }
+      ]
+    },
+    {
       "@id": "kt:red-teaming",
       "@type": "kto:Technique",
       "skos:prefLabel": "Red teaming",
