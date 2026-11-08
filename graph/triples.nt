@@ -424,6 +424,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "computer-vision-and-multimodal" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-nets> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Tool> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <http://www.w3.org/2000/01/rdf-schema#label> "Hugging Face Transformers" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <http://www.w3.org/2004/02/skos/core#altLabel> "Transformers library" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <http://www.w3.org/2004/02/skos/core#altLabel> "pytorch-pretrained-bert" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <http://www.w3.org/2004/02/skos/core#altLabel> "pytorch-transformers" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <http://www.w3.org/2004/02/skos/core#altLabel> "🤗 Transformers" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning-framework> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/mlops> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <http://www.w3.org/2004/02/skos/core#definition> "An open-source Python library from Hugging Face that provides reference implementations of transformer-based and other pretrained models for text, vision, audio and multimodal tasks, with a uniform API for loading checkpoints from the Hugging Face Hub, running inference and fine-tuning." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hugging Face Transformers" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/speculative-decoding> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-infrastructure-and-mlops" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/transformers-state-of-the-art-natural-language-processing> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/vllm> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/jailbreak> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/jailbreak> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Risk> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/jailbreak> <http://www.w3.org/2000/01/rdf-schema#label> "Jailbreak" .
@@ -1157,6 +1183,26 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s5> <https://schema.org/url> "https://papers.nips.cc/paper/2021/hash/49ad23d1ec9fa4bd8d77d02681df5cfa-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s1> <http://purl.org/dc/terms/publisher> "Proceedings of EMNLP 2020, System Demonstrations, pp. 38–45 (Wolf et al., Hugging Face)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s1> <http://purl.org/dc/terms/title> "Transformers: State-of-the-Art Natural Language Processing" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s1> <https://schema.org/url> "https://aclanthology.org/2020.emnlp-demos.6.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s2> <http://purl.org/dc/terms/publisher> "Hugging Face" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s2> <http://purl.org/dc/terms/title> "Transformers documentation (v5.12.0): index" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s2> <https://schema.org/url> "https://huggingface.co/docs/transformers/v5.12.0/index" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s3> <http://purl.org/dc/terms/publisher> "Hugging Face blog, 1 December 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s3> <http://purl.org/dc/terms/title> "Transformers v5: Simple model definitions powering the AI ecosystem" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s3> <https://schema.org/url> "https://huggingface.co/blog/transformers-v5" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s4> <http://purl.org/dc/terms/publisher> "Hugging Face Hub documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s4> <http://purl.org/dc/terms/title> "Using 🤗 transformers at Hugging Face" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s4> <https://schema.org/url> "https://huggingface.co/docs/hub/transformers" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/jailbreak/s1> <http://purl.org/dc/terms/publisher> "NIST (Vassilev, Oprea, Fordyce, Anderson, Davies, Hamin), March 2025" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/jailbreak/s1> <http://purl.org/dc/terms/title> "Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations (NIST AI 100-2 E2025)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/jailbreak/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

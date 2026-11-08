@@ -494,6 +494,93 @@
       ]
     },
     {
+      "@id": "kt:hugging-face-transformers",
+      "@type": "kto:Tool",
+      "skos:prefLabel": "Hugging Face Transformers",
+      "skos:definition": "An open-source Python library from Hugging Face that provides reference implementations of transformer-based and other pretrained models for text, vision, audio and multimodal tasks, with a uniform API for loading checkpoints from the Hugging Face Hub, running inference and fine-tuning.",
+      "kto:domain": "ai-infrastructure-and-mlops",
+      "dcterms:created": "2026-11-08",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Transformers: State-of-the-Art Natural Language Processing",
+          "dcterms:publisher": "Proceedings of EMNLP 2020, System Demonstrations, pp. 38–45 (Wolf et al., Hugging Face)",
+          "schema:url": "https://aclanthology.org/2020.emnlp-demos.6.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Transformers documentation (v5.12.0): index",
+          "dcterms:publisher": "Hugging Face",
+          "schema:url": "https://huggingface.co/docs/transformers/v5.12.0/index",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Transformers v5: Simple model definitions powering the AI ecosystem",
+          "dcterms:publisher": "Hugging Face blog, 1 December 2025",
+          "schema:url": "https://huggingface.co/blog/transformers-v5",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Using 🤗 transformers at Hugging Face",
+          "dcterms:publisher": "Hugging Face Hub documentation",
+          "schema:url": "https://huggingface.co/docs/hub/transformers",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/ai-infrastructure-and-mlops/hugging-face-transformers.md",
+      "skos:altLabel": [
+        "Transformers library",
+        "🤗 Transformers",
+        "pytorch-transformers",
+        "pytorch-pretrained-bert"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:deep-learning-framework"
+        },
+        {
+          "@id": "kt:mlops"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:transformer-architecture"
+        },
+        {
+          "@id": "kt:fine-tuning"
+        },
+        {
+          "@id": "kt:quantization"
+        },
+        {
+          "@id": "kt:speculative-decoding"
+        },
+        {
+          "@id": "kt:model-serving"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:hugging-face"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:transformers-state-of-the-art-natural-language-processing"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:pytorch"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:vllm"
+        }
+      ]
+    },
+    {
       "@id": "kt:mlops",
       "@type": "kto:Paradigm",
       "skos:prefLabel": "MLOps",

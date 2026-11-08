@@ -4,10 +4,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
+| `kt:model-serving` | `kt:hugging-face-transformers`, `kt:mlops`, `kt:quantization`, `kt:speculative-decoding`, `kt:speculative-decoding` |
 | `kt:reinforcement-learning` | `kt:machine-learning`, `kt:actor-critic`, `kt:policy-gradient`, `kt:q-learning`, `kt:rlhf` |
 | `kt:retrieval-augmented-generation` | `kt:bm25`, `kt:embeddings`, `kt:embeddings`, `kt:semantic-search`, `kt:semantic-search` |
 | `kt:markov-decision-process` | `kt:actor-critic`, `kt:policy-gradient`, `kt:q-learning`, `kt:q-learning` |
-| `kt:model-serving` | `kt:mlops`, `kt:quantization`, `kt:speculative-decoding`, `kt:speculative-decoding` |
 | `kt:perceptron` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:artificial-neural-network`, `kt:backpropagation` |
 | `kt:ai-alignment` | `kt:ai-safety-institutes`, `kt:jailbreak`, `kt:rlhf` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:turing-test`, `kt:machine-learning` |
@@ -19,9 +19,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:beir` | `kt:bm25`, `kt:semantic-search` |
 | `kt:convolutional-neural-network` | `kt:artificial-neural-network`, `kt:deep-learning` |
 | `kt:distributed-training` | `kt:cuda`, `kt:mlops` |
+| `kt:fine-tuning` | `kt:hugging-face-transformers`, `kt:rlhf` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:gradient-descent` | `kt:backpropagation`, `kt:deep-learning` |
-| `kt:hugging-face-transformers` | `kt:quantization`, `kt:speculative-decoding` |
 | `kt:information-retrieval` | `kt:bm25`, `kt:semantic-search` |
 | `kt:model-pruning` | `kt:quantization`, `kt:quantization` |
 | `kt:multi-agent-systems` | `kt:agentic-workflow`, `kt:ai-agent` |
@@ -29,6 +29,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:probabilistic-relevance-framework` | `kt:bm25`, `kt:bm25` |
 | `kt:prompt-injection` | `kt:red-teaming`, `kt:jailbreak` |
 | `kt:proximal-policy-optimization` | `kt:policy-gradient`, `kt:rlhf` |
+| `kt:pytorch` | `kt:hugging-face-transformers`, `kt:backpropagation` |
 | `kt:react-prompting` | `kt:ai-agent`, `kt:chain-of-thought` |
 | `kt:representation-learning` | `kt:deep-learning`, `kt:embeddings` |
 | `kt:reranking` | `kt:bm25`, `kt:semantic-search` |
@@ -36,8 +37,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:temporal-difference-learning` | `kt:actor-critic`, `kt:q-learning` |
 | `kt:tf-idf` | `kt:bm25`, `kt:bm25` |
 | `kt:tool-use` | `kt:agentic-workflow`, `kt:ai-agent` |
+| `kt:transformer-architecture` | `kt:hugging-face-transformers`, `kt:large-language-model` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:vector-database` | `kt:embeddings`, `kt:semantic-search` |
+| `kt:vllm` | `kt:hugging-face-transformers`, `kt:speculative-decoding` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings` |
 | `kt:adversarial-machine-learning` | `kt:jailbreak` |
 | `kt:agent-memory` | `kt:ai-agent` |
@@ -60,6 +63,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cudnn` | `kt:cuda` |
 | `kt:data-drift` | `kt:mlops` |
 | `kt:deep-belief-network` | `kt:deep-learning` |
+| `kt:deep-learning-framework` | `kt:hugging-face-transformers` |
 | `kt:deep-q-network` | `kt:q-learning` |
 | `kt:deep-reinforcement-learning-from-human-preferences` | `kt:rlhf` |
 | `kt:deep-unsupervised-learning-using-nonequilibrium-thermodynamics` | `kt:diffusion-model` |
@@ -74,13 +78,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fast-inference-from-transformers-via-speculative-decoding` | `kt:speculative-decoding` |
 | `kt:feature-store` | `kt:mlops` |
 | `kt:few-shot-prompting` | `kt:chain-of-thought` |
-| `kt:fine-tuning` | `kt:rlhf` |
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:foundation-model` | `kt:large-language-model` |
 | `kt:generative-adversarial-nets` | `kt:generative-adversarial-network` |
 | `kt:gpu-computing` | `kt:cuda` |
 | `kt:gsm8k` | `kt:chain-of-thought` |
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
+| `kt:hugging-face` | `kt:hugging-face-transformers` |
 | `kt:hugging-face-diffusers` | `kt:diffusion-model` |
 | `kt:hugging-face-trl` | `kt:rlhf` |
 | `kt:ian-goodfellow` | `kt:generative-adversarial-network` |
@@ -113,7 +117,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:policy-gradient-methods-for-reinforcement-learning-with-function-approximation` | `kt:policy-gradient` |
 | `kt:pretraining` | `kt:large-language-model` |
 | `kt:prompt-engineering` | `kt:chain-of-thought` |
-| `kt:pytorch` | `kt:backpropagation` |
 | `kt:qlora` | `kt:quantization` |
 | `kt:reasoning-models` | `kt:chain-of-thought` |
 | `kt:recurrent-neural-network` | `kt:deep-learning` |
@@ -134,12 +137,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tensorrt-llm` | `kt:quantization` |
 | `kt:test-time-compute` | `kt:chain-of-thought` |
 | `kt:text-to-image-generation` | `kt:diffusion-model` |
-| `kt:transformer-architecture` | `kt:large-language-model` |
+| `kt:transformers-state-of-the-art-natural-language-processing` | `kt:hugging-face-transformers` |
 | `kt:turing-machine` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:uk-ai-security-institute` | `kt:ai-safety-institutes` |
 | `kt:universal-approximation-theorem` | `kt:artificial-neural-network` |
 | `kt:unsupervised-learning` | `kt:machine-learning` |
-| `kt:vllm` | `kt:speculative-decoding` |
 | `kt:walter-pitts` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:warren-mcculloch` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:wasserstein-gan` | `kt:generative-adversarial-network` |
