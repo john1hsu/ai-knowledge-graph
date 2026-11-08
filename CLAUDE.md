@@ -11,7 +11,7 @@ Read `graph/stats.md`, `graph/frontier.md` and `topics/seeds.yaml`. `graph/index
 
 ## 2. Pick the topic (graph-driven)
 Use the current UTC hour:
-- **Even hour → depth.** Take the highest-ranked node in `graph/frontier.md` (referenced by the most articles but not yet written) that fits a domain in `topics/seeds.yaml`. This turns dangling edges into real nodes.
+- **Even hour → depth.** Take the highest-ranked node in `graph/frontier.md` (referenced by the most articles but not yet written) that fits a domain in `topics/seeds.yaml`, **skipping any node that would belong to the domain with the most articles** (see `graph/stats.md`; on a tie for most, skip all tied domains). This turns dangling edges into real nodes without letting one domain's dense cross-links snowball into a lopsided graph.
 - **Odd hour → breadth.** Take the domain in `topics/seeds.yaml` with the fewest articles (ties: alphabetical, skipping the domain of the most recent commit) and pick an unwritten seed topic, or another important topic in that domain.
 - If no frontier node fits, do a breadth run.
 - Write every new article under one of the domains in `topics/seeds.yaml`.
