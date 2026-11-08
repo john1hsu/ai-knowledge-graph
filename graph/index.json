@@ -106,6 +106,30 @@
     ]
   },
   {
+    "id": "kt:ai-safety-institutes",
+    "title": "AI safety institutes",
+    "aliases": [
+      "AISI",
+      "AISIs",
+      "AI Safety Institute",
+      "International Network of AI Safety Institutes"
+    ],
+    "type": "Organization",
+    "domain": "governance-and-policy",
+    "file": "articles/governance-and-policy/ai-safety-institutes.md",
+    "created": "2026-11-08",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://www.gov.uk/government/news/prime-minister-launches-new-ai-safety-institute",
+      "https://regulations.justia.com/regulations/fedreg/2023/11/02/2023-24216.html",
+      "https://arxiv.org/pdf/2410.09219",
+      "https://www.nist.gov/system/files/documents/2024/11/20/Mission%20Statement%20-%20International%20Network%20of%20AISIs.pdf",
+      "https://data.parliament.uk/DepositedPapers/Files/DEP2025-0123/Letter-AI_Security_Institute.pdf",
+      "https://www.commerce.gov/node/7172",
+      "https://www.gov.uk/government/news/efforts-to-share-best-practices-on-ai-measurement-and-evaluations-driven-forward-through-the-international-network-for-advanced-ai-measurement-evalua"
+    ]
+  },
+  {
     "id": "kt:artificial-neural-network",
     "title": "Artificial neural network",
     "aliases": [

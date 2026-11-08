@@ -1204,6 +1204,101 @@
       ]
     },
     {
+      "@id": "kt:ai-safety-institutes",
+      "@type": "kto:Organization",
+      "skos:prefLabel": "AI safety institutes",
+      "skos:definition": "Government-backed technical bodies, first created by the UK and US in November 2023, that test advanced AI models for national-security and safety risks, research evaluation science and coordinate internationally, without holding regulatory powers.",
+      "kto:domain": "governance-and-policy",
+      "dcterms:created": "2026-11-08",
+      "kto:maturity": "emerging",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Prime Minister launches new AI Safety Institute",
+          "dcterms:publisher": "UK Department for Science, Innovation and Technology, 2 November 2023",
+          "schema:url": "https://www.gov.uk/government/news/prime-minister-launches-new-ai-safety-institute",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Artificial Intelligence Safety Institute Consortium (Federal Register notice 2023-24216)",
+          "dcterms:publisher": "National Institute of Standards and Technology, Federal Register Vol. 88 No. 211, 2 November 2023",
+          "schema:url": "https://regulations.justia.com/regulations/fedreg/2023/11/02/2023-24216.html",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Understanding the First Wave of AI Safety Institutes: Characteristics, Functions, and Challenges",
+          "dcterms:publisher": "Araujo, Fort & Guest (Institute for AI Policy and Strategy), arXiv:2410.09219, October 2024",
+          "schema:url": "https://arxiv.org/pdf/2410.09219",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Mission Statement: International Network of AI Safety Institutes",
+          "dcterms:publisher": "National Institute of Standards and Technology, 21 November 2024",
+          "schema:url": "https://www.nist.gov/system/files/documents/2024/11/20/Mission%20Statement%20-%20International%20Network%20of%20AISIs.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Letter from the Secretary of State on the AI Security Institute",
+          "dcterms:publisher": "UK Parliament deposited paper DEP2025-0123 (Peter Kyle to Chi Onwurah MP), 24 February 2025",
+          "schema:url": "https://data.parliament.uk/DepositedPapers/Files/DEP2025-0123/Letter-AI_Security_Institute.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Commerce statement on reforming the U.S. AI Safety Institute into the Center for AI Standards and Innovation",
+          "dcterms:publisher": "U.S. Department of Commerce, June 2025",
+          "schema:url": "https://www.commerce.gov/node/7172",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Efforts to share best practices on AI measurement and evaluations driven forward through the International Network for Advanced AI Measurement, Evaluation and Science",
+          "dcterms:publisher": "UK Government press release, 9 December 2025",
+          "schema:url": "https://www.gov.uk/government/news/efforts-to-share-best-practices-on-ai-measurement-and-evaluations-driven-forward-through-the-international-network-for-advanced-ai-measurement-evalua",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/governance-and-policy/ai-safety-institutes.md",
+      "skos:altLabel": [
+        "AISI",
+        "AISIs",
+        "AI Safety Institute",
+        "International Network of AI Safety Institutes"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-governance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:ai-evaluation"
+        },
+        {
+          "@id": "kt:red-teaming"
+        },
+        {
+          "@id": "kt:nist-ai-risk-management-framework"
+        },
+        {
+          "@id": "kt:executive-orders-on-ai"
+        },
+        {
+          "@id": "kt:ai-alignment"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:uk-ai-security-institute"
+        },
+        {
+          "@id": "kt:center-for-ai-standards-and-innovation"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:ai-safety-summit"
+        }
+      ]
+    },
+    {
       "@id": "kt:nist-ai-risk-management-framework",
       "@type": "kto:Policy",
       "skos:prefLabel": "NIST AI Risk Management Framework",

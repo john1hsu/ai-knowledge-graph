@@ -8,15 +8,16 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:perceptron` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:artificial-neural-network`, `kt:backpropagation` |
 | `kt:q-learning` | `kt:actor-critic`, `kt:actor-critic`, `kt:policy-gradient`, `kt:policy-gradient` |
 | `kt:reinforcement-learning` | `kt:machine-learning`, `kt:actor-critic`, `kt:policy-gradient`, `kt:rlhf` |
+| `kt:ai-alignment` | `kt:ai-safety-institutes`, `kt:jailbreak`, `kt:rlhf` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:turing-test`, `kt:machine-learning` |
+| `kt:executive-orders-on-ai` | `kt:red-teaming`, `kt:ai-safety-institutes`, `kt:nist-ai-risk-management-framework` |
 | `kt:hybrid-search` | `kt:bm25`, `kt:bm25`, `kt:semantic-search` |
 | `kt:in-context-learning` | `kt:chain-of-thought`, `kt:jailbreak`, `kt:large-language-model` |
 | `kt:activation-function` | `kt:artificial-neural-network`, `kt:backpropagation` |
-| `kt:ai-alignment` | `kt:jailbreak`, `kt:rlhf` |
+| `kt:ai-governance` | `kt:ai-safety-institutes`, `kt:nist-ai-risk-management-framework` |
 | `kt:beir` | `kt:bm25`, `kt:semantic-search` |
 | `kt:convolutional-neural-network` | `kt:artificial-neural-network`, `kt:deep-learning` |
 | `kt:distributed-training` | `kt:cuda`, `kt:mlops` |
-| `kt:executive-orders-on-ai` | `kt:red-teaming`, `kt:nist-ai-risk-management-framework` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:gradient-descent` | `kt:backpropagation`, `kt:deep-learning` |
 | `kt:information-retrieval` | `kt:bm25`, `kt:semantic-search` |
@@ -40,8 +41,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:adversarial-machine-learning` | `kt:jailbreak` |
 | `kt:agent-memory` | `kt:ai-agent` |
 | `kt:agentic-systems` | `kt:agentic-workflow` |
-| `kt:ai-governance` | `kt:nist-ai-risk-management-framework` |
 | `kt:ai-risk-management` | `kt:nist-ai-risk-management-framework` |
+| `kt:ai-safety-summit` | `kt:ai-safety-institutes` |
 | `kt:alan-turing` | `kt:turing-test` |
 | `kt:apache-lucene` | `kt:bm25` |
 | `kt:approximate-nearest-neighbor-search` | `kt:semantic-search` |
@@ -49,6 +50,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:asynchronous-advantage-actor-critic` | `kt:actor-critic` |
 | `kt:automatic-differentiation` | `kt:backpropagation` |
 | `kt:benchmark-contamination` | `kt:ai-evaluation` |
+| `kt:center-for-ai-standards-and-innovation` | `kt:ai-safety-institutes` |
 | `kt:chain-of-thought-prompting-elicits-reasoning-in-large-language-models` | `kt:chain-of-thought` |
 | `kt:computing-machinery-and-intelligence` | `kt:turing-test` |
 | `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
@@ -127,6 +129,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:text-to-image-generation` | `kt:diffusion-model` |
 | `kt:transformer-architecture` | `kt:large-language-model` |
 | `kt:turing-machine` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
+| `kt:uk-ai-security-institute` | `kt:ai-safety-institutes` |
 | `kt:universal-approximation-theorem` | `kt:artificial-neural-network` |
 | `kt:unsupervised-learning` | `kt:machine-learning` |
 | `kt:walter-pitts` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |

@@ -116,6 +116,33 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Organization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <http://www.w3.org/2000/01/rdf-schema#label> "AI safety institutes" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <http://www.w3.org/2004/02/skos/core#altLabel> "AI Safety Institute" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <http://www.w3.org/2004/02/skos/core#altLabel> "AISI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <http://www.w3.org/2004/02/skos/core#altLabel> "AISIs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <http://www.w3.org/2004/02/skos/core#altLabel> "International Network of AI Safety Institutes" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <http://www.w3.org/2004/02/skos/core#definition> "Government-backed technical bodies, first created by the UK and US in November 2023, that test advanced AI models for national-security and safety risks, research evaluation science and coordinate internationally, without holding regulatory powers." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <http://www.w3.org/2004/02/skos/core#prefLabel> "AI safety institutes" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s7> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "governance-and-policy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/center-for-ai-standards-and-innovation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/uk-ai-security-institute> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-summit> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://www.w3.org/2000/01/rdf-schema#label> "Artificial neural network" .
@@ -778,6 +805,41 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-evaluation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-evaluation/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "intergovernmental" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-evaluation/s6> <https://schema.org/url> "https://oecd.ai/en/catalogue/tools/inspect" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s1> <http://purl.org/dc/terms/publisher> "UK Department for Science, Innovation and Technology, 2 November 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s1> <http://purl.org/dc/terms/title> "Prime Minister launches new AI Safety Institute" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s1> <https://schema.org/url> "https://www.gov.uk/government/news/prime-minister-launches-new-ai-safety-institute" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s2> <http://purl.org/dc/terms/publisher> "National Institute of Standards and Technology, Federal Register Vol. 88 No. 211, 2 November 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s2> <http://purl.org/dc/terms/title> "Artificial Intelligence Safety Institute Consortium (Federal Register notice 2023-24216)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s2> <https://schema.org/url> "https://regulations.justia.com/regulations/fedreg/2023/11/02/2023-24216.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s3> <http://purl.org/dc/terms/publisher> "Araujo, Fort & Guest (Institute for AI Policy and Strategy), arXiv:2410.09219, October 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s3> <http://purl.org/dc/terms/title> "Understanding the First Wave of AI Safety Institutes: Characteristics, Functions, and Challenges" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s3> <https://schema.org/url> "https://arxiv.org/pdf/2410.09219" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s4> <http://purl.org/dc/terms/publisher> "National Institute of Standards and Technology, 21 November 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s4> <http://purl.org/dc/terms/title> "Mission Statement: International Network of AI Safety Institutes" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s4> <https://schema.org/url> "https://www.nist.gov/system/files/documents/2024/11/20/Mission%20Statement%20-%20International%20Network%20of%20AISIs.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s5> <http://purl.org/dc/terms/publisher> "UK Parliament deposited paper DEP2025-0123 (Peter Kyle to Chi Onwurah MP), 24 February 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s5> <http://purl.org/dc/terms/title> "Letter from the Secretary of State on the AI Security Institute" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s5> <https://schema.org/url> "https://data.parliament.uk/DepositedPapers/Files/DEP2025-0123/Letter-AI_Security_Institute.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s6> <http://purl.org/dc/terms/publisher> "U.S. Department of Commerce, June 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s6> <http://purl.org/dc/terms/title> "Commerce statement on reforming the U.S. AI Safety Institute into the Center for AI Standards and Innovation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s6> <https://schema.org/url> "https://www.commerce.gov/node/7172" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s7> <http://purl.org/dc/terms/publisher> "UK Government press release, 9 December 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s7> <http://purl.org/dc/terms/title> "Efforts to share best practices on AI measurement and evaluations driven forward through the International Network for Advanced AI Measurement, Evaluation and Science" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s7> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s7> <https://schema.org/url> "https://www.gov.uk/government/news/efforts-to-share-best-practices-on-ai-measurement-and-evaluations-driven-forward-through-the-international-network-for-advanced-ai-measurement-evalua" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s1> <http://purl.org/dc/terms/publisher> "The Bulletin of Mathematical Biophysics 5, 115–133 (1943) (McCulloch and Pitts)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s1> <http://purl.org/dc/terms/title> "A logical calculus of the ideas immanent in nervous activity" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
