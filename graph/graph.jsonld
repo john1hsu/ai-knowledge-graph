@@ -1451,6 +1451,9 @@
         },
         {
           "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:speculative-decoding"
         }
       ],
       "kto:usedIn": [
@@ -1474,6 +1477,107 @@
       "kto:alternativeTo": [
         {
           "@id": "kt:model-pruning"
+        }
+      ]
+    },
+    {
+      "@id": "kt:speculative-decoding",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Speculative decoding",
+      "skos:definition": "An inference technique that speeds up autoregressive generation by letting a cheap draft mechanism propose several tokens that the large target model then verifies in a single parallel forward pass, using a rejection-sampling rule that leaves the target model's output distribution unchanged.",
+      "kto:domain": "inference-and-optimization",
+      "dcterms:created": "2026-11-08",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Fast Inference from Transformers via Speculative Decoding",
+          "dcterms:publisher": "ICML 2023, PMLR 202:19274–19286 (Leviathan, Kalman and Matias)",
+          "schema:url": "https://proceedings.mlr.press/v202/leviathan23a.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Fast Inference from Transformers via Speculative Decoding (authors' arXiv version)",
+          "dcterms:publisher": "Leviathan, Kalman and Matias, arXiv 2211.17192",
+          "schema:url": "https://arxiv.org/pdf/2211.17192",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Accelerating Large Language Model Decoding with Speculative Sampling",
+          "dcterms:publisher": "Chen, Borgeaud, Irving, Lespiau, Sifre and Jumper (DeepMind), arXiv 2302.01318 (2023)",
+          "schema:url": "https://arxiv.org/abs/2302.01318v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads",
+          "dcterms:publisher": "ICML 2024, PMLR 235:5209–5235 (Cai, Li, Geng, Peng, Lee, Chen and Dao)",
+          "schema:url": "https://proceedings.mlr.press/v235/cai24b",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Assisted decoding",
+          "dcterms:publisher": "Hugging Face Transformers documentation",
+          "schema:url": "https://huggingface.co/docs/transformers/assisted_decoding",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Speculative Decoding",
+          "dcterms:publisher": "vLLM documentation",
+          "schema:url": "https://docs.vllm.ai/usage/speculative_decoding/",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/inference-and-optimization/speculative-decoding.md",
+      "skos:altLabel": [
+        "speculative sampling",
+        "assisted generation",
+        "assisted decoding",
+        "draft-and-verify decoding"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:llm-inference-optimization"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:quantization"
+        },
+        {
+          "@id": "kt:kv-cache"
+        },
+        {
+          "@id": "kt:model-serving"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:fast-inference-from-transformers-via-speculative-decoding"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:hugging-face-transformers"
+        },
+        {
+          "@id": "kt:vllm"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:model-serving"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:quantization"
         }
       ]
     },

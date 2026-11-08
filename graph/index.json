@@ -611,6 +611,29 @@
     ]
   },
   {
+    "id": "kt:speculative-decoding",
+    "title": "Speculative decoding",
+    "aliases": [
+      "speculative sampling",
+      "assisted generation",
+      "assisted decoding",
+      "draft-and-verify decoding"
+    ],
+    "type": "Technique",
+    "domain": "inference-and-optimization",
+    "file": "articles/inference-and-optimization/speculative-decoding.md",
+    "created": "2026-11-08",
+    "maturity": "established",
+    "source_urls": [
+      "https://proceedings.mlr.press/v202/leviathan23a.html",
+      "https://arxiv.org/pdf/2211.17192",
+      "https://arxiv.org/abs/2302.01318v1",
+      "https://proceedings.mlr.press/v235/cai24b",
+      "https://huggingface.co/docs/transformers/assisted_decoding",
+      "https://docs.vllm.ai/usage/speculative_decoding/"
+    ]
+  },
+  {
     "id": "kt:turing-test",
     "title": "Turing test",
     "aliases": [
