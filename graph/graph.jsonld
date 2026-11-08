@@ -1916,6 +1916,102 @@
       ]
     },
     {
+      "@id": "kt:q-learning",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "Q-learning",
+      "skos:definition": "A model-free, off-policy, value-based reinforcement learning algorithm that learns the expected return of taking each action in each state (the action-value or Q-function) by temporal-difference updates toward the reward plus the discounted best next-state value.",
+      "kto:domain": "reinforcement-learning",
+      "dcterms:created": "2026-11-08",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Technical Note: Q-Learning",
+          "dcterms:publisher": "Machine Learning 8:279-292, 1992 (Watkins and Dayan), via ML Anthology",
+          "schema:url": "https://mlanthology.org/mlj/1992/watkins1992mlj-technical",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "An Introduction to Q-Learning Part 2/2",
+          "dcterms:publisher": "Hugging Face Deep RL Course, Unit 2 (Simonini, 2022)",
+          "schema:url": "https://huggingface.co/blog/deep-rl-q-part2",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Double Q-learning",
+          "dcterms:publisher": "Advances in Neural Information Processing Systems 23 (NIPS 2010) (van Hasselt)",
+          "schema:url": "https://papers.nips.cc/paper/3964-double-q-learning",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "From Pixels to Actions: Human-level control through Deep Reinforcement Learning",
+          "dcterms:publisher": "Google Research blog (Kumaran and Hassabis, Google DeepMind), 2015",
+          "schema:url": "https://research.google/blog/from-pixels-to-actions-human-level-control-through-deep-reinforcement-learning/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Deep Reinforcement Learning with Double Q-learning",
+          "dcterms:publisher": "van Hasselt, Guez and Silver (Google DeepMind), AAAI 2016; authors' arXiv version",
+          "schema:url": "https://arxiv.org/pdf/1509.06461",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/reinforcement-learning/q-learning.md",
+      "skos:altLabel": [
+        "Watkins Q-learning",
+        "tabular Q-learning"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:reinforcement-learning"
+        },
+        {
+          "@id": "kt:temporal-difference-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:markov-decision-process"
+        },
+        {
+          "@id": "kt:actor-critic"
+        },
+        {
+          "@id": "kt:policy-gradient"
+        },
+        {
+          "@id": "kt:exploration-exploitation"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:christopher-watkins"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:markov-decision-process"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:deep-q-network"
+        },
+        {
+          "@id": "kt:double-q-learning"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:sarsa"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:actor-critic"
+        }
+      ]
+    },
+    {
       "@id": "kt:bm25",
       "@type": "kto:Algorithm",
       "skos:prefLabel": "BM25",

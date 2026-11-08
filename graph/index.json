@@ -501,6 +501,26 @@
     ]
   },
   {
+    "id": "kt:q-learning",
+    "title": "Q-learning",
+    "aliases": [
+      "Watkins Q-learning",
+      "tabular Q-learning"
+    ],
+    "type": "Algorithm",
+    "domain": "reinforcement-learning",
+    "file": "articles/reinforcement-learning/q-learning.md",
+    "created": "2026-11-08",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://mlanthology.org/mlj/1992/watkins1992mlj-technical",
+      "https://huggingface.co/blog/deep-rl-q-part2",
+      "https://papers.nips.cc/paper/3964-double-q-learning",
+      "https://research.google/blog/from-pixels-to-actions-human-level-control-through-deep-reinforcement-learning/",
+      "https://arxiv.org/pdf/1509.06461"
+    ]
+  },
+  {
     "id": "kt:quantization",
     "title": "Quantization",
     "aliases": [

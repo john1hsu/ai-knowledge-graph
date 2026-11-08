@@ -572,6 +572,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient-methods-for-reinforcement-learning-with-function-approximation> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <http://www.w3.org/2000/01/rdf-schema#label> "Q-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "Watkins Q-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "tabular Q-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <http://www.w3.org/2004/02/skos/core#definition> "A model-free, off-policy, value-based reinforcement learning algorithm that learns the expected return of taking each action in each state (the action-value or Q-function) by temporal-difference updates toward the reward plus the discounted best next-state value." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <http://www.w3.org/2004/02/skos/core#prefLabel> "Q-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/markov-decision-process> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/sarsa> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/christopher-watkins> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/markov-decision-process> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "reinforcement-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/double-q-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://www.w3.org/2000/01/rdf-schema#label> "Quantization" .
@@ -1295,6 +1321,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s6> <https://schema.org/url> "https://arxiv.org/abs/1707.06347" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s1> <http://purl.org/dc/terms/publisher> "Machine Learning 8:279-292, 1992 (Watkins and Dayan), via ML Anthology" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s1> <http://purl.org/dc/terms/title> "Technical Note: Q-Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s1> <https://schema.org/url> "https://mlanthology.org/mlj/1992/watkins1992mlj-technical" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s2> <http://purl.org/dc/terms/publisher> "Hugging Face Deep RL Course, Unit 2 (Simonini, 2022)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s2> <http://purl.org/dc/terms/title> "An Introduction to Q-Learning Part 2/2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s2> <https://schema.org/url> "https://huggingface.co/blog/deep-rl-q-part2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s3> <http://purl.org/dc/terms/publisher> "Advances in Neural Information Processing Systems 23 (NIPS 2010) (van Hasselt)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s3> <http://purl.org/dc/terms/title> "Double Q-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s3> <https://schema.org/url> "https://papers.nips.cc/paper/3964-double-q-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s4> <http://purl.org/dc/terms/publisher> "Google Research blog (Kumaran and Hassabis, Google DeepMind), 2015" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s4> <http://purl.org/dc/terms/title> "From Pixels to Actions: Human-level control through Deep Reinforcement Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s4> <https://schema.org/url> "https://research.google/blog/from-pixels-to-actions-human-level-control-through-deep-reinforcement-learning/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s5> <http://purl.org/dc/terms/publisher> "van Hasselt, Guez and Silver (Google DeepMind), AAAI 2016; authors' arXiv version" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s5> <http://purl.org/dc/terms/title> "Deep Reinforcement Learning with Double Q-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s5> <https://schema.org/url> "https://arxiv.org/pdf/1509.06461" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s1> <http://purl.org/dc/terms/publisher> "CVPR 2018 (Jacob, Kligys, Chen, Zhu, Tang, Howard, Adam and Kalenichenko), authors' arXiv version 1712.05877" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s1> <http://purl.org/dc/terms/title> "Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

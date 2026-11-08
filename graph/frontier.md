@@ -4,10 +4,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
+| `kt:reinforcement-learning` | `kt:machine-learning`, `kt:actor-critic`, `kt:policy-gradient`, `kt:q-learning`, `kt:rlhf` |
 | `kt:retrieval-augmented-generation` | `kt:bm25`, `kt:embeddings`, `kt:embeddings`, `kt:semantic-search`, `kt:semantic-search` |
+| `kt:markov-decision-process` | `kt:actor-critic`, `kt:policy-gradient`, `kt:q-learning`, `kt:q-learning` |
 | `kt:perceptron` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:artificial-neural-network`, `kt:backpropagation` |
-| `kt:q-learning` | `kt:actor-critic`, `kt:actor-critic`, `kt:policy-gradient`, `kt:policy-gradient` |
-| `kt:reinforcement-learning` | `kt:machine-learning`, `kt:actor-critic`, `kt:policy-gradient`, `kt:rlhf` |
 | `kt:ai-alignment` | `kt:ai-safety-institutes`, `kt:jailbreak`, `kt:rlhf` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:turing-test`, `kt:machine-learning` |
 | `kt:executive-orders-on-ai` | `kt:red-teaming`, `kt:ai-safety-institutes`, `kt:nist-ai-risk-management-framework` |
@@ -21,7 +21,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:gradient-descent` | `kt:backpropagation`, `kt:deep-learning` |
 | `kt:information-retrieval` | `kt:bm25`, `kt:semantic-search` |
-| `kt:markov-decision-process` | `kt:actor-critic`, `kt:policy-gradient` |
 | `kt:model-pruning` | `kt:quantization`, `kt:quantization` |
 | `kt:model-serving` | `kt:mlops`, `kt:quantization` |
 | `kt:multi-agent-systems` | `kt:agentic-workflow`, `kt:ai-agent` |
@@ -33,6 +32,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:representation-learning` | `kt:deep-learning`, `kt:embeddings` |
 | `kt:reranking` | `kt:bm25`, `kt:semantic-search` |
 | `kt:supervised-learning` | `kt:bias-variance-tradeoff`, `kt:machine-learning` |
+| `kt:temporal-difference-learning` | `kt:actor-critic`, `kt:q-learning` |
 | `kt:tf-idf` | `kt:bm25`, `kt:bm25` |
 | `kt:tool-use` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
@@ -52,20 +52,24 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:benchmark-contamination` | `kt:ai-evaluation` |
 | `kt:center-for-ai-standards-and-innovation` | `kt:ai-safety-institutes` |
 | `kt:chain-of-thought-prompting-elicits-reasoning-in-large-language-models` | `kt:chain-of-thought` |
+| `kt:christopher-watkins` | `kt:q-learning` |
 | `kt:computing-machinery-and-intelligence` | `kt:turing-test` |
 | `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:cross-validation` | `kt:bias-variance-tradeoff` |
 | `kt:cudnn` | `kt:cuda` |
 | `kt:data-drift` | `kt:mlops` |
 | `kt:deep-belief-network` | `kt:deep-learning` |
+| `kt:deep-q-network` | `kt:q-learning` |
 | `kt:deep-reinforcement-learning-from-human-preferences` | `kt:rlhf` |
 | `kt:deep-unsupervised-learning-using-nonequilibrium-thermodynamics` | `kt:diffusion-model` |
 | `kt:devops` | `kt:mlops` |
 | `kt:direct-preference-optimization` | `kt:rlhf` |
 | `kt:double-descent` | `kt:bias-variance-tradeoff` |
+| `kt:double-q-learning` | `kt:q-learning` |
 | `kt:eliza` | `kt:turing-test` |
 | `kt:ensemble-methods` | `kt:bias-variance-tradeoff` |
 | `kt:eu-ai-act` | `kt:nist-ai-risk-management-framework` |
+| `kt:exploration-exploitation` | `kt:q-learning` |
 | `kt:feature-store` | `kt:mlops` |
 | `kt:few-shot-prompting` | `kt:chain-of-thought` |
 | `kt:fine-tuning` | `kt:rlhf` |
@@ -113,6 +117,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:regularization` | `kt:bias-variance-tradeoff` |
 | `kt:reinforce-algorithm` | `kt:policy-gradient` |
 | `kt:reward-hacking` | `kt:rlhf` |
+| `kt:sarsa` | `kt:q-learning` |
 | `kt:scalable-parallel-programming-with-cuda` | `kt:cuda` |
 | `kt:scaling-laws` | `kt:large-language-model` |
 | `kt:score-matching` | `kt:diffusion-model` |
@@ -123,7 +128,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strong-ai` | `kt:chinese-room-argument` |
 | `kt:stylegan` | `kt:generative-adversarial-network` |
 | `kt:symbol-grounding-problem` | `kt:chinese-room-argument` |
-| `kt:temporal-difference-learning` | `kt:actor-critic` |
 | `kt:tensorrt-llm` | `kt:quantization` |
 | `kt:test-time-compute` | `kt:chain-of-thought` |
 | `kt:text-to-image-generation` | `kt:diffusion-model` |
