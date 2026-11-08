@@ -609,6 +609,27 @@
     ]
   },
   {
+    "id": "kt:self-consistency",
+    "title": "Self-consistency",
+    "aliases": [
+      "self-consistency decoding",
+      "self-consistency prompting",
+      "CoT-SC",
+      "majority voting over reasoning paths"
+    ],
+    "type": "Technique",
+    "domain": "prompting-and-reasoning",
+    "file": "articles/prompting-and-reasoning/self-consistency.md",
+    "created": "2026-11-08",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/pdf/2203.11171v4",
+      "https://research.google/pubs/self-consistency-improves-chain-of-thought-reasoning-in-language-models/",
+      "https://arxiv.org/abs/2311.17311v1",
+      "https://arxiv.org/abs/2407.21787v3"
+    ]
+  },
+  {
     "id": "kt:semantic-search",
     "title": "Semantic search",
     "aliases": [

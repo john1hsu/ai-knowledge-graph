@@ -1922,6 +1922,95 @@
       ]
     },
     {
+      "@id": "kt:self-consistency",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Self-consistency",
+      "skos:definition": "A decoding strategy for chain-of-thought prompting that samples many independent reasoning paths from a language model and returns the final answer that the largest number of paths agree on, instead of trusting a single greedily decoded chain.",
+      "kto:domain": "prompting-and-reasoning",
+      "dcterms:created": "2026-11-08",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Self-Consistency Improves Chain of Thought Reasoning in Language Models",
+          "dcterms:publisher": "arXiv 2203.11171v4 (Wang, Wei, Schuurmans, Le, Chi, Narang, Chowdhery, Zhou)",
+          "schema:url": "https://arxiv.org/pdf/2203.11171v4",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Self-Consistency Improves Chain of Thought Reasoning in Language Models (ICLR 2023)",
+          "dcterms:publisher": "Google Research publications",
+          "schema:url": "https://research.google/pubs/self-consistency-improves-chain-of-thought-reasoning-in-language-models/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Universal Self-Consistency for Large Language Model Generation",
+          "dcterms:publisher": "arXiv 2311.17311v1 (Chen, Aksitov, Alon, Ren, Xiao, Yin, Prakash, Sutton, Wang, Zhou)",
+          "schema:url": "https://arxiv.org/abs/2311.17311v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Large Language Monkeys: Scaling Inference Compute with Repeated Sampling",
+          "dcterms:publisher": "arXiv 2407.21787v3 (Brown, Juravsky, Ehrlich, Clark, Le, Ré, Mirhoseini)",
+          "schema:url": "https://arxiv.org/abs/2407.21787v3",
+          "kto:sourceType": "preprint"
+        }
+      ],
+      "kto:file": "articles/prompting-and-reasoning/self-consistency.md",
+      "skos:altLabel": [
+        "self-consistency decoding",
+        "self-consistency prompting",
+        "CoT-SC",
+        "majority voting over reasoning paths"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:test-time-compute"
+        },
+        {
+          "@id": "kt:prompt-engineering"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:ensemble-methods"
+        },
+        {
+          "@id": "kt:sampling-temperature-and-top-p"
+        },
+        {
+          "@id": "kt:universal-self-consistency"
+        },
+        {
+          "@id": "kt:large-language-monkeys"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:self-consistency-improves-chain-of-thought-reasoning-in-language-models"
+        }
+      ],
+      "kto:extends": [
+        {
+          "@id": "kt:chain-of-thought"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:gsm8k"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:beam-search"
+        }
+      ]
+    },
+    {
       "@id": "kt:actor-critic",
       "@type": "kto:Technique",
       "skos:prefLabel": "Actor-critic",

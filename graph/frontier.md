@@ -19,14 +19,17 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:beir` | `kt:bm25`, `kt:semantic-search` |
 | `kt:convolutional-neural-network` | `kt:artificial-neural-network`, `kt:deep-learning` |
 | `kt:distributed-training` | `kt:cuda`, `kt:mlops` |
+| `kt:ensemble-methods` | `kt:bias-variance-tradeoff`, `kt:self-consistency` |
 | `kt:fine-tuning` | `kt:hugging-face-transformers`, `kt:rlhf` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:gradient-descent` | `kt:backpropagation`, `kt:deep-learning` |
+| `kt:gsm8k` | `kt:chain-of-thought`, `kt:self-consistency` |
 | `kt:information-retrieval` | `kt:bm25`, `kt:semantic-search` |
 | `kt:model-pruning` | `kt:quantization`, `kt:quantization` |
 | `kt:multi-agent-systems` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:probabilistic-relevance-framework` | `kt:bm25`, `kt:bm25` |
+| `kt:prompt-engineering` | `kt:chain-of-thought`, `kt:self-consistency` |
 | `kt:prompt-injection` | `kt:red-teaming`, `kt:jailbreak` |
 | `kt:proximal-policy-optimization` | `kt:policy-gradient`, `kt:rlhf` |
 | `kt:pytorch` | `kt:hugging-face-transformers`, `kt:backpropagation` |
@@ -35,6 +38,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:reranking` | `kt:bm25`, `kt:semantic-search` |
 | `kt:supervised-learning` | `kt:bias-variance-tradeoff`, `kt:machine-learning` |
 | `kt:temporal-difference-learning` | `kt:actor-critic`, `kt:q-learning` |
+| `kt:test-time-compute` | `kt:chain-of-thought`, `kt:self-consistency` |
 | `kt:tf-idf` | `kt:bm25`, `kt:bm25` |
 | `kt:tool-use` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:transformer-architecture` | `kt:hugging-face-transformers`, `kt:large-language-model` |
@@ -53,6 +57,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:arthur-samuel` | `kt:machine-learning` |
 | `kt:asynchronous-advantage-actor-critic` | `kt:actor-critic` |
 | `kt:automatic-differentiation` | `kt:backpropagation` |
+| `kt:beam-search` | `kt:self-consistency` |
 | `kt:benchmark-contamination` | `kt:ai-evaluation` |
 | `kt:center-for-ai-standards-and-innovation` | `kt:ai-safety-institutes` |
 | `kt:chain-of-thought-prompting-elicits-reasoning-in-large-language-models` | `kt:chain-of-thought` |
@@ -72,7 +77,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:double-descent` | `kt:bias-variance-tradeoff` |
 | `kt:double-q-learning` | `kt:q-learning` |
 | `kt:eliza` | `kt:turing-test` |
-| `kt:ensemble-methods` | `kt:bias-variance-tradeoff` |
 | `kt:eu-ai-act` | `kt:nist-ai-risk-management-framework` |
 | `kt:exploration-exploitation` | `kt:q-learning` |
 | `kt:fast-inference-from-transformers-via-speculative-decoding` | `kt:speculative-decoding` |
@@ -82,7 +86,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:foundation-model` | `kt:large-language-model` |
 | `kt:generative-adversarial-nets` | `kt:generative-adversarial-network` |
 | `kt:gpu-computing` | `kt:cuda` |
-| `kt:gsm8k` | `kt:chain-of-thought` |
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
 | `kt:hugging-face` | `kt:hugging-face-transformers` |
 | `kt:hugging-face-diffusers` | `kt:diffusion-model` |
@@ -97,6 +100,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:kv-cache` | `kt:speculative-decoding` |
 | `kt:langgraph` | `kt:agentic-workflow` |
 | `kt:language-model` | `kt:large-language-model` |
+| `kt:large-language-monkeys` | `kt:self-consistency` |
 | `kt:latent-diffusion-model` | `kt:diffusion-model` |
 | `kt:latent-semantic-analysis` | `kt:semantic-search` |
 | `kt:learning-representations-by-back-propagating-errors` | `kt:backpropagation` |
@@ -116,18 +120,18 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:philosophy-of-artificial-intelligence` | `kt:chinese-room-argument` |
 | `kt:policy-gradient-methods-for-reinforcement-learning-with-function-approximation` | `kt:policy-gradient` |
 | `kt:pretraining` | `kt:large-language-model` |
-| `kt:prompt-engineering` | `kt:chain-of-thought` |
 | `kt:qlora` | `kt:quantization` |
 | `kt:reasoning-models` | `kt:chain-of-thought` |
 | `kt:recurrent-neural-network` | `kt:deep-learning` |
 | `kt:regularization` | `kt:bias-variance-tradeoff` |
 | `kt:reinforce-algorithm` | `kt:policy-gradient` |
 | `kt:reward-hacking` | `kt:rlhf` |
+| `kt:sampling-temperature-and-top-p` | `kt:self-consistency` |
 | `kt:sarsa` | `kt:q-learning` |
 | `kt:scalable-parallel-programming-with-cuda` | `kt:cuda` |
 | `kt:scaling-laws` | `kt:large-language-model` |
 | `kt:score-matching` | `kt:diffusion-model` |
-| `kt:self-consistency` | `kt:chain-of-thought` |
+| `kt:self-consistency-improves-chain-of-thought-reasoning-in-language-models` | `kt:self-consistency` |
 | `kt:self-refine` | `kt:agentic-workflow` |
 | `kt:soft-actor-critic` | `kt:actor-critic` |
 | `kt:statistical-learning-theory` | `kt:bias-variance-tradeoff` |
@@ -135,12 +139,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:stylegan` | `kt:generative-adversarial-network` |
 | `kt:symbol-grounding-problem` | `kt:chinese-room-argument` |
 | `kt:tensorrt-llm` | `kt:quantization` |
-| `kt:test-time-compute` | `kt:chain-of-thought` |
 | `kt:text-to-image-generation` | `kt:diffusion-model` |
 | `kt:transformers-state-of-the-art-natural-language-processing` | `kt:hugging-face-transformers` |
 | `kt:turing-machine` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:uk-ai-security-institute` | `kt:ai-safety-institutes` |
 | `kt:universal-approximation-theorem` | `kt:artificial-neural-network` |
+| `kt:universal-self-consistency` | `kt:self-consistency` |
 | `kt:unsupervised-learning` | `kt:machine-learning` |
 | `kt:walter-pitts` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:warren-mcculloch` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |

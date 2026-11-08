@@ -703,6 +703,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-reinforcement-learning-from-human-preferences> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> <http://www.w3.org/2000/01/rdf-schema#label> "Self-consistency" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> <http://www.w3.org/2004/02/skos/core#altLabel> "CoT-SC" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> <http://www.w3.org/2004/02/skos/core#altLabel> "majority voting over reasoning paths" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> <http://www.w3.org/2004/02/skos/core#altLabel> "self-consistency decoding" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> <http://www.w3.org/2004/02/skos/core#altLabel> "self-consistency prompting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/test-time-compute> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> <http://www.w3.org/2004/02/skos/core#definition> "A decoding strategy for chain-of-thought prompting that samples many independent reasoning paths from a language model and returns the final answer that the largest number of paths agree on, instead of trusting a single greedily decoded chain." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> <http://www.w3.org/2004/02/skos/core#prefLabel> "Self-consistency" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ensemble-methods> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-monkeys> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/universal-self-consistency> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/self-consistency/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/self-consistency/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/self-consistency/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/self-consistency/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/beam-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "prompting-and-reasoning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> <https://github.com/john1hsu/ai-knowledge-graph/ontology#extends> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency-improves-chain-of-thought-reasoning-in-language-models> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <http://www.w3.org/2000/01/rdf-schema#label> "Semantic search" .
@@ -1473,6 +1499,26 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s6> <https://schema.org/url> "https://huggingface.co/docs/trl/v0.12.0/en/index" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-consistency/s1> <http://purl.org/dc/terms/publisher> "arXiv 2203.11171v4 (Wang, Wei, Schuurmans, Le, Chi, Narang, Chowdhery, Zhou)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-consistency/s1> <http://purl.org/dc/terms/title> "Self-Consistency Improves Chain of Thought Reasoning in Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-consistency/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-consistency/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-consistency/s1> <https://schema.org/url> "https://arxiv.org/pdf/2203.11171v4" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-consistency/s2> <http://purl.org/dc/terms/publisher> "Google Research publications" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-consistency/s2> <http://purl.org/dc/terms/title> "Self-Consistency Improves Chain of Thought Reasoning in Language Models (ICLR 2023)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-consistency/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-consistency/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-consistency/s2> <https://schema.org/url> "https://research.google/pubs/self-consistency-improves-chain-of-thought-reasoning-in-language-models/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-consistency/s3> <http://purl.org/dc/terms/publisher> "arXiv 2311.17311v1 (Chen, Aksitov, Alon, Ren, Xiao, Yin, Prakash, Sutton, Wang, Zhou)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-consistency/s3> <http://purl.org/dc/terms/title> "Universal Self-Consistency for Large Language Model Generation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-consistency/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-consistency/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-consistency/s3> <https://schema.org/url> "https://arxiv.org/abs/2311.17311v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-consistency/s4> <http://purl.org/dc/terms/publisher> "arXiv 2407.21787v3 (Brown, Juravsky, Ehrlich, Clark, Le, Ré, Mirhoseini)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-consistency/s4> <http://purl.org/dc/terms/title> "Large Language Monkeys: Scaling Inference Compute with Repeated Sampling" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-consistency/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-consistency/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "preprint" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-consistency/s4> <https://schema.org/url> "https://arxiv.org/abs/2407.21787v3" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s1> <http://purl.org/dc/terms/publisher> "Journal of the American Society for Information Science 41(6), 391-407, 1990 (Deerwester, Dumais, Furnas, Landauer and Harshman); author copy hosted by Microsoft Research" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s1> <http://purl.org/dc/terms/title> "Indexing by Latent Semantic Analysis" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
