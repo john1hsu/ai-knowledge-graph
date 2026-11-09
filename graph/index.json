@@ -304,6 +304,28 @@
     ]
   },
   {
+    "id": "kt:clip",
+    "title": "CLIP",
+    "aliases": [
+      "Contrastive Language-Image Pre-training",
+      "Contrastive Language-Image Pretraining",
+      "OpenAI CLIP"
+    ],
+    "type": "Model",
+    "domain": "computer-vision-and-multimodal",
+    "file": "articles/computer-vision-and-multimodal/clip.md",
+    "created": "2026-11-09",
+    "maturity": "established",
+    "source_urls": [
+      "https://proceedings.mlr.press/v139/radford21a.html",
+      "https://arxiv.org/pdf/2103.00020v1",
+      "https://huggingface.co/docs/transformers/model_doc/clip",
+      "https://openaccess.thecvf.com/content/CVPR2023/papers/Cherti_Reproducible_Scaling_Laws_for_Contrastive_Language-Image_Learning_CVPR_2023_paper.pdf",
+      "https://openaccess.thecvf.com/content/ICCV2023/papers/Zhai_Sigmoid_Loss_for_Language_Image_Pre-Training_ICCV_2023_paper.pdf",
+      "https://arxiv.org/pdf/2304.08485v2"
+    ]
+  },
+  {
     "id": "kt:cuda",
     "title": "CUDA",
     "aliases": [

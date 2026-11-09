@@ -762,6 +762,112 @@
       ]
     },
     {
+      "@id": "kt:clip",
+      "@type": "kto:Model",
+      "skos:prefLabel": "CLIP",
+      "skos:definition": "A dual-encoder vision-language model from OpenAI (2021) that trains an image encoder and a text encoder jointly with a contrastive objective on hundreds of millions of web image-caption pairs, so that images and text share one embedding space and new visual categories can be recognized zero-shot from natural-language descriptions.",
+      "kto:domain": "computer-vision-and-multimodal",
+      "dcterms:created": "2026-11-09",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Learning Transferable Visual Models From Natural Language Supervision",
+          "dcterms:publisher": "Radford, Kim, Hallacy, Ramesh, Goh, Agarwal, Sastry, Askell, Mishkin, Clark, Krueger and Sutskever, Proceedings of ICML 2021 (PMLR 139), pp. 8748–8763",
+          "schema:url": "https://proceedings.mlr.press/v139/radford21a.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Learning Transferable Visual Models From Natural Language Supervision (authors' arXiv version, 2103.00020v1)",
+          "dcterms:publisher": "Radford et al., OpenAI, February 2021",
+          "schema:url": "https://arxiv.org/pdf/2103.00020v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "CLIP — Transformers documentation",
+          "dcterms:publisher": "Hugging Face",
+          "schema:url": "https://huggingface.co/docs/transformers/model_doc/clip",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Reproducible Scaling Laws for Contrastive Language-Image Learning",
+          "dcterms:publisher": "Cherti, Beaumont, Wightman, Wortsman, Ilharco, Gordon, Schuhmann, Schmidt and Jitsev, CVPR 2023, pp. 2818–2829",
+          "schema:url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Cherti_Reproducible_Scaling_Laws_for_Contrastive_Language-Image_Learning_CVPR_2023_paper.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Sigmoid Loss for Language Image Pre-Training",
+          "dcterms:publisher": "Zhai, Mustafa, Kolesnikov and Beyer, ICCV 2023, pp. 11975–11986",
+          "schema:url": "https://openaccess.thecvf.com/content/ICCV2023/papers/Zhai_Sigmoid_Loss_for_Language_Image_Pre-Training_ICCV_2023_paper.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Visual Instruction Tuning (authors' arXiv version, 2304.08485v2; NeurIPS 2023)",
+          "dcterms:publisher": "Liu, Li, Wu and Lee",
+          "schema:url": "https://arxiv.org/pdf/2304.08485v2",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/computer-vision-and-multimodal/clip.md",
+      "skos:altLabel": [
+        "Contrastive Language-Image Pre-training",
+        "Contrastive Language-Image Pretraining",
+        "OpenAI CLIP"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:vision-language-model"
+        },
+        {
+          "@id": "kt:representation-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:embeddings"
+        },
+        {
+          "@id": "kt:contrastive-learning"
+        },
+        {
+          "@id": "kt:vision-transformer"
+        },
+        {
+          "@id": "kt:diffusion-model"
+        },
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:scaling-laws"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:learning-transferable-visual-models-from-natural-language-supervision"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:openai"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:transformer-architecture"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:hugging-face-transformers"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:zero-shot-learning"
+        }
+      ]
+    },
+    {
       "@id": "kt:diffusion-model",
       "@type": "kto:Architecture",
       "skos:prefLabel": "Diffusion model",

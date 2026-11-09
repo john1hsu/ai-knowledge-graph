@@ -11,6 +11,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:markov-decision-process` | `kt:actor-critic`, `kt:policy-gradient`, `kt:q-learning`, `kt:q-learning` |
 | `kt:perceptron` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:artificial-neural-network`, `kt:backpropagation` |
 | `kt:pretraining` | `kt:test-time-compute`, `kt:large-language-model`, `kt:scaling-laws`, `kt:scaling-laws` |
+| `kt:transformer-architecture` | `kt:hugging-face-transformers`, `kt:clip`, `kt:large-language-model`, `kt:scaling-laws` |
 | `kt:ai-governance` | `kt:ai-safety-institutes`, `kt:nist-ai-risk-management-framework`, `kt:ai-alignment` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:turing-test`, `kt:machine-learning` |
 | `kt:ensemble-methods` | `kt:bias-variance-tradeoff`, `kt:self-consistency`, `kt:knowledge-distillation` |
@@ -20,8 +21,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:multi-agent-systems` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:prompt-injection` | `kt:agent2agent-protocol`, `kt:red-teaming`, `kt:jailbreak` |
 | `kt:reasoning-models` | `kt:chain-of-thought`, `kt:test-time-compute`, `kt:test-time-compute` |
+| `kt:representation-learning` | `kt:clip`, `kt:deep-learning`, `kt:embeddings` |
 | `kt:tool-use` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent` |
-| `kt:transformer-architecture` | `kt:hugging-face-transformers`, `kt:large-language-model`, `kt:scaling-laws` |
 | `kt:activation-function` | `kt:artificial-neural-network`, `kt:backpropagation` |
 | `kt:beam-search` | `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:beir` | `kt:bm25`, `kt:semantic-search` |
@@ -34,13 +35,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:information-retrieval` | `kt:bm25`, `kt:semantic-search` |
 | `kt:langgraph` | `kt:agent2agent-protocol`, `kt:agentic-workflow` |
 | `kt:model-compression` | `kt:quantization`, `kt:knowledge-distillation` |
+| `kt:openai` | `kt:clip`, `kt:gsm8k` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:probabilistic-relevance-framework` | `kt:bm25`, `kt:bm25` |
 | `kt:prompt-engineering` | `kt:chain-of-thought`, `kt:self-consistency` |
 | `kt:proximal-policy-optimization` | `kt:policy-gradient`, `kt:rlhf` |
 | `kt:pytorch` | `kt:hugging-face-transformers`, `kt:backpropagation` |
 | `kt:react-prompting` | `kt:ai-agent`, `kt:chain-of-thought` |
-| `kt:representation-learning` | `kt:deep-learning`, `kt:embeddings` |
 | `kt:reranking` | `kt:bm25`, `kt:semantic-search` |
 | `kt:reward-hacking` | `kt:ai-alignment`, `kt:rlhf` |
 | `kt:supervised-learning` | `kt:bias-variance-tradeoff`, `kt:machine-learning` |
@@ -67,6 +68,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:christopher-watkins` | `kt:q-learning` |
 | `kt:computing-machinery-and-intelligence` | `kt:turing-test` |
 | `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
+| `kt:contrastive-learning` | `kt:clip` |
 | `kt:cross-validation` | `kt:bias-variance-tradeoff` |
 | `kt:cudnn` | `kt:cuda` |
 | `kt:data-drift` | `kt:mlops` |
@@ -113,6 +115,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:latent-diffusion-model` | `kt:diffusion-model` |
 | `kt:latent-semantic-analysis` | `kt:semantic-search` |
 | `kt:learning-representations-by-back-propagating-errors` | `kt:backpropagation` |
+| `kt:learning-transferable-visual-models-from-natural-language-supervision` | `kt:clip` |
 | `kt:llm-as-a-judge` | `kt:ai-evaluation` |
 | `kt:llm-inference-optimization` | `kt:speculative-decoding` |
 | `kt:llmops` | `kt:mlops` |
@@ -124,7 +127,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:nist` | `kt:nist-ai-risk-management-framework` |
 | `kt:nist-generative-ai-profile` | `kt:nist-ai-risk-management-framework` |
 | `kt:nvidia` | `kt:cuda` |
-| `kt:openai` | `kt:gsm8k` |
 | `kt:overfitting` | `kt:bias-variance-tradeoff` |
 | `kt:parallel-computing` | `kt:cuda` |
 | `kt:penetration-testing` | `kt:red-teaming` |
@@ -159,7 +161,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:universal-approximation-theorem` | `kt:artificial-neural-network` |
 | `kt:universal-self-consistency` | `kt:self-consistency` |
 | `kt:unsupervised-learning` | `kt:machine-learning` |
+| `kt:vision-language-model` | `kt:clip` |
+| `kt:vision-transformer` | `kt:clip` |
 | `kt:walter-pitts` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:warren-mcculloch` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:wasserstein-gan` | `kt:generative-adversarial-network` |
 | `kt:word2vec` | `kt:embeddings` |
+| `kt:zero-shot-learning` | `kt:clip` |

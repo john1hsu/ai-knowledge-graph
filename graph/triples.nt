@@ -344,6 +344,35 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/chinese-room-argument> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-history" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chinese-room-argument> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/minds-brains-and-programs> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chinese-room-argument> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/clip> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/clip> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/clip> <http://www.w3.org/2000/01/rdf-schema#label> "CLIP" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/clip> <http://www.w3.org/2004/02/skos/core#altLabel> "Contrastive Language-Image Pre-training" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/clip> <http://www.w3.org/2004/02/skos/core#altLabel> "Contrastive Language-Image Pretraining" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/clip> <http://www.w3.org/2004/02/skos/core#altLabel> "OpenAI CLIP" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/clip> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/clip> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/clip> <http://www.w3.org/2004/02/skos/core#definition> "A dual-encoder vision-language model from OpenAI (2021) that trains an image encoder and a text encoder jointly with a contrastive objective on hundreds of millions of web image-caption pairs, so that images and text share one embedding space and new visual categories can be recognized zero-shot from natural-language descriptions." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/clip> <http://www.w3.org/2004/02/skos/core#prefLabel> "CLIP" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/clip> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/contrastive-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/clip> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/diffusion-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/clip> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/clip> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/clip> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/clip> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/clip> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/clip> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/clip> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/clip> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/clip> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/clip> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/clip> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/clip> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/openai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/clip> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "computer-vision-and-multimodal" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/clip> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/clip> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/clip> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/learning-transferable-visual-models-from-natural-language-supervision> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/clip> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Tool> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <http://www.w3.org/2000/01/rdf-schema#label> "CUDA" .
@@ -1279,6 +1308,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/chinese-room-argument/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/chinese-room-argument/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/chinese-room-argument/s4> <https://schema.org/url> "https://aclanthology.org/2020.acl-main.463.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s1> <http://purl.org/dc/terms/publisher> "Radford, Kim, Hallacy, Ramesh, Goh, Agarwal, Sastry, Askell, Mishkin, Clark, Krueger and Sutskever, Proceedings of ICML 2021 (PMLR 139), pp. 8748–8763" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s1> <http://purl.org/dc/terms/title> "Learning Transferable Visual Models From Natural Language Supervision" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s1> <https://schema.org/url> "https://proceedings.mlr.press/v139/radford21a.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s2> <http://purl.org/dc/terms/publisher> "Radford et al., OpenAI, February 2021" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s2> <http://purl.org/dc/terms/title> "Learning Transferable Visual Models From Natural Language Supervision (authors' arXiv version, 2103.00020v1)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s2> <https://schema.org/url> "https://arxiv.org/pdf/2103.00020v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s3> <http://purl.org/dc/terms/publisher> "Hugging Face" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s3> <http://purl.org/dc/terms/title> "CLIP — Transformers documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s3> <https://schema.org/url> "https://huggingface.co/docs/transformers/model_doc/clip" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s4> <http://purl.org/dc/terms/publisher> "Cherti, Beaumont, Wightman, Wortsman, Ilharco, Gordon, Schuhmann, Schmidt and Jitsev, CVPR 2023, pp. 2818–2829" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s4> <http://purl.org/dc/terms/title> "Reproducible Scaling Laws for Contrastive Language-Image Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s4> <https://schema.org/url> "https://openaccess.thecvf.com/content/CVPR2023/papers/Cherti_Reproducible_Scaling_Laws_for_Contrastive_Language-Image_Learning_CVPR_2023_paper.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s5> <http://purl.org/dc/terms/publisher> "Zhai, Mustafa, Kolesnikov and Beyer, ICCV 2023, pp. 11975–11986" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s5> <http://purl.org/dc/terms/title> "Sigmoid Loss for Language Image Pre-Training" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s5> <https://schema.org/url> "https://openaccess.thecvf.com/content/ICCV2023/papers/Zhai_Sigmoid_Loss_for_Language_Image_Pre-Training_ICCV_2023_paper.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s6> <http://purl.org/dc/terms/publisher> "Liu, Li, Wu and Lee" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s6> <http://purl.org/dc/terms/title> "Visual Instruction Tuning (authors' arXiv version, 2304.08485v2; NeurIPS 2023)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s6> <https://schema.org/url> "https://arxiv.org/pdf/2304.08485v2" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s1> <http://purl.org/dc/terms/publisher> "NVIDIA CUDA documentation" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s1> <http://purl.org/dc/terms/title> "CUDA Programming Guide, 1.2 Programming Model (v13.4.2)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
