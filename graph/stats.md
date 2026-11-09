@@ -1,9 +1,9 @@
 # Graph statistics
 
-- Articles (nodes written): **47**
-- Frontier nodes (referenced, unwritten): **179**
-- Edges: **449**
-- Citations: **256**
+- Articles (nodes written): **48**
+- Frontier nodes (referenced, unwritten): **183**
+- Edges: **456**
+- Citations: **261**
 
 - Weakly connected components: **1**
 - Isolated articles (no edges): **0**
@@ -12,21 +12,21 @@
 
 | Node | PageRank | Written |
 |---|---|---|
-| `kt:large-language-model` | 0.0146 | yes |
-| `kt:deep-learning` | 0.0085 | yes |
-| `kt:ai-evaluation` | 0.0083 | yes |
-| `kt:machine-learning` | 0.0076 | yes |
-| `kt:rlhf` | 0.0074 | yes |
-| `kt:red-teaming` | 0.0071 | yes |
-| `kt:in-context-learning` | 0.0069 | no |
-| `kt:pretraining` | 0.0068 | no |
-| `kt:reinforcement-learning` | 0.0068 | no |
-| `kt:artificial-neural-network` | 0.0066 | yes |
-| `kt:scaling-laws` | 0.0066 | yes |
-| `kt:transformer-architecture` | 0.0065 | no |
-| `kt:ai-agent` | 0.0064 | yes |
-| `kt:nist-ai-risk-management-framework` | 0.0060 | yes |
-| `kt:chain-of-thought` | 0.0058 | yes |
+| `kt:large-language-model` | 0.0143 | yes |
+| `kt:deep-learning` | 0.0083 | yes |
+| `kt:ai-evaluation` | 0.0082 | yes |
+| `kt:machine-learning` | 0.0075 | yes |
+| `kt:rlhf` | 0.0073 | yes |
+| `kt:red-teaming` | 0.0069 | yes |
+| `kt:artificial-neural-network` | 0.0069 | yes |
+| `kt:in-context-learning` | 0.0068 | no |
+| `kt:pretraining` | 0.0067 | no |
+| `kt:reinforcement-learning` | 0.0066 | no |
+| `kt:scaling-laws` | 0.0065 | yes |
+| `kt:transformer-architecture` | 0.0064 | no |
+| `kt:ai-agent` | 0.0062 | yes |
+| `kt:artificial-intelligence` | 0.0060 | no |
+| `kt:nist-ai-risk-management-framework` | 0.0059 | yes |
 
 ## Communities (Louvain): 11
 
@@ -37,9 +37,9 @@
 5. `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:activation-function`, `kt:artificial-neural-network`, `kt:automatic-differentiation`, `kt:backpropagation`, `kt:connectionism`, `kt:convolutional-neural-network`, `kt:deep-belief-network`, `kt:deep-learning`, `kt:finite-automaton`, `kt:gradient-descent`, `kt:learning-representations-by-back-propagating-errors` …
 6. `kt:a-neural-probabilistic-language-model`, `kt:apache-lucene`, `kt:approximate-nearest-neighbor-search`, `kt:beir`, `kt:beir-a-heterogeneous-benchmark-for-zero-shot-evaluation-of-information-retrieval-models`, `kt:bm25`, `kt:embeddings`, `kt:hybrid-search`, `kt:information-retrieval`, `kt:latent-semantic-analysis`, `kt:mteb`, `kt:probabilistic-relevance-framework` …
 7. `kt:agent-memory`, `kt:agent2agent-protocol`, `kt:agentic-systems`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:autogen`, `kt:google`, `kt:langchain`, `kt:langgraph`, `kt:model-context-protocol`, `kt:multi-agent-systems`, `kt:planning-in-llms` …
-8. `kt:cuda`, `kt:cudnn`, `kt:data-drift`, `kt:devops`, `kt:distributed-training`, `kt:feature-store`, `kt:gpu-computing`, `kt:hidden-technical-debt-in-machine-learning-systems`, `kt:imagenet-and-alexnet`, `kt:llmops`, `kt:mlflow`, `kt:mlops` …
-9. `kt:deep-unsupervised-learning-using-nonequilibrium-thermodynamics`, `kt:diffusion-model`, `kt:generative-adversarial-nets`, `kt:generative-adversarial-network`, `kt:generative-model`, `kt:hugging-face-diffusers`, `kt:ian-goodfellow`, `kt:latent-diffusion-model`, `kt:score-matching`, `kt:stylegan`, `kt:text-to-image-generation`, `kt:variational-autoencoder` …
-10. `kt:arthur-samuel`, `kt:bias-variance-tradeoff`, `kt:cross-validation`, `kt:double-descent`, `kt:ensemble-methods`, `kt:machine-learning`, `kt:overfitting`, `kt:reconciling-modern-machine-learning-practice-and-the-bias-variance-trade-off`, `kt:regularization`, `kt:statistical-learning-theory`, `kt:supervised-learning`, `kt:unsupervised-learning`
+8. `kt:alan-turing`, `kt:artificial-intelligence`, `kt:chinese-room-argument`, `kt:computing-machinery-and-intelligence`, `kt:dartmouth-workshop`, `kt:eliza`, `kt:john-mccarthy`, `kt:john-searle`, `kt:logic-theorist`, `kt:marvin-minsky`, `kt:minds-brains-and-programs`, `kt:philosophy-of-artificial-intelligence` …
+9. `kt:cuda`, `kt:cudnn`, `kt:data-drift`, `kt:devops`, `kt:distributed-training`, `kt:feature-store`, `kt:gpu-computing`, `kt:hidden-technical-debt-in-machine-learning-systems`, `kt:imagenet-and-alexnet`, `kt:llmops`, `kt:mlflow`, `kt:mlops` …
+10. `kt:deep-unsupervised-learning-using-nonequilibrium-thermodynamics`, `kt:diffusion-model`, `kt:generative-adversarial-nets`, `kt:generative-adversarial-network`, `kt:generative-model`, `kt:hugging-face-diffusers`, `kt:ian-goodfellow`, `kt:latent-diffusion-model`, `kt:score-matching`, `kt:stylegan`, `kt:text-to-image-generation`, `kt:variational-autoencoder` …
 
 ## By type
 
@@ -47,6 +47,7 @@
 - Architecture: 3
 - Benchmark: 2
 - Concept: 10
+- Event: 1
 - Field: 5
 - Model: 1
 - Organization: 1
@@ -60,7 +61,7 @@
 ## By domain
 
 - agents-and-tool-use: 4
-- ai-history: 3
+- ai-history: 4
 - ai-infrastructure-and-mlops: 3
 - computer-vision-and-multimodal: 3
 - deep-learning: 3
@@ -80,4 +81,4 @@
 - emerging: 11
 - established: 28
 - foundational: 7
-- historical: 1
+- historical: 2

@@ -10,12 +10,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:in-context-learning` | `kt:chain-of-thought`, `kt:jailbreak`, `kt:mechanistic-interpretability`, `kt:emergent-abilities`, `kt:large-language-model` |
 | `kt:pretraining` | `kt:test-time-compute`, `kt:emergent-abilities`, `kt:large-language-model`, `kt:scaling-laws`, `kt:scaling-laws` |
 | `kt:ai-governance` | `kt:ai-safety-institutes`, `kt:algorithmic-bias-and-fairness`, `kt:nist-ai-risk-management-framework`, `kt:ai-alignment` |
+| `kt:artificial-intelligence` | `kt:ai-agent`, `kt:dartmouth-workshop`, `kt:turing-test`, `kt:machine-learning` |
 | `kt:ensemble-methods` | `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:markov-decision-process` | `kt:actor-critic`, `kt:policy-gradient`, `kt:q-learning`, `kt:q-learning` |
 | `kt:multi-agent-systems` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:langgraph` |
 | `kt:perceptron` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:artificial-neural-network`, `kt:backpropagation` |
 | `kt:transformer-architecture` | `kt:hugging-face-transformers`, `kt:clip`, `kt:large-language-model`, `kt:scaling-laws` |
-| `kt:artificial-intelligence` | `kt:ai-agent`, `kt:turing-test`, `kt:machine-learning` |
 | `kt:executive-orders-on-ai` | `kt:red-teaming`, `kt:ai-safety-institutes`, `kt:nist-ai-risk-management-framework` |
 | `kt:fine-tuning` | `kt:hugging-face-transformers`, `kt:qlora`, `kt:rlhf` |
 | `kt:hybrid-search` | `kt:bm25`, `kt:bm25`, `kt:semantic-search` |
@@ -119,6 +119,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:inspect-ai` | `kt:ai-evaluation` |
 | `kt:interpretability` | `kt:mechanistic-interpretability` |
 | `kt:iso-iec-42001` | `kt:nist-ai-risk-management-framework` |
+| `kt:john-mccarthy` | `kt:dartmouth-workshop` |
 | `kt:john-searle` | `kt:chinese-room-argument` |
 | `kt:langchain` | `kt:langgraph` |
 | `kt:language-model` | `kt:large-language-model` |
@@ -129,7 +130,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:learning-transferable-visual-models-from-natural-language-supervision` | `kt:clip` |
 | `kt:llmops` | `kt:mlops` |
 | `kt:loftq` | `kt:qlora` |
+| `kt:logic-theorist` | `kt:dartmouth-workshop` |
 | `kt:lora` | `kt:qlora` |
+| `kt:marvin-minsky` | `kt:dartmouth-workshop` |
 | `kt:minds-brains-and-programs` | `kt:chinese-room-argument` |
 | `kt:mlflow` | `kt:mlops` |
 | `kt:model-cards` | `kt:algorithmic-bias-and-fairness` |
@@ -165,6 +168,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strong-ai` | `kt:chinese-room-argument` |
 | `kt:stylegan` | `kt:generative-adversarial-network` |
 | `kt:symbol-grounding-problem` | `kt:chinese-room-argument` |
+| `kt:symbolic-ai` | `kt:dartmouth-workshop` |
 | `kt:synthetic-data` | `kt:knowledge-distillation` |
 | `kt:tensorrt-llm` | `kt:quantization` |
 | `kt:text-to-image-generation` | `kt:diffusion-model` |

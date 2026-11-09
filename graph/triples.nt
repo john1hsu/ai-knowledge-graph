@@ -473,6 +473,28 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/scalable-parallel-programming-with-cuda> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dartmouth-workshop> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dartmouth-workshop> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Event> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dartmouth-workshop> <http://www.w3.org/2000/01/rdf-schema#label> "Dartmouth workshop" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dartmouth-workshop> <http://www.w3.org/2004/02/skos/core#altLabel> "1956 Dartmouth conference" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dartmouth-workshop> <http://www.w3.org/2004/02/skos/core#altLabel> "Dartmouth Summer Research Project on Artificial Intelligence" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dartmouth-workshop> <http://www.w3.org/2004/02/skos/core#altLabel> "Dartmouth conference" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dartmouth-workshop> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dartmouth-workshop> <http://www.w3.org/2004/02/skos/core#definition> "An eight-week summer research meeting held at Dartmouth College in Hanover, New Hampshire, in 1956, organized by John McCarthy, Marvin Minsky, Nathaniel Rochester and Claude Shannon; its 1955 funding proposal introduced the term \"artificial intelligence\" and the event is widely treated as the founding of AI as a field." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dartmouth-workshop> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dartmouth workshop" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dartmouth-workshop> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dartmouth-workshop> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dartmouth-workshop> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dartmouth-workshop> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/dartmouth-workshop/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dartmouth-workshop> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/dartmouth-workshop/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dartmouth-workshop> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/dartmouth-workshop/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dartmouth-workshop> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/dartmouth-workshop/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dartmouth-workshop> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/dartmouth-workshop/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dartmouth-workshop> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/john-mccarthy> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dartmouth-workshop> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/marvin-minsky> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dartmouth-workshop> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-history" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dartmouth-workshop> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "historical" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dartmouth-workshop> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Field> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <http://www.w3.org/2000/01/rdf-schema#label> "Deep learning" .
@@ -1629,6 +1651,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s6> <https://schema.org/url> "https://developer.nvidia.com/cuda-zone" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dartmouth-workshop/s1> <http://purl.org/dc/terms/publisher> "J. McCarthy, M. L. Minsky, N. Rochester, C. E. Shannon (reformatted copy hosted by UMBC ebiquity)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dartmouth-workshop/s1> <http://purl.org/dc/terms/title> "A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence (August 31, 1955)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dartmouth-workshop/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dartmouth-workshop/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dartmouth-workshop/s1> <https://schema.org/url> "https://ebiquity.umbc.edu/get/a/publication/1444.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dartmouth-workshop/s2> <http://purl.org/dc/terms/publisher> "John McCarthy, Stanford University" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dartmouth-workshop/s2> <http://purl.org/dc/terms/title> "The Dartmouth Workshop--as planned and as it happened (AI: Past and Future)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dartmouth-workshop/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dartmouth-workshop/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dartmouth-workshop/s2> <https://schema.org/url> "https://www-formal.stanford.edu/jmc/slides/dartmouth/dartmouth/node1.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dartmouth-workshop/s3> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dartmouth-workshop/s3> <http://purl.org/dc/terms/title> "John McCarthy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dartmouth-workshop/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dartmouth-workshop/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dartmouth-workshop/s3> <https://schema.org/url> "https://www.britannica.com/biography/John-McCarthy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dartmouth-workshop/s4> <http://purl.org/dc/terms/publisher> "Grace Solomonoff, IEEE Spectrum (May 2023)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dartmouth-workshop/s4> <http://purl.org/dc/terms/title> "The Meeting of the Minds That Launched AI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dartmouth-workshop/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dartmouth-workshop/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dartmouth-workshop/s4> <https://schema.org/url> "https://spectrum.ieee.org/dartmouth-ai-workshop" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dartmouth-workshop/s5> <http://purl.org/dc/terms/publisher> "Dartmouth College" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dartmouth-workshop/s5> <http://purl.org/dc/terms/title> "Artificial Intelligence Coined at Dartmouth" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dartmouth-workshop/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dartmouth-workshop/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dartmouth-workshop/s5> <https://schema.org/url> "https://home.dartmouth.edu/about/artificial-intelligence-ai-coined-dartmouth" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s1> <http://purl.org/dc/terms/publisher> "Nature 521(7553), 436–444 (2015) (LeCun, Bengio and Hinton), RePEc/IDEAS record, doi:10.1038/nature14539" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s1> <http://purl.org/dc/terms/title> "Deep learning" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

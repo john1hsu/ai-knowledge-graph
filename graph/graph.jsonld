@@ -521,6 +521,82 @@
       ]
     },
     {
+      "@id": "kt:dartmouth-workshop",
+      "@type": "kto:Event",
+      "skos:prefLabel": "Dartmouth workshop",
+      "skos:definition": "An eight-week summer research meeting held at Dartmouth College in Hanover, New Hampshire, in 1956, organized by John McCarthy, Marvin Minsky, Nathaniel Rochester and Claude Shannon; its 1955 funding proposal introduced the term \"artificial intelligence\" and the event is widely treated as the founding of AI as a field.",
+      "kto:domain": "ai-history",
+      "dcterms:created": "2026-11-09",
+      "kto:maturity": "historical",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence (August 31, 1955)",
+          "dcterms:publisher": "J. McCarthy, M. L. Minsky, N. Rochester, C. E. Shannon (reformatted copy hosted by UMBC ebiquity)",
+          "schema:url": "https://ebiquity.umbc.edu/get/a/publication/1444.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Dartmouth Workshop--as planned and as it happened (AI: Past and Future)",
+          "dcterms:publisher": "John McCarthy, Stanford University",
+          "schema:url": "https://www-formal.stanford.edu/jmc/slides/dartmouth/dartmouth/node1.html",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "John McCarthy",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/biography/John-McCarthy",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "The Meeting of the Minds That Launched AI",
+          "dcterms:publisher": "Grace Solomonoff, IEEE Spectrum (May 2023)",
+          "schema:url": "https://spectrum.ieee.org/dartmouth-ai-workshop",
+          "kto:sourceType": "news"
+        },
+        {
+          "dcterms:title": "Artificial Intelligence Coined at Dartmouth",
+          "dcterms:publisher": "Dartmouth College",
+          "schema:url": "https://home.dartmouth.edu/about/artificial-intelligence-ai-coined-dartmouth",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/ai-history/dartmouth-workshop.md",
+      "skos:altLabel": [
+        "Dartmouth Summer Research Project on Artificial Intelligence",
+        "Dartmouth conference",
+        "1956 Dartmouth conference"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:artificial-intelligence"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:turing-test"
+        },
+        {
+          "@id": "kt:symbolic-ai"
+        },
+        {
+          "@id": "kt:artificial-neural-network"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:john-mccarthy"
+        },
+        {
+          "@id": "kt:marvin-minsky"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:logic-theorist"
+        }
+      ]
+    },
+    {
       "@id": "kt:turing-test",
       "@type": "kto:Concept",
       "skos:prefLabel": "Turing test",

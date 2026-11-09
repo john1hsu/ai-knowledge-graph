@@ -415,6 +415,27 @@
     ]
   },
   {
+    "id": "kt:dartmouth-workshop",
+    "title": "Dartmouth workshop",
+    "aliases": [
+      "Dartmouth Summer Research Project on Artificial Intelligence",
+      "Dartmouth conference",
+      "1956 Dartmouth conference"
+    ],
+    "type": "Event",
+    "domain": "ai-history",
+    "file": "articles/ai-history/dartmouth-workshop.md",
+    "created": "2026-11-09",
+    "maturity": "historical",
+    "source_urls": [
+      "https://ebiquity.umbc.edu/get/a/publication/1444.pdf",
+      "https://www-formal.stanford.edu/jmc/slides/dartmouth/dartmouth/node1.html",
+      "https://www.britannica.com/biography/John-McCarthy",
+      "https://spectrum.ieee.org/dartmouth-ai-workshop",
+      "https://home.dartmouth.edu/about/artificial-intelligence-ai-coined-dartmouth"
+    ]
+  },
+  {
     "id": "kt:deep-learning",
     "title": "Deep learning",
     "aliases": [
