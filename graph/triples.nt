@@ -962,6 +962,7 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/iso-iec-42001> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s1> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s2> .
@@ -973,6 +974,34 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "governance-and-policy" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/nist-generative-ai-profile> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Policy> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <http://www.w3.org/2000/01/rdf-schema#label> "OMB AI memoranda" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <http://www.w3.org/2004/02/skos/core#altLabel> "OMB AI guidance" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <http://www.w3.org/2004/02/skos/core#altLabel> "OMB M-24-10" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <http://www.w3.org/2004/02/skos/core#altLabel> "OMB M-25-21" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <http://www.w3.org/2004/02/skos/core#altLabel> "OMB M-25-22" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <http://www.w3.org/2004/02/skos/core#altLabel> "OMB M-26-04" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <http://www.w3.org/2004/02/skos/core#definition> "The series of memoranda from the US Office of Management and Budget that set binding, government-wide rules for how federal executive agencies govern, use and buy AI, from M-24-10 and M-24-18 (2024) to their 2025 replacements M-25-21 and M-25-22 and the December 2025 LLM procurement memo M-26-04." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <http://www.w3.org/2004/02/skos/core#prefLabel> "OMB AI memoranda" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/office-of-management-and-budget> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "governance-and-policy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://www.w3.org/2000/01/rdf-schema#label> "Policy gradient methods" .
@@ -2328,6 +2357,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s6> <https://schema.org/url> "https://www.nist.gov/node/1855536" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s1> <http://purl.org/dc/terms/publisher> "Office of Management and Budget (Young), 28 March 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s1> <http://purl.org/dc/terms/title> "M-24-10: Advancing Governance, Innovation, and Risk Management for Agency Use of Artificial Intelligence" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s1> <https://schema.org/url> "https://www.whitehouse.gov/wp-content/uploads/2024/03/M-24-10-Advancing-Governance-Innovation-and-Risk-Management-for-Agency-Use-of-Artificial-Intelligence.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s2> <http://purl.org/dc/terms/publisher> "Office of Management and Budget (Young), 24 September 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s2> <http://purl.org/dc/terms/title> "M-24-18: Advancing the Responsible Acquisition of Artificial Intelligence in Government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s2> <https://schema.org/url> "https://www.whitehouse.gov/wp-content/uploads/2024/10/M-24-18-AI-Acquisition-Memorandum.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s3> <http://purl.org/dc/terms/publisher> "Office of Management and Budget (Vought), 3 April 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s3> <http://purl.org/dc/terms/title> "M-25-21: Accelerating Federal Use of AI through Innovation, Governance, and Public Trust" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s3> <https://schema.org/url> "https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-21-Accelerating-Federal-Use-of-AI-through-Innovation-Governance-and-Public-Trust.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s4> <http://purl.org/dc/terms/publisher> "Office of Management and Budget (Vought), 3 April 2025; hosted by Digital Government Hub" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s4> <http://purl.org/dc/terms/title> "M-25-22: Driving Efficient Acquisition of Artificial Intelligence in Government (copy of the OMB memo)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s4> <https://schema.org/url> "https://digitalgovernmenthub.org/wp-content/uploads/2025/04/M-25-22-Driving-Efficient-Acquisition-of-Artificial-Intelligence-in-Government.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s5> <http://purl.org/dc/terms/publisher> "The White House, 7 April 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s5> <http://purl.org/dc/terms/title> "Fact Sheet: Eliminating Barriers for Federal Artificial Intelligence Use and Procurement" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s5> <https://schema.org/url> "https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-eliminating-barriers-for-federal-artificial-intelligence-use-and-procurement/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s6> <http://purl.org/dc/terms/publisher> "Office of Management and Budget (Vought), 11 December 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s6> <http://purl.org/dc/terms/title> "M-26-04: Increasing Public Trust in Artificial Intelligence Through Unbiased AI Principles" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s6> <https://schema.org/url> "https://www.whitehouse.gov/wp-content/uploads/2025/12/M-26-04-Increasing-Public-Trust-in-Artificial-Intelligence-Through-Unbiased-AI-Principles-1.pdf" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s1> <http://purl.org/dc/terms/publisher> "Advances in Neural Information Processing Systems 12 (NIPS 1999) (Sutton, McAllester, Singh and Mansour)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s1> <http://purl.org/dc/terms/title> "Policy Gradient Methods for Reinforcement Learning with Function Approximation" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

@@ -7,11 +7,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:markov-decision-process` | `kt:hidden-markov-model`, `kt:actor-critic`, `kt:policy-gradient`, `kt:q-learning`, `kt:q-learning`, `kt:reinforcement-learning`, `kt:reinforcement-learning` |
 | `kt:model-serving` | `kt:hugging-face-transformers`, `kt:mlops`, `kt:batching-and-paged-attention`, `kt:quantization`, `kt:speculative-decoding`, `kt:speculative-decoding` |
 | `kt:retrieval-augmented-generation` | `kt:beir`, `kt:bm25`, `kt:embeddings`, `kt:embeddings`, `kt:semantic-search`, `kt:semantic-search` |
+| `kt:ai-governance` | `kt:ai-safety-institutes`, `kt:algorithmic-bias-and-fairness`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda`, `kt:ai-alignment` |
 | `kt:ensemble-methods` | `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:self-consistency`, `kt:knowledge-distillation` |
+| `kt:executive-orders-on-ai` | `kt:red-teaming`, `kt:ai-safety-institutes`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda`, `kt:omb-ai-memoranda` |
 | `kt:in-context-learning` | `kt:chain-of-thought`, `kt:jailbreak`, `kt:mechanistic-interpretability`, `kt:emergent-abilities`, `kt:large-language-model` |
 | `kt:pretraining` | `kt:test-time-compute`, `kt:emergent-abilities`, `kt:large-language-model`, `kt:scaling-laws`, `kt:scaling-laws` |
 | `kt:transformer-architecture` | `kt:hugging-face-transformers`, `kt:automatic-speech-recognition`, `kt:clip`, `kt:large-language-model`, `kt:scaling-laws` |
-| `kt:ai-governance` | `kt:ai-safety-institutes`, `kt:algorithmic-bias-and-fairness`, `kt:nist-ai-risk-management-framework`, `kt:ai-alignment` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:dartmouth-workshop`, `kt:turing-test`, `kt:machine-learning` |
 | `kt:information-retrieval` | `kt:beir`, `kt:bm25`, `kt:semantic-search`, `kt:tf-idf` |
 | `kt:multi-agent-systems` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:langgraph` |
@@ -19,7 +20,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:perceptron` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:artificial-neural-network`, `kt:backpropagation` |
 | `kt:beam-search` | `kt:sampling-temperature-and-top-p`, `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:distributed-training` | `kt:cuda`, `kt:mlops`, `kt:tpu` |
-| `kt:executive-orders-on-ai` | `kt:red-teaming`, `kt:ai-safety-institutes`, `kt:nist-ai-risk-management-framework` |
+| `kt:eu-ai-act` | `kt:algorithmic-bias-and-fairness`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda` |
 | `kt:fine-tuning` | `kt:hugging-face-transformers`, `kt:qlora`, `kt:rlhf` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:hidden-markov-model` |
 | `kt:geoffrey-hinton` | `kt:dropout`, `kt:dropout`, `kt:knowledge-distillation` |
@@ -43,7 +44,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:benchmark-contamination` | `kt:ai-evaluation`, `kt:gsm8k` |
 | `kt:convolutional-neural-network` | `kt:artificial-neural-network`, `kt:deep-learning` |
 | `kt:deep-q-network` | `kt:q-learning`, `kt:reinforcement-learning` |
-| `kt:eu-ai-act` | `kt:algorithmic-bias-and-fairness`, `kt:nist-ai-risk-management-framework` |
 | `kt:exploration-exploitation` | `kt:q-learning`, `kt:reinforcement-learning` |
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
 | `kt:google` | `kt:agent2agent-protocol`, `kt:tpu` |
@@ -53,6 +53,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:kv-cache` | `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
 | `kt:llm-as-a-judge` | `kt:ai-evaluation`, `kt:qlora` |
 | `kt:llm-inference-optimization` | `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
+| `kt:model-cards` | `kt:algorithmic-bias-and-fairness`, `kt:omb-ai-memoranda` |
 | `kt:model-compression` | `kt:quantization`, `kt:knowledge-distillation` |
 | `kt:openai` | `kt:clip`, `kt:gsm8k` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent` |
@@ -145,7 +146,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:min-p-sampling` | `kt:sampling-temperature-and-top-p` |
 | `kt:minds-brains-and-programs` | `kt:chinese-room-argument` |
 | `kt:mlflow` | `kt:mlops` |
-| `kt:model-cards` | `kt:algorithmic-bias-and-fairness` |
 | `kt:model-compression-caruana-2006` | `kt:knowledge-distillation` |
 | `kt:model-context-protocol` | `kt:agent2agent-protocol` |
 | `kt:model-registry` | `kt:mlops` |
@@ -154,6 +154,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:nist` | `kt:nist-ai-risk-management-framework` |
 | `kt:nist-generative-ai-profile` | `kt:nist-ai-risk-management-framework` |
 | `kt:nvidia` | `kt:cuda` |
+| `kt:office-of-management-and-budget` | `kt:omb-ai-memoranda` |
 | `kt:orca-serving-system` | `kt:batching-and-paged-attention` |
 | `kt:parallel-computing` | `kt:cuda` |
 | `kt:parameter-efficient-fine-tuning` | `kt:qlora` |

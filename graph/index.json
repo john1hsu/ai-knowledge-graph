@@ -849,6 +849,30 @@
     ]
   },
   {
+    "id": "kt:omb-ai-memoranda",
+    "title": "OMB AI memoranda",
+    "aliases": [
+      "OMB AI guidance",
+      "OMB M-24-10",
+      "OMB M-25-21",
+      "OMB M-25-22",
+      "OMB M-26-04"
+    ],
+    "type": "Policy",
+    "domain": "governance-and-policy",
+    "file": "articles/governance-and-policy/omb-ai-memoranda.md",
+    "created": "2026-11-09",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://www.whitehouse.gov/wp-content/uploads/2024/03/M-24-10-Advancing-Governance-Innovation-and-Risk-Management-for-Agency-Use-of-Artificial-Intelligence.pdf",
+      "https://www.whitehouse.gov/wp-content/uploads/2024/10/M-24-18-AI-Acquisition-Memorandum.pdf",
+      "https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-21-Accelerating-Federal-Use-of-AI-through-Innovation-Governance-and-Public-Trust.pdf",
+      "https://digitalgovernmenthub.org/wp-content/uploads/2025/04/M-25-22-Driving-Efficient-Acquisition-of-Artificial-Intelligence-in-Government.pdf",
+      "https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-eliminating-barriers-for-federal-artificial-intelligence-use-and-procurement/",
+      "https://www.whitehouse.gov/wp-content/uploads/2025/12/M-26-04-Increasing-Public-Trust-in-Artificial-Intelligence-Through-Unbiased-AI-Principles-1.pdf"
+    ]
+  },
+  {
     "id": "kt:policy-gradient",
     "title": "Policy gradient methods",
     "aliases": [

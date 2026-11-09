@@ -2355,6 +2355,9 @@
         },
         {
           "@id": "kt:algorithmic-bias-and-fairness"
+        },
+        {
+          "@id": "kt:omb-ai-memoranda"
         }
       ],
       "kto:createdBy": [
@@ -2365,6 +2368,101 @@
       "kto:hasPart": [
         {
           "@id": "kt:nist-generative-ai-profile"
+        }
+      ]
+    },
+    {
+      "@id": "kt:omb-ai-memoranda",
+      "@type": "kto:Policy",
+      "skos:prefLabel": "OMB AI memoranda",
+      "skos:definition": "The series of memoranda from the US Office of Management and Budget that set binding, government-wide rules for how federal executive agencies govern, use and buy AI, from M-24-10 and M-24-18 (2024) to their 2025 replacements M-25-21 and M-25-22 and the December 2025 LLM procurement memo M-26-04.",
+      "kto:domain": "governance-and-policy",
+      "dcterms:created": "2026-11-09",
+      "kto:maturity": "emerging",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "M-24-10: Advancing Governance, Innovation, and Risk Management for Agency Use of Artificial Intelligence",
+          "dcterms:publisher": "Office of Management and Budget (Young), 28 March 2024",
+          "schema:url": "https://www.whitehouse.gov/wp-content/uploads/2024/03/M-24-10-Advancing-Governance-Innovation-and-Risk-Management-for-Agency-Use-of-Artificial-Intelligence.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "M-24-18: Advancing the Responsible Acquisition of Artificial Intelligence in Government",
+          "dcterms:publisher": "Office of Management and Budget (Young), 24 September 2024",
+          "schema:url": "https://www.whitehouse.gov/wp-content/uploads/2024/10/M-24-18-AI-Acquisition-Memorandum.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "M-25-21: Accelerating Federal Use of AI through Innovation, Governance, and Public Trust",
+          "dcterms:publisher": "Office of Management and Budget (Vought), 3 April 2025",
+          "schema:url": "https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-21-Accelerating-Federal-Use-of-AI-through-Innovation-Governance-and-Public-Trust.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "M-25-22: Driving Efficient Acquisition of Artificial Intelligence in Government (copy of the OMB memo)",
+          "dcterms:publisher": "Office of Management and Budget (Vought), 3 April 2025; hosted by Digital Government Hub",
+          "schema:url": "https://digitalgovernmenthub.org/wp-content/uploads/2025/04/M-25-22-Driving-Efficient-Acquisition-of-Artificial-Intelligence-in-Government.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Fact Sheet: Eliminating Barriers for Federal Artificial Intelligence Use and Procurement",
+          "dcterms:publisher": "The White House, 7 April 2025",
+          "schema:url": "https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-eliminating-barriers-for-federal-artificial-intelligence-use-and-procurement/",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "M-26-04: Increasing Public Trust in Artificial Intelligence Through Unbiased AI Principles",
+          "dcterms:publisher": "Office of Management and Budget (Vought), 11 December 2025",
+          "schema:url": "https://www.whitehouse.gov/wp-content/uploads/2025/12/M-26-04-Increasing-Public-Trust-in-Artificial-Intelligence-Through-Unbiased-AI-Principles-1.pdf",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/governance-and-policy/omb-ai-memoranda.md",
+      "skos:altLabel": [
+        "OMB AI guidance",
+        "OMB M-24-10",
+        "OMB M-25-21",
+        "OMB M-25-22",
+        "OMB M-26-04"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-governance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:nist-ai-risk-management-framework"
+        },
+        {
+          "@id": "kt:executive-orders-on-ai"
+        },
+        {
+          "@id": "kt:algorithmic-bias-and-fairness"
+        },
+        {
+          "@id": "kt:red-teaming"
+        },
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:model-cards"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:office-of-management-and-budget"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:executive-orders-on-ai"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:eu-ai-act"
         }
       ]
     },
