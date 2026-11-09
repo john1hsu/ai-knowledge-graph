@@ -2867,6 +2867,81 @@
       ]
     },
     {
+      "@id": "kt:ai-alignment",
+      "@type": "kto:Field",
+      "skos:prefLabel": "AI alignment",
+      "skos:definition": "The research area concerned with making AI systems pursue the goals their designers and users actually intend, and behave in line with human values, rather than a literal but flawed specification of those goals.",
+      "kto:domain": "safety-alignment-and-security",
+      "dcterms:created": "2026-11-09",
+      "kto:maturity": "emerging",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "AI Alignment: A Comprehensive Survey",
+          "dcterms:publisher": "arXiv:2310.19852 (Ji, Qiu, Chen, Zhang et al.), v1 October 2023, v5 May 2024",
+          "schema:url": "https://arxiv.org/abs/2310.19852",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Concrete Problems in AI Safety",
+          "dcterms:publisher": "arXiv:1606.06565 (Amodei, Olah, Steinhardt, Christiano, Schulman, Mané), June 2016",
+          "schema:url": "https://arxiv.org/abs/1606.06565v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Scalable agent alignment via reward modeling: a research direction",
+          "dcterms:publisher": "arXiv:1811.07871 (Leike, Krueger, Everitt, Martic, Maini, Legg), November 2018",
+          "schema:url": "https://arxiv.org/abs/1811.07871v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Specification gaming: the flip side of AI ingenuity",
+          "dcterms:publisher": "Google DeepMind (Krakovna, Uesato, Mikulik, Rahtz, Everitt, Kumar, Kenton, Leike, Legg), 21 April 2020",
+          "schema:url": "https://deepmind.google/blog/specification-gaming-the-flip-side-of-ai-ingenuity/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Training language models to follow instructions with human feedback",
+          "dcterms:publisher": "NeurIPS 2022 (Ouyang, Wu, Jiang, Almeida et al.)",
+          "schema:url": "https://neurips.cc/virtual/2022/poster/52886",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/safety-alignment-and-security/ai-alignment.md",
+      "skos:altLabel": [
+        "alignment",
+        "value alignment",
+        "agent alignment problem",
+        "alignment problem"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-safety"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:rlhf"
+        },
+        {
+          "@id": "kt:mechanistic-interpretability"
+        },
+        {
+          "@id": "kt:red-teaming"
+        },
+        {
+          "@id": "kt:ai-governance"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:reward-hacking"
+        },
+        {
+          "@id": "kt:scalable-oversight"
+        }
+      ]
+    },
+    {
       "@id": "kt:jailbreak",
       "@type": "kto:Risk",
       "skos:prefLabel": "Jailbreak",

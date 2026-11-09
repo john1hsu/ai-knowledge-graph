@@ -116,6 +116,29 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "agents-and-tool-use" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/react-prompting> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Field> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> <http://www.w3.org/2000/01/rdf-schema#label> "AI alignment" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> <http://www.w3.org/2004/02/skos/core#altLabel> "agent alignment problem" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> <http://www.w3.org/2004/02/skos/core#altLabel> "alignment problem" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> <http://www.w3.org/2004/02/skos/core#altLabel> "alignment" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> <http://www.w3.org/2004/02/skos/core#altLabel> "value alignment" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> <http://www.w3.org/2004/02/skos/core#definition> "The research area concerned with making AI systems pursue the goals their designers and users actually intend, and behave in line with human values, rather than a literal but flawed specification of those goals." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> <http://www.w3.org/2004/02/skos/core#prefLabel> "AI alignment" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-alignment/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-alignment/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-alignment/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-alignment/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-alignment/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "safety-alignment-and-security" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Field> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> <http://www.w3.org/2000/01/rdf-schema#label> "Evaluation of AI systems" .
@@ -1011,6 +1034,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s4> <https://schema.org/url> "https://www.anthropic.com/research/building-effective-agents" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-alignment/s1> <http://purl.org/dc/terms/publisher> "arXiv:2310.19852 (Ji, Qiu, Chen, Zhang et al.), v1 October 2023, v5 May 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-alignment/s1> <http://purl.org/dc/terms/title> "AI Alignment: A Comprehensive Survey" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-alignment/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-alignment/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-alignment/s1> <https://schema.org/url> "https://arxiv.org/abs/2310.19852" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-alignment/s2> <http://purl.org/dc/terms/publisher> "arXiv:1606.06565 (Amodei, Olah, Steinhardt, Christiano, Schulman, Mané), June 2016" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-alignment/s2> <http://purl.org/dc/terms/title> "Concrete Problems in AI Safety" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-alignment/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-alignment/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-alignment/s2> <https://schema.org/url> "https://arxiv.org/abs/1606.06565v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-alignment/s3> <http://purl.org/dc/terms/publisher> "arXiv:1811.07871 (Leike, Krueger, Everitt, Martic, Maini, Legg), November 2018" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-alignment/s3> <http://purl.org/dc/terms/title> "Scalable agent alignment via reward modeling: a research direction" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-alignment/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-alignment/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-alignment/s3> <https://schema.org/url> "https://arxiv.org/abs/1811.07871v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-alignment/s4> <http://purl.org/dc/terms/publisher> "Google DeepMind (Krakovna, Uesato, Mikulik, Rahtz, Everitt, Kumar, Kenton, Leike, Legg), 21 April 2020" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-alignment/s4> <http://purl.org/dc/terms/title> "Specification gaming: the flip side of AI ingenuity" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-alignment/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-alignment/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-alignment/s4> <https://schema.org/url> "https://deepmind.google/blog/specification-gaming-the-flip-side-of-ai-ingenuity/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-alignment/s5> <http://purl.org/dc/terms/publisher> "NeurIPS 2022 (Ouyang, Wu, Jiang, Almeida et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-alignment/s5> <http://purl.org/dc/terms/title> "Training language models to follow instructions with human feedback" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-alignment/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-alignment/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-alignment/s5> <https://schema.org/url> "https://neurips.cc/virtual/2022/poster/52886" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-evaluation/s1> <http://purl.org/dc/terms/publisher> "Transactions on Machine Learning Research, 2023 (Liang, Bommasani, Lee et al.)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-evaluation/s1> <http://purl.org/dc/terms/title> "Holistic Evaluation of Language Models" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-evaluation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

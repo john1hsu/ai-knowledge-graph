@@ -7,11 +7,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:reinforcement-learning` | `kt:machine-learning`, `kt:test-time-compute`, `kt:actor-critic`, `kt:policy-gradient`, `kt:q-learning`, `kt:rlhf` |
 | `kt:model-serving` | `kt:hugging-face-transformers`, `kt:mlops`, `kt:quantization`, `kt:speculative-decoding`, `kt:speculative-decoding` |
 | `kt:retrieval-augmented-generation` | `kt:bm25`, `kt:embeddings`, `kt:embeddings`, `kt:semantic-search`, `kt:semantic-search` |
-| `kt:ai-alignment` | `kt:ai-safety-institutes`, `kt:jailbreak`, `kt:mechanistic-interpretability`, `kt:rlhf` |
 | `kt:in-context-learning` | `kt:chain-of-thought`, `kt:jailbreak`, `kt:mechanistic-interpretability`, `kt:large-language-model` |
 | `kt:markov-decision-process` | `kt:actor-critic`, `kt:policy-gradient`, `kt:q-learning`, `kt:q-learning` |
 | `kt:perceptron` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:artificial-neural-network`, `kt:backpropagation` |
 | `kt:pretraining` | `kt:test-time-compute`, `kt:large-language-model`, `kt:scaling-laws`, `kt:scaling-laws` |
+| `kt:ai-governance` | `kt:ai-safety-institutes`, `kt:nist-ai-risk-management-framework`, `kt:ai-alignment` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:turing-test`, `kt:machine-learning` |
 | `kt:ensemble-methods` | `kt:bias-variance-tradeoff`, `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:executive-orders-on-ai` | `kt:red-teaming`, `kt:ai-safety-institutes`, `kt:nist-ai-risk-management-framework` |
@@ -23,7 +23,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tool-use` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:transformer-architecture` | `kt:hugging-face-transformers`, `kt:large-language-model`, `kt:scaling-laws` |
 | `kt:activation-function` | `kt:artificial-neural-network`, `kt:backpropagation` |
-| `kt:ai-governance` | `kt:ai-safety-institutes`, `kt:nist-ai-risk-management-framework` |
 | `kt:beam-search` | `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:beir` | `kt:bm25`, `kt:semantic-search` |
 | `kt:benchmark-contamination` | `kt:ai-evaluation`, `kt:gsm8k` |
@@ -43,6 +42,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:react-prompting` | `kt:ai-agent`, `kt:chain-of-thought` |
 | `kt:representation-learning` | `kt:deep-learning`, `kt:embeddings` |
 | `kt:reranking` | `kt:bm25`, `kt:semantic-search` |
+| `kt:reward-hacking` | `kt:ai-alignment`, `kt:rlhf` |
 | `kt:supervised-learning` | `kt:bias-variance-tradeoff`, `kt:machine-learning` |
 | `kt:temporal-difference-learning` | `kt:actor-critic`, `kt:q-learning` |
 | `kt:tf-idf` | `kt:bm25`, `kt:bm25` |
@@ -54,6 +54,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:agent-memory` | `kt:ai-agent` |
 | `kt:agentic-systems` | `kt:agentic-workflow` |
 | `kt:ai-risk-management` | `kt:nist-ai-risk-management-framework` |
+| `kt:ai-safety` | `kt:ai-alignment` |
 | `kt:ai-safety-summit` | `kt:ai-safety-institutes` |
 | `kt:alan-turing` | `kt:turing-test` |
 | `kt:apache-lucene` | `kt:bm25` |
@@ -134,9 +135,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:recurrent-neural-network` | `kt:deep-learning` |
 | `kt:regularization` | `kt:bias-variance-tradeoff` |
 | `kt:reinforce-algorithm` | `kt:policy-gradient` |
-| `kt:reward-hacking` | `kt:rlhf` |
 | `kt:sampling-temperature-and-top-p` | `kt:self-consistency` |
 | `kt:sarsa` | `kt:q-learning` |
+| `kt:scalable-oversight` | `kt:ai-alignment` |
 | `kt:scalable-parallel-programming-with-cuda` | `kt:cuda` |
 | `kt:scaling-laws-for-neural-language-models` | `kt:scaling-laws` |
 | `kt:score-matching` | `kt:diffusion-model` |

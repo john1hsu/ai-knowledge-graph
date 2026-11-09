@@ -104,6 +104,28 @@
     ]
   },
   {
+    "id": "kt:ai-alignment",
+    "title": "AI alignment",
+    "aliases": [
+      "alignment",
+      "value alignment",
+      "agent alignment problem",
+      "alignment problem"
+    ],
+    "type": "Field",
+    "domain": "safety-alignment-and-security",
+    "file": "articles/safety-alignment-and-security/ai-alignment.md",
+    "created": "2026-11-09",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://arxiv.org/abs/2310.19852",
+      "https://arxiv.org/abs/1606.06565v1",
+      "https://arxiv.org/abs/1811.07871v1",
+      "https://deepmind.google/blog/specification-gaming-the-flip-side-of-ai-ingenuity/",
+      "https://neurips.cc/virtual/2022/poster/52886"
+    ]
+  },
+  {
     "id": "kt:ai-evaluation",
     "title": "Evaluation of AI systems",
     "aliases": [
