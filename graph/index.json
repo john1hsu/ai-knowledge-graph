@@ -720,6 +720,29 @@
     ]
   },
   {
+    "id": "kt:test-time-compute",
+    "title": "Test-time compute",
+    "aliases": [
+      "inference-time compute",
+      "test-time scaling",
+      "inference-time scaling",
+      "thinking time"
+    ],
+    "type": "Concept",
+    "domain": "prompting-and-reasoning",
+    "file": "articles/prompting-and-reasoning/test-time-compute.md",
+    "created": "2026-11-09",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://arxiv.org/abs/2408.03314v1",
+      "https://arxiv.org/abs/2407.21787",
+      "https://openai.com/index/learning-to-reason-with-llms/",
+      "https://arxiv.org/abs/2501.12948",
+      "https://arxiv.org/abs/2501.19393",
+      "https://arxiv.org/abs/2412.21187"
+    ]
+  },
+  {
     "id": "kt:turing-test",
     "title": "Turing test",
     "aliases": [

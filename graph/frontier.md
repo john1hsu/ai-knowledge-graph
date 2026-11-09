@@ -4,8 +4,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
+| `kt:reinforcement-learning` | `kt:machine-learning`, `kt:test-time-compute`, `kt:actor-critic`, `kt:policy-gradient`, `kt:q-learning`, `kt:rlhf` |
 | `kt:model-serving` | `kt:hugging-face-transformers`, `kt:mlops`, `kt:quantization`, `kt:speculative-decoding`, `kt:speculative-decoding` |
-| `kt:reinforcement-learning` | `kt:machine-learning`, `kt:actor-critic`, `kt:policy-gradient`, `kt:q-learning`, `kt:rlhf` |
 | `kt:retrieval-augmented-generation` | `kt:bm25`, `kt:embeddings`, `kt:embeddings`, `kt:semantic-search`, `kt:semantic-search` |
 | `kt:ai-alignment` | `kt:ai-safety-institutes`, `kt:jailbreak`, `kt:mechanistic-interpretability`, `kt:rlhf` |
 | `kt:in-context-learning` | `kt:chain-of-thought`, `kt:jailbreak`, `kt:mechanistic-interpretability`, `kt:large-language-model` |
@@ -14,6 +14,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:turing-test`, `kt:machine-learning` |
 | `kt:executive-orders-on-ai` | `kt:red-teaming`, `kt:ai-safety-institutes`, `kt:nist-ai-risk-management-framework` |
 | `kt:hybrid-search` | `kt:bm25`, `kt:bm25`, `kt:semantic-search` |
+| `kt:reasoning-models` | `kt:chain-of-thought`, `kt:test-time-compute`, `kt:test-time-compute` |
 | `kt:activation-function` | `kt:artificial-neural-network`, `kt:backpropagation` |
 | `kt:ai-governance` | `kt:ai-safety-institutes`, `kt:nist-ai-risk-management-framework` |
 | `kt:beir` | `kt:bm25`, `kt:semantic-search` |
@@ -28,6 +29,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:model-pruning` | `kt:quantization`, `kt:quantization` |
 | `kt:multi-agent-systems` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent` |
+| `kt:pretraining` | `kt:test-time-compute`, `kt:large-language-model` |
 | `kt:probabilistic-relevance-framework` | `kt:bm25`, `kt:bm25` |
 | `kt:prompt-engineering` | `kt:chain-of-thought`, `kt:self-consistency` |
 | `kt:prompt-injection` | `kt:red-teaming`, `kt:jailbreak` |
@@ -36,9 +38,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:react-prompting` | `kt:ai-agent`, `kt:chain-of-thought` |
 | `kt:representation-learning` | `kt:deep-learning`, `kt:embeddings` |
 | `kt:reranking` | `kt:bm25`, `kt:semantic-search` |
+| `kt:scaling-laws` | `kt:test-time-compute`, `kt:large-language-model` |
 | `kt:supervised-learning` | `kt:bias-variance-tradeoff`, `kt:machine-learning` |
 | `kt:temporal-difference-learning` | `kt:actor-critic`, `kt:q-learning` |
-| `kt:test-time-compute` | `kt:chain-of-thought`, `kt:self-consistency` |
 | `kt:tf-idf` | `kt:bm25`, `kt:bm25` |
 | `kt:tool-use` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:transformer-architecture` | `kt:hugging-face-transformers`, `kt:large-language-model` |
@@ -122,9 +124,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:penetration-testing` | `kt:red-teaming` |
 | `kt:philosophy-of-artificial-intelligence` | `kt:chinese-room-argument` |
 | `kt:policy-gradient-methods-for-reinforcement-learning-with-function-approximation` | `kt:policy-gradient` |
-| `kt:pretraining` | `kt:large-language-model` |
+| `kt:process-reward-model` | `kt:test-time-compute` |
 | `kt:qlora` | `kt:quantization` |
-| `kt:reasoning-models` | `kt:chain-of-thought` |
 | `kt:recurrent-neural-network` | `kt:deep-learning` |
 | `kt:regularization` | `kt:bias-variance-tradeoff` |
 | `kt:reinforce-algorithm` | `kt:policy-gradient` |
@@ -132,7 +133,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sampling-temperature-and-top-p` | `kt:self-consistency` |
 | `kt:sarsa` | `kt:q-learning` |
 | `kt:scalable-parallel-programming-with-cuda` | `kt:cuda` |
-| `kt:scaling-laws` | `kt:large-language-model` |
 | `kt:score-matching` | `kt:diffusion-model` |
 | `kt:self-consistency-improves-chain-of-thought-reasoning-in-language-models` | `kt:self-consistency` |
 | `kt:self-refine` | `kt:agentic-workflow` |

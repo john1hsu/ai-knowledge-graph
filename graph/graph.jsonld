@@ -2093,6 +2093,100 @@
       ]
     },
     {
+      "@id": "kt:test-time-compute",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Test-time compute",
+      "skos:definition": "The computation a trained model spends at inference on a given input, and the practice of deliberately increasing it (longer reasoning chains, many samples, search against a verifier) to improve answer quality instead of, or in addition to, training a larger model.",
+      "kto:domain": "prompting-and-reasoning",
+      "dcterms:created": "2026-11-09",
+      "kto:maturity": "emerging",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters",
+          "dcterms:publisher": "arXiv 2408.03314v1 (Snell, Lee, Xu, Kumar), 6 August 2024",
+          "schema:url": "https://arxiv.org/abs/2408.03314v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Large Language Monkeys: Scaling Inference Compute with Repeated Sampling",
+          "dcterms:publisher": "arXiv 2407.21787 (Brown, Juravsky, Ehrlich, Clark, Le, Ré, Mirhoseini), 2024",
+          "schema:url": "https://arxiv.org/abs/2407.21787",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Learning to reason with LLMs",
+          "dcterms:publisher": "OpenAI, 12 September 2024",
+          "schema:url": "https://openai.com/index/learning-to-reason-with-llms/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "dcterms:publisher": "DeepSeek-AI (Guo, Yang, Zhang et al.); arXiv 2501.12948, published in Nature 645 (2025)",
+          "schema:url": "https://arxiv.org/abs/2501.12948",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "s1: Simple test-time scaling",
+          "dcterms:publisher": "arXiv 2501.19393 (Muennighoff, Yang, Shi, Li, Fei-Fei, Hajishirzi, Zettlemoyer, Liang, Candès, Hashimoto), 2025",
+          "schema:url": "https://arxiv.org/abs/2501.19393",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs",
+          "dcterms:publisher": "arXiv 2412.21187 (Chen, Xu, Liang et al., Tencent AI Lab), 2024",
+          "schema:url": "https://arxiv.org/abs/2412.21187",
+          "kto:sourceType": "preprint"
+        }
+      ],
+      "kto:file": "articles/prompting-and-reasoning/test-time-compute.md",
+      "skos:altLabel": [
+        "inference-time compute",
+        "test-time scaling",
+        "inference-time scaling",
+        "thinking time"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:scaling-laws"
+        },
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:chain-of-thought"
+        },
+        {
+          "@id": "kt:self-consistency"
+        },
+        {
+          "@id": "kt:reasoning-models"
+        },
+        {
+          "@id": "kt:reinforcement-learning"
+        },
+        {
+          "@id": "kt:gsm8k"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:process-reward-model"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:pretraining"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:reasoning-models"
+        }
+      ]
+    },
+    {
       "@id": "kt:actor-critic",
       "@type": "kto:Technique",
       "skos:prefLabel": "Actor-critic",
