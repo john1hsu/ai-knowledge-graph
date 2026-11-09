@@ -12,21 +12,23 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:markov-decision-process` | `kt:actor-critic`, `kt:policy-gradient`, `kt:q-learning`, `kt:q-learning` |
 | `kt:perceptron` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:artificial-neural-network`, `kt:backpropagation` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:turing-test`, `kt:machine-learning` |
+| `kt:ensemble-methods` | `kt:bias-variance-tradeoff`, `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:executive-orders-on-ai` | `kt:red-teaming`, `kt:ai-safety-institutes`, `kt:nist-ai-risk-management-framework` |
 | `kt:hybrid-search` | `kt:bm25`, `kt:bm25`, `kt:semantic-search` |
+| `kt:model-pruning` | `kt:quantization`, `kt:quantization`, `kt:knowledge-distillation` |
 | `kt:reasoning-models` | `kt:chain-of-thought`, `kt:test-time-compute`, `kt:test-time-compute` |
 | `kt:activation-function` | `kt:artificial-neural-network`, `kt:backpropagation` |
 | `kt:ai-governance` | `kt:ai-safety-institutes`, `kt:nist-ai-risk-management-framework` |
+| `kt:beam-search` | `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:beir` | `kt:bm25`, `kt:semantic-search` |
 | `kt:benchmark-contamination` | `kt:ai-evaluation`, `kt:gsm8k` |
 | `kt:convolutional-neural-network` | `kt:artificial-neural-network`, `kt:deep-learning` |
 | `kt:distributed-training` | `kt:cuda`, `kt:mlops` |
-| `kt:ensemble-methods` | `kt:bias-variance-tradeoff`, `kt:self-consistency` |
 | `kt:fine-tuning` | `kt:hugging-face-transformers`, `kt:rlhf` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:gradient-descent` | `kt:backpropagation`, `kt:deep-learning` |
 | `kt:information-retrieval` | `kt:bm25`, `kt:semantic-search` |
-| `kt:model-pruning` | `kt:quantization`, `kt:quantization` |
+| `kt:model-compression` | `kt:quantization`, `kt:knowledge-distillation` |
 | `kt:multi-agent-systems` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:pretraining` | `kt:test-time-compute`, `kt:large-language-model` |
@@ -59,7 +61,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:arthur-samuel` | `kt:machine-learning` |
 | `kt:asynchronous-advantage-actor-critic` | `kt:actor-critic` |
 | `kt:automatic-differentiation` | `kt:backpropagation` |
-| `kt:beam-search` | `kt:self-consistency` |
 | `kt:center-for-ai-standards-and-innovation` | `kt:ai-safety-institutes` |
 | `kt:chain-of-thought-prompting-elicits-reasoning-in-large-language-models` | `kt:chain-of-thought` |
 | `kt:christopher-watkins` | `kt:q-learning` |
@@ -75,6 +76,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:deep-unsupervised-learning-using-nonequilibrium-thermodynamics` | `kt:diffusion-model` |
 | `kt:devops` | `kt:mlops` |
 | `kt:direct-preference-optimization` | `kt:rlhf` |
+| `kt:distilbert` | `kt:knowledge-distillation` |
+| `kt:distilling-the-knowledge-in-a-neural-network` | `kt:knowledge-distillation` |
 | `kt:double-descent` | `kt:bias-variance-tradeoff` |
 | `kt:double-q-learning` | `kt:q-learning` |
 | `kt:eliza` | `kt:turing-test` |
@@ -86,6 +89,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:foundation-model` | `kt:large-language-model` |
 | `kt:generative-adversarial-nets` | `kt:generative-adversarial-network` |
+| `kt:geoffrey-hinton` | `kt:knowledge-distillation` |
 | `kt:gpu-computing` | `kt:cuda` |
 | `kt:hallucination` | `kt:mechanistic-interpretability` |
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
@@ -100,7 +104,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:interpretability` | `kt:mechanistic-interpretability` |
 | `kt:iso-iec-42001` | `kt:nist-ai-risk-management-framework` |
 | `kt:john-searle` | `kt:chinese-room-argument` |
-| `kt:knowledge-distillation` | `kt:quantization` |
 | `kt:kv-cache` | `kt:speculative-decoding` |
 | `kt:langgraph` | `kt:agentic-workflow` |
 | `kt:language-model` | `kt:large-language-model` |
@@ -113,7 +116,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:llmops` | `kt:mlops` |
 | `kt:minds-brains-and-programs` | `kt:chinese-room-argument` |
 | `kt:mlflow` | `kt:mlops` |
-| `kt:model-compression` | `kt:quantization` |
+| `kt:model-compression-caruana-2006` | `kt:knowledge-distillation` |
 | `kt:model-registry` | `kt:mlops` |
 | `kt:nist` | `kt:nist-ai-risk-management-framework` |
 | `kt:nist-generative-ai-profile` | `kt:nist-ai-risk-management-framework` |
@@ -142,6 +145,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strong-ai` | `kt:chinese-room-argument` |
 | `kt:stylegan` | `kt:generative-adversarial-network` |
 | `kt:symbol-grounding-problem` | `kt:chinese-room-argument` |
+| `kt:synthetic-data` | `kt:knowledge-distillation` |
 | `kt:tensorrt-llm` | `kt:quantization` |
 | `kt:text-to-image-generation` | `kt:diffusion-model` |
 | `kt:training-verifiers-to-solve-math-word-problems` | `kt:gsm8k` |

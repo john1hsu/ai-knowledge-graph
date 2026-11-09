@@ -496,6 +496,34 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/jailbreak> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "safety-alignment-and-security" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/jailbreak> <https://github.com/john1hsu/ai-knowledge-graph/ontology#exploits> <https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/jailbreak> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <http://www.w3.org/2000/01/rdf-schema#label> "Knowledge distillation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <http://www.w3.org/2004/02/skos/core#altLabel> "model distillation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <http://www.w3.org/2004/02/skos/core#altLabel> "soft-target training" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <http://www.w3.org/2004/02/skos/core#altLabel> "teacher-student training" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <http://www.w3.org/2004/02/skos/core#altLabel> "teacher–student learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <http://www.w3.org/2004/02/skos/core#definition> "A training technique in which a smaller \"student\" model learns to reproduce the outputs (and sometimes the internal representations) of a larger \"teacher\" model or ensemble, so that much of the teacher's accuracy is kept at a fraction of its size and inference cost." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Knowledge distillation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/beam-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ensemble-methods> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "training-and-adaptation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/model-compression-caruana-2006> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/distilling-the-knowledge-in-a-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/distilbert> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <http://www.w3.org/2000/01/rdf-schema#label> "Large language model" .
@@ -1332,6 +1360,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/jailbreak/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/jailbreak/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/jailbreak/s5> <https://schema.org/url> "https://www.anthropic.com/news/constitutional-classifiers" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s1> <http://purl.org/dc/terms/publisher> "arXiv 1503.02531, NIPS 2014 Deep Learning Workshop (Hinton, Vinyals and Dean)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s1> <http://purl.org/dc/terms/title> "Distilling the Knowledge in a Neural Network" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s1> <https://schema.org/url> "https://arxiv.org/abs/1503.02531" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s2> <http://purl.org/dc/terms/publisher> "ar5iv rendering of arXiv 1503.02531 (Hinton, Vinyals and Dean)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s2> <http://purl.org/dc/terms/title> "Distilling the Knowledge in a Neural Network (full text)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s2> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/1503.02531" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s3> <http://purl.org/dc/terms/publisher> "KDD 2006, Proceedings of the 12th ACM SIGKDD Conference (Buciluǎ, Caruana and Niculescu-Mizil)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s3> <http://purl.org/dc/terms/title> "Model Compression" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s3> <https://schema.org/url> "https://cs.cornell.edu/~caruana/compression.kdd06.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s4> <http://purl.org/dc/terms/publisher> "EMNLP 2016, pp. 1317–1327 (Kim and Rush)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s4> <http://purl.org/dc/terms/title> "Sequence-Level Knowledge Distillation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s4> <https://schema.org/url> "https://aclanthology.org/D16-1139.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s5> <http://purl.org/dc/terms/publisher> "arXiv 1910.01108 (Sanh, Debut, Chaumond and Wolf, Hugging Face)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s5> <http://purl.org/dc/terms/title> "DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s5> <https://schema.org/url> "https://arxiv.org/pdf/1910.01108" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s6> <http://purl.org/dc/terms/publisher> "International Journal of Computer Vision 129(6):1789–1819, 2021; authors' arXiv version (Gou, Yu, Maybank and Tao)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s6> <http://purl.org/dc/terms/title> "Knowledge Distillation: A Survey" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s6> <https://schema.org/url> "https://arxiv.org/pdf/2006.05525v6" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s1> <http://purl.org/dc/terms/publisher> "D. Jurafsky and J. H. Martin, Stanford University (draft of August 2026)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s1> <http://purl.org/dc/terms/title> "Speech and Language Processing (3rd ed. draft), Chapter 7: Transformers and Pretraining" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

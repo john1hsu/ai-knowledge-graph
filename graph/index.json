@@ -435,6 +435,29 @@
     ]
   },
   {
+    "id": "kt:knowledge-distillation",
+    "title": "Knowledge distillation",
+    "aliases": [
+      "model distillation",
+      "teacher-student training",
+      "teacher–student learning",
+      "soft-target training"
+    ],
+    "type": "Technique",
+    "domain": "training-and-adaptation",
+    "file": "articles/training-and-adaptation/knowledge-distillation.md",
+    "created": "2026-11-09",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/abs/1503.02531",
+      "https://ar5iv.labs.arxiv.org/html/1503.02531",
+      "https://cs.cornell.edu/~caruana/compression.kdd06.pdf",
+      "https://aclanthology.org/D16-1139.pdf",
+      "https://arxiv.org/pdf/1910.01108",
+      "https://arxiv.org/pdf/2006.05525v6"
+    ]
+  },
+  {
     "id": "kt:large-language-model",
     "title": "Large language model",
     "aliases": [

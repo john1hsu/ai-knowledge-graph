@@ -2944,6 +2944,105 @@
       ]
     },
     {
+      "@id": "kt:knowledge-distillation",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Knowledge distillation",
+      "skos:definition": "A training technique in which a smaller \"student\" model learns to reproduce the outputs (and sometimes the internal representations) of a larger \"teacher\" model or ensemble, so that much of the teacher's accuracy is kept at a fraction of its size and inference cost.",
+      "kto:domain": "training-and-adaptation",
+      "dcterms:created": "2026-11-09",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Distilling the Knowledge in a Neural Network",
+          "dcterms:publisher": "arXiv 1503.02531, NIPS 2014 Deep Learning Workshop (Hinton, Vinyals and Dean)",
+          "schema:url": "https://arxiv.org/abs/1503.02531",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Distilling the Knowledge in a Neural Network (full text)",
+          "dcterms:publisher": "ar5iv rendering of arXiv 1503.02531 (Hinton, Vinyals and Dean)",
+          "schema:url": "https://ar5iv.labs.arxiv.org/html/1503.02531",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Model Compression",
+          "dcterms:publisher": "KDD 2006, Proceedings of the 12th ACM SIGKDD Conference (Buciluǎ, Caruana and Niculescu-Mizil)",
+          "schema:url": "https://cs.cornell.edu/~caruana/compression.kdd06.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Sequence-Level Knowledge Distillation",
+          "dcterms:publisher": "EMNLP 2016, pp. 1317–1327 (Kim and Rush)",
+          "schema:url": "https://aclanthology.org/D16-1139.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter",
+          "dcterms:publisher": "arXiv 1910.01108 (Sanh, Debut, Chaumond and Wolf, Hugging Face)",
+          "schema:url": "https://arxiv.org/pdf/1910.01108",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Knowledge Distillation: A Survey",
+          "dcterms:publisher": "International Journal of Computer Vision 129(6):1789–1819, 2021; authors' arXiv version (Gou, Yu, Maybank and Tao)",
+          "schema:url": "https://arxiv.org/pdf/2006.05525v6",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/training-and-adaptation/knowledge-distillation.md",
+      "skos:altLabel": [
+        "model distillation",
+        "teacher-student training",
+        "teacher–student learning",
+        "soft-target training"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:model-compression"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:quantization"
+        },
+        {
+          "@id": "kt:model-pruning"
+        },
+        {
+          "@id": "kt:ensemble-methods"
+        },
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:beam-search"
+        },
+        {
+          "@id": "kt:synthetic-data"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:distilling-the-knowledge-in-a-neural-network"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:geoffrey-hinton"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:model-compression-caruana-2006"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:distilbert"
+        }
+      ]
+    },
+    {
       "@id": "kt:rlhf",
       "@type": "kto:Technique",
       "skos:prefLabel": "Reinforcement learning from human feedback",
