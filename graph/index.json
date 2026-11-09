@@ -1055,6 +1055,27 @@
     ]
   },
   {
+    "id": "kt:tpu",
+    "title": "Tensor Processing Unit",
+    "aliases": [
+      "TPU",
+      "Cloud TPU",
+      "Google TPU"
+    ],
+    "type": "Hardware",
+    "domain": "ai-infrastructure-and-mlops",
+    "file": "articles/ai-infrastructure-and-mlops/tpu.md",
+    "created": "2026-11-09",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/abs/1704.04760",
+      "https://arxiv.org/abs/2304.01433",
+      "https://docs.cloud.google.com/tpu/docs/system-architecture-tpu-vm",
+      "https://docs.cloud.google.com/tpu/docs/tpu7x",
+      "https://docs.cloud.google.com/tpu/docs/v2"
+    ]
+  },
+  {
     "id": "kt:turing-test",
     "title": "Turing test",
     "aliases": [

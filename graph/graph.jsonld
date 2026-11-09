@@ -938,6 +938,98 @@
       ]
     },
     {
+      "@id": "kt:tpu",
+      "@type": "kto:Hardware",
+      "skos:prefLabel": "Tensor Processing Unit",
+      "skos:definition": "Google's family of custom application-specific chips for neural-network workloads, built around large systolic-array matrix-multiply units; first deployed for inference in Google's datacenters in 2015 and later scaled into optically interconnected pods for both training and serving.",
+      "kto:domain": "ai-infrastructure-and-mlops",
+      "dcterms:created": "2026-11-09",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "In-Datacenter Performance Analysis of a Tensor Processing Unit",
+          "dcterms:publisher": "ISCA 2017 (Jouppi, Young, Patil, Patterson et al., Google); authors' arXiv version 1704.04760",
+          "schema:url": "https://arxiv.org/abs/1704.04760",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "TPU v4: An Optically Reconfigurable Supercomputer for Machine Learning with Hardware Support for Embeddings",
+          "dcterms:publisher": "ISCA 2023 (Jouppi, Patterson et al., Google); authors' arXiv version 2304.01433",
+          "schema:url": "https://arxiv.org/abs/2304.01433",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "TPU architecture",
+          "dcterms:publisher": "Google Cloud TPU documentation (last updated 2026-11-06)",
+          "schema:url": "https://docs.cloud.google.com/tpu/docs/system-architecture-tpu-vm",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "TPU7x (Ironwood)",
+          "dcterms:publisher": "Google Cloud TPU documentation (page dated 2026-10-29)",
+          "schema:url": "https://docs.cloud.google.com/tpu/docs/tpu7x",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "TPU v2",
+          "dcterms:publisher": "Google Cloud TPU documentation",
+          "schema:url": "https://docs.cloud.google.com/tpu/docs/v2",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/ai-infrastructure-and-mlops/tpu.md",
+      "skos:altLabel": [
+        "TPU",
+        "Cloud TPU",
+        "Google TPU"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-accelerator"
+        },
+        {
+          "@id": "kt:application-specific-integrated-circuit"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:cuda"
+        },
+        {
+          "@id": "kt:quantization"
+        },
+        {
+          "@id": "kt:distributed-training"
+        },
+        {
+          "@id": "kt:embeddings"
+        },
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:google"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:in-datacenter-performance-analysis-of-a-tensor-processing-unit"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:systolic-array"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:gpu-computing"
+        }
+      ]
+    },
+    {
       "@id": "kt:clip",
       "@type": "kto:Model",
       "skos:prefLabel": "CLIP",

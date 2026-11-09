@@ -2456,6 +2456,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s6> <https://schema.org/url> "https://lucene.apache.org/core/api/core/org/apache/lucene/search/similarities/TFIDFSimilarity.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s1> <http://purl.org/dc/terms/publisher> "ISCA 2017 (Jouppi, Young, Patil, Patterson et al., Google); authors' arXiv version 1704.04760" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s1> <http://purl.org/dc/terms/title> "In-Datacenter Performance Analysis of a Tensor Processing Unit" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s1> <https://schema.org/url> "https://arxiv.org/abs/1704.04760" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s2> <http://purl.org/dc/terms/publisher> "ISCA 2023 (Jouppi, Patterson et al., Google); authors' arXiv version 2304.01433" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s2> <http://purl.org/dc/terms/title> "TPU v4: An Optically Reconfigurable Supercomputer for Machine Learning with Hardware Support for Embeddings" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s2> <https://schema.org/url> "https://arxiv.org/abs/2304.01433" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s3> <http://purl.org/dc/terms/publisher> "Google Cloud TPU documentation (last updated 2026-11-06)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s3> <http://purl.org/dc/terms/title> "TPU architecture" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s3> <https://schema.org/url> "https://docs.cloud.google.com/tpu/docs/system-architecture-tpu-vm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s4> <http://purl.org/dc/terms/publisher> "Google Cloud TPU documentation (page dated 2026-10-29)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s4> <http://purl.org/dc/terms/title> "TPU7x (Ironwood)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s4> <https://schema.org/url> "https://docs.cloud.google.com/tpu/docs/tpu7x" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s5> <http://purl.org/dc/terms/publisher> "Google Cloud TPU documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s5> <http://purl.org/dc/terms/title> "TPU v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s5> <https://schema.org/url> "https://docs.cloud.google.com/tpu/docs/v2" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s1> <http://purl.org/dc/terms/publisher> "A. M. Turing, Mind 59 (236), 1950 (copy hosted for MIT CSAIL course 6.803)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s1> <http://purl.org/dc/terms/title> "Computing Machinery and Intelligence" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -2555,6 +2580,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#supersededBy> <https://github.com/john1hsu/ai-knowledge-graph/id/bm25> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/vector-space-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tpu> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tpu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Hardware> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tpu> <http://www.w3.org/2000/01/rdf-schema#label> "Tensor Processing Unit" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tpu> <http://www.w3.org/2004/02/skos/core#altLabel> "Cloud TPU" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tpu> <http://www.w3.org/2004/02/skos/core#altLabel> "Google TPU" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tpu> <http://www.w3.org/2004/02/skos/core#altLabel> "TPU" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tpu> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tpu> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/application-specific-integrated-circuit> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tpu> <http://www.w3.org/2004/02/skos/core#definition> "Google's family of custom application-specific chips for neural-network workloads, built around large systolic-array matrix-multiply units; first deployed for inference in Google's datacenters in 2015 and later scaled into optically interconnected pods for both training and serving." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tpu> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tensor Processing Unit" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tpu> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/cuda> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tpu> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tpu> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tpu> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tpu> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tpu> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tpu> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tpu> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tpu> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tpu> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tpu> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tpu> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/systolic-array> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tpu> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/google> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tpu> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-infrastructure-and-mlops" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tpu> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/in-datacenter-performance-analysis-of-a-tensor-processing-unit> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tpu> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <http://www.w3.org/2000/01/rdf-schema#label> "Turing test" .

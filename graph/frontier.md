@@ -17,6 +17,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:multi-agent-systems` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:langgraph` |
 | `kt:perceptron` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:artificial-neural-network`, `kt:backpropagation` |
 | `kt:transformer-architecture` | `kt:hugging-face-transformers`, `kt:clip`, `kt:large-language-model`, `kt:scaling-laws` |
+| `kt:distributed-training` | `kt:cuda`, `kt:mlops`, `kt:tpu` |
 | `kt:executive-orders-on-ai` | `kt:red-teaming`, `kt:ai-safety-institutes`, `kt:nist-ai-risk-management-framework` |
 | `kt:fine-tuning` | `kt:hugging-face-transformers`, `kt:qlora`, `kt:rlhf` |
 | `kt:hybrid-search` | `kt:bm25`, `kt:bm25`, `kt:semantic-search` |
@@ -34,9 +35,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:beam-search` | `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:benchmark-contamination` | `kt:ai-evaluation`, `kt:gsm8k` |
 | `kt:convolutional-neural-network` | `kt:artificial-neural-network`, `kt:deep-learning` |
-| `kt:distributed-training` | `kt:cuda`, `kt:mlops` |
 | `kt:eu-ai-act` | `kt:algorithmic-bias-and-fairness`, `kt:nist-ai-risk-management-framework` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
+| `kt:google` | `kt:agent2agent-protocol`, `kt:tpu` |
+| `kt:gpu-computing` | `kt:cuda`, `kt:tpu` |
 | `kt:gradient-descent` | `kt:backpropagation`, `kt:deep-learning` |
 | `kt:instruction-tuning` | `kt:qlora`, `kt:rlhf` |
 | `kt:kv-cache` | `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
@@ -60,11 +62,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:vector-database` | `kt:embeddings`, `kt:semantic-search` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings` |
 | `kt:adversarial-machine-learning` | `kt:jailbreak` |
+| `kt:ai-accelerator` | `kt:tpu` |
 | `kt:ai-ethics` | `kt:algorithmic-bias-and-fairness` |
 | `kt:ai-risk-management` | `kt:nist-ai-risk-management-framework` |
 | `kt:ai-safety` | `kt:ai-alignment` |
 | `kt:ai-safety-summit` | `kt:ai-safety-institutes` |
 | `kt:alan-turing` | `kt:turing-test` |
+| `kt:application-specific-integrated-circuit` | `kt:tpu` |
 | `kt:approximate-nearest-neighbor-search` | `kt:semantic-search` |
 | `kt:arthur-samuel` | `kt:machine-learning` |
 | `kt:asynchronous-advantage-actor-critic` | `kt:actor-critic` |
@@ -104,8 +108,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:foundation-model` | `kt:large-language-model` |
 | `kt:generative-adversarial-nets` | `kt:generative-adversarial-network` |
 | `kt:geoffrey-hinton` | `kt:knowledge-distillation` |
-| `kt:google` | `kt:agent2agent-protocol` |
-| `kt:gpu-computing` | `kt:cuda` |
 | `kt:hallucination` | `kt:mechanistic-interpretability` |
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
 | `kt:hugging-face` | `kt:hugging-face-transformers` |
@@ -114,6 +116,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hugging-face-trl` | `kt:rlhf` |
 | `kt:ian-goodfellow` | `kt:generative-adversarial-network` |
 | `kt:imagenet-and-alexnet` | `kt:cuda` |
+| `kt:in-datacenter-performance-analysis-of-a-tensor-processing-unit` | `kt:tpu` |
 | `kt:induction-head` | `kt:mechanistic-interpretability` |
 | `kt:inspect-ai` | `kt:ai-evaluation` |
 | `kt:interpretability` | `kt:mechanistic-interpretability` |
@@ -170,6 +173,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:symbol-grounding-problem` | `kt:chinese-room-argument` |
 | `kt:symbolic-ai` | `kt:dartmouth-workshop` |
 | `kt:synthetic-data` | `kt:knowledge-distillation` |
+| `kt:systolic-array` | `kt:tpu` |
 | `kt:tensorrt-llm` | `kt:quantization` |
 | `kt:text-to-image-generation` | `kt:diffusion-model` |
 | `kt:tim-dettmers` | `kt:qlora` |
