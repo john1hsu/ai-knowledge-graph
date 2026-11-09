@@ -10,6 +10,93 @@
   },
   "@graph": [
     {
+      "@id": "kt:agent2agent-protocol",
+      "@type": "kto:Tool",
+      "skos:prefLabel": "Agent2Agent protocol",
+      "skos:definition": "An open protocol, launched by Google in April 2025 and now governed under the Linux Foundation, that lets independent AI agents built on different frameworks discover one another through published Agent Cards and delegate, track and complete tasks as peers without sharing their internal memory, tools or prompts.",
+      "kto:domain": "agents-and-tool-use",
+      "dcterms:created": "2026-11-09",
+      "kto:maturity": "emerging",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Announcing the Agent2Agent Protocol (A2A)",
+          "dcterms:publisher": "Google Developers Blog (Surapaneni, Jha, Vakoc, Segal), 9 April 2025",
+          "schema:url": "https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Agent2Agent (A2A) Protocol Specification",
+          "dcterms:publisher": "A2A Protocol Working Group, The Linux Foundation (v1.0)",
+          "schema:url": "https://a2a-protocol.org/latest/specification/",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Linux Foundation Launches the Agent2Agent Protocol Project to Enable Secure, Intelligent Communication Between AI Agents",
+          "dcterms:publisher": "The Linux Foundation press release, 23 June 2025",
+          "schema:url": "https://linuxfoundation.org/press/linux-foundation-launches-the-agent2agent-protocol-project-to-enable-secure-intelligent-communication-between-ai-agents",
+          "kto:sourceType": "news"
+        },
+        {
+          "dcterms:title": "A2A Protocol Surpasses 150 Organizations, Lands in Major Cloud Platforms, and Sees Enterprise Production Use in First Year",
+          "dcterms:publisher": "The Linux Foundation press release, 9 April 2026",
+          "schema:url": "https://www.linuxfoundation.org/press/a2a-protocol-surpasses-150-organizations-lands-in-major-cloud-platforms-and-sees-enterprise-production-use-in-first-year",
+          "kto:sourceType": "news"
+        },
+        {
+          "dcterms:title": "A New Chapter for A2A: Joining the Agentic AI Foundation",
+          "dcterms:publisher": "A2A Protocol project blog, 27 August 2026",
+          "schema:url": "https://a2a-protocol.org/latest/blog/2026/08/27/a-new-chapter-for-a2a-joining-the-agentic-ai-foundation/",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Building A Secure Agentic AI Application Leveraging A2A Protocol",
+          "dcterms:publisher": "arXiv 2504.16902v1 (Habler, Huang, Narajala, Kulkarni), 2025",
+          "schema:url": "https://arxiv.org/html/2504.16902v1",
+          "kto:sourceType": "preprint"
+        }
+      ],
+      "kto:file": "articles/agents-and-tool-use/agent2agent-protocol.md",
+      "skos:altLabel": [
+        "A2A",
+        "A2A protocol",
+        "Agent-to-Agent protocol"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:multi-agent-systems"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:ai-agent"
+        },
+        {
+          "@id": "kt:agentic-workflow"
+        },
+        {
+          "@id": "kt:tool-use"
+        },
+        {
+          "@id": "kt:prompt-injection"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:google"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:model-context-protocol"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:langgraph"
+        }
+      ]
+    },
+    {
       "@id": "kt:agentic-workflow",
       "@type": "kto:Technique",
       "skos:prefLabel": "Agentic workflow",
@@ -153,6 +240,9 @@
         },
         {
           "@id": "kt:planning-in-llms"
+        },
+        {
+          "@id": "kt:agent2agent-protocol"
         }
       ],
       "kto:basedOn": [

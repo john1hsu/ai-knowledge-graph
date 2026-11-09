@@ -17,7 +17,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:executive-orders-on-ai` | `kt:red-teaming`, `kt:ai-safety-institutes`, `kt:nist-ai-risk-management-framework` |
 | `kt:hybrid-search` | `kt:bm25`, `kt:bm25`, `kt:semantic-search` |
 | `kt:model-pruning` | `kt:quantization`, `kt:quantization`, `kt:knowledge-distillation` |
+| `kt:multi-agent-systems` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent` |
+| `kt:prompt-injection` | `kt:agent2agent-protocol`, `kt:red-teaming`, `kt:jailbreak` |
 | `kt:reasoning-models` | `kt:chain-of-thought`, `kt:test-time-compute`, `kt:test-time-compute` |
+| `kt:tool-use` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:transformer-architecture` | `kt:hugging-face-transformers`, `kt:large-language-model`, `kt:scaling-laws` |
 | `kt:activation-function` | `kt:artificial-neural-network`, `kt:backpropagation` |
 | `kt:ai-governance` | `kt:ai-safety-institutes`, `kt:nist-ai-risk-management-framework` |
@@ -30,12 +33,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:gradient-descent` | `kt:backpropagation`, `kt:deep-learning` |
 | `kt:information-retrieval` | `kt:bm25`, `kt:semantic-search` |
+| `kt:langgraph` | `kt:agent2agent-protocol`, `kt:agentic-workflow` |
 | `kt:model-compression` | `kt:quantization`, `kt:knowledge-distillation` |
-| `kt:multi-agent-systems` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:probabilistic-relevance-framework` | `kt:bm25`, `kt:bm25` |
 | `kt:prompt-engineering` | `kt:chain-of-thought`, `kt:self-consistency` |
-| `kt:prompt-injection` | `kt:red-teaming`, `kt:jailbreak` |
 | `kt:proximal-policy-optimization` | `kt:policy-gradient`, `kt:rlhf` |
 | `kt:pytorch` | `kt:hugging-face-transformers`, `kt:backpropagation` |
 | `kt:react-prompting` | `kt:ai-agent`, `kt:chain-of-thought` |
@@ -44,7 +46,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:supervised-learning` | `kt:bias-variance-tradeoff`, `kt:machine-learning` |
 | `kt:temporal-difference-learning` | `kt:actor-critic`, `kt:q-learning` |
 | `kt:tf-idf` | `kt:bm25`, `kt:bm25` |
-| `kt:tool-use` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:vector-database` | `kt:embeddings`, `kt:semantic-search` |
 | `kt:vllm` | `kt:hugging-face-transformers`, `kt:speculative-decoding` |
@@ -90,6 +91,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:foundation-model` | `kt:large-language-model` |
 | `kt:generative-adversarial-nets` | `kt:generative-adversarial-network` |
 | `kt:geoffrey-hinton` | `kt:knowledge-distillation` |
+| `kt:google` | `kt:agent2agent-protocol` |
 | `kt:gpu-computing` | `kt:cuda` |
 | `kt:hallucination` | `kt:mechanistic-interpretability` |
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
@@ -105,7 +107,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:iso-iec-42001` | `kt:nist-ai-risk-management-framework` |
 | `kt:john-searle` | `kt:chinese-room-argument` |
 | `kt:kv-cache` | `kt:speculative-decoding` |
-| `kt:langgraph` | `kt:agentic-workflow` |
 | `kt:language-model` | `kt:large-language-model` |
 | `kt:large-language-monkeys` | `kt:self-consistency` |
 | `kt:latent-diffusion-model` | `kt:diffusion-model` |
@@ -117,6 +118,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:minds-brains-and-programs` | `kt:chinese-room-argument` |
 | `kt:mlflow` | `kt:mlops` |
 | `kt:model-compression-caruana-2006` | `kt:knowledge-distillation` |
+| `kt:model-context-protocol` | `kt:agent2agent-protocol` |
 | `kt:model-registry` | `kt:mlops` |
 | `kt:nist` | `kt:nist-ai-risk-management-framework` |
 | `kt:nist-generative-ai-profile` | `kt:nist-ai-risk-management-framework` |
