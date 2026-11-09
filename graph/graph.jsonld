@@ -3590,6 +3590,93 @@
       ]
     },
     {
+      "@id": "kt:emergent-abilities",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Emergent abilities",
+      "skos:definition": "Capabilities that are absent (near chance) in smaller language models but present in larger ones, so that they cannot be forecast by extrapolating the performance of smaller models; whether such jumps are real or an artifact of evaluation metrics is actively debated.",
+      "kto:domain": "transformers-and-llms",
+      "dcterms:created": "2026-11-09",
+      "kto:maturity": "emerging",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Emergent Abilities of Large Language Models",
+          "dcterms:publisher": "Transactions on Machine Learning Research, 2022 (Wei, Tay, Bommasani, Raffel, Zoph, Borgeaud et al.); arXiv:2206.07682",
+          "schema:url": "https://arxiv.org/abs/2206.07682",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Emergent Abilities of Large Language Models (full text, HTML rendering)",
+          "dcterms:publisher": "ar5iv rendering of arXiv:2206.07682 (Wei et al.)",
+          "schema:url": "https://ar5iv.labs.arxiv.org/html/2206.07682",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Are Emergent Abilities of Large Language Models a Mirage?",
+          "dcterms:publisher": "NeurIPS 2023 (Schaeffer, Miranda, Koyejo)",
+          "schema:url": "https://papers.neurips.cc/paper_files/paper/2023/file/adc98a266f45005c403b8311ca7e8bd7-Paper-Conference.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Predictability and Surprise in Large Generative Models",
+          "dcterms:publisher": "ACM, DOI 10.1145/3531146.3533229 (Ganguli, Hernandez, Lovitt et al.), 2022; arXiv:2202.07785",
+          "schema:url": "https://arxiv.org/abs/2202.07785",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Beyond the Imitation Game: Quantifying and Extrapolating the Capabilities of Language Models",
+          "dcterms:publisher": "Transactions on Machine Learning Research, 2023 (Srivastava et al.)",
+          "schema:url": "https://mlanthology.org/tmlr/2023/srivastava2023tmlr-beyond",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Understanding Emergent Abilities of Language Models from the Loss Perspective",
+          "dcterms:publisher": "NeurIPS 2024 (Du, Zeng, Dong, Tang)",
+          "schema:url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/5f1eee2509599faeeb3570a887016a64-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/transformers-and-llms/emergent-abilities.md",
+      "skos:altLabel": [
+        "emergence in large language models",
+        "emergent capabilities",
+        "breakthrough behavior"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:chain-of-thought"
+        },
+        {
+          "@id": "kt:in-context-learning"
+        },
+        {
+          "@id": "kt:ai-evaluation"
+        },
+        {
+          "@id": "kt:pretraining"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:emergent-abilities-of-large-language-models"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:scaling-laws"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:big-bench"
+        }
+      ]
+    },
+    {
       "@id": "kt:large-language-model",
       "@type": "kto:Concept",
       "skos:prefLabel": "Large language model",

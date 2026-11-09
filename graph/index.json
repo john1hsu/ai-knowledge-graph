@@ -460,6 +460,28 @@
     ]
   },
   {
+    "id": "kt:emergent-abilities",
+    "title": "Emergent abilities",
+    "aliases": [
+      "emergence in large language models",
+      "emergent capabilities",
+      "breakthrough behavior"
+    ],
+    "type": "Concept",
+    "domain": "transformers-and-llms",
+    "file": "articles/transformers-and-llms/emergent-abilities.md",
+    "created": "2026-11-09",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://arxiv.org/abs/2206.07682",
+      "https://ar5iv.labs.arxiv.org/html/2206.07682",
+      "https://papers.neurips.cc/paper_files/paper/2023/file/adc98a266f45005c403b8311ca7e8bd7-Paper-Conference.pdf",
+      "https://arxiv.org/abs/2202.07785",
+      "https://mlanthology.org/tmlr/2023/srivastava2023tmlr-beyond",
+      "https://proceedings.neurips.cc/paper_files/paper/2024/hash/5f1eee2509599faeeb3570a887016a64-Abstract.html"
+    ]
+  },
+  {
     "id": "kt:generative-adversarial-network",
     "title": "Generative adversarial network",
     "aliases": [

@@ -529,6 +529,30 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/a-neural-probabilistic-language-model> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <http://www.w3.org/2000/01/rdf-schema#label> "Emergent abilities" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <http://www.w3.org/2004/02/skos/core#altLabel> "breakthrough behavior" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <http://www.w3.org/2004/02/skos/core#altLabel> "emergence in large language models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <http://www.w3.org/2004/02/skos/core#altLabel> "emergent capabilities" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <http://www.w3.org/2004/02/skos/core#definition> "Capabilities that are absent (near chance) in smaller language models but present in larger ones, so that they cannot be forecast by extrapolating the performance of smaller models; whether such jumps are real or an artifact of evaluation metrics is actively debated." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <http://www.w3.org/2004/02/skos/core#prefLabel> "Emergent abilities" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "transformers-and-llms" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/big-bench> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities-of-large-language-models> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://www.w3.org/2000/01/rdf-schema#label> "Generative adversarial network" .
@@ -1555,6 +1579,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s5> <https://schema.org/url> "https://aclanthology.org/2020.emnlp-main.550" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s1> <http://purl.org/dc/terms/publisher> "Transactions on Machine Learning Research, 2022 (Wei, Tay, Bommasani, Raffel, Zoph, Borgeaud et al.); arXiv:2206.07682" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s1> <http://purl.org/dc/terms/title> "Emergent Abilities of Large Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s1> <https://schema.org/url> "https://arxiv.org/abs/2206.07682" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s2> <http://purl.org/dc/terms/publisher> "ar5iv rendering of arXiv:2206.07682 (Wei et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s2> <http://purl.org/dc/terms/title> "Emergent Abilities of Large Language Models (full text, HTML rendering)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s2> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/2206.07682" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s3> <http://purl.org/dc/terms/publisher> "NeurIPS 2023 (Schaeffer, Miranda, Koyejo)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s3> <http://purl.org/dc/terms/title> "Are Emergent Abilities of Large Language Models a Mirage?" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s3> <https://schema.org/url> "https://papers.neurips.cc/paper_files/paper/2023/file/adc98a266f45005c403b8311ca7e8bd7-Paper-Conference.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s4> <http://purl.org/dc/terms/publisher> "ACM, DOI 10.1145/3531146.3533229 (Ganguli, Hernandez, Lovitt et al.), 2022; arXiv:2202.07785" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s4> <http://purl.org/dc/terms/title> "Predictability and Surprise in Large Generative Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s4> <https://schema.org/url> "https://arxiv.org/abs/2202.07785" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s5> <http://purl.org/dc/terms/publisher> "Transactions on Machine Learning Research, 2023 (Srivastava et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s5> <http://purl.org/dc/terms/title> "Beyond the Imitation Game: Quantifying and Extrapolating the Capabilities of Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s5> <https://schema.org/url> "https://mlanthology.org/tmlr/2023/srivastava2023tmlr-beyond" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s6> <http://purl.org/dc/terms/publisher> "NeurIPS 2024 (Du, Zeng, Dong, Tang)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s6> <http://purl.org/dc/terms/title> "Understanding Emergent Abilities of Language Models from the Loss Perspective" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s6> <https://schema.org/url> "https://proceedings.neurips.cc/paper_files/paper/2024/hash/5f1eee2509599faeeb3570a887016a64-Abstract.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 2014, Advances in Neural Information Processing Systems 27 (Goodfellow et al.)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s1> <http://purl.org/dc/terms/title> "Generative Adversarial Nets" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

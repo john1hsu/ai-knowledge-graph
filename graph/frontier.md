@@ -5,14 +5,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:reinforcement-learning` | `kt:machine-learning`, `kt:test-time-compute`, `kt:actor-critic`, `kt:policy-gradient`, `kt:q-learning`, `kt:rlhf` |
+| `kt:in-context-learning` | `kt:chain-of-thought`, `kt:jailbreak`, `kt:mechanistic-interpretability`, `kt:emergent-abilities`, `kt:large-language-model` |
 | `kt:model-serving` | `kt:hugging-face-transformers`, `kt:mlops`, `kt:quantization`, `kt:speculative-decoding`, `kt:speculative-decoding` |
+| `kt:pretraining` | `kt:test-time-compute`, `kt:emergent-abilities`, `kt:large-language-model`, `kt:scaling-laws`, `kt:scaling-laws` |
 | `kt:retrieval-augmented-generation` | `kt:bm25`, `kt:embeddings`, `kt:embeddings`, `kt:semantic-search`, `kt:semantic-search` |
 | `kt:ai-governance` | `kt:ai-safety-institutes`, `kt:algorithmic-bias-and-fairness`, `kt:nist-ai-risk-management-framework`, `kt:ai-alignment` |
 | `kt:ensemble-methods` | `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:self-consistency`, `kt:knowledge-distillation` |
-| `kt:in-context-learning` | `kt:chain-of-thought`, `kt:jailbreak`, `kt:mechanistic-interpretability`, `kt:large-language-model` |
 | `kt:markov-decision-process` | `kt:actor-critic`, `kt:policy-gradient`, `kt:q-learning`, `kt:q-learning` |
 | `kt:perceptron` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:artificial-neural-network`, `kt:backpropagation` |
-| `kt:pretraining` | `kt:test-time-compute`, `kt:large-language-model`, `kt:scaling-laws`, `kt:scaling-laws` |
 | `kt:transformer-architecture` | `kt:hugging-face-transformers`, `kt:clip`, `kt:large-language-model`, `kt:scaling-laws` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:turing-test`, `kt:machine-learning` |
 | `kt:executive-orders-on-ai` | `kt:red-teaming`, `kt:ai-safety-institutes`, `kt:nist-ai-risk-management-framework` |
@@ -68,6 +68,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:arthur-samuel` | `kt:machine-learning` |
 | `kt:asynchronous-advantage-actor-critic` | `kt:actor-critic` |
 | `kt:automatic-differentiation` | `kt:backpropagation` |
+| `kt:big-bench` | `kt:emergent-abilities` |
 | `kt:center-for-ai-standards-and-innovation` | `kt:ai-safety-institutes` |
 | `kt:chain-of-thought-prompting-elicits-reasoning-in-large-language-models` | `kt:chain-of-thought` |
 | `kt:christopher-watkins` | `kt:q-learning` |
@@ -88,7 +89,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:distilling-the-knowledge-in-a-neural-network` | `kt:knowledge-distillation` |
 | `kt:double-q-learning` | `kt:q-learning` |
 | `kt:eliza` | `kt:turing-test` |
-| `kt:emergent-abilities` | `kt:scaling-laws` |
+| `kt:emergent-abilities-of-large-language-models` | `kt:emergent-abilities` |
 | `kt:exploration-exploitation` | `kt:q-learning` |
 | `kt:facial-recognition` | `kt:algorithmic-bias-and-fairness` |
 | `kt:fairness-accountability-and-transparency` | `kt:algorithmic-bias-and-fairness` |
