@@ -449,6 +449,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/diffusion-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-diffusers> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/diffusion-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-unsupervised-learning-using-nonequilibrium-thermodynamics> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/diffusion-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <http://www.w3.org/2000/01/rdf-schema#label> "Double descent" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <http://www.w3.org/2004/02/skos/core#altLabel> "deep double descent" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <http://www.w3.org/2004/02/skos/core#altLabel> "double descent curve" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <http://www.w3.org/2004/02/skos/core#altLabel> "double-descent risk curve" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <http://www.w3.org/2004/02/skos/core#definition> "The empirical and theoretical finding that test error, as model capacity, training time or sample size grows, can first fall, then rise to a peak where the model just barely fits the training data (the interpolation threshold), and then fall again in the over-parameterized regime." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <http://www.w3.org/2004/02/skos/core#prefLabel> "Double descent" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ensemble-methods> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/regularization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ml-foundations" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/reconciling-modern-machine-learning-practice-and-the-bias-variance-trade-off> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <http://www.w3.org/2000/01/rdf-schema#label> "Embeddings" .
@@ -1423,6 +1448,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/diffusion-model/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/diffusion-model/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/diffusion-model/s5> <https://schema.org/url> "https://huggingface.co/docs/diffusers/en/using-diffusers/schedulers" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s1> <http://purl.org/dc/terms/publisher> "arXiv:1812.11118 (Belkin, Hsu, Ma, Mandal), 2018; v2 2019; published in PNAS, doi 10.1073/pnas.1903070116" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s1> <http://purl.org/dc/terms/title> "Reconciling modern machine learning practice and the bias-variance trade-off" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s1> <https://schema.org/url> "https://arxiv.org/pdf/1812.11118" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s2> <http://purl.org/dc/terms/publisher> "ICLR 2020 (Nakkiran, Kaplun, Bansal, Yang, Barak, Sutskever)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s2> <http://purl.org/dc/terms/title> "Deep Double Descent: Where Bigger Models and More Data Hurt" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s2> <https://schema.org/url> "https://mlanthology.org/iclr/2020/nakkiran2020iclr-deep" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s3> <http://purl.org/dc/terms/publisher> "arXiv:1912.02292 (Nakkiran, Kaplun, Bansal, Yang, Barak, Sutskever), 2019" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s3> <http://purl.org/dc/terms/title> "Deep Double Descent: Where Bigger Models and More Data Hurt (authors' version)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s3> <https://schema.org/url> "https://arxiv.org/pdf/1912.02292" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s4> <http://purl.org/dc/terms/publisher> "arXiv:1903.08560v3 (Hastie, Montanari, Rosset, Tibshirani), 2019" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s4> <http://purl.org/dc/terms/title> "Surprises in High-Dimensional Ridgeless Least Squares Interpolation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s4> <https://schema.org/url> "https://arxiv.org/abs/1903.08560v3" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s5> <http://purl.org/dc/terms/publisher> "arXiv:2004.04328 (Loog, Viering, Mey, Krijthe, Tax), letter accepted by PNAS, 2020" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s5> <http://purl.org/dc/terms/title> "A brief prehistory of double descent" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s5> <https://schema.org/url> "https://arxiv.org/pdf/2004.04328" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s6> <http://purl.org/dc/terms/publisher> "ICLR 2021 (Nakkiran, Venkat, Kakade, Ma)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s6> <http://purl.org/dc/terms/title> "Optimal Regularization Can Mitigate Double Descent" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s6> <https://schema.org/url> "https://mlanthology.org/iclr/2021/nakkiran2021iclr-optimal" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s1> <http://purl.org/dc/terms/publisher> "Journal of Machine Learning Research 3 (2003), 1137-1155 (Bengio, Ducharme, Vincent and Jauvin)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s1> <http://purl.org/dc/terms/title> "A Neural Probabilistic Language Model" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

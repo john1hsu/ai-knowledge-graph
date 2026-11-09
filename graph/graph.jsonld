@@ -2029,6 +2029,96 @@
       ]
     },
     {
+      "@id": "kt:double-descent",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Double descent",
+      "skos:definition": "The empirical and theoretical finding that test error, as model capacity, training time or sample size grows, can first fall, then rise to a peak where the model just barely fits the training data (the interpolation threshold), and then fall again in the over-parameterized regime.",
+      "kto:domain": "ml-foundations",
+      "dcterms:created": "2026-11-09",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Reconciling modern machine learning practice and the bias-variance trade-off",
+          "dcterms:publisher": "arXiv:1812.11118 (Belkin, Hsu, Ma, Mandal), 2018; v2 2019; published in PNAS, doi 10.1073/pnas.1903070116",
+          "schema:url": "https://arxiv.org/pdf/1812.11118",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Deep Double Descent: Where Bigger Models and More Data Hurt",
+          "dcterms:publisher": "ICLR 2020 (Nakkiran, Kaplun, Bansal, Yang, Barak, Sutskever)",
+          "schema:url": "https://mlanthology.org/iclr/2020/nakkiran2020iclr-deep",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Deep Double Descent: Where Bigger Models and More Data Hurt (authors' version)",
+          "dcterms:publisher": "arXiv:1912.02292 (Nakkiran, Kaplun, Bansal, Yang, Barak, Sutskever), 2019",
+          "schema:url": "https://arxiv.org/pdf/1912.02292",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Surprises in High-Dimensional Ridgeless Least Squares Interpolation",
+          "dcterms:publisher": "arXiv:1903.08560v3 (Hastie, Montanari, Rosset, Tibshirani), 2019",
+          "schema:url": "https://arxiv.org/abs/1903.08560v3",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "A brief prehistory of double descent",
+          "dcterms:publisher": "arXiv:2004.04328 (Loog, Viering, Mey, Krijthe, Tax), letter accepted by PNAS, 2020",
+          "schema:url": "https://arxiv.org/pdf/2004.04328",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Optimal Regularization Can Mitigate Double Descent",
+          "dcterms:publisher": "ICLR 2021 (Nakkiran, Venkat, Kakade, Ma)",
+          "schema:url": "https://mlanthology.org/iclr/2021/nakkiran2021iclr-optimal",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/ml-foundations/double-descent.md",
+      "skos:altLabel": [
+        "double descent curve",
+        "deep double descent",
+        "double-descent risk curve"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:machine-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:overfitting"
+        },
+        {
+          "@id": "kt:regularization"
+        },
+        {
+          "@id": "kt:deep-learning"
+        },
+        {
+          "@id": "kt:scaling-laws"
+        },
+        {
+          "@id": "kt:ensemble-methods"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:bias-variance-tradeoff"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:reconciling-modern-machine-learning-practice-and-the-bias-variance-trade-off"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:statistical-learning-theory"
+        }
+      ]
+    },
+    {
       "@id": "kt:machine-learning",
       "@type": "kto:Field",
       "skos:prefLabel": "Machine learning",

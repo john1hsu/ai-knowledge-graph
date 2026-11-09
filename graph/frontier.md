@@ -7,6 +7,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:reinforcement-learning` | `kt:machine-learning`, `kt:test-time-compute`, `kt:actor-critic`, `kt:policy-gradient`, `kt:q-learning`, `kt:rlhf` |
 | `kt:model-serving` | `kt:hugging-face-transformers`, `kt:mlops`, `kt:quantization`, `kt:speculative-decoding`, `kt:speculative-decoding` |
 | `kt:retrieval-augmented-generation` | `kt:bm25`, `kt:embeddings`, `kt:embeddings`, `kt:semantic-search`, `kt:semantic-search` |
+| `kt:ensemble-methods` | `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:in-context-learning` | `kt:chain-of-thought`, `kt:jailbreak`, `kt:mechanistic-interpretability`, `kt:large-language-model` |
 | `kt:markov-decision-process` | `kt:actor-critic`, `kt:policy-gradient`, `kt:q-learning`, `kt:q-learning` |
 | `kt:perceptron` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:artificial-neural-network`, `kt:backpropagation` |
@@ -14,7 +15,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:transformer-architecture` | `kt:hugging-face-transformers`, `kt:clip`, `kt:large-language-model`, `kt:scaling-laws` |
 | `kt:ai-governance` | `kt:ai-safety-institutes`, `kt:nist-ai-risk-management-framework`, `kt:ai-alignment` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:turing-test`, `kt:machine-learning` |
-| `kt:ensemble-methods` | `kt:bias-variance-tradeoff`, `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:executive-orders-on-ai` | `kt:red-teaming`, `kt:ai-safety-institutes`, `kt:nist-ai-risk-management-framework` |
 | `kt:hybrid-search` | `kt:bm25`, `kt:bm25`, `kt:semantic-search` |
 | `kt:model-pruning` | `kt:quantization`, `kt:quantization`, `kt:knowledge-distillation` |
@@ -36,14 +36,17 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:langgraph` | `kt:agent2agent-protocol`, `kt:agentic-workflow` |
 | `kt:model-compression` | `kt:quantization`, `kt:knowledge-distillation` |
 | `kt:openai` | `kt:clip`, `kt:gsm8k` |
+| `kt:overfitting` | `kt:bias-variance-tradeoff`, `kt:double-descent` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:probabilistic-relevance-framework` | `kt:bm25`, `kt:bm25` |
 | `kt:prompt-engineering` | `kt:chain-of-thought`, `kt:self-consistency` |
 | `kt:proximal-policy-optimization` | `kt:policy-gradient`, `kt:rlhf` |
 | `kt:pytorch` | `kt:hugging-face-transformers`, `kt:backpropagation` |
 | `kt:react-prompting` | `kt:ai-agent`, `kt:chain-of-thought` |
+| `kt:regularization` | `kt:bias-variance-tradeoff`, `kt:double-descent` |
 | `kt:reranking` | `kt:bm25`, `kt:semantic-search` |
 | `kt:reward-hacking` | `kt:ai-alignment`, `kt:rlhf` |
+| `kt:statistical-learning-theory` | `kt:bias-variance-tradeoff`, `kt:double-descent` |
 | `kt:supervised-learning` | `kt:bias-variance-tradeoff`, `kt:machine-learning` |
 | `kt:temporal-difference-learning` | `kt:actor-critic`, `kt:q-learning` |
 | `kt:tf-idf` | `kt:bm25`, `kt:bm25` |
@@ -81,7 +84,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:direct-preference-optimization` | `kt:rlhf` |
 | `kt:distilbert` | `kt:knowledge-distillation` |
 | `kt:distilling-the-knowledge-in-a-neural-network` | `kt:knowledge-distillation` |
-| `kt:double-descent` | `kt:bias-variance-tradeoff` |
 | `kt:double-q-learning` | `kt:q-learning` |
 | `kt:eliza` | `kt:turing-test` |
 | `kt:emergent-abilities` | `kt:scaling-laws` |
@@ -127,15 +129,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:nist` | `kt:nist-ai-risk-management-framework` |
 | `kt:nist-generative-ai-profile` | `kt:nist-ai-risk-management-framework` |
 | `kt:nvidia` | `kt:cuda` |
-| `kt:overfitting` | `kt:bias-variance-tradeoff` |
 | `kt:parallel-computing` | `kt:cuda` |
 | `kt:penetration-testing` | `kt:red-teaming` |
 | `kt:philosophy-of-artificial-intelligence` | `kt:chinese-room-argument` |
 | `kt:policy-gradient-methods-for-reinforcement-learning-with-function-approximation` | `kt:policy-gradient` |
 | `kt:process-reward-model` | `kt:test-time-compute` |
 | `kt:qlora` | `kt:quantization` |
+| `kt:reconciling-modern-machine-learning-practice-and-the-bias-variance-trade-off` | `kt:double-descent` |
 | `kt:recurrent-neural-network` | `kt:deep-learning` |
-| `kt:regularization` | `kt:bias-variance-tradeoff` |
 | `kt:reinforce-algorithm` | `kt:policy-gradient` |
 | `kt:sampling-temperature-and-top-p` | `kt:self-consistency` |
 | `kt:sarsa` | `kt:q-learning` |
@@ -147,7 +148,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:self-refine` | `kt:agentic-workflow` |
 | `kt:soft-actor-critic` | `kt:actor-critic` |
 | `kt:sparse-autoencoder` | `kt:mechanistic-interpretability` |
-| `kt:statistical-learning-theory` | `kt:bias-variance-tradeoff` |
 | `kt:strong-ai` | `kt:chinese-room-argument` |
 | `kt:stylegan` | `kt:generative-adversarial-network` |
 | `kt:symbol-grounding-problem` | `kt:chinese-room-argument` |

@@ -392,6 +392,28 @@
     ]
   },
   {
+    "id": "kt:double-descent",
+    "title": "Double descent",
+    "aliases": [
+      "double descent curve",
+      "deep double descent",
+      "double-descent risk curve"
+    ],
+    "type": "Concept",
+    "domain": "ml-foundations",
+    "file": "articles/ml-foundations/double-descent.md",
+    "created": "2026-11-09",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/pdf/1812.11118",
+      "https://mlanthology.org/iclr/2020/nakkiran2020iclr-deep",
+      "https://arxiv.org/pdf/1912.02292",
+      "https://arxiv.org/abs/1903.08560v3",
+      "https://arxiv.org/pdf/2004.04328",
+      "https://mlanthology.org/iclr/2021/nakkiran2021iclr-optimal"
+    ]
+  },
+  {
     "id": "kt:embeddings",
     "title": "Embeddings",
     "aliases": [
