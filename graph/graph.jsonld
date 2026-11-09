@@ -3286,6 +3286,106 @@
       ]
     },
     {
+      "@id": "kt:reinforcement-learning",
+      "@type": "kto:Field",
+      "skos:prefLabel": "Reinforcement learning",
+      "skos:definition": "The branch of machine learning in which an agent learns a policy for sequential decision-making by interacting with an environment and adjusting its behavior to maximize cumulative reward, rather than learning from labeled examples.",
+      "kto:domain": "reinforcement-learning",
+      "dcterms:created": "2026-11-09",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Reinforcement Learning: A Survey",
+          "dcterms:publisher": "Journal of Artificial Intelligence Research 4:237-285, 1996 (Kaelbling, Littman and Moore)",
+          "schema:url": "https://jair.org/index.php/jair/article/view/10166",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "CS234 Lecture 1: Introduction to Reinforcement Learning",
+          "dcterms:publisher": "Stanford University CS234, Winter 2018 (Emma Brunskill)",
+          "schema:url": "https://web.stanford.edu/class/archive/cs/cs234/cs234.1224/CS234Win2018/slides/cs234_2018_l1.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "ACM A.M. Turing Award Honors Two Researchers Who Led the Development of Cornerstone AI Technology",
+          "dcterms:publisher": "Association for Computing Machinery, 2024 A.M. Turing Award announcement (March 2025)",
+          "schema:url": "https://awards.acm.org/about/2024-turing",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "From Pixels to Actions: Human-level control through Deep Reinforcement Learning",
+          "dcterms:publisher": "Google Research blog (Kumaran and Hassabis, Google DeepMind), 2015",
+          "schema:url": "https://research.google/blog/from-pixels-to-actions-human-level-control-through-deep-reinforcement-learning/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Mastering the game of Go with deep neural networks and tree search",
+          "dcterms:publisher": "Nature 529, 2016 (Silver et al.), Google Research publication page",
+          "schema:url": "https://research.google/pubs/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search/",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/reinforcement-learning/reinforcement-learning.md",
+      "skos:altLabel": [
+        "RL",
+        "learning from rewards",
+        "trial-and-error learning"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:machine-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:markov-decision-process"
+        },
+        {
+          "@id": "kt:exploration-exploitation"
+        },
+        {
+          "@id": "kt:q-learning"
+        },
+        {
+          "@id": "kt:policy-gradient"
+        },
+        {
+          "@id": "kt:actor-critic"
+        },
+        {
+          "@id": "kt:rlhf"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:machine-learning"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:supervised-learning"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:temporal-difference-learning"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:markov-decision-process"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:deep-q-network"
+        },
+        {
+          "@id": "kt:alphago"
+        }
+      ]
+    },
+    {
       "@id": "kt:bm25",
       "@type": "kto:Algorithm",
       "skos:prefLabel": "BM25",

@@ -895,6 +895,27 @@
     ]
   },
   {
+    "id": "kt:reinforcement-learning",
+    "title": "Reinforcement learning",
+    "aliases": [
+      "RL",
+      "learning from rewards",
+      "trial-and-error learning"
+    ],
+    "type": "Field",
+    "domain": "reinforcement-learning",
+    "file": "articles/reinforcement-learning/reinforcement-learning.md",
+    "created": "2026-11-09",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://jair.org/index.php/jair/article/view/10166",
+      "https://web.stanford.edu/class/archive/cs/cs234/cs234.1224/CS234Win2018/slides/cs234_2018_l1.pdf",
+      "https://awards.acm.org/about/2024-turing",
+      "https://research.google/blog/from-pixels-to-actions-human-level-control-through-deep-reinforcement-learning/",
+      "https://research.google/pubs/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search/"
+    ]
+  },
+  {
     "id": "kt:rlhf",
     "title": "Reinforcement learning from human feedback",
     "aliases": [

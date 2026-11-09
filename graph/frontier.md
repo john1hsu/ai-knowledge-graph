@@ -4,8 +4,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
+| `kt:markov-decision-process` | `kt:actor-critic`, `kt:policy-gradient`, `kt:q-learning`, `kt:q-learning`, `kt:reinforcement-learning`, `kt:reinforcement-learning` |
 | `kt:model-serving` | `kt:hugging-face-transformers`, `kt:mlops`, `kt:batching-and-paged-attention`, `kt:quantization`, `kt:speculative-decoding`, `kt:speculative-decoding` |
-| `kt:reinforcement-learning` | `kt:machine-learning`, `kt:test-time-compute`, `kt:actor-critic`, `kt:policy-gradient`, `kt:q-learning`, `kt:rlhf` |
 | `kt:retrieval-augmented-generation` | `kt:beir`, `kt:bm25`, `kt:embeddings`, `kt:embeddings`, `kt:semantic-search`, `kt:semantic-search` |
 | `kt:in-context-learning` | `kt:chain-of-thought`, `kt:jailbreak`, `kt:mechanistic-interpretability`, `kt:emergent-abilities`, `kt:large-language-model` |
 | `kt:pretraining` | `kt:test-time-compute`, `kt:emergent-abilities`, `kt:large-language-model`, `kt:scaling-laws`, `kt:scaling-laws` |
@@ -13,7 +13,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:dartmouth-workshop`, `kt:turing-test`, `kt:machine-learning` |
 | `kt:ensemble-methods` | `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:information-retrieval` | `kt:beir`, `kt:bm25`, `kt:semantic-search`, `kt:tf-idf` |
-| `kt:markov-decision-process` | `kt:actor-critic`, `kt:policy-gradient`, `kt:q-learning`, `kt:q-learning` |
 | `kt:multi-agent-systems` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:langgraph` |
 | `kt:perceptron` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:artificial-neural-network`, `kt:backpropagation` |
 | `kt:transformer-architecture` | `kt:hugging-face-transformers`, `kt:clip`, `kt:large-language-model`, `kt:scaling-laws` |
@@ -26,6 +25,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:reasoning-models` | `kt:chain-of-thought`, `kt:test-time-compute`, `kt:test-time-compute` |
 | `kt:representation-learning` | `kt:clip`, `kt:deep-learning`, `kt:embeddings` |
 | `kt:reranking` | `kt:beir`, `kt:bm25`, `kt:semantic-search` |
+| `kt:supervised-learning` | `kt:bias-variance-tradeoff`, `kt:machine-learning`, `kt:reinforcement-learning` |
+| `kt:temporal-difference-learning` | `kt:actor-critic`, `kt:q-learning`, `kt:reinforcement-learning` |
 | `kt:tool-use` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:vllm` | `kt:hugging-face-transformers`, `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
 | `kt:activation-function` | `kt:artificial-neural-network`, `kt:backpropagation` |
@@ -35,7 +36,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:beam-search` | `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:benchmark-contamination` | `kt:ai-evaluation`, `kt:gsm8k` |
 | `kt:convolutional-neural-network` | `kt:artificial-neural-network`, `kt:deep-learning` |
+| `kt:deep-q-network` | `kt:q-learning`, `kt:reinforcement-learning` |
 | `kt:eu-ai-act` | `kt:algorithmic-bias-and-fairness`, `kt:nist-ai-risk-management-framework` |
+| `kt:exploration-exploitation` | `kt:q-learning`, `kt:reinforcement-learning` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:google` | `kt:agent2agent-protocol`, `kt:tpu` |
 | `kt:gpu-computing` | `kt:cuda`, `kt:tpu` |
@@ -56,8 +59,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:regularization` | `kt:bias-variance-tradeoff`, `kt:double-descent` |
 | `kt:reward-hacking` | `kt:ai-alignment`, `kt:rlhf` |
 | `kt:statistical-learning-theory` | `kt:bias-variance-tradeoff`, `kt:double-descent` |
-| `kt:supervised-learning` | `kt:bias-variance-tradeoff`, `kt:machine-learning` |
-| `kt:temporal-difference-learning` | `kt:actor-critic`, `kt:q-learning` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:vector-database` | `kt:embeddings`, `kt:semantic-search` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings` |
@@ -68,6 +69,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ai-safety` | `kt:ai-alignment` |
 | `kt:ai-safety-summit` | `kt:ai-safety-institutes` |
 | `kt:alan-turing` | `kt:turing-test` |
+| `kt:alphago` | `kt:reinforcement-learning` |
 | `kt:application-specific-integrated-circuit` | `kt:tpu` |
 | `kt:approximate-nearest-neighbor-search` | `kt:semantic-search` |
 | `kt:arthur-samuel` | `kt:machine-learning` |
@@ -87,7 +89,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:data-drift` | `kt:mlops` |
 | `kt:deep-belief-network` | `kt:deep-learning` |
 | `kt:deep-learning-framework` | `kt:hugging-face-transformers` |
-| `kt:deep-q-network` | `kt:q-learning` |
 | `kt:deep-reinforcement-learning-from-human-preferences` | `kt:rlhf` |
 | `kt:deep-unsupervised-learning-using-nonequilibrium-thermodynamics` | `kt:diffusion-model` |
 | `kt:devops` | `kt:mlops` |
@@ -98,7 +99,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:efficient-memory-management-for-large-language-model-serving-with-pagedattention` | `kt:batching-and-paged-attention` |
 | `kt:eliza` | `kt:turing-test` |
 | `kt:emergent-abilities-of-large-language-models` | `kt:emergent-abilities` |
-| `kt:exploration-exploitation` | `kt:q-learning` |
 | `kt:facial-recognition` | `kt:algorithmic-bias-and-fairness` |
 | `kt:fairness-accountability-and-transparency` | `kt:algorithmic-bias-and-fairness` |
 | `kt:fast-inference-from-transformers-via-speculative-decoding` | `kt:speculative-decoding` |

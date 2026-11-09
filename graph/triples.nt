@@ -1031,6 +1031,34 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "evaluation-and-benchmarks" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <https://github.com/john1hsu/ai-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Field> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <http://www.w3.org/2000/01/rdf-schema#label> "Reinforcement learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "RL" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "learning from rewards" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "trial-and-error learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <http://www.w3.org/2004/02/skos/core#definition> "The branch of machine learning in which an agent learns a policy for sequential decision-making by interacting with an environment and adjusting its behavior to maximize cumulative reward, rather than learning from labeled examples." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reinforcement learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/markov-decision-process> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/markov-decision-process> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "reinforcement-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/alphago> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/2000/01/rdf-schema#label> "Reinforcement learning from human feedback" .
@@ -2256,6 +2284,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s5> <https://schema.org/url> "https://www.govinfo.gov/content/pkg/DCPD-202500115/html/DCPD-202500115.htm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s1> <http://purl.org/dc/terms/publisher> "Journal of Artificial Intelligence Research 4:237-285, 1996 (Kaelbling, Littman and Moore)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s1> <http://purl.org/dc/terms/title> "Reinforcement Learning: A Survey" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s1> <https://schema.org/url> "https://jair.org/index.php/jair/article/view/10166" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s2> <http://purl.org/dc/terms/publisher> "Stanford University CS234, Winter 2018 (Emma Brunskill)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s2> <http://purl.org/dc/terms/title> "CS234 Lecture 1: Introduction to Reinforcement Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s2> <https://schema.org/url> "https://web.stanford.edu/class/archive/cs/cs234/cs234.1224/CS234Win2018/slides/cs234_2018_l1.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s3> <http://purl.org/dc/terms/publisher> "Association for Computing Machinery, 2024 A.M. Turing Award announcement (March 2025)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s3> <http://purl.org/dc/terms/title> "ACM A.M. Turing Award Honors Two Researchers Who Led the Development of Cornerstone AI Technology" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s3> <https://schema.org/url> "https://awards.acm.org/about/2024-turing" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s4> <http://purl.org/dc/terms/publisher> "Google Research blog (Kumaran and Hassabis, Google DeepMind), 2015" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s4> <http://purl.org/dc/terms/title> "From Pixels to Actions: Human-level control through Deep Reinforcement Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s4> <https://schema.org/url> "https://research.google/blog/from-pixels-to-actions-human-level-control-through-deep-reinforcement-learning/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s5> <http://purl.org/dc/terms/publisher> "Nature 529, 2016 (Silver et al.), Google Research publication page" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s5> <http://purl.org/dc/terms/title> "Mastering the game of Go with deep neural networks and tree search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s5> <https://schema.org/url> "https://research.google/pubs/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search/" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 2017, Advances in Neural Information Processing Systems 30 (Christiano, Leike, Brown, Martic, Legg and Amodei)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s1> <http://purl.org/dc/terms/title> "Deep Reinforcement Learning from Human Preferences" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
