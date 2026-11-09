@@ -297,6 +297,29 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/batching-and-paged-attention> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/batching-and-paged-attention> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/efficient-memory-management-for-large-language-model-serving-with-pagedattention> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/batching-and-paged-attention> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beir> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Benchmark> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beir> <http://www.w3.org/2000/01/rdf-schema#label> "BEIR" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beir> <http://www.w3.org/2004/02/skos/core#altLabel> "BEIR zero-shot retrieval benchmark" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beir> <http://www.w3.org/2004/02/skos/core#altLabel> "Benchmarking IR" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beir> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beir> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beir> <http://www.w3.org/2004/02/skos/core#definition> "A heterogeneous benchmark, introduced by Thakur and colleagues in 2021, that tests how well information retrieval models generalize zero-shot across 18 datasets spanning nine retrieval tasks, scored mainly with nDCG@10." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beir> <http://www.w3.org/2004/02/skos/core#prefLabel> "BEIR" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beir> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/bm25> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beir> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beir> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/reranking> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beir> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beir> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beir> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beir> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beir> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beir> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beir> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beir> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "evaluation-and-benchmarks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beir> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/beir-a-heterogeneous-benchmark-for-zero-shot-evaluation-of-information-retrieval-models> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beir> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beir> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/mteb> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <http://www.w3.org/2000/01/rdf-schema#label> "Bias-variance tradeoff" .
@@ -1426,6 +1449,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/batching-and-paged-attention/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/batching-and-paged-attention/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/batching-and-paged-attention/s6> <https://schema.org/url> "https://huggingface.co/docs/text-generation-inference/conceptual/paged_attention" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s1> <http://purl.org/dc/terms/publisher> "arXiv:2104.08663v4 (Thakur, Reimers, Rücklé, Srivastava, Gurevych), October 2021" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s1> <http://purl.org/dc/terms/title> "BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s1> <https://schema.org/url> "https://arxiv.org/abs/2104.08663v4" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s2> <http://purl.org/dc/terms/publisher> "NeurIPS 2021 Datasets and Benchmarks Track" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s2> <http://purl.org/dc/terms/title> "BEIR: A Heterogeneous Benchmark for Zero-shot Evaluation of Information Retrieval Models (poster)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s2> <https://schema.org/url> "https://neurips.cc/virtual/2021/29903" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s3> <http://purl.org/dc/terms/publisher> "BEIR maintainers on GitHub (UKP Lab, University of Waterloo, Hugging Face)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s3> <http://purl.org/dc/terms/title> "beir-cellar/beir: A Heterogeneous Benchmark for Information Retrieval" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s3> <https://schema.org/url> "https://github.com/beir-cellar/beir" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s4> <http://purl.org/dc/terms/publisher> "arXiv:2210.07316 (Muennighoff, Tazi, Magne, Reimers), 2022–2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s4> <http://purl.org/dc/terms/title> "MTEB: Massive Text Embedding Benchmark" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s4> <https://schema.org/url> "https://arxiv.org/pdf/2210.07316v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s5> <http://purl.org/dc/terms/publisher> "arXiv:2306.07471 (Kamalloo, Thakur, Lassance, Ma, Yang, Lin), June 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s5> <http://purl.org/dc/terms/title> "Resources for Brewing BEIR: Reproducible Reference Models and an Official Leaderboard" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s5> <https://schema.org/url> "https://arxiv.org/abs/2306.07471" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s1> <http://purl.org/dc/terms/publisher> "Neural Computation 4, 1–58 (1992) (Geman, Bienenstock and Doursat), ML Anthology record" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s1> <http://purl.org/dc/terms/title> "Neural Networks and the Bias/Variance Dilemma" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

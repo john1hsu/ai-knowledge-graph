@@ -268,6 +268,26 @@
     ]
   },
   {
+    "id": "kt:beir",
+    "title": "BEIR",
+    "aliases": [
+      "Benchmarking IR",
+      "BEIR zero-shot retrieval benchmark"
+    ],
+    "type": "Benchmark",
+    "domain": "evaluation-and-benchmarks",
+    "file": "articles/evaluation-and-benchmarks/beir.md",
+    "created": "2026-11-09",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/abs/2104.08663v4",
+      "https://neurips.cc/virtual/2021/29903",
+      "https://github.com/beir-cellar/beir",
+      "https://arxiv.org/pdf/2210.07316v2",
+      "https://arxiv.org/abs/2306.07471"
+    ]
+  },
+  {
     "id": "kt:bias-variance-tradeoff",
     "title": "Bias-variance tradeoff",
     "aliases": [

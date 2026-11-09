@@ -1507,6 +1507,87 @@
       ]
     },
     {
+      "@id": "kt:beir",
+      "@type": "kto:Benchmark",
+      "skos:prefLabel": "BEIR",
+      "skos:definition": "A heterogeneous benchmark, introduced by Thakur and colleagues in 2021, that tests how well information retrieval models generalize zero-shot across 18 datasets spanning nine retrieval tasks, scored mainly with nDCG@10.",
+      "kto:domain": "evaluation-and-benchmarks",
+      "dcterms:created": "2026-11-09",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models",
+          "dcterms:publisher": "arXiv:2104.08663v4 (Thakur, Reimers, Rücklé, Srivastava, Gurevych), October 2021",
+          "schema:url": "https://arxiv.org/abs/2104.08663v4",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "BEIR: A Heterogeneous Benchmark for Zero-shot Evaluation of Information Retrieval Models (poster)",
+          "dcterms:publisher": "NeurIPS 2021 Datasets and Benchmarks Track",
+          "schema:url": "https://neurips.cc/virtual/2021/29903",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "beir-cellar/beir: A Heterogeneous Benchmark for Information Retrieval",
+          "dcterms:publisher": "BEIR maintainers on GitHub (UKP Lab, University of Waterloo, Hugging Face)",
+          "schema:url": "https://github.com/beir-cellar/beir",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "MTEB: Massive Text Embedding Benchmark",
+          "dcterms:publisher": "arXiv:2210.07316 (Muennighoff, Tazi, Magne, Reimers), 2022–2023",
+          "schema:url": "https://arxiv.org/pdf/2210.07316v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Resources for Brewing BEIR: Reproducible Reference Models and an Official Leaderboard",
+          "dcterms:publisher": "arXiv:2306.07471 (Kamalloo, Thakur, Lassance, Ma, Yang, Lin), June 2023",
+          "schema:url": "https://arxiv.org/abs/2306.07471",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/evaluation-and-benchmarks/beir.md",
+      "skos:altLabel": [
+        "Benchmarking IR",
+        "BEIR zero-shot retrieval benchmark"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-evaluation"
+        },
+        {
+          "@id": "kt:information-retrieval"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:bm25"
+        },
+        {
+          "@id": "kt:semantic-search"
+        },
+        {
+          "@id": "kt:embeddings"
+        },
+        {
+          "@id": "kt:reranking"
+        },
+        {
+          "@id": "kt:retrieval-augmented-generation"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:beir-a-heterogeneous-benchmark-for-zero-shot-evaluation-of-information-retrieval-models"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:mteb"
+        }
+      ]
+    },
+    {
       "@id": "kt:gsm8k",
       "@type": "kto:Benchmark",
       "skos:prefLabel": "GSM8K",
