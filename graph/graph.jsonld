@@ -4482,6 +4482,87 @@
       ]
     },
     {
+      "@id": "kt:scalable-oversight",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Scalable oversight",
+      "skos:definition": "The alignment research problem of supervising AI systems reliably when a full human evaluation of their behaviour is too costly, or when the systems may come to exceed human skill at the task being judged.",
+      "kto:domain": "safety-alignment-and-security",
+      "dcterms:created": "2026-11-09",
+      "kto:maturity": "emerging",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Concrete Problems in AI Safety",
+          "dcterms:publisher": "arXiv:1606.06565 (Amodei, Olah, Steinhardt, Christiano, Schulman, Mané), v2 July 2016",
+          "schema:url": "https://arxiv.org/abs/1606.06565v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "AI safety via debate",
+          "dcterms:publisher": "arXiv:1805.00899 (Irving, Christiano, Amodei), May 2018, revised October 2018",
+          "schema:url": "https://www.arxiv.org/abs/1805.00899",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Supervising strong learners by amplifying weak experts",
+          "dcterms:publisher": "arXiv:1810.08575 (Christiano, Shlegeris, Amodei), October 2018",
+          "schema:url": "https://arxiv.org/abs/1810.08575v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Measuring Progress on Scalable Oversight for Large Language Models",
+          "dcterms:publisher": "arXiv:2211.03540 (Bowman, Hyun, Perez et al., Anthropic), November 2022",
+          "schema:url": "https://arxiv.org/abs/2211.03540v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision",
+          "dcterms:publisher": "arXiv:2312.09390 (Burns, Izmailov, Kirchner et al., OpenAI), December 2023",
+          "schema:url": "https://arxiv.org/abs/2312.09390v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Debating with More Persuasive LLMs Leads to More Truthful Answers",
+          "dcterms:publisher": "ICML 2024 (Khan, Hughes, Valentine, Ruis, Sachan, Radhakrishnan, Grefenstette, Bowman, Rocktäschel, Perez)",
+          "schema:url": "https://icml.cc/virtual/2024/poster/33360",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/safety-alignment-and-security/scalable-oversight.md",
+      "skos:altLabel": [
+        "scalable supervision",
+        "superhuman oversight problem"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-alignment"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:rlhf"
+        },
+        {
+          "@id": "kt:reward-hacking"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:concrete-problems-in-ai-safety"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:ai-safety-via-debate"
+        },
+        {
+          "@id": "kt:iterated-amplification"
+        },
+        {
+          "@id": "kt:weak-to-strong-generalization"
+        }
+      ]
+    },
+    {
       "@id": "kt:knowledge-distillation",
       "@type": "kto:Technique",
       "skos:prefLabel": "Knowledge distillation",

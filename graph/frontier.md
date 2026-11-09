@@ -33,6 +33,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:regularization` | `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent` |
 | `kt:representation-learning` | `kt:clip`, `kt:deep-learning`, `kt:embeddings` |
 | `kt:reranking` | `kt:beir`, `kt:bm25`, `kt:semantic-search` |
+| `kt:reward-hacking` | `kt:ai-alignment`, `kt:scalable-oversight`, `kt:rlhf` |
 | `kt:supervised-learning` | `kt:bias-variance-tradeoff`, `kt:machine-learning`, `kt:reinforcement-learning` |
 | `kt:temporal-difference-learning` | `kt:actor-critic`, `kt:q-learning`, `kt:reinforcement-learning` |
 | `kt:tool-use` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent` |
@@ -61,7 +62,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:prompt-engineering` | `kt:chain-of-thought`, `kt:self-consistency` |
 | `kt:proximal-policy-optimization` | `kt:policy-gradient`, `kt:rlhf` |
 | `kt:react-prompting` | `kt:ai-agent`, `kt:chain-of-thought` |
-| `kt:reward-hacking` | `kt:ai-alignment`, `kt:rlhf` |
 | `kt:statistical-learning-theory` | `kt:bias-variance-tradeoff`, `kt:double-descent` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:vector-database` | `kt:embeddings`, `kt:semantic-search` |
@@ -72,6 +72,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ai-risk-management` | `kt:nist-ai-risk-management-framework` |
 | `kt:ai-safety` | `kt:ai-alignment` |
 | `kt:ai-safety-summit` | `kt:ai-safety-institutes` |
+| `kt:ai-safety-via-debate` | `kt:scalable-oversight` |
 | `kt:alan-turing` | `kt:turing-test` |
 | `kt:alphago` | `kt:reinforcement-learning` |
 | `kt:application-specific-integrated-circuit` | `kt:tpu` |
@@ -86,6 +87,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chain-of-thought-prompting-elicits-reasoning-in-large-language-models` | `kt:chain-of-thought` |
 | `kt:christopher-watkins` | `kt:q-learning` |
 | `kt:computing-machinery-and-intelligence` | `kt:turing-test` |
+| `kt:concrete-problems-in-ai-safety` | `kt:scalable-oversight` |
 | `kt:conditional-random-field` | `kt:hidden-markov-model` |
 | `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:contrastive-learning` | `kt:clip` |
@@ -126,6 +128,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:inspect-ai` | `kt:ai-evaluation` |
 | `kt:interpretability` | `kt:mechanistic-interpretability` |
 | `kt:iso-iec-42001` | `kt:nist-ai-risk-management-framework` |
+| `kt:iterated-amplification` | `kt:scalable-oversight` |
 | `kt:john-mccarthy` | `kt:dartmouth-workshop` |
 | `kt:john-searle` | `kt:chinese-room-argument` |
 | `kt:karen-sparck-jones` | `kt:tf-idf` |
@@ -167,7 +170,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:reconciling-modern-machine-learning-practice-and-the-bias-variance-trade-off` | `kt:double-descent` |
 | `kt:reinforce-algorithm` | `kt:policy-gradient` |
 | `kt:sarsa` | `kt:q-learning` |
-| `kt:scalable-oversight` | `kt:ai-alignment` |
 | `kt:scalable-parallel-programming-with-cuda` | `kt:cuda` |
 | `kt:scaling-laws-for-neural-language-models` | `kt:scaling-laws` |
 | `kt:score-matching` | `kt:diffusion-model` |
@@ -201,6 +203,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:walter-pitts` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:warren-mcculloch` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:wasserstein-gan` | `kt:generative-adversarial-network` |
+| `kt:weak-to-strong-generalization` | `kt:scalable-oversight` |
 | `kt:weight-decay` | `kt:dropout` |
 | `kt:whisper` | `kt:automatic-speech-recognition` |
 | `kt:word2vec` | `kt:embeddings` |

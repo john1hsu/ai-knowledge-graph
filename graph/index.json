@@ -1050,6 +1050,27 @@
     ]
   },
   {
+    "id": "kt:scalable-oversight",
+    "title": "Scalable oversight",
+    "aliases": [
+      "scalable supervision",
+      "superhuman oversight problem"
+    ],
+    "type": "Concept",
+    "domain": "safety-alignment-and-security",
+    "file": "articles/safety-alignment-and-security/scalable-oversight.md",
+    "created": "2026-11-09",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://arxiv.org/abs/1606.06565v2",
+      "https://www.arxiv.org/abs/1805.00899",
+      "https://arxiv.org/abs/1810.08575v1",
+      "https://arxiv.org/abs/2211.03540v2",
+      "https://arxiv.org/abs/2312.09390v1",
+      "https://icml.cc/virtual/2024/poster/33360"
+    ]
+  },
+  {
     "id": "kt:scaling-laws",
     "title": "Scaling laws",
     "aliases": [

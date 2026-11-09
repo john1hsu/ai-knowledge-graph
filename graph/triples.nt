@@ -1220,6 +1220,28 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/the-curious-case-of-neural-text-degeneration> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> <http://www.w3.org/2000/01/rdf-schema#label> "Scalable oversight" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> <http://www.w3.org/2004/02/skos/core#altLabel> "scalable supervision" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> <http://www.w3.org/2004/02/skos/core#altLabel> "superhuman oversight problem" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> <http://www.w3.org/2004/02/skos/core#definition> "The alignment research problem of supervising AI systems reliably when a full human evaluation of their behaviour is too costly, or when the systems may come to exceed human skill at the task being judged." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scalable oversight" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "safety-alignment-and-security" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-via-debate> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/iterated-amplification> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/weak-to-strong-generalization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/concrete-problems-in-ai-safety> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <http://www.w3.org/2000/01/rdf-schema#label> "Scaling laws" .
@@ -2602,6 +2624,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s5> <https://schema.org/url> "https://platform.claude.com/docs/en/models/opus-5-5/migration-guide" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s1> <http://purl.org/dc/terms/publisher> "arXiv:1606.06565 (Amodei, Olah, Steinhardt, Christiano, Schulman, Mané), v2 July 2016" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s1> <http://purl.org/dc/terms/title> "Concrete Problems in AI Safety" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s1> <https://schema.org/url> "https://arxiv.org/abs/1606.06565v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s2> <http://purl.org/dc/terms/publisher> "arXiv:1805.00899 (Irving, Christiano, Amodei), May 2018, revised October 2018" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s2> <http://purl.org/dc/terms/title> "AI safety via debate" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s2> <https://schema.org/url> "https://www.arxiv.org/abs/1805.00899" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s3> <http://purl.org/dc/terms/publisher> "arXiv:1810.08575 (Christiano, Shlegeris, Amodei), October 2018" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s3> <http://purl.org/dc/terms/title> "Supervising strong learners by amplifying weak experts" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s3> <https://schema.org/url> "https://arxiv.org/abs/1810.08575v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s4> <http://purl.org/dc/terms/publisher> "arXiv:2211.03540 (Bowman, Hyun, Perez et al., Anthropic), November 2022" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s4> <http://purl.org/dc/terms/title> "Measuring Progress on Scalable Oversight for Large Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s4> <https://schema.org/url> "https://arxiv.org/abs/2211.03540v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s5> <http://purl.org/dc/terms/publisher> "arXiv:2312.09390 (Burns, Izmailov, Kirchner et al., OpenAI), December 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s5> <http://purl.org/dc/terms/title> "Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s5> <https://schema.org/url> "https://arxiv.org/abs/2312.09390v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s6> <http://purl.org/dc/terms/publisher> "ICML 2024 (Khan, Hughes, Valentine, Ruis, Sachan, Radhakrishnan, Grefenstette, Bowman, Rocktäschel, Perez)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s6> <http://purl.org/dc/terms/title> "Debating with More Persuasive LLMs Leads to More Truthful Answers" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s6> <https://schema.org/url> "https://icml.cc/virtual/2024/poster/33360" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s1> <http://purl.org/dc/terms/publisher> "arXiv:1712.00409 (Hestness, Narang, Ardalani, Diamos, Jun, Kianinejad, Patwary, Yang, Zhou; Baidu Research), 2017" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s1> <http://purl.org/dc/terms/title> "Deep Learning Scaling is Predictable, Empirically" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
