@@ -611,6 +611,27 @@
     ]
   },
   {
+    "id": "kt:hidden-markov-model",
+    "title": "Hidden Markov model",
+    "aliases": [
+      "HMM",
+      "hidden Markov models",
+      "probabilistic function of a Markov chain"
+    ],
+    "type": "Concept",
+    "domain": "ml-foundations",
+    "file": "articles/ml-foundations/hidden-markov-model.md",
+    "created": "2026-11-09",
+    "maturity": "established",
+    "source_urls": [
+      "https://web.stanford.edu/~jurafsky/slp3/A.pdf",
+      "https://people.engr.tamu.edu/rgutier/web_courses/cpsc689_s07/rabiner1989tutorialHMM.pdf",
+      "https://www.nature.com/articles/nbt1004-1315",
+      "https://www.fing.edu.uy/~alopeza/biohpc/papers/hmm/Eddy-What-is-a-HMM-ATG4-preprint.pdf",
+      "https://home.cs.colorado.edu/~mozer/Teaching/syllabi/6622/papers/LaffertyMcCallumPereira2001.pdf"
+    ]
+  },
+  {
     "id": "kt:hugging-face-transformers",
     "title": "Hugging Face Transformers",
     "aliases": [

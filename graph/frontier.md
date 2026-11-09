@@ -4,7 +4,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:markov-decision-process` | `kt:actor-critic`, `kt:policy-gradient`, `kt:q-learning`, `kt:q-learning`, `kt:reinforcement-learning`, `kt:reinforcement-learning` |
+| `kt:markov-decision-process` | `kt:hidden-markov-model`, `kt:actor-critic`, `kt:policy-gradient`, `kt:q-learning`, `kt:q-learning`, `kt:reinforcement-learning`, `kt:reinforcement-learning` |
 | `kt:model-serving` | `kt:hugging-face-transformers`, `kt:mlops`, `kt:batching-and-paged-attention`, `kt:quantization`, `kt:speculative-decoding`, `kt:speculative-decoding` |
 | `kt:retrieval-augmented-generation` | `kt:beir`, `kt:bm25`, `kt:embeddings`, `kt:embeddings`, `kt:semantic-search`, `kt:semantic-search` |
 | `kt:in-context-learning` | `kt:chain-of-thought`, `kt:jailbreak`, `kt:mechanistic-interpretability`, `kt:emergent-abilities`, `kt:large-language-model` |
@@ -19,10 +19,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:distributed-training` | `kt:cuda`, `kt:mlops`, `kt:tpu` |
 | `kt:executive-orders-on-ai` | `kt:red-teaming`, `kt:ai-safety-institutes`, `kt:nist-ai-risk-management-framework` |
 | `kt:fine-tuning` | `kt:hugging-face-transformers`, `kt:qlora`, `kt:rlhf` |
+| `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:hidden-markov-model` |
 | `kt:hybrid-search` | `kt:bm25`, `kt:bm25`, `kt:semantic-search` |
 | `kt:model-pruning` | `kt:quantization`, `kt:quantization`, `kt:knowledge-distillation` |
 | `kt:prompt-injection` | `kt:agent2agent-protocol`, `kt:red-teaming`, `kt:jailbreak` |
 | `kt:reasoning-models` | `kt:chain-of-thought`, `kt:test-time-compute`, `kt:test-time-compute` |
+| `kt:recurrent-neural-network` | `kt:automatic-speech-recognition`, `kt:deep-learning`, `kt:hidden-markov-model` |
 | `kt:representation-learning` | `kt:clip`, `kt:deep-learning`, `kt:embeddings` |
 | `kt:reranking` | `kt:beir`, `kt:bm25`, `kt:semantic-search` |
 | `kt:supervised-learning` | `kt:bias-variance-tradeoff`, `kt:machine-learning`, `kt:reinforcement-learning` |
@@ -39,7 +41,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:deep-q-network` | `kt:q-learning`, `kt:reinforcement-learning` |
 | `kt:eu-ai-act` | `kt:algorithmic-bias-and-fairness`, `kt:nist-ai-risk-management-framework` |
 | `kt:exploration-exploitation` | `kt:q-learning`, `kt:reinforcement-learning` |
-| `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
+| `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
 | `kt:google` | `kt:agent2agent-protocol`, `kt:tpu` |
 | `kt:gpu-computing` | `kt:cuda`, `kt:tpu` |
 | `kt:gradient-descent` | `kt:backpropagation`, `kt:deep-learning` |
@@ -56,7 +58,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:proximal-policy-optimization` | `kt:policy-gradient`, `kt:rlhf` |
 | `kt:pytorch` | `kt:hugging-face-transformers`, `kt:backpropagation` |
 | `kt:react-prompting` | `kt:ai-agent`, `kt:chain-of-thought` |
-| `kt:recurrent-neural-network` | `kt:automatic-speech-recognition`, `kt:deep-learning` |
 | `kt:regularization` | `kt:bias-variance-tradeoff`, `kt:double-descent` |
 | `kt:reward-hacking` | `kt:ai-alignment`, `kt:rlhf` |
 | `kt:statistical-learning-theory` | `kt:bias-variance-tradeoff`, `kt:double-descent` |
@@ -83,6 +84,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chain-of-thought-prompting-elicits-reasoning-in-large-language-models` | `kt:chain-of-thought` |
 | `kt:christopher-watkins` | `kt:q-learning` |
 | `kt:computing-machinery-and-intelligence` | `kt:turing-test` |
+| `kt:conditional-random-field` | `kt:hidden-markov-model` |
 | `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:contrastive-learning` | `kt:clip` |
 | `kt:cross-validation` | `kt:bias-variance-tradeoff` |
@@ -100,17 +102,16 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:efficient-memory-management-for-large-language-model-serving-with-pagedattention` | `kt:batching-and-paged-attention` |
 | `kt:eliza` | `kt:turing-test` |
 | `kt:emergent-abilities-of-large-language-models` | `kt:emergent-abilities` |
+| `kt:expectation-maximization` | `kt:hidden-markov-model` |
 | `kt:facial-recognition` | `kt:algorithmic-bias-and-fairness` |
 | `kt:fairness-accountability-and-transparency` | `kt:algorithmic-bias-and-fairness` |
 | `kt:fast-inference-from-transformers-via-speculative-decoding` | `kt:speculative-decoding` |
 | `kt:feature-store` | `kt:mlops` |
 | `kt:few-shot-prompting` | `kt:chain-of-thought` |
-| `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:foundation-model` | `kt:large-language-model` |
 | `kt:generative-adversarial-nets` | `kt:generative-adversarial-network` |
 | `kt:geoffrey-hinton` | `kt:knowledge-distillation` |
 | `kt:hallucination` | `kt:mechanistic-interpretability` |
-| `kt:hidden-markov-model` | `kt:automatic-speech-recognition` |
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
 | `kt:hugging-face` | `kt:hugging-face-transformers` |
 | `kt:hugging-face-diffusers` | `kt:diffusion-model` |
@@ -138,6 +139,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:loftq` | `kt:qlora` |
 | `kt:logic-theorist` | `kt:dartmouth-workshop` |
 | `kt:lora` | `kt:qlora` |
+| `kt:markov-chain` | `kt:hidden-markov-model` |
 | `kt:marvin-minsky` | `kt:dartmouth-workshop` |
 | `kt:minds-brains-and-programs` | `kt:chinese-room-argument` |
 | `kt:mlflow` | `kt:mlops` |

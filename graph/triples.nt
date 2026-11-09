@@ -694,6 +694,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "evaluation-and-benchmarks" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/training-verifiers-to-solve-math-word-problems> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <http://www.w3.org/2000/01/rdf-schema#label> "Hidden Markov model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <http://www.w3.org/2004/02/skos/core#altLabel> "HMM" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <http://www.w3.org/2004/02/skos/core#altLabel> "hidden Markov models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <http://www.w3.org/2004/02/skos/core#altLabel> "probabilistic function of a Markov chain" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/generative-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <http://www.w3.org/2004/02/skos/core#definition> "A generative probabilistic model of sequences in which an unobserved Markov chain of discrete states emits the observed symbols or feature vectors; its likelihood, most probable state path and parameters are computed with the forward, Viterbi and Baum-Welch (forward-backward) algorithms." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hidden Markov model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/finite-automaton> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/markov-decision-process> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/markov-chain> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/expectation-maximization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ml-foundations" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Tool> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <http://www.w3.org/2000/01/rdf-schema#label> "Hugging Face Transformers" .
@@ -1942,6 +1967,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s6> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/2303.08774" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s1> <http://purl.org/dc/terms/publisher> "Daniel Jurafsky and James H. Martin, Stanford University (draft of August 19, 2026)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s1> <http://purl.org/dc/terms/title> "Speech and Language Processing (3rd ed. draft), Appendix A: Hidden Markov Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s1> <https://schema.org/url> "https://web.stanford.edu/~jurafsky/slp3/A.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s2> <http://purl.org/dc/terms/publisher> "Lawrence R. Rabiner, Proceedings of the IEEE 77(2), February 1989 (copy hosted on a Texas A&M course page)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s2> <http://purl.org/dc/terms/title> "A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s2> <https://schema.org/url> "https://people.engr.tamu.edu/rgutier/web_courses/cpsc689_s07/rabiner1989tutorialHMM.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s3> <http://purl.org/dc/terms/publisher> "Sean R. Eddy, Nature Biotechnology 22(10):1315-1316, 2004 (doi 10.1038/nbt1004-1315)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s3> <http://purl.org/dc/terms/title> "What is a hidden Markov model?" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s3> <https://schema.org/url> "https://www.nature.com/articles/nbt1004-1315" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s4> <http://purl.org/dc/terms/publisher> "Sean R. Eddy, preprint of the 2004 Nature Biotechnology primer (copy hosted at Universidad de la República)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s4> <http://purl.org/dc/terms/title> "What is a hidden Markov model? (author's preprint)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s4> <https://schema.org/url> "https://www.fing.edu.uy/~alopeza/biohpc/papers/hmm/Eddy-What-is-a-HMM-ATG4-preprint.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s5> <http://purl.org/dc/terms/publisher> "John Lafferty, Andrew McCallum, Fernando Pereira, 2001 (copy hosted on a CU Boulder course page)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s5> <http://purl.org/dc/terms/title> "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s5> <https://schema.org/url> "https://home.cs.colorado.edu/~mozer/Teaching/syllabi/6622/papers/LaffertyMcCallumPereira2001.pdf" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s1> <http://purl.org/dc/terms/publisher> "Proceedings of EMNLP 2020, System Demonstrations, pp. 38–45 (Wolf et al., Hugging Face)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s1> <http://purl.org/dc/terms/title> "Transformers: State-of-the-Art Natural Language Processing" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

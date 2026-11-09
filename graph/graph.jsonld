@@ -2723,6 +2723,95 @@
       ]
     },
     {
+      "@id": "kt:hidden-markov-model",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Hidden Markov model",
+      "skos:definition": "A generative probabilistic model of sequences in which an unobserved Markov chain of discrete states emits the observed symbols or feature vectors; its likelihood, most probable state path and parameters are computed with the forward, Viterbi and Baum-Welch (forward-backward) algorithms.",
+      "kto:domain": "ml-foundations",
+      "dcterms:created": "2026-11-09",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Speech and Language Processing (3rd ed. draft), Appendix A: Hidden Markov Models",
+          "dcterms:publisher": "Daniel Jurafsky and James H. Martin, Stanford University (draft of August 19, 2026)",
+          "schema:url": "https://web.stanford.edu/~jurafsky/slp3/A.pdf",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition",
+          "dcterms:publisher": "Lawrence R. Rabiner, Proceedings of the IEEE 77(2), February 1989 (copy hosted on a Texas A&M course page)",
+          "schema:url": "https://people.engr.tamu.edu/rgutier/web_courses/cpsc689_s07/rabiner1989tutorialHMM.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "What is a hidden Markov model?",
+          "dcterms:publisher": "Sean R. Eddy, Nature Biotechnology 22(10):1315-1316, 2004 (doi 10.1038/nbt1004-1315)",
+          "schema:url": "https://www.nature.com/articles/nbt1004-1315",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "What is a hidden Markov model? (author's preprint)",
+          "dcterms:publisher": "Sean R. Eddy, preprint of the 2004 Nature Biotechnology primer (copy hosted at Universidad de la República)",
+          "schema:url": "https://www.fing.edu.uy/~alopeza/biohpc/papers/hmm/Eddy-What-is-a-HMM-ATG4-preprint.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data",
+          "dcterms:publisher": "John Lafferty, Andrew McCallum, Fernando Pereira, 2001 (copy hosted on a CU Boulder course page)",
+          "schema:url": "https://home.cs.colorado.edu/~mozer/Teaching/syllabi/6622/papers/LaffertyMcCallumPereira2001.pdf",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/ml-foundations/hidden-markov-model.md",
+      "skos:altLabel": [
+        "HMM",
+        "hidden Markov models",
+        "probabilistic function of a Markov chain"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:machine-learning"
+        },
+        {
+          "@id": "kt:generative-model"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:automatic-speech-recognition"
+        },
+        {
+          "@id": "kt:markov-decision-process"
+        },
+        {
+          "@id": "kt:recurrent-neural-network"
+        },
+        {
+          "@id": "kt:finite-automaton"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:markov-chain"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:expectation-maximization"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:automatic-speech-recognition"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:conditional-random-field"
+        }
+      ]
+    },
+    {
       "@id": "kt:machine-learning",
       "@type": "kto:Field",
       "skos:prefLabel": "Machine learning",
