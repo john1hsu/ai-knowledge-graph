@@ -1840,6 +1840,102 @@
       ]
     },
     {
+      "@id": "kt:batching-and-paged-attention",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Continuous batching and PagedAttention",
+      "skos:definition": "A pair of LLM-serving techniques: continuous (iteration-level) batching reschedules the batch after every decoding step so finished requests leave and new ones join immediately, and PagedAttention stores each request's KV cache in small fixed-size blocks, like virtual-memory pages, so far more requests fit in GPU memory.",
+      "kto:domain": "inference-and-optimization",
+      "dcterms:created": "2026-11-09",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+          "dcterms:publisher": "Kwon et al., SOSP 2023, arXiv 2309.06180",
+          "schema:url": "https://arxiv.org/abs/2309.06180",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Efficient Memory Management for Large Language Model Serving with PagedAttention (full text)",
+          "dcterms:publisher": "Kwon et al., SOSP 2023 (copy hosted for Princeton COS 597, Fall 2024)",
+          "schema:url": "https://www.cs.princeton.edu/~ravian/COS597_F24/papers/vllm.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Orca: A Distributed Serving System for Transformer-Based Generative Models",
+          "dcterms:publisher": "USENIX OSDI 2022, pp. 521–538 (Yu, Jeong, Kim, Kim and Chun)",
+          "schema:url": "https://www.usenix.org/conference/osdi22/presentation/yu",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Orca: A Distributed Serving System for Transformer-Based Generative Models (full paper)",
+          "dcterms:publisher": "USENIX OSDI 2022",
+          "schema:url": "https://www.usenix.org/system/files/osdi22-yu.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Continuous batching",
+          "dcterms:publisher": "Hugging Face Transformers documentation",
+          "schema:url": "https://huggingface.co/docs/transformers/continuous_batching",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "PagedAttention",
+          "dcterms:publisher": "Hugging Face Text Generation Inference documentation",
+          "schema:url": "https://huggingface.co/docs/text-generation-inference/conceptual/paged_attention",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/inference-and-optimization/batching-and-paged-attention.md",
+      "skos:altLabel": [
+        "continuous batching",
+        "iteration-level scheduling",
+        "in-flight batching",
+        "PagedAttention",
+        "paged KV cache"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:llm-inference-optimization"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:speculative-decoding"
+        },
+        {
+          "@id": "kt:quantization"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:efficient-memory-management-for-large-language-model-serving-with-pagedattention"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:orca-serving-system"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:kv-cache"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:vllm"
+        },
+        {
+          "@id": "kt:hugging-face-transformers"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:model-serving"
+        }
+      ]
+    },
+    {
       "@id": "kt:quantization",
       "@type": "kto:Technique",
       "skos:prefLabel": "Quantization",

@@ -244,6 +244,30 @@
     ]
   },
   {
+    "id": "kt:batching-and-paged-attention",
+    "title": "Continuous batching and PagedAttention",
+    "aliases": [
+      "continuous batching",
+      "iteration-level scheduling",
+      "in-flight batching",
+      "PagedAttention",
+      "paged KV cache"
+    ],
+    "type": "Technique",
+    "domain": "inference-and-optimization",
+    "file": "articles/inference-and-optimization/batching-and-paged-attention.md",
+    "created": "2026-11-09",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/abs/2309.06180",
+      "https://www.cs.princeton.edu/~ravian/COS597_F24/papers/vllm.pdf",
+      "https://www.usenix.org/conference/osdi22/presentation/yu",
+      "https://www.usenix.org/system/files/osdi22-yu.pdf",
+      "https://huggingface.co/docs/transformers/continuous_batching",
+      "https://huggingface.co/docs/text-generation-inference/conceptual/paged_attention"
+    ]
+  },
+  {
     "id": "kt:bias-variance-tradeoff",
     "title": "Bias-variance tradeoff",
     "aliases": [
