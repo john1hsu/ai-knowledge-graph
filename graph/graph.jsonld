@@ -1661,6 +1661,114 @@
       ]
     },
     {
+      "@id": "kt:dropout",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Dropout",
+      "skos:definition": "A regularization technique for neural networks that randomly zeroes a fraction of unit activations on each training step, so the network cannot rely on fragile co-adaptations between units; at inference the full network is used, approximating an average over the exponentially many \"thinned\" subnetworks seen in training.",
+      "kto:domain": "deep-learning",
+      "dcterms:created": "2026-11-09",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Dropout: A Simple Way to Prevent Neural Networks from Overfitting",
+          "dcterms:publisher": "Journal of Machine Learning Research 15(56), 1929–1958 (2014) (Srivastava, Hinton, Krizhevsky, Sutskever and Salakhutdinov)",
+          "schema:url": "https://www.jmlr.org/papers/v15/srivastava14a.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Dropout: A Simple Way to Prevent Neural Networks from Overfitting (full text PDF)",
+          "dcterms:publisher": "JMLR 15 (2014), author PDF hosted by the Bau Lab paper archive",
+          "schema:url": "https://papers.baulab.info/papers/also/Srivastava-2014.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Improving neural networks by preventing co-adaptation of feature detectors",
+          "dcterms:publisher": "arXiv:1207.0580 (July 2012) (Hinton, Srivastava, Krizhevsky, Sutskever and Salakhutdinov)",
+          "schema:url": "https://arxiv.org/abs/1207.0580",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "4.6. Dropout",
+          "dcterms:publisher": "Zhang, Lipton, Li and Smola, Dive into Deep Learning (classic.d2l.ai)",
+          "schema:url": "https://classic.d2l.ai/chapter_multilayer-perceptrons/dropout.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "torch.nn.Dropout",
+          "dcterms:publisher": "PyTorch 2.6 documentation",
+          "schema:url": "https://docs.pytorch.org/docs/2.6/generated/torch.nn.Dropout.html",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning",
+          "dcterms:publisher": "Proceedings of the 33rd ICML, PMLR 48:1050–1059 (2016) (Gal and Ghahramani)",
+          "schema:url": "https://proceedings.mlr.press/v48/gal16",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/deep-learning/dropout.md",
+      "skos:altLabel": [
+        "dropout regularization",
+        "inverted dropout",
+        "dropout training"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:regularization"
+        },
+        {
+          "@id": "kt:deep-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:overfitting"
+        },
+        {
+          "@id": "kt:artificial-neural-network"
+        },
+        {
+          "@id": "kt:bias-variance-tradeoff"
+        },
+        {
+          "@id": "kt:ensemble-methods"
+        },
+        {
+          "@id": "kt:geoffrey-hinton"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:dropout-a-simple-way-to-prevent-neural-networks-from-overfitting"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:overfitting"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:geoffrey-hinton"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:pytorch"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:weight-decay"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:monte-carlo-dropout"
+        }
+      ]
+    },
+    {
       "@id": "kt:ai-evaluation",
       "@type": "kto:Field",
       "skos:prefLabel": "Evaluation of AI systems",

@@ -595,6 +595,35 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/reconciling-modern-machine-learning-practice-and-the-bias-variance-trade-off> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <http://www.w3.org/2000/01/rdf-schema#label> "Dropout" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <http://www.w3.org/2004/02/skos/core#altLabel> "dropout regularization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <http://www.w3.org/2004/02/skos/core#altLabel> "dropout training" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <http://www.w3.org/2004/02/skos/core#altLabel> "inverted dropout" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/regularization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <http://www.w3.org/2004/02/skos/core#definition> "A regularization technique for neural networks that randomly zeroes a fraction of unit activations on each training step, so the network cannot rely on fragile co-adaptations between units; at inference the full network is used, approximating an average over the exponentially many \"thinned\" subnetworks seen in training." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dropout" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ensemble-methods> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/weight-decay> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "deep-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-dropout> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/dropout-a-simple-way-to-prevent-neural-networks-from-overfitting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <https://github.com/john1hsu/ai-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <http://www.w3.org/2000/01/rdf-schema#label> "Embeddings" .
@@ -1857,6 +1886,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s6> <https://schema.org/url> "https://mlanthology.org/iclr/2021/nakkiran2021iclr-optimal" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s1> <http://purl.org/dc/terms/publisher> "Journal of Machine Learning Research 15(56), 1929–1958 (2014) (Srivastava, Hinton, Krizhevsky, Sutskever and Salakhutdinov)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s1> <http://purl.org/dc/terms/title> "Dropout: A Simple Way to Prevent Neural Networks from Overfitting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s1> <https://schema.org/url> "https://www.jmlr.org/papers/v15/srivastava14a.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s2> <http://purl.org/dc/terms/publisher> "JMLR 15 (2014), author PDF hosted by the Bau Lab paper archive" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s2> <http://purl.org/dc/terms/title> "Dropout: A Simple Way to Prevent Neural Networks from Overfitting (full text PDF)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s2> <https://schema.org/url> "https://papers.baulab.info/papers/also/Srivastava-2014.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s3> <http://purl.org/dc/terms/publisher> "arXiv:1207.0580 (July 2012) (Hinton, Srivastava, Krizhevsky, Sutskever and Salakhutdinov)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s3> <http://purl.org/dc/terms/title> "Improving neural networks by preventing co-adaptation of feature detectors" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s3> <https://schema.org/url> "https://arxiv.org/abs/1207.0580" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s4> <http://purl.org/dc/terms/publisher> "Zhang, Lipton, Li and Smola, Dive into Deep Learning (classic.d2l.ai)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s4> <http://purl.org/dc/terms/title> "4.6. Dropout" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s4> <https://schema.org/url> "https://classic.d2l.ai/chapter_multilayer-perceptrons/dropout.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s5> <http://purl.org/dc/terms/publisher> "PyTorch 2.6 documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s5> <http://purl.org/dc/terms/title> "torch.nn.Dropout" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s5> <https://schema.org/url> "https://docs.pytorch.org/docs/2.6/generated/torch.nn.Dropout.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s6> <http://purl.org/dc/terms/publisher> "Proceedings of the 33rd ICML, PMLR 48:1050–1059 (2016) (Gal and Ghahramani)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s6> <http://purl.org/dc/terms/title> "Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s6> <https://schema.org/url> "https://proceedings.mlr.press/v48/gal16" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s1> <http://purl.org/dc/terms/publisher> "Journal of Machine Learning Research 3 (2003), 1137-1155 (Bengio, Ducharme, Vincent and Jauvin)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s1> <http://purl.org/dc/terms/title> "A Neural Probabilistic Language Model" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
