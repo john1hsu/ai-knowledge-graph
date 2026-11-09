@@ -676,6 +676,30 @@
     ]
   },
   {
+    "id": "kt:scaling-laws",
+    "title": "Scaling laws",
+    "aliases": [
+      "neural scaling laws",
+      "LLM scaling laws",
+      "Kaplan scaling laws",
+      "Chinchilla scaling laws",
+      "compute-optimal scaling"
+    ],
+    "type": "Concept",
+    "domain": "transformers-and-llms",
+    "file": "articles/transformers-and-llms/scaling-laws.md",
+    "created": "2026-11-09",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/abs/1712.00409v1",
+      "https://arxiv.org/pdf/2001.08361",
+      "https://mlanthology.org/neurips/2022/hoffmann2022neurips-empirical",
+      "https://arxiv.org/html/2404.10102v2",
+      "https://proceedings.mlr.press/v235/sardana24a.html",
+      "https://neurips.cc/virtual/2023/oral/73863"
+    ]
+  },
+  {
     "id": "kt:self-consistency",
     "title": "Self-consistency",
     "aliases": [

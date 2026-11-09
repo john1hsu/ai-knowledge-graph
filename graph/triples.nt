@@ -779,6 +779,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-reinforcement-learning-from-human-preferences> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <http://www.w3.org/2000/01/rdf-schema#label> "Scaling laws" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <http://www.w3.org/2004/02/skos/core#altLabel> "Chinchilla scaling laws" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <http://www.w3.org/2004/02/skos/core#altLabel> "Kaplan scaling laws" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <http://www.w3.org/2004/02/skos/core#altLabel> "LLM scaling laws" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <http://www.w3.org/2004/02/skos/core#altLabel> "compute-optimal scaling" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <http://www.w3.org/2004/02/skos/core#altLabel> "neural scaling laws" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <http://www.w3.org/2004/02/skos/core#definition> "Empirical power-law relationships that predict how a neural network's loss falls as its parameter count, training data and training compute grow, used to forecast model quality and to split a fixed compute budget between model size and data." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scaling laws" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/test-time-compute> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "transformers-and-llms" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws-for-neural-language-models> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> <http://www.w3.org/2000/01/rdf-schema#label> "Self-consistency" .
@@ -1665,6 +1691,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s6> <https://schema.org/url> "https://huggingface.co/docs/trl/v0.12.0/en/index" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s1> <http://purl.org/dc/terms/publisher> "arXiv:1712.00409 (Hestness, Narang, Ardalani, Diamos, Jun, Kianinejad, Patwary, Yang, Zhou; Baidu Research), 2017" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s1> <http://purl.org/dc/terms/title> "Deep Learning Scaling is Predictable, Empirically" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s1> <https://schema.org/url> "https://arxiv.org/abs/1712.00409v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s2> <http://purl.org/dc/terms/publisher> "arXiv:2001.08361 (Kaplan, McCandlish, Henighan, Brown, Chess, Child, Gray, Radford, Wu, Amodei; OpenAI), 2020" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s2> <http://purl.org/dc/terms/title> "Scaling Laws for Neural Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s2> <https://schema.org/url> "https://arxiv.org/pdf/2001.08361" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s3> <http://purl.org/dc/terms/publisher> "NeurIPS 2022 (Hoffmann, Borgeaud, Mensch et al.; DeepMind); also arXiv:2203.15556 as \"Training Compute-Optimal Large Language Models\"" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s3> <http://purl.org/dc/terms/title> "An Empirical Analysis of Compute-Optimal Large Language Model Training" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s3> <https://schema.org/url> "https://mlanthology.org/neurips/2022/hoffmann2022neurips-empirical" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s4> <http://purl.org/dc/terms/publisher> "arXiv:2404.10102v2 (Besiroglu, Erdil, Barnett, You; Epoch AI), 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s4> <http://purl.org/dc/terms/title> "Chinchilla Scaling: A replication attempt" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "preprint" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s4> <https://schema.org/url> "https://arxiv.org/html/2404.10102v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s5> <http://purl.org/dc/terms/publisher> "Proceedings of the 41st ICML, PMLR 235:43445-43460, 2024 (Sardana, Portes, Doubov, Frankle)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s5> <http://purl.org/dc/terms/title> "Beyond Chinchilla-Optimal: Accounting for Inference in Language Model Scaling Laws" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s5> <https://schema.org/url> "https://proceedings.mlr.press/v235/sardana24a.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s6> <http://purl.org/dc/terms/publisher> "NeurIPS 2023, oral (Schaeffer, Miranda, Koyejo)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s6> <http://purl.org/dc/terms/title> "Are Emergent Abilities of Large Language Models a Mirage?" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s6> <https://schema.org/url> "https://neurips.cc/virtual/2023/oral/73863" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/self-consistency/s1> <http://purl.org/dc/terms/publisher> "arXiv 2203.11171v4 (Wang, Wei, Schuurmans, Le, Chi, Narang, Chowdhery, Zhou)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/self-consistency/s1> <http://purl.org/dc/terms/title> "Self-Consistency Improves Chain of Thought Reasoning in Language Models" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/self-consistency/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

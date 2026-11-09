@@ -3219,6 +3219,95 @@
           "@id": "kt:rlhf"
         }
       ]
+    },
+    {
+      "@id": "kt:scaling-laws",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Scaling laws",
+      "skos:definition": "Empirical power-law relationships that predict how a neural network's loss falls as its parameter count, training data and training compute grow, used to forecast model quality and to split a fixed compute budget between model size and data.",
+      "kto:domain": "transformers-and-llms",
+      "dcterms:created": "2026-11-09",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Deep Learning Scaling is Predictable, Empirically",
+          "dcterms:publisher": "arXiv:1712.00409 (Hestness, Narang, Ardalani, Diamos, Jun, Kianinejad, Patwary, Yang, Zhou; Baidu Research), 2017",
+          "schema:url": "https://arxiv.org/abs/1712.00409v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Scaling Laws for Neural Language Models",
+          "dcterms:publisher": "arXiv:2001.08361 (Kaplan, McCandlish, Henighan, Brown, Chess, Child, Gray, Radford, Wu, Amodei; OpenAI), 2020",
+          "schema:url": "https://arxiv.org/pdf/2001.08361",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "An Empirical Analysis of Compute-Optimal Large Language Model Training",
+          "dcterms:publisher": "NeurIPS 2022 (Hoffmann, Borgeaud, Mensch et al.; DeepMind); also arXiv:2203.15556 as \"Training Compute-Optimal Large Language Models\"",
+          "schema:url": "https://mlanthology.org/neurips/2022/hoffmann2022neurips-empirical",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Chinchilla Scaling: A replication attempt",
+          "dcterms:publisher": "arXiv:2404.10102v2 (Besiroglu, Erdil, Barnett, You; Epoch AI), 2024",
+          "schema:url": "https://arxiv.org/html/2404.10102v2",
+          "kto:sourceType": "preprint"
+        },
+        {
+          "dcterms:title": "Beyond Chinchilla-Optimal: Accounting for Inference in Language Model Scaling Laws",
+          "dcterms:publisher": "Proceedings of the 41st ICML, PMLR 235:43445-43460, 2024 (Sardana, Portes, Doubov, Frankle)",
+          "schema:url": "https://proceedings.mlr.press/v235/sardana24a.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Are Emergent Abilities of Large Language Models a Mirage?",
+          "dcterms:publisher": "NeurIPS 2023, oral (Schaeffer, Miranda, Koyejo)",
+          "schema:url": "https://neurips.cc/virtual/2023/oral/73863",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/transformers-and-llms/scaling-laws.md",
+      "skos:altLabel": [
+        "neural scaling laws",
+        "LLM scaling laws",
+        "Kaplan scaling laws",
+        "Chinchilla scaling laws",
+        "compute-optimal scaling"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:deep-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:pretraining"
+        },
+        {
+          "@id": "kt:test-time-compute"
+        },
+        {
+          "@id": "kt:transformer-architecture"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:scaling-laws-for-neural-language-models"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:emergent-abilities"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:pretraining"
+        }
+      ]
     }
   ]
 }
