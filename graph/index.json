@@ -174,6 +174,29 @@
     ]
   },
   {
+    "id": "kt:algorithmic-bias-and-fairness",
+    "title": "Algorithmic bias and fairness",
+    "aliases": [
+      "algorithmic bias",
+      "AI bias",
+      "fairness in machine learning",
+      "ML fairness",
+      "algorithmic fairness"
+    ],
+    "type": "Risk",
+    "domain": "governance-and-policy",
+    "file": "articles/governance-and-policy/algorithmic-bias-and-fairness.md",
+    "created": "2026-11-09",
+    "maturity": "established",
+    "source_urls": [
+      "https://fairmlbook.org/classification.html",
+      "https://papers.nips.cc/paper/2016/file/9d2682367c3935defcb1f9e247a97c0d-Paper.pdf",
+      "https://drops.dagstuhl.de/opus/volltexte/2017/8156/pdf/LIPIcs-ITCS-2017-43.pdf",
+      "https://proceedings.mlr.press/v81/buolamwini18a.html",
+      "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.Sp.1270.pdf"
+    ]
+  },
+  {
     "id": "kt:artificial-neural-network",
     "title": "Artificial neural network",
     "aliases": [

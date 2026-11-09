@@ -7,13 +7,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:reinforcement-learning` | `kt:machine-learning`, `kt:test-time-compute`, `kt:actor-critic`, `kt:policy-gradient`, `kt:q-learning`, `kt:rlhf` |
 | `kt:model-serving` | `kt:hugging-face-transformers`, `kt:mlops`, `kt:quantization`, `kt:speculative-decoding`, `kt:speculative-decoding` |
 | `kt:retrieval-augmented-generation` | `kt:bm25`, `kt:embeddings`, `kt:embeddings`, `kt:semantic-search`, `kt:semantic-search` |
+| `kt:ai-governance` | `kt:ai-safety-institutes`, `kt:algorithmic-bias-and-fairness`, `kt:nist-ai-risk-management-framework`, `kt:ai-alignment` |
 | `kt:ensemble-methods` | `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:in-context-learning` | `kt:chain-of-thought`, `kt:jailbreak`, `kt:mechanistic-interpretability`, `kt:large-language-model` |
 | `kt:markov-decision-process` | `kt:actor-critic`, `kt:policy-gradient`, `kt:q-learning`, `kt:q-learning` |
 | `kt:perceptron` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:artificial-neural-network`, `kt:backpropagation` |
 | `kt:pretraining` | `kt:test-time-compute`, `kt:large-language-model`, `kt:scaling-laws`, `kt:scaling-laws` |
 | `kt:transformer-architecture` | `kt:hugging-face-transformers`, `kt:clip`, `kt:large-language-model`, `kt:scaling-laws` |
-| `kt:ai-governance` | `kt:ai-safety-institutes`, `kt:nist-ai-risk-management-framework`, `kt:ai-alignment` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:turing-test`, `kt:machine-learning` |
 | `kt:executive-orders-on-ai` | `kt:red-teaming`, `kt:ai-safety-institutes`, `kt:nist-ai-risk-management-framework` |
 | `kt:hybrid-search` | `kt:bm25`, `kt:bm25`, `kt:semantic-search` |
@@ -29,6 +29,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:benchmark-contamination` | `kt:ai-evaluation`, `kt:gsm8k` |
 | `kt:convolutional-neural-network` | `kt:artificial-neural-network`, `kt:deep-learning` |
 | `kt:distributed-training` | `kt:cuda`, `kt:mlops` |
+| `kt:eu-ai-act` | `kt:algorithmic-bias-and-fairness`, `kt:nist-ai-risk-management-framework` |
 | `kt:fine-tuning` | `kt:hugging-face-transformers`, `kt:rlhf` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:gradient-descent` | `kt:backpropagation`, `kt:deep-learning` |
@@ -57,6 +58,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:adversarial-machine-learning` | `kt:jailbreak` |
 | `kt:agent-memory` | `kt:ai-agent` |
 | `kt:agentic-systems` | `kt:agentic-workflow` |
+| `kt:ai-ethics` | `kt:algorithmic-bias-and-fairness` |
 | `kt:ai-risk-management` | `kt:nist-ai-risk-management-framework` |
 | `kt:ai-safety` | `kt:ai-alignment` |
 | `kt:ai-safety-summit` | `kt:ai-safety-institutes` |
@@ -87,8 +89,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:double-q-learning` | `kt:q-learning` |
 | `kt:eliza` | `kt:turing-test` |
 | `kt:emergent-abilities` | `kt:scaling-laws` |
-| `kt:eu-ai-act` | `kt:nist-ai-risk-management-framework` |
 | `kt:exploration-exploitation` | `kt:q-learning` |
+| `kt:facial-recognition` | `kt:algorithmic-bias-and-fairness` |
+| `kt:fairness-accountability-and-transparency` | `kt:algorithmic-bias-and-fairness` |
 | `kt:fast-inference-from-transformers-via-speculative-decoding` | `kt:speculative-decoding` |
 | `kt:feature-store` | `kt:mlops` |
 | `kt:few-shot-prompting` | `kt:chain-of-thought` |
@@ -123,6 +126,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:llmops` | `kt:mlops` |
 | `kt:minds-brains-and-programs` | `kt:chinese-room-argument` |
 | `kt:mlflow` | `kt:mlops` |
+| `kt:model-cards` | `kt:algorithmic-bias-and-fairness` |
 | `kt:model-compression-caruana-2006` | `kt:knowledge-distillation` |
 | `kt:model-context-protocol` | `kt:agent2agent-protocol` |
 | `kt:model-registry` | `kt:mlops` |

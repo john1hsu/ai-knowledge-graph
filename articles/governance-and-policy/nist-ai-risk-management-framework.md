@@ -10,7 +10,7 @@ summary: >-
   functions (Govern, Map, Measure, Manage) and a set of trustworthiness characteristics.
 maturity: established
 broader: [kt:ai-governance, kt:ai-risk-management]
-related: [kt:ai-evaluation, kt:red-teaming, kt:iso-iec-42001, kt:eu-ai-act, kt:executive-orders-on-ai]
+related: [kt:ai-evaluation, kt:red-teaming, kt:iso-iec-42001, kt:eu-ai-act, kt:executive-orders-on-ai, kt:algorithmic-bias-and-fairness]
 relations:
   - {predicate: createdBy, object: kt:nist}
   - {predicate: hasPart, object: kt:nist-generative-ai-profile}

@@ -1664,6 +1664,90 @@
       ]
     },
     {
+      "@id": "kt:algorithmic-bias-and-fairness",
+      "@type": "kto:Risk",
+      "skos:prefLabel": "Algorithmic bias and fairness",
+      "skos:definition": "Algorithmic bias is systematic, unjustified disparity in how an automated or machine-learning system treats or performs for different groups of people; algorithmic fairness is the study of formal criteria, measurements and interventions for detecting and reducing such disparities, together with the trade-offs between them.",
+      "kto:domain": "governance-and-policy",
+      "dcterms:created": "2026-11-09",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Fairness and Machine Learning: Limitations and Opportunities — Chapter 3, Classification",
+          "dcterms:publisher": "MIT Press, 2023 (Barocas, Hardt, Narayanan); online edition at fairmlbook.org",
+          "schema:url": "https://fairmlbook.org/classification.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Equality of Opportunity in Supervised Learning",
+          "dcterms:publisher": "NeurIPS 2016 (Hardt, Price, Srebro)",
+          "schema:url": "https://papers.nips.cc/paper/2016/file/9d2682367c3935defcb1f9e247a97c0d-Paper.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Inherent Trade-Offs in the Fair Determination of Risk Scores",
+          "dcterms:publisher": "ITCS 2017, LIPIcs vol. 67 (Kleinberg, Mullainathan, Raghavan)",
+          "schema:url": "https://drops.dagstuhl.de/opus/volltexte/2017/8156/pdf/LIPIcs-ITCS-2017-43.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification",
+          "dcterms:publisher": "Proceedings of the 1st Conference on Fairness, Accountability and Transparency, PMLR 81 (Buolamwini, Gebru), 2018",
+          "schema:url": "https://proceedings.mlr.press/v81/buolamwini18a.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Towards a Standard for Identifying and Managing Bias in Artificial Intelligence (NIST SP 1270)",
+          "dcterms:publisher": "National Institute of Standards and Technology (Schwartz et al.), March 2022",
+          "schema:url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.Sp.1270.pdf",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/governance-and-policy/algorithmic-bias-and-fairness.md",
+      "skos:altLabel": [
+        "algorithmic bias",
+        "AI bias",
+        "fairness in machine learning",
+        "ML fairness",
+        "algorithmic fairness"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-governance"
+        },
+        {
+          "@id": "kt:ai-ethics"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:nist-ai-risk-management-framework"
+        },
+        {
+          "@id": "kt:ai-evaluation"
+        },
+        {
+          "@id": "kt:model-cards"
+        },
+        {
+          "@id": "kt:facial-recognition"
+        },
+        {
+          "@id": "kt:bias-variance-tradeoff"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:eu-ai-act"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:fairness-accountability-and-transparency"
+        }
+      ]
+    },
+    {
       "@id": "kt:nist-ai-risk-management-framework",
       "@type": "kto:Policy",
       "skos:prefLabel": "NIST AI Risk Management Framework",
@@ -1739,6 +1823,9 @@
         },
         {
           "@id": "kt:executive-orders-on-ai"
+        },
+        {
+          "@id": "kt:algorithmic-bias-and-fairness"
         }
       ],
       "kto:createdBy": [

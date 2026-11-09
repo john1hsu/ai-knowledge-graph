@@ -191,6 +191,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/uk-ai-security-institute> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-summit> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Risk> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <http://www.w3.org/2000/01/rdf-schema#label> "Algorithmic bias and fairness" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <http://www.w3.org/2004/02/skos/core#altLabel> "AI bias" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <http://www.w3.org/2004/02/skos/core#altLabel> "ML fairness" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <http://www.w3.org/2004/02/skos/core#altLabel> "algorithmic bias" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <http://www.w3.org/2004/02/skos/core#altLabel> "algorithmic fairness" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <http://www.w3.org/2004/02/skos/core#altLabel> "fairness in machine learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-ethics> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <http://www.w3.org/2004/02/skos/core#definition> "Algorithmic bias is systematic, unjustified disparity in how an automated or machine-learning system treats or performs for different groups of people; algorithmic fairness is the study of formal criteria, measurements and interventions for detecting and reducing such disparities, together with the trade-offs between them." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <http://www.w3.org/2004/02/skos/core#prefLabel> "Algorithmic bias and fairness" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/facial-recognition> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "governance-and-policy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <https://github.com/john1hsu/ai-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://www.w3.org/2000/01/rdf-schema#label> "Artificial neural network" .
@@ -733,6 +759,7 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/2004/02/skos/core#definition> "A voluntary, sector-neutral framework published by the US National Institute of Standards and Technology in January 2023 that helps organizations identify, assess and manage the risks of AI systems through four core functions (Govern, Map, Measure, Manage) and a set of trustworthiness characteristics." .
 <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/2004/02/skos/core#prefLabel> "NIST AI Risk Management Framework" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/iso-iec-42001> .
@@ -1178,6 +1205,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s7> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s7> <https://schema.org/url> "https://www.gov.uk/government/news/efforts-to-share-best-practices-on-ai-measurement-and-evaluations-driven-forward-through-the-international-network-for-advanced-ai-measurement-evalua" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s1> <http://purl.org/dc/terms/publisher> "MIT Press, 2023 (Barocas, Hardt, Narayanan); online edition at fairmlbook.org" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s1> <http://purl.org/dc/terms/title> "Fairness and Machine Learning: Limitations and Opportunities — Chapter 3, Classification" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s1> <https://schema.org/url> "https://fairmlbook.org/classification.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s2> <http://purl.org/dc/terms/publisher> "NeurIPS 2016 (Hardt, Price, Srebro)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s2> <http://purl.org/dc/terms/title> "Equality of Opportunity in Supervised Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s2> <https://schema.org/url> "https://papers.nips.cc/paper/2016/file/9d2682367c3935defcb1f9e247a97c0d-Paper.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s3> <http://purl.org/dc/terms/publisher> "ITCS 2017, LIPIcs vol. 67 (Kleinberg, Mullainathan, Raghavan)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s3> <http://purl.org/dc/terms/title> "Inherent Trade-Offs in the Fair Determination of Risk Scores" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s3> <https://schema.org/url> "https://drops.dagstuhl.de/opus/volltexte/2017/8156/pdf/LIPIcs-ITCS-2017-43.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s4> <http://purl.org/dc/terms/publisher> "Proceedings of the 1st Conference on Fairness, Accountability and Transparency, PMLR 81 (Buolamwini, Gebru), 2018" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s4> <http://purl.org/dc/terms/title> "Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s4> <https://schema.org/url> "https://proceedings.mlr.press/v81/buolamwini18a.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s5> <http://purl.org/dc/terms/publisher> "National Institute of Standards and Technology (Schwartz et al.), March 2022" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s5> <http://purl.org/dc/terms/title> "Towards a Standard for Identifying and Managing Bias in Artificial Intelligence (NIST SP 1270)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s5> <https://schema.org/url> "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.Sp.1270.pdf" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s1> <http://purl.org/dc/terms/publisher> "The Bulletin of Mathematical Biophysics 5, 115–133 (1943) (McCulloch and Pitts)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s1> <http://purl.org/dc/terms/title> "A logical calculus of the ideas immanent in nervous activity" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
