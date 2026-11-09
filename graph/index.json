@@ -897,6 +897,28 @@
     ]
   },
   {
+    "id": "kt:prompt-sensitivity",
+    "title": "Prompt sensitivity",
+    "aliases": [
+      "prompt brittleness",
+      "prompt format sensitivity",
+      "prompt fragility",
+      "few-shot instability"
+    ],
+    "type": "Concept",
+    "domain": "prompting-and-reasoning",
+    "file": "articles/prompting-and-reasoning/prompt-sensitivity.md",
+    "created": "2026-11-09",
+    "maturity": "established",
+    "source_urls": [
+      "https://proceedings.mlr.press/v139/zhao21c.html",
+      "https://discovery.ucl.ac.uk/id/eprint/10154329/",
+      "https://arxiv.org/abs/2310.11324v2",
+      "https://iclr.cc/virtual/2024/poster/18650",
+      "https://aclanthology.org/2024.tacl-1.52"
+    ]
+  },
+  {
     "id": "kt:q-learning",
     "title": "Q-learning",
     "aliases": [

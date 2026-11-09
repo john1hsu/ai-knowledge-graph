@@ -5,12 +5,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:markov-decision-process` | `kt:hidden-markov-model`, `kt:actor-critic`, `kt:policy-gradient`, `kt:q-learning`, `kt:q-learning`, `kt:reinforcement-learning`, `kt:reinforcement-learning` |
+| `kt:in-context-learning` | `kt:chain-of-thought`, `kt:prompt-sensitivity`, `kt:jailbreak`, `kt:mechanistic-interpretability`, `kt:emergent-abilities`, `kt:large-language-model` |
 | `kt:model-serving` | `kt:hugging-face-transformers`, `kt:mlops`, `kt:batching-and-paged-attention`, `kt:quantization`, `kt:speculative-decoding`, `kt:speculative-decoding` |
 | `kt:retrieval-augmented-generation` | `kt:beir`, `kt:bm25`, `kt:embeddings`, `kt:embeddings`, `kt:semantic-search`, `kt:semantic-search` |
 | `kt:ai-governance` | `kt:ai-safety-institutes`, `kt:algorithmic-bias-and-fairness`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda`, `kt:ai-alignment` |
 | `kt:ensemble-methods` | `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:executive-orders-on-ai` | `kt:red-teaming`, `kt:ai-safety-institutes`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda`, `kt:omb-ai-memoranda` |
-| `kt:in-context-learning` | `kt:chain-of-thought`, `kt:jailbreak`, `kt:mechanistic-interpretability`, `kt:emergent-abilities`, `kt:large-language-model` |
 | `kt:pretraining` | `kt:test-time-compute`, `kt:emergent-abilities`, `kt:large-language-model`, `kt:scaling-laws`, `kt:scaling-laws` |
 | `kt:transformer-architecture` | `kt:hugging-face-transformers`, `kt:automatic-speech-recognition`, `kt:clip`, `kt:large-language-model`, `kt:scaling-laws` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:dartmouth-workshop`, `kt:turing-test`, `kt:machine-learning` |
@@ -26,6 +26,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:geoffrey-hinton` | `kt:dropout`, `kt:dropout`, `kt:knowledge-distillation` |
 | `kt:hybrid-search` | `kt:bm25`, `kt:bm25`, `kt:semantic-search` |
 | `kt:model-pruning` | `kt:quantization`, `kt:quantization`, `kt:knowledge-distillation` |
+| `kt:prompt-engineering` | `kt:chain-of-thought`, `kt:prompt-sensitivity`, `kt:self-consistency` |
 | `kt:prompt-injection` | `kt:agent2agent-protocol`, `kt:red-teaming`, `kt:jailbreak` |
 | `kt:pytorch` | `kt:hugging-face-transformers`, `kt:backpropagation`, `kt:dropout` |
 | `kt:reasoning-models` | `kt:chain-of-thought`, `kt:test-time-compute`, `kt:test-time-compute` |
@@ -46,6 +47,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:convolutional-neural-network` | `kt:artificial-neural-network`, `kt:deep-learning` |
 | `kt:deep-q-network` | `kt:q-learning`, `kt:reinforcement-learning` |
 | `kt:exploration-exploitation` | `kt:q-learning`, `kt:reinforcement-learning` |
+| `kt:few-shot-prompting` | `kt:chain-of-thought`, `kt:prompt-sensitivity` |
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
 | `kt:google` | `kt:agent2agent-protocol`, `kt:tpu` |
 | `kt:gpu-computing` | `kt:cuda`, `kt:tpu` |
@@ -59,7 +61,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:openai` | `kt:clip`, `kt:gsm8k` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:probabilistic-relevance-framework` | `kt:bm25`, `kt:bm25` |
-| `kt:prompt-engineering` | `kt:chain-of-thought`, `kt:self-consistency` |
 | `kt:proximal-policy-optimization` | `kt:policy-gradient`, `kt:rlhf` |
 | `kt:react-prompting` | `kt:ai-agent`, `kt:chain-of-thought` |
 | `kt:statistical-learning-theory` | `kt:bias-variance-tradeoff`, `kt:double-descent` |
@@ -90,6 +91,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:concrete-problems-in-ai-safety` | `kt:scalable-oversight` |
 | `kt:conditional-random-field` | `kt:hidden-markov-model` |
 | `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
+| `kt:contextual-calibration` | `kt:prompt-sensitivity` |
 | `kt:contrastive-learning` | `kt:clip` |
 | `kt:cross-validation` | `kt:bias-variance-tradeoff` |
 | `kt:cudnn` | `kt:cuda` |
@@ -112,7 +114,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fairness-accountability-and-transparency` | `kt:algorithmic-bias-and-fairness` |
 | `kt:fast-inference-from-transformers-via-speculative-decoding` | `kt:speculative-decoding` |
 | `kt:feature-store` | `kt:mlops` |
-| `kt:few-shot-prompting` | `kt:chain-of-thought` |
 | `kt:foundation-model` | `kt:large-language-model` |
 | `kt:generative-adversarial-nets` | `kt:generative-adversarial-network` |
 | `kt:hallucination` | `kt:mechanistic-interpretability` |

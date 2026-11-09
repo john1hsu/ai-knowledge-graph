@@ -1031,6 +1031,29 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient-methods-for-reinforcement-learning-with-function-approximation> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <http://www.w3.org/2000/01/rdf-schema#label> "Prompt sensitivity" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <http://www.w3.org/2004/02/skos/core#altLabel> "few-shot instability" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <http://www.w3.org/2004/02/skos/core#altLabel> "prompt brittleness" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <http://www.w3.org/2004/02/skos/core#altLabel> "prompt format sensitivity" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <http://www.w3.org/2004/02/skos/core#altLabel> "prompt fragility" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <http://www.w3.org/2004/02/skos/core#definition> "The tendency of language models to give substantially different outputs and accuracy when a prompt is changed in ways that should not matter, such as its formatting, instruction wording, choice of demonstrations, or the order of those demonstrations." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <http://www.w3.org/2004/02/skos/core#prefLabel> "Prompt sensitivity" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/contextual-calibration> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "prompting-and-reasoning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <http://www.w3.org/2000/01/rdf-schema#label> "Q-learning" .
@@ -2439,6 +2462,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s6> <https://schema.org/url> "https://arxiv.org/abs/1707.06347" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s1> <http://purl.org/dc/terms/publisher> "ICML 2021, PMLR vol. 139, pp. 12697-12706 (Zhao, Wallace, Feng, Klein, Singh)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s1> <http://purl.org/dc/terms/title> "Calibrate Before Use: Improving Few-shot Performance of Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s1> <https://schema.org/url> "https://proceedings.mlr.press/v139/zhao21c.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s2> <http://purl.org/dc/terms/publisher> "ACL 2022, pp. 8086-8098 (Lu, Bartolo, Moore, Riedel, Stenetorp), via UCL Discovery" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s2> <http://purl.org/dc/terms/title> "Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s2> <https://schema.org/url> "https://discovery.ucl.ac.uk/id/eprint/10154329/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s3> <http://purl.org/dc/terms/publisher> "arXiv 2310.11324v2 (Sclar, Choi, Tsvetkov, Suhr)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s3> <http://purl.org/dc/terms/title> "Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s3> <https://schema.org/url> "https://arxiv.org/abs/2310.11324v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s4> <http://purl.org/dc/terms/publisher> "ICLR 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s4> <http://purl.org/dc/terms/title> "Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design (ICLR 2024 poster)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s4> <https://schema.org/url> "https://iclr.cc/virtual/2024/poster/18650" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s5> <http://purl.org/dc/terms/publisher> "TACL vol. 12, pp. 933-949, 2024 (Mizrahi, Kaplan, Malkin, Dror, Shahaf, Stanovsky)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s5> <http://purl.org/dc/terms/title> "State of What Art? A Call for Multi-Prompt LLM Evaluation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s5> <https://schema.org/url> "https://aclanthology.org/2024.tacl-1.52" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s1> <http://purl.org/dc/terms/publisher> "Machine Learning 8:279-292, 1992 (Watkins and Dayan), via ML Anthology" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s1> <http://purl.org/dc/terms/title> "Technical Note: Q-Learning" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

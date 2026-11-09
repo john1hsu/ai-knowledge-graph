@@ -3280,6 +3280,81 @@
       ]
     },
     {
+      "@id": "kt:prompt-sensitivity",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Prompt sensitivity",
+      "skos:definition": "The tendency of language models to give substantially different outputs and accuracy when a prompt is changed in ways that should not matter, such as its formatting, instruction wording, choice of demonstrations, or the order of those demonstrations.",
+      "kto:domain": "prompting-and-reasoning",
+      "dcterms:created": "2026-11-09",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Calibrate Before Use: Improving Few-shot Performance of Language Models",
+          "dcterms:publisher": "ICML 2021, PMLR vol. 139, pp. 12697-12706 (Zhao, Wallace, Feng, Klein, Singh)",
+          "schema:url": "https://proceedings.mlr.press/v139/zhao21c.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity",
+          "dcterms:publisher": "ACL 2022, pp. 8086-8098 (Lu, Bartolo, Moore, Riedel, Stenetorp), via UCL Discovery",
+          "schema:url": "https://discovery.ucl.ac.uk/id/eprint/10154329/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design",
+          "dcterms:publisher": "arXiv 2310.11324v2 (Sclar, Choi, Tsvetkov, Suhr)",
+          "schema:url": "https://arxiv.org/abs/2310.11324v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design (ICLR 2024 poster)",
+          "dcterms:publisher": "ICLR 2024",
+          "schema:url": "https://iclr.cc/virtual/2024/poster/18650",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "State of What Art? A Call for Multi-Prompt LLM Evaluation",
+          "dcterms:publisher": "TACL vol. 12, pp. 933-949, 2024 (Mizrahi, Kaplan, Malkin, Dror, Shahaf, Stanovsky)",
+          "schema:url": "https://aclanthology.org/2024.tacl-1.52",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/prompting-and-reasoning/prompt-sensitivity.md",
+      "skos:altLabel": [
+        "prompt brittleness",
+        "prompt format sensitivity",
+        "prompt fragility",
+        "few-shot instability"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:prompt-engineering"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:few-shot-prompting"
+        },
+        {
+          "@id": "kt:in-context-learning"
+        },
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:self-consistency"
+        },
+        {
+          "@id": "kt:contextual-calibration"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:ai-evaluation"
+        }
+      ]
+    },
+    {
       "@id": "kt:self-consistency",
       "@type": "kto:Technique",
       "skos:prefLabel": "Self-consistency",
