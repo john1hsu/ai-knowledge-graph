@@ -3587,6 +3587,112 @@
       ]
     },
     {
+      "@id": "kt:qlora",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "QLoRA",
+      "skos:definition": "A memory-efficient fine-tuning method that freezes a pretrained language model in 4-bit precision and trains only small low-rank adapter (LoRA) weights by backpropagating through the quantized model, so that models with tens of billions of parameters can be fine-tuned on a single GPU.",
+      "kto:domain": "training-and-adaptation",
+      "dcterms:created": "2026-11-09",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "QLoRA: Efficient Finetuning of Quantized LLMs",
+          "dcterms:publisher": "NeurIPS 2023, Advances in Neural Information Processing Systems 36 (Dettmers, Pagnoni, Holtzman and Zettlemoyer)",
+          "schema:url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/1feb87871436031bdc0f2beaa62a049b-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "QLoRA: Efficient Finetuning of Quantized LLMs (full text)",
+          "dcterms:publisher": "arXiv 2305.14314, University of Washington (Dettmers, Pagnoni, Holtzman and Zettlemoyer)",
+          "schema:url": "https://arxiv.org/pdf/2305.14314",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "LoRA: Low-Rank Adaptation of Large Language Models",
+          "dcterms:publisher": "arXiv 2106.09685, Microsoft; ICLR 2022 (Hu, Shen, Wallis, Allen-Zhu, Li, Wang and Chen)",
+          "schema:url": "https://arxiv.org/html/2106.09685v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Bitsandbytes (quantization guide)",
+          "dcterms:publisher": "Hugging Face Transformers documentation, v5.13.0",
+          "schema:url": "https://huggingface.co/docs/transformers/v5.13.0/quantization/bitsandbytes",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Quantization (PEFT developer guide)",
+          "dcterms:publisher": "Hugging Face PEFT documentation, v0.7.1",
+          "schema:url": "https://huggingface.co/docs/peft/v0.7.1/developer_guides/quantization",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "LoftQ: LoRA-Fine-Tuning-aware Quantization for Large Language Models",
+          "dcterms:publisher": "ICLR 2024 (Li, Yu, Liang, Karampatziakis, He, Chen and Zhao)",
+          "schema:url": "https://proceedings.iclr.cc/paper_files/paper/2024/hash/39ec972afab01e0d8ddc6834a9d12ac1-Abstract-Conference.html",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/training-and-adaptation/qlora.md",
+      "skos:altLabel": [
+        "quantized low-rank adaptation",
+        "quantized LoRA",
+        "4-bit LoRA fine-tuning"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:parameter-efficient-fine-tuning"
+        },
+        {
+          "@id": "kt:fine-tuning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:quantization"
+        },
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:llm-as-a-judge"
+        },
+        {
+          "@id": "kt:loftq"
+        },
+        {
+          "@id": "kt:instruction-tuning"
+        }
+      ],
+      "kto:extends": [
+        {
+          "@id": "kt:lora"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:quantization"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:qlora-efficient-finetuning-of-quantized-llms"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:tim-dettmers"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:hugging-face-transformers"
+        },
+        {
+          "@id": "kt:hugging-face-peft"
+        }
+      ]
+    },
+    {
       "@id": "kt:rlhf",
       "@type": "kto:Technique",
       "skos:prefLabel": "Reinforcement learning from human feedback",

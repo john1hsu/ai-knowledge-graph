@@ -766,6 +766,28 @@
     ]
   },
   {
+    "id": "kt:qlora",
+    "title": "QLoRA",
+    "aliases": [
+      "quantized low-rank adaptation",
+      "quantized LoRA",
+      "4-bit LoRA fine-tuning"
+    ],
+    "type": "Technique",
+    "domain": "training-and-adaptation",
+    "file": "articles/training-and-adaptation/qlora.md",
+    "created": "2026-11-09",
+    "maturity": "established",
+    "source_urls": [
+      "https://proceedings.neurips.cc/paper_files/paper/2023/hash/1feb87871436031bdc0f2beaa62a049b-Abstract.html",
+      "https://arxiv.org/pdf/2305.14314",
+      "https://arxiv.org/html/2106.09685v1",
+      "https://huggingface.co/docs/transformers/v5.13.0/quantization/bitsandbytes",
+      "https://huggingface.co/docs/peft/v0.7.1/developer_guides/quantization",
+      "https://proceedings.iclr.cc/paper_files/paper/2024/hash/39ec972afab01e0d8ddc6834a9d12ac1-Abstract-Conference.html"
+    ]
+  },
+  {
     "id": "kt:quantization",
     "title": "Quantization",
     "aliases": [

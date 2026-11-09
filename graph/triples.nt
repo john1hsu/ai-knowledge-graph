@@ -880,6 +880,35 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/double-q-learning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/qlora> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/qlora> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/qlora> <http://www.w3.org/2000/01/rdf-schema#label> "QLoRA" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/qlora> <http://www.w3.org/2004/02/skos/core#altLabel> "4-bit LoRA fine-tuning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/qlora> <http://www.w3.org/2004/02/skos/core#altLabel> "quantized LoRA" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/qlora> <http://www.w3.org/2004/02/skos/core#altLabel> "quantized low-rank adaptation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/qlora> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/qlora> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/qlora> <http://www.w3.org/2004/02/skos/core#definition> "A memory-efficient fine-tuning method that freezes a pretrained language model in 4-bit precision and trains only small low-rank adapter (LoRA) weights by backpropagating through the quantized model, so that models with tens of billions of parameters can be fine-tuned on a single GPU." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/qlora> <http://www.w3.org/2004/02/skos/core#prefLabel> "QLoRA" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/qlora> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/qlora> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/qlora> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/qlora> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/loftq> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/qlora> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/qlora> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/qlora> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/qlora> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/qlora> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/qlora> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/qlora> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/qlora> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/qlora> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/tim-dettmers> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/qlora> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "training-and-adaptation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/qlora> <https://github.com/john1hsu/ai-knowledge-graph/ontology#extends> <https://github.com/john1hsu/ai-knowledge-graph/id/lora> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/qlora> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-peft> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/qlora> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/qlora> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/qlora-efficient-finetuning-of-quantized-llms> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/qlora> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://www.w3.org/2000/01/rdf-schema#label> "Quantization" .
@@ -1991,6 +2020,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s5> <https://schema.org/url> "https://arxiv.org/pdf/1509.06461" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 2023, Advances in Neural Information Processing Systems 36 (Dettmers, Pagnoni, Holtzman and Zettlemoyer)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s1> <http://purl.org/dc/terms/title> "QLoRA: Efficient Finetuning of Quantized LLMs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s1> <https://schema.org/url> "https://proceedings.neurips.cc/paper_files/paper/2023/hash/1feb87871436031bdc0f2beaa62a049b-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s2> <http://purl.org/dc/terms/publisher> "arXiv 2305.14314, University of Washington (Dettmers, Pagnoni, Holtzman and Zettlemoyer)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s2> <http://purl.org/dc/terms/title> "QLoRA: Efficient Finetuning of Quantized LLMs (full text)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s2> <https://schema.org/url> "https://arxiv.org/pdf/2305.14314" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s3> <http://purl.org/dc/terms/publisher> "arXiv 2106.09685, Microsoft; ICLR 2022 (Hu, Shen, Wallis, Allen-Zhu, Li, Wang and Chen)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s3> <http://purl.org/dc/terms/title> "LoRA: Low-Rank Adaptation of Large Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s3> <https://schema.org/url> "https://arxiv.org/html/2106.09685v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s4> <http://purl.org/dc/terms/publisher> "Hugging Face Transformers documentation, v5.13.0" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s4> <http://purl.org/dc/terms/title> "Bitsandbytes (quantization guide)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s4> <https://schema.org/url> "https://huggingface.co/docs/transformers/v5.13.0/quantization/bitsandbytes" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s5> <http://purl.org/dc/terms/publisher> "Hugging Face PEFT documentation, v0.7.1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s5> <http://purl.org/dc/terms/title> "Quantization (PEFT developer guide)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s5> <https://schema.org/url> "https://huggingface.co/docs/peft/v0.7.1/developer_guides/quantization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s6> <http://purl.org/dc/terms/publisher> "ICLR 2024 (Li, Yu, Liang, Karampatziakis, He, Chen and Zhao)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s6> <http://purl.org/dc/terms/title> "LoftQ: LoRA-Fine-Tuning-aware Quantization for Large Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/qlora/s6> <https://schema.org/url> "https://proceedings.iclr.cc/paper_files/paper/2024/hash/39ec972afab01e0d8ddc6834a9d12ac1-Abstract-Conference.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s1> <http://purl.org/dc/terms/publisher> "CVPR 2018 (Jacob, Kligys, Chen, Zhu, Tang, Howard, Adam and Kalenichenko), authors' arXiv version 1712.05877" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s1> <http://purl.org/dc/terms/title> "Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
