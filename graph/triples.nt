@@ -1164,6 +1164,33 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-reinforcement-learning-from-human-preferences> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <http://www.w3.org/2000/01/rdf-schema#label> "Sampling temperature and top-p" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <http://www.w3.org/2004/02/skos/core#altLabel> "decoding sampling parameters" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <http://www.w3.org/2004/02/skos/core#altLabel> "nucleus sampling" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <http://www.w3.org/2004/02/skos/core#altLabel> "temperature sampling" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <http://www.w3.org/2004/02/skos/core#altLabel> "top-k sampling" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <http://www.w3.org/2004/02/skos/core#altLabel> "top-p sampling" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <http://www.w3.org/2004/02/skos/core#definition> "Decoding controls for language models that reshape or truncate the next-token probability distribution before a token is drawn: temperature rescales the logits to make sampling more or less random, while top-p (nucleus) and top-k sampling restrict the draw to the most probable tokens." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sampling temperature and top-p" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/min-p-sampling> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/speculative-decoding> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/beam-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "inference-and-optimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/the-curious-case-of-neural-text-degeneration> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <http://www.w3.org/2000/01/rdf-schema#label> "Scaling laws" .
@@ -2491,6 +2518,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s6> <https://schema.org/url> "https://huggingface.co/docs/trl/v0.12.0/en/index" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s1> <http://purl.org/dc/terms/publisher> "ICLR 2020 (Holtzman, Buys, Du, Forbes, Choi); arXiv:1904.09751v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s1> <http://purl.org/dc/terms/title> "The Curious Case of Neural Text Degeneration" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s1> <https://schema.org/url> "https://arxiv.org/pdf/1904.09751" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s2> <http://purl.org/dc/terms/publisher> "ICLR 2025 (Nguyen, Baker, Neo, Roush, Kirsch, Shwartz-Ziv)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s2> <http://purl.org/dc/terms/title> "Turning Up the Heat: Min-p Sampling for Creative and Coherent LLM Outputs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s2> <https://schema.org/url> "https://proceedings.iclr.cc/paper_files/paper/2025/hash/afa5f124e36bed5cc2125067005d43f5-Abstract-Conference.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s3> <http://purl.org/dc/terms/publisher> "Hugging Face Transformers documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s3> <http://purl.org/dc/terms/title> "Generation strategies" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s3> <https://schema.org/url> "https://huggingface.co/docs/transformers/en/generation_strategies" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s4> <http://purl.org/dc/terms/publisher> "Hugging Face Transformers documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s4> <http://purl.org/dc/terms/title> "Generation (GenerationConfig reference), Transformers v5.13.0" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s4> <https://schema.org/url> "https://huggingface.co/docs/transformers/v5.13.0/main_classes/text_generation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s5> <http://purl.org/dc/terms/publisher> "Anthropic, Claude Platform documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s5> <http://purl.org/dc/terms/title> "Claude Opus 5.5 migration guide" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s5> <https://schema.org/url> "https://platform.claude.com/docs/en/models/opus-5-5/migration-guide" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s1> <http://purl.org/dc/terms/publisher> "arXiv:1712.00409 (Hestness, Narang, Ardalani, Diamos, Jun, Kianinejad, Patwary, Yang, Zhou; Baidu Research), 2017" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s1> <http://purl.org/dc/terms/title> "Deep Learning Scaling is Predictable, Empirically" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

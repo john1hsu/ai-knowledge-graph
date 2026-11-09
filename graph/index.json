@@ -1003,6 +1003,29 @@
     ]
   },
   {
+    "id": "kt:sampling-temperature-and-top-p",
+    "title": "Sampling temperature and top-p",
+    "aliases": [
+      "nucleus sampling",
+      "top-p sampling",
+      "temperature sampling",
+      "top-k sampling",
+      "decoding sampling parameters"
+    ],
+    "type": "Technique",
+    "domain": "inference-and-optimization",
+    "file": "articles/inference-and-optimization/sampling-temperature-and-top-p.md",
+    "created": "2026-11-09",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/pdf/1904.09751",
+      "https://proceedings.iclr.cc/paper_files/paper/2025/hash/afa5f124e36bed5cc2125067005d43f5-Abstract-Conference.html",
+      "https://huggingface.co/docs/transformers/en/generation_strategies",
+      "https://huggingface.co/docs/transformers/v5.13.0/main_classes/text_generation",
+      "https://platform.claude.com/docs/en/models/opus-5-5/migration-guide"
+    ]
+  },
+  {
     "id": "kt:scaling-laws",
     "title": "Scaling laws",
     "aliases": [

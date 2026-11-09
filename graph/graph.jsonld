@@ -2558,6 +2558,97 @@
       ]
     },
     {
+      "@id": "kt:sampling-temperature-and-top-p",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Sampling temperature and top-p",
+      "skos:definition": "Decoding controls for language models that reshape or truncate the next-token probability distribution before a token is drawn: temperature rescales the logits to make sampling more or less random, while top-p (nucleus) and top-k sampling restrict the draw to the most probable tokens.",
+      "kto:domain": "inference-and-optimization",
+      "dcterms:created": "2026-11-09",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Curious Case of Neural Text Degeneration",
+          "dcterms:publisher": "ICLR 2020 (Holtzman, Buys, Du, Forbes, Choi); arXiv:1904.09751v2",
+          "schema:url": "https://arxiv.org/pdf/1904.09751",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Turning Up the Heat: Min-p Sampling for Creative and Coherent LLM Outputs",
+          "dcterms:publisher": "ICLR 2025 (Nguyen, Baker, Neo, Roush, Kirsch, Shwartz-Ziv)",
+          "schema:url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/afa5f124e36bed5cc2125067005d43f5-Abstract-Conference.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Generation strategies",
+          "dcterms:publisher": "Hugging Face Transformers documentation",
+          "schema:url": "https://huggingface.co/docs/transformers/en/generation_strategies",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Generation (GenerationConfig reference), Transformers v5.13.0",
+          "dcterms:publisher": "Hugging Face Transformers documentation",
+          "schema:url": "https://huggingface.co/docs/transformers/v5.13.0/main_classes/text_generation",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Claude Opus 5.5 migration guide",
+          "dcterms:publisher": "Anthropic, Claude Platform documentation",
+          "schema:url": "https://platform.claude.com/docs/en/models/opus-5-5/migration-guide",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/inference-and-optimization/sampling-temperature-and-top-p.md",
+      "skos:altLabel": [
+        "nucleus sampling",
+        "top-p sampling",
+        "temperature sampling",
+        "top-k sampling",
+        "decoding sampling parameters"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:self-consistency"
+        },
+        {
+          "@id": "kt:speculative-decoding"
+        },
+        {
+          "@id": "kt:knowledge-distillation"
+        },
+        {
+          "@id": "kt:hugging-face-transformers"
+        },
+        {
+          "@id": "kt:min-p-sampling"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:the-curious-case-of-neural-text-degeneration"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:beam-search"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:hugging-face-transformers"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:self-consistency"
+        }
+      ]
+    },
+    {
       "@id": "kt:speculative-decoding",
       "@type": "kto:Technique",
       "skos:prefLabel": "Speculative decoding",
