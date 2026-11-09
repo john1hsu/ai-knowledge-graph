@@ -1030,6 +1030,78 @@
       ]
     },
     {
+      "@id": "kt:automatic-speech-recognition",
+      "@type": "kto:Application",
+      "skos:prefLabel": "Automatic speech recognition",
+      "skos:definition": "The task of mapping an audio waveform of spoken language to the sequence of words it contains, now done mostly by end-to-end neural models (CTC, RNN-Transducer and attention-based encoder-decoders) and scored by word error rate.",
+      "kto:domain": "computer-vision-and-multimodal",
+      "dcterms:created": "2026-11-09",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Speech and Language Processing (3rd ed. draft), Chapter 16: Automatic Speech Recognition",
+          "dcterms:publisher": "Daniel Jurafsky and James H. Martin, Stanford University (draft of August 2026)",
+          "schema:url": "https://web.stanford.edu/~jurafsky/slp3/16.pdf",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Deep Neural Networks for Acoustic Modeling in Speech Recognition",
+          "dcterms:publisher": "Hinton, Deng, Yu, Dahl, Mohamed, Jaitly, Senior, Vanhoucke, Nguyen, Sainath and Kingsbury, IEEE Signal Processing Magazine, 2012 (Google Research publication page)",
+          "schema:url": "https://research.google/pubs/deep-neural-networks-for-acoustic-modeling-in-speech-recognition/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks",
+          "dcterms:publisher": "Graves, Fernández, Gomez and Schmidhuber, ICML 2006, pp. 369–376 (doi:10.1145/1143844.1143891)",
+          "schema:url": "https://mlanthology.org/icml/2006/graves2006icml-connectionist",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Robust Speech Recognition via Large-Scale Weak Supervision",
+          "dcterms:publisher": "Radford, Kim, Xu, Brockman, McLeavey and Sutskever, Proceedings of ICML 2023 (PMLR 202), pp. 28492–28518",
+          "schema:url": "https://proceedings.mlr.press/v202/radford23a.html",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/computer-vision-and-multimodal/automatic-speech-recognition.md",
+      "skos:altLabel": [
+        "ASR",
+        "speech recognition",
+        "speech-to-text",
+        "STT"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:speech-processing"
+        },
+        {
+          "@id": "kt:sequence-to-sequence-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:hidden-markov-model"
+        },
+        {
+          "@id": "kt:recurrent-neural-network"
+        },
+        {
+          "@id": "kt:transformer-architecture"
+        },
+        {
+          "@id": "kt:whisper"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:librispeech"
+        },
+        {
+          "@id": "kt:switchboard-corpus"
+        }
+      ]
+    },
+    {
       "@id": "kt:clip",
       "@type": "kto:Model",
       "skos:prefLabel": "CLIP",

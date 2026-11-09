@@ -220,6 +220,27 @@
     ]
   },
   {
+    "id": "kt:automatic-speech-recognition",
+    "title": "Automatic speech recognition",
+    "aliases": [
+      "ASR",
+      "speech recognition",
+      "speech-to-text",
+      "STT"
+    ],
+    "type": "Application",
+    "domain": "computer-vision-and-multimodal",
+    "file": "articles/computer-vision-and-multimodal/automatic-speech-recognition.md",
+    "created": "2026-11-09",
+    "maturity": "established",
+    "source_urls": [
+      "https://web.stanford.edu/~jurafsky/slp3/16.pdf",
+      "https://research.google/pubs/deep-neural-networks-for-acoustic-modeling-in-speech-recognition/",
+      "https://mlanthology.org/icml/2006/graves2006icml-connectionist",
+      "https://proceedings.mlr.press/v202/radford23a.html"
+    ]
+  },
+  {
     "id": "kt:backpropagation",
     "title": "Backpropagation algorithm",
     "aliases": [

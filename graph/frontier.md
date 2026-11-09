@@ -9,13 +9,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:retrieval-augmented-generation` | `kt:beir`, `kt:bm25`, `kt:embeddings`, `kt:embeddings`, `kt:semantic-search`, `kt:semantic-search` |
 | `kt:in-context-learning` | `kt:chain-of-thought`, `kt:jailbreak`, `kt:mechanistic-interpretability`, `kt:emergent-abilities`, `kt:large-language-model` |
 | `kt:pretraining` | `kt:test-time-compute`, `kt:emergent-abilities`, `kt:large-language-model`, `kt:scaling-laws`, `kt:scaling-laws` |
+| `kt:transformer-architecture` | `kt:hugging-face-transformers`, `kt:automatic-speech-recognition`, `kt:clip`, `kt:large-language-model`, `kt:scaling-laws` |
 | `kt:ai-governance` | `kt:ai-safety-institutes`, `kt:algorithmic-bias-and-fairness`, `kt:nist-ai-risk-management-framework`, `kt:ai-alignment` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:dartmouth-workshop`, `kt:turing-test`, `kt:machine-learning` |
 | `kt:ensemble-methods` | `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:information-retrieval` | `kt:beir`, `kt:bm25`, `kt:semantic-search`, `kt:tf-idf` |
 | `kt:multi-agent-systems` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:langgraph` |
 | `kt:perceptron` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:artificial-neural-network`, `kt:backpropagation` |
-| `kt:transformer-architecture` | `kt:hugging-face-transformers`, `kt:clip`, `kt:large-language-model`, `kt:scaling-laws` |
 | `kt:distributed-training` | `kt:cuda`, `kt:mlops`, `kt:tpu` |
 | `kt:executive-orders-on-ai` | `kt:red-teaming`, `kt:ai-safety-institutes`, `kt:nist-ai-risk-management-framework` |
 | `kt:fine-tuning` | `kt:hugging-face-transformers`, `kt:qlora`, `kt:rlhf` |
@@ -56,6 +56,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:proximal-policy-optimization` | `kt:policy-gradient`, `kt:rlhf` |
 | `kt:pytorch` | `kt:hugging-face-transformers`, `kt:backpropagation` |
 | `kt:react-prompting` | `kt:ai-agent`, `kt:chain-of-thought` |
+| `kt:recurrent-neural-network` | `kt:automatic-speech-recognition`, `kt:deep-learning` |
 | `kt:regularization` | `kt:bias-variance-tradeoff`, `kt:double-descent` |
 | `kt:reward-hacking` | `kt:ai-alignment`, `kt:rlhf` |
 | `kt:statistical-learning-theory` | `kt:bias-variance-tradeoff`, `kt:double-descent` |
@@ -109,6 +110,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:generative-adversarial-nets` | `kt:generative-adversarial-network` |
 | `kt:geoffrey-hinton` | `kt:knowledge-distillation` |
 | `kt:hallucination` | `kt:mechanistic-interpretability` |
+| `kt:hidden-markov-model` | `kt:automatic-speech-recognition` |
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
 | `kt:hugging-face` | `kt:hugging-face-transformers` |
 | `kt:hugging-face-diffusers` | `kt:diffusion-model` |
@@ -131,6 +133,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:latent-semantic-analysis` | `kt:semantic-search` |
 | `kt:learning-representations-by-back-propagating-errors` | `kt:backpropagation` |
 | `kt:learning-transferable-visual-models-from-natural-language-supervision` | `kt:clip` |
+| `kt:librispeech` | `kt:automatic-speech-recognition` |
 | `kt:llmops` | `kt:mlops` |
 | `kt:loftq` | `kt:qlora` |
 | `kt:logic-theorist` | `kt:dartmouth-workshop` |
@@ -156,7 +159,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:process-reward-model` | `kt:test-time-compute` |
 | `kt:qlora-efficient-finetuning-of-quantized-llms` | `kt:qlora` |
 | `kt:reconciling-modern-machine-learning-practice-and-the-bias-variance-trade-off` | `kt:double-descent` |
-| `kt:recurrent-neural-network` | `kt:deep-learning` |
 | `kt:reinforce-algorithm` | `kt:policy-gradient` |
 | `kt:sampling-temperature-and-top-p` | `kt:self-consistency` |
 | `kt:sarsa` | `kt:q-learning` |
@@ -166,10 +168,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:score-matching` | `kt:diffusion-model` |
 | `kt:self-consistency-improves-chain-of-thought-reasoning-in-language-models` | `kt:self-consistency` |
 | `kt:self-refine` | `kt:agentic-workflow` |
+| `kt:sequence-to-sequence-learning` | `kt:automatic-speech-recognition` |
 | `kt:soft-actor-critic` | `kt:actor-critic` |
 | `kt:sparse-autoencoder` | `kt:mechanistic-interpretability` |
+| `kt:speech-processing` | `kt:automatic-speech-recognition` |
 | `kt:strong-ai` | `kt:chinese-room-argument` |
 | `kt:stylegan` | `kt:generative-adversarial-network` |
+| `kt:switchboard-corpus` | `kt:automatic-speech-recognition` |
 | `kt:symbol-grounding-problem` | `kt:chinese-room-argument` |
 | `kt:symbolic-ai` | `kt:dartmouth-workshop` |
 | `kt:synthetic-data` | `kt:knowledge-distillation` |
@@ -190,5 +195,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:walter-pitts` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:warren-mcculloch` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:wasserstein-gan` | `kt:generative-adversarial-network` |
+| `kt:whisper` | `kt:automatic-speech-recognition` |
 | `kt:word2vec` | `kt:embeddings` |
 | `kt:zero-shot-learning` | `kt:clip` |

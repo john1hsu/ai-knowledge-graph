@@ -242,6 +242,29 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/a-logical-calculus-of-the-ideas-immanent-in-nervous-activity> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Application> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <http://www.w3.org/2000/01/rdf-schema#label> "Automatic speech recognition" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <http://www.w3.org/2004/02/skos/core#altLabel> "ASR" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <http://www.w3.org/2004/02/skos/core#altLabel> "STT" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <http://www.w3.org/2004/02/skos/core#altLabel> "speech recognition" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <http://www.w3.org/2004/02/skos/core#altLabel> "speech-to-text" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/speech-processing> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <http://www.w3.org/2004/02/skos/core#definition> "The task of mapping an audio waveform of spoken language to the sequence of words it contains, now done mostly by end-to-end neural models (CTC, RNN-Transducer and attention-based encoder-decoders) and scored by word error rate." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <http://www.w3.org/2004/02/skos/core#prefLabel> "Automatic speech recognition" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/whisper> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "computer-vision-and-multimodal" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/librispeech> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/switchboard-corpus> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <http://www.w3.org/2000/01/rdf-schema#label> "Backpropagation algorithm" .
@@ -1439,6 +1462,26 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s6> <https://schema.org/url> "https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s1> <http://purl.org/dc/terms/publisher> "Daniel Jurafsky and James H. Martin, Stanford University (draft of August 2026)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s1> <http://purl.org/dc/terms/title> "Speech and Language Processing (3rd ed. draft), Chapter 16: Automatic Speech Recognition" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s1> <https://schema.org/url> "https://web.stanford.edu/~jurafsky/slp3/16.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s2> <http://purl.org/dc/terms/publisher> "Hinton, Deng, Yu, Dahl, Mohamed, Jaitly, Senior, Vanhoucke, Nguyen, Sainath and Kingsbury, IEEE Signal Processing Magazine, 2012 (Google Research publication page)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s2> <http://purl.org/dc/terms/title> "Deep Neural Networks for Acoustic Modeling in Speech Recognition" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s2> <https://schema.org/url> "https://research.google/pubs/deep-neural-networks-for-acoustic-modeling-in-speech-recognition/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s3> <http://purl.org/dc/terms/publisher> "Graves, Fernández, Gomez and Schmidhuber, ICML 2006, pp. 369–376 (doi:10.1145/1143844.1143891)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s3> <http://purl.org/dc/terms/title> "Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s3> <https://schema.org/url> "https://mlanthology.org/icml/2006/graves2006icml-connectionist" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s4> <http://purl.org/dc/terms/publisher> "Radford, Kim, Xu, Brockman, McLeavey and Sutskever, Proceedings of ICML 2023 (PMLR 202), pp. 28492–28518" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s4> <http://purl.org/dc/terms/title> "Robust Speech Recognition via Large-Scale Weak Supervision" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s4> <https://schema.org/url> "https://proceedings.mlr.press/v202/radford23a.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s1> <http://purl.org/dc/terms/publisher> "Nature 323, 533 (October 1986) (Rumelhart, Hinton and Williams), NASA ADS record" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s1> <http://purl.org/dc/terms/title> "Learning representations by back-propagating errors" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
