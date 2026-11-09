@@ -1032,6 +1032,29 @@
     ]
   },
   {
+    "id": "kt:tf-idf",
+    "title": "TF-IDF",
+    "aliases": [
+      "term frequency–inverse document frequency",
+      "tf*idf",
+      "tf·idf weighting",
+      "inverse document frequency weighting"
+    ],
+    "type": "Technique",
+    "domain": "retrieval-and-knowledge",
+    "file": "articles/retrieval-and-knowledge/tf-idf.md",
+    "created": "2026-11-09",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://www.staff.city.ac.uk/~sb317/idfpapers/ksj_orig.pdf",
+      "https://www.marilia.unesp.br/Home/Instituicao/Docentes/EdbertoFerneda/MRI%2004%20-%20Salton,%20G;%20Buckley,%20C%20-%201988.pdf",
+      "https://www.staff.city.ac.uk/~sbrp622/idfpapers/Robertson_idf_JDoc.pdf",
+      "https://nlp.stanford.edu/IR-book/html/htmledition/references-and-further-reading-6.html",
+      "https://scikit-learn.org/dev/modules/generated/sklearn.feature_extraction.text.TfidfTransformer.html",
+      "https://lucene.apache.org/core/api/core/org/apache/lucene/search/similarities/TFIDFSimilarity.html"
+    ]
+  },
+  {
     "id": "kt:turing-test",
     "title": "Turing test",
     "aliases": [

@@ -2426,6 +2426,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/test-time-compute/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/test-time-compute/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "preprint" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/test-time-compute/s6> <https://schema.org/url> "https://arxiv.org/abs/2412.21187" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s1> <http://purl.org/dc/terms/publisher> "Karen Spärck Jones, Journal of Documentation 28(1), 11-21 (1972); 2004 reprint hosted by City, University of London" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s1> <http://purl.org/dc/terms/title> "A statistical interpretation of term specificity and its application in retrieval" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s1> <https://schema.org/url> "https://www.staff.city.ac.uk/~sb317/idfpapers/ksj_orig.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s2> <http://purl.org/dc/terms/publisher> "Gerard Salton and Christopher Buckley (Cornell University), Information Processing & Management 24(5), 513-523 (1988)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s2> <http://purl.org/dc/terms/title> "Term-weighting approaches in automatic text retrieval" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s2> <https://schema.org/url> "https://www.marilia.unesp.br/Home/Instituicao/Docentes/EdbertoFerneda/MRI%2004%20-%20Salton,%20G;%20Buckley,%20C%20-%201988.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s3> <http://purl.org/dc/terms/publisher> "Stephen Robertson, Journal of Documentation 60(5), 503-520 (2004); author copy hosted by City, University of London" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s3> <http://purl.org/dc/terms/title> "Understanding inverse document frequency: on theoretical arguments for IDF" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s3> <https://schema.org/url> "https://www.staff.city.ac.uk/~sbrp622/idfpapers/Robertson_idf_JDoc.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s4> <http://purl.org/dc/terms/publisher> "Manning, Raghavan and Schütze, Cambridge University Press (2008), online edition, Stanford NLP Group" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s4> <http://purl.org/dc/terms/title> "Introduction to Information Retrieval, ch. 6: References and further reading" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s4> <https://schema.org/url> "https://nlp.stanford.edu/IR-book/html/htmledition/references-and-further-reading-6.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s5> <http://purl.org/dc/terms/publisher> "scikit-learn developers (dev documentation)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s5> <http://purl.org/dc/terms/title> "sklearn.feature_extraction.text.TfidfTransformer" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s5> <https://schema.org/url> "https://scikit-learn.org/dev/modules/generated/sklearn.feature_extraction.text.TfidfTransformer.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s6> <http://purl.org/dc/terms/publisher> "Apache Lucene Core API documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s6> <http://purl.org/dc/terms/title> "Class TFIDFSimilarity" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s6> <https://schema.org/url> "https://lucene.apache.org/core/api/core/org/apache/lucene/search/similarities/TFIDFSimilarity.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s1> <http://purl.org/dc/terms/publisher> "A. M. Turing, Mind 59 (236), 1950 (copy hosted for MIT CSAIL course 6.803)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s1> <http://purl.org/dc/terms/title> "Computing Machinery and Intelligence" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -2501,6 +2531,30 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/test-time-compute> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "prompting-and-reasoning" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/test-time-compute> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/test-time-compute> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <http://www.w3.org/2000/01/rdf-schema#label> "TF-IDF" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <http://www.w3.org/2004/02/skos/core#altLabel> "inverse document frequency weighting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <http://www.w3.org/2004/02/skos/core#altLabel> "term frequency–inverse document frequency" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <http://www.w3.org/2004/02/skos/core#altLabel> "tf*idf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <http://www.w3.org/2004/02/skos/core#altLabel> "tf·idf weighting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <http://www.w3.org/2004/02/skos/core#definition> "A term-weighting scheme that scores a word's importance to a document by multiplying how often it occurs in that document (term frequency) by the logarithm of how rare it is across the collection (inverse document frequency), so frequent-but-distinctive words dominate a document's vector." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <http://www.w3.org/2004/02/skos/core#prefLabel> "TF-IDF" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/karen-sparck-jones> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "retrieval-and-knowledge" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#supersededBy> <https://github.com/john1hsu/ai-knowledge-graph/id/bm25> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/vector-space-model> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <http://www.w3.org/2000/01/rdf-schema#label> "Turing test" .

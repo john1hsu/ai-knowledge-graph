@@ -3503,6 +3503,93 @@
       ]
     },
     {
+      "@id": "kt:tf-idf",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "TF-IDF",
+      "skos:definition": "A term-weighting scheme that scores a word's importance to a document by multiplying how often it occurs in that document (term frequency) by the logarithm of how rare it is across the collection (inverse document frequency), so frequent-but-distinctive words dominate a document's vector.",
+      "kto:domain": "retrieval-and-knowledge",
+      "dcterms:created": "2026-11-09",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "A statistical interpretation of term specificity and its application in retrieval",
+          "dcterms:publisher": "Karen Spärck Jones, Journal of Documentation 28(1), 11-21 (1972); 2004 reprint hosted by City, University of London",
+          "schema:url": "https://www.staff.city.ac.uk/~sb317/idfpapers/ksj_orig.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Term-weighting approaches in automatic text retrieval",
+          "dcterms:publisher": "Gerard Salton and Christopher Buckley (Cornell University), Information Processing & Management 24(5), 513-523 (1988)",
+          "schema:url": "https://www.marilia.unesp.br/Home/Instituicao/Docentes/EdbertoFerneda/MRI%2004%20-%20Salton,%20G;%20Buckley,%20C%20-%201988.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Understanding inverse document frequency: on theoretical arguments for IDF",
+          "dcterms:publisher": "Stephen Robertson, Journal of Documentation 60(5), 503-520 (2004); author copy hosted by City, University of London",
+          "schema:url": "https://www.staff.city.ac.uk/~sbrp622/idfpapers/Robertson_idf_JDoc.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Introduction to Information Retrieval, ch. 6: References and further reading",
+          "dcterms:publisher": "Manning, Raghavan and Schütze, Cambridge University Press (2008), online edition, Stanford NLP Group",
+          "schema:url": "https://nlp.stanford.edu/IR-book/html/htmledition/references-and-further-reading-6.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "sklearn.feature_extraction.text.TfidfTransformer",
+          "dcterms:publisher": "scikit-learn developers (dev documentation)",
+          "schema:url": "https://scikit-learn.org/dev/modules/generated/sklearn.feature_extraction.text.TfidfTransformer.html",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Class TFIDFSimilarity",
+          "dcterms:publisher": "Apache Lucene Core API documentation",
+          "schema:url": "https://lucene.apache.org/core/api/core/org/apache/lucene/search/similarities/TFIDFSimilarity.html",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/retrieval-and-knowledge/tf-idf.md",
+      "skos:altLabel": [
+        "term frequency–inverse document frequency",
+        "tf*idf",
+        "tf·idf weighting",
+        "inverse document frequency weighting"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:information-retrieval"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:semantic-search"
+        },
+        {
+          "@id": "kt:embeddings"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:karen-sparck-jones"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:vector-space-model"
+        }
+      ],
+      "kto:supersededBy": [
+        {
+          "@id": "kt:bm25"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:apache-lucene"
+        }
+      ]
+    },
+    {
       "@id": "kt:ai-alignment",
       "@type": "kto:Field",
       "skos:prefLabel": "AI alignment",
