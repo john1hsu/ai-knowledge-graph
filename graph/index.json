@@ -615,6 +615,28 @@
     ]
   },
   {
+    "id": "kt:langgraph",
+    "title": "LangGraph",
+    "aliases": [
+      "LangGraph framework",
+      "langgraph library"
+    ],
+    "type": "Tool",
+    "domain": "agents-and-tool-use",
+    "file": "articles/agents-and-tool-use/langgraph.md",
+    "created": "2026-11-09",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://docs.langchain.com/oss/python/langgraph/overview",
+      "https://docs.langchain.com/oss/python/langgraph/graph-api",
+      "https://docs.langchain.com/oss/python/langgraph/human-in-the-loop",
+      "https://docs.langchain.com/oss/python/langgraph/persistence.md",
+      "https://www.langchain.com/blog/langchain-langgraph-1dot0",
+      "https://www.cs.princeton.edu/courses/archive/spring16/cos598F/pregel_paper.pdf",
+      "https://www.microsoft.com/en-us/research/publication/autogen-enabling-next-gen-llm-applications-via-multi-agent-conversation-framework"
+    ]
+  },
+  {
     "id": "kt:large-language-model",
     "title": "Large language model",
     "aliases": [

@@ -267,6 +267,106 @@
       ]
     },
     {
+      "@id": "kt:langgraph",
+      "@type": "kto:Tool",
+      "skos:prefLabel": "LangGraph",
+      "skos:definition": "An open-source, low-level orchestration framework and runtime from LangChain for building long-running, stateful LLM agents and workflows as graphs of shared state, nodes and edges, with built-in checkpointing, human-in-the-loop interrupts and streaming; its execution model is adapted from Google's Pregel.",
+      "kto:domain": "agents-and-tool-use",
+      "dcterms:created": "2026-11-09",
+      "kto:maturity": "emerging",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "LangGraph overview",
+          "dcterms:publisher": "LangChain, LangGraph documentation (Python)",
+          "schema:url": "https://docs.langchain.com/oss/python/langgraph/overview",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Graph API overview",
+          "dcterms:publisher": "LangChain, LangGraph documentation (Python)",
+          "schema:url": "https://docs.langchain.com/oss/python/langgraph/graph-api",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Interrupts (human-in-the-loop)",
+          "dcterms:publisher": "LangChain, LangGraph documentation (Python)",
+          "schema:url": "https://docs.langchain.com/oss/python/langgraph/human-in-the-loop",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Persistence",
+          "dcterms:publisher": "LangChain, LangGraph documentation (Python)",
+          "schema:url": "https://docs.langchain.com/oss/python/langgraph/persistence.md",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "LangChain and LangGraph Agent Frameworks Reach v1.0 Milestones",
+          "dcterms:publisher": "LangChain blog (Sydney Runkle and the LangChain OSS team), 22 October 2025",
+          "schema:url": "https://www.langchain.com/blog/langchain-langgraph-1dot0",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Pregel: A System for Large-Scale Graph Processing",
+          "dcterms:publisher": "SIGMOD 2010 (Malewicz et al., Google), author PDF hosted by Princeton COS 598F",
+          "schema:url": "https://www.cs.princeton.edu/courses/archive/spring16/cos598F/pregel_paper.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation",
+          "dcterms:publisher": "COLM 2024 (Wu et al.), Microsoft Research publication page",
+          "schema:url": "https://www.microsoft.com/en-us/research/publication/autogen-enabling-next-gen-llm-applications-via-multi-agent-conversation-framework",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/agents-and-tool-use/langgraph.md",
+      "skos:altLabel": [
+        "LangGraph framework",
+        "langgraph library"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:agentic-systems"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:agentic-workflow"
+        },
+        {
+          "@id": "kt:ai-agent"
+        },
+        {
+          "@id": "kt:multi-agent-systems"
+        },
+        {
+          "@id": "kt:agent-memory"
+        },
+        {
+          "@id": "kt:agent2agent-protocol"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:langchain"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:pregel"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:autogen"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:large-language-model"
+        }
+      ]
+    },
+    {
       "@id": "kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity",
       "@type": "kto:Work",
       "skos:prefLabel": "A Logical Calculus of the Ideas Immanent in Nervous Activity",

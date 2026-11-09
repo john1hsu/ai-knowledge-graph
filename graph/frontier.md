@@ -12,6 +12,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ai-governance` | `kt:ai-safety-institutes`, `kt:algorithmic-bias-and-fairness`, `kt:nist-ai-risk-management-framework`, `kt:ai-alignment` |
 | `kt:ensemble-methods` | `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:markov-decision-process` | `kt:actor-critic`, `kt:policy-gradient`, `kt:q-learning`, `kt:q-learning` |
+| `kt:multi-agent-systems` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:langgraph` |
 | `kt:perceptron` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:artificial-neural-network`, `kt:backpropagation` |
 | `kt:transformer-architecture` | `kt:hugging-face-transformers`, `kt:clip`, `kt:large-language-model`, `kt:scaling-laws` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:turing-test`, `kt:machine-learning` |
@@ -19,13 +20,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fine-tuning` | `kt:hugging-face-transformers`, `kt:qlora`, `kt:rlhf` |
 | `kt:hybrid-search` | `kt:bm25`, `kt:bm25`, `kt:semantic-search` |
 | `kt:model-pruning` | `kt:quantization`, `kt:quantization`, `kt:knowledge-distillation` |
-| `kt:multi-agent-systems` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:prompt-injection` | `kt:agent2agent-protocol`, `kt:red-teaming`, `kt:jailbreak` |
 | `kt:reasoning-models` | `kt:chain-of-thought`, `kt:test-time-compute`, `kt:test-time-compute` |
 | `kt:representation-learning` | `kt:clip`, `kt:deep-learning`, `kt:embeddings` |
 | `kt:tool-use` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:vllm` | `kt:hugging-face-transformers`, `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
 | `kt:activation-function` | `kt:artificial-neural-network`, `kt:backpropagation` |
+| `kt:agent-memory` | `kt:ai-agent`, `kt:langgraph` |
+| `kt:agentic-systems` | `kt:agentic-workflow`, `kt:langgraph` |
 | `kt:beam-search` | `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:beir` | `kt:bm25`, `kt:semantic-search` |
 | `kt:benchmark-contamination` | `kt:ai-evaluation`, `kt:gsm8k` |
@@ -37,7 +39,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:information-retrieval` | `kt:bm25`, `kt:semantic-search` |
 | `kt:instruction-tuning` | `kt:qlora`, `kt:rlhf` |
 | `kt:kv-cache` | `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
-| `kt:langgraph` | `kt:agent2agent-protocol`, `kt:agentic-workflow` |
 | `kt:llm-as-a-judge` | `kt:ai-evaluation`, `kt:qlora` |
 | `kt:llm-inference-optimization` | `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
 | `kt:model-compression` | `kt:quantization`, `kt:knowledge-distillation` |
@@ -60,8 +61,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:vector-database` | `kt:embeddings`, `kt:semantic-search` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings` |
 | `kt:adversarial-machine-learning` | `kt:jailbreak` |
-| `kt:agent-memory` | `kt:ai-agent` |
-| `kt:agentic-systems` | `kt:agentic-workflow` |
 | `kt:ai-ethics` | `kt:algorithmic-bias-and-fairness` |
 | `kt:ai-risk-management` | `kt:nist-ai-risk-management-framework` |
 | `kt:ai-safety` | `kt:ai-alignment` |
@@ -71,6 +70,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:approximate-nearest-neighbor-search` | `kt:semantic-search` |
 | `kt:arthur-samuel` | `kt:machine-learning` |
 | `kt:asynchronous-advantage-actor-critic` | `kt:actor-critic` |
+| `kt:autogen` | `kt:langgraph` |
 | `kt:automatic-differentiation` | `kt:backpropagation` |
 | `kt:big-bench` | `kt:emergent-abilities` |
 | `kt:center-for-ai-standards-and-innovation` | `kt:ai-safety-institutes` |
@@ -120,6 +120,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:interpretability` | `kt:mechanistic-interpretability` |
 | `kt:iso-iec-42001` | `kt:nist-ai-risk-management-framework` |
 | `kt:john-searle` | `kt:chinese-room-argument` |
+| `kt:langchain` | `kt:langgraph` |
 | `kt:language-model` | `kt:large-language-model` |
 | `kt:large-language-monkeys` | `kt:self-consistency` |
 | `kt:latent-diffusion-model` | `kt:diffusion-model` |
@@ -144,6 +145,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:penetration-testing` | `kt:red-teaming` |
 | `kt:philosophy-of-artificial-intelligence` | `kt:chinese-room-argument` |
 | `kt:policy-gradient-methods-for-reinforcement-learning-with-function-approximation` | `kt:policy-gradient` |
+| `kt:pregel` | `kt:langgraph` |
 | `kt:process-reward-model` | `kt:test-time-compute` |
 | `kt:qlora-efficient-finetuning-of-quantized-llms` | `kt:qlora` |
 | `kt:reconciling-modern-machine-learning-practice-and-the-bias-variance-trade-off` | `kt:double-descent` |

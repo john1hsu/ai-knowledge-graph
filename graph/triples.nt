@@ -703,6 +703,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/distilling-the-knowledge-in-a-neural-network> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/distilbert> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Tool> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> <http://www.w3.org/2000/01/rdf-schema#label> "LangGraph" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> <http://www.w3.org/2004/02/skos/core#altLabel> "LangGraph framework" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> <http://www.w3.org/2004/02/skos/core#altLabel> "langgraph library" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/agentic-systems> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> <http://www.w3.org/2004/02/skos/core#definition> "An open-source, low-level orchestration framework and runtime from LangChain for building long-running, stateful LLM agents and workflows as graphs of shared state, nodes and edges, with built-in checkpointing, human-in-the-loop interrupts and streaming; its execution model is adapted from Google's Pregel." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> <http://www.w3.org/2004/02/skos/core#prefLabel> "LangGraph" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/agent-memory> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/agent2agent-protocol> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s7> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/autogen> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/langchain> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "agents-and-tool-use" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/pregel> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <http://www.w3.org/2000/01/rdf-schema#label> "Large language model" .
@@ -1825,6 +1851,41 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s6> <https://schema.org/url> "https://arxiv.org/pdf/2006.05525v6" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s1> <http://purl.org/dc/terms/publisher> "LangChain, LangGraph documentation (Python)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s1> <http://purl.org/dc/terms/title> "LangGraph overview" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s1> <https://schema.org/url> "https://docs.langchain.com/oss/python/langgraph/overview" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s2> <http://purl.org/dc/terms/publisher> "LangChain, LangGraph documentation (Python)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s2> <http://purl.org/dc/terms/title> "Graph API overview" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s2> <https://schema.org/url> "https://docs.langchain.com/oss/python/langgraph/graph-api" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s3> <http://purl.org/dc/terms/publisher> "LangChain, LangGraph documentation (Python)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s3> <http://purl.org/dc/terms/title> "Interrupts (human-in-the-loop)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s3> <https://schema.org/url> "https://docs.langchain.com/oss/python/langgraph/human-in-the-loop" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s4> <http://purl.org/dc/terms/publisher> "LangChain, LangGraph documentation (Python)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s4> <http://purl.org/dc/terms/title> "Persistence" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s4> <https://schema.org/url> "https://docs.langchain.com/oss/python/langgraph/persistence.md" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s5> <http://purl.org/dc/terms/publisher> "LangChain blog (Sydney Runkle and the LangChain OSS team), 22 October 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s5> <http://purl.org/dc/terms/title> "LangChain and LangGraph Agent Frameworks Reach v1.0 Milestones" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s5> <https://schema.org/url> "https://www.langchain.com/blog/langchain-langgraph-1dot0" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s6> <http://purl.org/dc/terms/publisher> "SIGMOD 2010 (Malewicz et al., Google), author PDF hosted by Princeton COS 598F" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s6> <http://purl.org/dc/terms/title> "Pregel: A System for Large-Scale Graph Processing" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s6> <https://schema.org/url> "https://www.cs.princeton.edu/courses/archive/spring16/cos598F/pregel_paper.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s7> <http://purl.org/dc/terms/publisher> "COLM 2024 (Wu et al.), Microsoft Research publication page" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s7> <http://purl.org/dc/terms/title> "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s7> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s7> <https://schema.org/url> "https://www.microsoft.com/en-us/research/publication/autogen-enabling-next-gen-llm-applications-via-multi-agent-conversation-framework" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s1> <http://purl.org/dc/terms/publisher> "D. Jurafsky and J. H. Martin, Stanford University (draft of August 2026)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s1> <http://purl.org/dc/terms/title> "Speech and Language Processing (3rd ed. draft), Chapter 7: Transformers and Pretraining" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
