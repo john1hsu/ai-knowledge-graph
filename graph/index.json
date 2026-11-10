@@ -612,6 +612,28 @@
     ]
   },
   {
+    "id": "kt:data-parallelism",
+    "title": "Data parallelism",
+    "aliases": [
+      "data-parallel training",
+      "distributed data parallel",
+      "DDP"
+    ],
+    "type": "Technique",
+    "domain": "ai-infrastructure-and-mlops",
+    "file": "articles/ai-infrastructure-and-mlops/data-parallelism.md",
+    "created": "2026-11-10",
+    "maturity": "established",
+    "source_urls": [
+      "https://www.d2l.ai/chapter_computational-performance/multiple-gpus.html",
+      "https://papers.nips.cc/paper/2012/hash/6aca97005c68f1206823815f66102863-Abstract.html",
+      "https://arxiv.org/abs/1706.02677",
+      "https://arxiv.org/abs/2006.15704v1",
+      "https://docs.pytorch.org/docs/2.2/generated/torch.nn.parallel.DistributedDataParallel.html",
+      "https://ar5iv.labs.arxiv.org/html/1910.02054"
+    ]
+  },
+  {
     "id": "kt:deep-learning",
     "title": "Deep learning",
     "aliases": [

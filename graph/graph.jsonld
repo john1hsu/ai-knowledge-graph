@@ -1101,6 +1101,101 @@
       ]
     },
     {
+      "@id": "kt:data-parallelism",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Data parallelism",
+      "skos:definition": "A way to scale neural-network training in which every device holds a full replica of the model, processes a different slice of each minibatch, and averages gradients with its peers (typically via all-reduce) so that all replicas take the same optimizer step.",
+      "kto:domain": "ai-infrastructure-and-mlops",
+      "dcterms:created": "2026-11-10",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "13.5. Training on Multiple GPUs",
+          "dcterms:publisher": "Dive into Deep Learning (d2l.ai), v1.0.3",
+          "schema:url": "https://www.d2l.ai/chapter_computational-performance/multiple-gpus.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Large Scale Distributed Deep Networks",
+          "dcterms:publisher": "NIPS 2012 (Dean, Corrado, Monga, Chen, Devin, Mao, Ranzato, Senior, Tucker, Yang, Le, Ng)",
+          "schema:url": "https://papers.nips.cc/paper/2012/hash/6aca97005c68f1206823815f66102863-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour",
+          "dcterms:publisher": "arXiv:1706.02677 (Goyal, Dollár, Girshick, Noordhuis, Wesolowski, Kyrola, Tulloch, Jia, He), 2017",
+          "schema:url": "https://arxiv.org/abs/1706.02677",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "PyTorch Distributed: Experiences on Accelerating Data Parallel Training",
+          "dcterms:publisher": "arXiv:2006.15704 (Li et al.), VLDB 2020",
+          "schema:url": "https://arxiv.org/abs/2006.15704v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "torch.nn.parallel.DistributedDataParallel (PyTorch 2.2)",
+          "dcterms:publisher": "PyTorch documentation",
+          "schema:url": "https://docs.pytorch.org/docs/2.2/generated/torch.nn.parallel.DistributedDataParallel.html",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "ZeRO: Memory Optimizations Toward Training Trillion Parameter Models",
+          "dcterms:publisher": "arXiv:1910.02054 (Rajbhandari, Rasley, Ruwase, He), Microsoft",
+          "schema:url": "https://ar5iv.labs.arxiv.org/html/1910.02054",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/ai-infrastructure-and-mlops/data-parallelism.md",
+      "skos:altLabel": [
+        "data-parallel training",
+        "distributed data parallel",
+        "DDP"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:distributed-training"
+        },
+        {
+          "@id": "kt:parallel-computing"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:gpu-computing"
+        },
+        {
+          "@id": "kt:cuda"
+        },
+        {
+          "@id": "kt:batch-normalization"
+        },
+        {
+          "@id": "kt:zero-redundancy-optimizer"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:model-parallelism"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:stochastic-gradient-descent"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:pytorch"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:all-reduce"
+        }
+      ]
+    },
+    {
       "@id": "kt:hugging-face-transformers",
       "@type": "kto:Tool",
       "skos:prefLabel": "Hugging Face Transformers",
