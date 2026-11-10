@@ -276,6 +276,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <https://github.com/john1hsu/ai-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <http://www.w3.org/2000/01/rdf-schema#label> "AlphaGo" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <http://www.w3.org/2004/02/skos/core#altLabel> "AlphaGo Fan" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <http://www.w3.org/2004/02/skos/core#altLabel> "AlphaGo Lee" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <http://www.w3.org/2004/02/skos/core#definition> "DeepMind's Go-playing system that combined deep policy and value networks, trained by supervised learning on expert games and then reinforcement learning from self-play, with Monte Carlo tree search; in 2015-2016 it became the first program to beat professional human players at full-sized Go." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <http://www.w3.org/2004/02/skos/core#prefLabel> "AlphaGo" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/alphazero> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/google-deepmind> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "reinforcement-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "historical" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <https://github.com/john1hsu/ai-knowledge-graph/ontology#supersededBy> <https://github.com/john1hsu/ai-knowledge-graph/id/alphago-zero> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://www.w3.org/2000/01/rdf-schema#label> "Artificial neural network" .
@@ -1782,6 +1808,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s5> <https://schema.org/url> "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.Sp.1270.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s1> <http://purl.org/dc/terms/publisher> "Nature 529, 484-503, 2016 (Silver et al.), Google Research publication page" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s1> <http://purl.org/dc/terms/title> "Mastering the game of Go with deep neural networks and tree search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s1> <https://schema.org/url> "https://research.google/pubs/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s2> <http://purl.org/dc/terms/publisher> "Silver et al., Nature 2016; paper PDF hosted by the Bau Lab, Northeastern University" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s2> <http://purl.org/dc/terms/title> "Mastering the game of Go with deep neural networks and tree search (full text)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s2> <https://schema.org/url> "https://papers.baulab.info/papers/Silver-2016.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s3> <http://purl.org/dc/terms/publisher> "Nature 550(7676), 354-359, 2017 (Silver et al.), UCL Discovery record" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s3> <http://purl.org/dc/terms/title> "Mastering the game of Go without human knowledge" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s3> <https://schema.org/url> "https://discovery.ucl.ac.uk/id/eprint/10045895/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s4> <http://purl.org/dc/terms/publisher> "Science 362(6419), 1140-1144, 2018 (Silver et al.), UCL Discovery record" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s4> <http://purl.org/dc/terms/title> "A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s4> <https://schema.org/url> "https://discovery.ucl.ac.uk/id/eprint/10069050/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s5> <http://purl.org/dc/terms/publisher> "Science News (Meghan Rosen), 9 March 2016" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s5> <http://purl.org/dc/terms/title> "Computer takes first game in match against Go world champion" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s5> <https://schema.org/url> "https://www.sciencenews.org/?p=39575" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s6> <http://purl.org/dc/terms/publisher> "The Korea Times (Park Si-soo and Lee Han-soo), 15 March 2016" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s6> <http://purl.org/dc/terms/title> "AlphaGo wins final game after neck-and-neck race" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s6> <https://schema.org/url> "https://www.koreatimes.co.kr/business/tech-science/20160315/alphago-wins-final-game-after-neck-and-neck-race" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s1> <http://purl.org/dc/terms/publisher> "The Bulletin of Mathematical Biophysics 5, 115–133 (1943) (McCulloch and Pitts)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s1> <http://purl.org/dc/terms/title> "A logical calculus of the ideas immanent in nervous activity" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

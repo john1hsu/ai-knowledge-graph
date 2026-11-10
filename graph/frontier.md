@@ -13,7 +13,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pretraining` | `kt:test-time-compute`, `kt:synthetic-data`, `kt:emergent-abilities`, `kt:large-language-model`, `kt:scaling-laws`, `kt:scaling-laws` |
 | `kt:transformer-architecture` | `kt:hugging-face-transformers`, `kt:automatic-speech-recognition`, `kt:clip`, `kt:context-window`, `kt:large-language-model`, `kt:scaling-laws` |
 | `kt:ensemble-methods` | `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:self-consistency`, `kt:knowledge-distillation` |
+| `kt:supervised-learning` | `kt:perceptron`, `kt:bias-variance-tradeoff`, `kt:machine-learning`, `kt:alphago`, `kt:reinforcement-learning` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:dartmouth-workshop`, `kt:turing-test`, `kt:machine-learning` |
+| `kt:convolutional-neural-network` | `kt:yolo`, `kt:artificial-neural-network`, `kt:deep-learning`, `kt:alphago` |
 | `kt:distributed-training` | `kt:cuda`, `kt:mlops`, `kt:nvidia`, `kt:tpu` |
 | `kt:fine-tuning` | `kt:hugging-face-transformers`, `kt:qlora`, `kt:rlhf`, `kt:synthetic-data` |
 | `kt:gpu-computing` | `kt:cuda`, `kt:nvidia`, `kt:tpu`, `kt:ai-chip-export-controls` |
@@ -22,12 +24,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:multi-agent-systems` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:langgraph` |
 | `kt:overfitting` | `kt:dropout`, `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent` |
 | `kt:pytorch` | `kt:hugging-face-transformers`, `kt:adam-optimizer`, `kt:backpropagation`, `kt:dropout` |
-| `kt:supervised-learning` | `kt:perceptron`, `kt:bias-variance-tradeoff`, `kt:machine-learning`, `kt:reinforcement-learning` |
 | `kt:tool-use` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:voyager` |
 | `kt:agent-memory` | `kt:ai-agent`, `kt:langgraph`, `kt:voyager` |
 | `kt:beam-search` | `kt:sampling-temperature-and-top-p`, `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:benchmark-contamination` | `kt:ai-evaluation`, `kt:gsm8k`, `kt:synthetic-data` |
-| `kt:convolutional-neural-network` | `kt:yolo`, `kt:artificial-neural-network`, `kt:deep-learning` |
+| `kt:deep-q-network` | `kt:alphago`, `kt:q-learning`, `kt:reinforcement-learning` |
 | `kt:eu-ai-act` | `kt:algorithmic-bias-and-fairness`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:hidden-markov-model` |
 | `kt:geoffrey-hinton` | `kt:dropout`, `kt:dropout`, `kt:knowledge-distillation` |
@@ -52,7 +53,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ai-accelerator` | `kt:tpu`, `kt:ai-chip-export-controls` |
 | `kt:apache-lucene` | `kt:bm25`, `kt:tf-idf` |
 | `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:perceptron` |
-| `kt:deep-q-network` | `kt:q-learning`, `kt:reinforcement-learning` |
 | `kt:exploration-exploitation` | `kt:q-learning`, `kt:reinforcement-learning` |
 | `kt:few-shot-prompting` | `kt:chain-of-thought`, `kt:prompt-sensitivity` |
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
@@ -85,7 +85,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ai-safety-via-debate` | `kt:scalable-oversight` |
 | `kt:ai-winter` | `kt:perceptron` |
 | `kt:alan-turing` | `kt:turing-test` |
-| `kt:alphago` | `kt:reinforcement-learning` |
+| `kt:alphago-zero` | `kt:alphago` |
+| `kt:alphazero` | `kt:alphago` |
 | `kt:application-specific-integrated-circuit` | `kt:tpu` |
 | `kt:approximate-nearest-neighbor-search` | `kt:semantic-search` |
 | `kt:arthur-samuel` | `kt:machine-learning` |
@@ -133,6 +134,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:foundation-model` | `kt:large-language-model` |
 | `kt:frank-rosenblatt` | `kt:perceptron` |
 | `kt:generative-adversarial-nets` | `kt:generative-adversarial-network` |
+| `kt:google-deepmind` | `kt:alphago` |
 | `kt:hallucination` | `kt:mechanistic-interpretability` |
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
 | `kt:hugging-face` | `kt:hugging-face-transformers` |
@@ -163,6 +165,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:logic-theorist` | `kt:dartmouth-workshop` |
 | `kt:lora` | `kt:qlora` |
 | `kt:markov-chain` | `kt:hidden-markov-model` |
+| `kt:mastering-the-game-of-go-with-deep-neural-networks-and-tree-search` | `kt:alphago` |
 | `kt:min-p-sampling` | `kt:sampling-temperature-and-top-p` |
 | `kt:minds-brains-and-programs` | `kt:chinese-room-argument` |
 | `kt:mlflow` | `kt:mlops` |
@@ -171,6 +174,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:model-context-protocol` | `kt:agent2agent-protocol` |
 | `kt:model-registry` | `kt:mlops` |
 | `kt:monte-carlo-dropout` | `kt:dropout` |
+| `kt:monte-carlo-tree-search` | `kt:alphago` |
 | `kt:ms-coco` | `kt:yolo` |
 | `kt:mteb` | `kt:beir` |
 | `kt:nist` | `kt:nist-ai-risk-management-framework` |

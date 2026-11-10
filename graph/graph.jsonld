@@ -4173,6 +4173,105 @@
       ]
     },
     {
+      "@id": "kt:alphago",
+      "@type": "kto:Model",
+      "skos:prefLabel": "AlphaGo",
+      "skos:definition": "DeepMind's Go-playing system that combined deep policy and value networks, trained by supervised learning on expert games and then reinforcement learning from self-play, with Monte Carlo tree search; in 2015-2016 it became the first program to beat professional human players at full-sized Go.",
+      "kto:domain": "reinforcement-learning",
+      "dcterms:created": "2026-11-10",
+      "kto:maturity": "historical",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Mastering the game of Go with deep neural networks and tree search",
+          "dcterms:publisher": "Nature 529, 484-503, 2016 (Silver et al.), Google Research publication page",
+          "schema:url": "https://research.google/pubs/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Mastering the game of Go with deep neural networks and tree search (full text)",
+          "dcterms:publisher": "Silver et al., Nature 2016; paper PDF hosted by the Bau Lab, Northeastern University",
+          "schema:url": "https://papers.baulab.info/papers/Silver-2016.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Mastering the game of Go without human knowledge",
+          "dcterms:publisher": "Nature 550(7676), 354-359, 2017 (Silver et al.), UCL Discovery record",
+          "schema:url": "https://discovery.ucl.ac.uk/id/eprint/10045895/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play",
+          "dcterms:publisher": "Science 362(6419), 1140-1144, 2018 (Silver et al.), UCL Discovery record",
+          "schema:url": "https://discovery.ucl.ac.uk/id/eprint/10069050/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Computer takes first game in match against Go world champion",
+          "dcterms:publisher": "Science News (Meghan Rosen), 9 March 2016",
+          "schema:url": "https://www.sciencenews.org/?p=39575",
+          "kto:sourceType": "news"
+        },
+        {
+          "dcterms:title": "AlphaGo wins final game after neck-and-neck race",
+          "dcterms:publisher": "The Korea Times (Park Si-soo and Lee Han-soo), 15 March 2016",
+          "schema:url": "https://www.koreatimes.co.kr/business/tech-science/20160315/alphago-wins-final-game-after-neck-and-neck-race",
+          "kto:sourceType": "news"
+        }
+      ],
+      "kto:file": "articles/reinforcement-learning/alphago.md",
+      "skos:altLabel": [
+        "AlphaGo Fan",
+        "AlphaGo Lee"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:reinforcement-learning"
+        },
+        {
+          "@id": "kt:deep-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:deep-q-network"
+        },
+        {
+          "@id": "kt:supervised-learning"
+        },
+        {
+          "@id": "kt:alphazero"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:mastering-the-game-of-go-with-deep-neural-networks-and-tree-search"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:google-deepmind"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:monte-carlo-tree-search"
+        },
+        {
+          "@id": "kt:convolutional-neural-network"
+        }
+      ],
+      "kto:trainedWith": [
+        {
+          "@id": "kt:policy-gradient"
+        }
+      ],
+      "kto:supersededBy": [
+        {
+          "@id": "kt:alphago-zero"
+        }
+      ]
+    },
+    {
       "@id": "kt:policy-gradient",
       "@type": "kto:Technique",
       "skos:prefLabel": "Policy gradient methods",

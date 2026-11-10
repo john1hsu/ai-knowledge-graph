@@ -242,6 +242,27 @@
     ]
   },
   {
+    "id": "kt:alphago",
+    "title": "AlphaGo",
+    "aliases": [
+      "AlphaGo Fan",
+      "AlphaGo Lee"
+    ],
+    "type": "Model",
+    "domain": "reinforcement-learning",
+    "file": "articles/reinforcement-learning/alphago.md",
+    "created": "2026-11-10",
+    "maturity": "historical",
+    "source_urls": [
+      "https://research.google/pubs/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search/",
+      "https://papers.baulab.info/papers/Silver-2016.pdf",
+      "https://discovery.ucl.ac.uk/id/eprint/10045895/",
+      "https://discovery.ucl.ac.uk/id/eprint/10069050/",
+      "https://www.sciencenews.org/?p=39575",
+      "https://www.koreatimes.co.kr/business/tech-science/20160315/alphago-wins-final-game-after-neck-and-neck-race"
+    ]
+  },
+  {
     "id": "kt:artificial-neural-network",
     "title": "Artificial neural network",
     "aliases": [
