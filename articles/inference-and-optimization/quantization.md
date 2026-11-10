@@ -10,7 +10,7 @@ summary: >-
   cutting memory and bandwidth and enabling faster integer or low-precision arithmetic at a small cost in accuracy.
 maturity: established
 broader: [kt:model-compression]
-related: [kt:model-pruning, kt:knowledge-distillation, kt:qlora, kt:large-language-model, kt:speculative-decoding]
+related: [kt:model-pruning, kt:knowledge-distillation, kt:qlora, kt:large-language-model, kt:speculative-decoding, kt:gptq]
 relations:
   - {predicate: usedIn, object: kt:large-language-model}
   - {predicate: enables, object: kt:model-serving}

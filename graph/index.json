@@ -723,6 +723,25 @@
     ]
   },
   {
+    "id": "kt:gptq",
+    "title": "GPTQ",
+    "aliases": [
+      "GPTQ quantization",
+      "GPTQ algorithm"
+    ],
+    "type": "Algorithm",
+    "domain": "inference-and-optimization",
+    "file": "articles/inference-and-optimization/gptq.md",
+    "created": "2026-11-10",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/pdf/2210.17323",
+      "https://proceedings.neurips.cc/paper_files/paper/2022/hash/1caf09c9f4e6b0150b06a07e77f2710c-Abstract.html",
+      "https://arxiv.org/html/2306.00978",
+      "https://huggingface.co/docs/transformers/en/quantization/gptq"
+    ]
+  },
+  {
     "id": "kt:gsm8k",
     "title": "GSM8K",
     "aliases": [

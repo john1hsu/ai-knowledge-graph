@@ -836,6 +836,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "computer-vision-and-multimodal" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-nets> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <http://www.w3.org/2000/01/rdf-schema#label> "GPTQ" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <http://www.w3.org/2004/02/skos/core#altLabel> "GPTQ algorithm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <http://www.w3.org/2004/02/skos/core#altLabel> "GPTQ quantization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/post-training-quantization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <http://www.w3.org/2004/02/skos/core#definition> "A one-shot post-training weight-quantization algorithm for large transformer language models that rounds each layer's weights to 3 or 4 bits column by column while using approximate second-order (Hessian) information to update the not-yet-quantized weights and compensate for rounding error, using only a small calibration set." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <http://www.w3.org/2004/02/skos/core#prefLabel> "GPTQ" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/awq> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/awq> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/optimal-brain-compression> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "inference-and-optimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/gptq-accurate-post-training-quantization-for-generative-pre-trained-transformers> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Benchmark> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <http://www.w3.org/2000/01/rdf-schema#label> "GSM8K" .
@@ -1304,6 +1329,7 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://www.w3.org/2004/02/skos/core#definition> "A model-compression technique that represents a neural network's weights (and often its activations) with low-precision numbers such as 8-bit or 4-bit integers or 8/4-bit floats instead of 16- or 32-bit floats, cutting memory and bandwidth and enabling faster integer or low-precision arithmetic at a small cost in accuracy." .
 <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://www.w3.org/2004/02/skos/core#prefLabel> "Quantization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/gptq> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> .
@@ -2432,6 +2458,26 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s5> <https://schema.org/url> "https://papers.nips.cc/paper/2021/hash/49ad23d1ec9fa4bd8d77d02681df5cfa-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s1> <http://purl.org/dc/terms/publisher> "ICLR 2023 (Frantar, Ashkboos, Hoefler and Alistarh), authors' arXiv version 2210.17323" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s1> <http://purl.org/dc/terms/title> "GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s1> <https://schema.org/url> "https://arxiv.org/pdf/2210.17323" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s2> <http://purl.org/dc/terms/publisher> "NeurIPS 2022, Advances in Neural Information Processing Systems 35 (Frantar and Alistarh)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s2> <http://purl.org/dc/terms/title> "Optimal Brain Compression: A Framework for Accurate Post-Training Quantization and Pruning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s2> <https://schema.org/url> "https://proceedings.neurips.cc/paper_files/paper/2022/hash/1caf09c9f4e6b0150b06a07e77f2710c-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s3> <http://purl.org/dc/terms/publisher> "MLSys 2024 (Lin, Tang, Tang, Yang, Chen, Wang, Xiao, Dang, Gan and Han), authors' arXiv version 2306.00978" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s3> <http://purl.org/dc/terms/title> "AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s3> <https://schema.org/url> "https://arxiv.org/html/2306.00978" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s4> <http://purl.org/dc/terms/publisher> "Hugging Face Transformers documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s4> <http://purl.org/dc/terms/title> "GPTQ" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s4> <https://schema.org/url> "https://huggingface.co/docs/transformers/en/quantization/gptq" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s1> <http://purl.org/dc/terms/publisher> "arXiv:2110.14168 (Cobbe, Kosaraju, Bavarian, Chen, Jun, Kaiser, Plappert, Tworek, Hilton, Nakano, Hesse, Schulman; OpenAI), October 2021" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s1> <http://purl.org/dc/terms/title> "Training Verifiers to Solve Math Word Problems" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

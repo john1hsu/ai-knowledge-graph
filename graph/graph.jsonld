@@ -3202,6 +3202,98 @@
       ]
     },
     {
+      "@id": "kt:gptq",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "GPTQ",
+      "skos:definition": "A one-shot post-training weight-quantization algorithm for large transformer language models that rounds each layer's weights to 3 or 4 bits column by column while using approximate second-order (Hessian) information to update the not-yet-quantized weights and compensate for rounding error, using only a small calibration set.",
+      "kto:domain": "inference-and-optimization",
+      "dcterms:created": "2026-11-10",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers",
+          "dcterms:publisher": "ICLR 2023 (Frantar, Ashkboos, Hoefler and Alistarh), authors' arXiv version 2210.17323",
+          "schema:url": "https://arxiv.org/pdf/2210.17323",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Optimal Brain Compression: A Framework for Accurate Post-Training Quantization and Pruning",
+          "dcterms:publisher": "NeurIPS 2022, Advances in Neural Information Processing Systems 35 (Frantar and Alistarh)",
+          "schema:url": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/1caf09c9f4e6b0150b06a07e77f2710c-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration",
+          "dcterms:publisher": "MLSys 2024 (Lin, Tang, Tang, Yang, Chen, Wang, Xiao, Dang, Gan and Han), authors' arXiv version 2306.00978",
+          "schema:url": "https://arxiv.org/html/2306.00978",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "GPTQ",
+          "dcterms:publisher": "Hugging Face Transformers documentation",
+          "schema:url": "https://huggingface.co/docs/transformers/en/quantization/gptq",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/inference-and-optimization/gptq.md",
+      "skos:altLabel": [
+        "GPTQ quantization",
+        "GPTQ algorithm"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:quantization"
+        },
+        {
+          "@id": "kt:post-training-quantization"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:awq"
+        },
+        {
+          "@id": "kt:model-serving"
+        },
+        {
+          "@id": "kt:model-compression"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:gptq-accurate-post-training-quantization-for-generative-pre-trained-transformers"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:optimal-brain-compression"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:hugging-face-transformers"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:awq"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:model-serving"
+        }
+      ]
+    },
+    {
       "@id": "kt:quantization",
       "@type": "kto:Technique",
       "skos:prefLabel": "Quantization",
@@ -3268,6 +3360,9 @@
         },
         {
           "@id": "kt:speculative-decoding"
+        },
+        {
+          "@id": "kt:gptq"
         }
       ],
       "kto:usedIn": [
