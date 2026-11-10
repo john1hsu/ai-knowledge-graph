@@ -4657,6 +4657,93 @@
       ]
     },
     {
+      "@id": "kt:approximate-nearest-neighbor-search",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Approximate nearest neighbor search",
+      "skos:definition": "A family of indexing and search methods that return points that are close to, but not guaranteed to be exactly, the nearest neighbours of a query vector, trading a small loss in recall for search that is far faster and cheaper than exhaustive comparison in high-dimensional spaces.",
+      "kto:domain": "retrieval-and-knowledge",
+      "dcterms:created": "2026-11-10",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Near-Optimal Hashing Algorithms for Approximate Nearest Neighbor in High Dimensions",
+          "dcterms:publisher": "Communications of the ACM 51(1), January 2008 (Andoni and Indyk)",
+          "schema:url": "https://pike.psu.edu/classes/cre515/2010-spring/CACM.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Approximate Nearest Neighbor: Towards Removing the Curse of Dimensionality",
+          "dcterms:publisher": "Theory of Computing 8, article 14, pp. 321-350, 2012 (Har-Peled, Indyk and Motwani); journal version of STOC'98 and FOCS'01 papers",
+          "schema:url": "https://mirror.theoryofcomputing.org/articles/v008a014/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs",
+          "dcterms:publisher": "arXiv:1603.09320v2 (Malkov and Yashunin), 2016",
+          "schema:url": "https://arxiv.org/abs/1603.09320v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Billion-scale similarity search with GPUs",
+          "dcterms:publisher": "arXiv:1702.08734 (Johnson, Douze and Jégou; Facebook AI Research), 2017",
+          "schema:url": "https://arxiv.org/pdf/1702.08734",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Faiss Library",
+          "dcterms:publisher": "arXiv:2401.08281v3 (Douze, Guzhva, Deng, Johnson, Szilvasy, Mazaré, Lomeli, Hosseini and Jégou)",
+          "schema:url": "https://arxiv.org/html/2401.08281v3",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "ANN-Benchmarks: A Benchmarking Tool for Approximate Nearest Neighbor Algorithms",
+          "dcterms:publisher": "arXiv:1807.05614 (Aumüller, Bernhardsson and Faithfull), 2018; conference version at SISAP 2017",
+          "schema:url": "https://arxiv.org/pdf/1807.05614",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/retrieval-and-knowledge/approximate-nearest-neighbor-search.md",
+      "skos:altLabel": [
+        "ANN search",
+        "approximate k-nearest neighbor search",
+        "approximate similarity search",
+        "vector similarity search"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:information-retrieval"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:embeddings"
+        },
+        {
+          "@id": "kt:vector-database"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:semantic-search"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:retrieval-augmented-generation"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:faiss"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:ann-benchmarks"
+        }
+      ]
+    },
+    {
       "@id": "kt:bm25",
       "@type": "kto:Algorithm",
       "skos:prefLabel": "BM25",

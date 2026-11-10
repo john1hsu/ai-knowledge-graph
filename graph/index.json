@@ -263,6 +263,29 @@
     ]
   },
   {
+    "id": "kt:approximate-nearest-neighbor-search",
+    "title": "Approximate nearest neighbor search",
+    "aliases": [
+      "ANN search",
+      "approximate k-nearest neighbor search",
+      "approximate similarity search",
+      "vector similarity search"
+    ],
+    "type": "Technique",
+    "domain": "retrieval-and-knowledge",
+    "file": "articles/retrieval-and-knowledge/approximate-nearest-neighbor-search.md",
+    "created": "2026-11-10",
+    "maturity": "established",
+    "source_urls": [
+      "https://pike.psu.edu/classes/cre515/2010-spring/CACM.pdf",
+      "https://mirror.theoryofcomputing.org/articles/v008a014/",
+      "https://arxiv.org/abs/1603.09320v2",
+      "https://arxiv.org/pdf/1702.08734",
+      "https://arxiv.org/html/2401.08281v3",
+      "https://arxiv.org/pdf/1807.05614"
+    ]
+  },
+  {
     "id": "kt:artificial-neural-network",
     "title": "Artificial neural network",
     "aliases": [

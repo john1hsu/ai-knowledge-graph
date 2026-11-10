@@ -302,6 +302,30 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "historical" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <https://github.com/john1hsu/ai-knowledge-graph/ontology#supersededBy> <https://github.com/john1hsu/ai-knowledge-graph/id/alphago-zero> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> <http://www.w3.org/2000/01/rdf-schema#label> "Approximate nearest neighbor search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> <http://www.w3.org/2004/02/skos/core#altLabel> "ANN search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> <http://www.w3.org/2004/02/skos/core#altLabel> "approximate k-nearest neighbor search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> <http://www.w3.org/2004/02/skos/core#altLabel> "approximate similarity search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> <http://www.w3.org/2004/02/skos/core#altLabel> "vector similarity search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> <http://www.w3.org/2004/02/skos/core#definition> "A family of indexing and search methods that return points that are close to, but not guaranteed to be exactly, the nearest neighbours of a query vector, trading a small loss in recall for search that is far faster and cheaper than exhaustive comparison in high-dimensional spaces." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> <http://www.w3.org/2004/02/skos/core#prefLabel> "Approximate nearest neighbor search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/vector-database> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "retrieval-and-knowledge" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/ann-benchmarks> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/faiss> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://www.w3.org/2000/01/rdf-schema#label> "Artificial neural network" .
@@ -1838,6 +1862,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "news" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s6> <https://schema.org/url> "https://www.koreatimes.co.kr/business/tech-science/20160315/alphago-wins-final-game-after-neck-and-neck-race" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s1> <http://purl.org/dc/terms/publisher> "Communications of the ACM 51(1), January 2008 (Andoni and Indyk)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s1> <http://purl.org/dc/terms/title> "Near-Optimal Hashing Algorithms for Approximate Nearest Neighbor in High Dimensions" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s1> <https://schema.org/url> "https://pike.psu.edu/classes/cre515/2010-spring/CACM.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s2> <http://purl.org/dc/terms/publisher> "Theory of Computing 8, article 14, pp. 321-350, 2012 (Har-Peled, Indyk and Motwani); journal version of STOC'98 and FOCS'01 papers" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s2> <http://purl.org/dc/terms/title> "Approximate Nearest Neighbor: Towards Removing the Curse of Dimensionality" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s2> <https://schema.org/url> "https://mirror.theoryofcomputing.org/articles/v008a014/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s3> <http://purl.org/dc/terms/publisher> "arXiv:1603.09320v2 (Malkov and Yashunin), 2016" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s3> <http://purl.org/dc/terms/title> "Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s3> <https://schema.org/url> "https://arxiv.org/abs/1603.09320v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s4> <http://purl.org/dc/terms/publisher> "arXiv:1702.08734 (Johnson, Douze and Jégou; Facebook AI Research), 2017" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s4> <http://purl.org/dc/terms/title> "Billion-scale similarity search with GPUs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s4> <https://schema.org/url> "https://arxiv.org/pdf/1702.08734" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s5> <http://purl.org/dc/terms/publisher> "arXiv:2401.08281v3 (Douze, Guzhva, Deng, Johnson, Szilvasy, Mazaré, Lomeli, Hosseini and Jégou)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s5> <http://purl.org/dc/terms/title> "The Faiss Library" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s5> <https://schema.org/url> "https://arxiv.org/html/2401.08281v3" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s6> <http://purl.org/dc/terms/publisher> "arXiv:1807.05614 (Aumüller, Bernhardsson and Faithfull), 2018; conference version at SISAP 2017" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s6> <http://purl.org/dc/terms/title> "ANN-Benchmarks: A Benchmarking Tool for Approximate Nearest Neighbor Algorithms" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s6> <https://schema.org/url> "https://arxiv.org/pdf/1807.05614" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s1> <http://purl.org/dc/terms/publisher> "The Bulletin of Mathematical Biophysics 5, 115–133 (1943) (McCulloch and Pitts)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s1> <http://purl.org/dc/terms/title> "A logical calculus of the ideas immanent in nervous activity" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
