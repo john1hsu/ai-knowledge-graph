@@ -581,6 +581,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/clip> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/clip> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/learning-transferable-visual-models-from-natural-language-supervision> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/clip> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <http://www.w3.org/2000/01/rdf-schema#label> "Conditional random field" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <http://www.w3.org/2004/02/skos/core#altLabel> "CRF" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <http://www.w3.org/2004/02/skos/core#altLabel> "CRFs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <http://www.w3.org/2004/02/skos/core#altLabel> "conditional random fields" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <http://www.w3.org/2004/02/skos/core#altLabel> "linear-chain CRF" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/probabilistic-graphical-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <http://www.w3.org/2004/02/skos/core#definition> "A discriminative, undirected probabilistic model that defines the conditional probability of a whole label sequence (or other structured output) given the observations, using weighted feature functions normalized over all possible labelings; the linear-chain form became a standard tool for sequence labeling such as part-of-speech tagging and named-entity recognition." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <http://www.w3.org/2004/02/skos/core#prefLabel> "Conditional random field" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/regularization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/maximum-entropy-markov-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ml-foundations" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <https://github.com/john1hsu/ai-knowledge-graph/ontology#extends> <https://github.com/john1hsu/ai-knowledge-graph/id/logistic-regression> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-fields-probabilistic-models-for-segmenting-and-labeling-sequence-data> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <http://www.w3.org/2000/01/rdf-schema#label> "Context window" .
@@ -2178,6 +2204,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s6> <https://schema.org/url> "https://arxiv.org/pdf/2304.08485v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s1> <http://purl.org/dc/terms/publisher> "ICML 2001 (Lafferty, McCallum, Pereira); author copy hosted on a University of Colorado course page" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s1> <http://purl.org/dc/terms/title> "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s1> <https://schema.org/url> "https://home.cs.colorado.edu/~mozer/Teaching/syllabi/6622/papers/LaffertyMcCallumPereira2001.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s2> <http://purl.org/dc/terms/publisher> "University of Pennsylvania ScholarlyCommons, Departmental Papers (CIS); Proceedings of ICML 2001, pp. 282-289" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s2> <http://purl.org/dc/terms/title> "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data (repository record)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s2> <https://schema.org/url> "https://repository.upenn.edu/cis_papers/159" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s3> <http://purl.org/dc/terms/publisher> "Charles Sutton and Andrew McCallum, arXiv:1011.4088 (tutorial; ar5iv HTML rendering)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s3> <http://purl.org/dc/terms/title> "An Introduction to Conditional Random Fields" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s3> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/1011.4088" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s4> <http://purl.org/dc/terms/publisher> "Daniel Jurafsky and James H. Martin, Stanford University (draft of August 19, 2026)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s4> <http://purl.org/dc/terms/title> "Speech and Language Processing (3rd ed. draft), Chapter 18: Sequence Labeling for Parts of Speech and Named Entities" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s4> <https://schema.org/url> "https://web.stanford.edu/~jurafsky/slp3/18.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s5> <http://purl.org/dc/terms/publisher> "NAACL-HLT 2016, pp. 260-270 (Lample, Ballesteros, Subramanian, Kawakami, Dyer); arXiv:1603.01360" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s5> <http://purl.org/dc/terms/title> "Neural Architectures for Named Entity Recognition" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s5> <https://schema.org/url> "https://arxiv.org/html/1603.01360" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 2017, Advances in Neural Information Processing Systems 30 (Vaswani, Shazeer, Parmar, Uszkoreit, Jones, Gomez, Kaiser, Polosukhin)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s1> <http://purl.org/dc/terms/title> "Attention is All you Need" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

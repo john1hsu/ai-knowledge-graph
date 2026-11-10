@@ -503,6 +503,28 @@
     ]
   },
   {
+    "id": "kt:conditional-random-field",
+    "title": "Conditional random field",
+    "aliases": [
+      "CRF",
+      "CRFs",
+      "conditional random fields",
+      "linear-chain CRF"
+    ],
+    "type": "Concept",
+    "domain": "ml-foundations",
+    "file": "articles/ml-foundations/conditional-random-field.md",
+    "created": "2026-11-10",
+    "maturity": "established",
+    "source_urls": [
+      "https://home.cs.colorado.edu/~mozer/Teaching/syllabi/6622/papers/LaffertyMcCallumPereira2001.pdf",
+      "https://repository.upenn.edu/cis_papers/159",
+      "https://ar5iv.labs.arxiv.org/html/1011.4088",
+      "https://web.stanford.edu/~jurafsky/slp3/18.pdf",
+      "https://arxiv.org/html/1603.01360"
+    ]
+  },
+  {
     "id": "kt:context-window",
     "title": "Context window",
     "aliases": [

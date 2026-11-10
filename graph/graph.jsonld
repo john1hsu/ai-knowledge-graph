@@ -3664,6 +3664,96 @@
       ]
     },
     {
+      "@id": "kt:conditional-random-field",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Conditional random field",
+      "skos:definition": "A discriminative, undirected probabilistic model that defines the conditional probability of a whole label sequence (or other structured output) given the observations, using weighted feature functions normalized over all possible labelings; the linear-chain form became a standard tool for sequence labeling such as part-of-speech tagging and named-entity recognition.",
+      "kto:domain": "ml-foundations",
+      "dcterms:created": "2026-11-10",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data",
+          "dcterms:publisher": "ICML 2001 (Lafferty, McCallum, Pereira); author copy hosted on a University of Colorado course page",
+          "schema:url": "https://home.cs.colorado.edu/~mozer/Teaching/syllabi/6622/papers/LaffertyMcCallumPereira2001.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data (repository record)",
+          "dcterms:publisher": "University of Pennsylvania ScholarlyCommons, Departmental Papers (CIS); Proceedings of ICML 2001, pp. 282-289",
+          "schema:url": "https://repository.upenn.edu/cis_papers/159",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "An Introduction to Conditional Random Fields",
+          "dcterms:publisher": "Charles Sutton and Andrew McCallum, arXiv:1011.4088 (tutorial; ar5iv HTML rendering)",
+          "schema:url": "https://ar5iv.labs.arxiv.org/html/1011.4088",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Speech and Language Processing (3rd ed. draft), Chapter 18: Sequence Labeling for Parts of Speech and Named Entities",
+          "dcterms:publisher": "Daniel Jurafsky and James H. Martin, Stanford University (draft of August 19, 2026)",
+          "schema:url": "https://web.stanford.edu/~jurafsky/slp3/18.pdf",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Neural Architectures for Named Entity Recognition",
+          "dcterms:publisher": "NAACL-HLT 2016, pp. 260-270 (Lample, Ballesteros, Subramanian, Kawakami, Dyer); arXiv:1603.01360",
+          "schema:url": "https://arxiv.org/html/1603.01360",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/ml-foundations/conditional-random-field.md",
+      "skos:altLabel": [
+        "CRF",
+        "CRFs",
+        "conditional random fields",
+        "linear-chain CRF"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:machine-learning"
+        },
+        {
+          "@id": "kt:probabilistic-graphical-model"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:supervised-learning"
+        },
+        {
+          "@id": "kt:recurrent-neural-network"
+        },
+        {
+          "@id": "kt:regularization"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:conditional-random-fields-probabilistic-models-for-segmenting-and-labeling-sequence-data"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:hidden-markov-model"
+        },
+        {
+          "@id": "kt:maximum-entropy-markov-model"
+        }
+      ],
+      "kto:extends": [
+        {
+          "@id": "kt:logistic-regression"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:named-entity-recognition"
+        }
+      ]
+    },
+    {
       "@id": "kt:double-descent",
       "@type": "kto:Concept",
       "skos:prefLabel": "Double descent",

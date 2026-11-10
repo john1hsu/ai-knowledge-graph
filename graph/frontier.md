@@ -11,10 +11,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ai-governance` | `kt:ai-chip-export-controls`, `kt:ai-safety-institutes`, `kt:algorithmic-bias-and-fairness`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda`, `kt:ai-alignment` |
 | `kt:executive-orders-on-ai` | `kt:red-teaming`, `kt:ai-chip-export-controls`, `kt:ai-safety-institutes`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda`, `kt:omb-ai-memoranda` |
 | `kt:pretraining` | `kt:test-time-compute`, `kt:synthetic-data`, `kt:emergent-abilities`, `kt:large-language-model`, `kt:scaling-laws`, `kt:scaling-laws` |
+| `kt:supervised-learning` | `kt:perceptron`, `kt:bias-variance-tradeoff`, `kt:conditional-random-field`, `kt:machine-learning`, `kt:alphago`, `kt:reinforcement-learning` |
 | `kt:transformer-architecture` | `kt:hugging-face-transformers`, `kt:automatic-speech-recognition`, `kt:clip`, `kt:context-window`, `kt:large-language-model`, `kt:scaling-laws` |
 | `kt:ensemble-methods` | `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:information-retrieval` | `kt:beir`, `kt:approximate-nearest-neighbor-search`, `kt:bm25`, `kt:semantic-search`, `kt:tf-idf` |
-| `kt:supervised-learning` | `kt:perceptron`, `kt:bias-variance-tradeoff`, `kt:machine-learning`, `kt:alphago`, `kt:reinforcement-learning` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:dartmouth-workshop`, `kt:turing-test`, `kt:machine-learning` |
 | `kt:benchmark-contamination` | `kt:ai-evaluation`, `kt:gsm8k`, `kt:truthfulqa`, `kt:synthetic-data` |
 | `kt:convolutional-neural-network` | `kt:yolo`, `kt:artificial-neural-network`, `kt:deep-learning`, `kt:alphago` |
@@ -25,6 +25,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:multi-agent-systems` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:langgraph` |
 | `kt:overfitting` | `kt:dropout`, `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent` |
 | `kt:pytorch` | `kt:hugging-face-transformers`, `kt:adam-optimizer`, `kt:backpropagation`, `kt:dropout` |
+| `kt:recurrent-neural-network` | `kt:automatic-speech-recognition`, `kt:deep-learning`, `kt:conditional-random-field`, `kt:hidden-markov-model` |
+| `kt:regularization` | `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:conditional-random-field`, `kt:double-descent` |
 | `kt:tool-use` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:voyager` |
 | `kt:agent-memory` | `kt:ai-agent`, `kt:langgraph`, `kt:voyager` |
 | `kt:beam-search` | `kt:sampling-temperature-and-top-p`, `kt:self-consistency`, `kt:knowledge-distillation` |
@@ -42,8 +44,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:prompt-engineering` | `kt:chain-of-thought`, `kt:prompt-sensitivity`, `kt:self-consistency` |
 | `kt:prompt-injection` | `kt:agent2agent-protocol`, `kt:red-teaming`, `kt:jailbreak` |
 | `kt:reasoning-models` | `kt:chain-of-thought`, `kt:test-time-compute`, `kt:test-time-compute` |
-| `kt:recurrent-neural-network` | `kt:automatic-speech-recognition`, `kt:deep-learning`, `kt:hidden-markov-model` |
-| `kt:regularization` | `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent` |
 | `kt:representation-learning` | `kt:clip`, `kt:deep-learning`, `kt:embeddings` |
 | `kt:reranking` | `kt:beir`, `kt:bm25`, `kt:semantic-search` |
 | `kt:reward-hacking` | `kt:ai-alignment`, `kt:scalable-oversight`, `kt:rlhf` |
@@ -106,7 +106,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:compute-governance` | `kt:ai-chip-export-controls` |
 | `kt:computing-machinery-and-intelligence` | `kt:turing-test` |
 | `kt:concrete-problems-in-ai-safety` | `kt:scalable-oversight` |
-| `kt:conditional-random-field` | `kt:hidden-markov-model` |
+| `kt:conditional-random-fields-probabilistic-models-for-segmenting-and-labeling-sequence-data` | `kt:conditional-random-field` |
 | `kt:contextual-calibration` | `kt:prompt-sensitivity` |
 | `kt:contrastive-learning` | `kt:clip` |
 | `kt:cross-validation` | `kt:bias-variance-tradeoff` |
@@ -166,9 +166,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:llmops` | `kt:mlops` |
 | `kt:loftq` | `kt:qlora` |
 | `kt:logic-theorist` | `kt:dartmouth-workshop` |
+| `kt:logistic-regression` | `kt:conditional-random-field` |
 | `kt:lora` | `kt:qlora` |
 | `kt:markov-chain` | `kt:hidden-markov-model` |
 | `kt:mastering-the-game-of-go-with-deep-neural-networks-and-tree-search` | `kt:alphago` |
+| `kt:maximum-entropy-markov-model` | `kt:conditional-random-field` |
 | `kt:min-p-sampling` | `kt:sampling-temperature-and-top-p` |
 | `kt:minds-brains-and-programs` | `kt:chinese-room-argument` |
 | `kt:mlflow` | `kt:mlops` |
@@ -180,6 +182,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:monte-carlo-tree-search` | `kt:alphago` |
 | `kt:ms-coco` | `kt:yolo` |
 | `kt:mteb` | `kt:beir` |
+| `kt:named-entity-recognition` | `kt:conditional-random-field` |
 | `kt:nist` | `kt:nist-ai-risk-management-framework` |
 | `kt:nist-generative-ai-profile` | `kt:nist-ai-risk-management-framework` |
 | `kt:object-detection` | `kt:yolo` |
@@ -194,6 +197,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:positional-encoding` | `kt:context-window` |
 | `kt:post-training-quantization` | `kt:gptq` |
 | `kt:pregel` | `kt:langgraph` |
+| `kt:probabilistic-graphical-model` | `kt:conditional-random-field` |
 | `kt:process-reward-model` | `kt:test-time-compute` |
 | `kt:qlora-efficient-finetuning-of-quantized-llms` | `kt:qlora` |
 | `kt:r-cnn` | `kt:yolo` |
