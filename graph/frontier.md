@@ -6,11 +6,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:model-serving` | `kt:hugging-face-transformers`, `kt:mlops`, `kt:awq`, `kt:awq`, `kt:batching-and-paged-attention`, `kt:gptq`, `kt:gptq`, `kt:quantization`, `kt:speculative-decoding`, `kt:speculative-decoding` |
 | `kt:retrieval-augmented-generation` | `kt:toolformer`, `kt:beir`, `kt:approximate-nearest-neighbor-search`, `kt:bm25`, `kt:embeddings`, `kt:embeddings`, `kt:semantic-search`, `kt:semantic-search`, `kt:context-window` |
+| `kt:executive-orders-on-ai` | `kt:red-teaming`, `kt:ai-chip-export-controls`, `kt:ai-safety-institutes`, `kt:bureau-of-industry-and-security`, `kt:bureau-of-industry-and-security`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda`, `kt:omb-ai-memoranda` |
 | `kt:in-context-learning` | `kt:chain-of-thought`, `kt:prompt-sensitivity`, `kt:jailbreak`, `kt:mechanistic-interpretability`, `kt:context-window`, `kt:context-window`, `kt:emergent-abilities`, `kt:large-language-model` |
+| `kt:ai-governance` | `kt:ai-chip-export-controls`, `kt:ai-safety-institutes`, `kt:algorithmic-bias-and-fairness`, `kt:bureau-of-industry-and-security`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda`, `kt:ai-alignment` |
 | `kt:markov-decision-process` | `kt:hidden-markov-model`, `kt:actor-critic`, `kt:policy-gradient`, `kt:q-learning`, `kt:q-learning`, `kt:reinforcement-learning`, `kt:reinforcement-learning` |
 | `kt:transformer-architecture` | `kt:hugging-face-transformers`, `kt:automatic-speech-recognition`, `kt:clip`, `kt:attention-is-all-you-need`, `kt:context-window`, `kt:large-language-model`, `kt:scaling-laws` |
-| `kt:ai-governance` | `kt:ai-chip-export-controls`, `kt:ai-safety-institutes`, `kt:algorithmic-bias-and-fairness`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda`, `kt:ai-alignment` |
-| `kt:executive-orders-on-ai` | `kt:red-teaming`, `kt:ai-chip-export-controls`, `kt:ai-safety-institutes`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda`, `kt:omb-ai-memoranda` |
 | `kt:fine-tuning` | `kt:toolformer`, `kt:hugging-face-transformers`, `kt:qlora`, `kt:rlhf`, `kt:star-self-taught-reasoner`, `kt:synthetic-data` |
 | `kt:pretraining` | `kt:test-time-compute`, `kt:synthetic-data`, `kt:emergent-abilities`, `kt:large-language-model`, `kt:scaling-laws`, `kt:scaling-laws` |
 | `kt:supervised-learning` | `kt:perceptron`, `kt:bias-variance-tradeoff`, `kt:conditional-random-field`, `kt:machine-learning`, `kt:alphago`, `kt:reinforcement-learning` |
@@ -61,8 +61,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ai-accelerator` | `kt:tpu`, `kt:ai-chip-export-controls` |
 | `kt:apache-lucene` | `kt:bm25`, `kt:tf-idf` |
 | `kt:batch-normalization` | `kt:data-parallelism`, `kt:yolo` |
+| `kt:compute-governance` | `kt:ai-chip-export-controls`, `kt:bureau-of-industry-and-security` |
 | `kt:deep-belief-network` | `kt:geoffrey-hinton`, `kt:deep-learning` |
 | `kt:exploration-exploitation` | `kt:q-learning`, `kt:reinforcement-learning` |
+| `kt:export-control-reform-act` | `kt:ai-chip-export-controls`, `kt:bureau-of-industry-and-security` |
 | `kt:few-shot-prompting` | `kt:chain-of-thought`, `kt:prompt-sensitivity` |
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
 | `kt:kv-cache` | `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
@@ -109,12 +111,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:beir-a-heterogeneous-benchmark-for-zero-shot-evaluation-of-information-retrieval-models` | `kt:beir` |
 | `kt:big-bench` | `kt:emergent-abilities` |
 | `kt:boltzmann-machine` | `kt:geoffrey-hinton` |
-| `kt:bureau-of-industry-and-security` | `kt:ai-chip-export-controls` |
 | `kt:center-for-ai-standards-and-innovation` | `kt:ai-safety-institutes` |
 | `kt:chain-of-thought-prompting-elicits-reasoning-in-large-language-models` | `kt:chain-of-thought` |
 | `kt:christopher-watkins` | `kt:q-learning` |
 | `kt:commonsenseqa` | `kt:star-self-taught-reasoner` |
-| `kt:compute-governance` | `kt:ai-chip-export-controls` |
 | `kt:computing-machinery-and-intelligence` | `kt:turing-test` |
 | `kt:concrete-problems-in-ai-safety` | `kt:scalable-oversight` |
 | `kt:conditional-random-fields-probabilistic-models-for-segmenting-and-labeling-sequence-data` | `kt:conditional-random-field` |
@@ -139,7 +139,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:emergent-abilities-of-large-language-models` | `kt:emergent-abilities` |
 | `kt:expectation-maximization` | `kt:hidden-markov-model` |
 | `kt:expert-iteration` | `kt:star-self-taught-reasoner` |
-| `kt:export-control-reform-act` | `kt:ai-chip-export-controls` |
 | `kt:facial-recognition` | `kt:algorithmic-bias-and-fairness` |
 | `kt:fairness-accountability-and-transparency` | `kt:algorithmic-bias-and-fairness` |
 | `kt:faiss` | `kt:approximate-nearest-neighbor-search` |
@@ -250,6 +249,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:universal-approximation-theorem` | `kt:artificial-neural-network` |
 | `kt:universal-self-consistency` | `kt:self-consistency` |
 | `kt:unsupervised-learning` | `kt:machine-learning` |
+| `kt:us-department-of-commerce` | `kt:bureau-of-industry-and-security` |
 | `kt:vector-space-model` | `kt:tf-idf` |
 | `kt:voyager-an-open-ended-embodied-agent-with-large-language-models` | `kt:voyager` |
 | `kt:vtab` | `kt:an-image-is-worth-16x16-words` |

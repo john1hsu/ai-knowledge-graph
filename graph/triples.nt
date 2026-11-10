@@ -583,6 +583,33 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hybrid-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Organization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> <http://www.w3.org/2000/01/rdf-schema#label> "Bureau of Industry and Security" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> <http://www.w3.org/2004/02/skos/core#altLabel> "BIS" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> <http://www.w3.org/2004/02/skos/core#altLabel> "Bureau of Export Administration" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> <http://www.w3.org/2004/02/skos/core#altLabel> "Commerce Department Bureau of Industry and Security" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> <http://www.w3.org/2004/02/skos/core#altLabel> "US Bureau of Industry and Security" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> <http://www.w3.org/2004/02/skos/core#definition> "The US Department of Commerce agency that administers and enforces controls on exports of dual-use items under the Export Administration Regulations, and the body through which the US government restricts foreign access to advanced AI chips and has sought information from frontier AI developers." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bureau of Industry and Security" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/export-control-reform-act> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "governance-and-policy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> <https://github.com/john1hsu/ai-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/ai-knowledge-graph/id/us-department-of-commerce> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/2000/01/rdf-schema#label> "Chain-of-thought prompting" .
@@ -2367,6 +2394,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s5> <https://schema.org/url> "https://issues.apache.org/jira/browse/SOLR-8057" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s1> <http://purl.org/dc/terms/publisher> "Congressional Research Service (Fergusson, Kerr and Casey), updated 7 June 2021" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s1> <http://purl.org/dc/terms/title> "The U.S. Export Control System and the Export Control Reform Act of 2018 (R46814)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s1> <https://schema.org/url> "https://www.congress.gov/crs_external_products/R/PDF/R46814/R46814.5.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s2> <http://purl.org/dc/terms/publisher> "US Department of Commerce, Bureau of Industry and Security; archived by the UNT End of Term Web Archive" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s2> <http://purl.org/dc/terms/title> "Commerce Renames Agency Bureau of Industry and Security (press release, 2002)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s2> <https://schema.org/url> "https://webarchive.library.unt.edu/eot2008/20080920162232/https:/www.bis.doc.gov/news/2002/commercerenamesagencybis.htm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s3> <http://purl.org/dc/terms/publisher> "US Department of Commerce, Bureau of Industry and Security; Federal Register, 10 July 2002" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s3> <http://purl.org/dc/terms/title> "Industry and Security Programs; Change of Agency Name and Office Name (final rule)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s3> <https://schema.org/url> "https://www.govinfo.gov/content/pkg/FR-2002-07-10/pdf/02-17154.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s4> <http://purl.org/dc/terms/publisher> "US Department of Commerce, Bureau of Industry and Security; Federal Register, 11 September 2024 (RIN 0694-AJ55)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s4> <http://purl.org/dc/terms/title> "Establishment of Reporting Requirements for the Development of Advanced Artificial Intelligence Models and Computing Clusters (proposed rule)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s4> <https://schema.org/url> "https://govinfo.gov/content/pkg/FR-2024-09-11/pdf/2024-20529.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s5> <http://purl.org/dc/terms/publisher> "The White House; Federal Register 90(17), 28 January 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s5> <http://purl.org/dc/terms/title> "Executive Order 14148: Initial Rescissions of Harmful Executive Orders and Actions" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s5> <https://schema.org/url> "https://www.federalregister.gov/documents/full_text/text/2025/01/28/2025-01901.txt" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s6> <http://purl.org/dc/terms/publisher> "US Department of Commerce, Bureau of Industry and Security (press release, 13 May 2025)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s6> <http://purl.org/dc/terms/title> "Department of Commerce Announces Rescission of Biden-Era Artificial Intelligence Diffusion Rule, Strengthens Chip-Related Export Controls" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s6> <https://schema.org/url> "https://www.bis.gov/press-release/department-commerce-announces-rescission-biden-era-artificial-intelligence-diffusion-rule-strengthens" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 2022 (Wei, Wang, Schuurmans, Bosma, Ichter, Xia, Chi, Le, Zhou)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s1> <http://purl.org/dc/terms/title> "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

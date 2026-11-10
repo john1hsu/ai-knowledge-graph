@@ -3279,6 +3279,102 @@
       ]
     },
     {
+      "@id": "kt:bureau-of-industry-and-security",
+      "@type": "kto:Organization",
+      "skos:prefLabel": "Bureau of Industry and Security",
+      "skos:definition": "The US Department of Commerce agency that administers and enforces controls on exports of dual-use items under the Export Administration Regulations, and the body through which the US government restricts foreign access to advanced AI chips and has sought information from frontier AI developers.",
+      "kto:domain": "governance-and-policy",
+      "dcterms:created": "2026-11-10",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The U.S. Export Control System and the Export Control Reform Act of 2018 (R46814)",
+          "dcterms:publisher": "Congressional Research Service (Fergusson, Kerr and Casey), updated 7 June 2021",
+          "schema:url": "https://www.congress.gov/crs_external_products/R/PDF/R46814/R46814.5.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Commerce Renames Agency Bureau of Industry and Security (press release, 2002)",
+          "dcterms:publisher": "US Department of Commerce, Bureau of Industry and Security; archived by the UNT End of Term Web Archive",
+          "schema:url": "https://webarchive.library.unt.edu/eot2008/20080920162232/https:/www.bis.doc.gov/news/2002/commercerenamesagencybis.htm",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Industry and Security Programs; Change of Agency Name and Office Name (final rule)",
+          "dcterms:publisher": "US Department of Commerce, Bureau of Industry and Security; Federal Register, 10 July 2002",
+          "schema:url": "https://www.govinfo.gov/content/pkg/FR-2002-07-10/pdf/02-17154.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Establishment of Reporting Requirements for the Development of Advanced Artificial Intelligence Models and Computing Clusters (proposed rule)",
+          "dcterms:publisher": "US Department of Commerce, Bureau of Industry and Security; Federal Register, 11 September 2024 (RIN 0694-AJ55)",
+          "schema:url": "https://govinfo.gov/content/pkg/FR-2024-09-11/pdf/2024-20529.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Executive Order 14148: Initial Rescissions of Harmful Executive Orders and Actions",
+          "dcterms:publisher": "The White House; Federal Register 90(17), 28 January 2025",
+          "schema:url": "https://www.federalregister.gov/documents/full_text/text/2025/01/28/2025-01901.txt",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Department of Commerce Announces Rescission of Biden-Era Artificial Intelligence Diffusion Rule, Strengthens Chip-Related Export Controls",
+          "dcterms:publisher": "US Department of Commerce, Bureau of Industry and Security (press release, 13 May 2025)",
+          "schema:url": "https://www.bis.gov/press-release/department-commerce-announces-rescission-biden-era-artificial-intelligence-diffusion-rule-strengthens",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/governance-and-policy/bureau-of-industry-and-security.md",
+      "skos:altLabel": [
+        "BIS",
+        "US Bureau of Industry and Security",
+        "Commerce Department Bureau of Industry and Security",
+        "Bureau of Export Administration"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-governance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:ai-chip-export-controls"
+        },
+        {
+          "@id": "kt:compute-governance"
+        },
+        {
+          "@id": "kt:executive-orders-on-ai"
+        },
+        {
+          "@id": "kt:red-teaming"
+        },
+        {
+          "@id": "kt:ai-safety-institutes"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:us-department-of-commerce"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:export-control-reform-act"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:ai-chip-export-controls"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:executive-orders-on-ai"
+        }
+      ]
+    },
+    {
       "@id": "kt:nist-ai-risk-management-framework",
       "@type": "kto:Policy",
       "skos:prefLabel": "NIST AI Risk Management Framework",

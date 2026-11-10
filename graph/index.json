@@ -501,6 +501,29 @@
     ]
   },
   {
+    "id": "kt:bureau-of-industry-and-security",
+    "title": "Bureau of Industry and Security",
+    "aliases": [
+      "BIS",
+      "US Bureau of Industry and Security",
+      "Commerce Department Bureau of Industry and Security",
+      "Bureau of Export Administration"
+    ],
+    "type": "Organization",
+    "domain": "governance-and-policy",
+    "file": "articles/governance-and-policy/bureau-of-industry-and-security.md",
+    "created": "2026-11-10",
+    "maturity": "established",
+    "source_urls": [
+      "https://www.congress.gov/crs_external_products/R/PDF/R46814/R46814.5.pdf",
+      "https://webarchive.library.unt.edu/eot2008/20080920162232/https:/www.bis.doc.gov/news/2002/commercerenamesagencybis.htm",
+      "https://www.govinfo.gov/content/pkg/FR-2002-07-10/pdf/02-17154.pdf",
+      "https://govinfo.gov/content/pkg/FR-2024-09-11/pdf/2024-20529.pdf",
+      "https://www.federalregister.gov/documents/full_text/text/2025/01/28/2025-01901.txt",
+      "https://www.bis.gov/press-release/department-commerce-announces-rescission-biden-era-artificial-intelligence-diffusion-rule-strengthens"
+    ]
+  },
+  {
     "id": "kt:chain-of-thought",
     "title": "Chain-of-thought prompting",
     "aliases": [
