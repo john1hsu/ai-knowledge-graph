@@ -1029,6 +1029,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/office-of-management-and-budget> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "governance-and-policy" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <http://www.w3.org/2000/01/rdf-schema#label> "Perceptron" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <http://www.w3.org/2004/02/skos/core#altLabel> "Mark I Perceptron" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <http://www.w3.org/2004/02/skos/core#altLabel> "Rosenblatt perceptron" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <http://www.w3.org/2004/02/skos/core#altLabel> "perceptron algorithm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <http://www.w3.org/2004/02/skos/core#altLabel> "perceptron learning rule" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <http://www.w3.org/2004/02/skos/core#definition> "Frank Rosenblatt's 1958 learning machine and the error-driven rule behind it: a single layer of adjustable weights that classifies inputs by the sign of a weighted sum and nudges the weights toward each misclassified example, guaranteed to converge when the classes are linearly separable." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <http://www.w3.org/2004/02/skos/core#prefLabel> "Perceptron" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-winter> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/connectionism> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/marvin-minsky> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/support-vector-machine> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/frank-rosenblatt> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-history" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/a-logical-calculus-of-the-ideas-immanent-in-nervous-activity> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/the-perceptron-a-probabilistic-model-for-information-storage-and-organization-in-the-brain> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://www.w3.org/2000/01/rdf-schema#label> "Policy gradient methods" .
@@ -2489,6 +2515,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s6> <https://schema.org/url> "https://www.whitehouse.gov/wp-content/uploads/2025/12/M-26-04-Increasing-Public-Trust-in-Artificial-Intelligence-Through-Unbiased-AI-Principles-1.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s1> <http://purl.org/dc/terms/publisher> "F. Rosenblatt, Cornell Aeronautical Laboratory; Psychological Review 65(6), 1958" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s1> <http://purl.org/dc/terms/title> "The perceptron: A probabilistic model for information storage and organization in the brain" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s1> <https://schema.org/url> "https://homepages.math.uic.edu/~lreyzin/papers/rosenblatt58.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s2> <http://purl.org/dc/terms/publisher> "Cornell University, CS 4780/5780 Machine Learning for Intelligent Systems (Kilian Weinberger)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s2> <http://purl.org/dc/terms/title> "The Perceptron (CS4780/5780 lecture notes)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s2> <https://schema.org/url> "https://cs.cornell.edu/courses/cs4780/2024sp/lectures/pdfs/lecturenote03.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s3> <http://purl.org/dc/terms/publisher> "Y. Freund and R. E. Schapire, Machine Learning 37(3), 277–296, 1999 (copy hosted by Princeton COS 402)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s3> <http://purl.org/dc/terms/title> "Large Margin Classification Using the Perceptron Algorithm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s3> <https://schema.org/url> "https://www.cs.princeton.edu/courses/archive/fall08/cos402/readings/voted-perceptron.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s4> <http://purl.org/dc/terms/publisher> "Melanie Lefkowitz, Cornell Chronicle (September 25, 2019)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s4> <http://purl.org/dc/terms/title> "Professor's perceptron paved the way for AI – 60 years too soon" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s4> <https://schema.org/url> "https://news.cornell.edu/node/313946" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s5> <http://purl.org/dc/terms/publisher> "Lehigh University Library & Technology Services" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s5> <http://purl.org/dc/terms/title> "Perceptrons; an Introduction to Computational Geometry (Informationland exhibit)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s5> <https://schema.org/url> "https://exhibits.lib.lehigh.edu/exhibits/show/informationland/logic-computers-ai/perceptrons" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s1> <http://purl.org/dc/terms/publisher> "Advances in Neural Information Processing Systems 12 (NIPS 1999) (Sutton, McAllester, Singh and Mansour)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s1> <http://purl.org/dc/terms/title> "Policy Gradient Methods for Reinforcement Learning with Function Approximation" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

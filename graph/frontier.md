@@ -19,7 +19,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:instruction-tuning` | `kt:qlora`, `kt:rlhf`, `kt:synthetic-data`, `kt:synthetic-data` |
 | `kt:multi-agent-systems` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:langgraph` |
 | `kt:overfitting` | `kt:dropout`, `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent` |
-| `kt:perceptron` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:artificial-neural-network`, `kt:backpropagation` |
+| `kt:supervised-learning` | `kt:perceptron`, `kt:bias-variance-tradeoff`, `kt:machine-learning`, `kt:reinforcement-learning` |
 | `kt:tool-use` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:voyager` |
 | `kt:agent-memory` | `kt:ai-agent`, `kt:langgraph`, `kt:voyager` |
 | `kt:beam-search` | `kt:sampling-temperature-and-top-p`, `kt:self-consistency`, `kt:knowledge-distillation` |
@@ -40,12 +40,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:representation-learning` | `kt:clip`, `kt:deep-learning`, `kt:embeddings` |
 | `kt:reranking` | `kt:beir`, `kt:bm25`, `kt:semantic-search` |
 | `kt:reward-hacking` | `kt:ai-alignment`, `kt:scalable-oversight`, `kt:rlhf` |
-| `kt:supervised-learning` | `kt:bias-variance-tradeoff`, `kt:machine-learning`, `kt:reinforcement-learning` |
 | `kt:temporal-difference-learning` | `kt:actor-critic`, `kt:q-learning`, `kt:reinforcement-learning` |
 | `kt:vllm` | `kt:hugging-face-transformers`, `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
 | `kt:activation-function` | `kt:artificial-neural-network`, `kt:backpropagation` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:langgraph` |
 | `kt:apache-lucene` | `kt:bm25`, `kt:tf-idf` |
+| `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:perceptron` |
 | `kt:convolutional-neural-network` | `kt:artificial-neural-network`, `kt:deep-learning` |
 | `kt:deep-q-network` | `kt:q-learning`, `kt:reinforcement-learning` |
 | `kt:exploration-exploitation` | `kt:q-learning`, `kt:reinforcement-learning` |
@@ -57,6 +57,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:kv-cache` | `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
 | `kt:llm-as-a-judge` | `kt:ai-evaluation`, `kt:qlora` |
 | `kt:llm-inference-optimization` | `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
+| `kt:marvin-minsky` | `kt:dartmouth-workshop`, `kt:perceptron` |
 | `kt:model-cards` | `kt:algorithmic-bias-and-fairness`, `kt:omb-ai-memoranda` |
 | `kt:model-compression` | `kt:quantization`, `kt:knowledge-distillation` |
 | `kt:nvidia` | `kt:voyager`, `kt:cuda` |
@@ -76,6 +77,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ai-safety` | `kt:ai-alignment` |
 | `kt:ai-safety-summit` | `kt:ai-safety-institutes` |
 | `kt:ai-safety-via-debate` | `kt:scalable-oversight` |
+| `kt:ai-winter` | `kt:perceptron` |
 | `kt:alan-turing` | `kt:turing-test` |
 | `kt:alphago` | `kt:reinforcement-learning` |
 | `kt:application-specific-integrated-circuit` | `kt:tpu` |
@@ -92,7 +94,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:computing-machinery-and-intelligence` | `kt:turing-test` |
 | `kt:concrete-problems-in-ai-safety` | `kt:scalable-oversight` |
 | `kt:conditional-random-field` | `kt:hidden-markov-model` |
-| `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:contextual-calibration` | `kt:prompt-sensitivity` |
 | `kt:contrastive-learning` | `kt:clip` |
 | `kt:cross-validation` | `kt:bias-variance-tradeoff` |
@@ -118,6 +119,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fast-inference-from-transformers-via-speculative-decoding` | `kt:speculative-decoding` |
 | `kt:feature-store` | `kt:mlops` |
 | `kt:foundation-model` | `kt:large-language-model` |
+| `kt:frank-rosenblatt` | `kt:perceptron` |
 | `kt:generative-adversarial-nets` | `kt:generative-adversarial-network` |
 | `kt:hallucination` | `kt:mechanistic-interpretability` |
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
@@ -149,7 +151,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:logic-theorist` | `kt:dartmouth-workshop` |
 | `kt:lora` | `kt:qlora` |
 | `kt:markov-chain` | `kt:hidden-markov-model` |
-| `kt:marvin-minsky` | `kt:dartmouth-workshop` |
 | `kt:min-p-sampling` | `kt:sampling-temperature-and-top-p` |
 | `kt:minds-brains-and-programs` | `kt:chinese-room-argument` |
 | `kt:mlflow` | `kt:mlops` |
@@ -187,6 +188,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:speech-processing` | `kt:automatic-speech-recognition` |
 | `kt:strong-ai` | `kt:chinese-room-argument` |
 | `kt:stylegan` | `kt:generative-adversarial-network` |
+| `kt:support-vector-machine` | `kt:perceptron` |
 | `kt:switchboard-corpus` | `kt:automatic-speech-recognition` |
 | `kt:symbol-grounding-problem` | `kt:chinese-room-argument` |
 | `kt:symbolic-ai` | `kt:dartmouth-workshop` |
@@ -194,6 +196,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tensorrt-llm` | `kt:quantization` |
 | `kt:text-to-image-generation` | `kt:diffusion-model` |
 | `kt:the-curious-case-of-neural-text-degeneration` | `kt:sampling-temperature-and-top-p` |
+| `kt:the-perceptron-a-probabilistic-model-for-information-storage-and-organization-in-the-brain` | `kt:perceptron` |
 | `kt:tim-dettmers` | `kt:qlora` |
 | `kt:training-verifiers-to-solve-math-word-problems` | `kt:gsm8k` |
 | `kt:transformers-state-of-the-art-natural-language-processing` | `kt:hugging-face-transformers` |

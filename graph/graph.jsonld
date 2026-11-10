@@ -677,6 +677,94 @@
       ]
     },
     {
+      "@id": "kt:perceptron",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "Perceptron",
+      "skos:definition": "Frank Rosenblatt's 1958 learning machine and the error-driven rule behind it: a single layer of adjustable weights that classifies inputs by the sign of a weighted sum and nudges the weights toward each misclassified example, guaranteed to converge when the classes are linearly separable.",
+      "kto:domain": "ai-history",
+      "dcterms:created": "2026-11-10",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The perceptron: A probabilistic model for information storage and organization in the brain",
+          "dcterms:publisher": "F. Rosenblatt, Cornell Aeronautical Laboratory; Psychological Review 65(6), 1958",
+          "schema:url": "https://homepages.math.uic.edu/~lreyzin/papers/rosenblatt58.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Perceptron (CS4780/5780 lecture notes)",
+          "dcterms:publisher": "Cornell University, CS 4780/5780 Machine Learning for Intelligent Systems (Kilian Weinberger)",
+          "schema:url": "https://cs.cornell.edu/courses/cs4780/2024sp/lectures/pdfs/lecturenote03.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Large Margin Classification Using the Perceptron Algorithm",
+          "dcterms:publisher": "Y. Freund and R. E. Schapire, Machine Learning 37(3), 277–296, 1999 (copy hosted by Princeton COS 402)",
+          "schema:url": "https://www.cs.princeton.edu/courses/archive/fall08/cos402/readings/voted-perceptron.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Professor's perceptron paved the way for AI – 60 years too soon",
+          "dcterms:publisher": "Melanie Lefkowitz, Cornell Chronicle (September 25, 2019)",
+          "schema:url": "https://news.cornell.edu/node/313946",
+          "kto:sourceType": "news"
+        },
+        {
+          "dcterms:title": "Perceptrons; an Introduction to Computational Geometry (Informationland exhibit)",
+          "dcterms:publisher": "Lehigh University Library & Technology Services",
+          "schema:url": "https://exhibits.lib.lehigh.edu/exhibits/show/informationland/logic-computers-ai/perceptrons",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/ai-history/perceptron.md",
+      "skos:altLabel": [
+        "Rosenblatt perceptron",
+        "perceptron learning rule",
+        "perceptron algorithm",
+        "Mark I Perceptron"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:artificial-neural-network"
+        },
+        {
+          "@id": "kt:supervised-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:backpropagation"
+        },
+        {
+          "@id": "kt:ai-winter"
+        },
+        {
+          "@id": "kt:connectionism"
+        },
+        {
+          "@id": "kt:support-vector-machine"
+        },
+        {
+          "@id": "kt:marvin-minsky"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:frank-rosenblatt"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:the-perceptron-a-probabilistic-model-for-information-storage-and-organization-in-the-brain"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity"
+        }
+      ]
+    },
+    {
       "@id": "kt:turing-test",
       "@type": "kto:Concept",
       "skos:prefLabel": "Turing test",

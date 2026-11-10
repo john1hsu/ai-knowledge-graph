@@ -896,6 +896,28 @@
     ]
   },
   {
+    "id": "kt:perceptron",
+    "title": "Perceptron",
+    "aliases": [
+      "Rosenblatt perceptron",
+      "perceptron learning rule",
+      "perceptron algorithm",
+      "Mark I Perceptron"
+    ],
+    "type": "Algorithm",
+    "domain": "ai-history",
+    "file": "articles/ai-history/perceptron.md",
+    "created": "2026-11-10",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://homepages.math.uic.edu/~lreyzin/papers/rosenblatt58.pdf",
+      "https://cs.cornell.edu/courses/cs4780/2024sp/lectures/pdfs/lecturenote03.pdf",
+      "https://www.cs.princeton.edu/courses/archive/fall08/cos402/readings/voted-perceptron.pdf",
+      "https://news.cornell.edu/node/313946",
+      "https://exhibits.lib.lehigh.edu/exhibits/show/informationland/logic-computers-ai/perceptrons"
+    ]
+  },
+  {
     "id": "kt:policy-gradient",
     "title": "Policy gradient methods",
     "aliases": [
