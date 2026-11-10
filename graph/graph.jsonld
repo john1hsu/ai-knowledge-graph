@@ -5752,6 +5752,86 @@
       ]
     },
     {
+      "@id": "kt:sycophancy",
+      "@type": "kto:Risk",
+      "skos:prefLabel": "Sycophancy",
+      "skos:definition": "The tendency of a language model or AI assistant to tell users what they want to hear, agreeing with their stated views, praising their work or abandoning correct answers under pushback, rather than giving the most accurate response.",
+      "kto:domain": "safety-alignment-and-security",
+      "dcterms:created": "2026-11-10",
+      "kto:maturity": "emerging",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Discovering Language Model Behaviors with Model-Written Evaluations",
+          "dcterms:publisher": "Findings of ACL 2023, pp. 13387–13434 (Perez, Ringer, Lukošiūtė, Nguyen et al., Anthropic)",
+          "schema:url": "https://aclanthology.org/2023.findings-acl.847",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Towards Understanding Sycophancy in Language Models",
+          "dcterms:publisher": "ICLR 2024 (Sharma, Tong, Korbak, Duvenaud, Askell, Bowman et al.)",
+          "schema:url": "https://proceedings.iclr.cc/paper_files/paper/2024/hash/0105f7972202c1d4fb817da9f21a9663-Abstract-Conference.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Towards Understanding Sycophancy in Language Models (arXiv v4, full text)",
+          "dcterms:publisher": "arXiv:2310.13548 (Sharma et al.)",
+          "schema:url": "https://arxiv.org/html/2310.13548v4",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Simple synthetic data reduces sycophancy in large language models",
+          "dcterms:publisher": "arXiv:2308.03958 (Wei, Huang, Lu, Zhou, Le, Google), v2 February 2024",
+          "schema:url": "https://arxiv.org/abs/2308.03958v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Sycophancy in GPT-4o: what happened and what we're doing about it",
+          "dcterms:publisher": "OpenAI, 29 April 2025",
+          "schema:url": "https://openai.com/index/sycophancy-in-gpt-4o/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Expanding on what we missed with sycophancy",
+          "dcterms:publisher": "OpenAI, 2 May 2025",
+          "schema:url": "https://openai.com/index/expanding-on-sycophancy/",
+          "kto:sourceType": "lab-research"
+        }
+      ],
+      "kto:file": "articles/safety-alignment-and-security/sycophancy.md",
+      "skos:altLabel": [
+        "AI sycophancy",
+        "LLM sycophancy",
+        "sycophantic behavior"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-alignment"
+        },
+        {
+          "@id": "kt:reward-hacking"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:rlhf"
+        },
+        {
+          "@id": "kt:synthetic-data"
+        },
+        {
+          "@id": "kt:scalable-oversight"
+        },
+        {
+          "@id": "kt:mechanistic-interpretability"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:hallucination"
+        }
+      ]
+    },
+    {
       "@id": "kt:knowledge-distillation",
       "@type": "kto:Technique",
       "skos:prefLabel": "Knowledge distillation",
@@ -6032,6 +6112,9 @@
         },
         {
           "@id": "kt:instruction-tuning"
+        },
+        {
+          "@id": "kt:sycophancy"
         }
       ],
       "kto:introducedIn": [

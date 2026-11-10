@@ -10,7 +10,7 @@ summary: >-
   penalty that keeps it close to its starting point.
 maturity: established
 broader: [kt:fine-tuning, kt:reinforcement-learning]
-related: [kt:large-language-model, kt:red-teaming, kt:reward-hacking, kt:ai-alignment, kt:instruction-tuning]
+related: [kt:large-language-model, kt:red-teaming, kt:reward-hacking, kt:ai-alignment, kt:instruction-tuning, kt:sycophancy]
 relations:
   - {predicate: introducedIn, object: kt:deep-reinforcement-learning-from-human-preferences}
   - {predicate: dependsOn, object: kt:proximal-policy-optimization}

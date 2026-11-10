@@ -1425,6 +1425,28 @@
     ]
   },
   {
+    "id": "kt:sycophancy",
+    "title": "Sycophancy",
+    "aliases": [
+      "AI sycophancy",
+      "LLM sycophancy",
+      "sycophantic behavior"
+    ],
+    "type": "Risk",
+    "domain": "safety-alignment-and-security",
+    "file": "articles/safety-alignment-and-security/sycophancy.md",
+    "created": "2026-11-10",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://aclanthology.org/2023.findings-acl.847",
+      "https://proceedings.iclr.cc/paper_files/paper/2024/hash/0105f7972202c1d4fb817da9f21a9663-Abstract-Conference.html",
+      "https://arxiv.org/html/2310.13548v4",
+      "https://arxiv.org/abs/2308.03958v2",
+      "https://openai.com/index/sycophancy-in-gpt-4o/",
+      "https://openai.com/index/expanding-on-sycophancy/"
+    ]
+  },
+  {
     "id": "kt:synthetic-data",
     "title": "Synthetic data",
     "aliases": [

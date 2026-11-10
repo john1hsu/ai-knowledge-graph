@@ -29,6 +29,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pytorch` | `kt:hugging-face-transformers`, `kt:adam-optimizer`, `kt:backpropagation`, `kt:dropout` |
 | `kt:recurrent-neural-network` | `kt:automatic-speech-recognition`, `kt:deep-learning`, `kt:conditional-random-field`, `kt:hidden-markov-model` |
 | `kt:regularization` | `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:conditional-random-field`, `kt:double-descent` |
+| `kt:reward-hacking` | `kt:ai-alignment`, `kt:scalable-oversight`, `kt:sycophancy`, `kt:rlhf` |
 | `kt:tool-use` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:voyager` |
 | `kt:agent-memory` | `kt:ai-agent`, `kt:langgraph`, `kt:voyager` |
 | `kt:beam-search` | `kt:sampling-temperature-and-top-p`, `kt:self-consistency`, `kt:knowledge-distillation` |
@@ -37,6 +38,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:hidden-markov-model` |
 | `kt:geoffrey-hinton` | `kt:dropout`, `kt:dropout`, `kt:knowledge-distillation` |
 | `kt:gradient-descent` | `kt:adam-optimizer`, `kt:backpropagation`, `kt:deep-learning` |
+| `kt:hallucination` | `kt:truthfulqa`, `kt:mechanistic-interpretability`, `kt:sycophancy` |
 | `kt:hybrid-search` | `kt:bm25`, `kt:bm25`, `kt:semantic-search` |
 | `kt:imagenet-and-alexnet` | `kt:cuda`, `kt:nvidia`, `kt:yolo` |
 | `kt:llm-as-a-judge` | `kt:ai-evaluation`, `kt:truthfulqa`, `kt:qlora` |
@@ -46,7 +48,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:prompt-injection` | `kt:agent2agent-protocol`, `kt:red-teaming`, `kt:jailbreak` |
 | `kt:representation-learning` | `kt:clip`, `kt:deep-learning`, `kt:embeddings` |
 | `kt:reranking` | `kt:beir`, `kt:bm25`, `kt:semantic-search` |
-| `kt:reward-hacking` | `kt:ai-alignment`, `kt:scalable-oversight`, `kt:rlhf` |
 | `kt:temporal-difference-learning` | `kt:actor-critic`, `kt:q-learning`, `kt:reinforcement-learning` |
 | `kt:vector-database` | `kt:approximate-nearest-neighbor-search`, `kt:embeddings`, `kt:semantic-search` |
 | `kt:vllm` | `kt:hugging-face-transformers`, `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
@@ -61,7 +62,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:few-shot-prompting` | `kt:chain-of-thought`, `kt:prompt-sensitivity` |
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
 | `kt:google` | `kt:agent2agent-protocol`, `kt:tpu` |
-| `kt:hallucination` | `kt:truthfulqa`, `kt:mechanistic-interpretability` |
 | `kt:kv-cache` | `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
 | `kt:llm-inference-optimization` | `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
 | `kt:marvin-minsky` | `kt:dartmouth-workshop`, `kt:perceptron` |

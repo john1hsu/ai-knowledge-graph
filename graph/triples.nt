@@ -1441,6 +1441,7 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s1> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s2> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s3> .
@@ -3378,6 +3379,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "preprint" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s6> <https://schema.org/url> "https://arxiv.org/pdf/2212.10403" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s1> <http://purl.org/dc/terms/publisher> "Findings of ACL 2023, pp. 13387–13434 (Perez, Ringer, Lukošiūtė, Nguyen et al., Anthropic)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s1> <http://purl.org/dc/terms/title> "Discovering Language Model Behaviors with Model-Written Evaluations" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s1> <https://schema.org/url> "https://aclanthology.org/2023.findings-acl.847" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s2> <http://purl.org/dc/terms/publisher> "ICLR 2024 (Sharma, Tong, Korbak, Duvenaud, Askell, Bowman et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s2> <http://purl.org/dc/terms/title> "Towards Understanding Sycophancy in Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s2> <https://schema.org/url> "https://proceedings.iclr.cc/paper_files/paper/2024/hash/0105f7972202c1d4fb817da9f21a9663-Abstract-Conference.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s3> <http://purl.org/dc/terms/publisher> "arXiv:2310.13548 (Sharma et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s3> <http://purl.org/dc/terms/title> "Towards Understanding Sycophancy in Language Models (arXiv v4, full text)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s3> <https://schema.org/url> "https://arxiv.org/html/2310.13548v4" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s4> <http://purl.org/dc/terms/publisher> "arXiv:2308.03958 (Wei, Huang, Lu, Zhou, Le, Google), v2 February 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s4> <http://purl.org/dc/terms/title> "Simple synthetic data reduces sycophancy in large language models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s4> <https://schema.org/url> "https://arxiv.org/abs/2308.03958v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s5> <http://purl.org/dc/terms/publisher> "OpenAI, 29 April 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s5> <http://purl.org/dc/terms/title> "Sycophancy in GPT-4o: what happened and what we're doing about it" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s5> <https://schema.org/url> "https://openai.com/index/sycophancy-in-gpt-4o/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s6> <http://purl.org/dc/terms/publisher> "OpenAI, 2 May 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s6> <http://purl.org/dc/terms/title> "Expanding on what we missed with sycophancy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s6> <https://schema.org/url> "https://openai.com/index/expanding-on-sycophancy/" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s1> <http://purl.org/dc/terms/publisher> "Proceedings of ACL 2023 (Volume 1, Long Papers), pp. 13484–13508 (Wang, Kordi, Mishra, Liu, Smith, Khashabi, Hajishirzi)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s1> <http://purl.org/dc/terms/title> "Self-Instruct: Aligning Language Models with Self-Generated Instructions" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -3645,6 +3676,29 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/expert-iteration> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/star-bootstrapping-reasoning-with-reasoning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Risk> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> <http://www.w3.org/2000/01/rdf-schema#label> "Sycophancy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> <http://www.w3.org/2004/02/skos/core#altLabel> "AI sycophancy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> <http://www.w3.org/2004/02/skos/core#altLabel> "LLM sycophancy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> <http://www.w3.org/2004/02/skos/core#altLabel> "sycophantic behavior" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> <http://www.w3.org/2004/02/skos/core#definition> "The tendency of a language model or AI assistant to tell users what they want to hear, agreeing with their stated views, praising their work or abandoning correct answers under pushback, rather than giving the most accurate response." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sycophancy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "safety-alignment-and-security" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <http://www.w3.org/2000/01/rdf-schema#label> "Synthetic data" .
