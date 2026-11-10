@@ -24,6 +24,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:convolutional-neural-network` | `kt:yolo`, `kt:artificial-neural-network`, `kt:deep-learning`, `kt:alphago` |
 | `kt:distributed-training` | `kt:cuda`, `kt:mlops`, `kt:nvidia`, `kt:tpu` |
 | `kt:gpu-computing` | `kt:cuda`, `kt:nvidia`, `kt:tpu`, `kt:ai-chip-export-controls` |
+| `kt:imagenet-and-alexnet` | `kt:geoffrey-hinton`, `kt:cuda`, `kt:nvidia`, `kt:yolo` |
 | `kt:instruction-tuning` | `kt:qlora`, `kt:rlhf`, `kt:synthetic-data`, `kt:synthetic-data` |
 | `kt:multi-agent-systems` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:langgraph` |
 | `kt:overfitting` | `kt:dropout`, `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent` |
@@ -33,15 +34,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:reward-hacking` | `kt:ai-alignment`, `kt:scalable-oversight`, `kt:sycophancy`, `kt:rlhf` |
 | `kt:agent-memory` | `kt:ai-agent`, `kt:langgraph`, `kt:voyager` |
 | `kt:beam-search` | `kt:sampling-temperature-and-top-p`, `kt:self-consistency`, `kt:knowledge-distillation` |
+| `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:geoffrey-hinton`, `kt:perceptron` |
 | `kt:deep-q-network` | `kt:alphago`, `kt:q-learning`, `kt:reinforcement-learning` |
 | `kt:eu-ai-act` | `kt:algorithmic-bias-and-fairness`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:hidden-markov-model` |
-| `kt:geoffrey-hinton` | `kt:dropout`, `kt:dropout`, `kt:knowledge-distillation` |
 | `kt:google` | `kt:agent2agent-protocol`, `kt:tpu`, `kt:attention-is-all-you-need` |
 | `kt:gradient-descent` | `kt:adam-optimizer`, `kt:backpropagation`, `kt:deep-learning` |
 | `kt:hallucination` | `kt:truthfulqa`, `kt:mechanistic-interpretability`, `kt:sycophancy` |
 | `kt:hybrid-search` | `kt:bm25`, `kt:bm25`, `kt:semantic-search` |
-| `kt:imagenet-and-alexnet` | `kt:cuda`, `kt:nvidia`, `kt:yolo` |
 | `kt:llm-as-a-judge` | `kt:ai-evaluation`, `kt:truthfulqa`, `kt:qlora` |
 | `kt:model-compression` | `kt:gptq`, `kt:quantization`, `kt:knowledge-distillation` |
 | `kt:model-pruning` | `kt:quantization`, `kt:quantization`, `kt:knowledge-distillation` |
@@ -59,7 +59,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ai-accelerator` | `kt:tpu`, `kt:ai-chip-export-controls` |
 | `kt:apache-lucene` | `kt:bm25`, `kt:tf-idf` |
 | `kt:awq` | `kt:gptq`, `kt:gptq` |
-| `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:perceptron` |
+| `kt:deep-belief-network` | `kt:geoffrey-hinton`, `kt:deep-learning` |
 | `kt:exploration-exploitation` | `kt:q-learning`, `kt:reinforcement-learning` |
 | `kt:few-shot-prompting` | `kt:chain-of-thought`, `kt:prompt-sensitivity` |
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
@@ -103,6 +103,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:batch-normalization` | `kt:yolo` |
 | `kt:beir-a-heterogeneous-benchmark-for-zero-shot-evaluation-of-information-retrieval-models` | `kt:beir` |
 | `kt:big-bench` | `kt:emergent-abilities` |
+| `kt:boltzmann-machine` | `kt:geoffrey-hinton` |
 | `kt:bureau-of-industry-and-security` | `kt:ai-chip-export-controls` |
 | `kt:center-for-ai-standards-and-innovation` | `kt:ai-safety-institutes` |
 | `kt:chain-of-thought-prompting-elicits-reasoning-in-large-language-models` | `kt:chain-of-thought` |
@@ -117,7 +118,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cross-validation` | `kt:bias-variance-tradeoff` |
 | `kt:cudnn` | `kt:cuda` |
 | `kt:data-drift` | `kt:mlops` |
-| `kt:deep-belief-network` | `kt:deep-learning` |
 | `kt:deep-learning-framework` | `kt:hugging-face-transformers` |
 | `kt:deep-reinforcement-learning-from-human-preferences` | `kt:rlhf` |
 | `kt:deep-unsupervised-learning-using-nonequilibrium-thermodynamics` | `kt:diffusion-model` |

@@ -769,6 +769,87 @@
       ]
     },
     {
+      "@id": "kt:geoffrey-hinton",
+      "@type": "kto:Person",
+      "skos:prefLabel": "Geoffrey Hinton",
+      "skos:definition": "British-Canadian cognitive psychologist and computer scientist (born 1947) whose work on backpropagation, Boltzmann machines, dropout and deep convolutional networks helped found modern deep learning; co-recipient of the 2018 ACM Turing Award and the 2024 Nobel Prize in Physics.",
+      "kto:domain": "ai-history",
+      "dcterms:created": "2026-11-10",
+      "kto:maturity": "historical",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Geoffrey E. Hinton's Biographical Sketch",
+          "dcterms:publisher": "Department of Computer Science, University of Toronto",
+          "schema:url": "https://www.cs.toronto.edu/~hinton/bio.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Geoffrey Hinton",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://britannica.com/biography/Geoffrey-Hinton",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Press release: The Nobel Prize in Physics 2024",
+          "dcterms:publisher": "The Royal Swedish Academy of Sciences / Nobel Prize Outreach (nobelprize.org)",
+          "schema:url": "https://www.nobelprize.org/prizes/physics/2024/press-release/",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "ImageNet Classification with Deep Convolutional Neural Networks",
+          "dcterms:publisher": "Advances in Neural Information Processing Systems 25 (NIPS 2012), Krizhevsky, Sutskever and Hinton",
+          "schema:url": "https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Dropout: A Simple Way to Prevent Neural Networks from Overfitting",
+          "dcterms:publisher": "Journal of Machine Learning Research 15(56), 1929-1958, 2014 (Srivastava, Hinton, Krizhevsky, Sutskever and Salakhutdinov)",
+          "schema:url": "https://www.jmlr.org/papers/v15/srivastava14a.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Distilling the Knowledge in a Neural Network",
+          "dcterms:publisher": "arXiv:1503.02531 (Hinton, Vinyals and Dean), NIPS 2014 Deep Learning Workshop",
+          "schema:url": "https://arxiv.org/abs/1503.02531",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/ai-history/geoffrey-hinton.md",
+      "skos:altLabel": [
+        "Geoffrey E. Hinton",
+        "Geoffrey Everest Hinton",
+        "Geoff Hinton"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:deep-learning"
+        },
+        {
+          "@id": "kt:connectionism"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:backpropagation"
+        },
+        {
+          "@id": "kt:dropout"
+        },
+        {
+          "@id": "kt:knowledge-distillation"
+        },
+        {
+          "@id": "kt:imagenet-and-alexnet"
+        },
+        {
+          "@id": "kt:boltzmann-machine"
+        },
+        {
+          "@id": "kt:deep-belief-network"
+        }
+      ]
+    },
+    {
       "@id": "kt:perceptron",
       "@type": "kto:Algorithm",
       "skos:prefLabel": "Perceptron",

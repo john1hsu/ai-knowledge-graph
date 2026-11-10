@@ -766,6 +766,28 @@
     ]
   },
   {
+    "id": "kt:geoffrey-hinton",
+    "title": "Geoffrey Hinton",
+    "aliases": [
+      "Geoffrey E. Hinton",
+      "Geoffrey Everest Hinton",
+      "Geoff Hinton"
+    ],
+    "type": "Person",
+    "domain": "ai-history",
+    "file": "articles/ai-history/geoffrey-hinton.md",
+    "created": "2026-11-10",
+    "maturity": "historical",
+    "source_urls": [
+      "https://www.cs.toronto.edu/~hinton/bio.html",
+      "https://britannica.com/biography/Geoffrey-Hinton",
+      "https://www.nobelprize.org/prizes/physics/2024/press-release/",
+      "https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html",
+      "https://www.jmlr.org/papers/v15/srivastava14a.html",
+      "https://arxiv.org/abs/1503.02531"
+    ]
+  },
+  {
     "id": "kt:gptq",
     "title": "GPTQ",
     "aliases": [

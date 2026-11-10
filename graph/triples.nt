@@ -888,6 +888,30 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "computer-vision-and-multimodal" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-nets> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Person> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> <http://www.w3.org/2000/01/rdf-schema#label> "Geoffrey Hinton" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> <http://www.w3.org/2004/02/skos/core#altLabel> "Geoff Hinton" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> <http://www.w3.org/2004/02/skos/core#altLabel> "Geoffrey E. Hinton" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> <http://www.w3.org/2004/02/skos/core#altLabel> "Geoffrey Everest Hinton" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/connectionism> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> <http://www.w3.org/2004/02/skos/core#definition> "British-Canadian cognitive psychologist and computer scientist (born 1947) whose work on backpropagation, Boltzmann machines, dropout and deep convolutional networks helped found modern deep learning; co-recipient of the 2018 ACM Turing Award and the 2024 Nobel Prize in Physics." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geoffrey Hinton" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/boltzmann-machine> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-belief-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/dropout> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-history" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "historical" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <http://www.w3.org/2000/01/rdf-schema#label> "GPTQ" .
@@ -2595,6 +2619,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s5> <https://schema.org/url> "https://papers.nips.cc/paper/2021/hash/49ad23d1ec9fa4bd8d77d02681df5cfa-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s1> <http://purl.org/dc/terms/publisher> "Department of Computer Science, University of Toronto" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s1> <http://purl.org/dc/terms/title> "Geoffrey E. Hinton's Biographical Sketch" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s1> <https://schema.org/url> "https://www.cs.toronto.edu/~hinton/bio.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s2> <http://purl.org/dc/terms/title> "Geoffrey Hinton" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s2> <https://schema.org/url> "https://britannica.com/biography/Geoffrey-Hinton" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s3> <http://purl.org/dc/terms/publisher> "The Royal Swedish Academy of Sciences / Nobel Prize Outreach (nobelprize.org)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s3> <http://purl.org/dc/terms/title> "Press release: The Nobel Prize in Physics 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s3> <https://schema.org/url> "https://www.nobelprize.org/prizes/physics/2024/press-release/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s4> <http://purl.org/dc/terms/publisher> "Advances in Neural Information Processing Systems 25 (NIPS 2012), Krizhevsky, Sutskever and Hinton" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s4> <http://purl.org/dc/terms/title> "ImageNet Classification with Deep Convolutional Neural Networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s4> <https://schema.org/url> "https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s5> <http://purl.org/dc/terms/publisher> "Journal of Machine Learning Research 15(56), 1929-1958, 2014 (Srivastava, Hinton, Krizhevsky, Sutskever and Salakhutdinov)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s5> <http://purl.org/dc/terms/title> "Dropout: A Simple Way to Prevent Neural Networks from Overfitting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s5> <https://schema.org/url> "https://www.jmlr.org/papers/v15/srivastava14a.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s6> <http://purl.org/dc/terms/publisher> "arXiv:1503.02531 (Hinton, Vinyals and Dean), NIPS 2014 Deep Learning Workshop" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s6> <http://purl.org/dc/terms/title> "Distilling the Knowledge in a Neural Network" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s6> <https://schema.org/url> "https://arxiv.org/abs/1503.02531" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s1> <http://purl.org/dc/terms/publisher> "ICLR 2023 (Frantar, Ashkboos, Hoefler and Alistarh), authors' arXiv version 2210.17323" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s1> <http://purl.org/dc/terms/title> "GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
