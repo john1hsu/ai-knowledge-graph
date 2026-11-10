@@ -1312,6 +1312,29 @@
     ]
   },
   {
+    "id": "kt:scratchpad",
+    "title": "Scratchpad",
+    "aliases": [
+      "scratchpads",
+      "scratchpad reasoning",
+      "show your work",
+      "intermediate computation scratchpad"
+    ],
+    "type": "Technique",
+    "domain": "prompting-and-reasoning",
+    "file": "articles/prompting-and-reasoning/scratchpad.md",
+    "created": "2026-11-10",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/pdf/2112.00114",
+      "https://research.google/pubs/show-your-work-scratchpads-for-intermediate-computation-with-language-models/",
+      "https://aclanthology.org/P17-1015/",
+      "https://proceedings.nips.cc/paper_files/paper/2022/file/9d5609613524ecf4f15af0f7b31abca4-Paper-Conference.pdf",
+      "https://proceedings.neurips.cc/paper_files/paper/2022/hash/639a9a172c044fbb64175b5fad42e9a5-Abstract-Conference.html",
+      "https://platform.claude.com/docs/en/build-with-claude/extended-thinking.md"
+    ]
+  },
+  {
     "id": "kt:self-consistency",
     "title": "Self-consistency",
     "aliases": [

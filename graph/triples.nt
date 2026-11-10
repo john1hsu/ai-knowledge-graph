@@ -1528,6 +1528,35 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws-for-neural-language-models> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scratchpad> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scratchpad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scratchpad> <http://www.w3.org/2000/01/rdf-schema#label> "Scratchpad" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scratchpad> <http://www.w3.org/2004/02/skos/core#altLabel> "intermediate computation scratchpad" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scratchpad> <http://www.w3.org/2004/02/skos/core#altLabel> "scratchpad reasoning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scratchpad> <http://www.w3.org/2004/02/skos/core#altLabel> "scratchpads" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scratchpad> <http://www.w3.org/2004/02/skos/core#altLabel> "show your work" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scratchpad> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scratchpad> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/test-time-compute> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scratchpad> <http://www.w3.org/2004/02/skos/core#definition> "A technique in which a language model is trained or few-shot prompted to write the intermediate steps of a multi-step computation (such as partial sums or a program's execution trace) into a delimited buffer before emitting its final answer, which markedly improves accuracy on algorithmic tasks." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scratchpad> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scratchpad" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scratchpad> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scratchpad> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scratchpad> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scratchpad> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scratchpad> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scratchpad> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scratchpad> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scratchpad> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scratchpad> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scratchpad> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scratchpad> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scratchpad> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scratchpad> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scratchpad> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "prompting-and-reasoning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scratchpad> <https://github.com/john1hsu/ai-knowledge-graph/ontology#followedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scratchpad> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/program-induction-by-rationale-generation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scratchpad> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/show-your-work-scratchpads-for-intermediate-computation-with-language-models> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scratchpad> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> <http://www.w3.org/2000/01/rdf-schema#label> "Self-consistency" .
@@ -3209,6 +3238,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/scaling-laws/s6> <https://schema.org/url> "https://neurips.cc/virtual/2023/oral/73863" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s1> <http://purl.org/dc/terms/publisher> "arXiv 2112.00114 (Nye, Andreassen, Gur-Ari, Michalewski, Austin, Bieber, Dohan, Lewkowycz, Bosma, Luan, Sutton, Odena)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s1> <http://purl.org/dc/terms/title> "Show Your Work: Scratchpads for Intermediate Computation with Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s1> <https://schema.org/url> "https://arxiv.org/pdf/2112.00114" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s2> <http://purl.org/dc/terms/publisher> "Google Research publications" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s2> <http://purl.org/dc/terms/title> "Show Your Work: Scratchpads for Intermediate Computation with Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s2> <https://schema.org/url> "https://research.google/pubs/show-your-work-scratchpads-for-intermediate-computation-with-language-models/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s3> <http://purl.org/dc/terms/publisher> "ACL 2017 (Ling, Yogatama, Dyer, Blunsom)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s3> <http://purl.org/dc/terms/title> "Program Induction by Rationale Generation: Learning to Solve and Explain Algebraic Word Problems" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s3> <https://schema.org/url> "https://aclanthology.org/P17-1015/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s4> <http://purl.org/dc/terms/publisher> "NeurIPS 2022 (Wei et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s4> <http://purl.org/dc/terms/title> "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s4> <https://schema.org/url> "https://proceedings.nips.cc/paper_files/paper/2022/file/9d5609613524ecf4f15af0f7b31abca4-Paper-Conference.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s5> <http://purl.org/dc/terms/publisher> "NeurIPS 2022 (Zelikman, Wu, Mu, Goodman)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s5> <http://purl.org/dc/terms/title> "STaR: Bootstrapping Reasoning With Reasoning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s5> <https://schema.org/url> "https://proceedings.neurips.cc/paper_files/paper/2022/hash/639a9a172c044fbb64175b5fad42e9a5-Abstract-Conference.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s6> <http://purl.org/dc/terms/publisher> "Claude Platform documentation (Anthropic)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s6> <http://purl.org/dc/terms/title> "Extended thinking" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/scratchpad/s6> <https://schema.org/url> "https://platform.claude.com/docs/en/build-with-claude/extended-thinking.md" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/self-consistency/s1> <http://purl.org/dc/terms/publisher> "arXiv 2203.11171v4 (Wang, Wei, Schuurmans, Le, Chi, Narang, Chowdhery, Zhou)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/self-consistency/s1> <http://purl.org/dc/terms/title> "Self-Consistency Improves Chain of Thought Reasoning in Language Models" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/self-consistency/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

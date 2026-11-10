@@ -4179,6 +4179,110 @@
       ]
     },
     {
+      "@id": "kt:scratchpad",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Scratchpad",
+      "skos:definition": "A technique in which a language model is trained or few-shot prompted to write the intermediate steps of a multi-step computation (such as partial sums or a program's execution trace) into a delimited buffer before emitting its final answer, which markedly improves accuracy on algorithmic tasks.",
+      "kto:domain": "prompting-and-reasoning",
+      "dcterms:created": "2026-11-10",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Show Your Work: Scratchpads for Intermediate Computation with Language Models",
+          "dcterms:publisher": "arXiv 2112.00114 (Nye, Andreassen, Gur-Ari, Michalewski, Austin, Bieber, Dohan, Lewkowycz, Bosma, Luan, Sutton, Odena)",
+          "schema:url": "https://arxiv.org/pdf/2112.00114",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Show Your Work: Scratchpads for Intermediate Computation with Language Models",
+          "dcterms:publisher": "Google Research publications",
+          "schema:url": "https://research.google/pubs/show-your-work-scratchpads-for-intermediate-computation-with-language-models/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Program Induction by Rationale Generation: Learning to Solve and Explain Algebraic Word Problems",
+          "dcterms:publisher": "ACL 2017 (Ling, Yogatama, Dyer, Blunsom)",
+          "schema:url": "https://aclanthology.org/P17-1015/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
+          "dcterms:publisher": "NeurIPS 2022 (Wei et al.)",
+          "schema:url": "https://proceedings.nips.cc/paper_files/paper/2022/file/9d5609613524ecf4f15af0f7b31abca4-Paper-Conference.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "STaR: Bootstrapping Reasoning With Reasoning",
+          "dcterms:publisher": "NeurIPS 2022 (Zelikman, Wu, Mu, Goodman)",
+          "schema:url": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/639a9a172c044fbb64175b5fad42e9a5-Abstract-Conference.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Extended thinking",
+          "dcterms:publisher": "Claude Platform documentation (Anthropic)",
+          "schema:url": "https://platform.claude.com/docs/en/build-with-claude/extended-thinking.md",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/prompting-and-reasoning/scratchpad.md",
+      "skos:altLabel": [
+        "scratchpads",
+        "scratchpad reasoning",
+        "show your work",
+        "intermediate computation scratchpad"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:prompt-engineering"
+        },
+        {
+          "@id": "kt:test-time-compute"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:chain-of-thought"
+        },
+        {
+          "@id": "kt:reasoning-models"
+        },
+        {
+          "@id": "kt:star-self-taught-reasoner"
+        },
+        {
+          "@id": "kt:context-window"
+        },
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:show-your-work-scratchpads-for-intermediate-computation-with-language-models"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:program-induction-by-rationale-generation"
+        }
+      ],
+      "kto:followedBy": [
+        {
+          "@id": "kt:chain-of-thought"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:context-window"
+        }
+      ]
+    },
+    {
       "@id": "kt:self-consistency",
       "@type": "kto:Technique",
       "skos:prefLabel": "Self-consistency",
