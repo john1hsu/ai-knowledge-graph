@@ -2812,6 +2812,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/speculative-decoding/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/speculative-decoding/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/speculative-decoding/s6> <https://schema.org/url> "https://docs.vllm.ai/usage/speculative_decoding/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s1> <http://purl.org/dc/terms/publisher> "Proceedings of ACL 2023 (Volume 1, Long Papers), pp. 13484–13508 (Wang, Kordi, Mishra, Liu, Smith, Khashabi, Hajishirzi)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s1> <http://purl.org/dc/terms/title> "Self-Instruct: Aligning Language Models with Self-Generated Instructions" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s1> <https://schema.org/url> "https://aclanthology.org/2023.acl-long.754" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s2> <http://purl.org/dc/terms/publisher> "arXiv:2306.11644 (Gunasekar, Zhang, Aneja et al.; Microsoft Research), 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s2> <http://purl.org/dc/terms/title> "Textbooks Are All You Need" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s2> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/2306.11644" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s3> <http://purl.org/dc/terms/publisher> "Nature 631, 755–759 (2024), doi:10.1038/s41586-024-07566-y (Shumailov, Shumaylov, Zhao, Papernot, Anderson, Gal)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s3> <http://purl.org/dc/terms/title> "AI models collapse when trained on recursively generated data" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s3> <https://schema.org/url> "https://www.pure.ed.ac.uk/ws/portalfiles/portal/460496122/ShumailovEtalNature2024AIModelsCollapseWhen.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s4> <http://purl.org/dc/terms/publisher> "arXiv:2404.07503 (Liu, Wei, Liu, Si, Zhang, Rao, Zheng, Peng, Yang, Zhou, Dai; Google DeepMind, Stanford, Georgia Tech), 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s4> <http://purl.org/dc/terms/title> "Best Practices and Lessons Learned on Synthetic Data" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s4> <https://schema.org/url> "https://arxiv.org/html/2404.07503v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s5> <http://purl.org/dc/terms/publisher> "arXiv:2406.11704 (NVIDIA), 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s5> <http://purl.org/dc/terms/title> "Nemotron-4 340B Technical Report" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s5> <https://schema.org/url> "https://arxiv.org/abs/2406.11704" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s6> <http://purl.org/dc/terms/publisher> "National Institute of Standards and Technology, September 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s6> <http://purl.org/dc/terms/title> "De-Identifying Government Datasets: Techniques and Governance (NIST SP 800-188)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s6> <https://schema.org/url> "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-188.pdf" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/test-time-compute/s1> <http://purl.org/dc/terms/publisher> "arXiv 2408.03314v1 (Snell, Lee, Xu, Kumar), 6 August 2024" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/test-time-compute/s1> <http://purl.org/dc/terms/title> "Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/test-time-compute/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -2945,6 +2975,34 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/speculative-decoding> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/fast-inference-from-transformers-via-speculative-decoding> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/speculative-decoding> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/speculative-decoding> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <http://www.w3.org/2000/01/rdf-schema#label> "Synthetic data" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <http://www.w3.org/2004/02/skos/core#altLabel> "AI-generated training data" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <http://www.w3.org/2004/02/skos/core#altLabel> "LLM-generated data" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <http://www.w3.org/2004/02/skos/core#altLabel> "model-generated data" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <http://www.w3.org/2004/02/skos/core#altLabel> "synthetic training data" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <http://www.w3.org/2004/02/skos/core#definition> "Data that is produced by an algorithm, generative model or simulation rather than collected directly from people or the world, and that is used to train, align or evaluate machine-learning models, most prominently large language models trained on text generated by other (or the same) models." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <http://www.w3.org/2004/02/skos/core#prefLabel> "Synthetic data" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <https://github.com/john1hsu/ai-knowledge-graph/ontology#causes> <https://github.com/john1hsu/ai-knowledge-graph/id/model-collapse> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "training-and-adaptation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/differential-privacy> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/test-time-compute> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/test-time-compute> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/test-time-compute> <http://www.w3.org/2000/01/rdf-schema#label> "Test-time compute" .

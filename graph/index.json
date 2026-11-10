@@ -1184,6 +1184,29 @@
     ]
   },
   {
+    "id": "kt:synthetic-data",
+    "title": "Synthetic data",
+    "aliases": [
+      "synthetic training data",
+      "model-generated data",
+      "AI-generated training data",
+      "LLM-generated data"
+    ],
+    "type": "Technique",
+    "domain": "training-and-adaptation",
+    "file": "articles/training-and-adaptation/synthetic-data.md",
+    "created": "2026-11-10",
+    "maturity": "established",
+    "source_urls": [
+      "https://aclanthology.org/2023.acl-long.754",
+      "https://ar5iv.labs.arxiv.org/html/2306.11644",
+      "https://www.pure.ed.ac.uk/ws/portalfiles/portal/460496122/ShumailovEtalNature2024AIModelsCollapseWhen.pdf",
+      "https://arxiv.org/html/2404.07503v2",
+      "https://arxiv.org/abs/2406.11704",
+      "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-188.pdf"
+    ]
+  },
+  {
     "id": "kt:test-time-compute",
     "title": "Test-time compute",
     "aliases": [
