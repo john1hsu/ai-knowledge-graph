@@ -139,6 +139,33 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Policy> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> <http://www.w3.org/2000/01/rdf-schema#label> "AI chip export controls" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> <http://www.w3.org/2004/02/skos/core#altLabel> "October 7 export controls" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> <http://www.w3.org/2004/02/skos/core#altLabel> "US AI chip export controls" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> <http://www.w3.org/2004/02/skos/core#altLabel> "advanced computing export controls" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> <http://www.w3.org/2004/02/skos/core#altLabel> "semiconductor export controls on China" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> <http://www.w3.org/2004/02/skos/core#definition> "The US export rules, administered by the Commerce Department's Bureau of Industry and Security since October 2022, that restrict which advanced AI accelerators, high-bandwidth memory, chipmaking tools and related services may go to China and other countries of concern, as a way to limit adversaries' access to AI compute." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> <http://www.w3.org/2004/02/skos/core#prefLabel> "AI chip export controls" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/nvidia> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/tpu> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/export-control-reform-act> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "governance-and-policy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Field> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> <http://www.w3.org/2000/01/rdf-schema#label> "Evaluation of AI systems" .
@@ -1573,6 +1600,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-alignment/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-alignment/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-alignment/s5> <https://schema.org/url> "https://neurips.cc/virtual/2022/poster/52886" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s1> <http://purl.org/dc/terms/publisher> "American Journal of International Law 117(1):144–150, 2023 (Contemporary Practice of the United States), doi:10.1017/ajil.2022.89" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s1> <http://purl.org/dc/terms/title> "The United States Announces Export Controls to Restrict China's Ability to Purchase and Manufacture High-End Chips" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s1> <https://schema.org/url> "https://www.cambridge.org/core/product/A5295D4E8C992F024040F84EB1B471C5/core-reader" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s2> <http://purl.org/dc/terms/publisher> "US Department of Commerce, Bureau of Industry and Security (press release, 17 October 2023)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s2> <http://purl.org/dc/terms/title> "Commerce Strengthens Restrictions on Advanced Computing Semiconductors, Semiconductor Manufacturing Equipment, and Supercomputing Items to Countries of Concern" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s2> <https://schema.org/url> "https://www.bis.gov/press-release/commerce-strengthens-restrictions-advanced-computing-semiconductors-semiconductor-manufacturing-equipment" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s3> <http://purl.org/dc/terms/publisher> "Center for Strategic and International Studies (Gregory C. Allen), 11 December 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s3> <http://purl.org/dc/terms/title> "Understanding the Biden Administration's Updated Export Controls" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s3> <https://schema.org/url> "https://www.csis.org/analysis/understanding-biden-administrations-updated-export-controls" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s4> <http://purl.org/dc/terms/publisher> "US Department of Commerce, Bureau of Industry and Security; Federal Register, 15 January 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s4> <http://purl.org/dc/terms/title> "Framework for Artificial Intelligence Diffusion (interim final rule)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s4> <https://schema.org/url> "https://www.govinfo.gov/content/pkg/FR-2025-01-15/html/2025-00636.htm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s5> <http://purl.org/dc/terms/publisher> "US Department of Commerce, Bureau of Industry and Security (press release, 13 May 2025)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s5> <http://purl.org/dc/terms/title> "Department of Commerce Announces Rescission of Biden-Era Artificial Intelligence Diffusion Rule, Strengthens Chip-Related Export Controls" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s5> <https://schema.org/url> "https://www.bis.gov/press-release/department-commerce-announces-rescission-biden-era-artificial-intelligence-diffusion-rule-strengthens" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s6> <http://purl.org/dc/terms/publisher> "US Department of Commerce, Bureau of Industry and Security; Federal Register, 15 January 2026" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s6> <http://purl.org/dc/terms/title> "Revision to License Review Policy for Advanced Computing Commodities (final rule, 91 FR 1684)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s6> <https://schema.org/url> "https://www.govinfo.gov/content/pkg/FR-2026-01-15/html/2026-00789.htm" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-evaluation/s1> <http://purl.org/dc/terms/publisher> "Transactions on Machine Learning Research, 2023 (Liang, Bommasani, Lee et al.)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-evaluation/s1> <http://purl.org/dc/terms/title> "Holistic Evaluation of Language Models" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-evaluation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

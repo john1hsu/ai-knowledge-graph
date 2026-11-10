@@ -126,6 +126,29 @@
     ]
   },
   {
+    "id": "kt:ai-chip-export-controls",
+    "title": "AI chip export controls",
+    "aliases": [
+      "US AI chip export controls",
+      "advanced computing export controls",
+      "semiconductor export controls on China",
+      "October 7 export controls"
+    ],
+    "type": "Policy",
+    "domain": "governance-and-policy",
+    "file": "articles/governance-and-policy/ai-chip-export-controls.md",
+    "created": "2026-11-10",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://www.cambridge.org/core/product/A5295D4E8C992F024040F84EB1B471C5/core-reader",
+      "https://www.bis.gov/press-release/commerce-strengthens-restrictions-advanced-computing-semiconductors-semiconductor-manufacturing-equipment",
+      "https://www.csis.org/analysis/understanding-biden-administrations-updated-export-controls",
+      "https://www.govinfo.gov/content/pkg/FR-2025-01-15/html/2025-00636.htm",
+      "https://www.bis.gov/press-release/department-commerce-announces-rescission-biden-era-artificial-intelligence-diffusion-rule-strengthens",
+      "https://www.govinfo.gov/content/pkg/FR-2026-01-15/html/2026-00789.htm"
+    ]
+  },
+  {
     "id": "kt:ai-evaluation",
     "title": "Evaluation of AI systems",
     "aliases": [

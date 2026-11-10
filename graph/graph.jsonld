@@ -2439,6 +2439,98 @@
       ]
     },
     {
+      "@id": "kt:ai-chip-export-controls",
+      "@type": "kto:Policy",
+      "skos:prefLabel": "AI chip export controls",
+      "skos:definition": "The US export rules, administered by the Commerce Department's Bureau of Industry and Security since October 2022, that restrict which advanced AI accelerators, high-bandwidth memory, chipmaking tools and related services may go to China and other countries of concern, as a way to limit adversaries' access to AI compute.",
+      "kto:domain": "governance-and-policy",
+      "dcterms:created": "2026-11-10",
+      "kto:maturity": "emerging",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The United States Announces Export Controls to Restrict China's Ability to Purchase and Manufacture High-End Chips",
+          "dcterms:publisher": "American Journal of International Law 117(1):144–150, 2023 (Contemporary Practice of the United States), doi:10.1017/ajil.2022.89",
+          "schema:url": "https://www.cambridge.org/core/product/A5295D4E8C992F024040F84EB1B471C5/core-reader",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Commerce Strengthens Restrictions on Advanced Computing Semiconductors, Semiconductor Manufacturing Equipment, and Supercomputing Items to Countries of Concern",
+          "dcterms:publisher": "US Department of Commerce, Bureau of Industry and Security (press release, 17 October 2023)",
+          "schema:url": "https://www.bis.gov/press-release/commerce-strengthens-restrictions-advanced-computing-semiconductors-semiconductor-manufacturing-equipment",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Understanding the Biden Administration's Updated Export Controls",
+          "dcterms:publisher": "Center for Strategic and International Studies (Gregory C. Allen), 11 December 2024",
+          "schema:url": "https://www.csis.org/analysis/understanding-biden-administrations-updated-export-controls",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "Framework for Artificial Intelligence Diffusion (interim final rule)",
+          "dcterms:publisher": "US Department of Commerce, Bureau of Industry and Security; Federal Register, 15 January 2025",
+          "schema:url": "https://www.govinfo.gov/content/pkg/FR-2025-01-15/html/2025-00636.htm",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Department of Commerce Announces Rescission of Biden-Era Artificial Intelligence Diffusion Rule, Strengthens Chip-Related Export Controls",
+          "dcterms:publisher": "US Department of Commerce, Bureau of Industry and Security (press release, 13 May 2025)",
+          "schema:url": "https://www.bis.gov/press-release/department-commerce-announces-rescission-biden-era-artificial-intelligence-diffusion-rule-strengthens",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Revision to License Review Policy for Advanced Computing Commodities (final rule, 91 FR 1684)",
+          "dcterms:publisher": "US Department of Commerce, Bureau of Industry and Security; Federal Register, 15 January 2026",
+          "schema:url": "https://www.govinfo.gov/content/pkg/FR-2026-01-15/html/2026-00789.htm",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/governance-and-policy/ai-chip-export-controls.md",
+      "skos:altLabel": [
+        "US AI chip export controls",
+        "advanced computing export controls",
+        "semiconductor export controls on China",
+        "October 7 export controls"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-governance"
+        },
+        {
+          "@id": "kt:compute-governance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:nvidia"
+        },
+        {
+          "@id": "kt:ai-accelerator"
+        },
+        {
+          "@id": "kt:gpu-computing"
+        },
+        {
+          "@id": "kt:tpu"
+        },
+        {
+          "@id": "kt:scaling-laws"
+        },
+        {
+          "@id": "kt:executive-orders-on-ai"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:bureau-of-industry-and-security"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:export-control-reform-act"
+        }
+      ]
+    },
+    {
       "@id": "kt:ai-safety-institutes",
       "@type": "kto:Organization",
       "skos:prefLabel": "AI safety institutes",
