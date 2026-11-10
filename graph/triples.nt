@@ -3118,6 +3118,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s4> <https://schema.org/url> "https://github.com/minedojo/voyager" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s1> <http://purl.org/dc/terms/publisher> "Redmon, Divvala, Girshick and Farhadi, CVPR 2016 (CVF Open Access)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s1> <http://purl.org/dc/terms/title> "You Only Look Once: Unified, Real-Time Object Detection" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s1> <https://schema.org/url> "https://openaccess.thecvf.com/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s2> <http://purl.org/dc/terms/publisher> "Redmon and Farhadi, CVPR 2017 (CVF Open Access)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s2> <http://purl.org/dc/terms/title> "YOLO9000: Better, Faster, Stronger" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s2> <https://schema.org/url> "https://openaccess.thecvf.com/content_cvpr_2017/papers/Redmon_YOLO9000_Better_Faster_CVPR_2017_paper.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s3> <http://purl.org/dc/terms/publisher> "Redmon and Farhadi, arXiv 1804.02767, 2018 (technical report)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s3> <http://purl.org/dc/terms/title> "YOLOv3: An Incremental Improvement" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s3> <https://schema.org/url> "https://arxiv.org/abs/1804.02767" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s4> <http://purl.org/dc/terms/publisher> "Sapkota et al., Artificial Intelligence Review 58, article 274 (2025); authors' arXiv version 2406.19407" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s4> <http://purl.org/dc/terms/title> "YOLO advances to its genesis: a decadal and comprehensive review of the You Only Look Once (YOLO) series" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s4> <https://schema.org/url> "https://arxiv.org/pdf/2406.19407" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s5> <http://purl.org/dc/terms/publisher> "Ultralytics documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s5> <http://purl.org/dc/terms/title> "Ultralytics YOLO26" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s5> <https://schema.org/url> "https://docs.ultralytics.com/models/yolo26/" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/speculative-decoding> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/speculative-decoding> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/speculative-decoding> <http://www.w3.org/2000/01/rdf-schema#label> "Speculative decoding" .
@@ -3295,3 +3320,30 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "agents-and-tool-use" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/voyager-an-open-ended-embodied-agent-with-large-language-models> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <http://www.w3.org/2000/01/rdf-schema#label> "YOLO" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <http://www.w3.org/2004/02/skos/core#altLabel> "YOLO family of detectors" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <http://www.w3.org/2004/02/skos/core#altLabel> "YOLO object detector" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <http://www.w3.org/2004/02/skos/core#altLabel> "You Only Look Once" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/object-detection> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <http://www.w3.org/2004/02/skos/core#definition> "A family of single-stage, real-time object detectors, introduced by Redmon, Divvala, Girshick and Farhadi at CVPR 2016, that frames detection as one regression problem: a single convolutional network pass over the whole image predicts all bounding boxes and class probabilities at once." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <http://www.w3.org/2004/02/skos/core#prefLabel> "YOLO" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/r-cnn> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/joseph-redmon> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "computer-vision-and-multimodal" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/you-only-look-once-unified-real-time-object-detection> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/autonomous-driving> .

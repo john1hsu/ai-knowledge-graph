@@ -1376,5 +1376,26 @@
       "https://arxiv.org/html/2308.11432v7",
       "https://github.com/minedojo/voyager"
     ]
+  },
+  {
+    "id": "kt:yolo",
+    "title": "YOLO",
+    "aliases": [
+      "You Only Look Once",
+      "YOLO object detector",
+      "YOLO family of detectors"
+    ],
+    "type": "Architecture",
+    "domain": "computer-vision-and-multimodal",
+    "file": "articles/computer-vision-and-multimodal/yolo.md",
+    "created": "2026-11-10",
+    "maturity": "established",
+    "source_urls": [
+      "https://openaccess.thecvf.com/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf",
+      "https://openaccess.thecvf.com/content_cvpr_2017/papers/Redmon_YOLO9000_Better_Faster_CVPR_2017_paper.pdf",
+      "https://arxiv.org/abs/1804.02767",
+      "https://arxiv.org/pdf/2406.19407",
+      "https://docs.ultralytics.com/models/yolo26/"
+    ]
   }
 ]
