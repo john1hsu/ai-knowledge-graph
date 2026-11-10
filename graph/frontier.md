@@ -14,19 +14,19 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:supervised-learning` | `kt:perceptron`, `kt:bias-variance-tradeoff`, `kt:conditional-random-field`, `kt:machine-learning`, `kt:alphago`, `kt:reinforcement-learning` |
 | `kt:transformer-architecture` | `kt:hugging-face-transformers`, `kt:automatic-speech-recognition`, `kt:clip`, `kt:context-window`, `kt:large-language-model`, `kt:scaling-laws` |
 | `kt:ensemble-methods` | `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:self-consistency`, `kt:knowledge-distillation` |
+| `kt:fine-tuning` | `kt:hugging-face-transformers`, `kt:qlora`, `kt:rlhf`, `kt:star-self-taught-reasoner`, `kt:synthetic-data` |
 | `kt:information-retrieval` | `kt:beir`, `kt:approximate-nearest-neighbor-search`, `kt:bm25`, `kt:semantic-search`, `kt:tf-idf` |
+| `kt:reasoning-models` | `kt:chain-of-thought`, `kt:scratchpad`, `kt:test-time-compute`, `kt:test-time-compute`, `kt:star-self-taught-reasoner` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:dartmouth-workshop`, `kt:turing-test`, `kt:machine-learning` |
 | `kt:benchmark-contamination` | `kt:ai-evaluation`, `kt:gsm8k`, `kt:truthfulqa`, `kt:synthetic-data` |
 | `kt:convolutional-neural-network` | `kt:yolo`, `kt:artificial-neural-network`, `kt:deep-learning`, `kt:alphago` |
 | `kt:distributed-training` | `kt:cuda`, `kt:mlops`, `kt:nvidia`, `kt:tpu` |
-| `kt:fine-tuning` | `kt:hugging-face-transformers`, `kt:qlora`, `kt:rlhf`, `kt:synthetic-data` |
 | `kt:gpu-computing` | `kt:cuda`, `kt:nvidia`, `kt:tpu`, `kt:ai-chip-export-controls` |
 | `kt:instruction-tuning` | `kt:qlora`, `kt:rlhf`, `kt:synthetic-data`, `kt:synthetic-data` |
 | `kt:multi-agent-systems` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:langgraph` |
 | `kt:overfitting` | `kt:dropout`, `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent` |
 | `kt:prompt-engineering` | `kt:chain-of-thought`, `kt:prompt-sensitivity`, `kt:scratchpad`, `kt:self-consistency` |
 | `kt:pytorch` | `kt:hugging-face-transformers`, `kt:adam-optimizer`, `kt:backpropagation`, `kt:dropout` |
-| `kt:reasoning-models` | `kt:chain-of-thought`, `kt:scratchpad`, `kt:test-time-compute`, `kt:test-time-compute` |
 | `kt:recurrent-neural-network` | `kt:automatic-speech-recognition`, `kt:deep-learning`, `kt:conditional-random-field`, `kt:hidden-markov-model` |
 | `kt:regularization` | `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:conditional-random-field`, `kt:double-descent` |
 | `kt:tool-use` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:voyager` |
@@ -103,6 +103,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:center-for-ai-standards-and-innovation` | `kt:ai-safety-institutes` |
 | `kt:chain-of-thought-prompting-elicits-reasoning-in-large-language-models` | `kt:chain-of-thought` |
 | `kt:christopher-watkins` | `kt:q-learning` |
+| `kt:commonsenseqa` | `kt:star-self-taught-reasoner` |
 | `kt:compute-governance` | `kt:ai-chip-export-controls` |
 | `kt:computing-machinery-and-intelligence` | `kt:turing-test` |
 | `kt:concrete-problems-in-ai-safety` | `kt:scalable-oversight` |
@@ -128,6 +129,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:eliza` | `kt:turing-test` |
 | `kt:emergent-abilities-of-large-language-models` | `kt:emergent-abilities` |
 | `kt:expectation-maximization` | `kt:hidden-markov-model` |
+| `kt:expert-iteration` | `kt:star-self-taught-reasoner` |
 | `kt:export-control-reform-act` | `kt:ai-chip-export-controls` |
 | `kt:facial-recognition` | `kt:algorithmic-bias-and-fairness` |
 | `kt:fairness-accountability-and-transparency` | `kt:algorithmic-bias-and-fairness` |
@@ -201,6 +203,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:process-reward-model` | `kt:test-time-compute` |
 | `kt:program-induction-by-rationale-generation` | `kt:scratchpad` |
 | `kt:qlora-efficient-finetuning-of-quantized-llms` | `kt:qlora` |
+| `kt:quiet-star` | `kt:star-self-taught-reasoner` |
 | `kt:r-cnn` | `kt:yolo` |
 | `kt:reconciling-modern-machine-learning-practice-and-the-bias-variance-trade-off` | `kt:double-descent` |
 | `kt:reinforce-algorithm` | `kt:policy-gradient` |
@@ -216,7 +219,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:soft-actor-critic` | `kt:actor-critic` |
 | `kt:sparse-autoencoder` | `kt:mechanistic-interpretability` |
 | `kt:speech-processing` | `kt:automatic-speech-recognition` |
-| `kt:star-self-taught-reasoner` | `kt:scratchpad` |
+| `kt:star-bootstrapping-reasoning-with-reasoning` | `kt:star-self-taught-reasoner` |
 | `kt:stochastic-gradient-descent` | `kt:adam-optimizer` |
 | `kt:strong-ai` | `kt:chinese-room-argument` |
 | `kt:stylegan` | `kt:generative-adversarial-network` |

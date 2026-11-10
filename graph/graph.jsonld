@@ -6056,6 +6056,110 @@
       ]
     },
     {
+      "@id": "kt:star-self-taught-reasoner",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "STaR: Self-Taught Reasoner",
+      "skos:definition": "An iterative self-training method in which a language model generates step-by-step rationales for training questions, keeps only those that reach the correct answer (retrying with the answer as a hint when it fails), and is fine-tuned on them, so its reasoning improves without a large human-written rationale dataset.",
+      "kto:domain": "training-and-adaptation",
+      "dcterms:created": "2026-11-10",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "STaR: Bootstrapping Reasoning With Reasoning",
+          "dcterms:publisher": "Advances in Neural Information Processing Systems 35 (NeurIPS 2022), Zelikman, Wu, Mu and Goodman",
+          "schema:url": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/639a9a172c044fbb64175b5fad42e9a5-Abstract-Conference.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "STaR: Bootstrapping Reasoning With Reasoning (full text)",
+          "dcterms:publisher": "arXiv 2203.14465 (Zelikman, Wu, Mu and Goodman; Stanford University and Google Research)",
+          "schema:url": "https://arxiv.org/pdf/2203.14465",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning",
+          "dcterms:publisher": "Google Research publications",
+          "schema:url": "https://research.google/pubs/star-self-taught-reasoner-bootstrapping-reasoning-with-reasoning/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking",
+          "dcterms:publisher": "arXiv 2403.09629 (Zelikman, Harik, Shao, Jayasiri, Haber and Goodman)",
+          "schema:url": "https://arxiv.org/abs/2403.09629",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "RL-STaR: Theoretical Analysis of Reinforcement Learning Frameworks for Self-Taught Reasoner",
+          "dcterms:publisher": "arXiv 2410.23912 (Chang, Lee, Shih, Tseng and Wu)",
+          "schema:url": "https://arxiv.org/pdf/2410.23912",
+          "kto:sourceType": "preprint"
+        },
+        {
+          "dcterms:title": "Towards Reasoning in Large Language Models: A Survey",
+          "dcterms:publisher": "arXiv 2212.10403 (Huang and Chang, University of Illinois Urbana-Champaign)",
+          "schema:url": "https://arxiv.org/pdf/2212.10403",
+          "kto:sourceType": "preprint"
+        }
+      ],
+      "kto:file": "articles/training-and-adaptation/star-self-taught-reasoner.md",
+      "skos:altLabel": [
+        "STaR",
+        "Self-Taught Reasoner",
+        "bootstrapping reasoning with reasoning",
+        "rationale bootstrapping"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:fine-tuning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:synthetic-data"
+        },
+        {
+          "@id": "kt:reasoning-models"
+        },
+        {
+          "@id": "kt:policy-gradient"
+        },
+        {
+          "@id": "kt:self-consistency"
+        },
+        {
+          "@id": "kt:quiet-star"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:star-bootstrapping-reasoning-with-reasoning"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:chain-of-thought"
+        }
+      ],
+      "kto:extends": [
+        {
+          "@id": "kt:scratchpad"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:gsm8k"
+        },
+        {
+          "@id": "kt:commonsenseqa"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:expert-iteration"
+        }
+      ]
+    },
+    {
       "@id": "kt:synthetic-data",
       "@type": "kto:Technique",
       "skos:prefLabel": "Synthetic data",

@@ -3348,6 +3348,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/speculative-decoding/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/speculative-decoding/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/speculative-decoding/s6> <https://schema.org/url> "https://docs.vllm.ai/usage/speculative_decoding/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s1> <http://purl.org/dc/terms/publisher> "Advances in Neural Information Processing Systems 35 (NeurIPS 2022), Zelikman, Wu, Mu and Goodman" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s1> <http://purl.org/dc/terms/title> "STaR: Bootstrapping Reasoning With Reasoning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s1> <https://schema.org/url> "https://proceedings.neurips.cc/paper_files/paper/2022/hash/639a9a172c044fbb64175b5fad42e9a5-Abstract-Conference.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s2> <http://purl.org/dc/terms/publisher> "arXiv 2203.14465 (Zelikman, Wu, Mu and Goodman; Stanford University and Google Research)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s2> <http://purl.org/dc/terms/title> "STaR: Bootstrapping Reasoning With Reasoning (full text)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s2> <https://schema.org/url> "https://arxiv.org/pdf/2203.14465" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s3> <http://purl.org/dc/terms/publisher> "Google Research publications" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s3> <http://purl.org/dc/terms/title> "STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s3> <https://schema.org/url> "https://research.google/pubs/star-self-taught-reasoner-bootstrapping-reasoning-with-reasoning/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s4> <http://purl.org/dc/terms/publisher> "arXiv 2403.09629 (Zelikman, Harik, Shao, Jayasiri, Haber and Goodman)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s4> <http://purl.org/dc/terms/title> "Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s4> <https://schema.org/url> "https://arxiv.org/abs/2403.09629" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s5> <http://purl.org/dc/terms/publisher> "arXiv 2410.23912 (Chang, Lee, Shih, Tseng and Wu)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s5> <http://purl.org/dc/terms/title> "RL-STaR: Theoretical Analysis of Reinforcement Learning Frameworks for Self-Taught Reasoner" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "preprint" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s5> <https://schema.org/url> "https://arxiv.org/pdf/2410.23912" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s6> <http://purl.org/dc/terms/publisher> "arXiv 2212.10403 (Huang and Chang, University of Illinois Urbana-Champaign)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s6> <http://purl.org/dc/terms/title> "Towards Reasoning in Large Language Models: A Survey" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "preprint" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s6> <https://schema.org/url> "https://arxiv.org/pdf/2212.10403" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s1> <http://purl.org/dc/terms/publisher> "Proceedings of ACL 2023 (Volume 1, Long Papers), pp. 13484–13508 (Wang, Kordi, Mishra, Liu, Smith, Khashabi, Hajishirzi)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s1> <http://purl.org/dc/terms/title> "Self-Instruct: Aligning Language Models with Self-Generated Instructions" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -3586,6 +3616,35 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/speculative-decoding> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/fast-inference-from-transformers-via-speculative-decoding> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/speculative-decoding> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/speculative-decoding> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <http://www.w3.org/2000/01/rdf-schema#label> "STaR: Self-Taught Reasoner" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <http://www.w3.org/2004/02/skos/core#altLabel> "STaR" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <http://www.w3.org/2004/02/skos/core#altLabel> "Self-Taught Reasoner" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <http://www.w3.org/2004/02/skos/core#altLabel> "bootstrapping reasoning with reasoning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <http://www.w3.org/2004/02/skos/core#altLabel> "rationale bootstrapping" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <http://www.w3.org/2004/02/skos/core#definition> "An iterative self-training method in which a language model generates step-by-step rationales for training questions, keeps only those that reach the correct answer (retrying with the answer as a hint when it fails), and is fine-tuned on them, so its reasoning improves without a large human-written rationale dataset." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <http://www.w3.org/2004/02/skos/core#prefLabel> "STaR: Self-Taught Reasoner" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/quiet-star> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "training-and-adaptation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <https://github.com/john1hsu/ai-knowledge-graph/ontology#extends> <https://github.com/john1hsu/ai-knowledge-graph/id/scratchpad> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/expert-iteration> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/star-bootstrapping-reasoning-with-reasoning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <http://www.w3.org/2000/01/rdf-schema#label> "Synthetic data" .

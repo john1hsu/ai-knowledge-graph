@@ -1402,6 +1402,29 @@
     ]
   },
   {
+    "id": "kt:star-self-taught-reasoner",
+    "title": "STaR: Self-Taught Reasoner",
+    "aliases": [
+      "STaR",
+      "Self-Taught Reasoner",
+      "bootstrapping reasoning with reasoning",
+      "rationale bootstrapping"
+    ],
+    "type": "Technique",
+    "domain": "training-and-adaptation",
+    "file": "articles/training-and-adaptation/star-self-taught-reasoner.md",
+    "created": "2026-11-10",
+    "maturity": "established",
+    "source_urls": [
+      "https://proceedings.neurips.cc/paper_files/paper/2022/hash/639a9a172c044fbb64175b5fad42e9a5-Abstract-Conference.html",
+      "https://arxiv.org/pdf/2203.14465",
+      "https://research.google/pubs/star-self-taught-reasoner-bootstrapping-reasoning-with-reasoning/",
+      "https://arxiv.org/abs/2403.09629",
+      "https://arxiv.org/pdf/2410.23912",
+      "https://arxiv.org/pdf/2212.10403"
+    ]
+  },
+  {
     "id": "kt:synthetic-data",
     "title": "Synthetic data",
     "aliases": [
