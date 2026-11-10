@@ -43,6 +43,38 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/asynchronous-advantage-actor-critic> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/soft-actor-critic> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <http://www.w3.org/2000/01/rdf-schema#label> "Adam optimizer" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <http://www.w3.org/2004/02/skos/core#altLabel> "Adam optimization algorithm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <http://www.w3.org/2004/02/skos/core#altLabel> "Adam" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <http://www.w3.org/2004/02/skos/core#altLabel> "adaptive moment estimation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/gradient-descent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <http://www.w3.org/2004/02/skos/core#definition> "A first-order stochastic optimization algorithm that gives every parameter its own step size, computed from bias-corrected exponential moving averages of the gradient (first moment) and the squared gradient (second moment); introduced by Kingma and Ba in 2014, it and its decoupled-weight-decay variant AdamW are the default optimizers for training most deep networks, including large language models." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <http://www.w3.org/2004/02/skos/core#prefLabel> "Adam optimizer" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/adamw> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/dropout> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/rmsprop> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/rmsprop> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/diederik-kingma> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "deep-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/adam-a-method-for-stochastic-optimization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/agent2agent-protocol> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/agent2agent-protocol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Tool> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/agent2agent-protocol> <http://www.w3.org/2000/01/rdf-schema#label> "Agent2Agent protocol" .
@@ -1500,6 +1532,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s5> <https://schema.org/url> "https://spinningup.openai.com/en/latest/algorithms/sac.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s1> <http://purl.org/dc/terms/publisher> "ICLR 2015 (Kingma and Ba), arXiv:1412.6980 v9" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s1> <http://purl.org/dc/terms/title> "Adam: A Method for Stochastic Optimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s1> <https://schema.org/url> "https://arxiv.org/pdf/1412.6980" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s2> <http://purl.org/dc/terms/publisher> "ICLR 2018 (Reddi, Kale and Kumar), ML Anthology" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s2> <http://purl.org/dc/terms/title> "On the Convergence of Adam and Beyond" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s2> <https://schema.org/url> "https://mlanthology.org/iclr/2018/reddi2018iclr-convergence" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s3> <http://purl.org/dc/terms/publisher> "ICLR 2019 (Loshchilov and Hutter), arXiv:1711.05101" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s3> <http://purl.org/dc/terms/title> "Decoupled Weight Decay Regularization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s3> <https://schema.org/url> "https://arxiv.org/abs/1711.05101" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s4> <http://purl.org/dc/terms/publisher> "Zhang, Lipton, Li and Smola (d2l.ai)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s4> <http://purl.org/dc/terms/title> "Dive into Deep Learning, section 12.10: Adam" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s4> <https://schema.org/url> "https://d2l.ai/chapter_optimization/adam.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s5> <http://purl.org/dc/terms/publisher> "PyTorch documentation (main, 2.16 development build)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s5> <http://purl.org/dc/terms/title> "torch.optim.Adam" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s5> <https://schema.org/url> "https://docs.pytorch.org/docs/main/generated/torch.optim.Adam.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s6> <http://purl.org/dc/terms/publisher> "Meta AI (Touvron et al.), arXiv:2307.09288, 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s6> <http://purl.org/dc/terms/title> "Llama 2: Open Foundation and Fine-Tuned Chat Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s6> <https://schema.org/url> "https://arxiv.org/pdf/2307.09288" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/agent2agent-protocol/s1> <http://purl.org/dc/terms/publisher> "Google Developers Blog (Surapaneni, Jha, Vakoc, Segal), 9 April 2025" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/agent2agent-protocol/s1> <http://purl.org/dc/terms/title> "Announcing the Agent2Agent Protocol (A2A)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/agent2agent-protocol/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

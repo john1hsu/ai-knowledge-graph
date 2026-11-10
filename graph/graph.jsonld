@@ -1722,6 +1722,125 @@
       ]
     },
     {
+      "@id": "kt:adam-optimizer",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "Adam optimizer",
+      "skos:definition": "A first-order stochastic optimization algorithm that gives every parameter its own step size, computed from bias-corrected exponential moving averages of the gradient (first moment) and the squared gradient (second moment); introduced by Kingma and Ba in 2014, it and its decoupled-weight-decay variant AdamW are the default optimizers for training most deep networks, including large language models.",
+      "kto:domain": "deep-learning",
+      "dcterms:created": "2026-11-10",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Adam: A Method for Stochastic Optimization",
+          "dcterms:publisher": "ICLR 2015 (Kingma and Ba), arXiv:1412.6980 v9",
+          "schema:url": "https://arxiv.org/pdf/1412.6980",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "On the Convergence of Adam and Beyond",
+          "dcterms:publisher": "ICLR 2018 (Reddi, Kale and Kumar), ML Anthology",
+          "schema:url": "https://mlanthology.org/iclr/2018/reddi2018iclr-convergence",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Decoupled Weight Decay Regularization",
+          "dcterms:publisher": "ICLR 2019 (Loshchilov and Hutter), arXiv:1711.05101",
+          "schema:url": "https://arxiv.org/abs/1711.05101",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Dive into Deep Learning, section 12.10: Adam",
+          "dcterms:publisher": "Zhang, Lipton, Li and Smola (d2l.ai)",
+          "schema:url": "https://d2l.ai/chapter_optimization/adam.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "torch.optim.Adam",
+          "dcterms:publisher": "PyTorch documentation (main, 2.16 development build)",
+          "schema:url": "https://docs.pytorch.org/docs/main/generated/torch.optim.Adam.html",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Llama 2: Open Foundation and Fine-Tuned Chat Models",
+          "dcterms:publisher": "Meta AI (Touvron et al.), arXiv:2307.09288, 2023",
+          "schema:url": "https://arxiv.org/pdf/2307.09288",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/deep-learning/adam-optimizer.md",
+      "skos:altLabel": [
+        "Adam",
+        "adaptive moment estimation",
+        "Adam optimization algorithm"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:gradient-descent"
+        },
+        {
+          "@id": "kt:deep-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:backpropagation"
+        },
+        {
+          "@id": "kt:adamw"
+        },
+        {
+          "@id": "kt:rmsprop"
+        },
+        {
+          "@id": "kt:adagrad"
+        },
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:dropout"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:adam-a-method-for-stochastic-optimization"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:diederik-kingma"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:rmsprop"
+        },
+        {
+          "@id": "kt:adagrad"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:backpropagation"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:stochastic-gradient-descent"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:pytorch"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:large-language-model"
+        }
+      ]
+    },
+    {
       "@id": "kt:artificial-neural-network",
       "@type": "kto:Architecture",
       "skos:prefLabel": "Artificial neural network",

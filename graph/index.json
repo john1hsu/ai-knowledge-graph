@@ -40,6 +40,28 @@
     ]
   },
   {
+    "id": "kt:adam-optimizer",
+    "title": "Adam optimizer",
+    "aliases": [
+      "Adam",
+      "adaptive moment estimation",
+      "Adam optimization algorithm"
+    ],
+    "type": "Algorithm",
+    "domain": "deep-learning",
+    "file": "articles/deep-learning/adam-optimizer.md",
+    "created": "2026-11-10",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/pdf/1412.6980",
+      "https://mlanthology.org/iclr/2018/reddi2018iclr-convergence",
+      "https://arxiv.org/abs/1711.05101",
+      "https://d2l.ai/chapter_optimization/adam.html",
+      "https://docs.pytorch.org/docs/main/generated/torch.optim.Adam.html",
+      "https://arxiv.org/pdf/2307.09288"
+    ]
+  },
+  {
     "id": "kt:agent2agent-protocol",
     "title": "Agent2Agent protocol",
     "aliases": [

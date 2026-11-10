@@ -21,6 +21,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:instruction-tuning` | `kt:qlora`, `kt:rlhf`, `kt:synthetic-data`, `kt:synthetic-data` |
 | `kt:multi-agent-systems` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:langgraph` |
 | `kt:overfitting` | `kt:dropout`, `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent` |
+| `kt:pytorch` | `kt:hugging-face-transformers`, `kt:adam-optimizer`, `kt:backpropagation`, `kt:dropout` |
 | `kt:supervised-learning` | `kt:perceptron`, `kt:bias-variance-tradeoff`, `kt:machine-learning`, `kt:reinforcement-learning` |
 | `kt:tool-use` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:voyager` |
 | `kt:agent-memory` | `kt:ai-agent`, `kt:langgraph`, `kt:voyager` |
@@ -30,13 +31,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:eu-ai-act` | `kt:algorithmic-bias-and-fairness`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:hidden-markov-model` |
 | `kt:geoffrey-hinton` | `kt:dropout`, `kt:dropout`, `kt:knowledge-distillation` |
+| `kt:gradient-descent` | `kt:adam-optimizer`, `kt:backpropagation`, `kt:deep-learning` |
 | `kt:hybrid-search` | `kt:bm25`, `kt:bm25`, `kt:semantic-search` |
 | `kt:imagenet-and-alexnet` | `kt:cuda`, `kt:nvidia`, `kt:yolo` |
 | `kt:model-pruning` | `kt:quantization`, `kt:quantization`, `kt:knowledge-distillation` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent`, `kt:voyager` |
 | `kt:prompt-engineering` | `kt:chain-of-thought`, `kt:prompt-sensitivity`, `kt:self-consistency` |
 | `kt:prompt-injection` | `kt:agent2agent-protocol`, `kt:red-teaming`, `kt:jailbreak` |
-| `kt:pytorch` | `kt:hugging-face-transformers`, `kt:backpropagation`, `kt:dropout` |
 | `kt:reasoning-models` | `kt:chain-of-thought`, `kt:test-time-compute`, `kt:test-time-compute` |
 | `kt:recurrent-neural-network` | `kt:automatic-speech-recognition`, `kt:deep-learning`, `kt:hidden-markov-model` |
 | `kt:regularization` | `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent` |
@@ -46,6 +47,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:temporal-difference-learning` | `kt:actor-critic`, `kt:q-learning`, `kt:reinforcement-learning` |
 | `kt:vllm` | `kt:hugging-face-transformers`, `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
 | `kt:activation-function` | `kt:artificial-neural-network`, `kt:backpropagation` |
+| `kt:adagrad` | `kt:adam-optimizer`, `kt:adam-optimizer` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:langgraph` |
 | `kt:ai-accelerator` | `kt:tpu`, `kt:ai-chip-export-controls` |
 | `kt:apache-lucene` | `kt:bm25`, `kt:tf-idf` |
@@ -55,7 +57,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:few-shot-prompting` | `kt:chain-of-thought`, `kt:prompt-sensitivity` |
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
 | `kt:google` | `kt:agent2agent-protocol`, `kt:tpu` |
-| `kt:gradient-descent` | `kt:backpropagation`, `kt:deep-learning` |
 | `kt:kv-cache` | `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
 | `kt:llm-as-a-judge` | `kt:ai-evaluation`, `kt:qlora` |
 | `kt:llm-inference-optimization` | `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
@@ -66,12 +67,15 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:probabilistic-relevance-framework` | `kt:bm25`, `kt:bm25` |
 | `kt:proximal-policy-optimization` | `kt:policy-gradient`, `kt:rlhf` |
 | `kt:react-prompting` | `kt:ai-agent`, `kt:chain-of-thought` |
+| `kt:rmsprop` | `kt:adam-optimizer`, `kt:adam-optimizer` |
 | `kt:self-refine` | `kt:agentic-workflow`, `kt:voyager` |
 | `kt:statistical-learning-theory` | `kt:bias-variance-tradeoff`, `kt:double-descent` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:vector-database` | `kt:embeddings`, `kt:semantic-search` |
 | `kt:vision-transformer` | `kt:clip`, `kt:yolo` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings` |
+| `kt:adam-a-method-for-stochastic-optimization` | `kt:adam-optimizer` |
+| `kt:adamw` | `kt:adam-optimizer` |
 | `kt:adversarial-machine-learning` | `kt:jailbreak` |
 | `kt:ai-ethics` | `kt:algorithmic-bias-and-fairness` |
 | `kt:ai-hardware` | `kt:nvidia` |
@@ -110,6 +114,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:deep-reinforcement-learning-from-human-preferences` | `kt:rlhf` |
 | `kt:deep-unsupervised-learning-using-nonequilibrium-thermodynamics` | `kt:diffusion-model` |
 | `kt:devops` | `kt:mlops` |
+| `kt:diederik-kingma` | `kt:adam-optimizer` |
 | `kt:differential-privacy` | `kt:synthetic-data` |
 | `kt:direct-preference-optimization` | `kt:rlhf` |
 | `kt:distilbert` | `kt:knowledge-distillation` |
@@ -196,6 +201,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:soft-actor-critic` | `kt:actor-critic` |
 | `kt:sparse-autoencoder` | `kt:mechanistic-interpretability` |
 | `kt:speech-processing` | `kt:automatic-speech-recognition` |
+| `kt:stochastic-gradient-descent` | `kt:adam-optimizer` |
 | `kt:strong-ai` | `kt:chinese-room-argument` |
 | `kt:stylegan` | `kt:generative-adversarial-network` |
 | `kt:support-vector-machine` | `kt:perceptron` |
