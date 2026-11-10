@@ -15,6 +15,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ensemble-methods` | `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:supervised-learning` | `kt:perceptron`, `kt:bias-variance-tradeoff`, `kt:machine-learning`, `kt:alphago`, `kt:reinforcement-learning` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:dartmouth-workshop`, `kt:turing-test`, `kt:machine-learning` |
+| `kt:benchmark-contamination` | `kt:ai-evaluation`, `kt:gsm8k`, `kt:truthfulqa`, `kt:synthetic-data` |
 | `kt:convolutional-neural-network` | `kt:yolo`, `kt:artificial-neural-network`, `kt:deep-learning`, `kt:alphago` |
 | `kt:distributed-training` | `kt:cuda`, `kt:mlops`, `kt:nvidia`, `kt:tpu` |
 | `kt:fine-tuning` | `kt:hugging-face-transformers`, `kt:qlora`, `kt:rlhf`, `kt:synthetic-data` |
@@ -27,7 +28,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tool-use` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:voyager` |
 | `kt:agent-memory` | `kt:ai-agent`, `kt:langgraph`, `kt:voyager` |
 | `kt:beam-search` | `kt:sampling-temperature-and-top-p`, `kt:self-consistency`, `kt:knowledge-distillation` |
-| `kt:benchmark-contamination` | `kt:ai-evaluation`, `kt:gsm8k`, `kt:synthetic-data` |
 | `kt:deep-q-network` | `kt:alphago`, `kt:q-learning`, `kt:reinforcement-learning` |
 | `kt:eu-ai-act` | `kt:algorithmic-bias-and-fairness`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:hidden-markov-model` |
@@ -35,6 +35,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:gradient-descent` | `kt:adam-optimizer`, `kt:backpropagation`, `kt:deep-learning` |
 | `kt:hybrid-search` | `kt:bm25`, `kt:bm25`, `kt:semantic-search` |
 | `kt:imagenet-and-alexnet` | `kt:cuda`, `kt:nvidia`, `kt:yolo` |
+| `kt:llm-as-a-judge` | `kt:ai-evaluation`, `kt:truthfulqa`, `kt:qlora` |
 | `kt:model-pruning` | `kt:quantization`, `kt:quantization`, `kt:knowledge-distillation` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent`, `kt:voyager` |
 | `kt:prompt-engineering` | `kt:chain-of-thought`, `kt:prompt-sensitivity`, `kt:self-consistency` |
@@ -57,8 +58,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:few-shot-prompting` | `kt:chain-of-thought`, `kt:prompt-sensitivity` |
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
 | `kt:google` | `kt:agent2agent-protocol`, `kt:tpu` |
+| `kt:hallucination` | `kt:truthfulqa`, `kt:mechanistic-interpretability` |
 | `kt:kv-cache` | `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
-| `kt:llm-as-a-judge` | `kt:ai-evaluation`, `kt:qlora` |
 | `kt:llm-inference-optimization` | `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
 | `kt:marvin-minsky` | `kt:dartmouth-workshop`, `kt:perceptron` |
 | `kt:model-cards` | `kt:algorithmic-bias-and-fairness`, `kt:omb-ai-memoranda` |
@@ -135,7 +136,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:frank-rosenblatt` | `kt:perceptron` |
 | `kt:generative-adversarial-nets` | `kt:generative-adversarial-network` |
 | `kt:google-deepmind` | `kt:alphago` |
-| `kt:hallucination` | `kt:mechanistic-interpretability` |
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
 | `kt:hugging-face` | `kt:hugging-face-transformers` |
 | `kt:hugging-face-diffusers` | `kt:diffusion-model` |
@@ -221,6 +221,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tim-dettmers` | `kt:qlora` |
 | `kt:training-verifiers-to-solve-math-word-problems` | `kt:gsm8k` |
 | `kt:transformers-state-of-the-art-natural-language-processing` | `kt:hugging-face-transformers` |
+| `kt:truthfulqa-measuring-how-models-mimic-human-falsehoods` | `kt:truthfulqa` |
 | `kt:turing-machine` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:uk-ai-security-institute` | `kt:ai-safety-institutes` |
 | `kt:universal-approximation-theorem` | `kt:artificial-neural-network` |

@@ -3253,6 +3253,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s5> <https://schema.org/url> "https://docs.cloud.google.com/tpu/docs/v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s1> <http://purl.org/dc/terms/publisher> "Proceedings of ACL 2022 (Volume 1: Long Papers), pp. 3214–3252 (Lin, Hilton, Evans)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s1> <http://purl.org/dc/terms/title> "TruthfulQA: Measuring How Models Mimic Human Falsehoods" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s1> <https://schema.org/url> "https://aclanthology.org/2022.acl-long.229" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s2> <http://purl.org/dc/terms/publisher> "arXiv / ar5iv (Lin, Hilton, Evans)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s2> <http://purl.org/dc/terms/title> "TruthfulQA: Measuring How Models Mimic Human Falsehoods (arXiv:2109.07958, HTML version)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s2> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/2109.07958" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s3> <http://purl.org/dc/terms/publisher> "TruthfulQA authors on GitHub" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s3> <http://purl.org/dc/terms/title> "sylinrl/TruthfulQA README" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s3> <https://schema.org/url> "https://raw.githubusercontent.com/sylinrl/TruthfulQA/main/README.md" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s4> <http://purl.org/dc/terms/publisher> "NeurIPS 2022 (Ouyang et al.; OpenAI)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s4> <http://purl.org/dc/terms/title> "Training language models to follow instructions with human feedback" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s4> <https://schema.org/url> "https://papers.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s5> <http://purl.org/dc/terms/publisher> "Hugging Face Open LLM Leaderboard team" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s5> <http://purl.org/dc/terms/title> "Performances are plateauing, let's make the leaderboard steep again" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s5> <https://schema.org/url> "https://open-llm-leaderboard-blog.static.hf.space/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s6> <http://purl.org/dc/terms/publisher> "LessWrong (Evans, Chua, Lin), 15 January 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s6> <http://purl.org/dc/terms/title> "New, improved multiple-choice TruthfulQA" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s6> <https://schema.org/url> "https://www.lesswrong.com/posts/Bunfwz6JsNd44kgLT/new-improved-multiple-choice-truthfulqa" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s1> <http://purl.org/dc/terms/publisher> "A. M. Turing, Mind 59 (236), 1950 (copy hosted for MIT CSAIL course 6.803)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s1> <http://purl.org/dc/terms/title> "Computing Machinery and Intelligence" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -3451,6 +3481,30 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/tpu> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-infrastructure-and-mlops" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/tpu> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/in-datacenter-performance-analysis-of-a-tensor-processing-unit> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/tpu> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Benchmark> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> <http://www.w3.org/2000/01/rdf-schema#label> "TruthfulQA" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> <http://www.w3.org/2004/02/skos/core#altLabel> "Truthful QA" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> <http://www.w3.org/2004/02/skos/core#altLabel> "TruthfulQA benchmark" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> <http://www.w3.org/2004/02/skos/core#definition> "A benchmark of 817 questions across 38 categories, introduced by Lin, Hilton and Evans in 2021, that measures whether language models avoid repeating popular misconceptions (\"imitative falsehoods\") learned from human text." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> <http://www.w3.org/2004/02/skos/core#prefLabel> "TruthfulQA" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "evaluation-and-benchmarks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa-measuring-how-models-mimic-human-falsehoods> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <http://www.w3.org/2000/01/rdf-schema#label> "Turing test" .

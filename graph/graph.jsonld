@@ -2558,6 +2558,93 @@
       ]
     },
     {
+      "@id": "kt:truthfulqa",
+      "@type": "kto:Benchmark",
+      "skos:prefLabel": "TruthfulQA",
+      "skos:definition": "A benchmark of 817 questions across 38 categories, introduced by Lin, Hilton and Evans in 2021, that measures whether language models avoid repeating popular misconceptions (\"imitative falsehoods\") learned from human text.",
+      "kto:domain": "evaluation-and-benchmarks",
+      "dcterms:created": "2026-11-10",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "TruthfulQA: Measuring How Models Mimic Human Falsehoods",
+          "dcterms:publisher": "Proceedings of ACL 2022 (Volume 1: Long Papers), pp. 3214–3252 (Lin, Hilton, Evans)",
+          "schema:url": "https://aclanthology.org/2022.acl-long.229",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "TruthfulQA: Measuring How Models Mimic Human Falsehoods (arXiv:2109.07958, HTML version)",
+          "dcterms:publisher": "arXiv / ar5iv (Lin, Hilton, Evans)",
+          "schema:url": "https://ar5iv.labs.arxiv.org/html/2109.07958",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "sylinrl/TruthfulQA README",
+          "dcterms:publisher": "TruthfulQA authors on GitHub",
+          "schema:url": "https://raw.githubusercontent.com/sylinrl/TruthfulQA/main/README.md",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Training language models to follow instructions with human feedback",
+          "dcterms:publisher": "NeurIPS 2022 (Ouyang et al.; OpenAI)",
+          "schema:url": "https://papers.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Performances are plateauing, let's make the leaderboard steep again",
+          "dcterms:publisher": "Hugging Face Open LLM Leaderboard team",
+          "schema:url": "https://open-llm-leaderboard-blog.static.hf.space/",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "New, improved multiple-choice TruthfulQA",
+          "dcterms:publisher": "LessWrong (Evans, Chua, Lin), 15 January 2025",
+          "schema:url": "https://www.lesswrong.com/posts/Bunfwz6JsNd44kgLT/new-improved-multiple-choice-truthfulqa",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/evaluation-and-benchmarks/truthfulqa.md",
+      "skos:altLabel": [
+        "Truthful QA",
+        "TruthfulQA benchmark"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-evaluation"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:hallucination"
+        },
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:scaling-laws"
+        },
+        {
+          "@id": "kt:rlhf"
+        },
+        {
+          "@id": "kt:benchmark-contamination"
+        },
+        {
+          "@id": "kt:llm-as-a-judge"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:truthfulqa-measuring-how-models-mimic-human-falsehoods"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:ai-alignment"
+        }
+      ]
+    },
+    {
       "@id": "kt:ai-chip-export-controls",
       "@type": "kto:Policy",
       "skos:prefLabel": "AI chip export controls",

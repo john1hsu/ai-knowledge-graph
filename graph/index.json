@@ -1405,6 +1405,27 @@
     ]
   },
   {
+    "id": "kt:truthfulqa",
+    "title": "TruthfulQA",
+    "aliases": [
+      "Truthful QA",
+      "TruthfulQA benchmark"
+    ],
+    "type": "Benchmark",
+    "domain": "evaluation-and-benchmarks",
+    "file": "articles/evaluation-and-benchmarks/truthfulqa.md",
+    "created": "2026-11-10",
+    "maturity": "established",
+    "source_urls": [
+      "https://aclanthology.org/2022.acl-long.229",
+      "https://ar5iv.labs.arxiv.org/html/2109.07958",
+      "https://raw.githubusercontent.com/sylinrl/TruthfulQA/main/README.md",
+      "https://papers.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf",
+      "https://open-llm-leaderboard-blog.static.hf.space/",
+      "https://www.lesswrong.com/posts/Bunfwz6JsNd44kgLT/new-improved-multiple-choice-truthfulqa"
+    ]
+  },
+  {
     "id": "kt:turing-test",
     "title": "Turing test",
     "aliases": [
