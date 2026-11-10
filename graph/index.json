@@ -263,6 +263,26 @@
     ]
   },
   {
+    "id": "kt:an-image-is-worth-16x16-words",
+    "title": "An Image Is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+    "aliases": [
+      "Dosovitskiy et al. 2021",
+      "the ViT paper"
+    ],
+    "type": "Work",
+    "domain": "computer-vision-and-multimodal",
+    "file": "articles/computer-vision-and-multimodal/an-image-is-worth-16x16-words.md",
+    "created": "2026-11-10",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://www.iclr.cc/virtual/2021/oral/3458",
+      "https://arxiv.org/html/2010.11929",
+      "https://research.google/blog/transformers-for-image-recognition-at-scale/",
+      "https://www.d2l.ai/chapter_attention-mechanisms-and-transformers/vision-transformer.html",
+      "https://huggingface.co/docs/transformers/model_doc/vit"
+    ]
+  },
+  {
     "id": "kt:approximate-nearest-neighbor-search",
     "title": "Approximate nearest neighbor search",
     "aliases": [

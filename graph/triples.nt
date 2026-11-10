@@ -302,6 +302,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "historical" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <https://github.com/john1hsu/ai-knowledge-graph/ontology#supersededBy> <https://github.com/john1hsu/ai-knowledge-graph/id/alphago-zero> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Work> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> <http://www.w3.org/2000/01/rdf-schema#label> "An Image Is Worth 16x16 Words: Transformers for Image Recognition at Scale" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> <http://www.w3.org/2004/02/skos/core#altLabel> "Dosovitskiy et al. 2021" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> <http://www.w3.org/2004/02/skos/core#altLabel> "the ViT paper" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> <http://www.w3.org/2004/02/skos/core#definition> "The ICLR 2021 paper by Dosovitskiy and eleven Google Research colleagues that introduced the Vision Transformer (ViT): it cuts an image into fixed-size patches, embeds each patch as a token and feeds the sequence to a nearly unmodified Transformer encoder, showing that with enough pre-training data this convolution-free model matches or beats state-of-the-art CNNs at lower pre-training compute." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> <http://www.w3.org/2004/02/skos/core#prefLabel> "An Image Is Worth 16x16 Words: Transformers for Image Recognition at Scale" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/clip> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/google> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "computer-vision-and-multimodal" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/vtab> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> <https://github.com/john1hsu/ai-knowledge-graph/ontology#runsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/tpu> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> <http://www.w3.org/2000/01/rdf-schema#label> "Approximate nearest neighbor search" .
@@ -2047,6 +2072,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "news" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s6> <https://schema.org/url> "https://www.koreatimes.co.kr/business/tech-science/20160315/alphago-wins-final-game-after-neck-and-neck-race" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s1> <http://purl.org/dc/terms/publisher> "Dosovitskiy, Beyer, Kolesnikov, Weissenborn, Zhai, Unterthiner, Dehghani, Minderer, Heigold, Gelly, Uszkoreit and Houlsby, ICLR 2021 virtual conference page" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s1> <http://purl.org/dc/terms/title> "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (oral)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s1> <https://schema.org/url> "https://www.iclr.cc/virtual/2021/oral/3458" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s2> <http://purl.org/dc/terms/publisher> "Dosovitskiy et al., Google Research, Brain Team; authors' arXiv version (v2, 3 June 2021)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s2> <http://purl.org/dc/terms/title> "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (arXiv 2010.11929v2)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s2> <https://schema.org/url> "https://arxiv.org/html/2010.11929" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s3> <http://purl.org/dc/terms/publisher> "Google Research blog (Neil Houlsby and Dirk Weissenborn), 3 December 2020" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s3> <http://purl.org/dc/terms/title> "Transformers for Image Recognition at Scale" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s3> <https://schema.org/url> "https://research.google/blog/transformers-for-image-recognition-at-scale/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s4> <http://purl.org/dc/terms/publisher> "Zhang, Lipton, Li and Smola, d2l.ai" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s4> <http://purl.org/dc/terms/title> "Dive into Deep Learning, 11.8: Transformers for Vision" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s4> <https://schema.org/url> "https://www.d2l.ai/chapter_attention-mechanisms-and-transformers/vision-transformer.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s5> <http://purl.org/dc/terms/publisher> "Hugging Face" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s5> <http://purl.org/dc/terms/title> "Vision Transformer (ViT) — Transformers documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s5> <https://schema.org/url> "https://huggingface.co/docs/transformers/model_doc/vit" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s1> <http://purl.org/dc/terms/publisher> "Communications of the ACM 51(1), January 2008 (Andoni and Indyk)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s1> <http://purl.org/dc/terms/title> "Near-Optimal Hashing Algorithms for Approximate Nearest Neighbor in High Dimensions" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

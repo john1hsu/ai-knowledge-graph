@@ -1542,6 +1542,101 @@
       ]
     },
     {
+      "@id": "kt:an-image-is-worth-16x16-words",
+      "@type": "kto:Work",
+      "skos:prefLabel": "An Image Is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+      "skos:definition": "The ICLR 2021 paper by Dosovitskiy and eleven Google Research colleagues that introduced the Vision Transformer (ViT): it cuts an image into fixed-size patches, embeds each patch as a token and feeds the sequence to a nearly unmodified Transformer encoder, showing that with enough pre-training data this convolution-free model matches or beats state-of-the-art CNNs at lower pre-training compute.",
+      "kto:domain": "computer-vision-and-multimodal",
+      "dcterms:created": "2026-11-10",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (oral)",
+          "dcterms:publisher": "Dosovitskiy, Beyer, Kolesnikov, Weissenborn, Zhai, Unterthiner, Dehghani, Minderer, Heigold, Gelly, Uszkoreit and Houlsby, ICLR 2021 virtual conference page",
+          "schema:url": "https://www.iclr.cc/virtual/2021/oral/3458",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (arXiv 2010.11929v2)",
+          "dcterms:publisher": "Dosovitskiy et al., Google Research, Brain Team; authors' arXiv version (v2, 3 June 2021)",
+          "schema:url": "https://arxiv.org/html/2010.11929",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Transformers for Image Recognition at Scale",
+          "dcterms:publisher": "Google Research blog (Neil Houlsby and Dirk Weissenborn), 3 December 2020",
+          "schema:url": "https://research.google/blog/transformers-for-image-recognition-at-scale/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Dive into Deep Learning, 11.8: Transformers for Vision",
+          "dcterms:publisher": "Zhang, Lipton, Li and Smola, d2l.ai",
+          "schema:url": "https://www.d2l.ai/chapter_attention-mechanisms-and-transformers/vision-transformer.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Vision Transformer (ViT) — Transformers documentation",
+          "dcterms:publisher": "Hugging Face",
+          "schema:url": "https://huggingface.co/docs/transformers/model_doc/vit",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/computer-vision-and-multimodal/an-image-is-worth-16x16-words.md",
+      "skos:altLabel": [
+        "Dosovitskiy et al. 2021",
+        "the ViT paper"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:image-classification"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:vision-transformer"
+        },
+        {
+          "@id": "kt:convolutional-neural-network"
+        },
+        {
+          "@id": "kt:clip"
+        },
+        {
+          "@id": "kt:scaling-laws"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:google"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:attention-is-all-you-need"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:vtab"
+        }
+      ],
+      "kto:runsOn": [
+        {
+          "@id": "kt:tpu"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:hugging-face-transformers"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:vision-language-model"
+        }
+      ]
+    },
+    {
       "@id": "kt:automatic-speech-recognition",
       "@type": "kto:Application",
       "skos:prefLabel": "Automatic speech recognition",
