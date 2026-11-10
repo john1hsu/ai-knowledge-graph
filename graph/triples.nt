@@ -472,6 +472,33 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/clip> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/clip> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/learning-transferable-visual-models-from-natural-language-supervision> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/clip> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <http://www.w3.org/2000/01/rdf-schema#label> "Context window" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <http://www.w3.org/2004/02/skos/core#altLabel> "context length" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <http://www.w3.org/2004/02/skos/core#altLabel> "context size" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <http://www.w3.org/2004/02/skos/core#altLabel> "long-context window" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <http://www.w3.org/2004/02/skos/core#altLabel> "maximum context length" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <http://www.w3.org/2004/02/skos/core#definition> "The maximum span of tokens a language model can attend to in a single request, covering the prompt, any documents, tool results and conversation history, and the output it generates; it acts as the model's working memory, distinct from what it learned in training." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <http://www.w3.org/2004/02/skos/core#prefLabel> "Context window" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/batching-and-paged-attention> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/positional-encoding> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/self-attention> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "transformers-and-llms" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/ruler> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Tool> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <http://www.w3.org/2000/01/rdf-schema#label> "CUDA" .
@@ -1847,6 +1874,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s6> <https://schema.org/url> "https://arxiv.org/pdf/2304.08485v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 2017, Advances in Neural Information Processing Systems 30 (Vaswani, Shazeer, Parmar, Uszkoreit, Jones, Gomez, Kaiser, Polosukhin)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s1> <http://purl.org/dc/terms/title> "Attention is All you Need" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s1> <https://schema.org/url> "https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s2> <http://purl.org/dc/terms/publisher> "arXiv:2306.15595v2 (Chen, Wong, Chen, Tian), 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s2> <http://purl.org/dc/terms/title> "Extending Context Window of Large Language Models via Positional Interpolation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s2> <https://schema.org/url> "https://arxiv.org/abs/2306.15595v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s3> <http://purl.org/dc/terms/publisher> "Transactions of the Association for Computational Linguistics 12:157–173, 2024 (Liu, Lin, Hewitt, Paranjape, Bevilacqua, Petroni, Liang)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s3> <http://purl.org/dc/terms/title> "Lost in the Middle: How Language Models Use Long Contexts" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s3> <https://schema.org/url> "https://aclanthology.org/2024.tacl-1.9/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s4> <http://purl.org/dc/terms/publisher> "arXiv:2404.06654v2 (Hsieh, Sun, Kriman, Acharya, Rekesh, Jia, Zhang, Ginsburg), 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s4> <http://purl.org/dc/terms/title> "RULER: What's the Real Context Size of Your Long-Context Language Models?" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s4> <https://schema.org/url> "https://arxiv.org/abs/2404.06654v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s5> <http://purl.org/dc/terms/publisher> "Gemini Team, Google — technical report, arXiv:2403.05530v2, April 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s5> <http://purl.org/dc/terms/title> "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s5> <https://schema.org/url> "https://arxiv.org/html/2403.05530v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s6> <http://purl.org/dc/terms/publisher> "Anthropic, Claude Platform documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s6> <http://purl.org/dc/terms/title> "Context windows" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s6> <https://schema.org/url> "https://platform.claude.com/docs/es/build-with-claude/context-windows" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s1> <http://purl.org/dc/terms/publisher> "NVIDIA CUDA documentation" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s1> <http://purl.org/dc/terms/title> "CUDA Programming Guide, 1.2 Programming Model (v13.4.2)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

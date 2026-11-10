@@ -5039,6 +5039,100 @@
       ]
     },
     {
+      "@id": "kt:context-window",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Context window",
+      "skos:definition": "The maximum span of tokens a language model can attend to in a single request, covering the prompt, any documents, tool results and conversation history, and the output it generates; it acts as the model's working memory, distinct from what it learned in training.",
+      "kto:domain": "transformers-and-llms",
+      "dcterms:created": "2026-11-10",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Attention is All you Need",
+          "dcterms:publisher": "NeurIPS 2017, Advances in Neural Information Processing Systems 30 (Vaswani, Shazeer, Parmar, Uszkoreit, Jones, Gomez, Kaiser, Polosukhin)",
+          "schema:url": "https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Extending Context Window of Large Language Models via Positional Interpolation",
+          "dcterms:publisher": "arXiv:2306.15595v2 (Chen, Wong, Chen, Tian), 2023",
+          "schema:url": "https://arxiv.org/abs/2306.15595v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Lost in the Middle: How Language Models Use Long Contexts",
+          "dcterms:publisher": "Transactions of the Association for Computational Linguistics 12:157–173, 2024 (Liu, Lin, Hewitt, Paranjape, Bevilacqua, Petroni, Liang)",
+          "schema:url": "https://aclanthology.org/2024.tacl-1.9/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "RULER: What's the Real Context Size of Your Long-Context Language Models?",
+          "dcterms:publisher": "arXiv:2404.06654v2 (Hsieh, Sun, Kriman, Acharya, Rekesh, Jia, Zhang, Ginsburg), 2024",
+          "schema:url": "https://arxiv.org/abs/2404.06654v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context",
+          "dcterms:publisher": "Gemini Team, Google — technical report, arXiv:2403.05530v2, April 2024",
+          "schema:url": "https://arxiv.org/html/2403.05530v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Context windows",
+          "dcterms:publisher": "Anthropic, Claude Platform documentation",
+          "schema:url": "https://platform.claude.com/docs/es/build-with-claude/context-windows",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/transformers-and-llms/context-window.md",
+      "skos:altLabel": [
+        "context length",
+        "context size",
+        "maximum context length",
+        "long-context window"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:transformer-architecture"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:in-context-learning"
+        },
+        {
+          "@id": "kt:retrieval-augmented-generation"
+        },
+        {
+          "@id": "kt:batching-and-paged-attention"
+        },
+        {
+          "@id": "kt:scaling-laws"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:self-attention"
+        },
+        {
+          "@id": "kt:positional-encoding"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:ruler"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:in-context-learning"
+        }
+      ]
+    },
+    {
       "@id": "kt:emergent-abilities",
       "@type": "kto:Concept",
       "skos:prefLabel": "Emergent abilities",

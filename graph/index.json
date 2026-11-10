@@ -414,6 +414,29 @@
     ]
   },
   {
+    "id": "kt:context-window",
+    "title": "Context window",
+    "aliases": [
+      "context length",
+      "context size",
+      "maximum context length",
+      "long-context window"
+    ],
+    "type": "Concept",
+    "domain": "transformers-and-llms",
+    "file": "articles/transformers-and-llms/context-window.md",
+    "created": "2026-11-10",
+    "maturity": "established",
+    "source_urls": [
+      "https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf",
+      "https://arxiv.org/abs/2306.15595v2",
+      "https://aclanthology.org/2024.tacl-1.9/",
+      "https://arxiv.org/abs/2404.06654v2",
+      "https://arxiv.org/html/2403.05530v2",
+      "https://platform.claude.com/docs/es/build-with-claude/context-windows"
+    ]
+  },
+  {
     "id": "kt:cuda",
     "title": "CUDA",
     "aliases": [
