@@ -2592,6 +2592,112 @@
       ]
     },
     {
+      "@id": "kt:long-short-term-memory",
+      "@type": "kto:Architecture",
+      "skos:prefLabel": "Long short-term memory",
+      "skos:definition": "A gated recurrent neural network architecture whose memory cell carries an additively updated internal state, regulated by input, forget and output gates, so that error signals can flow across hundreds or thousands of time steps without vanishing.",
+      "kto:domain": "deep-learning",
+      "dcterms:created": "2026-11-10",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Long Short-Term Memory",
+          "dcterms:publisher": "Neural Computation 9(8):1735–1780 (1997) (Hochreiter and Schmidhuber), via ML Anthology",
+          "schema:url": "https://mlanthology.org/neco/1997/hochreiter1997neco-long",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Learning to Forget: Continual Prediction with LSTM",
+          "dcterms:publisher": "Neural Computation 12:2451–2471 (2000) (Gers, Schmidhuber and Cummins), via ML Anthology",
+          "schema:url": "https://mlanthology.org/neco/2000/gers2000neco-learning",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "10.1. Long Short-Term Memory (LSTM)",
+          "dcterms:publisher": "Dive into Deep Learning (Zhang, Lipton, Li and Smola)",
+          "schema:url": "https://d2l.ai/chapter_recurrent-modern/lstm.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "LSTM: A Search Space Odyssey",
+          "dcterms:publisher": "arXiv:1503.04069v2; IEEE Transactions on Neural Networks and Learning Systems (Greff, Srivastava, Koutník, Steunebrink and Schmidhuber)",
+          "schema:url": "https://arxiv.org/abs/1503.04069v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "torch.nn.LSTM",
+          "dcterms:publisher": "PyTorch documentation (main)",
+          "schema:url": "https://docs.pytorch.org/docs/main/generated/torch.nn.LSTM.html",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "xLSTM: Extended Long Short-Term Memory",
+          "dcterms:publisher": "NeurIPS 2024 (Beck, Pöppel, Spanring, Auer, Prudnikova, Kopp, Klambauer, Brandstetter and Hochreiter)",
+          "schema:url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/c2ce2f2701c10a2b2f2ea0bfa43cfaa3-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/deep-learning/long-short-term-memory.md",
+      "skos:altLabel": [
+        "LSTM",
+        "LSTM network",
+        "long short-term memory network"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:recurrent-neural-network"
+        },
+        {
+          "@id": "kt:deep-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:backpropagation"
+        },
+        {
+          "@id": "kt:transformer-architecture"
+        },
+        {
+          "@id": "kt:automatic-speech-recognition"
+        },
+        {
+          "@id": "kt:sequence-to-sequence-learning"
+        },
+        {
+          "@id": "kt:dropout"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:long-short-term-memory-1997"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:sepp-hochreiter"
+        },
+        {
+          "@id": "kt:juergen-schmidhuber"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:vanishing-gradient-problem"
+        }
+      ],
+      "kto:supersededBy": [
+        {
+          "@id": "kt:transformer-architecture"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:pytorch"
+        }
+      ]
+    },
+    {
       "@id": "kt:ai-evaluation",
       "@type": "kto:Field",
       "skos:prefLabel": "Evaluation of AI systems",

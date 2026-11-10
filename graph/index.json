@@ -1044,6 +1044,28 @@
     ]
   },
   {
+    "id": "kt:long-short-term-memory",
+    "title": "Long short-term memory",
+    "aliases": [
+      "LSTM",
+      "LSTM network",
+      "long short-term memory network"
+    ],
+    "type": "Architecture",
+    "domain": "deep-learning",
+    "file": "articles/deep-learning/long-short-term-memory.md",
+    "created": "2026-11-10",
+    "maturity": "established",
+    "source_urls": [
+      "https://mlanthology.org/neco/1997/hochreiter1997neco-long",
+      "https://mlanthology.org/neco/2000/gers2000neco-learning",
+      "https://d2l.ai/chapter_recurrent-modern/lstm.html",
+      "https://arxiv.org/abs/1503.04069v2",
+      "https://docs.pytorch.org/docs/main/generated/torch.nn.LSTM.html",
+      "https://proceedings.neurips.cc/paper_files/paper/2024/hash/c2ce2f2701c10a2b2f2ea0bfa43cfaa3-Abstract.html"
+    ]
+  },
+  {
     "id": "kt:machine-learning",
     "title": "Machine learning",
     "aliases": [

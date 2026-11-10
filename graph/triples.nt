@@ -1216,6 +1216,35 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> <http://www.w3.org/2000/01/rdf-schema#label> "Long short-term memory" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> <http://www.w3.org/2004/02/skos/core#altLabel> "LSTM network" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> <http://www.w3.org/2004/02/skos/core#altLabel> "LSTM" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> <http://www.w3.org/2004/02/skos/core#altLabel> "long short-term memory network" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> <http://www.w3.org/2004/02/skos/core#definition> "A gated recurrent neural network architecture whose memory cell carries an additively updated internal state, regulated by input, forget and output gates, so that error signals can flow across hundreds or thousands of time steps without vanishing." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> <http://www.w3.org/2004/02/skos/core#prefLabel> "Long short-term memory" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/dropout> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/juergen-schmidhuber> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/sepp-hochreiter> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "deep-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory-1997> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> <https://github.com/john1hsu/ai-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> <https://github.com/john1hsu/ai-knowledge-graph/ontology#supersededBy> <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Field> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> <http://www.w3.org/2000/01/rdf-schema#label> "Machine learning" .
@@ -3074,6 +3103,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s5> <https://schema.org/url> "https://arxiv.org/abs/2108.07258" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s1> <http://purl.org/dc/terms/publisher> "Neural Computation 9(8):1735–1780 (1997) (Hochreiter and Schmidhuber), via ML Anthology" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s1> <http://purl.org/dc/terms/title> "Long Short-Term Memory" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s1> <https://schema.org/url> "https://mlanthology.org/neco/1997/hochreiter1997neco-long" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s2> <http://purl.org/dc/terms/publisher> "Neural Computation 12:2451–2471 (2000) (Gers, Schmidhuber and Cummins), via ML Anthology" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s2> <http://purl.org/dc/terms/title> "Learning to Forget: Continual Prediction with LSTM" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s2> <https://schema.org/url> "https://mlanthology.org/neco/2000/gers2000neco-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s3> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (Zhang, Lipton, Li and Smola)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s3> <http://purl.org/dc/terms/title> "10.1. Long Short-Term Memory (LSTM)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s3> <https://schema.org/url> "https://d2l.ai/chapter_recurrent-modern/lstm.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s4> <http://purl.org/dc/terms/publisher> "arXiv:1503.04069v2; IEEE Transactions on Neural Networks and Learning Systems (Greff, Srivastava, Koutník, Steunebrink and Schmidhuber)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s4> <http://purl.org/dc/terms/title> "LSTM: A Search Space Odyssey" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s4> <https://schema.org/url> "https://arxiv.org/abs/1503.04069v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s5> <http://purl.org/dc/terms/publisher> "PyTorch documentation (main)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s5> <http://purl.org/dc/terms/title> "torch.nn.LSTM" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s5> <https://schema.org/url> "https://docs.pytorch.org/docs/main/generated/torch.nn.LSTM.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s6> <http://purl.org/dc/terms/publisher> "NeurIPS 2024 (Beck, Pöppel, Spanring, Auer, Prudnikova, Kopp, Klambauer, Brandstetter and Hochreiter)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s6> <http://purl.org/dc/terms/title> "xLSTM: Extended Long Short-Term Memory" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s6> <https://schema.org/url> "https://proceedings.neurips.cc/paper_files/paper/2024/hash/c2ce2f2701c10a2b2f2ea0bfa43cfaa3-Abstract.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s1> <http://purl.org/dc/terms/publisher> "IBM Journal of Research and Development 3(3), 210–229 (1959) (Arthur L. Samuel), ML Anthology record" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s1> <http://purl.org/dc/terms/title> "Some Studies in Machine Learning Using the Game of Checkers" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
