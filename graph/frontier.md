@@ -4,20 +4,21 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
+| `kt:retrieval-augmented-generation` | `kt:toolformer`, `kt:beir`, `kt:approximate-nearest-neighbor-search`, `kt:bm25`, `kt:embeddings`, `kt:embeddings`, `kt:semantic-search`, `kt:semantic-search`, `kt:context-window` |
 | `kt:in-context-learning` | `kt:chain-of-thought`, `kt:prompt-sensitivity`, `kt:jailbreak`, `kt:mechanistic-interpretability`, `kt:context-window`, `kt:context-window`, `kt:emergent-abilities`, `kt:large-language-model` |
 | `kt:model-serving` | `kt:hugging-face-transformers`, `kt:mlops`, `kt:batching-and-paged-attention`, `kt:gptq`, `kt:gptq`, `kt:quantization`, `kt:speculative-decoding`, `kt:speculative-decoding` |
-| `kt:retrieval-augmented-generation` | `kt:beir`, `kt:approximate-nearest-neighbor-search`, `kt:bm25`, `kt:embeddings`, `kt:embeddings`, `kt:semantic-search`, `kt:semantic-search`, `kt:context-window` |
 | `kt:markov-decision-process` | `kt:hidden-markov-model`, `kt:actor-critic`, `kt:policy-gradient`, `kt:q-learning`, `kt:q-learning`, `kt:reinforcement-learning`, `kt:reinforcement-learning` |
 | `kt:transformer-architecture` | `kt:hugging-face-transformers`, `kt:automatic-speech-recognition`, `kt:clip`, `kt:attention-is-all-you-need`, `kt:context-window`, `kt:large-language-model`, `kt:scaling-laws` |
 | `kt:ai-governance` | `kt:ai-chip-export-controls`, `kt:ai-safety-institutes`, `kt:algorithmic-bias-and-fairness`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda`, `kt:ai-alignment` |
 | `kt:executive-orders-on-ai` | `kt:red-teaming`, `kt:ai-chip-export-controls`, `kt:ai-safety-institutes`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda`, `kt:omb-ai-memoranda` |
+| `kt:fine-tuning` | `kt:toolformer`, `kt:hugging-face-transformers`, `kt:qlora`, `kt:rlhf`, `kt:star-self-taught-reasoner`, `kt:synthetic-data` |
 | `kt:pretraining` | `kt:test-time-compute`, `kt:synthetic-data`, `kt:emergent-abilities`, `kt:large-language-model`, `kt:scaling-laws`, `kt:scaling-laws` |
 | `kt:supervised-learning` | `kt:perceptron`, `kt:bias-variance-tradeoff`, `kt:conditional-random-field`, `kt:machine-learning`, `kt:alphago`, `kt:reinforcement-learning` |
 | `kt:ensemble-methods` | `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:self-consistency`, `kt:knowledge-distillation` |
-| `kt:fine-tuning` | `kt:hugging-face-transformers`, `kt:qlora`, `kt:rlhf`, `kt:star-self-taught-reasoner`, `kt:synthetic-data` |
 | `kt:information-retrieval` | `kt:beir`, `kt:approximate-nearest-neighbor-search`, `kt:bm25`, `kt:semantic-search`, `kt:tf-idf` |
 | `kt:reasoning-models` | `kt:chain-of-thought`, `kt:scratchpad`, `kt:test-time-compute`, `kt:test-time-compute`, `kt:star-self-taught-reasoner` |
 | `kt:recurrent-neural-network` | `kt:automatic-speech-recognition`, `kt:deep-learning`, `kt:conditional-random-field`, `kt:hidden-markov-model`, `kt:attention-is-all-you-need` |
+| `kt:tool-use` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:toolformer`, `kt:voyager` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:dartmouth-workshop`, `kt:turing-test`, `kt:machine-learning` |
 | `kt:benchmark-contamination` | `kt:ai-evaluation`, `kt:gsm8k`, `kt:truthfulqa`, `kt:synthetic-data` |
 | `kt:convolutional-neural-network` | `kt:yolo`, `kt:artificial-neural-network`, `kt:deep-learning`, `kt:alphago` |
@@ -30,7 +31,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pytorch` | `kt:hugging-face-transformers`, `kt:adam-optimizer`, `kt:backpropagation`, `kt:dropout` |
 | `kt:regularization` | `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:conditional-random-field`, `kt:double-descent` |
 | `kt:reward-hacking` | `kt:ai-alignment`, `kt:scalable-oversight`, `kt:sycophancy`, `kt:rlhf` |
-| `kt:tool-use` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:voyager` |
 | `kt:agent-memory` | `kt:ai-agent`, `kt:langgraph`, `kt:voyager` |
 | `kt:beam-search` | `kt:sampling-temperature-and-top-p`, `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:deep-q-network` | `kt:alphago`, `kt:q-learning`, `kt:reinforcement-learning` |
@@ -47,6 +47,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:model-pruning` | `kt:quantization`, `kt:quantization`, `kt:knowledge-distillation` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent`, `kt:voyager` |
 | `kt:prompt-injection` | `kt:agent2agent-protocol`, `kt:red-teaming`, `kt:jailbreak` |
+| `kt:react-prompting` | `kt:ai-agent`, `kt:toolformer`, `kt:chain-of-thought` |
 | `kt:representation-learning` | `kt:clip`, `kt:deep-learning`, `kt:embeddings` |
 | `kt:reranking` | `kt:beir`, `kt:bm25`, `kt:semantic-search` |
 | `kt:temporal-difference-learning` | `kt:actor-critic`, `kt:q-learning`, `kt:reinforcement-learning` |
@@ -70,7 +71,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:positional-encoding` | `kt:attention-is-all-you-need`, `kt:context-window` |
 | `kt:probabilistic-relevance-framework` | `kt:bm25`, `kt:bm25` |
 | `kt:proximal-policy-optimization` | `kt:policy-gradient`, `kt:rlhf` |
-| `kt:react-prompting` | `kt:ai-agent`, `kt:chain-of-thought` |
 | `kt:rmsprop` | `kt:adam-optimizer`, `kt:adam-optimizer` |
 | `kt:self-attention` | `kt:attention-is-all-you-need`, `kt:context-window` |
 | `kt:self-refine` | `kt:agentic-workflow`, `kt:voyager` |
@@ -144,6 +144,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:frank-rosenblatt` | `kt:perceptron` |
 | `kt:generative-adversarial-nets` | `kt:generative-adversarial-network` |
 | `kt:google-deepmind` | `kt:alphago` |
+| `kt:gpt-j` | `kt:toolformer` |
 | `kt:gptq-accurate-post-training-quantization-for-generative-pre-trained-transformers` | `kt:gptq` |
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
 | `kt:hugging-face` | `kt:hugging-face-transformers` |
@@ -177,6 +178,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:markov-chain` | `kt:hidden-markov-model` |
 | `kt:mastering-the-game-of-go-with-deep-neural-networks-and-tree-search` | `kt:alphago` |
 | `kt:maximum-entropy-markov-model` | `kt:conditional-random-field` |
+| `kt:meta-ai` | `kt:toolformer` |
 | `kt:min-p-sampling` | `kt:sampling-temperature-and-top-p` |
 | `kt:minds-brains-and-programs` | `kt:chinese-room-argument` |
 | `kt:mlflow` | `kt:mlops` |

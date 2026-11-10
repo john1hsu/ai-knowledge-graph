@@ -367,6 +367,98 @@
       ]
     },
     {
+      "@id": "kt:toolformer",
+      "@type": "kto:Model",
+      "skos:prefLabel": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+      "skos:definition": "A 2023 Meta AI method and model in which a language model (GPT-J, 6.7B parameters) annotates its own training text with candidate API calls, keeps only the calls whose results make the following tokens easier to predict, and is fine-tuned on the result, so it learns by self-supervision when and how to call a calculator, QA system, search engine, translator and calendar.",
+      "kto:domain": "agents-and-tool-use",
+      "dcterms:created": "2026-11-10",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "dcterms:publisher": "arXiv 2302.04761 (Schick et al., Meta AI Research; authors' version)",
+          "schema:url": "https://arxiv.org/pdf/2302.04761",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+          "dcterms:publisher": "Advances in Neural Information Processing Systems 36 (NeurIPS 2023), Main Conference Track",
+          "schema:url": "https://proceedings.neurips.cc/paper/2023/hash/d842425e4bf79ba039352da0f658a906-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Augmented Language Models: a Survey",
+          "dcterms:publisher": "Meta AI Research (Mialon et al., TMLR 2023)",
+          "schema:url": "https://ai.meta.com/research/publications/augmented-language-models-a-survey",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Gorilla: Large Language Model Connected with Massive APIs",
+          "dcterms:publisher": "arXiv 2305.15334 (Patil et al., UC Berkeley and Microsoft Research; authors' version)",
+          "schema:url": "https://arxiv.org/pdf/2305.15334",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Tool use with Claude",
+          "dcterms:publisher": "Anthropic Claude Platform documentation",
+          "schema:url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/overview",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/agents-and-tool-use/toolformer.md",
+      "skos:altLabel": [
+        "Toolformer"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:tool-use"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:ai-agent"
+        },
+        {
+          "@id": "kt:react-prompting"
+        },
+        {
+          "@id": "kt:retrieval-augmented-generation"
+        },
+        {
+          "@id": "kt:emergent-abilities"
+        },
+        {
+          "@id": "kt:star-self-taught-reasoner"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:gpt-j"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:meta-ai"
+        }
+      ],
+      "kto:trainedWith": [
+        {
+          "@id": "kt:synthetic-data"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:fine-tuning"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:large-language-model"
+        }
+      ]
+    },
+    {
       "@id": "kt:voyager",
       "@type": "kto:Model",
       "skos:prefLabel": "Voyager (embodied LLM agent)",

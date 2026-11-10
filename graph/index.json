@@ -1537,6 +1537,25 @@
     ]
   },
   {
+    "id": "kt:toolformer",
+    "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+    "aliases": [
+      "Toolformer"
+    ],
+    "type": "Model",
+    "domain": "agents-and-tool-use",
+    "file": "articles/agents-and-tool-use/toolformer.md",
+    "created": "2026-11-10",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/pdf/2302.04761",
+      "https://proceedings.neurips.cc/paper/2023/hash/d842425e4bf79ba039352da0f658a906-Abstract.html",
+      "https://ai.meta.com/research/publications/augmented-language-models-a-survey",
+      "https://arxiv.org/pdf/2305.15334",
+      "https://platform.claude.com/docs/en/agents-and-tools/tool-use/overview"
+    ]
+  },
+  {
     "id": "kt:tpu",
     "title": "Tensor Processing Unit",
     "aliases": [
