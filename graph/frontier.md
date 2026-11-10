@@ -8,15 +8,16 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:model-serving` | `kt:hugging-face-transformers`, `kt:mlops`, `kt:batching-and-paged-attention`, `kt:gptq`, `kt:gptq`, `kt:quantization`, `kt:speculative-decoding`, `kt:speculative-decoding` |
 | `kt:retrieval-augmented-generation` | `kt:beir`, `kt:approximate-nearest-neighbor-search`, `kt:bm25`, `kt:embeddings`, `kt:embeddings`, `kt:semantic-search`, `kt:semantic-search`, `kt:context-window` |
 | `kt:markov-decision-process` | `kt:hidden-markov-model`, `kt:actor-critic`, `kt:policy-gradient`, `kt:q-learning`, `kt:q-learning`, `kt:reinforcement-learning`, `kt:reinforcement-learning` |
+| `kt:transformer-architecture` | `kt:hugging-face-transformers`, `kt:automatic-speech-recognition`, `kt:clip`, `kt:attention-is-all-you-need`, `kt:context-window`, `kt:large-language-model`, `kt:scaling-laws` |
 | `kt:ai-governance` | `kt:ai-chip-export-controls`, `kt:ai-safety-institutes`, `kt:algorithmic-bias-and-fairness`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda`, `kt:ai-alignment` |
 | `kt:executive-orders-on-ai` | `kt:red-teaming`, `kt:ai-chip-export-controls`, `kt:ai-safety-institutes`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda`, `kt:omb-ai-memoranda` |
 | `kt:pretraining` | `kt:test-time-compute`, `kt:synthetic-data`, `kt:emergent-abilities`, `kt:large-language-model`, `kt:scaling-laws`, `kt:scaling-laws` |
 | `kt:supervised-learning` | `kt:perceptron`, `kt:bias-variance-tradeoff`, `kt:conditional-random-field`, `kt:machine-learning`, `kt:alphago`, `kt:reinforcement-learning` |
-| `kt:transformer-architecture` | `kt:hugging-face-transformers`, `kt:automatic-speech-recognition`, `kt:clip`, `kt:context-window`, `kt:large-language-model`, `kt:scaling-laws` |
 | `kt:ensemble-methods` | `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:fine-tuning` | `kt:hugging-face-transformers`, `kt:qlora`, `kt:rlhf`, `kt:star-self-taught-reasoner`, `kt:synthetic-data` |
 | `kt:information-retrieval` | `kt:beir`, `kt:approximate-nearest-neighbor-search`, `kt:bm25`, `kt:semantic-search`, `kt:tf-idf` |
 | `kt:reasoning-models` | `kt:chain-of-thought`, `kt:scratchpad`, `kt:test-time-compute`, `kt:test-time-compute`, `kt:star-self-taught-reasoner` |
+| `kt:recurrent-neural-network` | `kt:automatic-speech-recognition`, `kt:deep-learning`, `kt:conditional-random-field`, `kt:hidden-markov-model`, `kt:attention-is-all-you-need` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:dartmouth-workshop`, `kt:turing-test`, `kt:machine-learning` |
 | `kt:benchmark-contamination` | `kt:ai-evaluation`, `kt:gsm8k`, `kt:truthfulqa`, `kt:synthetic-data` |
 | `kt:convolutional-neural-network` | `kt:yolo`, `kt:artificial-neural-network`, `kt:deep-learning`, `kt:alphago` |
@@ -27,7 +28,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:overfitting` | `kt:dropout`, `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent` |
 | `kt:prompt-engineering` | `kt:chain-of-thought`, `kt:prompt-sensitivity`, `kt:scratchpad`, `kt:self-consistency` |
 | `kt:pytorch` | `kt:hugging-face-transformers`, `kt:adam-optimizer`, `kt:backpropagation`, `kt:dropout` |
-| `kt:recurrent-neural-network` | `kt:automatic-speech-recognition`, `kt:deep-learning`, `kt:conditional-random-field`, `kt:hidden-markov-model` |
 | `kt:regularization` | `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:conditional-random-field`, `kt:double-descent` |
 | `kt:reward-hacking` | `kt:ai-alignment`, `kt:scalable-oversight`, `kt:sycophancy`, `kt:rlhf` |
 | `kt:tool-use` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:voyager` |
@@ -37,6 +37,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:eu-ai-act` | `kt:algorithmic-bias-and-fairness`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:hidden-markov-model` |
 | `kt:geoffrey-hinton` | `kt:dropout`, `kt:dropout`, `kt:knowledge-distillation` |
+| `kt:google` | `kt:agent2agent-protocol`, `kt:tpu`, `kt:attention-is-all-you-need` |
 | `kt:gradient-descent` | `kt:adam-optimizer`, `kt:backpropagation`, `kt:deep-learning` |
 | `kt:hallucination` | `kt:truthfulqa`, `kt:mechanistic-interpretability`, `kt:sycophancy` |
 | `kt:hybrid-search` | `kt:bm25`, `kt:bm25`, `kt:semantic-search` |
@@ -61,17 +62,19 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:exploration-exploitation` | `kt:q-learning`, `kt:reinforcement-learning` |
 | `kt:few-shot-prompting` | `kt:chain-of-thought`, `kt:prompt-sensitivity` |
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
-| `kt:google` | `kt:agent2agent-protocol`, `kt:tpu` |
 | `kt:kv-cache` | `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
 | `kt:llm-inference-optimization` | `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
 | `kt:marvin-minsky` | `kt:dartmouth-workshop`, `kt:perceptron` |
 | `kt:model-cards` | `kt:algorithmic-bias-and-fairness`, `kt:omb-ai-memoranda` |
 | `kt:openai` | `kt:clip`, `kt:gsm8k` |
+| `kt:positional-encoding` | `kt:attention-is-all-you-need`, `kt:context-window` |
 | `kt:probabilistic-relevance-framework` | `kt:bm25`, `kt:bm25` |
 | `kt:proximal-policy-optimization` | `kt:policy-gradient`, `kt:rlhf` |
 | `kt:react-prompting` | `kt:ai-agent`, `kt:chain-of-thought` |
 | `kt:rmsprop` | `kt:adam-optimizer`, `kt:adam-optimizer` |
+| `kt:self-attention` | `kt:attention-is-all-you-need`, `kt:context-window` |
 | `kt:self-refine` | `kt:agentic-workflow`, `kt:voyager` |
+| `kt:sequence-to-sequence-learning` | `kt:automatic-speech-recognition`, `kt:attention-is-all-you-need` |
 | `kt:statistical-learning-theory` | `kt:bias-variance-tradeoff`, `kt:double-descent` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:vision-transformer` | `kt:clip`, `kt:yolo` |
@@ -93,6 +96,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:application-specific-integrated-circuit` | `kt:tpu` |
 | `kt:arthur-samuel` | `kt:machine-learning` |
 | `kt:asynchronous-advantage-actor-critic` | `kt:actor-critic` |
+| `kt:attention-mechanism` | `kt:attention-is-all-you-need` |
 | `kt:autogen` | `kt:langgraph` |
 | `kt:automatic-differentiation` | `kt:backpropagation` |
 | `kt:autonomous-driving` | `kt:yolo` |
@@ -185,6 +189,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ms-coco` | `kt:yolo` |
 | `kt:mteb` | `kt:beir` |
 | `kt:named-entity-recognition` | `kt:conditional-random-field` |
+| `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` | `kt:attention-is-all-you-need` |
 | `kt:nist` | `kt:nist-ai-risk-management-framework` |
 | `kt:nist-generative-ai-profile` | `kt:nist-ai-risk-management-framework` |
 | `kt:object-detection` | `kt:yolo` |
@@ -196,7 +201,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:penetration-testing` | `kt:red-teaming` |
 | `kt:philosophy-of-artificial-intelligence` | `kt:chinese-room-argument` |
 | `kt:policy-gradient-methods-for-reinforcement-learning-with-function-approximation` | `kt:policy-gradient` |
-| `kt:positional-encoding` | `kt:context-window` |
 | `kt:post-training-quantization` | `kt:gptq` |
 | `kt:pregel` | `kt:langgraph` |
 | `kt:probabilistic-graphical-model` | `kt:conditional-random-field` |
@@ -212,9 +216,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:scalable-parallel-programming-with-cuda` | `kt:cuda` |
 | `kt:scaling-laws-for-neural-language-models` | `kt:scaling-laws` |
 | `kt:score-matching` | `kt:diffusion-model` |
-| `kt:self-attention` | `kt:context-window` |
 | `kt:self-consistency-improves-chain-of-thought-reasoning-in-language-models` | `kt:self-consistency` |
-| `kt:sequence-to-sequence-learning` | `kt:automatic-speech-recognition` |
 | `kt:show-your-work-scratchpads-for-intermediate-computation-with-language-models` | `kt:scratchpad` |
 | `kt:soft-actor-critic` | `kt:actor-critic` |
 | `kt:sparse-autoencoder` | `kt:mechanistic-interpretability` |
@@ -251,6 +253,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:weak-to-strong-generalization` | `kt:scalable-oversight` |
 | `kt:weight-decay` | `kt:dropout` |
 | `kt:whisper` | `kt:automatic-speech-recognition` |
+| `kt:wmt-2014` | `kt:attention-is-all-you-need` |
 | `kt:word2vec` | `kt:embeddings` |
 | `kt:you-only-look-once-unified-real-time-object-detection` | `kt:yolo` |
 | `kt:zero-shot-learning` | `kt:clip` |

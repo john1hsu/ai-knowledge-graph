@@ -351,6 +351,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/a-logical-calculus-of-the-ideas-immanent-in-nervous-activity> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Work> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> <http://www.w3.org/2000/01/rdf-schema#label> "Attention Is All You Need" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> <http://www.w3.org/2004/02/skos/core#altLabel> "Vaswani et al. 2017" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> <http://www.w3.org/2004/02/skos/core#altLabel> "the Transformer paper" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> <http://www.w3.org/2004/02/skos/core#definition> "The 2017 NeurIPS paper by Vaswani and seven Google colleagues that introduced the Transformer, an encoder-decoder network built entirely from attention and feed-forward layers, with no recurrence or convolution, and showed it beat recurrent translation models while training far faster." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> <http://www.w3.org/2004/02/skos/core#prefLabel> "Attention Is All You Need" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/positional-encoding> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/self-attention> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/google> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "transformers-and-llms" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/neural-machine-translation-by-jointly-learning-to-align-and-translate> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Application> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <http://www.w3.org/2000/01/rdf-schema#label> "Automatic speech recognition" .
@@ -2004,6 +2030,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s6> <https://schema.org/url> "https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s1> <http://purl.org/dc/terms/publisher> "Vaswani et al., Advances in Neural Information Processing Systems 30 (NIPS 2017), proceedings PDF" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s1> <http://purl.org/dc/terms/title> "Attention is All you Need" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s1> <https://schema.org/url> "https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s2> <http://purl.org/dc/terms/publisher> "Vaswani et al., authors' arXiv version (v1 12 June 2017; v7 2 August 2023)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s2> <http://purl.org/dc/terms/title> "Attention Is All You Need (arXiv 1706.03762, v7)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s2> <https://schema.org/url> "https://arxiv.org/abs/1706.03762" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s3> <http://purl.org/dc/terms/publisher> "Google Research blog (Jakob Uszkoreit), 31 August 2017" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s3> <http://purl.org/dc/terms/title> "Transformer: A Novel Neural Network Architecture for Language Understanding" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s3> <https://schema.org/url> "https://research.google/blog/transformer-a-novel-neural-network-architecture-for-language-understanding/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s4> <http://purl.org/dc/terms/publisher> "Zhang, Lipton, Li and Smola, d2l.ai" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s4> <http://purl.org/dc/terms/title> "Dive into Deep Learning, 11.7: The Transformer Architecture" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s4> <https://schema.org/url> "https://d2l.ai/chapter_attention-mechanisms-and-transformers/transformer.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s5> <http://purl.org/dc/terms/publisher> "Bahdanau, Cho and Bengio, ICLR 2015 (authors' arXiv version)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s5> <http://purl.org/dc/terms/title> "Neural Machine Translation by Jointly Learning to Align and Translate" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s5> <https://schema.org/url> "https://arxiv.org/pdf/1409.0473" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s6> <http://purl.org/dc/terms/publisher> "D. Jurafsky and J. H. Martin, Stanford University (draft of August 2026)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s6> <http://purl.org/dc/terms/title> "Speech and Language Processing (3rd ed. draft), Chapter 7: Transformers and Pretraining" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s6> <https://schema.org/url> "https://web.stanford.edu/~jurafsky/slp3/7.pdf" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s1> <http://purl.org/dc/terms/publisher> "Daniel Jurafsky and James H. Martin, Stanford University (draft of August 2026)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s1> <http://purl.org/dc/terms/title> "Speech and Language Processing (3rd ed. draft), Chapter 16: Automatic Speech Recognition" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

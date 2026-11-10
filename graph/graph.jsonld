@@ -6340,6 +6340,103 @@
       ]
     },
     {
+      "@id": "kt:attention-is-all-you-need",
+      "@type": "kto:Work",
+      "skos:prefLabel": "Attention Is All You Need",
+      "skos:definition": "The 2017 NeurIPS paper by Vaswani and seven Google colleagues that introduced the Transformer, an encoder-decoder network built entirely from attention and feed-forward layers, with no recurrence or convolution, and showed it beat recurrent translation models while training far faster.",
+      "kto:domain": "transformers-and-llms",
+      "dcterms:created": "2026-11-10",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Attention is All you Need",
+          "dcterms:publisher": "Vaswani et al., Advances in Neural Information Processing Systems 30 (NIPS 2017), proceedings PDF",
+          "schema:url": "https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Attention Is All You Need (arXiv 1706.03762, v7)",
+          "dcterms:publisher": "Vaswani et al., authors' arXiv version (v1 12 June 2017; v7 2 August 2023)",
+          "schema:url": "https://arxiv.org/abs/1706.03762",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Transformer: A Novel Neural Network Architecture for Language Understanding",
+          "dcterms:publisher": "Google Research blog (Jakob Uszkoreit), 31 August 2017",
+          "schema:url": "https://research.google/blog/transformer-a-novel-neural-network-architecture-for-language-understanding/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Dive into Deep Learning, 11.7: The Transformer Architecture",
+          "dcterms:publisher": "Zhang, Lipton, Li and Smola, d2l.ai",
+          "schema:url": "https://d2l.ai/chapter_attention-mechanisms-and-transformers/transformer.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Neural Machine Translation by Jointly Learning to Align and Translate",
+          "dcterms:publisher": "Bahdanau, Cho and Bengio, ICLR 2015 (authors' arXiv version)",
+          "schema:url": "https://arxiv.org/pdf/1409.0473",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Speech and Language Processing (3rd ed. draft), Chapter 7: Transformers and Pretraining",
+          "dcterms:publisher": "D. Jurafsky and J. H. Martin, Stanford University (draft of August 2026)",
+          "schema:url": "https://web.stanford.edu/~jurafsky/slp3/7.pdf",
+          "kto:sourceType": "textbook"
+        }
+      ],
+      "kto:file": "articles/transformers-and-llms/attention-is-all-you-need.md",
+      "skos:altLabel": [
+        "Vaswani et al. 2017",
+        "the Transformer paper"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:sequence-to-sequence-learning"
+        },
+        {
+          "@id": "kt:attention-mechanism"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:transformer-architecture"
+        },
+        {
+          "@id": "kt:self-attention"
+        },
+        {
+          "@id": "kt:positional-encoding"
+        },
+        {
+          "@id": "kt:recurrent-neural-network"
+        },
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:google"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:neural-machine-translation-by-jointly-learning-to-align-and-translate"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:wmt-2014"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:large-language-model"
+        }
+      ]
+    },
+    {
       "@id": "kt:context-window",
       "@type": "kto:Concept",
       "skos:prefLabel": "Context window",
