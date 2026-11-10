@@ -351,6 +351,26 @@
     ]
   },
   {
+    "id": "kt:awq",
+    "title": "AWQ",
+    "aliases": [
+      "activation-aware weight quantization",
+      "AWQ quantization"
+    ],
+    "type": "Algorithm",
+    "domain": "inference-and-optimization",
+    "file": "articles/inference-and-optimization/awq.md",
+    "created": "2026-11-10",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/html/2306.00978v5",
+      "https://proceedings.mlsys.org/paper_files/paper/2024/hash/42a452cbafa9dd64e9ba4aa95cc1ef21-Abstract-Conference.html",
+      "https://hanlab.mit.edu/projects/awq",
+      "https://huggingface.co/docs/transformers/v5.13.0/quantization/awq",
+      "https://docs.vllm.ai/en/v0.7.1/features/quantization/auto_awq.html"
+    ]
+  },
+  {
     "id": "kt:backpropagation",
     "title": "Backpropagation algorithm",
     "aliases": [

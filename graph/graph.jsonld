@@ -3374,6 +3374,105 @@
       ]
     },
     {
+      "@id": "kt:awq",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "AWQ",
+      "skos:definition": "A post-training, weight-only quantization method for large language models that finds the small fraction of salient weight channels by looking at activation magnitudes and protects them with per-channel scaling before rounding, compressing weights to 4 or 3 bits without backpropagation or weight reconstruction.",
+      "kto:domain": "inference-and-optimization",
+      "dcterms:created": "2026-11-10",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration",
+          "dcterms:publisher": "Lin, Tang, Tang, Yang, Chen, Wang, Xiao, Dang, Gan and Han; authors' arXiv version 2306.00978v5",
+          "schema:url": "https://arxiv.org/html/2306.00978v5",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "AWQ: Activation-aware Weight Quantization for On-Device LLM Compression and Acceleration",
+          "dcterms:publisher": "Proceedings of Machine Learning and Systems 6 (MLSys 2024), pp. 87-100",
+          "schema:url": "https://proceedings.mlsys.org/paper_files/paper/2024/hash/42a452cbafa9dd64e9ba4aa95cc1ef21-Abstract-Conference.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "AWQ project page",
+          "dcterms:publisher": "MIT HAN Lab",
+          "schema:url": "https://hanlab.mit.edu/projects/awq",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "AWQ",
+          "dcterms:publisher": "Hugging Face Transformers documentation (v5.13.0)",
+          "schema:url": "https://huggingface.co/docs/transformers/v5.13.0/quantization/awq",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "AutoAWQ",
+          "dcterms:publisher": "vLLM documentation (v0.7.1)",
+          "schema:url": "https://docs.vllm.ai/en/v0.7.1/features/quantization/auto_awq.html",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/inference-and-optimization/awq.md",
+      "skos:altLabel": [
+        "activation-aware weight quantization",
+        "AWQ quantization"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:quantization"
+        },
+        {
+          "@id": "kt:post-training-quantization"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:gptq"
+        },
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:model-serving"
+        },
+        {
+          "@id": "kt:vllm"
+        },
+        {
+          "@id": "kt:vision-language-model"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:awq-activation-aware-weight-quantization-for-llm-compression-and-acceleration"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:gptq"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:hugging-face-transformers"
+        },
+        {
+          "@id": "kt:vllm"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:model-serving"
+        }
+      ]
+    },
+    {
       "@id": "kt:batching-and-paged-attention",
       "@type": "kto:Technique",
       "skos:prefLabel": "Continuous batching and PagedAttention",

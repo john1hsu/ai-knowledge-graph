@@ -400,6 +400,33 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/librispeech> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/switchboard-corpus> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/awq> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/awq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/awq> <http://www.w3.org/2000/01/rdf-schema#label> "AWQ" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/awq> <http://www.w3.org/2004/02/skos/core#altLabel> "AWQ quantization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/awq> <http://www.w3.org/2004/02/skos/core#altLabel> "activation-aware weight quantization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/awq> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/post-training-quantization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/awq> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/awq> <http://www.w3.org/2004/02/skos/core#definition> "A post-training, weight-only quantization method for large language models that finds the small fraction of salient weight channels by looking at activation magnitudes and protects them with per-channel scaling before rounding, compressing weights to 4 or 3 bits without backpropagation or weight reconstruction." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/awq> <http://www.w3.org/2004/02/skos/core#prefLabel> "AWQ" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/awq> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/gptq> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/awq> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/awq> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/awq> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/awq> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/vllm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/awq> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/awq/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/awq> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/awq/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/awq> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/awq/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/awq> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/awq/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/awq> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/awq/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/awq> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/gptq> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/awq> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "inference-and-optimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/awq> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/awq> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/awq> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/vllm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/awq> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/awq-activation-aware-weight-quantization-for-llm-compression-and-acceleration> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/awq> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/awq> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <http://www.w3.org/2000/01/rdf-schema#label> "Backpropagation algorithm" .
@@ -2130,6 +2157,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s4> <https://schema.org/url> "https://proceedings.mlr.press/v202/radford23a.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/awq/s1> <http://purl.org/dc/terms/publisher> "Lin, Tang, Tang, Yang, Chen, Wang, Xiao, Dang, Gan and Han; authors' arXiv version 2306.00978v5" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/awq/s1> <http://purl.org/dc/terms/title> "AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/awq/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/awq/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/awq/s1> <https://schema.org/url> "https://arxiv.org/html/2306.00978v5" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/awq/s2> <http://purl.org/dc/terms/publisher> "Proceedings of Machine Learning and Systems 6 (MLSys 2024), pp. 87-100" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/awq/s2> <http://purl.org/dc/terms/title> "AWQ: Activation-aware Weight Quantization for On-Device LLM Compression and Acceleration" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/awq/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/awq/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/awq/s2> <https://schema.org/url> "https://proceedings.mlsys.org/paper_files/paper/2024/hash/42a452cbafa9dd64e9ba4aa95cc1ef21-Abstract-Conference.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/awq/s3> <http://purl.org/dc/terms/publisher> "MIT HAN Lab" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/awq/s3> <http://purl.org/dc/terms/title> "AWQ project page" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/awq/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/awq/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/awq/s3> <https://schema.org/url> "https://hanlab.mit.edu/projects/awq" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/awq/s4> <http://purl.org/dc/terms/publisher> "Hugging Face Transformers documentation (v5.13.0)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/awq/s4> <http://purl.org/dc/terms/title> "AWQ" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/awq/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/awq/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/awq/s4> <https://schema.org/url> "https://huggingface.co/docs/transformers/v5.13.0/quantization/awq" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/awq/s5> <http://purl.org/dc/terms/publisher> "vLLM documentation (v0.7.1)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/awq/s5> <http://purl.org/dc/terms/title> "AutoAWQ" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/awq/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/awq/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/awq/s5> <https://schema.org/url> "https://docs.vllm.ai/en/v0.7.1/features/quantization/auto_awq.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s1> <http://purl.org/dc/terms/publisher> "Nature 323, 533 (October 1986) (Rumelhart, Hinton and Williams), NASA ADS record" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s1> <http://purl.org/dc/terms/title> "Learning representations by back-propagating errors" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
