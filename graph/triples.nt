@@ -1001,6 +1001,29 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "governance-and-policy" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/nist-generative-ai-profile> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nvidia> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nvidia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Organization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nvidia> <http://www.w3.org/2000/01/rdf-schema#label> "NVIDIA" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nvidia> <http://www.w3.org/2004/02/skos/core#altLabel> "NVDA" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nvidia> <http://www.w3.org/2004/02/skos/core#altLabel> "NVIDIA Corporation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nvidia> <http://www.w3.org/2004/02/skos/core#altLabel> "Nvidia" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nvidia> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-hardware> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nvidia> <http://www.w3.org/2004/02/skos/core#definition> "An American semiconductor and computing company, founded in 1993, whose graphics processing units, CUDA software platform and data-centre systems became the dominant hardware and software stack for training and serving deep-learning models." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nvidia> <http://www.w3.org/2004/02/skos/core#prefLabel> "NVIDIA" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nvidia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/cuda> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nvidia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nvidia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nvidia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nvidia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/tensor-cores> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nvidia> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/tpu> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nvidia> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/nvidia/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nvidia> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/nvidia/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nvidia> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/nvidia/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nvidia> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/nvidia/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nvidia> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-infrastructure-and-mlops" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nvidia> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nvidia> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nvidia> <https://github.com/john1hsu/ai-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Policy> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <http://www.w3.org/2000/01/rdf-schema#label> "OMB AI memoranda" .
@@ -2485,6 +2508,26 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s6> <https://schema.org/url> "https://www.nist.gov/node/1855536" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nvidia/s1> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission (EDGAR), filed February 2026" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nvidia/s1> <http://purl.org/dc/terms/title> "NVIDIA Corporation Form 10-K for the fiscal year ended January 25, 2026" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nvidia/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nvidia/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nvidia/s1> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nvidia/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica (Britannica Money)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nvidia/s2> <http://purl.org/dc/terms/title> "NVIDIA Corporation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nvidia/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nvidia/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nvidia/s2> <https://schema.org/url> "https://www.britannica.com/money/NVIDIA-Corporation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nvidia/s3> <http://purl.org/dc/terms/publisher> "ICML 2009 (Raina, Madhavan, Ng)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nvidia/s3> <http://purl.org/dc/terms/title> "Large-scale Deep Unsupervised Learning using Graphics Processors" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nvidia/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nvidia/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nvidia/s3> <https://schema.org/url> "https://icml.cc/imls/conferences/2009/papers/218.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nvidia/s4> <http://purl.org/dc/terms/publisher> "NVIDIA Technical Blog, March 22, 2022" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nvidia/s4> <http://purl.org/dc/terms/title> "NVIDIA Hopper Architecture In-Depth" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nvidia/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nvidia/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nvidia/s4> <https://schema.org/url> "https://developer.nvidia.com/blog/nvidia-hopper-architecture-in-depth/" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s1> <http://purl.org/dc/terms/publisher> "Office of Management and Budget (Young), 28 March 2024" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s1> <http://purl.org/dc/terms/title> "M-24-10: Advancing Governance, Innovation, and Risk Management for Agency Use of Artificial Intelligence" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

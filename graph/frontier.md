@@ -14,6 +14,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ensemble-methods` | `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:executive-orders-on-ai` | `kt:red-teaming`, `kt:ai-safety-institutes`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda`, `kt:omb-ai-memoranda` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:dartmouth-workshop`, `kt:turing-test`, `kt:machine-learning` |
+| `kt:distributed-training` | `kt:cuda`, `kt:mlops`, `kt:nvidia`, `kt:tpu` |
 | `kt:fine-tuning` | `kt:hugging-face-transformers`, `kt:qlora`, `kt:rlhf`, `kt:synthetic-data` |
 | `kt:information-retrieval` | `kt:beir`, `kt:bm25`, `kt:semantic-search`, `kt:tf-idf` |
 | `kt:instruction-tuning` | `kt:qlora`, `kt:rlhf`, `kt:synthetic-data`, `kt:synthetic-data` |
@@ -24,10 +25,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:agent-memory` | `kt:ai-agent`, `kt:langgraph`, `kt:voyager` |
 | `kt:beam-search` | `kt:sampling-temperature-and-top-p`, `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:benchmark-contamination` | `kt:ai-evaluation`, `kt:gsm8k`, `kt:synthetic-data` |
-| `kt:distributed-training` | `kt:cuda`, `kt:mlops`, `kt:tpu` |
 | `kt:eu-ai-act` | `kt:algorithmic-bias-and-fairness`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:hidden-markov-model` |
 | `kt:geoffrey-hinton` | `kt:dropout`, `kt:dropout`, `kt:knowledge-distillation` |
+| `kt:gpu-computing` | `kt:cuda`, `kt:nvidia`, `kt:tpu` |
 | `kt:hybrid-search` | `kt:bm25`, `kt:bm25`, `kt:semantic-search` |
 | `kt:model-pruning` | `kt:quantization`, `kt:quantization`, `kt:knowledge-distillation` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent`, `kt:voyager` |
@@ -52,15 +53,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:few-shot-prompting` | `kt:chain-of-thought`, `kt:prompt-sensitivity` |
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
 | `kt:google` | `kt:agent2agent-protocol`, `kt:tpu` |
-| `kt:gpu-computing` | `kt:cuda`, `kt:tpu` |
 | `kt:gradient-descent` | `kt:backpropagation`, `kt:deep-learning` |
+| `kt:imagenet-and-alexnet` | `kt:cuda`, `kt:nvidia` |
 | `kt:kv-cache` | `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
 | `kt:llm-as-a-judge` | `kt:ai-evaluation`, `kt:qlora` |
 | `kt:llm-inference-optimization` | `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
 | `kt:marvin-minsky` | `kt:dartmouth-workshop`, `kt:perceptron` |
 | `kt:model-cards` | `kt:algorithmic-bias-and-fairness`, `kt:omb-ai-memoranda` |
 | `kt:model-compression` | `kt:quantization`, `kt:knowledge-distillation` |
-| `kt:nvidia` | `kt:voyager`, `kt:cuda` |
 | `kt:openai` | `kt:clip`, `kt:gsm8k` |
 | `kt:probabilistic-relevance-framework` | `kt:bm25`, `kt:bm25` |
 | `kt:proximal-policy-optimization` | `kt:policy-gradient`, `kt:rlhf` |
@@ -72,7 +72,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings` |
 | `kt:adversarial-machine-learning` | `kt:jailbreak` |
 | `kt:ai-accelerator` | `kt:tpu` |
+| `kt:ai-chip-export-controls` | `kt:nvidia` |
 | `kt:ai-ethics` | `kt:algorithmic-bias-and-fairness` |
+| `kt:ai-hardware` | `kt:nvidia` |
 | `kt:ai-risk-management` | `kt:nist-ai-risk-management-framework` |
 | `kt:ai-safety` | `kt:ai-alignment` |
 | `kt:ai-safety-summit` | `kt:ai-safety-institutes` |
@@ -128,7 +130,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hugging-face-peft` | `kt:qlora` |
 | `kt:hugging-face-trl` | `kt:rlhf` |
 | `kt:ian-goodfellow` | `kt:generative-adversarial-network` |
-| `kt:imagenet-and-alexnet` | `kt:cuda` |
 | `kt:in-datacenter-performance-analysis-of-a-tensor-processing-unit` | `kt:tpu` |
 | `kt:induction-head` | `kt:mechanistic-interpretability` |
 | `kt:inspect-ai` | `kt:ai-evaluation` |
@@ -193,6 +194,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:symbol-grounding-problem` | `kt:chinese-room-argument` |
 | `kt:symbolic-ai` | `kt:dartmouth-workshop` |
 | `kt:systolic-array` | `kt:tpu` |
+| `kt:tensor-cores` | `kt:nvidia` |
 | `kt:tensorrt-llm` | `kt:quantization` |
 | `kt:text-to-image-generation` | `kt:diffusion-model` |
 | `kt:the-curious-case-of-neural-text-degeneration` | `kt:sampling-temperature-and-top-p` |

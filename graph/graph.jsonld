@@ -1106,6 +1106,82 @@
       ]
     },
     {
+      "@id": "kt:nvidia",
+      "@type": "kto:Organization",
+      "skos:prefLabel": "NVIDIA",
+      "skos:definition": "An American semiconductor and computing company, founded in 1993, whose graphics processing units, CUDA software platform and data-centre systems became the dominant hardware and software stack for training and serving deep-learning models.",
+      "kto:domain": "ai-infrastructure-and-mlops",
+      "dcterms:created": "2026-11-10",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "NVIDIA Corporation Form 10-K for the fiscal year ended January 25, 2026",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission (EDGAR), filed February 2026",
+          "schema:url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "NVIDIA Corporation",
+          "dcterms:publisher": "Encyclopaedia Britannica (Britannica Money)",
+          "schema:url": "https://www.britannica.com/money/NVIDIA-Corporation",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Large-scale Deep Unsupervised Learning using Graphics Processors",
+          "dcterms:publisher": "ICML 2009 (Raina, Madhavan, Ng)",
+          "schema:url": "https://icml.cc/imls/conferences/2009/papers/218.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "NVIDIA Hopper Architecture In-Depth",
+          "dcterms:publisher": "NVIDIA Technical Blog, March 22, 2022",
+          "schema:url": "https://developer.nvidia.com/blog/nvidia-hopper-architecture-in-depth/",
+          "kto:sourceType": "lab-research"
+        }
+      ],
+      "kto:file": "articles/ai-infrastructure-and-mlops/nvidia.md",
+      "skos:altLabel": [
+        "NVIDIA Corporation",
+        "Nvidia",
+        "NVDA"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-hardware"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:gpu-computing"
+        },
+        {
+          "@id": "kt:cuda"
+        },
+        {
+          "@id": "kt:tensor-cores"
+        },
+        {
+          "@id": "kt:tpu"
+        },
+        {
+          "@id": "kt:imagenet-and-alexnet"
+        },
+        {
+          "@id": "kt:deep-learning"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:distributed-training"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:ai-chip-export-controls"
+        }
+      ]
+    },
+    {
       "@id": "kt:tpu",
       "@type": "kto:Hardware",
       "skos:prefLabel": "Tensor Processing Unit",

@@ -872,6 +872,26 @@
     ]
   },
   {
+    "id": "kt:nvidia",
+    "title": "NVIDIA",
+    "aliases": [
+      "NVIDIA Corporation",
+      "Nvidia",
+      "NVDA"
+    ],
+    "type": "Organization",
+    "domain": "ai-infrastructure-and-mlops",
+    "file": "articles/ai-infrastructure-and-mlops/nvidia.md",
+    "created": "2026-11-10",
+    "maturity": "established",
+    "source_urls": [
+      "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "https://www.britannica.com/money/NVIDIA-Corporation",
+      "https://icml.cc/imls/conferences/2009/papers/218.pdf",
+      "https://developer.nvidia.com/blog/nvidia-hopper-architecture-in-depth/"
+    ]
+  },
+  {
     "id": "kt:omb-ai-memoranda",
     "title": "OMB AI memoranda",
     "aliases": [
