@@ -3004,6 +3004,26 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s4> <https://schema.org/url> "https://arxiv.org/abs/2503.23674v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s1> <http://purl.org/dc/terms/publisher> "arXiv 2305.16291 (Wang et al., authors' version)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s1> <http://purl.org/dc/terms/title> "Voyager: An Open-Ended Embodied Agent with Large Language Models (v2)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s1> <https://schema.org/url> "https://arxiv.org/html/2305.16291v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s2> <http://purl.org/dc/terms/publisher> "NeurIPS 2023 Agent Learning in Open-Endedness Workshop" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s2> <http://purl.org/dc/terms/title> "Voyager: An Open-Ended Embodied Agent with Large Language Models (spotlight)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s2> <https://schema.org/url> "https://neurips.cc/virtual/2023/79179" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s3> <http://purl.org/dc/terms/publisher> "Wang et al., arXiv 2308.11432 (authors' version)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s3> <http://purl.org/dc/terms/title> "A Survey on Large Language Model based Autonomous Agents" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s3> <https://schema.org/url> "https://arxiv.org/html/2308.11432v7" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s4> <http://purl.org/dc/terms/publisher> "GitHub (official code release)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s4> <http://purl.org/dc/terms/title> "MineDojo/Voyager: An Open-Ended Embodied Agent with Large Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s4> <https://schema.org/url> "https://github.com/minedojo/voyager" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/speculative-decoding> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/speculative-decoding> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/speculative-decoding> <http://www.w3.org/2000/01/rdf-schema#label> "Speculative decoding" .
@@ -3158,3 +3178,26 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-history" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/computing-machinery-and-intelligence> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <http://www.w3.org/2000/01/rdf-schema#label> "Voyager (embodied LLM agent)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <http://www.w3.org/2004/02/skos/core#altLabel> "MineDojo Voyager" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <http://www.w3.org/2004/02/skos/core#altLabel> "VOYAGER" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <http://www.w3.org/2004/02/skos/core#altLabel> "Voyager agent" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <http://www.w3.org/2004/02/skos/core#definition> "An LLM-powered lifelong-learning agent for Minecraft, introduced in 2023 by researchers at NVIDIA and partner universities, that proposes its own tasks, writes executable code to accomplish them, and stores verified programs in a growing skill library it can retrieve and reuse, all through black-box GPT-4 calls with no fine-tuning." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voyager (embodied LLM agent)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/agent-memory> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/self-refine> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/nvidia> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "agents-and-tool-use" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/voyager-an-open-ended-embodied-agent-with-large-language-models> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .

@@ -1314,5 +1314,25 @@
       "https://www.britannica.com/topic/Turing-test",
       "https://arxiv.org/abs/2503.23674v1"
     ]
+  },
+  {
+    "id": "kt:voyager",
+    "title": "Voyager (embodied LLM agent)",
+    "aliases": [
+      "VOYAGER",
+      "Voyager agent",
+      "MineDojo Voyager"
+    ],
+    "type": "Model",
+    "domain": "agents-and-tool-use",
+    "file": "articles/agents-and-tool-use/voyager.md",
+    "created": "2026-11-10",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://arxiv.org/html/2305.16291v2",
+      "https://neurips.cc/virtual/2023/79179",
+      "https://arxiv.org/html/2308.11432v7",
+      "https://github.com/minedojo/voyager"
+    ]
   }
 ]

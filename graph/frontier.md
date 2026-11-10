@@ -20,6 +20,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:multi-agent-systems` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:langgraph` |
 | `kt:overfitting` | `kt:dropout`, `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent` |
 | `kt:perceptron` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:artificial-neural-network`, `kt:backpropagation` |
+| `kt:tool-use` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:voyager` |
+| `kt:agent-memory` | `kt:ai-agent`, `kt:langgraph`, `kt:voyager` |
 | `kt:beam-search` | `kt:sampling-temperature-and-top-p`, `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:benchmark-contamination` | `kt:ai-evaluation`, `kt:gsm8k`, `kt:synthetic-data` |
 | `kt:distributed-training` | `kt:cuda`, `kt:mlops`, `kt:tpu` |
@@ -28,6 +30,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:geoffrey-hinton` | `kt:dropout`, `kt:dropout`, `kt:knowledge-distillation` |
 | `kt:hybrid-search` | `kt:bm25`, `kt:bm25`, `kt:semantic-search` |
 | `kt:model-pruning` | `kt:quantization`, `kt:quantization`, `kt:knowledge-distillation` |
+| `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent`, `kt:voyager` |
 | `kt:prompt-engineering` | `kt:chain-of-thought`, `kt:prompt-sensitivity`, `kt:self-consistency` |
 | `kt:prompt-injection` | `kt:agent2agent-protocol`, `kt:red-teaming`, `kt:jailbreak` |
 | `kt:pytorch` | `kt:hugging-face-transformers`, `kt:backpropagation`, `kt:dropout` |
@@ -39,10 +42,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:reward-hacking` | `kt:ai-alignment`, `kt:scalable-oversight`, `kt:rlhf` |
 | `kt:supervised-learning` | `kt:bias-variance-tradeoff`, `kt:machine-learning`, `kt:reinforcement-learning` |
 | `kt:temporal-difference-learning` | `kt:actor-critic`, `kt:q-learning`, `kt:reinforcement-learning` |
-| `kt:tool-use` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:vllm` | `kt:hugging-face-transformers`, `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
 | `kt:activation-function` | `kt:artificial-neural-network`, `kt:backpropagation` |
-| `kt:agent-memory` | `kt:ai-agent`, `kt:langgraph` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:langgraph` |
 | `kt:apache-lucene` | `kt:bm25`, `kt:tf-idf` |
 | `kt:convolutional-neural-network` | `kt:artificial-neural-network`, `kt:deep-learning` |
@@ -58,11 +59,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:llm-inference-optimization` | `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
 | `kt:model-cards` | `kt:algorithmic-bias-and-fairness`, `kt:omb-ai-memoranda` |
 | `kt:model-compression` | `kt:quantization`, `kt:knowledge-distillation` |
+| `kt:nvidia` | `kt:voyager`, `kt:cuda` |
 | `kt:openai` | `kt:clip`, `kt:gsm8k` |
-| `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent` |
 | `kt:probabilistic-relevance-framework` | `kt:bm25`, `kt:bm25` |
 | `kt:proximal-policy-optimization` | `kt:policy-gradient`, `kt:rlhf` |
 | `kt:react-prompting` | `kt:ai-agent`, `kt:chain-of-thought` |
+| `kt:self-refine` | `kt:agentic-workflow`, `kt:voyager` |
 | `kt:statistical-learning-theory` | `kt:bias-variance-tradeoff`, `kt:double-descent` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:vector-database` | `kt:embeddings`, `kt:semantic-search` |
@@ -159,7 +161,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mteb` | `kt:beir` |
 | `kt:nist` | `kt:nist-ai-risk-management-framework` |
 | `kt:nist-generative-ai-profile` | `kt:nist-ai-risk-management-framework` |
-| `kt:nvidia` | `kt:cuda` |
 | `kt:office-of-management-and-budget` | `kt:omb-ai-memoranda` |
 | `kt:orca-serving-system` | `kt:batching-and-paged-attention` |
 | `kt:parallel-computing` | `kt:cuda` |
@@ -180,7 +181,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:score-matching` | `kt:diffusion-model` |
 | `kt:self-attention` | `kt:context-window` |
 | `kt:self-consistency-improves-chain-of-thought-reasoning-in-language-models` | `kt:self-consistency` |
-| `kt:self-refine` | `kt:agentic-workflow` |
 | `kt:sequence-to-sequence-learning` | `kt:automatic-speech-recognition` |
 | `kt:soft-actor-critic` | `kt:actor-critic` |
 | `kt:sparse-autoencoder` | `kt:mechanistic-interpretability` |
@@ -205,6 +205,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:vector-space-model` | `kt:tf-idf` |
 | `kt:vision-language-model` | `kt:clip` |
 | `kt:vision-transformer` | `kt:clip` |
+| `kt:voyager-an-open-ended-embodied-agent-with-large-language-models` | `kt:voyager` |
 | `kt:walter-pitts` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:warren-mcculloch` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:wasserstein-gan` | `kt:generative-adversarial-network` |

@@ -367,6 +367,86 @@
       ]
     },
     {
+      "@id": "kt:voyager",
+      "@type": "kto:Model",
+      "skos:prefLabel": "Voyager (embodied LLM agent)",
+      "skos:definition": "An LLM-powered lifelong-learning agent for Minecraft, introduced in 2023 by researchers at NVIDIA and partner universities, that proposes its own tasks, writes executable code to accomplish them, and stores verified programs in a growing skill library it can retrieve and reuse, all through black-box GPT-4 calls with no fine-tuning.",
+      "kto:domain": "agents-and-tool-use",
+      "dcterms:created": "2026-11-10",
+      "kto:maturity": "emerging",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Voyager: An Open-Ended Embodied Agent with Large Language Models (v2)",
+          "dcterms:publisher": "arXiv 2305.16291 (Wang et al., authors' version)",
+          "schema:url": "https://arxiv.org/html/2305.16291v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Voyager: An Open-Ended Embodied Agent with Large Language Models (spotlight)",
+          "dcterms:publisher": "NeurIPS 2023 Agent Learning in Open-Endedness Workshop",
+          "schema:url": "https://neurips.cc/virtual/2023/79179",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "A Survey on Large Language Model based Autonomous Agents",
+          "dcterms:publisher": "Wang et al., arXiv 2308.11432 (authors' version)",
+          "schema:url": "https://arxiv.org/html/2308.11432v7",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "MineDojo/Voyager: An Open-Ended Embodied Agent with Large Language Models",
+          "dcterms:publisher": "GitHub (official code release)",
+          "schema:url": "https://github.com/minedojo/voyager",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/agents-and-tool-use/voyager.md",
+      "skos:altLabel": [
+        "VOYAGER",
+        "Voyager agent",
+        "MineDojo Voyager"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-agent"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:agent-memory"
+        },
+        {
+          "@id": "kt:planning-in-llms"
+        },
+        {
+          "@id": "kt:self-refine"
+        },
+        {
+          "@id": "kt:agentic-workflow"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:tool-use"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:nvidia"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:voyager-an-open-ended-embodied-agent-with-large-language-models"
+        }
+      ]
+    },
+    {
       "@id": "kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity",
       "@type": "kto:Work",
       "skos:prefLabel": "A Logical Calculus of the Ideas Immanent in Nervous Activity",
