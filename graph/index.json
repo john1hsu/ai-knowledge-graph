@@ -1263,6 +1263,28 @@
     ]
   },
   {
+    "id": "kt:principal-component-analysis",
+    "title": "Principal component analysis",
+    "aliases": [
+      "PCA",
+      "principal components analysis",
+      "Hotelling transform"
+    ],
+    "type": "Algorithm",
+    "domain": "ml-foundations",
+    "file": "articles/ml-foundations/principal-component-analysis.md",
+    "created": "2026-11-11",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://www.leman.stat.vt.edu/VTCourses/PPCA.pdf",
+      "https://cs229.stanford.edu/notes2022fall/pca.pdf",
+      "https://itl.nist.gov/div898/handbook/pmc/section5/pmc55.htm",
+      "https://encyclopediaofmath.org/wiki/Hotelling,_Harold",
+      "https://mlanthology.org/neco/1998/scholkopf1998neco-nonlinear",
+      "https://scikit-learn.org/1.8/modules/generated/sklearn.decomposition.PCA.html"
+    ]
+  },
+  {
     "id": "kt:prompt-sensitivity",
     "title": "Prompt sensitivity",
     "aliases": [

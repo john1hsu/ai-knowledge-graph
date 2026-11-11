@@ -83,6 +83,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:self-refine` | `kt:agentic-workflow`, `kt:voyager` |
 | `kt:statistical-learning-theory` | `kt:bias-variance-tradeoff`, `kt:double-descent` |
 | `kt:stochastic-gradient-descent` | `kt:data-parallelism`, `kt:adam-optimizer` |
+| `kt:unsupervised-learning` | `kt:machine-learning`, `kt:principal-component-analysis` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings` |
 | `kt:adam-a-method-for-stochastic-optimization` | `kt:adam-optimizer` |
@@ -133,6 +134,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:devops` | `kt:mlops` |
 | `kt:diederik-kingma` | `kt:adam-optimizer` |
 | `kt:differential-privacy` | `kt:synthetic-data` |
+| `kt:dimensionality-reduction` | `kt:principal-component-analysis` |
 | `kt:direct-preference-optimization` | `kt:rlhf` |
 | `kt:distilbert` | `kt:knowledge-distillation` |
 | `kt:distilling-the-knowledge-in-a-neural-network` | `kt:knowledge-distillation` |
@@ -144,6 +146,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:expectation-maximization` | `kt:hidden-markov-model` |
 | `kt:expert-iteration` | `kt:star-self-taught-reasoner` |
 | `kt:facial-recognition` | `kt:algorithmic-bias-and-fairness` |
+| `kt:factor-analysis` | `kt:principal-component-analysis` |
 | `kt:fairness-accountability-and-transparency` | `kt:algorithmic-bias-and-fairness` |
 | `kt:faiss` | `kt:approximate-nearest-neighbor-search` |
 | `kt:fast-inference-from-transformers-via-speculative-decoding` | `kt:speculative-decoding` |
@@ -154,6 +157,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:google-deepmind` | `kt:alphago` |
 | `kt:gpt-j` | `kt:toolformer` |
 | `kt:gptq-accurate-post-training-quantization-for-generative-pre-trained-transformers` | `kt:gptq` |
+| `kt:harold-hotelling` | `kt:principal-component-analysis` |
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
 | `kt:hugging-face` | `kt:hugging-face-transformers` |
 | `kt:hugging-face-diffusers` | `kt:diffusion-model` |
@@ -172,6 +176,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:joseph-redmon` | `kt:yolo` |
 | `kt:juergen-schmidhuber` | `kt:long-short-term-memory` |
 | `kt:karen-sparck-jones` | `kt:tf-idf` |
+| `kt:karl-pearson` | `kt:principal-component-analysis` |
+| `kt:kernel-pca` | `kt:principal-component-analysis` |
 | `kt:langchain` | `kt:langgraph` |
 | `kt:language-model` | `kt:large-language-model` |
 | `kt:large-language-monkeys` | `kt:self-consistency` |
@@ -227,10 +233,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sarsa` | `kt:q-learning` |
 | `kt:scalable-parallel-programming-with-cuda` | `kt:cuda` |
 | `kt:scaling-laws-for-neural-language-models` | `kt:scaling-laws` |
+| `kt:scikit-learn` | `kt:principal-component-analysis` |
 | `kt:score-matching` | `kt:diffusion-model` |
 | `kt:self-consistency-improves-chain-of-thought-reasoning-in-language-models` | `kt:self-consistency` |
 | `kt:sepp-hochreiter` | `kt:long-short-term-memory` |
 | `kt:show-your-work-scratchpads-for-intermediate-computation-with-language-models` | `kt:scratchpad` |
+| `kt:singular-value-decomposition` | `kt:principal-component-analysis` |
 | `kt:soft-actor-critic` | `kt:actor-critic` |
 | `kt:sparse-autoencoder` | `kt:mechanistic-interpretability` |
 | `kt:speech-processing` | `kt:automatic-speech-recognition` |
@@ -255,7 +263,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:uk-ai-security-institute` | `kt:ai-safety-institutes` |
 | `kt:universal-approximation-theorem` | `kt:artificial-neural-network` |
 | `kt:universal-self-consistency` | `kt:self-consistency` |
-| `kt:unsupervised-learning` | `kt:machine-learning` |
 | `kt:us-department-of-commerce` | `kt:bureau-of-industry-and-security` |
 | `kt:vanishing-gradient-problem` | `kt:long-short-term-memory` |
 | `kt:vector-space-model` | `kt:tf-idf` |

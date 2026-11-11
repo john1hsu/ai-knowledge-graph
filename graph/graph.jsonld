@@ -4770,6 +4770,96 @@
       ]
     },
     {
+      "@id": "kt:principal-component-analysis",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "Principal component analysis",
+      "skos:definition": "A linear dimensionality-reduction method that re-expresses centred data in an orthonormal basis of directions, the principal components, ordered by how much variance they capture; keeping the top k components gives the k-dimensional linear projection with the smallest squared reconstruction error.",
+      "kto:domain": "ml-foundations",
+      "dcterms:created": "2026-11-11",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Probabilistic Principal Component Analysis",
+          "dcterms:publisher": "Journal of the Royal Statistical Society, Series B 61(3), 611–622 (1999) (Tipping and Bishop), Virginia Tech course copy",
+          "schema:url": "https://www.leman.stat.vt.edu/VTCourses/PPCA.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Dimensionality Reduction: Principal Component Analysis (PCA)",
+          "dcterms:publisher": "Stanford University CS229 Machine Learning, Fall 2022 (Carlos Guestrin)",
+          "schema:url": "https://cs229.stanford.edu/notes2022fall/pca.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "6.5.5. Principal Components",
+          "dcterms:publisher": "NIST/SEMATECH e-Handbook of Statistical Methods, National Institute of Standards and Technology",
+          "schema:url": "https://itl.nist.gov/div898/handbook/pmc/section5/pmc55.htm",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Hotelling, Harold",
+          "dcterms:publisher": "Encyclopedia of Mathematics (EMS / Springer), entry by Allan R. Sampson",
+          "schema:url": "https://encyclopediaofmath.org/wiki/Hotelling,_Harold",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Nonlinear Component Analysis as a Kernel Eigenvalue Problem",
+          "dcterms:publisher": "Neural Computation 10, 1299–1319 (1998) (Schölkopf, Smola and Müller), ML Anthology record",
+          "schema:url": "https://mlanthology.org/neco/1998/scholkopf1998neco-nonlinear",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "sklearn.decomposition.PCA",
+          "dcterms:publisher": "scikit-learn 1.8 API documentation",
+          "schema:url": "https://scikit-learn.org/1.8/modules/generated/sklearn.decomposition.PCA.html",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/ml-foundations/principal-component-analysis.md",
+      "skos:altLabel": [
+        "PCA",
+        "principal components analysis",
+        "Hotelling transform"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:unsupervised-learning"
+        },
+        {
+          "@id": "kt:dimensionality-reduction"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:embeddings"
+        },
+        {
+          "@id": "kt:factor-analysis"
+        },
+        {
+          "@id": "kt:kernel-pca"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:karl-pearson"
+        },
+        {
+          "@id": "kt:harold-hotelling"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:singular-value-decomposition"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:scikit-learn"
+        }
+      ]
+    },
+    {
       "@id": "kt:chain-of-thought",
       "@type": "kto:Technique",
       "skos:prefLabel": "Chain-of-thought prompting",

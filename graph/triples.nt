@@ -1477,6 +1477,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient-methods-for-reinforcement-learning-with-function-approximation> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> <http://www.w3.org/2000/01/rdf-schema#label> "Principal component analysis" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> <http://www.w3.org/2004/02/skos/core#altLabel> "Hotelling transform" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> <http://www.w3.org/2004/02/skos/core#altLabel> "PCA" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> <http://www.w3.org/2004/02/skos/core#altLabel> "principal components analysis" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/dimensionality-reduction> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> <http://www.w3.org/2004/02/skos/core#definition> "A linear dimensionality-reduction method that re-expresses centred data in an orthonormal basis of directions, the principal components, ordered by how much variance they capture; keeping the top k components gives the k-dimensional linear projection with the smallest squared reconstruction error." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> <http://www.w3.org/2004/02/skos/core#prefLabel> "Principal component analysis" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/factor-analysis> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/kernel-pca> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/singular-value-decomposition> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/harold-hotelling> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/karl-pearson> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ml-foundations" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/scikit-learn> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <http://www.w3.org/2000/01/rdf-schema#label> "Prompt sensitivity" .
@@ -3404,6 +3429,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s6> <https://schema.org/url> "https://arxiv.org/abs/1707.06347" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s1> <http://purl.org/dc/terms/publisher> "Journal of the Royal Statistical Society, Series B 61(3), 611–622 (1999) (Tipping and Bishop), Virginia Tech course copy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s1> <http://purl.org/dc/terms/title> "Probabilistic Principal Component Analysis" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s1> <https://schema.org/url> "https://www.leman.stat.vt.edu/VTCourses/PPCA.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s2> <http://purl.org/dc/terms/publisher> "Stanford University CS229 Machine Learning, Fall 2022 (Carlos Guestrin)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s2> <http://purl.org/dc/terms/title> "Dimensionality Reduction: Principal Component Analysis (PCA)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s2> <https://schema.org/url> "https://cs229.stanford.edu/notes2022fall/pca.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s3> <http://purl.org/dc/terms/publisher> "NIST/SEMATECH e-Handbook of Statistical Methods, National Institute of Standards and Technology" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s3> <http://purl.org/dc/terms/title> "6.5.5. Principal Components" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s3> <https://schema.org/url> "https://itl.nist.gov/div898/handbook/pmc/section5/pmc55.htm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s4> <http://purl.org/dc/terms/publisher> "Encyclopedia of Mathematics (EMS / Springer), entry by Allan R. Sampson" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s4> <http://purl.org/dc/terms/title> "Hotelling, Harold" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s4> <https://schema.org/url> "https://encyclopediaofmath.org/wiki/Hotelling,_Harold" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s5> <http://purl.org/dc/terms/publisher> "Neural Computation 10, 1299–1319 (1998) (Schölkopf, Smola and Müller), ML Anthology record" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s5> <http://purl.org/dc/terms/title> "Nonlinear Component Analysis as a Kernel Eigenvalue Problem" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s5> <https://schema.org/url> "https://mlanthology.org/neco/1998/scholkopf1998neco-nonlinear" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s6> <http://purl.org/dc/terms/publisher> "scikit-learn 1.8 API documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s6> <http://purl.org/dc/terms/title> "sklearn.decomposition.PCA" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s6> <https://schema.org/url> "https://scikit-learn.org/1.8/modules/generated/sklearn.decomposition.PCA.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s1> <http://purl.org/dc/terms/publisher> "ICML 2021, PMLR vol. 139, pp. 12697-12706 (Zhao, Wallace, Feng, Klein, Singh)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s1> <http://purl.org/dc/terms/title> "Calibrate Before Use: Improving Few-shot Performance of Language Models" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
