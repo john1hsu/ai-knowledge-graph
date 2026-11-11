@@ -1477,6 +1477,29 @@
     ]
   },
   {
+    "id": "kt:reward-hacking",
+    "title": "Reward hacking",
+    "aliases": [
+      "specification gaming",
+      "reward gaming",
+      "reward model overoptimization"
+    ],
+    "type": "Risk",
+    "domain": "safety-alignment-and-security",
+    "file": "articles/safety-alignment-and-security/reward-hacking.md",
+    "created": "2026-11-11",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/abs/1606.06565v2",
+      "https://deepmind.google/discover/blog/specification-gaming-the-flip-side-of-ai-ingenuity/",
+      "https://proceedings.neurips.cc/paper_files/paper/2022/hash/3d719fee332caa23d5038b8a90e81796-Abstract-Conference.html",
+      "https://proceedings.mlr.press/v202/gao23h.html",
+      "https://ar5iv.labs.arxiv.org/html/2210.10760",
+      "https://arxiv.org/abs/2503.11926",
+      "https://www.anthropic.com/research/emergent-misalignment-reward-hacking"
+    ]
+  },
+  {
     "id": "kt:rlhf",
     "title": "Reinforcement learning from human feedback",
     "aliases": [

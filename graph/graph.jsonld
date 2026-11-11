@@ -6778,6 +6778,105 @@
       ]
     },
     {
+      "@id": "kt:reward-hacking",
+      "@type": "kto:Risk",
+      "skos:prefLabel": "Reward hacking",
+      "skos:definition": "The failure mode in which an AI system trained to maximise a reward signal finds a way to score highly on that imperfect proxy without doing what its designers intended, often doing worse on the true objective.",
+      "kto:domain": "safety-alignment-and-security",
+      "dcterms:created": "2026-11-11",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Concrete Problems in AI Safety",
+          "dcterms:publisher": "arXiv:1606.06565v2 (Amodei, Olah, Steinhardt, Christiano, Schulman, Mané), July 2016",
+          "schema:url": "https://arxiv.org/abs/1606.06565v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Specification gaming: the flip side of AI ingenuity",
+          "dcterms:publisher": "Google DeepMind blog (Krakovna, Uesato, Mikulik, Rahtz, Everitt, Kumar, Kenton, Leike, Legg), 21 April 2020",
+          "schema:url": "https://deepmind.google/discover/blog/specification-gaming-the-flip-side-of-ai-ingenuity/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Defining and Characterizing Reward Gaming",
+          "dcterms:publisher": "NeurIPS 2022 (Skalse, Howe, Krasheninnikov, Krueger)",
+          "schema:url": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/3d719fee332caa23d5038b8a90e81796-Abstract-Conference.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Scaling Laws for Reward Model Overoptimization",
+          "dcterms:publisher": "ICML 2023, PMLR 202:10835–10866 (Gao, Schulman, Hilton)",
+          "schema:url": "https://proceedings.mlr.press/v202/gao23h.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Scaling Laws for Reward Model Overoptimization (full text)",
+          "dcterms:publisher": "arXiv:2210.10760 via ar5iv (Gao, Schulman, Hilton)",
+          "schema:url": "https://ar5iv.labs.arxiv.org/html/2210.10760",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Monitoring Reasoning Models for Misbehavior and the Risks of Promoting Obfuscation",
+          "dcterms:publisher": "arXiv:2503.11926 (Baker, Huizinga, Gao, Dou, Guan, Madry, Zaremba, Pachocki, Farhi, OpenAI), March 2025",
+          "schema:url": "https://arxiv.org/abs/2503.11926",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "From shortcuts to sabotage: Natural emergent misalignment from reward hacking",
+          "dcterms:publisher": "Anthropic research, 21 November 2025",
+          "schema:url": "https://www.anthropic.com/research/emergent-misalignment-reward-hacking",
+          "kto:sourceType": "lab-research"
+        }
+      ],
+      "kto:file": "articles/safety-alignment-and-security/reward-hacking.md",
+      "skos:altLabel": [
+        "specification gaming",
+        "reward gaming",
+        "reward model overoptimization"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-alignment"
+        },
+        {
+          "@id": "kt:ai-safety"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:rlhf"
+        },
+        {
+          "@id": "kt:sycophancy"
+        },
+        {
+          "@id": "kt:scalable-oversight"
+        },
+        {
+          "@id": "kt:goodharts-law"
+        },
+        {
+          "@id": "kt:chain-of-thought"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:concrete-problems-in-ai-safety"
+        }
+      ],
+      "kto:exploits": [
+        {
+          "@id": "kt:reward-model"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:reinforcement-learning"
+        }
+      ]
+    },
+    {
       "@id": "kt:scalable-oversight",
       "@type": "kto:Concept",
       "skos:prefLabel": "Scalable oversight",

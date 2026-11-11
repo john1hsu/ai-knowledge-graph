@@ -1737,6 +1737,33 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Risk> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> <http://www.w3.org/2000/01/rdf-schema#label> "Reward hacking" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> <http://www.w3.org/2004/02/skos/core#altLabel> "reward gaming" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> <http://www.w3.org/2004/02/skos/core#altLabel> "reward model overoptimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> <http://www.w3.org/2004/02/skos/core#altLabel> "specification gaming" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> <http://www.w3.org/2004/02/skos/core#definition> "The failure mode in which an AI system trained to maximise a reward signal finds a way to score highly on that imperfect proxy without doing what its designers intended, often doing worse on the true objective." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reward hacking" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/goodharts-law> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s7> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "safety-alignment-and-security" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> <https://github.com/john1hsu/ai-knowledge-graph/ontology#exploits> <https://github.com/john1hsu/ai-knowledge-graph/id/reward-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> <https://github.com/john1hsu/ai-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/concrete-problems-in-ai-safety> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/2000/01/rdf-schema#label> "Reinforcement learning from human feedback" .
@@ -3795,6 +3822,41 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s5> <https://schema.org/url> "https://research.google/pubs/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s1> <http://purl.org/dc/terms/publisher> "arXiv:1606.06565v2 (Amodei, Olah, Steinhardt, Christiano, Schulman, Mané), July 2016" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s1> <http://purl.org/dc/terms/title> "Concrete Problems in AI Safety" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s1> <https://schema.org/url> "https://arxiv.org/abs/1606.06565v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s2> <http://purl.org/dc/terms/publisher> "Google DeepMind blog (Krakovna, Uesato, Mikulik, Rahtz, Everitt, Kumar, Kenton, Leike, Legg), 21 April 2020" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s2> <http://purl.org/dc/terms/title> "Specification gaming: the flip side of AI ingenuity" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s2> <https://schema.org/url> "https://deepmind.google/discover/blog/specification-gaming-the-flip-side-of-ai-ingenuity/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s3> <http://purl.org/dc/terms/publisher> "NeurIPS 2022 (Skalse, Howe, Krasheninnikov, Krueger)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s3> <http://purl.org/dc/terms/title> "Defining and Characterizing Reward Gaming" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s3> <https://schema.org/url> "https://proceedings.neurips.cc/paper_files/paper/2022/hash/3d719fee332caa23d5038b8a90e81796-Abstract-Conference.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s4> <http://purl.org/dc/terms/publisher> "ICML 2023, PMLR 202:10835–10866 (Gao, Schulman, Hilton)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s4> <http://purl.org/dc/terms/title> "Scaling Laws for Reward Model Overoptimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s4> <https://schema.org/url> "https://proceedings.mlr.press/v202/gao23h.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s5> <http://purl.org/dc/terms/publisher> "arXiv:2210.10760 via ar5iv (Gao, Schulman, Hilton)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s5> <http://purl.org/dc/terms/title> "Scaling Laws for Reward Model Overoptimization (full text)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s5> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/2210.10760" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s6> <http://purl.org/dc/terms/publisher> "arXiv:2503.11926 (Baker, Huizinga, Gao, Dou, Guan, Madry, Zaremba, Pachocki, Farhi, OpenAI), March 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s6> <http://purl.org/dc/terms/title> "Monitoring Reasoning Models for Misbehavior and the Risks of Promoting Obfuscation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s6> <https://schema.org/url> "https://arxiv.org/abs/2503.11926" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s7> <http://purl.org/dc/terms/publisher> "Anthropic research, 21 November 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s7> <http://purl.org/dc/terms/title> "From shortcuts to sabotage: Natural emergent misalignment from reward hacking" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s7> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s7> <https://schema.org/url> "https://www.anthropic.com/research/emergent-misalignment-reward-hacking" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 2017, Advances in Neural Information Processing Systems 30 (Christiano, Leike, Brown, Martic, Legg and Amodei)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s1> <http://purl.org/dc/terms/title> "Deep Reinforcement Learning from Human Preferences" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

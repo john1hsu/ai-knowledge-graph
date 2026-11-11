@@ -35,7 +35,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:overfitting` | `kt:dropout`, `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent` |
 | `kt:regularization` | `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:conditional-random-field`, `kt:double-descent` |
 | `kt:representation-learning` | `kt:clip`, `kt:deep-learning`, `kt:embeddings`, `kt:word2vec` |
-| `kt:reward-hacking` | `kt:ai-alignment`, `kt:scalable-oversight`, `kt:sycophancy`, `kt:rlhf` |
 | `kt:agent-memory` | `kt:ai-agent`, `kt:langgraph`, `kt:voyager` |
 | `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:geoffrey-hinton`, `kt:perceptron` |
 | `kt:deep-q-network` | `kt:alphago`, `kt:q-learning`, `kt:reinforcement-learning` |
@@ -60,10 +59,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:adagrad` | `kt:adam-optimizer`, `kt:adam-optimizer` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:langgraph` |
 | `kt:ai-accelerator` | `kt:tpu`, `kt:ai-chip-export-controls` |
+| `kt:ai-safety` | `kt:ai-alignment`, `kt:reward-hacking` |
 | `kt:apache-lucene` | `kt:bm25`, `kt:tf-idf` |
 | `kt:attention-mechanism` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
 | `kt:batch-normalization` | `kt:data-parallelism`, `kt:yolo` |
 | `kt:compute-governance` | `kt:ai-chip-export-controls`, `kt:bureau-of-industry-and-security` |
+| `kt:concrete-problems-in-ai-safety` | `kt:reward-hacking`, `kt:scalable-oversight` |
 | `kt:deep-belief-network` | `kt:geoffrey-hinton`, `kt:deep-learning` |
 | `kt:export-control-reform-act` | `kt:ai-chip-export-controls`, `kt:bureau-of-industry-and-security` |
 | `kt:few-shot-prompting` | `kt:chain-of-thought`, `kt:prompt-sensitivity` |
@@ -94,7 +95,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ai-ethics` | `kt:algorithmic-bias-and-fairness` |
 | `kt:ai-hardware` | `kt:nvidia` |
 | `kt:ai-risk-management` | `kt:nist-ai-risk-management-framework` |
-| `kt:ai-safety` | `kt:ai-alignment` |
 | `kt:ai-safety-summit` | `kt:ai-safety-institutes` |
 | `kt:ai-safety-via-debate` | `kt:scalable-oversight` |
 | `kt:ai-winter` | `kt:perceptron` |
@@ -124,7 +124,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:commonsenseqa-a-question-answering-challenge-targeting-commonsense-knowledge` | `kt:commonsenseqa` |
 | `kt:computing-machinery-and-intelligence` | `kt:turing-test` |
 | `kt:conceptnet` | `kt:commonsenseqa` |
-| `kt:concrete-problems-in-ai-safety` | `kt:scalable-oversight` |
 | `kt:conditional-random-fields-probabilistic-models-for-segmenting-and-labeling-sequence-data` | `kt:conditional-random-field` |
 | `kt:contextual-calibration` | `kt:prompt-sensitivity` |
 | `kt:contrastive-learning` | `kt:clip` |
@@ -159,6 +158,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:foundation-model` | `kt:large-language-model` |
 | `kt:frank-rosenblatt` | `kt:perceptron` |
 | `kt:generative-adversarial-nets` | `kt:generative-adversarial-network` |
+| `kt:goodharts-law` | `kt:reward-hacking` |
 | `kt:google-deepmind` | `kt:alphago` |
 | `kt:gpt-j` | `kt:toolformer` |
 | `kt:gptq-accurate-post-training-quantization-for-generative-pre-trained-transformers` | `kt:gptq` |
@@ -236,6 +236,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:reconciling-modern-machine-learning-practice-and-the-bias-variance-trade-off` | `kt:double-descent` |
 | `kt:reflexion` | `kt:self-refine-iterative-refinement-with-self-feedback` |
 | `kt:reinforce-algorithm` | `kt:policy-gradient` |
+| `kt:reward-model` | `kt:reward-hacking` |
 | `kt:ruler` | `kt:context-window` |
 | `kt:sarsa` | `kt:q-learning` |
 | `kt:scalable-parallel-programming-with-cuda` | `kt:cuda` |
