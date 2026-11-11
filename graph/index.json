@@ -914,6 +914,26 @@
     ]
   },
   {
+    "id": "kt:generative-agents-interactive-simulacra-of-human-behavior",
+    "title": "Generative Agents: Interactive Simulacra of Human Behavior",
+    "aliases": [
+      "Generative Agents paper",
+      "Park et al. 2023",
+      "Smallville simulation"
+    ],
+    "type": "Work",
+    "domain": "agents-and-tool-use",
+    "file": "articles/agents-and-tool-use/generative-agents-interactive-simulacra-of-human-behavior.md",
+    "created": "2026-11-11",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/pdf/2304.03442v2",
+      "https://research.google/pubs/generative-agents-interactive-simulacra-of-human-behavior/",
+      "https://hai.stanford.edu/news/computational-agents-exhibit-believable-humanlike-behavior",
+      "https://hai.stanford.edu/policy/simulating-human-behavior-with-ai-agents"
+    ]
+  },
+  {
     "id": "kt:geoffrey-hinton",
     "title": "Geoffrey Hinton",
     "aliases": [

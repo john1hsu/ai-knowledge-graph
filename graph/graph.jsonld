@@ -267,6 +267,76 @@
       ]
     },
     {
+      "@id": "kt:generative-agents-interactive-simulacra-of-human-behavior",
+      "@type": "kto:Work",
+      "skos:prefLabel": "Generative Agents: Interactive Simulacra of Human Behavior",
+      "skos:definition": "A UIST 2023 paper by Park et al. (Stanford and Google) that wraps a large language model in a memory stream, reflection and recursive planning so that 25 simulated characters in a Sims-like town called Smallville behave believably, remember, form relationships and coordinate without scripting.",
+      "kto:domain": "agents-and-tool-use",
+      "dcterms:created": "2026-11-11",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Generative Agents: Interactive Simulacra of Human Behavior (v2)",
+          "dcterms:publisher": "arXiv 2304.03442 (Park et al., authors' version of the UIST 2023 paper)",
+          "schema:url": "https://arxiv.org/pdf/2304.03442v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Generative Agents: Interactive Simulacra of Human Behavior",
+          "dcterms:publisher": "Google Research publication page (Proceedings of UIST 2023, ACM)",
+          "schema:url": "https://research.google/pubs/generative-agents-interactive-simulacra-of-human-behavior/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Computational Agents Exhibit Believable Humanlike Behavior",
+          "dcterms:publisher": "Stanford HAI (news, September 2023)",
+          "schema:url": "https://hai.stanford.edu/news/computational-agents-exhibit-believable-humanlike-behavior",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Simulating Human Behavior with AI Agents (policy brief)",
+          "dcterms:publisher": "Stanford HAI (May 2025)",
+          "schema:url": "https://hai.stanford.edu/policy/simulating-human-behavior-with-ai-agents",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/agents-and-tool-use/generative-agents-interactive-simulacra-of-human-behavior.md",
+      "skos:altLabel": [
+        "Generative Agents paper",
+        "Park et al. 2023",
+        "Smallville simulation"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-agent"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:agent-memory"
+        },
+        {
+          "@id": "kt:planning-in-llms"
+        },
+        {
+          "@id": "kt:multi-agent-systems"
+        },
+        {
+          "@id": "kt:voyager"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:embeddings"
+        }
+      ]
+    },
+    {
       "@id": "kt:langgraph",
       "@type": "kto:Tool",
       "skos:prefLabel": "LangGraph",
