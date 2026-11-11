@@ -30,6 +30,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sequence-to-sequence-learning` | `kt:automatic-speech-recognition`, `kt:long-short-term-memory`, `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
 | `kt:tool-use` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:toolformer`, `kt:voyager` |
 | `kt:vllm` | `kt:hugging-face-transformers`, `kt:awq`, `kt:awq`, `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
+| `kt:activation-function` | `kt:artificial-neural-network`, `kt:backpropagation`, `kt:universal-approximation-theorem`, `kt:universal-approximation-theorem` |
 | `kt:agent-memory` | `kt:ai-agent`, `kt:generative-agents-interactive-simulacra-of-human-behavior`, `kt:langgraph`, `kt:voyager` |
 | `kt:ai-accelerator` | `kt:high-bandwidth-memory`, `kt:tpu`, `kt:ai-chip-export-controls`, `kt:compute-governance` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:dartmouth-workshop`, `kt:turing-test`, `kt:machine-learning` |
@@ -57,7 +58,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:vision-language-model` | `kt:an-image-is-worth-16x16-words`, `kt:clip`, `kt:awq` |
 | `kt:vision-transformer` | `kt:an-image-is-worth-16x16-words`, `kt:clip`, `kt:yolo` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
-| `kt:activation-function` | `kt:artificial-neural-network`, `kt:backpropagation` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:langgraph` |
 | `kt:ai-hardware` | `kt:high-bandwidth-memory`, `kt:nvidia` |
 | `kt:ai-safety` | `kt:ai-alignment`, `kt:reward-hacking` |
@@ -66,6 +66,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:batch-normalization` | `kt:data-parallelism`, `kt:yolo` |
 | `kt:computing-power-and-the-governance-of-artificial-intelligence` | `kt:compute-governance`, `kt:compute-governance` |
 | `kt:concrete-problems-in-ai-safety` | `kt:reward-hacking`, `kt:scalable-oversight` |
+| `kt:curse-of-dimensionality` | `kt:universal-approximation-theorem`, `kt:dimensionality-reduction` |
 | `kt:deep-belief-network` | `kt:geoffrey-hinton`, `kt:deep-learning` |
 | `kt:export-control-reform-act` | `kt:ai-chip-export-controls`, `kt:bureau-of-industry-and-security` |
 | `kt:few-shot-prompting` | `kt:chain-of-thought`, `kt:prompt-sensitivity` |
@@ -111,6 +112,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alphazero` | `kt:alphago` |
 | `kt:ann-benchmarks` | `kt:approximate-nearest-neighbor-search` |
 | `kt:application-specific-integrated-circuit` | `kt:tpu` |
+| `kt:approximation-by-superpositions-of-a-sigmoidal-function` | `kt:universal-approximation-theorem` |
 | `kt:arthur-samuel` | `kt:machine-learning` |
 | `kt:asynchronous-advantage-actor-critic` | `kt:actor-critic` |
 | `kt:autoencoder` | `kt:dimensionality-reduction` |
@@ -135,7 +137,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:contrastive-learning` | `kt:clip` |
 | `kt:cross-validation` | `kt:bias-variance-tradeoff` |
 | `kt:cudnn` | `kt:cuda` |
-| `kt:curse-of-dimensionality` | `kt:dimensionality-reduction` |
 | `kt:data-drift` | `kt:mlops` |
 | `kt:deep-learning-framework` | `kt:hugging-face-transformers` |
 | `kt:deep-reinforcement-learning-from-human-preferences` | `kt:rlhf` |
@@ -168,6 +169,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:frank-rosenblatt` | `kt:perceptron` |
 | `kt:gddr-memory` | `kt:high-bandwidth-memory` |
 | `kt:generative-adversarial-nets` | `kt:generative-adversarial-network` |
+| `kt:george-cybenko` | `kt:universal-approximation-theorem` |
 | `kt:glove-global-vectors-for-word-representation` | `kt:glove` |
 | `kt:goodharts-law` | `kt:reward-hacking` |
 | `kt:google-deepmind` | `kt:alphago` |
@@ -263,6 +265,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:speech-processing` | `kt:automatic-speech-recognition` |
 | `kt:stanford-nlp-group` | `kt:glove` |
 | `kt:star-bootstrapping-reasoning-with-reasoning` | `kt:star-self-taught-reasoner` |
+| `kt:stone-weierstrass-theorem` | `kt:universal-approximation-theorem` |
 | `kt:strong-ai` | `kt:chinese-room-argument` |
 | `kt:stylegan` | `kt:generative-adversarial-network` |
 | `kt:support-vector-machine` | `kt:perceptron` |
@@ -286,7 +289,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:turing-machine` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:uk-ai-security-institute` | `kt:ai-safety-institutes` |
 | `kt:umap` | `kt:dimensionality-reduction` |
-| `kt:universal-approximation-theorem` | `kt:artificial-neural-network` |
 | `kt:universal-language-model-fine-tuning-for-text-classification` | `kt:fine-tuning` |
 | `kt:universal-self-consistency` | `kt:self-consistency` |
 | `kt:upper-confidence-bound` | `kt:exploration-exploitation` |

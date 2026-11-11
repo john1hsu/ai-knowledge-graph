@@ -3078,6 +3078,98 @@
       ]
     },
     {
+      "@id": "kt:universal-approximation-theorem",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Universal approximation theorem",
+      "skos:definition": "A family of mathematical results showing that feedforward neural networks with a suitable nonlinear activation can approximate any continuous function on a compact domain to arbitrary accuracy, given enough hidden units; it guarantees expressive power but says nothing about how large the network must be or whether training will find the approximating weights.",
+      "kto:domain": "deep-learning",
+      "dcterms:created": "2026-11-11",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Approximation by Superpositions of a Sigmoidal Function",
+          "dcterms:publisher": "Mathematics of Control, Signals, and Systems 2, 303–314 (1989) (G. Cybenko); PDF hosted by the Bau Lab paper archive",
+          "schema:url": "https://papers.baulab.info/papers/Cybenko-1989.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Multilayer Feedforward Networks With a Nonpolynomial Activation Function Can Approximate Any Function",
+          "dcterms:publisher": "Neural Networks 6, 861–867 (1993) (Leshno, Lin, Pinkus and Schocken); author copy on Allan Pinkus's Technion site",
+          "schema:url": "https://pinkus.net.technion.ac.il/files/2021/02/neural.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Universal Approximation Bounds for Superpositions of a Sigmoidal Function",
+          "dcterms:publisher": "IEEE Transactions on Information Theory 39(3), 930–945 (1993) (A. R. Barron); PDF hosted by EPFL",
+          "schema:url": "https://documents.epfl.ch/groups/i/ip/ipg/www/2015-2016/Reading%20Group%20on%20Deep%20Neural%20Nets/UniversalApproximationBoundsForSuperpositionsOfASigmoidalFunction.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Expressive Power of Neural Networks: A View from the Width",
+          "dcterms:publisher": "NeurIPS 2017 (Lu, Pu, Wang, Hu and Wang)",
+          "schema:url": "https://papers.NeurIPS.cc/paper_files/paper/2017/file/32cbf687880eb1674a07bf717761dd3a-Paper.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Lecture 9: Universal Approximation (CPSC 532D, Fall 2025)",
+          "dcterms:publisher": "University of British Columbia (Danica J. Sutherland)",
+          "schema:url": "https://www.cs.ubc.ca/~dsuth/532D/25w1/notes/9-universal.pdf",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/deep-learning/universal-approximation-theorem.md",
+      "skos:altLabel": [
+        "universal approximation property",
+        "Cybenko's theorem",
+        "neural network universality"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:artificial-neural-network"
+        },
+        {
+          "@id": "kt:deep-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:perceptron"
+        },
+        {
+          "@id": "kt:activation-function"
+        },
+        {
+          "@id": "kt:curse-of-dimensionality"
+        },
+        {
+          "@id": "kt:backpropagation"
+        },
+        {
+          "@id": "kt:bias-variance-tradeoff"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:approximation-by-superpositions-of-a-sigmoidal-function"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:george-cybenko"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:activation-function"
+        }
+      ],
+      "kto:extends": [
+        {
+          "@id": "kt:stone-weierstrass-theorem"
+        }
+      ]
+    },
+    {
       "@id": "kt:ai-evaluation",
       "@type": "kto:Field",
       "skos:prefLabel": "Evaluation of AI systems",

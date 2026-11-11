@@ -4734,6 +4734,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s4> <https://schema.org/url> "https://arxiv.org/abs/2503.23674v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s1> <http://purl.org/dc/terms/publisher> "Mathematics of Control, Signals, and Systems 2, 303–314 (1989) (G. Cybenko); PDF hosted by the Bau Lab paper archive" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s1> <http://purl.org/dc/terms/title> "Approximation by Superpositions of a Sigmoidal Function" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s1> <https://schema.org/url> "https://papers.baulab.info/papers/Cybenko-1989.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s2> <http://purl.org/dc/terms/publisher> "Neural Networks 6, 861–867 (1993) (Leshno, Lin, Pinkus and Schocken); author copy on Allan Pinkus's Technion site" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s2> <http://purl.org/dc/terms/title> "Multilayer Feedforward Networks With a Nonpolynomial Activation Function Can Approximate Any Function" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s2> <https://schema.org/url> "https://pinkus.net.technion.ac.il/files/2021/02/neural.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s3> <http://purl.org/dc/terms/publisher> "IEEE Transactions on Information Theory 39(3), 930–945 (1993) (A. R. Barron); PDF hosted by EPFL" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s3> <http://purl.org/dc/terms/title> "Universal Approximation Bounds for Superpositions of a Sigmoidal Function" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s3> <https://schema.org/url> "https://documents.epfl.ch/groups/i/ip/ipg/www/2015-2016/Reading%20Group%20on%20Deep%20Neural%20Nets/UniversalApproximationBoundsForSuperpositionsOfASigmoidalFunction.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s4> <http://purl.org/dc/terms/publisher> "NeurIPS 2017 (Lu, Pu, Wang, Hu and Wang)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s4> <http://purl.org/dc/terms/title> "The Expressive Power of Neural Networks: A View from the Width" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s4> <https://schema.org/url> "https://papers.NeurIPS.cc/paper_files/paper/2017/file/32cbf687880eb1674a07bf717761dd3a-Paper.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s5> <http://purl.org/dc/terms/publisher> "University of British Columbia (Danica J. Sutherland)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s5> <http://purl.org/dc/terms/title> "Lecture 9: Universal Approximation (CPSC 532D, Fall 2025)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s5> <https://schema.org/url> "https://www.cs.ubc.ca/~dsuth/532D/25w1/notes/9-universal.pdf" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s1> <http://purl.org/dc/terms/publisher> "arXiv 2305.16291 (Wang et al., authors' version)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s1> <http://purl.org/dc/terms/title> "Voyager: An Open-Ended Embodied Agent with Large Language Models (v2)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -5063,6 +5088,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-history" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/computing-machinery-and-intelligence> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <http://www.w3.org/2000/01/rdf-schema#label> "Universal approximation theorem" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <http://www.w3.org/2004/02/skos/core#altLabel> "Cybenko's theorem" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <http://www.w3.org/2004/02/skos/core#altLabel> "neural network universality" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <http://www.w3.org/2004/02/skos/core#altLabel> "universal approximation property" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <http://www.w3.org/2004/02/skos/core#definition> "A family of mathematical results showing that feedforward neural networks with a suitable nonlinear activation can approximate any continuous function on a compact domain to arbitrary accuracy, given enough hidden units; it guarantees expressive power but says nothing about how large the network must be or whether training will find the approximating weights." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <http://www.w3.org/2004/02/skos/core#prefLabel> "Universal approximation theorem" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/curse-of-dimensionality> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/george-cybenko> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "deep-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <https://github.com/john1hsu/ai-knowledge-graph/ontology#extends> <https://github.com/john1hsu/ai-knowledge-graph/id/stone-weierstrass-theorem> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/approximation-by-superpositions-of-a-sigmoidal-function> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Model> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <http://www.w3.org/2000/01/rdf-schema#label> "Voyager (embodied LLM agent)" .

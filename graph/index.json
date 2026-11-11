@@ -2047,6 +2047,27 @@
     ]
   },
   {
+    "id": "kt:universal-approximation-theorem",
+    "title": "Universal approximation theorem",
+    "aliases": [
+      "universal approximation property",
+      "Cybenko's theorem",
+      "neural network universality"
+    ],
+    "type": "Concept",
+    "domain": "deep-learning",
+    "file": "articles/deep-learning/universal-approximation-theorem.md",
+    "created": "2026-11-11",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://papers.baulab.info/papers/Cybenko-1989.pdf",
+      "https://pinkus.net.technion.ac.il/files/2021/02/neural.pdf",
+      "https://documents.epfl.ch/groups/i/ip/ipg/www/2015-2016/Reading%20Group%20on%20Deep%20Neural%20Nets/UniversalApproximationBoundsForSuperpositionsOfASigmoidalFunction.pdf",
+      "https://papers.NeurIPS.cc/paper_files/paper/2017/file/32cbf687880eb1674a07bf717761dd3a-Paper.pdf",
+      "https://www.cs.ubc.ca/~dsuth/532D/25w1/notes/9-universal.pdf"
+    ]
+  },
+  {
     "id": "kt:voyager",
     "title": "Voyager (embodied LLM agent)",
     "aliases": [
