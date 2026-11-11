@@ -1590,6 +1590,26 @@
     ]
   },
   {
+    "id": "kt:program-induction-by-rationale-generation",
+    "title": "Program Induction by Rationale Generation: Learning to Solve and Explain Algebraic Word Problems",
+    "aliases": [
+      "Ling et al. 2017",
+      "AQuA paper",
+      "rationale generation for algebra word problems"
+    ],
+    "type": "Work",
+    "domain": "prompting-and-reasoning",
+    "file": "articles/prompting-and-reasoning/program-induction-by-rationale-generation.md",
+    "created": "2026-11-11",
+    "maturity": "historical",
+    "source_urls": [
+      "https://aclanthology.org/P17-1015/",
+      "https://arxiv.org/pdf/1705.04146",
+      "https://huggingface.co/datasets/aqua_rat/blob/main/README.md",
+      "https://arxiv.org/pdf/2201.11903"
+    ]
+  },
+  {
     "id": "kt:prompt-sensitivity",
     "title": "Prompt sensitivity",
     "aliases": [

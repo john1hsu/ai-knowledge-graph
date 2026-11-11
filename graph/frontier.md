@@ -16,6 +16,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:gpu-computing` | `kt:imagenet-and-alexnet`, `kt:cuda`, `kt:data-parallelism`, `kt:high-bandwidth-memory`, `kt:nvidia`, `kt:tpu`, `kt:ai-chip-export-controls` |
 | `kt:pretraining` | `kt:test-time-compute`, `kt:fine-tuning`, `kt:synthetic-data`, `kt:emergent-abilities`, `kt:large-language-model`, `kt:scaling-laws`, `kt:scaling-laws` |
 | `kt:pytorch` | `kt:data-parallelism`, `kt:hugging-face-transformers`, `kt:faster-r-cnn`, `kt:adam-optimizer`, `kt:backpropagation`, `kt:dropout`, `kt:long-short-term-memory` |
+| `kt:sequence-to-sequence-learning` | `kt:automatic-speech-recognition`, `kt:long-short-term-memory`, `kt:program-induction-by-rationale-generation`, `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
 | `kt:supervised-learning` | `kt:perceptron`, `kt:bias-variance-tradeoff`, `kt:conditional-random-field`, `kt:machine-learning`, `kt:alphago`, `kt:reinforcement-learning` |
 | `kt:distributed-training` | `kt:cuda`, `kt:data-parallelism`, `kt:mlops`, `kt:nvidia`, `kt:tpu` |
 | `kt:ensemble-methods` | `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:self-consistency`, `kt:knowledge-distillation` |
@@ -26,7 +27,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:prompt-engineering` | `kt:chain-of-thought`, `kt:prompt-sensitivity`, `kt:scratchpad`, `kt:self-consistency`, `kt:self-refine-iterative-refinement-with-self-feedback` |
 | `kt:reasoning-models` | `kt:chain-of-thought`, `kt:scratchpad`, `kt:test-time-compute`, `kt:test-time-compute`, `kt:star-self-taught-reasoner` |
 | `kt:representation-learning` | `kt:clip`, `kt:deep-learning`, `kt:embeddings`, `kt:glove`, `kt:word2vec` |
-| `kt:sequence-to-sequence-learning` | `kt:automatic-speech-recognition`, `kt:long-short-term-memory`, `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
 | `kt:tool-use` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:toolformer`, `kt:voyager` |
 | `kt:vllm` | `kt:hugging-face-transformers`, `kt:awq`, `kt:awq`, `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
 | `kt:activation-function` | `kt:artificial-neural-network`, `kt:backpropagation`, `kt:universal-approximation-theorem`, `kt:universal-approximation-theorem` |
@@ -114,6 +114,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ann-benchmarks` | `kt:approximate-nearest-neighbor-search` |
 | `kt:application-specific-integrated-circuit` | `kt:tpu` |
 | `kt:approximation-by-superpositions-of-a-sigmoidal-function` | `kt:universal-approximation-theorem` |
+| `kt:aqua-rat` | `kt:program-induction-by-rationale-generation` |
 | `kt:arcade-learning-environment` | `kt:deep-q-network` |
 | `kt:arthur-samuel` | `kt:machine-learning` |
 | `kt:asynchronous-advantage-actor-critic` | `kt:actor-critic` |
@@ -221,6 +222,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:markov-chain` | `kt:hidden-markov-model` |
 | `kt:mask-r-cnn` | `kt:faster-r-cnn` |
 | `kt:mastering-the-game-of-go-with-deep-neural-networks-and-tree-search` | `kt:alphago` |
+| `kt:mathematical-reasoning` | `kt:program-induction-by-rationale-generation` |
 | `kt:maximum-entropy-markov-model` | `kt:conditional-random-field` |
 | `kt:memory-wall` | `kt:high-bandwidth-memory` |
 | `kt:meta-ai` | `kt:toolformer` |
@@ -249,7 +251,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pregel` | `kt:langgraph` |
 | `kt:probabilistic-graphical-model` | `kt:conditional-random-field` |
 | `kt:process-reward-model` | `kt:test-time-compute` |
-| `kt:program-induction-by-rationale-generation` | `kt:scratchpad` |
+| `kt:program-induction` | `kt:program-induction-by-rationale-generation` |
 | `kt:qlora-efficient-finetuning-of-quantized-llms` | `kt:qlora` |
 | `kt:quiet-star` | `kt:star-self-taught-reasoner` |
 | `kt:reconciling-modern-machine-learning-practice-and-the-bias-variance-trade-off` | `kt:double-descent` |

@@ -5791,6 +5791,89 @@
       ]
     },
     {
+      "@id": "kt:program-induction-by-rationale-generation",
+      "@type": "kto:Work",
+      "skos:prefLabel": "Program Induction by Rationale Generation: Learning to Solve and Explain Algebraic Word Problems",
+      "skos:definition": "The ACL 2017 paper by Wang Ling, Dani Yogatama, Chris Dyer and Phil Blunsom that released AQuA, a dataset of about 100,000 multiple-choice algebra word problems with step-by-step natural-language rationales, and trained a sequence-to-program model that uses those rationales to guide the search for the arithmetic program behind each answer.",
+      "kto:domain": "prompting-and-reasoning",
+      "dcterms:created": "2026-11-11",
+      "kto:maturity": "historical",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Program Induction by Rationale Generation: Learning to Solve and Explain Algebraic Word Problems",
+          "dcterms:publisher": "Proceedings of ACL 2017 (Volume 1, Long Papers), pp. 158-167, DOI 10.18653/v1/P17-1015",
+          "schema:url": "https://aclanthology.org/P17-1015/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Program Induction by Rationale Generation: Learning to Solve and Explain Algebraic Word Problems (arXiv 1705.04146)",
+          "dcterms:publisher": "arXiv (Ling, Yogatama, Dyer, Blunsom)",
+          "schema:url": "https://arxiv.org/pdf/1705.04146",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "AQuA-RAT dataset card (aqua_rat)",
+          "dcterms:publisher": "Hugging Face Datasets",
+          "schema:url": "https://huggingface.co/datasets/aqua_rat/blob/main/README.md",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
+          "dcterms:publisher": "arXiv 2201.11903 (Wei et al.; NeurIPS 2022)",
+          "schema:url": "https://arxiv.org/pdf/2201.11903",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/prompting-and-reasoning/program-induction-by-rationale-generation.md",
+      "skos:altLabel": [
+        "Ling et al. 2017",
+        "AQuA paper",
+        "rationale generation for algebra word problems"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:mathematical-reasoning"
+        },
+        {
+          "@id": "kt:program-induction"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:scratchpad"
+        },
+        {
+          "@id": "kt:chain-of-thought"
+        },
+        {
+          "@id": "kt:gsm8k"
+        },
+        {
+          "@id": "kt:long-short-term-memory"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:aqua-rat"
+        }
+      ],
+      "kto:extends": [
+        {
+          "@id": "kt:sequence-to-sequence-learning"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:long-short-term-memory"
+        }
+      ],
+      "kto:followedBy": [
+        {
+          "@id": "kt:chain-of-thought"
+        }
+      ]
+    },
+    {
       "@id": "kt:prompt-sensitivity",
       "@type": "kto:Concept",
       "skos:prefLabel": "Prompt sensitivity",
