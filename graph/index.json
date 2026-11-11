@@ -2007,6 +2007,27 @@
     ]
   },
   {
+    "id": "kt:transformer-architecture",
+    "title": "Transformer architecture",
+    "aliases": [
+      "Transformer",
+      "transformer model",
+      "transformer neural network"
+    ],
+    "type": "Architecture",
+    "domain": "transformers-and-llms",
+    "file": "articles/transformers-and-llms/transformer-architecture.md",
+    "created": "2026-11-11",
+    "maturity": "established",
+    "source_urls": [
+      "https://web.stanford.edu/class/cs224n/slides_w26/cs224n-2026-lecture05-transformers.pdf",
+      "https://proceedings.mlr.press/v119/xiong20b.html",
+      "https://aclanthology.org/N19-1423/",
+      "https://www.jmlr.org/papers/v21/20-074.html",
+      "https://arxiv.org/pdf/2302.13971"
+    ]
+  },
+  {
     "id": "kt:truthfulqa",
     "title": "TruthfulQA",
     "aliases": [

@@ -8950,6 +8950,106 @@
           "@id": "kt:pretraining"
         }
       ]
+    },
+    {
+      "@id": "kt:transformer-architecture",
+      "@type": "kto:Architecture",
+      "skos:prefLabel": "Transformer architecture",
+      "skos:definition": "A neural network design that builds sequence representations from stacked blocks of multi-head self-attention and position-wise feed-forward layers joined by residual connections and normalization, used in encoder-only, decoder-only and encoder-decoder forms and the backbone of modern large language models.",
+      "kto:domain": "transformers-and-llms",
+      "dcterms:created": "2026-11-11",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "CS224N Lecture 5: Attention and Transformers (Winter 2026 slides)",
+          "dcterms:publisher": "Stanford University, CS224N Natural Language Processing with Deep Learning (Diyi Yang)",
+          "schema:url": "https://web.stanford.edu/class/cs224n/slides_w26/cs224n-2026-lecture05-transformers.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "On Layer Normalization in the Transformer Architecture",
+          "dcterms:publisher": "Xiong et al., Proceedings of the 37th International Conference on Machine Learning (ICML 2020), PMLR 119",
+          "schema:url": "https://proceedings.mlr.press/v119/xiong20b.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+          "dcterms:publisher": "Devlin, Chang, Lee and Toutanova, NAACL-HLT 2019 (ACL Anthology N19-1423)",
+          "schema:url": "https://aclanthology.org/N19-1423/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+          "dcterms:publisher": "Raffel et al., Journal of Machine Learning Research 21(140), 2020",
+          "schema:url": "https://www.jmlr.org/papers/v21/20-074.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "LLaMA: Open and Efficient Foundation Language Models (arXiv 2302.13971)",
+          "dcterms:publisher": "Touvron et al., Meta AI, February 2023 (authors' arXiv version)",
+          "schema:url": "https://arxiv.org/pdf/2302.13971",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/transformers-and-llms/transformer-architecture.md",
+      "skos:altLabel": [
+        "Transformer",
+        "transformer model",
+        "transformer neural network"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:artificial-neural-network"
+        },
+        {
+          "@id": "kt:deep-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:context-window"
+        },
+        {
+          "@id": "kt:hugging-face-transformers"
+        },
+        {
+          "@id": "kt:layer-normalization"
+        },
+        {
+          "@id": "kt:residual-connection"
+        },
+        {
+          "@id": "kt:bert"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:attention-is-all-you-need"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:self-attention"
+        },
+        {
+          "@id": "kt:positional-encoding"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:recurrent-neural-network"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:hugging-face-transformers"
+        }
+      ]
     }
   ]
 }

@@ -4684,6 +4684,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/tpu/s5> <https://schema.org/url> "https://docs.cloud.google.com/tpu/docs/v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/transformer-architecture/s1> <http://purl.org/dc/terms/publisher> "Stanford University, CS224N Natural Language Processing with Deep Learning (Diyi Yang)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/transformer-architecture/s1> <http://purl.org/dc/terms/title> "CS224N Lecture 5: Attention and Transformers (Winter 2026 slides)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/transformer-architecture/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/transformer-architecture/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/transformer-architecture/s1> <https://schema.org/url> "https://web.stanford.edu/class/cs224n/slides_w26/cs224n-2026-lecture05-transformers.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/transformer-architecture/s2> <http://purl.org/dc/terms/publisher> "Xiong et al., Proceedings of the 37th International Conference on Machine Learning (ICML 2020), PMLR 119" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/transformer-architecture/s2> <http://purl.org/dc/terms/title> "On Layer Normalization in the Transformer Architecture" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/transformer-architecture/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/transformer-architecture/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/transformer-architecture/s2> <https://schema.org/url> "https://proceedings.mlr.press/v119/xiong20b.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/transformer-architecture/s3> <http://purl.org/dc/terms/publisher> "Devlin, Chang, Lee and Toutanova, NAACL-HLT 2019 (ACL Anthology N19-1423)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/transformer-architecture/s3> <http://purl.org/dc/terms/title> "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/transformer-architecture/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/transformer-architecture/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/transformer-architecture/s3> <https://schema.org/url> "https://aclanthology.org/N19-1423/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/transformer-architecture/s4> <http://purl.org/dc/terms/publisher> "Raffel et al., Journal of Machine Learning Research 21(140), 2020" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/transformer-architecture/s4> <http://purl.org/dc/terms/title> "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/transformer-architecture/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/transformer-architecture/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/transformer-architecture/s4> <https://schema.org/url> "https://www.jmlr.org/papers/v21/20-074.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/transformer-architecture/s5> <http://purl.org/dc/terms/publisher> "Touvron et al., Meta AI, February 2023 (authors' arXiv version)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/transformer-architecture/s5> <http://purl.org/dc/terms/title> "LLaMA: Open and Efficient Foundation Language Models (arXiv 2302.13971)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/transformer-architecture/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/transformer-architecture/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/transformer-architecture/s5> <https://schema.org/url> "https://arxiv.org/pdf/2302.13971" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s1> <http://purl.org/dc/terms/publisher> "Proceedings of ACL 2022 (Volume 1: Long Papers), pp. 3214–3252 (Lin, Hilton, Evans)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s1> <http://purl.org/dc/terms/title> "TruthfulQA: Measuring How Models Mimic Human Falsehoods" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -5043,6 +5068,34 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/tpu> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-infrastructure-and-mlops" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/tpu> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/in-datacenter-performance-analysis-of-a-tensor-processing-unit> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/tpu> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> <http://www.w3.org/2000/01/rdf-schema#label> "Transformer architecture" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> <http://www.w3.org/2004/02/skos/core#altLabel> "Transformer" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> <http://www.w3.org/2004/02/skos/core#altLabel> "transformer model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> <http://www.w3.org/2004/02/skos/core#altLabel> "transformer neural network" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> <http://www.w3.org/2004/02/skos/core#definition> "A neural network design that builds sequence representations from stacked blocks of multi-head self-attention and position-wise feed-forward layers joined by residual connections and normalization, used in encoder-only, decoder-only and encoder-decoder forms and the backbone of modern large language models." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> <http://www.w3.org/2004/02/skos/core#prefLabel> "Transformer architecture" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/bert> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/layer-normalization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/transformer-architecture/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/transformer-architecture/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/transformer-architecture/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/transformer-architecture/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/transformer-architecture/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "transformers-and-llms" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/positional-encoding> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/self-attention> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Benchmark> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> <http://www.w3.org/2000/01/rdf-schema#label> "TruthfulQA" .
