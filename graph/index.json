@@ -1851,6 +1851,31 @@
     ]
   },
   {
+    "id": "kt:word2vec",
+    "title": "Word2vec",
+    "aliases": [
+      "word2vec",
+      "skip-gram with negative sampling",
+      "SGNS",
+      "skip-gram model",
+      "continuous bag-of-words model",
+      "CBOW"
+    ],
+    "type": "Algorithm",
+    "domain": "retrieval-and-knowledge",
+    "file": "articles/retrieval-and-knowledge/word2vec.md",
+    "created": "2026-11-11",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://arxiv.org/abs/1301.3781",
+      "https://ar5iv.arxiv.org/html/1310.4546",
+      "https://research.google/pubs/distributed-representations-of-words-and-phrases-and-their-compositionality/",
+      "https://proceedings.neurips.cc/paper/2014/hash/b78666971ceae55a8e87efb7cbfd9ad4-Abstract.html",
+      "https://proceedings.neurips.cc/paper/2016/hash/a486cd07e4ac3d270571622f4f316ec5-Abstract.html",
+      "https://web.stanford.edu/~jurafsky/slp3/5.pdf"
+    ]
+  },
+  {
     "id": "kt:yolo",
     "title": "YOLO",
     "aliases": [

@@ -6357,6 +6357,112 @@
       ]
     },
     {
+      "@id": "kt:word2vec",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "Word2vec",
+      "skos:definition": "A family of shallow, self-supervised models from Mikolov and colleagues at Google (2013) that learn one static dense vector per word by training a classifier to tell words that co-occur in a small window apart from randomly sampled noise words; the skip-gram and CBOW variants made large-scale word embeddings cheap to train.",
+      "kto:domain": "retrieval-and-knowledge",
+      "dcterms:created": "2026-11-11",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Efficient Estimation of Word Representations in Vector Space",
+          "dcterms:publisher": "arXiv 1301.3781v3 (Mikolov, Chen, Corrado and Dean, Google), submitted 16 Jan 2013",
+          "schema:url": "https://arxiv.org/abs/1301.3781",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Distributed Representations of Words and Phrases and their Compositionality (full text)",
+          "dcterms:publisher": "ar5iv rendering of arXiv 1310.4546 (Mikolov, Sutskever, Chen, Corrado and Dean), NIPS 2013",
+          "schema:url": "https://ar5iv.arxiv.org/html/1310.4546",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Distributed Representations of Words and Phrases and their Compositionality",
+          "dcterms:publisher": "Google Research publication page, Neural Information Processing Systems (NIPS) 2013",
+          "schema:url": "https://research.google/pubs/distributed-representations-of-words-and-phrases-and-their-compositionality/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Neural Word Embedding as Implicit Matrix Factorization",
+          "dcterms:publisher": "NeurIPS 2014 proceedings (Levy and Goldberg)",
+          "schema:url": "https://proceedings.neurips.cc/paper/2014/hash/b78666971ceae55a8e87efb7cbfd9ad4-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings",
+          "dcterms:publisher": "NeurIPS 2016 proceedings (Bolukbasi, Chang, Zou, Saligrama and Kalai)",
+          "schema:url": "https://proceedings.neurips.cc/paper/2016/hash/a486cd07e4ac3d270571622f4f316ec5-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Speech and Language Processing, Chapter 5: Embeddings",
+          "dcterms:publisher": "Jurafsky and Martin, 3rd edition draft (August 2026 release), Stanford University",
+          "schema:url": "https://web.stanford.edu/~jurafsky/slp3/5.pdf",
+          "kto:sourceType": "textbook"
+        }
+      ],
+      "kto:file": "articles/retrieval-and-knowledge/word2vec.md",
+      "skos:altLabel": [
+        "word2vec",
+        "skip-gram with negative sampling",
+        "SGNS",
+        "skip-gram model",
+        "continuous bag-of-words model",
+        "CBOW"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:embeddings"
+        },
+        {
+          "@id": "kt:representation-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:semantic-search"
+        },
+        {
+          "@id": "kt:glove"
+        },
+        {
+          "@id": "kt:fasttext"
+        },
+        {
+          "@id": "kt:algorithmic-bias-and-fairness"
+        },
+        {
+          "@id": "kt:tf-idf"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:efficient-estimation-of-word-representations-in-vector-space"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:google"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:a-neural-probabilistic-language-model"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:glove"
+        }
+      ],
+      "kto:supersededBy": [
+        {
+          "@id": "kt:transformer-architecture"
+        }
+      ]
+    },
+    {
       "@id": "kt:ai-alignment",
       "@type": "kto:Field",
       "skos:prefLabel": "AI alignment",

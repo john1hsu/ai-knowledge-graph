@@ -4210,6 +4210,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s4> <https://schema.org/url> "https://github.com/minedojo/voyager" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s1> <http://purl.org/dc/terms/publisher> "arXiv 1301.3781v3 (Mikolov, Chen, Corrado and Dean, Google), submitted 16 Jan 2013" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s1> <http://purl.org/dc/terms/title> "Efficient Estimation of Word Representations in Vector Space" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s1> <https://schema.org/url> "https://arxiv.org/abs/1301.3781" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s2> <http://purl.org/dc/terms/publisher> "ar5iv rendering of arXiv 1310.4546 (Mikolov, Sutskever, Chen, Corrado and Dean), NIPS 2013" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s2> <http://purl.org/dc/terms/title> "Distributed Representations of Words and Phrases and their Compositionality (full text)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s2> <https://schema.org/url> "https://ar5iv.arxiv.org/html/1310.4546" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s3> <http://purl.org/dc/terms/publisher> "Google Research publication page, Neural Information Processing Systems (NIPS) 2013" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s3> <http://purl.org/dc/terms/title> "Distributed Representations of Words and Phrases and their Compositionality" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s3> <https://schema.org/url> "https://research.google/pubs/distributed-representations-of-words-and-phrases-and-their-compositionality/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s4> <http://purl.org/dc/terms/publisher> "NeurIPS 2014 proceedings (Levy and Goldberg)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s4> <http://purl.org/dc/terms/title> "Neural Word Embedding as Implicit Matrix Factorization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s4> <https://schema.org/url> "https://proceedings.neurips.cc/paper/2014/hash/b78666971ceae55a8e87efb7cbfd9ad4-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s5> <http://purl.org/dc/terms/publisher> "NeurIPS 2016 proceedings (Bolukbasi, Chang, Zou, Saligrama and Kalai)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s5> <http://purl.org/dc/terms/title> "Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s5> <https://schema.org/url> "https://proceedings.neurips.cc/paper/2016/hash/a486cd07e4ac3d270571622f4f316ec5-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s6> <http://purl.org/dc/terms/publisher> "Jurafsky and Martin, 3rd edition draft (August 2026 release), Stanford University" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s6> <http://purl.org/dc/terms/title> "Speech and Language Processing, Chapter 5: Embeddings" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s6> <https://schema.org/url> "https://web.stanford.edu/~jurafsky/slp3/5.pdf" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s1> <http://purl.org/dc/terms/publisher> "Redmon, Divvala, Girshick and Farhadi, CVPR 2016 (CVF Open Access)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s1> <http://purl.org/dc/terms/title> "You Only Look Once: Unified, Real-Time Object Detection" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -4512,6 +4542,37 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "agents-and-tool-use" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/voyager-an-open-ended-embodied-agent-with-large-language-models> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <http://www.w3.org/2000/01/rdf-schema#label> "Word2vec" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <http://www.w3.org/2004/02/skos/core#altLabel> "CBOW" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <http://www.w3.org/2004/02/skos/core#altLabel> "SGNS" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <http://www.w3.org/2004/02/skos/core#altLabel> "continuous bag-of-words model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <http://www.w3.org/2004/02/skos/core#altLabel> "skip-gram model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <http://www.w3.org/2004/02/skos/core#altLabel> "skip-gram with negative sampling" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <http://www.w3.org/2004/02/skos/core#altLabel> "word2vec" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <http://www.w3.org/2004/02/skos/core#definition> "A family of shallow, self-supervised models from Mikolov and colleagues at Google (2013) that learn one static dense vector per word by training a classifier to tell words that co-occur in a small window apart from randomly sampled noise words; the skip-gram and CBOW variants made large-scale word embeddings cheap to train." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <http://www.w3.org/2004/02/skos/core#prefLabel> "Word2vec" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/fasttext> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/glove> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/glove> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/google> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "retrieval-and-knowledge" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/a-neural-probabilistic-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/efficient-estimation-of-word-representations-in-vector-space> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <https://github.com/john1hsu/ai-knowledge-graph/ontology#supersededBy> <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <http://www.w3.org/2000/01/rdf-schema#label> "YOLO" .
