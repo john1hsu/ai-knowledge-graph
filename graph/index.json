@@ -785,6 +785,28 @@
     ]
   },
   {
+    "id": "kt:dimensionality-reduction",
+    "title": "Dimensionality reduction",
+    "aliases": [
+      "dimension reduction",
+      "manifold learning",
+      "nonlinear dimensionality reduction"
+    ],
+    "type": "Technique",
+    "domain": "ml-foundations",
+    "file": "articles/ml-foundations/dimensionality-reduction.md",
+    "created": "2026-11-11",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://courses.cs.cornell.edu/cs4780/2022sp/notes/LectureNotes03.html",
+      "https://www.mit.edu/~9.520/spring06/Papers/Tenenbaum-science-00.pdf",
+      "https://sites.socsci.uci.edu/~lpearl/courses/readings/HintonSalakhudinov2006_DeepBeliefScience.pdf",
+      "https://www.jmlr.org/papers/v9/vandermaaten08a.html",
+      "https://arxiv.org/pdf/1802.03426v3.pdf",
+      "https://scikit-learn.org/stable/_sources/modules/manifold.rst.txt"
+    ]
+  },
+  {
     "id": "kt:double-descent",
     "title": "Double descent",
     "aliases": [

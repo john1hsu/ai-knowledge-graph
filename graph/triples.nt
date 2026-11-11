@@ -915,6 +915,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/diffusion-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-diffusers> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/diffusion-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-unsupervised-learning-using-nonequilibrium-thermodynamics> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/diffusion-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dimensionality-reduction> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dimensionality-reduction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dimensionality-reduction> <http://www.w3.org/2000/01/rdf-schema#label> "Dimensionality reduction" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dimensionality-reduction> <http://www.w3.org/2004/02/skos/core#altLabel> "dimension reduction" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dimensionality-reduction> <http://www.w3.org/2004/02/skos/core#altLabel> "manifold learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dimensionality-reduction> <http://www.w3.org/2004/02/skos/core#altLabel> "nonlinear dimensionality reduction" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dimensionality-reduction> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dimensionality-reduction> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dimensionality-reduction> <http://www.w3.org/2004/02/skos/core#definition> "The family of methods that map high-dimensional data to a much smaller number of coordinates while keeping the structure that matters, such as variance, neighbourhoods or geodesic distances, for compression, visualisation or as input to other learners." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dimensionality-reduction> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dimensionality reduction" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dimensionality-reduction> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/autoencoder> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dimensionality-reduction> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dimensionality-reduction> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dimensionality-reduction> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/t-sne> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dimensionality-reduction> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/umap> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dimensionality-reduction> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dimensionality-reduction> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dimensionality-reduction> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dimensionality-reduction> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dimensionality-reduction> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dimensionality-reduction> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dimensionality-reduction> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ml-foundations" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dimensionality-reduction> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/scikit-learn> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dimensionality-reduction> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dimensionality-reduction> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dimensionality-reduction> <https://github.com/john1hsu/ai-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/ai-knowledge-graph/id/curse-of-dimensionality> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <http://www.w3.org/2000/01/rdf-schema#label> "Double descent" .
@@ -3118,6 +3144,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/diffusion-model/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/diffusion-model/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/diffusion-model/s5> <https://schema.org/url> "https://huggingface.co/docs/diffusers/en/using-diffusers/schedulers" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s1> <http://purl.org/dc/terms/publisher> "Cornell University CS 4780/5780 Machine Learning for Intelligent Systems, Spring 2022 lecture notes" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s1> <http://purl.org/dc/terms/title> "Lecture 2: k-nearest neighbors / Curse of Dimensionality" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s1> <https://schema.org/url> "https://courses.cs.cornell.edu/cs4780/2022sp/notes/LectureNotes03.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s2> <http://purl.org/dc/terms/publisher> "Science 290(5500), 2319–2323 (2000) (Tenenbaum, de Silva and Langford), MIT course copy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s2> <http://purl.org/dc/terms/title> "A Global Geometric Framework for Nonlinear Dimensionality Reduction" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s2> <https://schema.org/url> "https://www.mit.edu/~9.520/spring06/Papers/Tenenbaum-science-00.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s3> <http://purl.org/dc/terms/publisher> "Science 313(5786), 504–507 (2006) (Hinton and Salakhutdinov), UC Irvine course copy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s3> <http://purl.org/dc/terms/title> "Reducing the Dimensionality of Data with Neural Networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s3> <https://schema.org/url> "https://sites.socsci.uci.edu/~lpearl/courses/readings/HintonSalakhudinov2006_DeepBeliefScience.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s4> <http://purl.org/dc/terms/publisher> "Journal of Machine Learning Research 9(86), 2579–2605 (2008) (van der Maaten and Hinton)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s4> <http://purl.org/dc/terms/title> "Visualizing Data using t-SNE" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s4> <https://schema.org/url> "https://www.jmlr.org/papers/v9/vandermaaten08a.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s5> <http://purl.org/dc/terms/publisher> "arXiv:1802.03426v3 (McInnes, Healy and Melville), authors' version dated 2018-12-07" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s5> <http://purl.org/dc/terms/title> "UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s5> <https://schema.org/url> "https://arxiv.org/pdf/1802.03426v3.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s6> <http://purl.org/dc/terms/publisher> "scikit-learn user guide (stable documentation source)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s6> <http://purl.org/dc/terms/title> "Manifold learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s6> <https://schema.org/url> "https://scikit-learn.org/stable/_sources/modules/manifold.rst.txt" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s1> <http://purl.org/dc/terms/publisher> "arXiv:1812.11118 (Belkin, Hsu, Ma, Mandal), 2018; v2 2019; published in PNAS, doi 10.1073/pnas.1903070116" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s1> <http://purl.org/dc/terms/title> "Reconciling modern machine learning practice and the bias-variance trade-off" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

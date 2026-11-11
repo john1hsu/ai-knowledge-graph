@@ -4986,6 +4986,99 @@
       ]
     },
     {
+      "@id": "kt:dimensionality-reduction",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Dimensionality reduction",
+      "skos:definition": "The family of methods that map high-dimensional data to a much smaller number of coordinates while keeping the structure that matters, such as variance, neighbourhoods or geodesic distances, for compression, visualisation or as input to other learners.",
+      "kto:domain": "ml-foundations",
+      "dcterms:created": "2026-11-11",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Lecture 2: k-nearest neighbors / Curse of Dimensionality",
+          "dcterms:publisher": "Cornell University CS 4780/5780 Machine Learning for Intelligent Systems, Spring 2022 lecture notes",
+          "schema:url": "https://courses.cs.cornell.edu/cs4780/2022sp/notes/LectureNotes03.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "A Global Geometric Framework for Nonlinear Dimensionality Reduction",
+          "dcterms:publisher": "Science 290(5500), 2319–2323 (2000) (Tenenbaum, de Silva and Langford), MIT course copy",
+          "schema:url": "https://www.mit.edu/~9.520/spring06/Papers/Tenenbaum-science-00.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Reducing the Dimensionality of Data with Neural Networks",
+          "dcterms:publisher": "Science 313(5786), 504–507 (2006) (Hinton and Salakhutdinov), UC Irvine course copy",
+          "schema:url": "https://sites.socsci.uci.edu/~lpearl/courses/readings/HintonSalakhudinov2006_DeepBeliefScience.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Visualizing Data using t-SNE",
+          "dcterms:publisher": "Journal of Machine Learning Research 9(86), 2579–2605 (2008) (van der Maaten and Hinton)",
+          "schema:url": "https://www.jmlr.org/papers/v9/vandermaaten08a.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction",
+          "dcterms:publisher": "arXiv:1802.03426v3 (McInnes, Healy and Melville), authors' version dated 2018-12-07",
+          "schema:url": "https://arxiv.org/pdf/1802.03426v3.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Manifold learning",
+          "dcterms:publisher": "scikit-learn user guide (stable documentation source)",
+          "schema:url": "https://scikit-learn.org/stable/_sources/modules/manifold.rst.txt",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/ml-foundations/dimensionality-reduction.md",
+      "skos:altLabel": [
+        "dimension reduction",
+        "manifold learning",
+        "nonlinear dimensionality reduction"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:unsupervised-learning"
+        },
+        {
+          "@id": "kt:machine-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:principal-component-analysis"
+        },
+        {
+          "@id": "kt:embeddings"
+        },
+        {
+          "@id": "kt:autoencoder"
+        },
+        {
+          "@id": "kt:t-sne"
+        },
+        {
+          "@id": "kt:umap"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:curse-of-dimensionality"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:scikit-learn"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:geoffrey-hinton"
+        }
+      ]
+    },
+    {
       "@id": "kt:double-descent",
       "@type": "kto:Concept",
       "skos:prefLabel": "Double descent",
