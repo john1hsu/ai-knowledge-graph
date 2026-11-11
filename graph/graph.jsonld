@@ -3749,6 +3749,102 @@
       ]
     },
     {
+      "@id": "kt:compute-governance",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Compute governance",
+      "skos:definition": "The use of computing power (the chips, data centres and processing used to train and run AI models) as a lever for AI policy: measuring, allocating or restricting compute to gain visibility into AI development, steer it toward beneficial uses, and enforce limits on risky or malicious work.",
+      "kto:domain": "governance-and-policy",
+      "dcterms:created": "2026-11-11",
+      "kto:maturity": "emerging",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Computing Power and the Governance of Artificial Intelligence (arXiv 2402.08797)",
+          "dcterms:publisher": "Sastry, Heim, Belfield, Anderljung, Brundage et al., authors' arXiv version, 13 February 2024",
+          "schema:url": "https://arxiv.org/abs/2402.08797",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Computing Power and the Governance of Artificial Intelligence (full text, HTML v1)",
+          "dcterms:publisher": "Sastry et al., arXiv HTML rendering of v1",
+          "schema:url": "https://arxiv.org/html/2402.08797v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Executive Order 14110: Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence",
+          "dcterms:publisher": "The White House; Federal Register 88(210), 1 November 2023",
+          "schema:url": "https://www.govinfo.gov/content/pkg/FR-2023-11-01/html/2023-24283.htm",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Executive Order 14148: Initial Rescissions of Harmful Executive Orders and Actions",
+          "dcterms:publisher": "The American Presidency Project, University of California, Santa Barbara (order dated 20 January 2025)",
+          "schema:url": "https://www.presidency.ucsb.edu/documents/executive-order-14148-initial-rescissions-harmful-executive-orders-and-actions",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "AI Act, Article 51: Classification of general-purpose AI models as general-purpose AI models with systemic risk",
+          "dcterms:publisher": "European Commission, AI Act Service Desk (based on Regulation (EU) 2024/1689, EUR-Lex consolidated text)",
+          "schema:url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-51",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "On the Limitations of Compute Thresholds as a Governance Strategy (arXiv 2407.05694, v2)",
+          "dcterms:publisher": "Sara Hooker, authors' arXiv version, July 2024",
+          "schema:url": "https://arxiv.org/abs/2407.05694v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "SB 53 (Wiener): Artificial intelligence models: large developers — committee analysis",
+          "dcterms:publisher": "California State Assembly, Committee on Privacy and Consumer Protection (hearing of 11 September 2025)",
+          "schema:url": "https://apcp.assembly.ca.gov/media/1019",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/governance-and-policy/compute-governance.md",
+      "skos:altLabel": [
+        "governance of computing power",
+        "compute-based AI governance",
+        "compute thresholds"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-governance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:eu-ai-act"
+        },
+        {
+          "@id": "kt:executive-orders-on-ai"
+        },
+        {
+          "@id": "kt:ai-accelerator"
+        },
+        {
+          "@id": "kt:ai-safety-institutes"
+        },
+        {
+          "@id": "kt:computing-power-and-the-governance-of-artificial-intelligence"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:ai-chip-export-controls"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:scaling-laws"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:computing-power-and-the-governance-of-artificial-intelligence"
+        }
+      ]
+    },
+    {
       "@id": "kt:nist-ai-risk-management-framework",
       "@type": "kto:Policy",
       "skos:prefLabel": "NIST AI Risk Management Framework",

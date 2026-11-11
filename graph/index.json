@@ -608,6 +608,29 @@
     ]
   },
   {
+    "id": "kt:compute-governance",
+    "title": "Compute governance",
+    "aliases": [
+      "governance of computing power",
+      "compute-based AI governance",
+      "compute thresholds"
+    ],
+    "type": "Concept",
+    "domain": "governance-and-policy",
+    "file": "articles/governance-and-policy/compute-governance.md",
+    "created": "2026-11-11",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://arxiv.org/abs/2402.08797",
+      "https://arxiv.org/html/2402.08797v1",
+      "https://www.govinfo.gov/content/pkg/FR-2023-11-01/html/2023-24283.htm",
+      "https://www.presidency.ucsb.edu/documents/executive-order-14148-initial-rescissions-harmful-executive-orders-and-actions",
+      "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-51",
+      "https://arxiv.org/abs/2407.05694v2",
+      "https://apcp.assembly.ca.gov/media/1019"
+    ]
+  },
+  {
     "id": "kt:conditional-random-field",
     "title": "Conditional random field",
     "aliases": [

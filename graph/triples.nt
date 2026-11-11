@@ -712,6 +712,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa> <https://github.com/john1hsu/ai-knowledge-graph/ontology#followedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa-2-0> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa-a-question-answering-challenge-targeting-commonsense-knowledge> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> <http://www.w3.org/2000/01/rdf-schema#label> "Compute governance" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> <http://www.w3.org/2004/02/skos/core#altLabel> "compute thresholds" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> <http://www.w3.org/2004/02/skos/core#altLabel> "compute-based AI governance" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> <http://www.w3.org/2004/02/skos/core#altLabel> "governance of computing power" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> <http://www.w3.org/2004/02/skos/core#definition> "The use of computing power (the chips, data centres and processing used to train and run AI models) as a lever for AI policy: measuring, allocating or restricting compute to gain visibility into AI development, steer it toward beneficial uses, and enforce limits on risky or malicious work." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> <http://www.w3.org/2004/02/skos/core#prefLabel> "Compute governance" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/computing-power-and-the-governance-of-artificial-intelligence> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s7> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "governance-and-policy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/computing-power-and-the-governance-of-artificial-intelligence> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <http://www.w3.org/2000/01/rdf-schema#label> "Conditional random field" .
@@ -2782,6 +2808,41 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/commonsenseqa/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/commonsenseqa/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/commonsenseqa/s5> <https://schema.org/url> "https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/3ef815416f775098fe977004015c6193-Abstract-round1.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s1> <http://purl.org/dc/terms/publisher> "Sastry, Heim, Belfield, Anderljung, Brundage et al., authors' arXiv version, 13 February 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s1> <http://purl.org/dc/terms/title> "Computing Power and the Governance of Artificial Intelligence (arXiv 2402.08797)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s1> <https://schema.org/url> "https://arxiv.org/abs/2402.08797" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s2> <http://purl.org/dc/terms/publisher> "Sastry et al., arXiv HTML rendering of v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s2> <http://purl.org/dc/terms/title> "Computing Power and the Governance of Artificial Intelligence (full text, HTML v1)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s2> <https://schema.org/url> "https://arxiv.org/html/2402.08797v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s3> <http://purl.org/dc/terms/publisher> "The White House; Federal Register 88(210), 1 November 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s3> <http://purl.org/dc/terms/title> "Executive Order 14110: Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s3> <https://schema.org/url> "https://www.govinfo.gov/content/pkg/FR-2023-11-01/html/2023-24283.htm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s4> <http://purl.org/dc/terms/publisher> "The American Presidency Project, University of California, Santa Barbara (order dated 20 January 2025)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s4> <http://purl.org/dc/terms/title> "Executive Order 14148: Initial Rescissions of Harmful Executive Orders and Actions" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s4> <https://schema.org/url> "https://www.presidency.ucsb.edu/documents/executive-order-14148-initial-rescissions-harmful-executive-orders-and-actions" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s5> <http://purl.org/dc/terms/publisher> "European Commission, AI Act Service Desk (based on Regulation (EU) 2024/1689, EUR-Lex consolidated text)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s5> <http://purl.org/dc/terms/title> "AI Act, Article 51: Classification of general-purpose AI models as general-purpose AI models with systemic risk" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s5> <https://schema.org/url> "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-51" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s6> <http://purl.org/dc/terms/publisher> "Sara Hooker, authors' arXiv version, July 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s6> <http://purl.org/dc/terms/title> "On the Limitations of Compute Thresholds as a Governance Strategy (arXiv 2407.05694, v2)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s6> <https://schema.org/url> "https://arxiv.org/abs/2407.05694v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s7> <http://purl.org/dc/terms/publisher> "California State Assembly, Committee on Privacy and Consumer Protection (hearing of 11 September 2025)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s7> <http://purl.org/dc/terms/title> "SB 53 (Wiener): Artificial intelligence models: large developers — committee analysis" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s7> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s7> <https://schema.org/url> "https://apcp.assembly.ca.gov/media/1019" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s1> <http://purl.org/dc/terms/publisher> "ICML 2001 (Lafferty, McCallum, Pereira); author copy hosted on a University of Colorado course page" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s1> <http://purl.org/dc/terms/title> "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
