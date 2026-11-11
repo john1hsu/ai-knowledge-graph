@@ -7543,6 +7543,103 @@
       ]
     },
     {
+      "@id": "kt:neural-machine-translation-by-jointly-learning-to-align-and-translate",
+      "@type": "kto:Work",
+      "skos:prefLabel": "Neural Machine Translation by Jointly Learning to Align and Translate",
+      "skos:definition": "The paper by Bahdanau, Cho and Bengio (arXiv 2014, ICLR 2015) that added a learned soft-alignment (\"attention\") step to the recurrent encoder-decoder, letting the decoder build a fresh context vector from all source positions at every output step instead of relying on one fixed-length sentence vector.",
+      "kto:domain": "transformers-and-llms",
+      "dcterms:created": "2026-11-11",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Neural Machine Translation by Jointly Learning to Align and Translate",
+          "dcterms:publisher": "Bahdanau, Cho and Bengio, ICLR 2015 conference paper (authors' arXiv version 1409.0473v7, 19 May 2016)",
+          "schema:url": "https://arxiv.org/pdf/1409.0473",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Dive into Deep Learning, 11.4: The Bahdanau Attention Mechanism",
+          "dcterms:publisher": "Zhang, Lipton, Li and Smola, d2l.ai",
+          "schema:url": "https://d2l.ai/chapter_attention-mechanisms-and-transformers/bahdanau-attention.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Speech and Language Processing (3rd ed. draft), Chapter 8: RNNs and LSTMs",
+          "dcterms:publisher": "D. Jurafsky and J. H. Martin, Stanford University (draft of 12 January 2025)",
+          "schema:url": "https://web.stanford.edu/~jurafsky/slp3/old_jan25/8.pdf",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Sequence to Sequence Learning with Neural Networks",
+          "dcterms:publisher": "Sutskever, Vinyals and Le, Proc. NIPS 2014; Google Research publication page",
+          "schema:url": "https://research.google/pubs/sequence-to-sequence-learning-with-neural-networks/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Speech and Language Processing (3rd ed. draft), Chapter 13: Machine Translation",
+          "dcterms:publisher": "D. Jurafsky and J. H. Martin, Stanford University (draft of 19 August 2026)",
+          "schema:url": "https://web.stanford.edu/%7ejurafsky/slp3/13.pdf",
+          "kto:sourceType": "textbook"
+        }
+      ],
+      "kto:file": "articles/transformers-and-llms/neural-machine-translation-by-jointly-learning-to-align-and-translate.md",
+      "skos:altLabel": [
+        "Bahdanau et al. 2015",
+        "Bahdanau Cho and Bengio 2014",
+        "the RNNsearch paper"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:attention-mechanism"
+        },
+        {
+          "@id": "kt:sequence-to-sequence-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:recurrent-neural-network"
+        },
+        {
+          "@id": "kt:attention-is-all-you-need"
+        },
+        {
+          "@id": "kt:transformer-architecture"
+        },
+        {
+          "@id": "kt:long-short-term-memory"
+        },
+        {
+          "@id": "kt:beam-search"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:yoshua-bengio"
+        }
+      ],
+      "kto:extends": [
+        {
+          "@id": "kt:sequence-to-sequence-learning"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:alex-graves"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:wmt-2014"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:transformer-architecture"
+        }
+      ]
+    },
+    {
       "@id": "kt:scaling-laws",
       "@type": "kto:Concept",
       "skos:prefLabel": "Scaling laws",

@@ -1150,6 +1150,27 @@
     ]
   },
   {
+    "id": "kt:neural-machine-translation-by-jointly-learning-to-align-and-translate",
+    "title": "Neural Machine Translation by Jointly Learning to Align and Translate",
+    "aliases": [
+      "Bahdanau et al. 2015",
+      "Bahdanau Cho and Bengio 2014",
+      "the RNNsearch paper"
+    ],
+    "type": "Work",
+    "domain": "transformers-and-llms",
+    "file": "articles/transformers-and-llms/neural-machine-translation-by-jointly-learning-to-align-and-translate.md",
+    "created": "2026-11-11",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://arxiv.org/pdf/1409.0473",
+      "https://d2l.ai/chapter_attention-mechanisms-and-transformers/bahdanau-attention.html",
+      "https://web.stanford.edu/~jurafsky/slp3/old_jan25/8.pdf",
+      "https://research.google/pubs/sequence-to-sequence-learning-with-neural-networks/",
+      "https://web.stanford.edu/%7ejurafsky/slp3/13.pdf"
+    ]
+  },
+  {
     "id": "kt:nist-ai-risk-management-framework",
     "title": "NIST AI Risk Management Framework",
     "aliases": [
