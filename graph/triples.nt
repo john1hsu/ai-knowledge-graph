@@ -890,6 +890,34 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/gradient-descent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> <http://www.w3.org/2000/01/rdf-schema#label> "Deep Q-network: human-level control through deep reinforcement learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> <http://www.w3.org/2004/02/skos/core#altLabel> "DQN" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> <http://www.w3.org/2004/02/skos/core#altLabel> "Nature DQN" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> <http://www.w3.org/2004/02/skos/core#altLabel> "deep Q-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> <http://www.w3.org/2004/02/skos/core#altLabel> "deep Q-network" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> <http://www.w3.org/2004/02/skos/core#definition> "DeepMind's deep Q-network (DQN) approximates the Q-learning action-value function with a convolutional network trained from raw pixels, stabilised by experience replay and a periodically updated target network; it was the first agent to learn dozens of Atari 2600 games with one architecture and one set of hyperparameters." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> <http://www.w3.org/2004/02/skos/core#prefLabel> "Deep Q-network: human-level control through deep reinforcement learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/double-q-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/google-deepmind> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/markov-decision-process> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "reinforcement-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/arcade-learning-environment> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/playing-atari-with-deep-reinforcement-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/diffusion-model> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/diffusion-model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/diffusion-model> <http://www.w3.org/2000/01/rdf-schema#label> "Diffusion model" .
@@ -3196,6 +3224,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s6> <https://schema.org/url> "https://research.google/pubs/understanding-deep-learning-requires-rethinking-generalization/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s1> <http://purl.org/dc/terms/publisher> "Nature 518, 529-533, 2015 (Mnih et al.), reading copy hosted by Harvard Neuro 230" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s1> <http://purl.org/dc/terms/title> "Human-level control through deep reinforcement learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s1> <https://schema.org/url> "https://klab.tch.harvard.edu/academia/classes/Neuro230/ReadingAssignments/MnihEtAlHassibis15NatureControlDeepRL.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s2> <http://purl.org/dc/terms/publisher> "arXiv:1312.5602 (Mnih et al., DeepMind, 2013)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s2> <http://purl.org/dc/terms/title> "Playing Atari with Deep Reinforcement Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s2> <https://schema.org/url> "https://arxiv.org/abs/1312.5602" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s3> <http://purl.org/dc/terms/publisher> "Google Research Blog (Kumaran and Hassabis, 2015)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s3> <http://purl.org/dc/terms/title> "From Pixels to Actions: Human-level control through Deep Reinforcement Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s3> <https://schema.org/url> "https://research.google/blog/from-pixels-to-actions-human-level-control-through-deep-reinforcement-learning/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s4> <http://purl.org/dc/terms/publisher> "AAAI 2016, pp. 2094-2100 (van Hasselt, Guez and Silver), via ML Anthology" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s4> <http://purl.org/dc/terms/title> "Deep Reinforcement Learning with Double Q-Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s4> <https://schema.org/url> "https://mlanthology.org/aaai/2016/vanhasselt2016aaai-deep" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s5> <http://purl.org/dc/terms/publisher> "AAAI 2018, pp. 3215-3222 (Hessel et al.), via ML Anthology" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s5> <http://purl.org/dc/terms/title> "Rainbow: Combining Improvements in Deep Reinforcement Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s5> <https://schema.org/url> "https://mlanthology.org/aaai/2018/hessel2018aaai-rainbow" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s6> <http://purl.org/dc/terms/publisher> "Hugging Face Deep RL Course, Unit 3" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s6> <http://purl.org/dc/terms/title> "The Deep Q-Learning Algorithm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-q-network/s6> <https://schema.org/url> "https://huggingface.co/learn/deep-rl-course/unit3/deep-q-algorithm" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/diffusion-model/s1> <http://purl.org/dc/terms/publisher> "Sohl-Dickstein, Weiss, Maheswaranathan and Ganguli, Proceedings of ICML 2015 (PMLR 37), pp. 2256–2265" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/diffusion-model/s1> <http://purl.org/dc/terms/title> "Deep Unsupervised Learning using Nonequilibrium Thermodynamics" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/diffusion-model/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

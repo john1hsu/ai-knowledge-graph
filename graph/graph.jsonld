@@ -6417,6 +6417,107 @@
       ]
     },
     {
+      "@id": "kt:deep-q-network",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "Deep Q-network: human-level control through deep reinforcement learning",
+      "skos:definition": "DeepMind's deep Q-network (DQN) approximates the Q-learning action-value function with a convolutional network trained from raw pixels, stabilised by experience replay and a periodically updated target network; it was the first agent to learn dozens of Atari 2600 games with one architecture and one set of hyperparameters.",
+      "kto:domain": "reinforcement-learning",
+      "dcterms:created": "2026-11-11",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Human-level control through deep reinforcement learning",
+          "dcterms:publisher": "Nature 518, 529-533, 2015 (Mnih et al.), reading copy hosted by Harvard Neuro 230",
+          "schema:url": "https://klab.tch.harvard.edu/academia/classes/Neuro230/ReadingAssignments/MnihEtAlHassibis15NatureControlDeepRL.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Playing Atari with Deep Reinforcement Learning",
+          "dcterms:publisher": "arXiv:1312.5602 (Mnih et al., DeepMind, 2013)",
+          "schema:url": "https://arxiv.org/abs/1312.5602",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "From Pixels to Actions: Human-level control through Deep Reinforcement Learning",
+          "dcterms:publisher": "Google Research Blog (Kumaran and Hassabis, 2015)",
+          "schema:url": "https://research.google/blog/from-pixels-to-actions-human-level-control-through-deep-reinforcement-learning/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Deep Reinforcement Learning with Double Q-Learning",
+          "dcterms:publisher": "AAAI 2016, pp. 2094-2100 (van Hasselt, Guez and Silver), via ML Anthology",
+          "schema:url": "https://mlanthology.org/aaai/2016/vanhasselt2016aaai-deep",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Rainbow: Combining Improvements in Deep Reinforcement Learning",
+          "dcterms:publisher": "AAAI 2018, pp. 3215-3222 (Hessel et al.), via ML Anthology",
+          "schema:url": "https://mlanthology.org/aaai/2018/hessel2018aaai-rainbow",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Deep Q-Learning Algorithm",
+          "dcterms:publisher": "Hugging Face Deep RL Course, Unit 3",
+          "schema:url": "https://huggingface.co/learn/deep-rl-course/unit3/deep-q-algorithm",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/reinforcement-learning/deep-q-network.md",
+      "skos:altLabel": [
+        "DQN",
+        "deep Q-network",
+        "deep Q-learning",
+        "Nature DQN"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:reinforcement-learning"
+        },
+        {
+          "@id": "kt:q-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:double-q-learning"
+        },
+        {
+          "@id": "kt:convolutional-neural-network"
+        },
+        {
+          "@id": "kt:exploration-exploitation"
+        },
+        {
+          "@id": "kt:actor-critic"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:q-learning"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:playing-atari-with-deep-reinforcement-learning"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:google-deepmind"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:markov-decision-process"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:arcade-learning-environment"
+        }
+      ]
+    },
+    {
       "@id": "kt:exploration-exploitation",
       "@type": "kto:Concept",
       "skos:prefLabel": "Exploration-exploitation dilemma",

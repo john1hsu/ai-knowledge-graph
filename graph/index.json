@@ -763,6 +763,29 @@
     ]
   },
   {
+    "id": "kt:deep-q-network",
+    "title": "Deep Q-network: human-level control through deep reinforcement learning",
+    "aliases": [
+      "DQN",
+      "deep Q-network",
+      "deep Q-learning",
+      "Nature DQN"
+    ],
+    "type": "Algorithm",
+    "domain": "reinforcement-learning",
+    "file": "articles/reinforcement-learning/deep-q-network.md",
+    "created": "2026-11-11",
+    "maturity": "established",
+    "source_urls": [
+      "https://klab.tch.harvard.edu/academia/classes/Neuro230/ReadingAssignments/MnihEtAlHassibis15NatureControlDeepRL.pdf",
+      "https://arxiv.org/abs/1312.5602",
+      "https://research.google/blog/from-pixels-to-actions-human-level-control-through-deep-reinforcement-learning/",
+      "https://mlanthology.org/aaai/2016/vanhasselt2016aaai-deep",
+      "https://mlanthology.org/aaai/2018/hessel2018aaai-rainbow",
+      "https://huggingface.co/learn/deep-rl-course/unit3/deep-q-algorithm"
+    ]
+  },
+  {
     "id": "kt:diffusion-model",
     "title": "Diffusion model",
     "aliases": [

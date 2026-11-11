@@ -9,11 +9,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:in-context-learning` | `kt:chain-of-thought`, `kt:prompt-sensitivity`, `kt:jailbreak`, `kt:mechanistic-interpretability`, `kt:fine-tuning`, `kt:context-window`, `kt:context-window`, `kt:emergent-abilities`, `kt:large-language-model` |
 | `kt:retrieval-augmented-generation` | `kt:toolformer`, `kt:beir`, `kt:approximate-nearest-neighbor-search`, `kt:bm25`, `kt:embeddings`, `kt:embeddings`, `kt:semantic-search`, `kt:semantic-search`, `kt:context-window` |
 | `kt:ai-governance` | `kt:ai-chip-export-controls`, `kt:ai-safety-institutes`, `kt:algorithmic-bias-and-fairness`, `kt:bureau-of-industry-and-security`, `kt:compute-governance`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda`, `kt:ai-alignment` |
+| `kt:convolutional-neural-network` | `kt:imagenet-and-alexnet`, `kt:an-image-is-worth-16x16-words`, `kt:faster-r-cnn`, `kt:yolo`, `kt:artificial-neural-network`, `kt:deep-learning`, `kt:alphago`, `kt:deep-q-network` |
+| `kt:markov-decision-process` | `kt:hidden-markov-model`, `kt:actor-critic`, `kt:deep-q-network`, `kt:policy-gradient`, `kt:q-learning`, `kt:q-learning`, `kt:reinforcement-learning`, `kt:reinforcement-learning` |
 | `kt:recurrent-neural-network` | `kt:automatic-speech-recognition`, `kt:deep-learning`, `kt:long-short-term-memory`, `kt:conditional-random-field`, `kt:hidden-markov-model`, `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:transformer-architecture` |
 | `kt:benchmark-contamination` | `kt:ai-evaluation`, `kt:commonsenseqa`, `kt:gsm8k`, `kt:mmlu`, `kt:truthfulqa`, `kt:goodharts-law`, `kt:synthetic-data` |
-| `kt:convolutional-neural-network` | `kt:imagenet-and-alexnet`, `kt:an-image-is-worth-16x16-words`, `kt:faster-r-cnn`, `kt:yolo`, `kt:artificial-neural-network`, `kt:deep-learning`, `kt:alphago` |
 | `kt:gpu-computing` | `kt:imagenet-and-alexnet`, `kt:cuda`, `kt:data-parallelism`, `kt:high-bandwidth-memory`, `kt:nvidia`, `kt:tpu`, `kt:ai-chip-export-controls` |
-| `kt:markov-decision-process` | `kt:hidden-markov-model`, `kt:actor-critic`, `kt:policy-gradient`, `kt:q-learning`, `kt:q-learning`, `kt:reinforcement-learning`, `kt:reinforcement-learning` |
 | `kt:pretraining` | `kt:test-time-compute`, `kt:fine-tuning`, `kt:synthetic-data`, `kt:emergent-abilities`, `kt:large-language-model`, `kt:scaling-laws`, `kt:scaling-laws` |
 | `kt:pytorch` | `kt:data-parallelism`, `kt:hugging-face-transformers`, `kt:faster-r-cnn`, `kt:adam-optimizer`, `kt:backpropagation`, `kt:dropout`, `kt:long-short-term-memory` |
 | `kt:supervised-learning` | `kt:perceptron`, `kt:bias-variance-tradeoff`, `kt:conditional-random-field`, `kt:machine-learning`, `kt:alphago`, `kt:reinforcement-learning` |
@@ -42,7 +42,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:adagrad` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:glove` |
 | `kt:ai-safety` | `kt:ai-alignment`, `kt:goodharts-law`, `kt:reward-hacking` |
 | `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:geoffrey-hinton`, `kt:perceptron` |
-| `kt:deep-q-network` | `kt:alphago`, `kt:q-learning`, `kt:reinforcement-learning` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:hidden-markov-model` |
 | `kt:gradient-descent` | `kt:adam-optimizer`, `kt:backpropagation`, `kt:deep-learning` |
 | `kt:hallucination` | `kt:truthfulqa`, `kt:mechanistic-interpretability`, `kt:sycophancy` |
@@ -70,9 +69,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:concrete-problems-in-ai-safety` | `kt:reward-hacking`, `kt:scalable-oversight` |
 | `kt:curse-of-dimensionality` | `kt:universal-approximation-theorem`, `kt:dimensionality-reduction` |
 | `kt:deep-belief-network` | `kt:geoffrey-hinton`, `kt:deep-learning` |
+| `kt:double-q-learning` | `kt:deep-q-network`, `kt:q-learning` |
 | `kt:export-control-reform-act` | `kt:ai-chip-export-controls`, `kt:bureau-of-industry-and-security` |
 | `kt:few-shot-prompting` | `kt:chain-of-thought`, `kt:prompt-sensitivity` |
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
+| `kt:google-deepmind` | `kt:alphago`, `kt:deep-q-network` |
 | `kt:image-classification` | `kt:imagenet-and-alexnet`, `kt:an-image-is-worth-16x16-words` |
 | `kt:kv-cache` | `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
 | `kt:latent-semantic-analysis` | `kt:glove`, `kt:semantic-search` |
@@ -113,6 +114,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ann-benchmarks` | `kt:approximate-nearest-neighbor-search` |
 | `kt:application-specific-integrated-circuit` | `kt:tpu` |
 | `kt:approximation-by-superpositions-of-a-sigmoidal-function` | `kt:universal-approximation-theorem` |
+| `kt:arcade-learning-environment` | `kt:deep-q-network` |
 | `kt:arthur-samuel` | `kt:machine-learning` |
 | `kt:asynchronous-advantage-actor-critic` | `kt:actor-critic` |
 | `kt:autoencoder` | `kt:dimensionality-reduction` |
@@ -151,7 +153,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:direct-preference-optimization` | `kt:rlhf` |
 | `kt:distilbert` | `kt:knowledge-distillation` |
 | `kt:distilling-the-knowledge-in-a-neural-network` | `kt:knowledge-distillation` |
-| `kt:double-q-learning` | `kt:q-learning` |
 | `kt:dram` | `kt:high-bandwidth-memory` |
 | `kt:dropout-a-simple-way-to-prevent-neural-networks-from-overfitting` | `kt:dropout` |
 | `kt:efficient-estimation-of-word-representations-in-vector-space` | `kt:word2vec` |
@@ -175,7 +176,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:generative-adversarial-nets` | `kt:generative-adversarial-network` |
 | `kt:george-cybenko` | `kt:universal-approximation-theorem` |
 | `kt:glove-global-vectors-for-word-representation` | `kt:glove` |
-| `kt:google-deepmind` | `kt:alphago` |
 | `kt:gpt-j` | `kt:toolformer` |
 | `kt:gptq-accurate-post-training-quantization-for-generative-pre-trained-transformers` | `kt:gptq` |
 | `kt:harold-hotelling` | `kt:principal-component-analysis` |
@@ -244,6 +244,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:orca-serving-system` | `kt:batching-and-paged-attention` |
 | `kt:penetration-testing` | `kt:red-teaming` |
 | `kt:philosophy-of-artificial-intelligence` | `kt:chinese-room-argument` |
+| `kt:playing-atari-with-deep-reinforcement-learning` | `kt:deep-q-network` |
 | `kt:policy-gradient-methods-for-reinforcement-learning-with-function-approximation` | `kt:policy-gradient` |
 | `kt:pregel` | `kt:langgraph` |
 | `kt:probabilistic-graphical-model` | `kt:conditional-random-field` |
