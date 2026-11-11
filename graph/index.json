@@ -587,6 +587,27 @@
     ]
   },
   {
+    "id": "kt:commonsenseqa",
+    "title": "CommonsenseQA",
+    "aliases": [
+      "CSQA",
+      "Commonsense QA",
+      "CommonsenseQA 1.0"
+    ],
+    "type": "Benchmark",
+    "domain": "evaluation-and-benchmarks",
+    "file": "articles/evaluation-and-benchmarks/commonsenseqa.md",
+    "created": "2026-11-11",
+    "maturity": "established",
+    "source_urls": [
+      "https://aclanthology.org/N19-1421.pdf",
+      "https://aclanthology.org/N19-1421/",
+      "https://huggingface.co/datasets/tau/commonsense_qa/blob/refs%2Fpr%2F2/README.md",
+      "https://arxiv.org/pdf/2201.11903",
+      "https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/3ef815416f775098fe977004015c6193-Abstract-round1.html"
+    ]
+  },
+  {
     "id": "kt:conditional-random-field",
     "title": "Conditional random field",
     "aliases": [

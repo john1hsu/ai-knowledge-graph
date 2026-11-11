@@ -686,6 +686,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/clip> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/clip> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/learning-transferable-visual-models-from-natural-language-supervision> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/clip> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Benchmark> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa> <http://www.w3.org/2000/01/rdf-schema#label> "CommonsenseQA" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa> <http://www.w3.org/2004/02/skos/core#altLabel> "CSQA" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa> <http://www.w3.org/2004/02/skos/core#altLabel> "Commonsense QA" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa> <http://www.w3.org/2004/02/skos/core#altLabel> "CommonsenseQA 1.0" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/commonsense-reasoning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa> <http://www.w3.org/2004/02/skos/core#definition> "A five-way multiple-choice question answering benchmark of 12,247 crowd-written questions built from ConceptNet relations, introduced at NAACL 2019 to test whether models can answer questions that require everyday commonsense knowledge rather than facts stated in a given passage." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa> <http://www.w3.org/2004/02/skos/core#prefLabel> "CommonsenseQA" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/commonsenseqa/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/commonsenseqa/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/commonsenseqa/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/commonsenseqa/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/commonsenseqa/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/conceptnet> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/allen-institute-for-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "evaluation-and-benchmarks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa> <https://github.com/john1hsu/ai-knowledge-graph/ontology#followedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa-2-0> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa-a-question-answering-challenge-targeting-commonsense-knowledge> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/commonsenseqa> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <http://www.w3.org/2000/01/rdf-schema#label> "Conditional random field" .
@@ -2528,6 +2554,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/clip/s6> <https://schema.org/url> "https://arxiv.org/pdf/2304.08485v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/commonsenseqa/s1> <http://purl.org/dc/terms/publisher> "NAACL-HLT 2019, pp. 4149-4158 (Talmor, Herzig, Lourie and Berant; Tel Aviv University and Allen Institute for AI), ACL Anthology N19-1421" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/commonsenseqa/s1> <http://purl.org/dc/terms/title> "CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/commonsenseqa/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/commonsenseqa/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/commonsenseqa/s1> <https://schema.org/url> "https://aclanthology.org/N19-1421.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/commonsenseqa/s2> <http://purl.org/dc/terms/publisher> "Association for Computational Linguistics, DOI 10.18653/v1/N19-1421" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/commonsenseqa/s2> <http://purl.org/dc/terms/title> "CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge (anthology record)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/commonsenseqa/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/commonsenseqa/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/commonsenseqa/s2> <https://schema.org/url> "https://aclanthology.org/N19-1421/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/commonsenseqa/s3> <http://purl.org/dc/terms/publisher> "Hugging Face Datasets" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/commonsenseqa/s3> <http://purl.org/dc/terms/title> "tau/commonsense_qa dataset card" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/commonsenseqa/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/commonsenseqa/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/commonsenseqa/s3> <https://schema.org/url> "https://huggingface.co/datasets/tau/commonsense_qa/blob/refs%2Fpr%2F2/README.md" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/commonsenseqa/s4> <http://purl.org/dc/terms/publisher> "Wei, Wang, Schuurmans, Bosma, Ichter, Xia, Chi, Le and Zhou (Google Research), arXiv 2201.11903" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/commonsenseqa/s4> <http://purl.org/dc/terms/title> "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/commonsenseqa/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/commonsenseqa/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/commonsenseqa/s4> <https://schema.org/url> "https://arxiv.org/pdf/2201.11903" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/commonsenseqa/s5> <http://purl.org/dc/terms/publisher> "NeurIPS 2021 Datasets and Benchmarks Track (Talmor, Yoran, Le Bras, Bhagavatula, Goldberg, Choi and Berant)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/commonsenseqa/s5> <http://purl.org/dc/terms/title> "CommonsenseQA 2.0: Exposing the Limits of AI through Gamification" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/commonsenseqa/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/commonsenseqa/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/commonsenseqa/s5> <https://schema.org/url> "https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/3ef815416f775098fe977004015c6193-Abstract-round1.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s1> <http://purl.org/dc/terms/publisher> "ICML 2001 (Lafferty, McCallum, Pereira); author copy hosted on a University of Colorado course page" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s1> <http://purl.org/dc/terms/title> "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

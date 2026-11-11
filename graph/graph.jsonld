@@ -2865,6 +2865,98 @@
       ]
     },
     {
+      "@id": "kt:commonsenseqa",
+      "@type": "kto:Benchmark",
+      "skos:prefLabel": "CommonsenseQA",
+      "skos:definition": "A five-way multiple-choice question answering benchmark of 12,247 crowd-written questions built from ConceptNet relations, introduced at NAACL 2019 to test whether models can answer questions that require everyday commonsense knowledge rather than facts stated in a given passage.",
+      "kto:domain": "evaluation-and-benchmarks",
+      "dcterms:created": "2026-11-11",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge",
+          "dcterms:publisher": "NAACL-HLT 2019, pp. 4149-4158 (Talmor, Herzig, Lourie and Berant; Tel Aviv University and Allen Institute for AI), ACL Anthology N19-1421",
+          "schema:url": "https://aclanthology.org/N19-1421.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge (anthology record)",
+          "dcterms:publisher": "Association for Computational Linguistics, DOI 10.18653/v1/N19-1421",
+          "schema:url": "https://aclanthology.org/N19-1421/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "tau/commonsense_qa dataset card",
+          "dcterms:publisher": "Hugging Face Datasets",
+          "schema:url": "https://huggingface.co/datasets/tau/commonsense_qa/blob/refs%2Fpr%2F2/README.md",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
+          "dcterms:publisher": "Wei, Wang, Schuurmans, Bosma, Ichter, Xia, Chi, Le and Zhou (Google Research), arXiv 2201.11903",
+          "schema:url": "https://arxiv.org/pdf/2201.11903",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "CommonsenseQA 2.0: Exposing the Limits of AI through Gamification",
+          "dcterms:publisher": "NeurIPS 2021 Datasets and Benchmarks Track (Talmor, Yoran, Le Bras, Bhagavatula, Goldberg, Choi and Berant)",
+          "schema:url": "https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/3ef815416f775098fe977004015c6193-Abstract-round1.html",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/evaluation-and-benchmarks/commonsenseqa.md",
+      "skos:altLabel": [
+        "CSQA",
+        "Commonsense QA",
+        "CommonsenseQA 1.0"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-evaluation"
+        },
+        {
+          "@id": "kt:commonsense-reasoning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:chain-of-thought"
+        },
+        {
+          "@id": "kt:star-self-taught-reasoner"
+        },
+        {
+          "@id": "kt:gsm8k"
+        },
+        {
+          "@id": "kt:benchmark-contamination"
+        },
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:commonsenseqa-a-question-answering-challenge-targeting-commonsense-knowledge"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:allen-institute-for-ai"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:conceptnet"
+        }
+      ],
+      "kto:followedBy": [
+        {
+          "@id": "kt:commonsenseqa-2-0"
+        }
+      ]
+    },
+    {
       "@id": "kt:gsm8k",
       "@type": "kto:Benchmark",
       "skos:prefLabel": "GSM8K",
