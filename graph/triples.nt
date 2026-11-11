@@ -403,6 +403,34 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/neural-machine-translation-by-jointly-learning-to-align-and-translate> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Tool> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <http://www.w3.org/2000/01/rdf-schema#label> "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <http://www.w3.org/2004/02/skos/core#altLabel> "AutoGen" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <http://www.w3.org/2004/02/skos/core#altLabel> "Microsoft AutoGen" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <http://www.w3.org/2004/02/skos/core#altLabel> "pyautogen" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/agentic-systems> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <http://www.w3.org/2004/02/skos/core#definition> "An open-source Python framework and 2023 paper from Microsoft Research and academic collaborators in which LLM applications are built as conversations among customisable \"conversable agents\" (backed by LLMs, humans, tools or code execution) that reply to each other automatically; redesigned as an event-driven v0.4 in 2025 and later archived in favour of Microsoft Agent Framework." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <http://www.w3.org/2004/02/skos/core#prefLabel> "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/react-prompting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/microsoft-research> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "agents-and-tool-use" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/alfworld> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <https://github.com/john1hsu/ai-knowledge-graph/ontology#supersededBy> <https://github.com/john1hsu/ai-knowledge-graph/id/microsoft-agent-framework> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Application> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <http://www.w3.org/2000/01/rdf-schema#label> "Automatic speech recognition" .
@@ -2757,6 +2785,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s6> <https://schema.org/url> "https://web.stanford.edu/~jurafsky/slp3/7.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s1> <http://purl.org/dc/terms/publisher> "arXiv 2308.08155v2 (Wu et al., Microsoft Research, Penn State, University of Washington, Xidian University; authors' version)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s1> <http://purl.org/dc/terms/title> "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s1> <https://schema.org/url> "https://arxiv.org/pdf/2308.08155.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s2> <http://purl.org/dc/terms/publisher> "Microsoft Research Blog" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s2> <http://purl.org/dc/terms/title> "AutoGen: Enabling next-generation large language model applications" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s2> <https://schema.org/url> "https://www.microsoft.com/en-us/research/blog/autogen-enabling-next-generation-large-language-model-applications" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s3> <http://purl.org/dc/terms/publisher> "Microsoft Research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s3> <http://purl.org/dc/terms/title> "AutoGen v0.4: Reimagining the foundation of agentic AI for scale, extensibility, and robustness" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s3> <https://schema.org/url> "https://www.microsoft.com/en-us/research/?p=1116288" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s4> <http://purl.org/dc/terms/publisher> "Microsoft AutoGen developer blog" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s4> <http://purl.org/dc/terms/title> "AutoGen Reimagined: Launching AutoGen 0.4" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s4> <https://schema.org/url> "https://devblogs.microsoft.com/autogen/autogen-reimagined-launching-autogen-0-4/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s5> <http://purl.org/dc/terms/publisher> "Microsoft, GitHub repository" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s5> <http://purl.org/dc/terms/title> "microsoft/autogen (README)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s5> <https://schema.org/url> "https://github.com/microsoft/autogen" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s6> <http://purl.org/dc/terms/publisher> "Microsoft Learn" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s6> <http://purl.org/dc/terms/title> "Microsoft Agent Framework overview" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s6> <https://schema.org/url> "https://learn.microsoft.com/en-us/agent-framework/overview/" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s1> <http://purl.org/dc/terms/publisher> "Daniel Jurafsky and James H. Martin, Stanford University (draft of August 2026)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s1> <http://purl.org/dc/terms/title> "Speech and Language Processing (3rd ed. draft), Chapter 16: Automatic Speech Recognition" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

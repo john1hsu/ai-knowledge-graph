@@ -350,6 +350,28 @@
     ]
   },
   {
+    "id": "kt:autogen",
+    "title": "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation",
+    "aliases": [
+      "AutoGen",
+      "Microsoft AutoGen",
+      "pyautogen"
+    ],
+    "type": "Tool",
+    "domain": "agents-and-tool-use",
+    "file": "articles/agents-and-tool-use/autogen.md",
+    "created": "2026-11-11",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/pdf/2308.08155.pdf",
+      "https://www.microsoft.com/en-us/research/blog/autogen-enabling-next-generation-large-language-model-applications",
+      "https://www.microsoft.com/en-us/research/?p=1116288",
+      "https://devblogs.microsoft.com/autogen/autogen-reimagined-launching-autogen-0-4/",
+      "https://github.com/microsoft/autogen",
+      "https://learn.microsoft.com/en-us/agent-framework/overview/"
+    ]
+  },
+  {
     "id": "kt:automatic-speech-recognition",
     "title": "Automatic speech recognition",
     "aliases": [

@@ -267,6 +267,109 @@
       ]
     },
     {
+      "@id": "kt:autogen",
+      "@type": "kto:Tool",
+      "skos:prefLabel": "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation",
+      "skos:definition": "An open-source Python framework and 2023 paper from Microsoft Research and academic collaborators in which LLM applications are built as conversations among customisable \"conversable agents\" (backed by LLMs, humans, tools or code execution) that reply to each other automatically; redesigned as an event-driven v0.4 in 2025 and later archived in favour of Microsoft Agent Framework.",
+      "kto:domain": "agents-and-tool-use",
+      "dcterms:created": "2026-11-11",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation",
+          "dcterms:publisher": "arXiv 2308.08155v2 (Wu et al., Microsoft Research, Penn State, University of Washington, Xidian University; authors' version)",
+          "schema:url": "https://arxiv.org/pdf/2308.08155.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "AutoGen: Enabling next-generation large language model applications",
+          "dcterms:publisher": "Microsoft Research Blog",
+          "schema:url": "https://www.microsoft.com/en-us/research/blog/autogen-enabling-next-generation-large-language-model-applications",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "AutoGen v0.4: Reimagining the foundation of agentic AI for scale, extensibility, and robustness",
+          "dcterms:publisher": "Microsoft Research",
+          "schema:url": "https://www.microsoft.com/en-us/research/?p=1116288",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "AutoGen Reimagined: Launching AutoGen 0.4",
+          "dcterms:publisher": "Microsoft AutoGen developer blog",
+          "schema:url": "https://devblogs.microsoft.com/autogen/autogen-reimagined-launching-autogen-0-4/",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "microsoft/autogen (README)",
+          "dcterms:publisher": "Microsoft, GitHub repository",
+          "schema:url": "https://github.com/microsoft/autogen",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Microsoft Agent Framework overview",
+          "dcterms:publisher": "Microsoft Learn",
+          "schema:url": "https://learn.microsoft.com/en-us/agent-framework/overview/",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/agents-and-tool-use/autogen.md",
+      "skos:altLabel": [
+        "AutoGen",
+        "Microsoft AutoGen",
+        "pyautogen"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:multi-agent-systems"
+        },
+        {
+          "@id": "kt:agentic-systems"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:ai-agent"
+        },
+        {
+          "@id": "kt:tool-use"
+        },
+        {
+          "@id": "kt:react-prompting"
+        },
+        {
+          "@id": "kt:retrieval-augmented-generation"
+        },
+        {
+          "@id": "kt:agentic-workflow"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:microsoft-research"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:langgraph"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:alfworld"
+        }
+      ],
+      "kto:supersededBy": [
+        {
+          "@id": "kt:microsoft-agent-framework"
+        }
+      ]
+    },
+    {
       "@id": "kt:generative-agents-interactive-simulacra-of-human-behavior",
       "@type": "kto:Work",
       "skos:prefLabel": "Generative Agents: Interactive Simulacra of Human Behavior",
