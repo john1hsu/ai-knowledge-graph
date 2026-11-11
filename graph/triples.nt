@@ -1213,6 +1213,35 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/transformers-state-of-the-art-natural-language-processing> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/vllm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Event> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <http://www.w3.org/2000/01/rdf-schema#label> "ImageNet and AlexNet" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <http://www.w3.org/2004/02/skos/core#altLabel> "AlexNet" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <http://www.w3.org/2004/02/skos/core#altLabel> "ILSVRC 2012 breakthrough" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <http://www.w3.org/2004/02/skos/core#altLabel> "ImageNet moment" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <http://www.w3.org/2004/02/skos/core#altLabel> "SuperVision (ILSVRC-2012 entry)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <http://www.w3.org/2004/02/skos/core#definition> "The 2012 turning point when AlexNet, a GPU-trained deep convolutional network by Krizhevsky, Sutskever and Hinton, won the ImageNet Large Scale Visual Recognition Challenge with a 15.3% top-5 error against 26.2% for the runner-up, showing that features learned from a very large labeled dataset could beat hand-engineered vision pipelines." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <http://www.w3.org/2004/02/skos/core#prefLabel> "ImageNet and AlexNet" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/dropout> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/yolo> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-history" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-large-scale-visual-recognition-challenge> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/cuda> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/lenet> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-classification-with-deep-convolutional-neural-networks> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "historical" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <https://github.com/john1hsu/ai-knowledge-graph/ontology#runsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/jailbreak> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/jailbreak> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Risk> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/jailbreak> <http://www.w3.org/2000/01/rdf-schema#label> "Jailbreak" .
@@ -3288,6 +3317,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s4> <https://schema.org/url> "https://huggingface.co/docs/hub/transformers" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s1> <http://purl.org/dc/terms/publisher> "NIPS 2012 (Krizhevsky, Sutskever and Hinton), abstract page" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s1> <http://purl.org/dc/terms/title> "ImageNet Classification with Deep Convolutional Neural Networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s1> <https://schema.org/url> "https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s2> <http://purl.org/dc/terms/publisher> "NIPS 2012 proceedings PDF (Krizhevsky, Sutskever and Hinton)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s2> <http://purl.org/dc/terms/title> "ImageNet Classification with Deep Convolutional Neural Networks (full paper)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s2> <https://schema.org/url> "https://papers.nips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s3> <http://purl.org/dc/terms/publisher> "CVPR 2009 (Deng, Dong, Socher, Li, Li and Fei-Fei), via ML Anthology" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s3> <http://purl.org/dc/terms/title> "ImageNet: A Large-Scale Hierarchical Image Database" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s3> <https://schema.org/url> "https://mlanthology.org/cvpr/2009/deng2009cvpr-imagenet" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s4> <http://purl.org/dc/terms/publisher> "Russakovsky et al., International Journal of Computer Vision 2015 (authors' arXiv version 1409.0575)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s4> <http://purl.org/dc/terms/title> "ImageNet Large Scale Visual Recognition Challenge" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s4> <https://schema.org/url> "https://arxiv.org/pdf/1409.0575" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s5> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (d2l.ai)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s5> <http://purl.org/dc/terms/title> "8.1. Deep Convolutional Neural Networks (AlexNet)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s5> <https://schema.org/url> "https://d2l.ai/chapter_convolutional-modern/alexnet.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s6> <http://purl.org/dc/terms/publisher> "Yang, Qinami, Fei-Fei, Deng and Russakovsky, FAT* 2020 (ImageNet project page)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s6> <http://purl.org/dc/terms/title> "Towards Fairer Datasets: Filtering and Balancing the Distribution of the People Subtree in the ImageNet Hierarchy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s6> <https://schema.org/url> "https://image-net.org/filtering-and-balancing/" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/jailbreak/s1> <http://purl.org/dc/terms/publisher> "NIST (Vassilev, Oprea, Fordyce, Anderson, Davies, Hamin), March 2025" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/jailbreak/s1> <http://purl.org/dc/terms/title> "Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations (NIST AI 100-2 E2025)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/jailbreak/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

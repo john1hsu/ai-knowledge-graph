@@ -920,6 +920,112 @@
       ]
     },
     {
+      "@id": "kt:imagenet-and-alexnet",
+      "@type": "kto:Event",
+      "skos:prefLabel": "ImageNet and AlexNet",
+      "skos:definition": "The 2012 turning point when AlexNet, a GPU-trained deep convolutional network by Krizhevsky, Sutskever and Hinton, won the ImageNet Large Scale Visual Recognition Challenge with a 15.3% top-5 error against 26.2% for the runner-up, showing that features learned from a very large labeled dataset could beat hand-engineered vision pipelines.",
+      "kto:domain": "ai-history",
+      "dcterms:created": "2026-11-11",
+      "kto:maturity": "historical",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "ImageNet Classification with Deep Convolutional Neural Networks",
+          "dcterms:publisher": "NIPS 2012 (Krizhevsky, Sutskever and Hinton), abstract page",
+          "schema:url": "https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "ImageNet Classification with Deep Convolutional Neural Networks (full paper)",
+          "dcterms:publisher": "NIPS 2012 proceedings PDF (Krizhevsky, Sutskever and Hinton)",
+          "schema:url": "https://papers.nips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "ImageNet: A Large-Scale Hierarchical Image Database",
+          "dcterms:publisher": "CVPR 2009 (Deng, Dong, Socher, Li, Li and Fei-Fei), via ML Anthology",
+          "schema:url": "https://mlanthology.org/cvpr/2009/deng2009cvpr-imagenet",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "ImageNet Large Scale Visual Recognition Challenge",
+          "dcterms:publisher": "Russakovsky et al., International Journal of Computer Vision 2015 (authors' arXiv version 1409.0575)",
+          "schema:url": "https://arxiv.org/pdf/1409.0575",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "8.1. Deep Convolutional Neural Networks (AlexNet)",
+          "dcterms:publisher": "Dive into Deep Learning (d2l.ai)",
+          "schema:url": "https://d2l.ai/chapter_convolutional-modern/alexnet.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Towards Fairer Datasets: Filtering and Balancing the Distribution of the People Subtree in the ImageNet Hierarchy",
+          "dcterms:publisher": "Yang, Qinami, Fei-Fei, Deng and Russakovsky, FAT* 2020 (ImageNet project page)",
+          "schema:url": "https://image-net.org/filtering-and-balancing/",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/ai-history/imagenet-and-alexnet.md",
+      "skos:altLabel": [
+        "AlexNet",
+        "SuperVision (ILSVRC-2012 entry)",
+        "ImageNet moment",
+        "ILSVRC 2012 breakthrough"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:deep-learning"
+        },
+        {
+          "@id": "kt:convolutional-neural-network"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:image-classification"
+        },
+        {
+          "@id": "kt:dropout"
+        },
+        {
+          "@id": "kt:algorithmic-bias-and-fairness"
+        },
+        {
+          "@id": "kt:yolo"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:geoffrey-hinton"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:imagenet-classification-with-deep-convolutional-neural-networks"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:imagenet-large-scale-visual-recognition-challenge"
+        }
+      ],
+      "kto:runsOn": [
+        {
+          "@id": "kt:gpu-computing"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:cuda"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:lenet"
+        }
+      ]
+    },
+    {
       "@id": "kt:perceptron",
       "@type": "kto:Algorithm",
       "skos:prefLabel": "Perceptron",
