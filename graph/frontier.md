@@ -66,7 +66,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:batch-normalization` | `kt:data-parallelism`, `kt:yolo` |
 | `kt:compute-governance` | `kt:ai-chip-export-controls`, `kt:bureau-of-industry-and-security` |
 | `kt:deep-belief-network` | `kt:geoffrey-hinton`, `kt:deep-learning` |
-| `kt:exploration-exploitation` | `kt:q-learning`, `kt:reinforcement-learning` |
 | `kt:export-control-reform-act` | `kt:ai-chip-export-controls`, `kt:bureau-of-industry-and-security` |
 | `kt:few-shot-prompting` | `kt:chain-of-thought`, `kt:prompt-sensitivity` |
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
@@ -174,6 +173,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:induction-head` | `kt:mechanistic-interpretability` |
 | `kt:inspect-ai` | `kt:ai-evaluation` |
 | `kt:interpretability` | `kt:mechanistic-interpretability` |
+| `kt:intrinsic-motivation` | `kt:exploration-exploitation` |
 | `kt:iso-iec-42001` | `kt:nist-ai-risk-management-framework` |
 | `kt:iterated-amplification` | `kt:scalable-oversight` |
 | `kt:john-mccarthy` | `kt:dartmouth-workshop` |
@@ -213,6 +213,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:monte-carlo-tree-search` | `kt:alphago` |
 | `kt:ms-coco` | `kt:yolo` |
 | `kt:mteb` | `kt:beir` |
+| `kt:multi-armed-bandit` | `kt:exploration-exploitation` |
 | `kt:named-entity-recognition` | `kt:conditional-random-field` |
 | `kt:nist` | `kt:nist-ai-risk-management-framework` |
 | `kt:nist-generative-ai-profile` | `kt:nist-ai-risk-management-framework` |
@@ -261,6 +262,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:text-to-image-generation` | `kt:diffusion-model` |
 | `kt:the-curious-case-of-neural-text-degeneration` | `kt:sampling-temperature-and-top-p` |
 | `kt:the-perceptron-a-probabilistic-model-for-information-storage-and-organization-in-the-brain` | `kt:perceptron` |
+| `kt:thompson-sampling` | `kt:exploration-exploitation` |
 | `kt:tim-dettmers` | `kt:qlora` |
 | `kt:training-verifiers-to-solve-math-word-problems` | `kt:gsm8k` |
 | `kt:transformers-state-of-the-art-natural-language-processing` | `kt:hugging-face-transformers` |
@@ -269,6 +271,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:uk-ai-security-institute` | `kt:ai-safety-institutes` |
 | `kt:universal-approximation-theorem` | `kt:artificial-neural-network` |
 | `kt:universal-self-consistency` | `kt:self-consistency` |
+| `kt:upper-confidence-bound` | `kt:exploration-exploitation` |
 | `kt:us-department-of-commerce` | `kt:bureau-of-industry-and-security` |
 | `kt:vanishing-gradient-problem` | `kt:long-short-term-memory` |
 | `kt:vector-space-model` | `kt:tf-idf` |

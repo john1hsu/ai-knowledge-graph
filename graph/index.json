@@ -851,6 +851,26 @@
     ]
   },
   {
+    "id": "kt:exploration-exploitation",
+    "title": "Exploration-exploitation dilemma",
+    "aliases": [
+      "exploration-exploitation tradeoff",
+      "explore-exploit tradeoff"
+    ],
+    "type": "Concept",
+    "domain": "reinforcement-learning",
+    "file": "articles/reinforcement-learning/exploration-exploitation.md",
+    "created": "2026-11-11",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://people.engr.tamu.edu/guni/csce421/files/RLbook2018.pdf",
+      "https://homes.di.unimi.it/%7Ecesabian/Pubblicazioni/ml-02.pdf",
+      "https://arxiv.org/abs/1707.02038v3",
+      "https://papers.nips.cc/paper/2016/hash/afda332245e2af431fb7b672a68b659d-Abstract.html",
+      "https://rail.eecs.berkeley.edu/deeprlcourse-fa20/static/slides/lec-13.pdf"
+    ]
+  },
+  {
     "id": "kt:generative-adversarial-network",
     "title": "Generative adversarial network",
     "aliases": [

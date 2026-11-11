@@ -5576,6 +5576,79 @@
       ]
     },
     {
+      "@id": "kt:exploration-exploitation",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Exploration-exploitation dilemma",
+      "skos:definition": "The tension faced by any agent that learns from its own actions: it must exploit the action that currently looks best to collect reward, yet also explore less-tried actions whose value is uncertain and might turn out to be higher.",
+      "kto:domain": "reinforcement-learning",
+      "dcterms:created": "2026-11-11",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Reinforcement Learning: An Introduction (2nd ed.)",
+          "dcterms:publisher": "MIT Press, 2018 (Sutton and Barto), course copy hosted by Texas A&M CSCE 421",
+          "schema:url": "https://people.engr.tamu.edu/guni/csce421/files/RLbook2018.pdf",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Finite-time Analysis of the Multiarmed Bandit Problem",
+          "dcterms:publisher": "Machine Learning 47:235-256, 2002 (Auer, Cesa-Bianchi and Fischer)",
+          "schema:url": "https://homes.di.unimi.it/%7Ecesabian/Pubblicazioni/ml-02.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "A Tutorial on Thompson Sampling",
+          "dcterms:publisher": "arXiv 1707.02038 (Russo, Van Roy, Kazerouni, Osband and Wen)",
+          "schema:url": "https://arxiv.org/abs/1707.02038v3",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Unifying Count-Based Exploration and Intrinsic Motivation",
+          "dcterms:publisher": "NeurIPS 2016 (Bellemare et al.)",
+          "schema:url": "https://papers.nips.cc/paper/2016/hash/afda332245e2af431fb7b672a68b659d-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "CS 285 Lecture 13: Exploration (Part 1)",
+          "dcterms:publisher": "UC Berkeley Deep Reinforcement Learning course (Levine), Fall 2020",
+          "schema:url": "https://rail.eecs.berkeley.edu/deeprlcourse-fa20/static/slides/lec-13.pdf",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/reinforcement-learning/exploration-exploitation.md",
+      "skos:altLabel": [
+        "exploration-exploitation tradeoff",
+        "explore-exploit tradeoff"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:reinforcement-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:multi-armed-bandit"
+        },
+        {
+          "@id": "kt:q-learning"
+        },
+        {
+          "@id": "kt:thompson-sampling"
+        },
+        {
+          "@id": "kt:upper-confidence-bound"
+        },
+        {
+          "@id": "kt:intrinsic-motivation"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:reinforcement-learning"
+        }
+      ]
+    },
+    {
       "@id": "kt:policy-gradient",
       "@type": "kto:Technique",
       "skos:prefLabel": "Policy gradient methods",

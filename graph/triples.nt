@@ -996,6 +996,27 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/big-bench> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities-of-large-language-models> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <http://www.w3.org/2000/01/rdf-schema#label> "Exploration-exploitation dilemma" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <http://www.w3.org/2004/02/skos/core#altLabel> "exploration-exploitation tradeoff" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <http://www.w3.org/2004/02/skos/core#altLabel> "explore-exploit tradeoff" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <http://www.w3.org/2004/02/skos/core#definition> "The tension faced by any agent that learns from its own actions: it must exploit the action that currently looks best to collect reward, yet also explore less-tried actions whose value is uncertain and might turn out to be higher." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Exploration-exploitation dilemma" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/intrinsic-motivation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/multi-armed-bandit> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/thompson-sampling> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/upper-confidence-bound> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "reinforcement-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://www.w3.org/2000/01/rdf-schema#label> "Generative adversarial network" .
@@ -2965,6 +2986,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s6> <https://schema.org/url> "https://proceedings.neurips.cc/paper_files/paper/2024/hash/5f1eee2509599faeeb3570a887016a64-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s1> <http://purl.org/dc/terms/publisher> "MIT Press, 2018 (Sutton and Barto), course copy hosted by Texas A&M CSCE 421" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s1> <http://purl.org/dc/terms/title> "Reinforcement Learning: An Introduction (2nd ed.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s1> <https://schema.org/url> "https://people.engr.tamu.edu/guni/csce421/files/RLbook2018.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s2> <http://purl.org/dc/terms/publisher> "Machine Learning 47:235-256, 2002 (Auer, Cesa-Bianchi and Fischer)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s2> <http://purl.org/dc/terms/title> "Finite-time Analysis of the Multiarmed Bandit Problem" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s2> <https://schema.org/url> "https://homes.di.unimi.it/%7Ecesabian/Pubblicazioni/ml-02.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s3> <http://purl.org/dc/terms/publisher> "arXiv 1707.02038 (Russo, Van Roy, Kazerouni, Osband and Wen)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s3> <http://purl.org/dc/terms/title> "A Tutorial on Thompson Sampling" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s3> <https://schema.org/url> "https://arxiv.org/abs/1707.02038v3" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s4> <http://purl.org/dc/terms/publisher> "NeurIPS 2016 (Bellemare et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s4> <http://purl.org/dc/terms/title> "Unifying Count-Based Exploration and Intrinsic Motivation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s4> <https://schema.org/url> "https://papers.nips.cc/paper/2016/hash/afda332245e2af431fb7b672a68b659d-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s5> <http://purl.org/dc/terms/publisher> "UC Berkeley Deep Reinforcement Learning course (Levine), Fall 2020" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s5> <http://purl.org/dc/terms/title> "CS 285 Lecture 13: Exploration (Part 1)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s5> <https://schema.org/url> "https://rail.eecs.berkeley.edu/deeprlcourse-fa20/static/slides/lec-13.pdf" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 2014, Advances in Neural Information Processing Systems 27 (Goodfellow et al.)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s1> <http://purl.org/dc/terms/title> "Generative Adversarial Nets" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
