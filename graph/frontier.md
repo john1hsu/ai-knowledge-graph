@@ -38,6 +38,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:overfitting` | `kt:dropout`, `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent`, `kt:generative-agents-interactive-simulacra-of-human-behavior`, `kt:voyager` |
 | `kt:regularization` | `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:conditional-random-field`, `kt:double-descent` |
+| `kt:self-attention` | `kt:flash-attention`, `kt:attention-is-all-you-need`, `kt:context-window`, `kt:transformer-architecture` |
 | `kt:adagrad` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:glove` |
 | `kt:ai-safety` | `kt:ai-alignment`, `kt:goodharts-law`, `kt:reward-hacking` |
 | `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:geoffrey-hinton`, `kt:perceptron` |
@@ -47,13 +48,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hallucination` | `kt:truthfulqa`, `kt:mechanistic-interpretability`, `kt:sycophancy` |
 | `kt:hybrid-search` | `kt:bm25`, `kt:bm25`, `kt:semantic-search` |
 | `kt:llm-as-a-judge` | `kt:ai-evaluation`, `kt:truthfulqa`, `kt:qlora` |
+| `kt:llm-inference-optimization` | `kt:batching-and-paged-attention`, `kt:flash-attention`, `kt:speculative-decoding` |
 | `kt:model-compression` | `kt:gptq`, `kt:quantization`, `kt:knowledge-distillation` |
 | `kt:model-pruning` | `kt:quantization`, `kt:quantization`, `kt:knowledge-distillation` |
 | `kt:positional-encoding` | `kt:attention-is-all-you-need`, `kt:context-window`, `kt:transformer-architecture` |
 | `kt:prompt-injection` | `kt:agent2agent-protocol`, `kt:red-teaming`, `kt:jailbreak` |
 | `kt:react-prompting` | `kt:ai-agent`, `kt:toolformer`, `kt:chain-of-thought` |
 | `kt:reranking` | `kt:beir`, `kt:bm25`, `kt:semantic-search` |
-| `kt:self-attention` | `kt:attention-is-all-you-need`, `kt:context-window`, `kt:transformer-architecture` |
 | `kt:temporal-difference-learning` | `kt:actor-critic`, `kt:q-learning`, `kt:reinforcement-learning` |
 | `kt:unsupervised-learning` | `kt:dimensionality-reduction`, `kt:machine-learning`, `kt:principal-component-analysis` |
 | `kt:vector-database` | `kt:approximate-nearest-neighbor-search`, `kt:embeddings`, `kt:semantic-search` |
@@ -75,7 +76,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:image-classification` | `kt:imagenet-and-alexnet`, `kt:an-image-is-worth-16x16-words` |
 | `kt:kv-cache` | `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
 | `kt:latent-semantic-analysis` | `kt:glove`, `kt:semantic-search` |
-| `kt:llm-inference-optimization` | `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
 | `kt:marvin-minsky` | `kt:dartmouth-workshop`, `kt:perceptron` |
 | `kt:model-cards` | `kt:algorithmic-bias-and-fairness`, `kt:omb-ai-memoranda` |
 | `kt:ms-coco` | `kt:faster-r-cnn`, `kt:yolo` |
@@ -290,6 +290,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:training-verifiers-to-solve-math-word-problems` | `kt:gsm8k` |
 | `kt:transfer-learning` | `kt:fine-tuning` |
 | `kt:transformers-state-of-the-art-natural-language-processing` | `kt:hugging-face-transformers` |
+| `kt:tri-dao` | `kt:flash-attention` |
 | `kt:truthfulqa-measuring-how-models-mimic-human-falsehoods` | `kt:truthfulqa` |
 | `kt:turing-machine` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:uk-ai-security-institute` | `kt:ai-safety-institutes` |

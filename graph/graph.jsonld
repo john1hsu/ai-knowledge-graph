@@ -4615,6 +4615,97 @@
       ]
     },
     {
+      "@id": "kt:flash-attention",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness",
+      "skos:definition": "A family of IO-aware GPU kernels that compute exact softmax attention by tiling queries, keys and values through fast on-chip SRAM with an online softmax, so the full sequence-by-sequence attention matrix is never written to slow high-bandwidth memory; it cuts attention memory to linear in sequence length and speeds up both training and inference.",
+      "kto:domain": "inference-and-optimization",
+      "dcterms:created": "2026-11-11",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness",
+          "dcterms:publisher": "NeurIPS 2022, Advances in Neural Information Processing Systems 35 (Dao, Fu, Ermon, Rudra and Ré)",
+          "schema:url": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/67d57c32e20fd0a7a302cb81d36e40d5-Abstract-Conference.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness (authors' arXiv version)",
+          "dcterms:publisher": "Dao, Fu, Ermon, Rudra and Ré, arXiv 2205.14135",
+          "schema:url": "https://arxiv.org/pdf/2205.14135",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning",
+          "dcterms:publisher": "Tri Dao, arXiv 2307.08691 (2023)",
+          "schema:url": "https://arxiv.org/abs/2307.08691",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision",
+          "dcterms:publisher": "NeurIPS 2024 (Shah, Bikshandi, Zhang, Thakkar, Ramani and Dao)",
+          "schema:url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/7ede97c3e082c6df10a8d6103a2eebd2-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "FlashAttention-4: Algorithm and Kernel Pipelining Co-Design for Asymmetric Hardware Scaling",
+          "dcterms:publisher": "Zadouri, Hoehnerbach, Shah, Liu, Thakkar and Dao, arXiv 2603.05451 (March 2026)",
+          "schema:url": "https://arxiv.org/html/2603.05451",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Attention backends (AttentionInterface)",
+          "dcterms:publisher": "Hugging Face Transformers documentation",
+          "schema:url": "https://huggingface.co/docs/transformers/main/en/attention_interface",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/inference-and-optimization/flash-attention.md",
+      "skos:altLabel": [
+        "FlashAttention",
+        "flash attention",
+        "FlashAttention-2",
+        "FlashAttention-3",
+        "FlashAttention-4"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:self-attention"
+        },
+        {
+          "@id": "kt:llm-inference-optimization"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:transformer-architecture"
+        },
+        {
+          "@id": "kt:batching-and-paged-attention"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:tri-dao"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:high-bandwidth-memory"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:context-window"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:hugging-face-transformers"
+        }
+      ]
+    },
+    {
       "@id": "kt:gptq",
       "@type": "kto:Algorithm",
       "skos:prefLabel": "GPTQ",

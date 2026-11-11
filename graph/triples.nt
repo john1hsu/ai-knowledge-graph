@@ -1126,6 +1126,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/universal-language-model-fine-tuning-for-text-classification> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> <http://www.w3.org/2000/01/rdf-schema#label> "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> <http://www.w3.org/2004/02/skos/core#altLabel> "FlashAttention" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> <http://www.w3.org/2004/02/skos/core#altLabel> "FlashAttention-2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> <http://www.w3.org/2004/02/skos/core#altLabel> "FlashAttention-3" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> <http://www.w3.org/2004/02/skos/core#altLabel> "FlashAttention-4" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> <http://www.w3.org/2004/02/skos/core#altLabel> "flash attention" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/llm-inference-optimization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/self-attention> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> <http://www.w3.org/2004/02/skos/core#definition> "A family of IO-aware GPU kernels that compute exact softmax attention by tiling queries, keys and values through fast on-chip SRAM with an online softmax, so the full sequence-by-sequence attention matrix is never written to slow high-bandwidth memory; it cuts attention memory to linear in sequence length and speeds up both training and inference." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> <http://www.w3.org/2004/02/skos/core#prefLabel> "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/batching-and-paged-attention> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/tri-dao> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "inference-and-optimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://www.w3.org/2000/01/rdf-schema#label> "Generative adversarial network" .
@@ -3425,6 +3451,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s6> <https://schema.org/url> "https://arxiv.org/abs/1612.00796" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 2022, Advances in Neural Information Processing Systems 35 (Dao, Fu, Ermon, Rudra and Ré)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s1> <http://purl.org/dc/terms/title> "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s1> <https://schema.org/url> "https://proceedings.neurips.cc/paper_files/paper/2022/hash/67d57c32e20fd0a7a302cb81d36e40d5-Abstract-Conference.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s2> <http://purl.org/dc/terms/publisher> "Dao, Fu, Ermon, Rudra and Ré, arXiv 2205.14135" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s2> <http://purl.org/dc/terms/title> "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness (authors' arXiv version)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s2> <https://schema.org/url> "https://arxiv.org/pdf/2205.14135" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s3> <http://purl.org/dc/terms/publisher> "Tri Dao, arXiv 2307.08691 (2023)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s3> <http://purl.org/dc/terms/title> "FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s3> <https://schema.org/url> "https://arxiv.org/abs/2307.08691" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s4> <http://purl.org/dc/terms/publisher> "NeurIPS 2024 (Shah, Bikshandi, Zhang, Thakkar, Ramani and Dao)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s4> <http://purl.org/dc/terms/title> "FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s4> <https://schema.org/url> "https://proceedings.neurips.cc/paper_files/paper/2024/hash/7ede97c3e082c6df10a8d6103a2eebd2-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s5> <http://purl.org/dc/terms/publisher> "Zadouri, Hoehnerbach, Shah, Liu, Thakkar and Dao, arXiv 2603.05451 (March 2026)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s5> <http://purl.org/dc/terms/title> "FlashAttention-4: Algorithm and Kernel Pipelining Co-Design for Asymmetric Hardware Scaling" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s5> <https://schema.org/url> "https://arxiv.org/html/2603.05451" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s6> <http://purl.org/dc/terms/publisher> "Hugging Face Transformers documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s6> <http://purl.org/dc/terms/title> "Attention backends (AttentionInterface)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s6> <https://schema.org/url> "https://huggingface.co/docs/transformers/main/en/attention_interface" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 2014, Advances in Neural Information Processing Systems 27 (Goodfellow et al.)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s1> <http://purl.org/dc/terms/title> "Generative Adversarial Nets" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
