@@ -1372,6 +1372,103 @@
       ]
     },
     {
+      "@id": "kt:high-bandwidth-memory",
+      "@type": "kto:Hardware",
+      "skos:prefLabel": "High-bandwidth memory",
+      "skos:definition": "A JEDEC-standardized form of DRAM in which several memory dies are stacked vertically, joined by through-silicon vias and placed beside the processor in the same package, giving a very wide, short interface; it is the main memory of modern AI accelerators and often the limiting resource for LLM serving.",
+      "kto:domain": "ai-infrastructure-and-mlops",
+      "dcterms:created": "2026-11-11",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "JEDEC Updates Groundbreaking High Bandwidth Memory (HBM) Standard",
+          "dcterms:publisher": "JEDEC Solid State Technology Association, press release, 17 Dec 2018",
+          "schema:url": "https://www.jedec.org/news/pressreleases/jedec-updates-groundbreaking-high-bandwidth-memory-hbm-standard-0",
+          "kto:sourceType": "standards-body"
+        },
+        {
+          "dcterms:title": "JEDEC and Industry Leaders Collaborate to Release JESD270-4 HBM4 Standard Advancing Bandwidth, Efficiency, and Capacity for AI and HPC",
+          "dcterms:publisher": "JEDEC, press release via Business Wire, 16 Apr 2025",
+          "schema:url": "https://businesswire.com/news/home/20250416843598/en/JEDEC-and-Industry-Leaders-Collaborate-to-Release-JESD270-4-HBM4-Standard-Advancing-Bandwidth-Efficiency-and-Capacity-for-AI-and-HPC",
+          "kto:sourceType": "standards-body"
+        },
+        {
+          "dcterms:title": "AMD Showcases Graphics, Energy Efficient Computing and Die-Stacking Innovation at Prestigious Hot Chips 27 Conference",
+          "dcterms:publisher": "AMD investor relations, press release, 24 Aug 2015",
+          "schema:url": "https://ir.amd.com/news-events/press-releases/detail/629/amd-showcases-graphics-energy-efficient-computing-and-die-stacking-innovation-at-prestigious-hot-chips-27-conference",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "NVIDIA Hopper Architecture In-Depth",
+          "dcterms:publisher": "NVIDIA Technical Blog, 22 Mar 2022",
+          "schema:url": "https://developer.nvidia.com/blog/nvidia-hopper-architecture-in-depth/",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "AI and Memory Wall",
+          "dcterms:publisher": "Gholami, Yao, Kim, Hooper, Mahoney, Keutzer (UC Berkeley), authors' arXiv version 2403.14123, Mar 2024",
+          "schema:url": "https://arxiv.org/abs/2403.14123",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/ai-infrastructure-and-mlops/high-bandwidth-memory.md",
+      "skos:altLabel": [
+        "HBM",
+        "High Bandwidth Memory",
+        "stacked DRAM"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-hardware"
+        },
+        {
+          "@id": "kt:dram"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:gpu-computing"
+        },
+        {
+          "@id": "kt:tpu"
+        },
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:batching-and-paged-attention"
+        },
+        {
+          "@id": "kt:quantization"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:ai-accelerator"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:through-silicon-via"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:jedec"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:gddr-memory"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:memory-wall"
+        }
+      ]
+    },
+    {
       "@id": "kt:hugging-face-transformers",
       "@type": "kto:Tool",
       "skos:prefLabel": "Hugging Face Transformers",

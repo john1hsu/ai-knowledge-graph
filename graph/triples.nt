@@ -1213,6 +1213,33 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ml-foundations" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Hardware> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> <http://www.w3.org/2000/01/rdf-schema#label> "High-bandwidth memory" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> <http://www.w3.org/2004/02/skos/core#altLabel> "HBM" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> <http://www.w3.org/2004/02/skos/core#altLabel> "High Bandwidth Memory" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> <http://www.w3.org/2004/02/skos/core#altLabel> "stacked DRAM" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-hardware> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/dram> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> <http://www.w3.org/2004/02/skos/core#definition> "A JEDEC-standardized form of DRAM in which several memory dies are stacked vertically, joined by through-silicon vias and placed beside the processor in the same package, giving a very wide, short interface; it is the main memory of modern AI accelerators and often the limiting resource for LLM serving." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> <http://www.w3.org/2004/02/skos/core#prefLabel> "High-bandwidth memory" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/batching-and-paged-attention> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/tpu> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/high-bandwidth-memory/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/high-bandwidth-memory/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/high-bandwidth-memory/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/high-bandwidth-memory/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/high-bandwidth-memory/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/gddr-memory> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/through-silicon-via> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/jedec> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-infrastructure-and-mlops" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> <https://github.com/john1hsu/ai-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/ai-knowledge-graph/id/memory-wall> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> <https://github.com/john1hsu/ai-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Tool> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <http://www.w3.org/2000/01/rdf-schema#label> "Hugging Face Transformers" .
@@ -3358,6 +3385,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s5> <https://schema.org/url> "https://home.cs.colorado.edu/~mozer/Teaching/syllabi/6622/papers/LaffertyMcCallumPereira2001.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/high-bandwidth-memory/s1> <http://purl.org/dc/terms/publisher> "JEDEC Solid State Technology Association, press release, 17 Dec 2018" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/high-bandwidth-memory/s1> <http://purl.org/dc/terms/title> "JEDEC Updates Groundbreaking High Bandwidth Memory (HBM) Standard" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/high-bandwidth-memory/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/high-bandwidth-memory/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "standards-body" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/high-bandwidth-memory/s1> <https://schema.org/url> "https://www.jedec.org/news/pressreleases/jedec-updates-groundbreaking-high-bandwidth-memory-hbm-standard-0" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/high-bandwidth-memory/s2> <http://purl.org/dc/terms/publisher> "JEDEC, press release via Business Wire, 16 Apr 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/high-bandwidth-memory/s2> <http://purl.org/dc/terms/title> "JEDEC and Industry Leaders Collaborate to Release JESD270-4 HBM4 Standard Advancing Bandwidth, Efficiency, and Capacity for AI and HPC" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/high-bandwidth-memory/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/high-bandwidth-memory/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "standards-body" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/high-bandwidth-memory/s2> <https://schema.org/url> "https://businesswire.com/news/home/20250416843598/en/JEDEC-and-Industry-Leaders-Collaborate-to-Release-JESD270-4-HBM4-Standard-Advancing-Bandwidth-Efficiency-and-Capacity-for-AI-and-HPC" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/high-bandwidth-memory/s3> <http://purl.org/dc/terms/publisher> "AMD investor relations, press release, 24 Aug 2015" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/high-bandwidth-memory/s3> <http://purl.org/dc/terms/title> "AMD Showcases Graphics, Energy Efficient Computing and Die-Stacking Innovation at Prestigious Hot Chips 27 Conference" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/high-bandwidth-memory/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/high-bandwidth-memory/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/high-bandwidth-memory/s3> <https://schema.org/url> "https://ir.amd.com/news-events/press-releases/detail/629/amd-showcases-graphics-energy-efficient-computing-and-die-stacking-innovation-at-prestigious-hot-chips-27-conference" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/high-bandwidth-memory/s4> <http://purl.org/dc/terms/publisher> "NVIDIA Technical Blog, 22 Mar 2022" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/high-bandwidth-memory/s4> <http://purl.org/dc/terms/title> "NVIDIA Hopper Architecture In-Depth" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/high-bandwidth-memory/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/high-bandwidth-memory/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/high-bandwidth-memory/s4> <https://schema.org/url> "https://developer.nvidia.com/blog/nvidia-hopper-architecture-in-depth/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/high-bandwidth-memory/s5> <http://purl.org/dc/terms/publisher> "Gholami, Yao, Kim, Hooper, Mahoney, Keutzer (UC Berkeley), authors' arXiv version 2403.14123, Mar 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/high-bandwidth-memory/s5> <http://purl.org/dc/terms/title> "AI and Memory Wall" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/high-bandwidth-memory/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/high-bandwidth-memory/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/high-bandwidth-memory/s5> <https://schema.org/url> "https://arxiv.org/abs/2403.14123" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s1> <http://purl.org/dc/terms/publisher> "Proceedings of EMNLP 2020, System Demonstrations, pp. 38–45 (Wolf et al., Hugging Face)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s1> <http://purl.org/dc/terms/title> "Transformers: State-of-the-Art Natural Language Processing" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

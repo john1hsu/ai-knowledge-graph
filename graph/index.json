@@ -1041,6 +1041,27 @@
     ]
   },
   {
+    "id": "kt:high-bandwidth-memory",
+    "title": "High-bandwidth memory",
+    "aliases": [
+      "HBM",
+      "High Bandwidth Memory",
+      "stacked DRAM"
+    ],
+    "type": "Hardware",
+    "domain": "ai-infrastructure-and-mlops",
+    "file": "articles/ai-infrastructure-and-mlops/high-bandwidth-memory.md",
+    "created": "2026-11-11",
+    "maturity": "established",
+    "source_urls": [
+      "https://www.jedec.org/news/pressreleases/jedec-updates-groundbreaking-high-bandwidth-memory-hbm-standard-0",
+      "https://businesswire.com/news/home/20250416843598/en/JEDEC-and-Industry-Leaders-Collaborate-to-Release-JESD270-4-HBM4-Standard-Advancing-Bandwidth-Efficiency-and-Capacity-for-AI-and-HPC",
+      "https://ir.amd.com/news-events/press-releases/detail/629/amd-showcases-graphics-energy-efficient-computing-and-die-stacking-innovation-at-prestigious-hot-chips-27-conference",
+      "https://developer.nvidia.com/blog/nvidia-hopper-architecture-in-depth/",
+      "https://arxiv.org/abs/2403.14123"
+    ]
+  },
+  {
     "id": "kt:hugging-face-transformers",
     "title": "Hugging Face Transformers",
     "aliases": [
