@@ -830,6 +830,27 @@
     ]
   },
   {
+    "id": "kt:direct-preference-optimization",
+    "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+    "aliases": [
+      "DPO",
+      "direct preference optimisation"
+    ],
+    "type": "Algorithm",
+    "domain": "training-and-adaptation",
+    "file": "articles/training-and-adaptation/direct-preference-optimization.md",
+    "created": "2026-11-11",
+    "maturity": "established",
+    "source_urls": [
+      "https://proceedings.neurips.cc/paper_files/paper/2023/hash/a85b405ed65c6477a4fe8302b5e06ce7-Abstract.html",
+      "https://arxiv.org/html/2305.18290v2",
+      "https://proceedings.mlr.press/v238/gheshlaghi-azar24a.html",
+      "https://arxiv.org/html/2404.10719v3",
+      "https://huggingface.co/docs/trl/en/dpo_trainer",
+      "https://arxiv.org/abs/2310.16944"
+    ]
+  },
+  {
     "id": "kt:double-descent",
     "title": "Double descent",
     "aliases": [

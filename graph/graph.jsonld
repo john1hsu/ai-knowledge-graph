@@ -8247,6 +8247,97 @@
       ]
     },
     {
+      "@id": "kt:direct-preference-optimization",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+      "skos:definition": "A preference-alignment algorithm that fine-tunes a language model directly on pairs of preferred and rejected responses with a simple classification-style loss, solving the KL-constrained objective of RLHF without fitting a separate reward model or running reinforcement learning.",
+      "kto:domain": "training-and-adaptation",
+      "dcterms:created": "2026-11-11",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+          "dcterms:publisher": "NeurIPS 2023, Advances in Neural Information Processing Systems 36, pp. 53728–53741 (Rafailov, Sharma, Mitchell, Manning, Ermon and Finn)",
+          "schema:url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/a85b405ed65c6477a4fe8302b5e06ce7-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model (arXiv v2, HTML)",
+          "dcterms:publisher": "Rafailov et al., arXiv 2305.18290",
+          "schema:url": "https://arxiv.org/html/2305.18290v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "A General Theoretical Paradigm to Understand Learning from Human Preferences",
+          "dcterms:publisher": "AISTATS 2024, PMLR 238:4447–4455 (Gheshlaghi Azar, Guo, Piot, Munos, Rowland, Valko and Calandriello)",
+          "schema:url": "https://proceedings.mlr.press/v238/gheshlaghi-azar24a.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study",
+          "dcterms:publisher": "Xu et al., arXiv 2404.10719 (ICML 2024)",
+          "schema:url": "https://arxiv.org/html/2404.10719v3",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "DPO Trainer",
+          "dcterms:publisher": "Hugging Face TRL documentation",
+          "schema:url": "https://huggingface.co/docs/trl/en/dpo_trainer",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Zephyr: Direct Distillation of LM Alignment",
+          "dcterms:publisher": "Tunstall et al., arXiv 2310.16944",
+          "schema:url": "https://arxiv.org/abs/2310.16944",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/training-and-adaptation/direct-preference-optimization.md",
+      "skos:altLabel": [
+        "DPO",
+        "direct preference optimisation"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:fine-tuning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:ai-alignment"
+        },
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:reward-hacking"
+        },
+        {
+          "@id": "kt:synthetic-data"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:rlhf"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:proximal-policy-optimization"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:bradley-terry-model"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:hugging-face-trl"
+        }
+      ]
+    },
+    {
       "@id": "kt:fine-tuning",
       "@type": "kto:Technique",
       "skos:prefLabel": "Fine-tuning",

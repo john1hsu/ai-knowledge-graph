@@ -970,6 +970,30 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/dimensionality-reduction> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/dimensionality-reduction> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/dimensionality-reduction> <https://github.com/john1hsu/ai-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/ai-knowledge-graph/id/curse-of-dimensionality> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/direct-preference-optimization> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/direct-preference-optimization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/direct-preference-optimization> <http://www.w3.org/2000/01/rdf-schema#label> "Direct Preference Optimization: Your Language Model is Secretly a Reward Model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/direct-preference-optimization> <http://www.w3.org/2004/02/skos/core#altLabel> "DPO" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/direct-preference-optimization> <http://www.w3.org/2004/02/skos/core#altLabel> "direct preference optimisation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/direct-preference-optimization> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/direct-preference-optimization> <http://www.w3.org/2004/02/skos/core#definition> "A preference-alignment algorithm that fine-tunes a language model directly on pairs of preferred and rejected responses with a simple classification-style loss, solving the KL-constrained objective of RLHF without fitting a separate reward model or running reinforcement learning." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/direct-preference-optimization> <http://www.w3.org/2004/02/skos/core#prefLabel> "Direct Preference Optimization: Your Language Model is Secretly a Reward Model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/direct-preference-optimization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/direct-preference-optimization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/direct-preference-optimization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/direct-preference-optimization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/direct-preference-optimization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/direct-preference-optimization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/direct-preference-optimization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/direct-preference-optimization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/direct-preference-optimization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/direct-preference-optimization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/direct-preference-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/direct-preference-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/direct-preference-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/bradley-terry-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/direct-preference-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "training-and-adaptation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/direct-preference-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/direct-preference-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <http://www.w3.org/2000/01/rdf-schema#label> "Double descent" .
@@ -3333,6 +3357,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/dimensionality-reduction/s6> <https://schema.org/url> "https://scikit-learn.org/stable/_sources/modules/manifold.rst.txt" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 2023, Advances in Neural Information Processing Systems 36, pp. 53728–53741 (Rafailov, Sharma, Mitchell, Manning, Ermon and Finn)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s1> <http://purl.org/dc/terms/title> "Direct Preference Optimization: Your Language Model is Secretly a Reward Model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s1> <https://schema.org/url> "https://proceedings.neurips.cc/paper_files/paper/2023/hash/a85b405ed65c6477a4fe8302b5e06ce7-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s2> <http://purl.org/dc/terms/publisher> "Rafailov et al., arXiv 2305.18290" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s2> <http://purl.org/dc/terms/title> "Direct Preference Optimization: Your Language Model is Secretly a Reward Model (arXiv v2, HTML)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s2> <https://schema.org/url> "https://arxiv.org/html/2305.18290v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s3> <http://purl.org/dc/terms/publisher> "AISTATS 2024, PMLR 238:4447–4455 (Gheshlaghi Azar, Guo, Piot, Munos, Rowland, Valko and Calandriello)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s3> <http://purl.org/dc/terms/title> "A General Theoretical Paradigm to Understand Learning from Human Preferences" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s3> <https://schema.org/url> "https://proceedings.mlr.press/v238/gheshlaghi-azar24a.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s4> <http://purl.org/dc/terms/publisher> "Xu et al., arXiv 2404.10719 (ICML 2024)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s4> <http://purl.org/dc/terms/title> "Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s4> <https://schema.org/url> "https://arxiv.org/html/2404.10719v3" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s5> <http://purl.org/dc/terms/publisher> "Hugging Face TRL documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s5> <http://purl.org/dc/terms/title> "DPO Trainer" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s5> <https://schema.org/url> "https://huggingface.co/docs/trl/en/dpo_trainer" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s6> <http://purl.org/dc/terms/publisher> "Tunstall et al., arXiv 2310.16944" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s6> <http://purl.org/dc/terms/title> "Zephyr: Direct Distillation of LM Alignment" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s6> <https://schema.org/url> "https://arxiv.org/abs/2310.16944" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s1> <http://purl.org/dc/terms/publisher> "arXiv:1812.11118 (Belkin, Hsu, Ma, Mandal), 2018; v2 2019; published in PNAS, doi 10.1073/pnas.1903070116" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s1> <http://purl.org/dc/terms/title> "Reconciling modern machine learning practice and the bias-variance trade-off" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
