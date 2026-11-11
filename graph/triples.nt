@@ -1043,6 +1043,33 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "reinforcement-learning" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <http://www.w3.org/2000/01/rdf-schema#label> "Faster R-CNN" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <http://www.w3.org/2004/02/skos/core#altLabel> "Faster RCNN" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <http://www.w3.org/2004/02/skos/core#altLabel> "Faster Region-based Convolutional Neural Network" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/object-detection> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/r-cnn> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <http://www.w3.org/2004/02/skos/core#definition> "A two-stage object detector, introduced by Ren, He, Girshick and Sun at NIPS 2015, that adds a Region Proposal Network sharing convolutional features with a Fast R-CNN detection head, making region proposals nearly free and letting the whole detector run at about 5 frames per second on a GPU." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <http://www.w3.org/2004/02/skos/core#prefLabel> "Faster R-CNN" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/yolo> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/yolo> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "computer-vision-and-multimodal" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <https://github.com/john1hsu/ai-knowledge-graph/ontology#extends> <https://github.com/john1hsu/ai-knowledge-graph/id/fast-r-cnn> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <https://github.com/john1hsu/ai-knowledge-graph/ontology#followedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/mask-r-cnn> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <http://www.w3.org/2000/01/rdf-schema#label> "Fine-tuning" .
@@ -3231,6 +3258,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s5> <https://schema.org/url> "https://rail.eecs.berkeley.edu/deeprlcourse-fa20/static/slides/lec-13.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s1> <http://purl.org/dc/terms/publisher> "Ren, He, Girshick and Sun, Advances in Neural Information Processing Systems 28 (NIPS 2015)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s1> <http://purl.org/dc/terms/title> "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s1> <https://schema.org/url> "https://papers.nips.cc/paper/2015/hash/14bfa6bb14875e45bba028a21ed38046-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s2> <http://purl.org/dc/terms/publisher> "Ren, He, Girshick and Sun (authors' arXiv version, 1506.01497v3)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s2> <http://purl.org/dc/terms/title> "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (arXiv v3)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s2> <https://schema.org/url> "https://arxiv.org/pdf/1506.01497v3" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s3> <http://purl.org/dc/terms/publisher> "Ross Girshick, ICCV 2015 (CVF Open Access)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s3> <http://purl.org/dc/terms/title> "Fast R-CNN" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s3> <https://schema.org/url> "https://openaccess.thecvf.com/content_iccv_2015/html/Girshick_Fast_R-CNN_ICCV_2015_paper.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s4> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (d2l.ai)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s4> <http://purl.org/dc/terms/title> "14.8. Region-based CNNs (R-CNNs)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s4> <https://schema.org/url> "https://d2l.ai/chapter_computer-vision/rcnn.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s5> <http://purl.org/dc/terms/publisher> "He, Gkioxari, Dollár and Girshick, ICCV 2017 (CVF Open Access)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s5> <http://purl.org/dc/terms/title> "Mask R-CNN" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s5> <https://schema.org/url> "https://openaccess.thecvf.com/content_iccv_2017/html/He_Mask_R-CNN_ICCV_2017_paper.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s6> <http://purl.org/dc/terms/publisher> "PyTorch (torchvision documentation)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s6> <http://purl.org/dc/terms/title> "torchvision.models.detection.fasterrcnn_resnet50_fpn" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s6> <https://schema.org/url> "https://docs.pytorch.org/vision/stable/models/generated/torchvision.models.detection.fasterrcnn_resnet50_fpn.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 2014, Advances in Neural Information Processing Systems 27 (Yosinski, Clune, Bengio and Lipson)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s1> <http://purl.org/dc/terms/title> "How transferable are features in deep neural networks?" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -5016,6 +5073,7 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <http://www.w3.org/2004/02/skos/core#prefLabel> "YOLO" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> .

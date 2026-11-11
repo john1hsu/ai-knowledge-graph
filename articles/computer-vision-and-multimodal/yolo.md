@@ -10,7 +10,7 @@ summary: >-
   the whole image predicts all bounding boxes and class probabilities at once.
 maturity: established
 broader: [kt:object-detection, kt:convolutional-neural-network]
-related: [kt:deep-learning, kt:imagenet-and-alexnet, kt:quantization, kt:vision-transformer, kt:batch-normalization]
+related: [kt:deep-learning, kt:imagenet-and-alexnet, kt:quantization, kt:vision-transformer, kt:batch-normalization, kt:faster-r-cnn]
 relations:
   - {predicate: introducedIn, object: kt:you-only-look-once-unified-real-time-object-detection}
   - {predicate: createdBy, object: kt:joseph-redmon}

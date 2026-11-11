@@ -894,6 +894,27 @@
     ]
   },
   {
+    "id": "kt:faster-r-cnn",
+    "title": "Faster R-CNN",
+    "aliases": [
+      "Faster RCNN",
+      "Faster Region-based Convolutional Neural Network"
+    ],
+    "type": "Architecture",
+    "domain": "computer-vision-and-multimodal",
+    "file": "articles/computer-vision-and-multimodal/faster-r-cnn.md",
+    "created": "2026-11-11",
+    "maturity": "established",
+    "source_urls": [
+      "https://papers.nips.cc/paper/2015/hash/14bfa6bb14875e45bba028a21ed38046-Abstract.html",
+      "https://arxiv.org/pdf/1506.01497v3",
+      "https://openaccess.thecvf.com/content_iccv_2015/html/Girshick_Fast_R-CNN_ICCV_2015_paper.html",
+      "https://d2l.ai/chapter_computer-vision/rcnn.html",
+      "https://openaccess.thecvf.com/content_iccv_2017/html/He_Mask_R-CNN_ICCV_2017_paper.html",
+      "https://docs.pytorch.org/vision/stable/models/generated/torchvision.models.detection.fasterrcnn_resnet50_fpn.html"
+    ]
+  },
+  {
     "id": "kt:fine-tuning",
     "title": "Fine-tuning",
     "aliases": [

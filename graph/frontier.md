@@ -10,12 +10,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:in-context-learning` | `kt:chain-of-thought`, `kt:prompt-sensitivity`, `kt:jailbreak`, `kt:mechanistic-interpretability`, `kt:fine-tuning`, `kt:context-window`, `kt:context-window`, `kt:emergent-abilities`, `kt:large-language-model` |
 | `kt:retrieval-augmented-generation` | `kt:toolformer`, `kt:beir`, `kt:approximate-nearest-neighbor-search`, `kt:bm25`, `kt:embeddings`, `kt:embeddings`, `kt:semantic-search`, `kt:semantic-search`, `kt:context-window` |
 | `kt:ai-governance` | `kt:ai-chip-export-controls`, `kt:ai-safety-institutes`, `kt:algorithmic-bias-and-fairness`, `kt:bureau-of-industry-and-security`, `kt:compute-governance`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda`, `kt:ai-alignment` |
+| `kt:convolutional-neural-network` | `kt:imagenet-and-alexnet`, `kt:an-image-is-worth-16x16-words`, `kt:faster-r-cnn`, `kt:yolo`, `kt:artificial-neural-network`, `kt:deep-learning`, `kt:alphago` |
 | `kt:gpu-computing` | `kt:imagenet-and-alexnet`, `kt:cuda`, `kt:data-parallelism`, `kt:high-bandwidth-memory`, `kt:nvidia`, `kt:tpu`, `kt:ai-chip-export-controls` |
 | `kt:markov-decision-process` | `kt:hidden-markov-model`, `kt:actor-critic`, `kt:policy-gradient`, `kt:q-learning`, `kt:q-learning`, `kt:reinforcement-learning`, `kt:reinforcement-learning` |
 | `kt:pretraining` | `kt:test-time-compute`, `kt:fine-tuning`, `kt:synthetic-data`, `kt:emergent-abilities`, `kt:large-language-model`, `kt:scaling-laws`, `kt:scaling-laws` |
+| `kt:pytorch` | `kt:data-parallelism`, `kt:hugging-face-transformers`, `kt:faster-r-cnn`, `kt:adam-optimizer`, `kt:backpropagation`, `kt:dropout`, `kt:long-short-term-memory` |
 | `kt:recurrent-neural-network` | `kt:automatic-speech-recognition`, `kt:deep-learning`, `kt:long-short-term-memory`, `kt:conditional-random-field`, `kt:hidden-markov-model`, `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
-| `kt:convolutional-neural-network` | `kt:imagenet-and-alexnet`, `kt:an-image-is-worth-16x16-words`, `kt:yolo`, `kt:artificial-neural-network`, `kt:deep-learning`, `kt:alphago` |
-| `kt:pytorch` | `kt:data-parallelism`, `kt:hugging-face-transformers`, `kt:adam-optimizer`, `kt:backpropagation`, `kt:dropout`, `kt:long-short-term-memory` |
 | `kt:supervised-learning` | `kt:perceptron`, `kt:bias-variance-tradeoff`, `kt:conditional-random-field`, `kt:machine-learning`, `kt:alphago`, `kt:reinforcement-learning` |
 | `kt:benchmark-contamination` | `kt:ai-evaluation`, `kt:commonsenseqa`, `kt:gsm8k`, `kt:truthfulqa`, `kt:synthetic-data` |
 | `kt:distributed-training` | `kt:cuda`, `kt:data-parallelism`, `kt:mlops`, `kt:nvidia`, `kt:tpu` |
@@ -75,7 +75,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:llm-inference-optimization` | `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
 | `kt:marvin-minsky` | `kt:dartmouth-workshop`, `kt:perceptron` |
 | `kt:model-cards` | `kt:algorithmic-bias-and-fairness`, `kt:omb-ai-memoranda` |
+| `kt:ms-coco` | `kt:faster-r-cnn`, `kt:yolo` |
 | `kt:named-entity-recognition` | `kt:conditional-random-field`, `kt:glove` |
+| `kt:object-detection` | `kt:faster-r-cnn`, `kt:yolo` |
 | `kt:openai` | `kt:clip`, `kt:gsm8k` |
 | `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism` |
 | `kt:parameter-efficient-fine-tuning` | `kt:fine-tuning`, `kt:qlora` |
@@ -83,6 +85,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:post-training-quantization` | `kt:awq`, `kt:gptq` |
 | `kt:probabilistic-relevance-framework` | `kt:bm25`, `kt:bm25` |
 | `kt:proximal-policy-optimization` | `kt:policy-gradient`, `kt:rlhf` |
+| `kt:r-cnn` | `kt:faster-r-cnn`, `kt:yolo` |
 | `kt:rmsprop` | `kt:adam-optimizer`, `kt:adam-optimizer` |
 | `kt:self-attention` | `kt:attention-is-all-you-need`, `kt:context-window` |
 | `kt:self-refine` | `kt:agentic-workflow`, `kt:voyager` |
@@ -155,6 +158,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fairness-accountability-and-transparency` | `kt:algorithmic-bias-and-fairness` |
 | `kt:faiss` | `kt:approximate-nearest-neighbor-search` |
 | `kt:fast-inference-from-transformers-via-speculative-decoding` | `kt:speculative-decoding` |
+| `kt:fast-r-cnn` | `kt:faster-r-cnn` |
+| `kt:faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks` | `kt:faster-r-cnn` |
 | `kt:fasttext` | `kt:word2vec` |
 | `kt:feature-store` | `kt:mlops` |
 | `kt:foundation-model` | `kt:large-language-model` |
@@ -206,6 +211,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:long-short-term-memory-1997` | `kt:long-short-term-memory` |
 | `kt:lora` | `kt:qlora` |
 | `kt:markov-chain` | `kt:hidden-markov-model` |
+| `kt:mask-r-cnn` | `kt:faster-r-cnn` |
 | `kt:mastering-the-game-of-go-with-deep-neural-networks-and-tree-search` | `kt:alphago` |
 | `kt:maximum-entropy-markov-model` | `kt:conditional-random-field` |
 | `kt:memory-wall` | `kt:high-bandwidth-memory` |
@@ -220,12 +226,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:model-registry` | `kt:mlops` |
 | `kt:monte-carlo-dropout` | `kt:dropout` |
 | `kt:monte-carlo-tree-search` | `kt:alphago` |
-| `kt:ms-coco` | `kt:yolo` |
 | `kt:mteb` | `kt:beir` |
 | `kt:multi-armed-bandit` | `kt:exploration-exploitation` |
 | `kt:nist` | `kt:nist-ai-risk-management-framework` |
 | `kt:nist-generative-ai-profile` | `kt:nist-ai-risk-management-framework` |
-| `kt:object-detection` | `kt:yolo` |
 | `kt:office-of-management-and-budget` | `kt:omb-ai-memoranda` |
 | `kt:optimal-brain-compression` | `kt:gptq` |
 | `kt:orca-serving-system` | `kt:batching-and-paged-attention` |
@@ -238,7 +242,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:program-induction-by-rationale-generation` | `kt:scratchpad` |
 | `kt:qlora-efficient-finetuning-of-quantized-llms` | `kt:qlora` |
 | `kt:quiet-star` | `kt:star-self-taught-reasoner` |
-| `kt:r-cnn` | `kt:yolo` |
 | `kt:reconciling-modern-machine-learning-practice-and-the-bias-variance-trade-off` | `kt:double-descent` |
 | `kt:reflexion` | `kt:self-refine-iterative-refinement-with-self-feedback` |
 | `kt:reinforce-algorithm` | `kt:policy-gradient` |

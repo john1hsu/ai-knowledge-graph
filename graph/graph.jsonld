@@ -2178,6 +2178,110 @@
       ]
     },
     {
+      "@id": "kt:faster-r-cnn",
+      "@type": "kto:Architecture",
+      "skos:prefLabel": "Faster R-CNN",
+      "skos:definition": "A two-stage object detector, introduced by Ren, He, Girshick and Sun at NIPS 2015, that adds a Region Proposal Network sharing convolutional features with a Fast R-CNN detection head, making region proposals nearly free and letting the whole detector run at about 5 frames per second on a GPU.",
+      "kto:domain": "computer-vision-and-multimodal",
+      "dcterms:created": "2026-11-11",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks",
+          "dcterms:publisher": "Ren, He, Girshick and Sun, Advances in Neural Information Processing Systems 28 (NIPS 2015)",
+          "schema:url": "https://papers.nips.cc/paper/2015/hash/14bfa6bb14875e45bba028a21ed38046-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (arXiv v3)",
+          "dcterms:publisher": "Ren, He, Girshick and Sun (authors' arXiv version, 1506.01497v3)",
+          "schema:url": "https://arxiv.org/pdf/1506.01497v3",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Fast R-CNN",
+          "dcterms:publisher": "Ross Girshick, ICCV 2015 (CVF Open Access)",
+          "schema:url": "https://openaccess.thecvf.com/content_iccv_2015/html/Girshick_Fast_R-CNN_ICCV_2015_paper.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "14.8. Region-based CNNs (R-CNNs)",
+          "dcterms:publisher": "Dive into Deep Learning (d2l.ai)",
+          "schema:url": "https://d2l.ai/chapter_computer-vision/rcnn.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Mask R-CNN",
+          "dcterms:publisher": "He, Gkioxari, Dollár and Girshick, ICCV 2017 (CVF Open Access)",
+          "schema:url": "https://openaccess.thecvf.com/content_iccv_2017/html/He_Mask_R-CNN_ICCV_2017_paper.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "torchvision.models.detection.fasterrcnn_resnet50_fpn",
+          "dcterms:publisher": "PyTorch (torchvision documentation)",
+          "schema:url": "https://docs.pytorch.org/vision/stable/models/generated/torchvision.models.detection.fasterrcnn_resnet50_fpn.html",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/computer-vision-and-multimodal/faster-r-cnn.md",
+      "skos:altLabel": [
+        "Faster RCNN",
+        "Faster Region-based Convolutional Neural Network"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:object-detection"
+        },
+        {
+          "@id": "kt:r-cnn"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:yolo"
+        },
+        {
+          "@id": "kt:convolutional-neural-network"
+        },
+        {
+          "@id": "kt:imagenet-and-alexnet"
+        },
+        {
+          "@id": "kt:deep-learning"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks"
+        }
+      ],
+      "kto:extends": [
+        {
+          "@id": "kt:fast-r-cnn"
+        }
+      ],
+      "kto:followedBy": [
+        {
+          "@id": "kt:mask-r-cnn"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:yolo"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:ms-coco"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:pytorch"
+        }
+      ]
+    },
+    {
       "@id": "kt:generative-adversarial-network",
       "@type": "kto:Architecture",
       "skos:prefLabel": "Generative adversarial network",
@@ -2329,6 +2433,9 @@
         },
         {
           "@id": "kt:batch-normalization"
+        },
+        {
+          "@id": "kt:faster-r-cnn"
         }
       ],
       "kto:introducedIn": [
