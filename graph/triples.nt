@@ -1017,6 +1017,35 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "reinforcement-learning" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <http://www.w3.org/2000/01/rdf-schema#label> "Fine-tuning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <http://www.w3.org/2004/02/skos/core#altLabel> "finetuning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <http://www.w3.org/2004/02/skos/core#altLabel> "full fine-tuning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <http://www.w3.org/2004/02/skos/core#altLabel> "model fine-tuning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/transfer-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <http://www.w3.org/2004/02/skos/core#definition> "A transfer-learning technique that adapts a pretrained neural network to a new task or domain by continuing to train some or all of its weights on a smaller, task-specific dataset, instead of training a model from random initialization." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fine-tuning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/qlora> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#causes> <https://github.com/john1hsu/ai-knowledge-graph/id/catastrophic-forgetting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/linear-probing> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "training-and-adaptation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/universal-language-model-fine-tuning-for-text-classification> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://www.w3.org/2000/01/rdf-schema#label> "Generative adversarial network" .
@@ -3011,6 +3040,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s5> <https://schema.org/url> "https://rail.eecs.berkeley.edu/deeprlcourse-fa20/static/slides/lec-13.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 2014, Advances in Neural Information Processing Systems 27 (Yosinski, Clune, Bengio and Lipson)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s1> <http://purl.org/dc/terms/title> "How transferable are features in deep neural networks?" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s1> <https://schema.org/url> "https://proceedings.nips.cc/paper_files/paper/2014/file/375c71349b295fbe2dcdca9206f20a06-Paper.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s2> <http://purl.org/dc/terms/publisher> "ACL 2018, Proceedings of the 56th Annual Meeting of the ACL, pp. 328–339 (Howard and Ruder)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s2> <http://purl.org/dc/terms/title> "Universal Language Model Fine-tuning for Text Classification" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s2> <https://schema.org/url> "https://aclanthology.org/P18-1031/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s3> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (Zhang, Lipton, Li and Smola), d2l.ai" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s3> <http://purl.org/dc/terms/title> "14.2. Fine-Tuning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s3> <https://schema.org/url> "https://d2l.ai/chapter_computer-vision/fine-tuning.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s4> <http://purl.org/dc/terms/publisher> "Hugging Face Transformers documentation (main branch)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s4> <http://purl.org/dc/terms/title> "Fine-tuning (Training guide)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s4> <https://schema.org/url> "https://huggingface.co/docs/transformers/training" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s5> <http://purl.org/dc/terms/publisher> "ICLR 2022 (Kumar, Raghunathan, Jones, Ma and Liang)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s5> <http://purl.org/dc/terms/title> "Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s5> <https://schema.org/url> "https://iclr.cc/virtual/2022/poster/5945" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s6> <http://purl.org/dc/terms/publisher> "arXiv 1612.00796, Google DeepMind; PNAS 2017, doi:10.1073/pnas.1611835114 (Kirkpatrick et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s6> <http://purl.org/dc/terms/title> "Overcoming catastrophic forgetting in neural networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s6> <https://schema.org/url> "https://arxiv.org/abs/1612.00796" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 2014, Advances in Neural Information Processing Systems 27 (Goodfellow et al.)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s1> <http://purl.org/dc/terms/title> "Generative Adversarial Nets" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

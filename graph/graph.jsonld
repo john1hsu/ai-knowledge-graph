@@ -6939,6 +6939,114 @@
       ]
     },
     {
+      "@id": "kt:fine-tuning",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Fine-tuning",
+      "skos:definition": "A transfer-learning technique that adapts a pretrained neural network to a new task or domain by continuing to train some or all of its weights on a smaller, task-specific dataset, instead of training a model from random initialization.",
+      "kto:domain": "training-and-adaptation",
+      "dcterms:created": "2026-11-11",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "How transferable are features in deep neural networks?",
+          "dcterms:publisher": "NeurIPS 2014, Advances in Neural Information Processing Systems 27 (Yosinski, Clune, Bengio and Lipson)",
+          "schema:url": "https://proceedings.nips.cc/paper_files/paper/2014/file/375c71349b295fbe2dcdca9206f20a06-Paper.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Universal Language Model Fine-tuning for Text Classification",
+          "dcterms:publisher": "ACL 2018, Proceedings of the 56th Annual Meeting of the ACL, pp. 328–339 (Howard and Ruder)",
+          "schema:url": "https://aclanthology.org/P18-1031/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "14.2. Fine-Tuning",
+          "dcterms:publisher": "Dive into Deep Learning (Zhang, Lipton, Li and Smola), d2l.ai",
+          "schema:url": "https://d2l.ai/chapter_computer-vision/fine-tuning.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Fine-tuning (Training guide)",
+          "dcterms:publisher": "Hugging Face Transformers documentation (main branch)",
+          "schema:url": "https://huggingface.co/docs/transformers/training",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution",
+          "dcterms:publisher": "ICLR 2022 (Kumar, Raghunathan, Jones, Ma and Liang)",
+          "schema:url": "https://iclr.cc/virtual/2022/poster/5945",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Overcoming catastrophic forgetting in neural networks",
+          "dcterms:publisher": "arXiv 1612.00796, Google DeepMind; PNAS 2017, doi:10.1073/pnas.1611835114 (Kirkpatrick et al.)",
+          "schema:url": "https://arxiv.org/abs/1612.00796",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/training-and-adaptation/fine-tuning.md",
+      "skos:altLabel": [
+        "finetuning",
+        "full fine-tuning",
+        "model fine-tuning"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:transfer-learning"
+        },
+        {
+          "@id": "kt:deep-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:parameter-efficient-fine-tuning"
+        },
+        {
+          "@id": "kt:instruction-tuning"
+        },
+        {
+          "@id": "kt:rlhf"
+        },
+        {
+          "@id": "kt:qlora"
+        },
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:pretraining"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:hugging-face-transformers"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:linear-probing"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:in-context-learning"
+        }
+      ],
+      "kto:causes": [
+        {
+          "@id": "kt:catastrophic-forgetting"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:universal-language-model-fine-tuning-for-text-classification"
+        }
+      ]
+    },
+    {
       "@id": "kt:knowledge-distillation",
       "@type": "kto:Technique",
       "skos:prefLabel": "Knowledge distillation",

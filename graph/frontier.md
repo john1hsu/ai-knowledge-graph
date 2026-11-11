@@ -6,14 +6,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:transformer-architecture` | `kt:hugging-face-transformers`, `kt:automatic-speech-recognition`, `kt:clip`, `kt:long-short-term-memory`, `kt:long-short-term-memory`, `kt:word2vec`, `kt:attention-is-all-you-need`, `kt:context-window`, `kt:large-language-model`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:scaling-laws` |
 | `kt:model-serving` | `kt:hugging-face-transformers`, `kt:mlops`, `kt:awq`, `kt:awq`, `kt:batching-and-paged-attention`, `kt:gptq`, `kt:gptq`, `kt:quantization`, `kt:speculative-decoding`, `kt:speculative-decoding` |
+| `kt:in-context-learning` | `kt:chain-of-thought`, `kt:prompt-sensitivity`, `kt:jailbreak`, `kt:mechanistic-interpretability`, `kt:fine-tuning`, `kt:context-window`, `kt:context-window`, `kt:emergent-abilities`, `kt:large-language-model` |
 | `kt:retrieval-augmented-generation` | `kt:toolformer`, `kt:beir`, `kt:approximate-nearest-neighbor-search`, `kt:bm25`, `kt:embeddings`, `kt:embeddings`, `kt:semantic-search`, `kt:semantic-search`, `kt:context-window` |
 | `kt:executive-orders-on-ai` | `kt:red-teaming`, `kt:ai-chip-export-controls`, `kt:ai-safety-institutes`, `kt:bureau-of-industry-and-security`, `kt:bureau-of-industry-and-security`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda`, `kt:omb-ai-memoranda` |
-| `kt:in-context-learning` | `kt:chain-of-thought`, `kt:prompt-sensitivity`, `kt:jailbreak`, `kt:mechanistic-interpretability`, `kt:context-window`, `kt:context-window`, `kt:emergent-abilities`, `kt:large-language-model` |
 | `kt:ai-governance` | `kt:ai-chip-export-controls`, `kt:ai-safety-institutes`, `kt:algorithmic-bias-and-fairness`, `kt:bureau-of-industry-and-security`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda`, `kt:ai-alignment` |
 | `kt:markov-decision-process` | `kt:hidden-markov-model`, `kt:actor-critic`, `kt:policy-gradient`, `kt:q-learning`, `kt:q-learning`, `kt:reinforcement-learning`, `kt:reinforcement-learning` |
+| `kt:pretraining` | `kt:test-time-compute`, `kt:fine-tuning`, `kt:synthetic-data`, `kt:emergent-abilities`, `kt:large-language-model`, `kt:scaling-laws`, `kt:scaling-laws` |
 | `kt:recurrent-neural-network` | `kt:automatic-speech-recognition`, `kt:deep-learning`, `kt:long-short-term-memory`, `kt:conditional-random-field`, `kt:hidden-markov-model`, `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
-| `kt:fine-tuning` | `kt:toolformer`, `kt:hugging-face-transformers`, `kt:qlora`, `kt:rlhf`, `kt:star-self-taught-reasoner`, `kt:synthetic-data` |
-| `kt:pretraining` | `kt:test-time-compute`, `kt:synthetic-data`, `kt:emergent-abilities`, `kt:large-language-model`, `kt:scaling-laws`, `kt:scaling-laws` |
 | `kt:pytorch` | `kt:data-parallelism`, `kt:hugging-face-transformers`, `kt:adam-optimizer`, `kt:backpropagation`, `kt:dropout`, `kt:long-short-term-memory` |
 | `kt:supervised-learning` | `kt:perceptron`, `kt:bias-variance-tradeoff`, `kt:conditional-random-field`, `kt:machine-learning`, `kt:alphago`, `kt:reinforcement-learning` |
 | `kt:benchmark-contamination` | `kt:ai-evaluation`, `kt:commonsenseqa`, `kt:gsm8k`, `kt:truthfulqa`, `kt:synthetic-data` |
@@ -23,6 +22,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:google` | `kt:agent2agent-protocol`, `kt:tpu`, `kt:an-image-is-worth-16x16-words`, `kt:word2vec`, `kt:attention-is-all-you-need` |
 | `kt:gpu-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:nvidia`, `kt:tpu`, `kt:ai-chip-export-controls` |
 | `kt:information-retrieval` | `kt:beir`, `kt:approximate-nearest-neighbor-search`, `kt:bm25`, `kt:semantic-search`, `kt:tf-idf` |
+| `kt:instruction-tuning` | `kt:fine-tuning`, `kt:qlora`, `kt:rlhf`, `kt:synthetic-data`, `kt:synthetic-data` |
 | `kt:prompt-engineering` | `kt:chain-of-thought`, `kt:prompt-sensitivity`, `kt:scratchpad`, `kt:self-consistency`, `kt:self-refine-iterative-refinement-with-self-feedback` |
 | `kt:reasoning-models` | `kt:chain-of-thought`, `kt:scratchpad`, `kt:test-time-compute`, `kt:test-time-compute`, `kt:star-self-taught-reasoner` |
 | `kt:sequence-to-sequence-learning` | `kt:automatic-speech-recognition`, `kt:long-short-term-memory`, `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
@@ -31,7 +31,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:dartmouth-workshop`, `kt:turing-test`, `kt:machine-learning` |
 | `kt:beam-search` | `kt:sampling-temperature-and-top-p`, `kt:self-consistency`, `kt:knowledge-distillation`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
 | `kt:imagenet-and-alexnet` | `kt:geoffrey-hinton`, `kt:cuda`, `kt:nvidia`, `kt:yolo` |
-| `kt:instruction-tuning` | `kt:qlora`, `kt:rlhf`, `kt:synthetic-data`, `kt:synthetic-data` |
 | `kt:multi-agent-systems` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:langgraph` |
 | `kt:overfitting` | `kt:dropout`, `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent` |
 | `kt:regularization` | `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:conditional-random-field`, `kt:double-descent` |
@@ -76,6 +75,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:model-cards` | `kt:algorithmic-bias-and-fairness`, `kt:omb-ai-memoranda` |
 | `kt:openai` | `kt:clip`, `kt:gsm8k` |
 | `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism` |
+| `kt:parameter-efficient-fine-tuning` | `kt:fine-tuning`, `kt:qlora` |
 | `kt:positional-encoding` | `kt:attention-is-all-you-need`, `kt:context-window` |
 | `kt:post-training-quantization` | `kt:awq`, `kt:gptq` |
 | `kt:probabilistic-relevance-framework` | `kt:bm25`, `kt:bm25` |
@@ -115,6 +115,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:beir-a-heterogeneous-benchmark-for-zero-shot-evaluation-of-information-retrieval-models` | `kt:beir` |
 | `kt:big-bench` | `kt:emergent-abilities` |
 | `kt:boltzmann-machine` | `kt:geoffrey-hinton` |
+| `kt:catastrophic-forgetting` | `kt:fine-tuning` |
 | `kt:center-for-ai-standards-and-innovation` | `kt:ai-safety-institutes` |
 | `kt:chain-of-thought-prompting-elicits-reasoning-in-large-language-models` | `kt:chain-of-thought` |
 | `kt:christopher-watkins` | `kt:q-learning` |
@@ -191,6 +192,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:learning-representations-by-back-propagating-errors` | `kt:backpropagation` |
 | `kt:learning-transferable-visual-models-from-natural-language-supervision` | `kt:clip` |
 | `kt:librispeech` | `kt:automatic-speech-recognition` |
+| `kt:linear-probing` | `kt:fine-tuning` |
 | `kt:llmops` | `kt:mlops` |
 | `kt:loftq` | `kt:qlora` |
 | `kt:logic-theorist` | `kt:dartmouth-workshop` |
@@ -221,7 +223,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:office-of-management-and-budget` | `kt:omb-ai-memoranda` |
 | `kt:optimal-brain-compression` | `kt:gptq` |
 | `kt:orca-serving-system` | `kt:batching-and-paged-attention` |
-| `kt:parameter-efficient-fine-tuning` | `kt:qlora` |
 | `kt:penetration-testing` | `kt:red-teaming` |
 | `kt:philosophy-of-artificial-intelligence` | `kt:chinese-room-argument` |
 | `kt:policy-gradient-methods-for-reinforcement-learning-with-function-approximation` | `kt:policy-gradient` |
@@ -265,11 +266,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:thompson-sampling` | `kt:exploration-exploitation` |
 | `kt:tim-dettmers` | `kt:qlora` |
 | `kt:training-verifiers-to-solve-math-word-problems` | `kt:gsm8k` |
+| `kt:transfer-learning` | `kt:fine-tuning` |
 | `kt:transformers-state-of-the-art-natural-language-processing` | `kt:hugging-face-transformers` |
 | `kt:truthfulqa-measuring-how-models-mimic-human-falsehoods` | `kt:truthfulqa` |
 | `kt:turing-machine` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:uk-ai-security-institute` | `kt:ai-safety-institutes` |
 | `kt:universal-approximation-theorem` | `kt:artificial-neural-network` |
+| `kt:universal-language-model-fine-tuning-for-text-classification` | `kt:fine-tuning` |
 | `kt:universal-self-consistency` | `kt:self-consistency` |
 | `kt:upper-confidence-bound` | `kt:exploration-exploitation` |
 | `kt:us-department-of-commerce` | `kt:bureau-of-industry-and-security` |

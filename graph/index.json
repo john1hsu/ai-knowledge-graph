@@ -871,6 +871,28 @@
     ]
   },
   {
+    "id": "kt:fine-tuning",
+    "title": "Fine-tuning",
+    "aliases": [
+      "finetuning",
+      "full fine-tuning",
+      "model fine-tuning"
+    ],
+    "type": "Technique",
+    "domain": "training-and-adaptation",
+    "file": "articles/training-and-adaptation/fine-tuning.md",
+    "created": "2026-11-11",
+    "maturity": "established",
+    "source_urls": [
+      "https://proceedings.nips.cc/paper_files/paper/2014/file/375c71349b295fbe2dcdca9206f20a06-Paper.pdf",
+      "https://aclanthology.org/P18-1031/",
+      "https://d2l.ai/chapter_computer-vision/fine-tuning.html",
+      "https://huggingface.co/docs/transformers/training",
+      "https://iclr.cc/virtual/2022/poster/5945",
+      "https://arxiv.org/abs/1612.00796"
+    ]
+  },
+  {
     "id": "kt:generative-adversarial-network",
     "title": "Generative adversarial network",
     "aliases": [
