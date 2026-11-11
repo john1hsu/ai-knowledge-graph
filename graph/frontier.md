@@ -15,8 +15,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:markov-decision-process` | `kt:hidden-markov-model`, `kt:actor-critic`, `kt:policy-gradient`, `kt:q-learning`, `kt:q-learning`, `kt:reinforcement-learning`, `kt:reinforcement-learning` |
 | `kt:pretraining` | `kt:test-time-compute`, `kt:fine-tuning`, `kt:synthetic-data`, `kt:emergent-abilities`, `kt:large-language-model`, `kt:scaling-laws`, `kt:scaling-laws` |
 | `kt:pytorch` | `kt:data-parallelism`, `kt:hugging-face-transformers`, `kt:faster-r-cnn`, `kt:adam-optimizer`, `kt:backpropagation`, `kt:dropout`, `kt:long-short-term-memory` |
+| `kt:benchmark-contamination` | `kt:ai-evaluation`, `kt:commonsenseqa`, `kt:gsm8k`, `kt:mmlu`, `kt:truthfulqa`, `kt:synthetic-data` |
 | `kt:supervised-learning` | `kt:perceptron`, `kt:bias-variance-tradeoff`, `kt:conditional-random-field`, `kt:machine-learning`, `kt:alphago`, `kt:reinforcement-learning` |
-| `kt:benchmark-contamination` | `kt:ai-evaluation`, `kt:commonsenseqa`, `kt:gsm8k`, `kt:truthfulqa`, `kt:synthetic-data` |
 | `kt:distributed-training` | `kt:cuda`, `kt:data-parallelism`, `kt:mlops`, `kt:nvidia`, `kt:tpu` |
 | `kt:ensemble-methods` | `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:google` | `kt:agent2agent-protocol`, `kt:tpu`, `kt:an-image-is-worth-16x16-words`, `kt:word2vec`, `kt:attention-is-all-you-need` |
@@ -137,6 +137,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:contrastive-learning` | `kt:clip` |
 | `kt:cross-validation` | `kt:bias-variance-tradeoff` |
 | `kt:cudnn` | `kt:cuda` |
+| `kt:dan-hendrycks` | `kt:mmlu` |
 | `kt:data-drift` | `kt:mlops` |
 | `kt:deep-learning-framework` | `kt:hugging-face-transformers` |
 | `kt:deep-reinforcement-learning-from-human-preferences` | `kt:rlhf` |
@@ -224,6 +225,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:min-p-sampling` | `kt:sampling-temperature-and-top-p` |
 | `kt:minds-brains-and-programs` | `kt:chinese-room-argument` |
 | `kt:mlflow` | `kt:mlops` |
+| `kt:mmlu-pro` | `kt:mmlu` |
 | `kt:model-collapse` | `kt:synthetic-data` |
 | `kt:model-compression-caruana-2006` | `kt:knowledge-distillation` |
 | `kt:model-context-protocol` | `kt:agent2agent-protocol` |

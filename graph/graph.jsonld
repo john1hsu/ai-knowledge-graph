@@ -3237,6 +3237,9 @@
         },
         {
           "@id": "kt:red-teaming"
+        },
+        {
+          "@id": "kt:mmlu"
         }
       ],
       "kto:regulatedBy": [
@@ -3507,6 +3510,92 @@
       "kto:createdBy": [
         {
           "@id": "kt:openai"
+        }
+      ]
+    },
+    {
+      "@id": "kt:mmlu",
+      "@type": "kto:Benchmark",
+      "skos:prefLabel": "MMLU: Measuring Massive Multitask Language Understanding",
+      "skos:definition": "A multiple-choice benchmark of 57 subjects, from elementary mathematics to professional law, introduced by Hendrycks et al. at ICLR 2021 to measure the breadth of knowledge and problem solving a language model picks up in pretraining.",
+      "kto:domain": "evaluation-and-benchmarks",
+      "dcterms:created": "2026-11-11",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Measuring Massive Multitask Language Understanding (ICLR 2021 poster)",
+          "dcterms:publisher": "ICLR 2021 (Hendrycks, Burns, Basart, Zou, Mazeika, Song, Steinhardt)",
+          "schema:url": "https://iclr.cc/virtual/2021/poster/2962",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Measuring Massive Multitask Language Understanding (arXiv:2009.03300, HTML version)",
+          "dcterms:publisher": "arXiv / ar5iv (Hendrycks et al.)",
+          "schema:url": "https://ar5iv.labs.arxiv.org/html/2009.03300",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Are We Done with MMLU?",
+          "dcterms:publisher": "NAACL 2025, Volume 1 (Long Papers), pp. 5069–5096 (Gema et al.)",
+          "schema:url": "https://aclanthology.org/2025.naacl-long.262",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark",
+          "dcterms:publisher": "NeurIPS 2024 Datasets and Benchmarks Track (Wang et al.)",
+          "schema:url": "https://neurips.cc/virtual/2024/poster/97435",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "MMLU-Pro (arXiv:2406.01574v4, HTML version)",
+          "dcterms:publisher": "arXiv (Wang et al.; Waterloo, Toronto, CMU)",
+          "schema:url": "https://arxiv.org/html/2406.01574v4",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "AI Index Report 2025, Chapter 2: Technical Performance",
+          "dcterms:publisher": "Stanford Institute for Human-Centered AI (HAI)",
+          "schema:url": "https://hai-production.s3.amazonaws.com/files/hai_ai-index-report-2025_chapter2_final.pdf",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/evaluation-and-benchmarks/mmlu.md",
+      "skos:altLabel": [
+        "MMLU",
+        "Massive Multitask Language Understanding",
+        "MMLU benchmark",
+        "Hendrycks Test"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-evaluation"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:benchmark-contamination"
+        },
+        {
+          "@id": "kt:prompt-sensitivity"
+        },
+        {
+          "@id": "kt:emergent-abilities"
+        },
+        {
+          "@id": "kt:truthfulqa"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:dan-hendrycks"
+        }
+      ],
+      "kto:supersededBy": [
+        {
+          "@id": "kt:mmlu-pro"
         }
       ]
     },

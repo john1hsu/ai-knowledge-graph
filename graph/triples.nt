@@ -211,6 +211,7 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Evaluation of AI systems" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-evaluation/s1> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-evaluation/s2> .
@@ -1575,6 +1576,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/hidden-technical-debt-in-machine-learning-systems> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/mlops> <https://github.com/john1hsu/ai-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/ai-knowledge-graph/id/data-drift> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Benchmark> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <http://www.w3.org/2000/01/rdf-schema#label> "MMLU: Measuring Massive Multitask Language Understanding" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <http://www.w3.org/2004/02/skos/core#altLabel> "Hendrycks Test" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <http://www.w3.org/2004/02/skos/core#altLabel> "MMLU benchmark" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <http://www.w3.org/2004/02/skos/core#altLabel> "MMLU" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <http://www.w3.org/2004/02/skos/core#altLabel> "Massive Multitask Language Understanding" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <http://www.w3.org/2004/02/skos/core#definition> "A multiple-choice benchmark of 57 subjects, from elementary mathematics to professional law, introduced by Hendrycks et al. at ICLR 2021 to measure the breadth of knowledge and problem solving a language model picks up in pretraining." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <http://www.w3.org/2004/02/skos/core#prefLabel> "MMLU: Measuring Massive Multitask Language Understanding" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/dan-hendrycks> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "evaluation-and-benchmarks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <https://github.com/john1hsu/ai-knowledge-graph/ontology#supersededBy> <https://github.com/john1hsu/ai-knowledge-graph/id/mmlu-pro> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/neural-machine-translation-by-jointly-learning-to-align-and-translate> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/neural-machine-translation-by-jointly-learning-to-align-and-translate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Work> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/neural-machine-translation-by-jointly-learning-to-align-and-translate> <http://www.w3.org/2000/01/rdf-schema#label> "Neural Machine Translation by Jointly Learning to Align and Translate" .
@@ -3854,6 +3880,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/mlops/s5> <https://schema.org/url> "https://mlflow.org/docs/latest/ml/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s1> <http://purl.org/dc/terms/publisher> "ICLR 2021 (Hendrycks, Burns, Basart, Zou, Mazeika, Song, Steinhardt)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s1> <http://purl.org/dc/terms/title> "Measuring Massive Multitask Language Understanding (ICLR 2021 poster)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s1> <https://schema.org/url> "https://iclr.cc/virtual/2021/poster/2962" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s2> <http://purl.org/dc/terms/publisher> "arXiv / ar5iv (Hendrycks et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s2> <http://purl.org/dc/terms/title> "Measuring Massive Multitask Language Understanding (arXiv:2009.03300, HTML version)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s2> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/2009.03300" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s3> <http://purl.org/dc/terms/publisher> "NAACL 2025, Volume 1 (Long Papers), pp. 5069–5096 (Gema et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s3> <http://purl.org/dc/terms/title> "Are We Done with MMLU?" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s3> <https://schema.org/url> "https://aclanthology.org/2025.naacl-long.262" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s4> <http://purl.org/dc/terms/publisher> "NeurIPS 2024 Datasets and Benchmarks Track (Wang et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s4> <http://purl.org/dc/terms/title> "MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s4> <https://schema.org/url> "https://neurips.cc/virtual/2024/poster/97435" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s5> <http://purl.org/dc/terms/publisher> "arXiv (Wang et al.; Waterloo, Toronto, CMU)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s5> <http://purl.org/dc/terms/title> "MMLU-Pro (arXiv:2406.01574v4, HTML version)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s5> <https://schema.org/url> "https://arxiv.org/html/2406.01574v4" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s6> <http://purl.org/dc/terms/publisher> "Stanford Institute for Human-Centered AI (HAI)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s6> <http://purl.org/dc/terms/title> "AI Index Report 2025, Chapter 2: Technical Performance" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s6> <https://schema.org/url> "https://hai-production.s3.amazonaws.com/files/hai_ai-index-report-2025_chapter2_final.pdf" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/neural-machine-translation-by-jointly-learning-to-align-and-translate/s1> <http://purl.org/dc/terms/publisher> "Bahdanau, Cho and Bengio, ICLR 2015 conference paper (authors' arXiv version 1409.0473v7, 19 May 2016)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/neural-machine-translation-by-jointly-learning-to-align-and-translate/s1> <http://purl.org/dc/terms/title> "Neural Machine Translation by Jointly Learning to Align and Translate" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/neural-machine-translation-by-jointly-learning-to-align-and-translate/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

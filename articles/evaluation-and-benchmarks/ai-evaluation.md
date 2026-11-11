@@ -10,7 +10,7 @@ summary: >-
   model-based judgments, red teaming and field testing.
 maturity: established
 broader: [kt:machine-learning]
-related: [kt:llm-as-a-judge, kt:benchmark-contamination, kt:red-teaming]
+related: [kt:llm-as-a-judge, kt:benchmark-contamination, kt:red-teaming, kt:mmlu]
 relations:
   - {predicate: regulatedBy, object: kt:nist-ai-risk-management-framework}
   - {predicate: implementedIn, object: kt:inspect-ai}

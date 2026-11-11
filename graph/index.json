@@ -1343,6 +1343,29 @@
     ]
   },
   {
+    "id": "kt:mmlu",
+    "title": "MMLU: Measuring Massive Multitask Language Understanding",
+    "aliases": [
+      "MMLU",
+      "Massive Multitask Language Understanding",
+      "MMLU benchmark",
+      "Hendrycks Test"
+    ],
+    "type": "Benchmark",
+    "domain": "evaluation-and-benchmarks",
+    "file": "articles/evaluation-and-benchmarks/mmlu.md",
+    "created": "2026-11-11",
+    "maturity": "established",
+    "source_urls": [
+      "https://iclr.cc/virtual/2021/poster/2962",
+      "https://ar5iv.labs.arxiv.org/html/2009.03300",
+      "https://aclanthology.org/2025.naacl-long.262",
+      "https://neurips.cc/virtual/2024/poster/97435",
+      "https://arxiv.org/html/2406.01574v4",
+      "https://hai-production.s3.amazonaws.com/files/hai_ai-index-report-2025_chapter2_final.pdf"
+    ]
+  },
+  {
     "id": "kt:neural-machine-translation-by-jointly-learning-to-align-and-translate",
     "title": "Neural Machine Translation by Jointly Learning to Align and Translate",
     "aliases": [
