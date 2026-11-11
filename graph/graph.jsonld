@@ -6605,6 +6605,100 @@
       ]
     },
     {
+      "@id": "kt:glove",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "GloVe",
+      "skos:definition": "A static word-embedding method from Pennington, Socher and Manning at Stanford (EMNLP 2014) that fits word and context vectors by weighted least squares so that their dot product approximates the log of how often two words co-occur across a whole corpus, uniting count-based matrix factorisation with prediction-style embeddings.",
+      "kto:domain": "retrieval-and-knowledge",
+      "dcterms:created": "2026-11-11",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "GloVe: Global Vectors for Word Representation (full text)",
+          "dcterms:publisher": "Proceedings of EMNLP 2014, ACL Anthology D14-1162 (Pennington, Socher and Manning), pp. 1532–1543",
+          "schema:url": "https://aclanthology.org/D14-1162.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "GloVe: Global Vectors for Word Representation",
+          "dcterms:publisher": "Stanford NLP Group project page",
+          "schema:url": "https://nlp.stanford.edu/projects/glove/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Improving Distributional Similarity with Lessons Learned from Word Embeddings",
+          "dcterms:publisher": "Transactions of the Association for Computational Linguistics, vol. 3 (Levy, Goldberg and Dagan), 2015",
+          "schema:url": "https://transacl.org/ojs/index.php/tacl/article/viewFile/570/124",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "A New Pair of GloVes",
+          "dcterms:publisher": "arXiv 2507.18103v1 (Carlson, Bauer and Manning, Stanford), submitted 24 Jul 2025",
+          "schema:url": "https://arxiv.org/abs/2507.18103v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Speech and Language Processing, Chapter 5: Embeddings",
+          "dcterms:publisher": "Jurafsky and Martin, 3rd edition draft (August 2026 release), Stanford University",
+          "schema:url": "https://web.stanford.edu/~jurafsky/slp3/5.pdf",
+          "kto:sourceType": "textbook"
+        }
+      ],
+      "kto:file": "articles/retrieval-and-knowledge/glove.md",
+      "skos:altLabel": [
+        "Global Vectors for Word Representation",
+        "GloVe embeddings",
+        "GloVe word vectors"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:embeddings"
+        },
+        {
+          "@id": "kt:representation-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:latent-semantic-analysis"
+        },
+        {
+          "@id": "kt:semantic-search"
+        },
+        {
+          "@id": "kt:named-entity-recognition"
+        },
+        {
+          "@id": "kt:algorithmic-bias-and-fairness"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:glove-global-vectors-for-word-representation"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:stanford-nlp-group"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:word2vec"
+        }
+      ],
+      "kto:trainedWith": [
+        {
+          "@id": "kt:adagrad"
+        }
+      ],
+      "kto:supersededBy": [
+        {
+          "@id": "kt:transformer-architecture"
+        }
+      ]
+    },
+    {
       "@id": "kt:semantic-search",
       "@type": "kto:Technique",
       "skos:prefLabel": "Semantic search",

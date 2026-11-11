@@ -1140,6 +1140,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s6> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-history" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "historical" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/glove> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/glove> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/glove> <http://www.w3.org/2000/01/rdf-schema#label> "GloVe" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/glove> <http://www.w3.org/2004/02/skos/core#altLabel> "GloVe embeddings" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/glove> <http://www.w3.org/2004/02/skos/core#altLabel> "GloVe word vectors" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/glove> <http://www.w3.org/2004/02/skos/core#altLabel> "Global Vectors for Word Representation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/glove> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/glove> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/glove> <http://www.w3.org/2004/02/skos/core#definition> "A static word-embedding method from Pennington, Socher and Manning at Stanford (EMNLP 2014) that fits word and context vectors by weighted least squares so that their dot product approximates the log of how often two words co-occur across a whole corpus, uniting count-based matrix factorisation with prediction-style embeddings." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/glove> <http://www.w3.org/2004/02/skos/core#prefLabel> "GloVe" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/glove> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/glove> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/latent-semantic-analysis> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/glove> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/glove> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/glove> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/glove/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/glove> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/glove/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/glove> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/glove/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/glove> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/glove/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/glove> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/glove/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/glove> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/glove> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/stanford-nlp-group> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/glove> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "retrieval-and-knowledge" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/glove> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/glove-global-vectors-for-word-representation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/glove> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/glove> <https://github.com/john1hsu/ai-knowledge-graph/ontology#supersededBy> <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/glove> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <http://www.w3.org/2000/01/rdf-schema#label> "GPTQ" .
@@ -3310,6 +3336,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/geoffrey-hinton/s6> <https://schema.org/url> "https://arxiv.org/abs/1503.02531" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/glove/s1> <http://purl.org/dc/terms/publisher> "Proceedings of EMNLP 2014, ACL Anthology D14-1162 (Pennington, Socher and Manning), pp. 1532–1543" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/glove/s1> <http://purl.org/dc/terms/title> "GloVe: Global Vectors for Word Representation (full text)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/glove/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/glove/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/glove/s1> <https://schema.org/url> "https://aclanthology.org/D14-1162.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/glove/s2> <http://purl.org/dc/terms/publisher> "Stanford NLP Group project page" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/glove/s2> <http://purl.org/dc/terms/title> "GloVe: Global Vectors for Word Representation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/glove/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/glove/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/glove/s2> <https://schema.org/url> "https://nlp.stanford.edu/projects/glove/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/glove/s3> <http://purl.org/dc/terms/publisher> "Transactions of the Association for Computational Linguistics, vol. 3 (Levy, Goldberg and Dagan), 2015" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/glove/s3> <http://purl.org/dc/terms/title> "Improving Distributional Similarity with Lessons Learned from Word Embeddings" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/glove/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/glove/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/glove/s3> <https://schema.org/url> "https://transacl.org/ojs/index.php/tacl/article/viewFile/570/124" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/glove/s4> <http://purl.org/dc/terms/publisher> "arXiv 2507.18103v1 (Carlson, Bauer and Manning, Stanford), submitted 24 Jul 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/glove/s4> <http://purl.org/dc/terms/title> "A New Pair of GloVes" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/glove/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/glove/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/glove/s4> <https://schema.org/url> "https://arxiv.org/abs/2507.18103v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/glove/s5> <http://purl.org/dc/terms/publisher> "Jurafsky and Martin, 3rd edition draft (August 2026 release), Stanford University" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/glove/s5> <http://purl.org/dc/terms/title> "Speech and Language Processing, Chapter 5: Embeddings" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/glove/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/glove/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/glove/s5> <https://schema.org/url> "https://web.stanford.edu/~jurafsky/slp3/5.pdf" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s1> <http://purl.org/dc/terms/publisher> "ICLR 2023 (Frantar, Ashkboos, Hoefler and Alistarh), authors' arXiv version 2210.17323" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s1> <http://purl.org/dc/terms/title> "GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

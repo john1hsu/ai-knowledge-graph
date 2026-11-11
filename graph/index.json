@@ -979,6 +979,27 @@
     ]
   },
   {
+    "id": "kt:glove",
+    "title": "GloVe",
+    "aliases": [
+      "Global Vectors for Word Representation",
+      "GloVe embeddings",
+      "GloVe word vectors"
+    ],
+    "type": "Algorithm",
+    "domain": "retrieval-and-knowledge",
+    "file": "articles/retrieval-and-knowledge/glove.md",
+    "created": "2026-11-11",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://aclanthology.org/D14-1162.pdf",
+      "https://nlp.stanford.edu/projects/glove/",
+      "https://transacl.org/ojs/index.php/tacl/article/viewFile/570/124",
+      "https://arxiv.org/abs/2507.18103v1",
+      "https://web.stanford.edu/~jurafsky/slp3/5.pdf"
+    ]
+  },
+  {
     "id": "kt:gptq",
     "title": "GPTQ",
     "aliases": [
