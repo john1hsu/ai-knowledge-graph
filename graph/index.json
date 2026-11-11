@@ -1043,6 +1043,27 @@
     ]
   },
   {
+    "id": "kt:goodharts-law",
+    "title": "Goodhart's law",
+    "aliases": [
+      "Goodharting",
+      "Goodhart effect"
+    ],
+    "type": "Concept",
+    "domain": "safety-alignment-and-security",
+    "file": "articles/safety-alignment-and-security/goodharts-law.md",
+    "created": "2026-11-11",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://arxiv.org/pdf/1803.04585v4",
+      "https://www.rba.gov.au/publications/rdp/1990/9013/conference-volumes.html",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9122957",
+      "https://proceedings.iclr.cc/paper_files/paper/2024/file/6ad68a54eaa8f9bf6ac698b02ec05048-Paper-Conference.pdf",
+      "https://proceedings.mlr.press/v202/gao23h.html",
+      "https://www.cambridge.org/core/journals/european-review/article/improving-ratings-audit-inthe-british-university-system/FC2EE640C0C44E3DB87C29FB666E9AAB"
+    ]
+  },
+  {
     "id": "kt:gptq",
     "title": "GPTQ",
     "aliases": [

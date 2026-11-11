@@ -7455,6 +7455,96 @@
       ]
     },
     {
+      "@id": "kt:goodharts-law",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Goodhart's law",
+      "skos:definition": "The principle that a statistical regularity or metric tends to stop tracking what it stood for once it is used as a target for control or optimisation; in AI it describes how optimising a proxy objective too hard can make performance on the true objective worse.",
+      "kto:domain": "safety-alignment-and-security",
+      "dcterms:created": "2026-11-11",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Categorizing Variants of Goodhart's Law",
+          "dcterms:publisher": "arXiv:1803.04585v4 (Manheim, Garrabrant), February 2019",
+          "schema:url": "https://arxiv.org/pdf/1803.04585v4",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "RDP 9013: A Select Bibliography of Published Research by the Reserve Bank of Australia, 1969–1990 — Conference Volumes",
+          "dcterms:publisher": "Reserve Bank of Australia",
+          "schema:url": "https://www.rba.gov.au/publications/rdp/1990/9013/conference-volumes.html",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Reliance on metrics is a fundamental challenge for AI",
+          "dcterms:publisher": "Patterns 3(5):100476, 2022 (Thomas, Uminsky)",
+          "schema:url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9122957",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Goodhart's Law in Reinforcement Learning",
+          "dcterms:publisher": "ICLR 2024 (Karwowski, Hayman, Bai, Kiendlhofer, Griffin, Skalse)",
+          "schema:url": "https://proceedings.iclr.cc/paper_files/paper/2024/file/6ad68a54eaa8f9bf6ac698b02ec05048-Paper-Conference.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Scaling Laws for Reward Model Overoptimization",
+          "dcterms:publisher": "ICML 2023, PMLR 202 (Gao, Schulman, Hilton)",
+          "schema:url": "https://proceedings.mlr.press/v202/gao23h.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Improving ratings: audit in the British University system",
+          "dcterms:publisher": "European Review 5(3):305–321, 1997 (Strathern)",
+          "schema:url": "https://www.cambridge.org/core/journals/european-review/article/improving-ratings-audit-inthe-british-university-system/FC2EE640C0C44E3DB87C29FB666E9AAB",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/safety-alignment-and-security/goodharts-law.md",
+      "skos:altLabel": [
+        "Goodharting",
+        "Goodhart effect"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-alignment"
+        },
+        {
+          "@id": "kt:ai-safety"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:reward-hacking"
+        },
+        {
+          "@id": "kt:ai-evaluation"
+        },
+        {
+          "@id": "kt:benchmark-contamination"
+        },
+        {
+          "@id": "kt:rlhf"
+        },
+        {
+          "@id": "kt:reward-model"
+        },
+        {
+          "@id": "kt:campbells-law"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:charles-goodhart"
+        }
+      ],
+      "kto:causes": [
+        {
+          "@id": "kt:reward-hacking"
+        }
+      ]
+    },
+    {
       "@id": "kt:jailbreak",
       "@type": "kto:Risk",
       "skos:prefLabel": "Jailbreak",
