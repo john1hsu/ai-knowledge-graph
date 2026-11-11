@@ -1570,6 +1570,27 @@
     ]
   },
   {
+    "id": "kt:self-refine-iterative-refinement-with-self-feedback",
+    "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+    "aliases": [
+      "Self-Refine",
+      "SELF-REFINE",
+      "Madaan et al. 2023"
+    ],
+    "type": "Work",
+    "domain": "prompting-and-reasoning",
+    "file": "articles/prompting-and-reasoning/self-refine-iterative-refinement-with-self-feedback.md",
+    "created": "2026-11-11",
+    "maturity": "established",
+    "source_urls": [
+      "https://proceedings.neurips.cc/paper_files/paper/2023/hash/91edff07232fb1b55a505a9e9f6c0ff3-Abstract.html",
+      "https://proceedings.neurips.cc/paper_files/paper/2023/file/91edff07232fb1b55a505a9e9f6c0ff3-Paper-Conference.pdf",
+      "https://iclr.cc/virtual/2024/poster/18956",
+      "https://arxiv.org/html/2310.01798v1",
+      "https://aclanthology.org/2024.tacl-1.78"
+    ]
+  },
+  {
     "id": "kt:semantic-search",
     "title": "Semantic search",
     "aliases": [

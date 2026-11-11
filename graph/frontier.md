@@ -22,6 +22,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ensemble-methods` | `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:gpu-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:nvidia`, `kt:tpu`, `kt:ai-chip-export-controls` |
 | `kt:information-retrieval` | `kt:beir`, `kt:approximate-nearest-neighbor-search`, `kt:bm25`, `kt:semantic-search`, `kt:tf-idf` |
+| `kt:prompt-engineering` | `kt:chain-of-thought`, `kt:prompt-sensitivity`, `kt:scratchpad`, `kt:self-consistency`, `kt:self-refine-iterative-refinement-with-self-feedback` |
 | `kt:reasoning-models` | `kt:chain-of-thought`, `kt:scratchpad`, `kt:test-time-compute`, `kt:test-time-compute`, `kt:star-self-taught-reasoner` |
 | `kt:sequence-to-sequence-learning` | `kt:automatic-speech-recognition`, `kt:long-short-term-memory`, `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
 | `kt:tool-use` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:toolformer`, `kt:voyager` |
@@ -33,7 +34,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:instruction-tuning` | `kt:qlora`, `kt:rlhf`, `kt:synthetic-data`, `kt:synthetic-data` |
 | `kt:multi-agent-systems` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:langgraph` |
 | `kt:overfitting` | `kt:dropout`, `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent` |
-| `kt:prompt-engineering` | `kt:chain-of-thought`, `kt:prompt-sensitivity`, `kt:scratchpad`, `kt:self-consistency` |
 | `kt:regularization` | `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:conditional-random-field`, `kt:double-descent` |
 | `kt:reward-hacking` | `kt:ai-alignment`, `kt:scalable-oversight`, `kt:sycophancy`, `kt:rlhf` |
 | `kt:agent-memory` | `kt:ai-agent`, `kt:langgraph`, `kt:voyager` |
@@ -229,6 +229,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:quiet-star` | `kt:star-self-taught-reasoner` |
 | `kt:r-cnn` | `kt:yolo` |
 | `kt:reconciling-modern-machine-learning-practice-and-the-bias-variance-trade-off` | `kt:double-descent` |
+| `kt:reflexion` | `kt:self-refine-iterative-refinement-with-self-feedback` |
 | `kt:reinforce-algorithm` | `kt:policy-gradient` |
 | `kt:ruler` | `kt:context-window` |
 | `kt:sarsa` | `kt:q-learning` |
@@ -237,6 +238,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:scikit-learn` | `kt:principal-component-analysis` |
 | `kt:score-matching` | `kt:diffusion-model` |
 | `kt:self-consistency-improves-chain-of-thought-reasoning-in-language-models` | `kt:self-consistency` |
+| `kt:self-correction` | `kt:self-refine-iterative-refinement-with-self-feedback` |
 | `kt:sepp-hochreiter` | `kt:long-short-term-memory` |
 | `kt:show-your-work-scratchpads-for-intermediate-computation-with-language-models` | `kt:scratchpad` |
 | `kt:singular-value-decomposition` | `kt:principal-component-analysis` |

@@ -5218,6 +5218,88 @@
       ]
     },
     {
+      "@id": "kt:self-refine-iterative-refinement-with-self-feedback",
+      "@type": "kto:Work",
+      "skos:prefLabel": "Self-Refine: Iterative Refinement with Self-Feedback",
+      "skos:definition": "A NeurIPS 2023 paper by Madaan et al. introducing Self-Refine, an inference-time method in which one language model drafts an output, critiques it in natural language, and rewrites it using that critique, repeating the loop without any extra training, supervised data or reinforcement learning.",
+      "kto:domain": "prompting-and-reasoning",
+      "dcterms:created": "2026-11-11",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Self-Refine: Iterative Refinement with Self-Feedback (abstract page)",
+          "dcterms:publisher": "NeurIPS 2023, Advances in Neural Information Processing Systems 36 (Madaan, Tandon, Gupta, Hallinan, Gao, Wiegreffe, Alon, Dziri, Prabhumoye, Yang, Gupta, Majumder, Hermann, Welleck, Yazdanbakhsh, Clark)",
+          "schema:url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/91edff07232fb1b55a505a9e9f6c0ff3-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Self-Refine: Iterative Refinement with Self-Feedback (full paper PDF)",
+          "dcterms:publisher": "NeurIPS 2023 proceedings (Madaan et al.)",
+          "schema:url": "https://proceedings.neurips.cc/paper_files/paper/2023/file/91edff07232fb1b55a505a9e9f6c0ff3-Paper-Conference.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Large Language Models Cannot Self-Correct Reasoning Yet (ICLR 2024 poster)",
+          "dcterms:publisher": "ICLR 2024 (Huang, Chen, Mishra, Zheng, Yu, Song, Zhou)",
+          "schema:url": "https://iclr.cc/virtual/2024/poster/18956",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Large Language Models Cannot Self-Correct Reasoning Yet",
+          "dcterms:publisher": "arXiv 2310.01798v1 (Huang et al.)",
+          "schema:url": "https://arxiv.org/html/2310.01798v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "When Can LLMs Actually Correct Their Own Mistakes? A Critical Survey of Self-Correction of LLMs",
+          "dcterms:publisher": "TACL vol. 12, pp. 1417-1440, 2024 (Kamoi, Zhang, Zhang, Han, Zhang)",
+          "schema:url": "https://aclanthology.org/2024.tacl-1.78",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/prompting-and-reasoning/self-refine-iterative-refinement-with-self-feedback.md",
+      "skos:altLabel": [
+        "Self-Refine",
+        "SELF-REFINE",
+        "Madaan et al. 2023"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:prompt-engineering"
+        },
+        {
+          "@id": "kt:self-correction"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:self-consistency"
+        },
+        {
+          "@id": "kt:test-time-compute"
+        },
+        {
+          "@id": "kt:chain-of-thought"
+        },
+        {
+          "@id": "kt:reflexion"
+        },
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:gsm8k"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:rlhf"
+        }
+      ]
+    },
+    {
       "@id": "kt:test-time-compute",
       "@type": "kto:Concept",
       "skos:prefLabel": "Test-time compute",
