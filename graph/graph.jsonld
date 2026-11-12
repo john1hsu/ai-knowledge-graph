@@ -9754,6 +9754,104 @@
       ]
     },
     {
+      "@id": "kt:in-context-learning",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "In-context learning",
+      "skos:definition": "The ability of a pretrained language model to perform a new task from instructions or a handful of input-output demonstrations placed in its prompt, at inference time and without any update to its weights.",
+      "kto:domain": "transformers-and-llms",
+      "dcterms:created": "2026-11-12",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Language Models are Few-Shot Learners",
+          "dcterms:publisher": "NeurIPS 2020 (Brown, Mann, Ryder, Subbiah, Kaplan, Dhariwal, et al.)",
+          "schema:url": "https://papers.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?",
+          "dcterms:publisher": "EMNLP 2022, pp. 11048-11064 (Min, Lyu, Holtzman, Artetxe, Lewis, Hajishirzi, Zettlemoyer)",
+          "schema:url": "https://aclanthology.org/2022.emnlp-main.759",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "In-context Learning and Induction Heads",
+          "dcterms:publisher": "Anthropic, Transformer Circuits Thread, March 2022 (Olsson, Elhage, Nanda, Olah, et al.)",
+          "schema:url": "https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "An Explanation of In-context Learning as Implicit Bayesian Inference",
+          "dcterms:publisher": "arXiv 2111.02080 (Xie, Raghunathan, Liang, Ma; ICLR 2022)",
+          "schema:url": "https://arxiv.org/pdf/2111.02080",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Transformers Learn In-Context by Gradient Descent",
+          "dcterms:publisher": "ICML 2023, pp. 35151-35174 (von Oswald, Niklasson, Randazzo, Sacramento, Mordvintsev, Zhmoginov, Vladymyrov), via Google Research",
+          "schema:url": "https://research.google/pubs/transformers-learn-in-context-by-gradient-descent/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Calibrate Before Use: Improving Few-shot Performance of Language Models",
+          "dcterms:publisher": "ICML 2021, PMLR vol. 139, pp. 12697-12706 (Zhao, Wallace, Feng, Klein, Singh)",
+          "schema:url": "https://proceedings.mlr.press/v139/zhao21c.html",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/transformers-and-llms/in-context-learning.md",
+      "skos:altLabel": [
+        "ICL",
+        "in-context learner",
+        "learning from demonstrations in the prompt"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:few-shot-prompting"
+        },
+        {
+          "@id": "kt:prompt-sensitivity"
+        },
+        {
+          "@id": "kt:context-window"
+        },
+        {
+          "@id": "kt:emergent-abilities"
+        },
+        {
+          "@id": "kt:induction-head"
+        },
+        {
+          "@id": "kt:mechanistic-interpretability"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:language-models-are-few-shot-learners"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:pretraining"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:fine-tuning"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:chain-of-thought"
+        }
+      ]
+    },
+    {
       "@id": "kt:large-language-model",
       "@type": "kto:Concept",
       "skos:prefLabel": "Large language model",

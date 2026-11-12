@@ -1281,6 +1281,28 @@
     ]
   },
   {
+    "id": "kt:in-context-learning",
+    "title": "In-context learning",
+    "aliases": [
+      "ICL",
+      "in-context learner",
+      "learning from demonstrations in the prompt"
+    ],
+    "type": "Concept",
+    "domain": "transformers-and-llms",
+    "file": "articles/transformers-and-llms/in-context-learning.md",
+    "created": "2026-11-12",
+    "maturity": "established",
+    "source_urls": [
+      "https://papers.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html",
+      "https://aclanthology.org/2022.emnlp-main.759",
+      "https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html",
+      "https://arxiv.org/pdf/2111.02080",
+      "https://research.google/pubs/transformers-learn-in-context-by-gradient-descent/",
+      "https://proceedings.mlr.press/v139/zhao21c.html"
+    ]
+  },
+  {
     "id": "kt:jailbreak",
     "title": "Jailbreak",
     "aliases": [

@@ -1506,6 +1506,33 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-classification-with-deep-convolutional-neural-networks> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "historical" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <https://github.com/john1hsu/ai-knowledge-graph/ontology#runsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> <http://www.w3.org/2000/01/rdf-schema#label> "In-context learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "ICL" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "in-context learner" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "learning from demonstrations in the prompt" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> <http://www.w3.org/2004/02/skos/core#definition> "The ability of a pretrained language model to perform a new task from instructions or a handful of input-output demonstrations placed in its prompt, at inference time and without any update to its weights." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> <http://www.w3.org/2004/02/skos/core#prefLabel> "In-context learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/induction-head> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "transformers-and-llms" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/jailbreak> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/jailbreak> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Risk> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/jailbreak> <http://www.w3.org/2000/01/rdf-schema#label> "Jailbreak" .
@@ -4044,6 +4071,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s6> <https://schema.org/url> "https://image-net.org/filtering-and-balancing/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 2020 (Brown, Mann, Ryder, Subbiah, Kaplan, Dhariwal, et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s1> <http://purl.org/dc/terms/title> "Language Models are Few-Shot Learners" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s1> <https://schema.org/url> "https://papers.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s2> <http://purl.org/dc/terms/publisher> "EMNLP 2022, pp. 11048-11064 (Min, Lyu, Holtzman, Artetxe, Lewis, Hajishirzi, Zettlemoyer)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s2> <http://purl.org/dc/terms/title> "Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s2> <https://schema.org/url> "https://aclanthology.org/2022.emnlp-main.759" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s3> <http://purl.org/dc/terms/publisher> "Anthropic, Transformer Circuits Thread, March 2022 (Olsson, Elhage, Nanda, Olah, et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s3> <http://purl.org/dc/terms/title> "In-context Learning and Induction Heads" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s3> <https://schema.org/url> "https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s4> <http://purl.org/dc/terms/publisher> "arXiv 2111.02080 (Xie, Raghunathan, Liang, Ma; ICLR 2022)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s4> <http://purl.org/dc/terms/title> "An Explanation of In-context Learning as Implicit Bayesian Inference" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s4> <https://schema.org/url> "https://arxiv.org/pdf/2111.02080" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s5> <http://purl.org/dc/terms/publisher> "ICML 2023, pp. 35151-35174 (von Oswald, Niklasson, Randazzo, Sacramento, Mordvintsev, Zhmoginov, Vladymyrov), via Google Research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s5> <http://purl.org/dc/terms/title> "Transformers Learn In-Context by Gradient Descent" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s5> <https://schema.org/url> "https://research.google/pubs/transformers-learn-in-context-by-gradient-descent/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s6> <http://purl.org/dc/terms/publisher> "ICML 2021, PMLR vol. 139, pp. 12697-12706 (Zhao, Wallace, Feng, Klein, Singh)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s6> <http://purl.org/dc/terms/title> "Calibrate Before Use: Improving Few-shot Performance of Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s6> <https://schema.org/url> "https://proceedings.mlr.press/v139/zhao21c.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/jailbreak/s1> <http://purl.org/dc/terms/publisher> "NIST (Vassilev, Oprea, Fordyce, Anderson, Davies, Hamin), March 2025" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/jailbreak/s1> <http://purl.org/dc/terms/title> "Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations (NIST AI 100-2 E2025)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/jailbreak/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
