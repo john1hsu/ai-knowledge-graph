@@ -195,6 +195,28 @@
     ]
   },
   {
+    "id": "kt:ai-governance",
+    "title": "AI governance",
+    "aliases": [
+      "artificial intelligence governance",
+      "governance of artificial intelligence",
+      "governance of AI"
+    ],
+    "type": "Field",
+    "domain": "governance-and-policy",
+    "file": "articles/governance-and-policy/ai-governance.md",
+    "created": "2026-11-12",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://www.fhi.ox.ac.uk/29928-2",
+      "https://oecd.ai/en/ai-principles",
+      "https://commission.europa.eu/news/ai-act-enters-force-2024-08-01_en",
+      "https://airc.nist.gov/airmf-resources/airmf/5-sec-core/",
+      "https://arxiv.org/abs/1906.11668",
+      "https://arxiv.org/pdf/1906.06668"
+    ]
+  },
+  {
     "id": "kt:ai-safety-institutes",
     "title": "AI safety institutes",
     "aliases": [

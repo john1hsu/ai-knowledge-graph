@@ -4635,6 +4635,97 @@
       ]
     },
     {
+      "@id": "kt:ai-governance",
+      "@type": "kto:Field",
+      "skos:prefLabel": "AI governance",
+      "skos:definition": "The study and practice of the norms, laws, standards, institutions and organisational processes that shape how AI systems are developed, deployed and used, so that their benefits are realised and their risks are identified, managed and held to account.",
+      "kto:domain": "governance-and-policy",
+      "dcterms:created": "2026-11-12",
+      "kto:maturity": "emerging",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "AI Governance: A Research Agenda (v1.0)",
+          "dcterms:publisher": "Allan Dafoe, Centre for the Governance of AI, Future of Humanity Institute, University of Oxford, 27 August 2018",
+          "schema:url": "https://www.fhi.ox.ac.uk/29928-2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "OECD AI Principles overview",
+          "dcterms:publisher": "OECD.AI Policy Observatory (OECD Recommendation on Artificial Intelligence, adopted 2019, updated 2024)",
+          "schema:url": "https://oecd.ai/en/ai-principles",
+          "kto:sourceType": "intergovernmental"
+        },
+        {
+          "dcterms:title": "AI Act enters into force",
+          "dcterms:publisher": "European Commission, 1 August 2024",
+          "schema:url": "https://commission.europa.eu/news/ai-act-enters-force-2024-08-01_en",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "AI RMF 1.0, Section 5: AI RMF Core",
+          "dcterms:publisher": "National Institute of Standards and Technology (NIST), Trustworthy and Responsible AI Resource Center",
+          "schema:url": "https://airc.nist.gov/airmf-resources/airmf/5-sec-core/",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Artificial Intelligence: the global landscape of ethics guidelines (arXiv 1906.11668)",
+          "dcterms:publisher": "Anna Jobin, Marcello Ienca and Effy Vayena, authors' arXiv version, June 2019 (published in Nature Machine Intelligence, 2019)",
+          "schema:url": "https://arxiv.org/abs/1906.11668",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Principles alone cannot guarantee ethical AI (arXiv 1906.06668)",
+          "dcterms:publisher": "Brent Mittelstadt, Oxford Internet Institute and Alan Turing Institute, authors' arXiv version, 2019",
+          "schema:url": "https://arxiv.org/pdf/1906.06668",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/governance-and-policy/ai-governance.md",
+      "skos:altLabel": [
+        "artificial intelligence governance",
+        "governance of artificial intelligence",
+        "governance of AI"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:artificial-intelligence"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:ai-safety"
+        },
+        {
+          "@id": "kt:ai-alignment"
+        },
+        {
+          "@id": "kt:algorithmic-bias-and-fairness"
+        },
+        {
+          "@id": "kt:ai-safety-institutes"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:compute-governance"
+        },
+        {
+          "@id": "kt:eu-ai-act"
+        },
+        {
+          "@id": "kt:nist-ai-risk-management-framework"
+        },
+        {
+          "@id": "kt:oecd-ai-principles"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:ai-governance-a-research-agenda"
+        }
+      ]
+    },
+    {
       "@id": "kt:ai-safety-institutes",
       "@type": "kto:Organization",
       "skos:prefLabel": "AI safety institutes",

@@ -224,6 +224,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Field> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> <http://www.w3.org/2000/01/rdf-schema#label> "AI governance" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> <http://www.w3.org/2004/02/skos/core#altLabel> "artificial intelligence governance" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> <http://www.w3.org/2004/02/skos/core#altLabel> "governance of AI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> <http://www.w3.org/2004/02/skos/core#altLabel> "governance of artificial intelligence" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> <http://www.w3.org/2004/02/skos/core#definition> "The study and practice of the norms, laws, standards, institutions and organisational processes that shape how AI systems are developed, deployed and used, so that their benefits are realised and their risks are identified, managed and held to account." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> <http://www.w3.org/2004/02/skos/core#prefLabel> "AI governance" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "governance-and-policy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/oecd-ai-principles> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance-a-research-agenda> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Organization> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <http://www.w3.org/2000/01/rdf-schema#label> "AI safety institutes" .
@@ -2931,6 +2957,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-evaluation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-evaluation/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "intergovernmental" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-evaluation/s6> <https://schema.org/url> "https://oecd.ai/en/catalogue/tools/inspect" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s1> <http://purl.org/dc/terms/publisher> "Allan Dafoe, Centre for the Governance of AI, Future of Humanity Institute, University of Oxford, 27 August 2018" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s1> <http://purl.org/dc/terms/title> "AI Governance: A Research Agenda (v1.0)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s1> <https://schema.org/url> "https://www.fhi.ox.ac.uk/29928-2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s2> <http://purl.org/dc/terms/publisher> "OECD.AI Policy Observatory (OECD Recommendation on Artificial Intelligence, adopted 2019, updated 2024)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s2> <http://purl.org/dc/terms/title> "OECD AI Principles overview" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "intergovernmental" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s2> <https://schema.org/url> "https://oecd.ai/en/ai-principles" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s3> <http://purl.org/dc/terms/publisher> "European Commission, 1 August 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s3> <http://purl.org/dc/terms/title> "AI Act enters into force" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s3> <https://schema.org/url> "https://commission.europa.eu/news/ai-act-enters-force-2024-08-01_en" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s4> <http://purl.org/dc/terms/publisher> "National Institute of Standards and Technology (NIST), Trustworthy and Responsible AI Resource Center" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s4> <http://purl.org/dc/terms/title> "AI RMF 1.0, Section 5: AI RMF Core" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s4> <https://schema.org/url> "https://airc.nist.gov/airmf-resources/airmf/5-sec-core/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s5> <http://purl.org/dc/terms/publisher> "Anna Jobin, Marcello Ienca and Effy Vayena, authors' arXiv version, June 2019 (published in Nature Machine Intelligence, 2019)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s5> <http://purl.org/dc/terms/title> "Artificial Intelligence: the global landscape of ethics guidelines (arXiv 1906.11668)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s5> <https://schema.org/url> "https://arxiv.org/abs/1906.11668" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s6> <http://purl.org/dc/terms/publisher> "Brent Mittelstadt, Oxford Internet Institute and Alan Turing Institute, authors' arXiv version, 2019" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s6> <http://purl.org/dc/terms/title> "Principles alone cannot guarantee ethical AI (arXiv 1906.06668)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s6> <https://schema.org/url> "https://arxiv.org/pdf/1906.06668" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s1> <http://purl.org/dc/terms/publisher> "UK Department for Science, Innovation and Technology, 2 November 2023" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s1> <http://purl.org/dc/terms/title> "Prime Minister launches new AI Safety Institute" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
