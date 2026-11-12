@@ -548,6 +548,7 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/batching-and-paged-attention> <http://www.w3.org/2004/02/skos/core#prefLabel> "Continuous batching and PagedAttention" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/batching-and-paged-attention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/batching-and-paged-attention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/speculative-decoding> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/batching-and-paged-attention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/batching-and-paged-attention> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/batching-and-paged-attention/s1> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/batching-and-paged-attention> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/batching-and-paged-attention/s2> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/batching-and-paged-attention> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/batching-and-paged-attention/s3> .
@@ -6083,6 +6084,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s6> <https://schema.org/url> "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-188.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s1> <http://purl.org/dc/terms/publisher> "NVIDIA TensorRT-LLM documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s1> <http://purl.org/dc/terms/title> "Overview — TensorRT LLM documentation (1.4.0rc3)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s1> <https://schema.org/url> "https://nvidia.github.io/TensorRT-LLM/latest/overview.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s2> <http://purl.org/dc/terms/publisher> "NVIDIA Technical Blog (Vaidya, Comly, DeLaere, Patel and Oh), 9 September 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s2> <http://purl.org/dc/terms/title> "NVIDIA TensorRT-LLM Supercharges Large Language Model Inference on NVIDIA H100 GPUs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s2> <https://schema.org/url> "https://developer.nvidia.com/blog/nvidia-tensorrt-llm-supercharges-large-language-model-inference-on-nvidia-h100-gpus/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s3> <http://purl.org/dc/terms/publisher> "NVIDIA Technical Blog, 19 October 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s3> <http://purl.org/dc/terms/title> "Optimizing Inference on Large Language Models with NVIDIA TensorRT-LLM, Now Publicly Available" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s3> <https://schema.org/url> "https://developer.nvidia.com/blog/optimizing-inference-on-llms-with-tensorrt-llm-now-publicly-available/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s4> <http://purl.org/dc/terms/publisher> "OSDI '22, USENIX, pp. 521–538 (Yu, Jeong, Kim, Kim and Chun)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s4> <http://purl.org/dc/terms/title> "Orca: A Distributed Serving System for Transformer-Based Generative Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s4> <https://schema.org/url> "https://www.usenix.org/conference/osdi22/presentation/yu" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s5> <http://purl.org/dc/terms/publisher> "NVIDIA TensorRT-LLM documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s5> <http://purl.org/dc/terms/title> "Migration Guide: TensorRT Backend Removed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s5> <https://schema.org/url> "https://nvidia.github.io/TensorRT-LLM/latest/legacy/tensorrt-backend-removal.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s6> <http://purl.org/dc/terms/publisher> "NVIDIA TensorRT-LLM documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s6> <http://purl.org/dc/terms/title> "PyTorch Backend" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s6> <https://schema.org/url> "https://nvidia.github.io/TensorRT-LLM/latest/legacy/torch.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/test-time-compute/s1> <http://purl.org/dc/terms/publisher> "arXiv 2408.03314v1 (Snell, Lee, Xu, Kumar), 6 August 2024" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/test-time-compute/s1> <http://purl.org/dc/terms/title> "Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/test-time-compute/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -6554,6 +6585,34 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/differential-privacy> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Tool> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <http://www.w3.org/2000/01/rdf-schema#label> "TensorRT-LLM" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <http://www.w3.org/2004/02/skos/core#altLabel> "TRT-LLM" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <http://www.w3.org/2004/02/skos/core#altLabel> "TensorRT LLM" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/llm-inference-optimization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <http://www.w3.org/2004/02/skos/core#definition> "NVIDIA's open-source library for optimizing and serving large language model inference on NVIDIA GPUs, combining fused attention kernels, in-flight batching, a paged KV cache, low-precision quantization, speculative decoding and multi-GPU parallelism behind a Python LLM API." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <http://www.w3.org/2004/02/skos/core#prefLabel> "TensorRT-LLM" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/batching-and-paged-attention> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/speculative-decoding> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/triton-inference-server> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/vllm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/nvidia> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/cuda> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "inference-and-optimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <https://github.com/john1hsu/ai-knowledge-graph/ontology#runsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/tensor-cores> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/test-time-compute> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/test-time-compute> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/test-time-compute> <http://www.w3.org/2000/01/rdf-schema#label> "Test-time compute" .

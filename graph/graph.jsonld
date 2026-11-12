@@ -5936,6 +5936,9 @@
         },
         {
           "@id": "kt:quantization"
+        },
+        {
+          "@id": "kt:tensorrt-llm"
         }
       ],
       "kto:introducedIn": [
@@ -6538,6 +6541,113 @@
       "kto:alternativeTo": [
         {
           "@id": "kt:quantization"
+        }
+      ]
+    },
+    {
+      "@id": "kt:tensorrt-llm",
+      "@type": "kto:Tool",
+      "skos:prefLabel": "TensorRT-LLM",
+      "skos:definition": "NVIDIA's open-source library for optimizing and serving large language model inference on NVIDIA GPUs, combining fused attention kernels, in-flight batching, a paged KV cache, low-precision quantization, speculative decoding and multi-GPU parallelism behind a Python LLM API.",
+      "kto:domain": "inference-and-optimization",
+      "dcterms:created": "2026-11-12",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Overview — TensorRT LLM documentation (1.4.0rc3)",
+          "dcterms:publisher": "NVIDIA TensorRT-LLM documentation",
+          "schema:url": "https://nvidia.github.io/TensorRT-LLM/latest/overview.html",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "NVIDIA TensorRT-LLM Supercharges Large Language Model Inference on NVIDIA H100 GPUs",
+          "dcterms:publisher": "NVIDIA Technical Blog (Vaidya, Comly, DeLaere, Patel and Oh), 9 September 2023",
+          "schema:url": "https://developer.nvidia.com/blog/nvidia-tensorrt-llm-supercharges-large-language-model-inference-on-nvidia-h100-gpus/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Optimizing Inference on Large Language Models with NVIDIA TensorRT-LLM, Now Publicly Available",
+          "dcterms:publisher": "NVIDIA Technical Blog, 19 October 2023",
+          "schema:url": "https://developer.nvidia.com/blog/optimizing-inference-on-llms-with-tensorrt-llm-now-publicly-available/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Orca: A Distributed Serving System for Transformer-Based Generative Models",
+          "dcterms:publisher": "OSDI '22, USENIX, pp. 521–538 (Yu, Jeong, Kim, Kim and Chun)",
+          "schema:url": "https://www.usenix.org/conference/osdi22/presentation/yu",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Migration Guide: TensorRT Backend Removed",
+          "dcterms:publisher": "NVIDIA TensorRT-LLM documentation",
+          "schema:url": "https://nvidia.github.io/TensorRT-LLM/latest/legacy/tensorrt-backend-removal.html",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "PyTorch Backend",
+          "dcterms:publisher": "NVIDIA TensorRT-LLM documentation",
+          "schema:url": "https://nvidia.github.io/TensorRT-LLM/latest/legacy/torch.html",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/inference-and-optimization/tensorrt-llm.md",
+      "skos:altLabel": [
+        "TensorRT LLM",
+        "TRT-LLM"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:llm-inference-optimization"
+        },
+        {
+          "@id": "kt:model-serving"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:batching-and-paged-attention"
+        },
+        {
+          "@id": "kt:quantization"
+        },
+        {
+          "@id": "kt:speculative-decoding"
+        },
+        {
+          "@id": "kt:flash-attention"
+        },
+        {
+          "@id": "kt:triton-inference-server"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:nvidia"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:pytorch"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:orca-serving-system"
+        }
+      ],
+      "kto:runsOn": [
+        {
+          "@id": "kt:tensor-cores"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:vllm"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:cuda"
         }
       ]
     },

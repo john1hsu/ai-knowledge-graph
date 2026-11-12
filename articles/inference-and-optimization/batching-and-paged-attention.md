@@ -10,7 +10,7 @@ summary: >-
   request's KV cache in small fixed-size blocks, like virtual-memory pages, so far more requests fit in GPU memory.
 maturity: established
 broader: [kt:llm-inference-optimization]
-related: [kt:speculative-decoding, kt:quantization]
+related: [kt:speculative-decoding, kt:quantization, kt:tensorrt-llm]
 relations:
   - {predicate: introducedIn, object: kt:efficient-memory-management-for-large-language-model-serving-with-pagedattention}
   - {predicate: influencedBy, object: kt:orca-serving-system}

@@ -2540,6 +2540,27 @@
     ]
   },
   {
+    "id": "kt:tensorrt-llm",
+    "title": "TensorRT-LLM",
+    "aliases": [
+      "TensorRT LLM",
+      "TRT-LLM"
+    ],
+    "type": "Tool",
+    "domain": "inference-and-optimization",
+    "file": "articles/inference-and-optimization/tensorrt-llm.md",
+    "created": "2026-11-12",
+    "maturity": "established",
+    "source_urls": [
+      "https://nvidia.github.io/TensorRT-LLM/latest/overview.html",
+      "https://developer.nvidia.com/blog/nvidia-tensorrt-llm-supercharges-large-language-model-inference-on-nvidia-h100-gpus/",
+      "https://developer.nvidia.com/blog/optimizing-inference-on-llms-with-tensorrt-llm-now-publicly-available/",
+      "https://www.usenix.org/conference/osdi22/presentation/yu",
+      "https://nvidia.github.io/TensorRT-LLM/latest/legacy/tensorrt-backend-removal.html",
+      "https://nvidia.github.io/TensorRT-LLM/latest/legacy/torch.html"
+    ]
+  },
+  {
     "id": "kt:test-time-compute",
     "title": "Test-time compute",
     "aliases": [
