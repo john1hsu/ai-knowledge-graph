@@ -1806,6 +1806,27 @@
     ]
   },
   {
+    "id": "kt:object-detection",
+    "title": "Object detection",
+    "aliases": [
+      "visual object detection",
+      "object localization and recognition"
+    ],
+    "type": "Application",
+    "domain": "computer-vision-and-multimodal",
+    "file": "articles/computer-vision-and-multimodal/object-detection.md",
+    "created": "2026-11-12",
+    "maturity": "established",
+    "source_urls": [
+      "https://d2l.ai/chapter_computer-vision/bounding-box.html",
+      "https://d2l.ai/chapter_computer-vision/anchor.html",
+      "https://homepages.inf.ed.ac.uk/ckiw/postscript/ijcv_voc09.pdf",
+      "https://openaccess.thecvf.com/content_cvpr_2014/html/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.html",
+      "https://raw.githubusercontent.com/cocodataset/cocodataset.github.io/master/dataset/detection-eval.htm",
+      "https://arxiv.org/abs/2005.12872"
+    ]
+  },
+  {
     "id": "kt:omb-ai-memoranda",
     "title": "OMB AI memoranda",
     "aliases": [
