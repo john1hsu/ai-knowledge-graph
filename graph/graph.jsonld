@@ -7470,6 +7470,104 @@
       ]
     },
     {
+      "@id": "kt:markov-decision-process",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Markov decision process",
+      "skos:definition": "The standard mathematical model of sequential decision-making under uncertainty: an agent in a state chooses an action, the environment returns a reward and a next state drawn from probabilities that depend only on the current state and action, and the goal is a policy that maximises expected (discounted) return.",
+      "kto:domain": "reinforcement-learning",
+      "dcterms:created": "2026-11-12",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "A Markovian Decision Process",
+          "dcterms:publisher": "RAND Corporation paper P-1066 (Richard E. Bellman), 1957",
+          "schema:url": "https://www.rand.org/pubs/papers/P1066.html",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Chapter 3: The Reinforcement Learning Problem (lecture slides for Sutton and Barto)",
+          "dcterms:publisher": "University of Massachusetts Amherst, CS 687 course materials (Andrew G. Barto)",
+          "schema:url": "https://people.cs.umass.edu/~barto/courses/cs687/Chapter%203.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Lecture 10: Markov Decision Processes",
+          "dcterms:publisher": "MIT 6.390 Intro to Machine Learning (Shen Shen), April 2026",
+          "schema:url": "https://introml.mit.edu/_static/spring26/lectures/lec10/lecture10.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Lecture Note 3: Policy Iteration",
+          "dcterms:publisher": "MIT OpenCourseWare 2.997 Decision Making in Large Scale Systems (Daniela Pucci de Farias), Spring 2004",
+          "schema:url": "https://ocw.mit.edu/courses/2-997-decision-making-in-large-scale-systems-spring-2004/fbd5a7941a8981776eb0f5bd81308790_lec_3_v3.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Planning and acting in partially observable stochastic domains",
+          "dcterms:publisher": "Artificial Intelligence 101:99-134, 1998 (Kaelbling, Littman and Cassandra); course-hosted copy, University of Queensland",
+          "schema:url": "https://people.smp.uq.edu.au/YoniNazarathy/Control4406_2014/resources/KaelblingLittmanCassandra1998.pdf",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/reinforcement-learning/markov-decision-process.md",
+      "skos:altLabel": [
+        "MDP",
+        "Markovian decision process",
+        "finite MDP"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:reinforcement-learning"
+        },
+        {
+          "@id": "kt:markov-chain"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:q-learning"
+        },
+        {
+          "@id": "kt:policy-gradient"
+        },
+        {
+          "@id": "kt:exploration-exploitation"
+        },
+        {
+          "@id": "kt:hidden-markov-model"
+        },
+        {
+          "@id": "kt:deep-q-network"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:richard-bellman"
+        }
+      ],
+      "kto:extends": [
+        {
+          "@id": "kt:markov-chain"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:value-iteration"
+        },
+        {
+          "@id": "kt:policy-iteration"
+        },
+        {
+          "@id": "kt:q-learning"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:partially-observable-markov-decision-process"
+        }
+      ]
+    },
+    {
       "@id": "kt:policy-gradient",
       "@type": "kto:Technique",
       "skos:prefLabel": "Policy gradient methods",

@@ -1522,6 +1522,27 @@
     ]
   },
   {
+    "id": "kt:markov-decision-process",
+    "title": "Markov decision process",
+    "aliases": [
+      "MDP",
+      "Markovian decision process",
+      "finite MDP"
+    ],
+    "type": "Concept",
+    "domain": "reinforcement-learning",
+    "file": "articles/reinforcement-learning/markov-decision-process.md",
+    "created": "2026-11-12",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://www.rand.org/pubs/papers/P1066.html",
+      "https://people.cs.umass.edu/~barto/courses/cs687/Chapter%203.pdf",
+      "https://introml.mit.edu/_static/spring26/lectures/lec10/lecture10.pdf",
+      "https://ocw.mit.edu/courses/2-997-decision-making-in-large-scale-systems-spring-2004/fbd5a7941a8981776eb0f5bd81308790_lec_3_v3.pdf",
+      "https://people.smp.uq.edu.au/YoniNazarathy/Control4406_2014/resources/KaelblingLittmanCassandra1998.pdf"
+    ]
+  },
+  {
     "id": "kt:mechanistic-interpretability",
     "title": "Mechanistic interpretability",
     "aliases": [
