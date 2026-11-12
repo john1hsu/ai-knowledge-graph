@@ -8905,6 +8905,94 @@
       ]
     },
     {
+      "@id": "kt:hallucination",
+      "@type": "kto:Risk",
+      "skos:prefLabel": "Hallucination",
+      "skos:definition": "The generation by a language model or other generative AI system of fluent, confident content that is false, unsupported by its input, or nonsensical, such as invented facts, citations or quotations.",
+      "kto:domain": "safety-alignment-and-security",
+      "dcterms:created": "2026-11-12",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Survey of Hallucination in Natural Language Generation",
+          "dcterms:publisher": "ACM Computing Surveys (Ji, Lee, Frieske, Yu, Su, Xu, Ishii, Bang, Madotto, Fung et al.), DOI 10.1145/3571730; arXiv:2202.03629",
+          "schema:url": "https://arxiv.org/pdf/2202.03629v5",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Why Language Models Hallucinate",
+          "dcterms:publisher": "arXiv:2509.04664 (Kalai, Nachum, Vempala, Zhang), September 2025",
+          "schema:url": "https://arxiv.org/html/2509.04664v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Why language models hallucinate",
+          "dcterms:publisher": "OpenAI, 5 September 2025",
+          "schema:url": "https://openai.com/index/why-language-models-hallucinate/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile (NIST AI 600-1)",
+          "dcterms:publisher": "National Institute of Standards and Technology, July 2024",
+          "schema:url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Detecting hallucinations in large language models using semantic entropy",
+          "dcterms:publisher": "Nature, 2024 (Farquhar, Kossen, Kuhn, Gal), OATML Oxford publication page",
+          "schema:url": "https://oatml.cs.ox.ac.uk/publications/202406_FarquharKossenKuhn_HallucinatingLLMs.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Detecting hallucinations in large language models using semantic entropy (explainer)",
+          "dcterms:publisher": "OATML, University of Oxford, 19 June 2024",
+          "schema:url": "https://oatml.cs.ox.ac.uk/blog/2024/06/19/detecting_hallucinations_2024.html",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/safety-alignment-and-security/hallucination.md",
+      "skos:altLabel": [
+        "AI hallucination",
+        "LLM hallucination",
+        "confabulation",
+        "model hallucination"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-safety"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:pretraining"
+        },
+        {
+          "@id": "kt:sampling-temperature-and-top-p"
+        },
+        {
+          "@id": "kt:retrieval-augmented-generation"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:sycophancy"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:truthfulqa"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:nist-ai-risk-management-framework"
+        }
+      ]
+    },
+    {
       "@id": "kt:jailbreak",
       "@type": "kto:Risk",
       "skos:prefLabel": "Jailbreak",

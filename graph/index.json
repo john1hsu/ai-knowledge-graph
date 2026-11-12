@@ -1262,6 +1262,29 @@
     ]
   },
   {
+    "id": "kt:hallucination",
+    "title": "Hallucination",
+    "aliases": [
+      "AI hallucination",
+      "LLM hallucination",
+      "confabulation",
+      "model hallucination"
+    ],
+    "type": "Risk",
+    "domain": "safety-alignment-and-security",
+    "file": "articles/safety-alignment-and-security/hallucination.md",
+    "created": "2026-11-12",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/pdf/2202.03629v5",
+      "https://arxiv.org/html/2509.04664v1",
+      "https://openai.com/index/why-language-models-hallucinate/",
+      "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+      "https://oatml.cs.ox.ac.uk/publications/202406_FarquharKossenKuhn_HallucinatingLLMs.html",
+      "https://oatml.cs.ox.ac.uk/blog/2024/06/19/detecting_hallucinations_2024.html"
+    ]
+  },
+  {
     "id": "kt:hidden-markov-model",
     "title": "Hidden Markov model",
     "aliases": [

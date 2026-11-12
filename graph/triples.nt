@@ -1478,6 +1478,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "evaluation-and-benchmarks" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/training-verifiers-to-solve-math-word-problems> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Risk> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> <http://www.w3.org/2000/01/rdf-schema#label> "Hallucination" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> <http://www.w3.org/2004/02/skos/core#altLabel> "AI hallucination" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> <http://www.w3.org/2004/02/skos/core#altLabel> "LLM hallucination" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> <http://www.w3.org/2004/02/skos/core#altLabel> "confabulation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> <http://www.w3.org/2004/02/skos/core#altLabel> "model hallucination" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> <http://www.w3.org/2004/02/skos/core#definition> "The generation by a language model or other generative AI system of fluent, confident content that is false, unsupported by its input, or nonsensical, such as invented facts, citations or quotations." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hallucination" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "safety-alignment-and-security" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> <https://github.com/john1hsu/ai-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <http://www.w3.org/2000/01/rdf-schema#label> "Hidden Markov model" .
@@ -4222,6 +4247,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s6> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/2303.08774" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s1> <http://purl.org/dc/terms/publisher> "ACM Computing Surveys (Ji, Lee, Frieske, Yu, Su, Xu, Ishii, Bang, Madotto, Fung et al.), DOI 10.1145/3571730; arXiv:2202.03629" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s1> <http://purl.org/dc/terms/title> "Survey of Hallucination in Natural Language Generation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s1> <https://schema.org/url> "https://arxiv.org/pdf/2202.03629v5" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s2> <http://purl.org/dc/terms/publisher> "arXiv:2509.04664 (Kalai, Nachum, Vempala, Zhang), September 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s2> <http://purl.org/dc/terms/title> "Why Language Models Hallucinate" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s2> <https://schema.org/url> "https://arxiv.org/html/2509.04664v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s3> <http://purl.org/dc/terms/publisher> "OpenAI, 5 September 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s3> <http://purl.org/dc/terms/title> "Why language models hallucinate" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s3> <https://schema.org/url> "https://openai.com/index/why-language-models-hallucinate/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s4> <http://purl.org/dc/terms/publisher> "National Institute of Standards and Technology, July 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s4> <http://purl.org/dc/terms/title> "Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile (NIST AI 600-1)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s4> <https://schema.org/url> "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s5> <http://purl.org/dc/terms/publisher> "Nature, 2024 (Farquhar, Kossen, Kuhn, Gal), OATML Oxford publication page" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s5> <http://purl.org/dc/terms/title> "Detecting hallucinations in large language models using semantic entropy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s5> <https://schema.org/url> "https://oatml.cs.ox.ac.uk/publications/202406_FarquharKossenKuhn_HallucinatingLLMs.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s6> <http://purl.org/dc/terms/publisher> "OATML, University of Oxford, 19 June 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s6> <http://purl.org/dc/terms/title> "Detecting hallucinations in large language models using semantic entropy (explainer)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s6> <https://schema.org/url> "https://oatml.cs.ox.ac.uk/blog/2024/06/19/detecting_hallucinations_2024.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s1> <http://purl.org/dc/terms/publisher> "Daniel Jurafsky and James H. Martin, Stanford University (draft of August 19, 2026)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s1> <http://purl.org/dc/terms/title> "Speech and Language Processing (3rd ed. draft), Appendix A: Hidden Markov Models" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
