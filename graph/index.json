@@ -1458,6 +1458,28 @@
     ]
   },
   {
+    "id": "kt:information-retrieval",
+    "title": "Information retrieval",
+    "aliases": [
+      "IR",
+      "document retrieval",
+      "text retrieval"
+    ],
+    "type": "Field",
+    "domain": "retrieval-and-knowledge",
+    "file": "articles/retrieval-and-knowledge/information-retrieval.md",
+    "created": "2026-11-12",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf",
+      "https://www.staff.city.ac.uk/~sbrp622/papers/JIS_history_preprint.pdf",
+      "https://www.cs.umd.edu/class/fall2009/cmsc828r/PAPERS/VSM_salton-2.pdf",
+      "https://trec.nist.gov/overview.html",
+      "https://aclanthology.org/2020.emnlp-main.550",
+      "https://britannica.com/print/article/1379580"
+    ]
+  },
+  {
     "id": "kt:instruction-tuning",
     "title": "Instruction tuning",
     "aliases": [

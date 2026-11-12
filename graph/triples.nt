@@ -1716,6 +1716,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Field> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> <http://www.w3.org/2000/01/rdf-schema#label> "Information retrieval" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> <http://www.w3.org/2004/02/skos/core#altLabel> "IR" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> <http://www.w3.org/2004/02/skos/core#altLabel> "document retrieval" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> <http://www.w3.org/2004/02/skos/core#altLabel> "text retrieval" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/information-science> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> <http://www.w3.org/2004/02/skos/core#definition> "The field concerned with finding material, usually documents, of an unstructured nature that satisfies an information need from within large collections, typically by indexing the collection and ranking items by estimated relevance to a query." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> <http://www.w3.org/2004/02/skos/core#prefLabel> "Information retrieval" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/bm25> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "retrieval-and-knowledge" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/trec> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/inverted-index> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/vector-space-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <http://www.w3.org/2000/01/rdf-schema#label> "Instruction tuning" .
@@ -4703,6 +4728,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s6> <https://schema.org/url> "https://proceedings.mlr.press/v139/zhao21c.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s1> <http://purl.org/dc/terms/publisher> "Manning, Raghavan and Schütze, Cambridge University Press (2008); online edition hosted by Stanford NLP Group" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s1> <http://purl.org/dc/terms/title> "Introduction to Information Retrieval (online edition), Chapter 1: Boolean retrieval" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s1> <https://schema.org/url> "https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s2> <http://purl.org/dc/terms/publisher> "Stephen Robertson, Journal of Information Science 34(4), 439-456 (2008); author preprint hosted by City, University of London" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s2> <http://purl.org/dc/terms/title> "On the history of evaluation in IR" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s2> <https://schema.org/url> "https://www.staff.city.ac.uk/~sbrp622/papers/JIS_history_preprint.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s3> <http://purl.org/dc/terms/publisher> "Salton, Wong and Yang, Communications of the ACM 18(11), 613-620 (1975); copy hosted by University of Maryland course CMSC 828R" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s3> <http://purl.org/dc/terms/title> "A Vector Space Model for Automatic Indexing" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s3> <https://schema.org/url> "https://www.cs.umd.edu/class/fall2009/cmsc828r/PAPERS/VSM_salton-2.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s4> <http://purl.org/dc/terms/publisher> "National Institute of Standards and Technology (NIST)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s4> <http://purl.org/dc/terms/title> "Text REtrieval Conference (TREC) Overview" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s4> <https://schema.org/url> "https://trec.nist.gov/overview.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s5> <http://purl.org/dc/terms/publisher> "Karpukhin et al., Proceedings of EMNLP 2020, 6769-6781 (ACL Anthology)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s5> <http://purl.org/dc/terms/title> "Dense Passage Retrieval for Open-Domain Question Answering" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s5> <https://schema.org/url> "https://aclanthology.org/2020.emnlp-main.550" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s6> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s6> <http://purl.org/dc/terms/title> "Information retrieval" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s6> <https://schema.org/url> "https://britannica.com/print/article/1379580" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s1> <http://purl.org/dc/terms/publisher> "ICLR 2022; arXiv 2109.01652v5, Google Research (Wei, Bosma, Zhao, Guu, Yu, Lester, Du, Dai and Le)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s1> <http://purl.org/dc/terms/title> "Finetuned Language Models Are Zero-Shot Learners" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

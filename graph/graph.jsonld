@@ -9069,6 +9069,94 @@
       ]
     },
     {
+      "@id": "kt:information-retrieval",
+      "@type": "kto:Field",
+      "skos:prefLabel": "Information retrieval",
+      "skos:definition": "The field concerned with finding material, usually documents, of an unstructured nature that satisfies an information need from within large collections, typically by indexing the collection and ranking items by estimated relevance to a query.",
+      "kto:domain": "retrieval-and-knowledge",
+      "dcterms:created": "2026-11-12",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Introduction to Information Retrieval (online edition), Chapter 1: Boolean retrieval",
+          "dcterms:publisher": "Manning, Raghavan and Schütze, Cambridge University Press (2008); online edition hosted by Stanford NLP Group",
+          "schema:url": "https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "On the history of evaluation in IR",
+          "dcterms:publisher": "Stephen Robertson, Journal of Information Science 34(4), 439-456 (2008); author preprint hosted by City, University of London",
+          "schema:url": "https://www.staff.city.ac.uk/~sbrp622/papers/JIS_history_preprint.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "A Vector Space Model for Automatic Indexing",
+          "dcterms:publisher": "Salton, Wong and Yang, Communications of the ACM 18(11), 613-620 (1975); copy hosted by University of Maryland course CMSC 828R",
+          "schema:url": "https://www.cs.umd.edu/class/fall2009/cmsc828r/PAPERS/VSM_salton-2.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Text REtrieval Conference (TREC) Overview",
+          "dcterms:publisher": "National Institute of Standards and Technology (NIST)",
+          "schema:url": "https://trec.nist.gov/overview.html",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Dense Passage Retrieval for Open-Domain Question Answering",
+          "dcterms:publisher": "Karpukhin et al., Proceedings of EMNLP 2020, 6769-6781 (ACL Anthology)",
+          "schema:url": "https://aclanthology.org/2020.emnlp-main.550",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Information retrieval",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://britannica.com/print/article/1379580",
+          "kto:sourceType": "encyclopedia"
+        }
+      ],
+      "kto:file": "articles/retrieval-and-knowledge/information-retrieval.md",
+      "skos:altLabel": [
+        "IR",
+        "document retrieval",
+        "text retrieval"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:information-science"
+        },
+        {
+          "@id": "kt:natural-language-processing"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:bm25"
+        },
+        {
+          "@id": "kt:tf-idf"
+        },
+        {
+          "@id": "kt:semantic-search"
+        },
+        {
+          "@id": "kt:retrieval-augmented-generation"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:inverted-index"
+        },
+        {
+          "@id": "kt:vector-space-model"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:trec"
+        }
+      ]
+    },
+    {
       "@id": "kt:retrieval-augmented-generation",
       "@type": "kto:Technique",
       "skos:prefLabel": "Retrieval-augmented generation for knowledge-intensive tasks",
