@@ -1875,6 +1875,28 @@
     ]
   },
   {
+    "id": "kt:prompt-engineering",
+    "title": "Prompt engineering",
+    "aliases": [
+      "prompt design",
+      "prompting techniques",
+      "prompt-based learning"
+    ],
+    "type": "Technique",
+    "domain": "prompting-and-reasoning",
+    "file": "articles/prompting-and-reasoning/prompt-engineering.md",
+    "created": "2026-11-12",
+    "maturity": "established",
+    "source_urls": [
+      "https://papers.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html",
+      "https://arxiv.org/abs/2107.13586v1",
+      "https://arxiv.org/abs/2406.06608v6",
+      "https://arxiv.org/pdf/2211.01910",
+      "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview",
+      "https://developers.openai.com/api/docs/guides/prompt-engineering"
+    ]
+  },
+  {
     "id": "kt:prompt-sensitivity",
     "title": "Prompt sensitivity",
     "aliases": [

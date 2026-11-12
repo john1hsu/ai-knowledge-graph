@@ -2212,6 +2212,29 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/program-induction-by-rationale-generation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#followedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/program-induction-by-rationale-generation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/aqua-rat> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/program-induction-by-rationale-generation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "historical" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> <http://www.w3.org/2000/01/rdf-schema#label> "Prompt engineering" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> <http://www.w3.org/2004/02/skos/core#altLabel> "prompt design" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> <http://www.w3.org/2004/02/skos/core#altLabel> "prompt-based learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> <http://www.w3.org/2004/02/skos/core#altLabel> "prompting techniques" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> <http://www.w3.org/2004/02/skos/core#definition> "The practice of designing, testing and iterating on the text given to a pretrained language model (instructions, context, examples and output format) so that it reliably performs a task without changing the model's weights." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> <http://www.w3.org/2004/02/skos/core#prefLabel> "Prompt engineering" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "prompting-and-reasoning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <http://www.w3.org/2000/01/rdf-schema#label> "Prompt sensitivity" .
@@ -5007,6 +5030,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/program-induction-by-rationale-generation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/program-induction-by-rationale-generation/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/program-induction-by-rationale-generation/s4> <https://schema.org/url> "https://arxiv.org/pdf/2201.11903" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 2020 (Brown et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s1> <http://purl.org/dc/terms/title> "Language Models are Few-Shot Learners" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s1> <https://schema.org/url> "https://papers.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s2> <http://purl.org/dc/terms/publisher> "arXiv 2107.13586v1 (Liu, Yuan, Fu, Jiang, Hayashi, Neubig)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s2> <http://purl.org/dc/terms/title> "Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s2> <https://schema.org/url> "https://arxiv.org/abs/2107.13586v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s3> <http://purl.org/dc/terms/publisher> "arXiv 2406.06608v6 (Schulhoff et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s3> <http://purl.org/dc/terms/title> "The Prompt Report: A Systematic Survey of Prompting Techniques" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s3> <https://schema.org/url> "https://arxiv.org/abs/2406.06608v6" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s4> <http://purl.org/dc/terms/publisher> "ICLR 2023, authors' arXiv version 2211.01910 (Zhou, Muresanu, Han, Paster, Pitis, Chan, Ba)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s4> <http://purl.org/dc/terms/title> "Large Language Models Are Human-Level Prompt Engineers" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s4> <https://schema.org/url> "https://arxiv.org/pdf/2211.01910" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s5> <http://purl.org/dc/terms/publisher> "Anthropic, Claude Platform documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s5> <http://purl.org/dc/terms/title> "Prompt engineering overview" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s5> <https://schema.org/url> "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s6> <http://purl.org/dc/terms/publisher> "OpenAI API documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s6> <http://purl.org/dc/terms/title> "Prompt engineering" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s6> <https://schema.org/url> "https://developers.openai.com/api/docs/guides/prompt-engineering" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s1> <http://purl.org/dc/terms/publisher> "ICML 2021, PMLR vol. 139, pp. 12697-12706 (Zhao, Wallace, Feng, Klein, Singh)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s1> <http://purl.org/dc/terms/title> "Calibrate Before Use: Improving Few-shot Performance of Language Models" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

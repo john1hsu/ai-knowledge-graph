@@ -6748,6 +6748,88 @@
       ]
     },
     {
+      "@id": "kt:prompt-engineering",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Prompt engineering",
+      "skos:definition": "The practice of designing, testing and iterating on the text given to a pretrained language model (instructions, context, examples and output format) so that it reliably performs a task without changing the model's weights.",
+      "kto:domain": "prompting-and-reasoning",
+      "dcterms:created": "2026-11-12",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Language Models are Few-Shot Learners",
+          "dcterms:publisher": "NeurIPS 2020 (Brown et al.)",
+          "schema:url": "https://papers.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing",
+          "dcterms:publisher": "arXiv 2107.13586v1 (Liu, Yuan, Fu, Jiang, Hayashi, Neubig)",
+          "schema:url": "https://arxiv.org/abs/2107.13586v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Prompt Report: A Systematic Survey of Prompting Techniques",
+          "dcterms:publisher": "arXiv 2406.06608v6 (Schulhoff et al.)",
+          "schema:url": "https://arxiv.org/abs/2406.06608v6",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Large Language Models Are Human-Level Prompt Engineers",
+          "dcterms:publisher": "ICLR 2023, authors' arXiv version 2211.01910 (Zhou, Muresanu, Han, Paster, Pitis, Chan, Ba)",
+          "schema:url": "https://arxiv.org/pdf/2211.01910",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Prompt engineering overview",
+          "dcterms:publisher": "Anthropic, Claude Platform documentation",
+          "schema:url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Prompt engineering",
+          "dcterms:publisher": "OpenAI API documentation",
+          "schema:url": "https://developers.openai.com/api/docs/guides/prompt-engineering",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/prompting-and-reasoning/prompt-engineering.md",
+      "skos:altLabel": [
+        "prompt design",
+        "prompting techniques",
+        "prompt-based learning"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:natural-language-processing"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:chain-of-thought"
+        },
+        {
+          "@id": "kt:prompt-sensitivity"
+        },
+        {
+          "@id": "kt:few-shot-prompting"
+        },
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:in-context-learning"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:fine-tuning"
+        }
+      ]
+    },
+    {
       "@id": "kt:prompt-sensitivity",
       "@type": "kto:Concept",
       "skos:prefLabel": "Prompt sensitivity",
