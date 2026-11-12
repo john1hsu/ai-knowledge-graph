@@ -1026,6 +1026,98 @@
       ]
     },
     {
+      "@id": "kt:eliza",
+      "@type": "kto:Model",
+      "skos:prefLabel": "ELIZA",
+      "skos:definition": "A natural-language conversation program written by Joseph Weizenbaum at MIT and published in 1966, which matched keywords in typed input against an editable script of decomposition and reassembly rules; run with its Rogerian-psychotherapist script (DOCTOR), it became the best-known early chatbot.",
+      "kto:domain": "ai-history",
+      "dcterms:created": "2026-11-12",
+      "kto:maturity": "historical",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "ELIZA — A Computer Program for the Study of Natural Language Communication Between Man and Machine",
+          "dcterms:publisher": "J. Weizenbaum, Communications of the ACM 9(1), January 1966 (copy hosted by UMBC CMSC 331)",
+          "schema:url": "https://courses.cs.umbc.edu/331/papers/eliza.html",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Eliza",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/Eliza",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "ELIZA Reanimated: The world's first chatbot restored on the world's first time sharing system",
+          "dcterms:publisher": "R. Lane, A. Hay, A. Schwarz, D. M. Berry and J. Shrager, arXiv:2501.06707, January 2025",
+          "schema:url": "https://arxiv.org/html/2501.06707v1",
+          "kto:sourceType": "preprint"
+        },
+        {
+          "dcterms:title": "Joseph Weizenbaum obituary",
+          "dcterms:publisher": "MIT News, March 2008",
+          "schema:url": "https://news.mit.edu/2008/obit-weizenbaum-0310",
+          "kto:sourceType": "news"
+        },
+        {
+          "dcterms:title": "Joseph Weizenbaum (Computer Pioneers)",
+          "dcterms:publisher": "IEEE Computer Society History",
+          "schema:url": "https://history.computer.org/pioneers/weizenbaum.html",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/ai-history/eliza.md",
+      "skos:altLabel": [
+        "ELIZA chatbot",
+        "DOCTOR (ELIZA script)",
+        "Weizenbaum's ELIZA"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chatbot"
+        },
+        {
+          "@id": "kt:natural-language-processing"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:turing-test"
+        },
+        {
+          "@id": "kt:symbolic-ai"
+        },
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:rule-based-system"
+        },
+        {
+          "@id": "kt:logic-theorist"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:joseph-weizenbaum"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:eliza-a-computer-program-for-the-study-of-natural-language-communication-between-man-and-machine"
+        }
+      ],
+      "kto:causes": [
+        {
+          "@id": "kt:eliza-effect"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:time-sharing"
+        }
+      ]
+    },
+    {
       "@id": "kt:geoffrey-hinton",
       "@type": "kto:Person",
       "skos:prefLabel": "Geoffrey Hinton",

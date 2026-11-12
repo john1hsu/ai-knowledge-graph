@@ -962,6 +962,27 @@
     ]
   },
   {
+    "id": "kt:eliza",
+    "title": "ELIZA",
+    "aliases": [
+      "ELIZA chatbot",
+      "DOCTOR (ELIZA script)",
+      "Weizenbaum's ELIZA"
+    ],
+    "type": "Model",
+    "domain": "ai-history",
+    "file": "articles/ai-history/eliza.md",
+    "created": "2026-11-12",
+    "maturity": "historical",
+    "source_urls": [
+      "https://courses.cs.umbc.edu/331/papers/eliza.html",
+      "https://www.britannica.com/topic/Eliza",
+      "https://arxiv.org/html/2501.06707v1",
+      "https://news.mit.edu/2008/obit-weizenbaum-0310",
+      "https://history.computer.org/pioneers/weizenbaum.html"
+    ]
+  },
+  {
     "id": "kt:embeddings",
     "title": "Embeddings",
     "aliases": [

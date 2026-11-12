@@ -50,6 +50,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:positional-encoding` | `kt:attention-is-all-you-need`, `kt:context-window`, `kt:transformer-architecture` |
 | `kt:proximal-policy-optimization` | `kt:policy-gradient`, `kt:direct-preference-optimization`, `kt:rlhf` |
 | `kt:statistical-learning-theory` | `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:supervised-learning` |
+| `kt:symbolic-ai` | `kt:dartmouth-workshop`, `kt:eliza`, `kt:logic-theorist` |
 | `kt:temporal-difference-learning` | `kt:actor-critic`, `kt:q-learning`, `kt:reinforcement-learning` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
 | `kt:ai-hardware` | `kt:high-bandwidth-memory`, `kt:nvidia` |
@@ -73,6 +74,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:model-context-protocol` | `kt:agent2agent-protocol`, `kt:tool-use` |
 | `kt:ms-coco` | `kt:faster-r-cnn`, `kt:yolo` |
 | `kt:named-entity-recognition` | `kt:conditional-random-field`, `kt:glove` |
+| `kt:natural-language-processing` | `kt:eliza`, `kt:prompt-engineering` |
 | `kt:object-detection` | `kt:faster-r-cnn`, `kt:yolo` |
 | `kt:openai` | `kt:clip`, `kt:gsm8k` |
 | `kt:orca-serving-system` | `kt:model-serving`, `kt:batching-and-paged-attention` |
@@ -86,7 +88,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:scikit-learn` | `kt:dimensionality-reduction`, `kt:principal-component-analysis` |
 | `kt:self-refine` | `kt:agentic-workflow`, `kt:voyager` |
 | `kt:stochastic-gradient-descent` | `kt:data-parallelism`, `kt:adam-optimizer` |
-| `kt:symbolic-ai` | `kt:dartmouth-workshop`, `kt:logic-theorist` |
 | `kt:tensor-cores` | `kt:nvidia`, `kt:model-pruning` |
 | `kt:transfer-learning` | `kt:fine-tuning`, `kt:pretraining` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
@@ -130,6 +131,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:center-for-ai-standards-and-innovation` | `kt:ai-safety-institutes` |
 | `kt:chain-of-thought-prompting-elicits-reasoning-in-large-language-models` | `kt:chain-of-thought` |
 | `kt:charles-goodhart` | `kt:goodharts-law` |
+| `kt:chatbot` | `kt:eliza` |
 | `kt:christopher-watkins` | `kt:q-learning` |
 | `kt:cliff-shaw` | `kt:logic-theorist` |
 | `kt:clipper-prediction-serving-system` | `kt:model-serving` |
@@ -158,7 +160,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dropout-a-simple-way-to-prevent-neural-networks-from-overfitting` | `kt:dropout` |
 | `kt:efficient-estimation-of-word-representations-in-vector-space` | `kt:word2vec` |
 | `kt:efficient-memory-management-for-large-language-model-serving-with-pagedattention` | `kt:batching-and-paged-attention` |
-| `kt:eliza` | `kt:turing-test` |
+| `kt:eliza-a-computer-program-for-the-study-of-natural-language-communication-between-man-and-machine` | `kt:eliza` |
+| `kt:eliza-effect` | `kt:eliza` |
 | `kt:emergent-abilities-of-large-language-models` | `kt:emergent-abilities` |
 | `kt:empirical-risk-minimization` | `kt:supervised-learning` |
 | `kt:expectation-maximization` | `kt:hidden-markov-model` |
@@ -204,6 +207,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:john-mccarthy` | `kt:dartmouth-workshop` |
 | `kt:john-searle` | `kt:chinese-room-argument` |
 | `kt:joseph-redmon` | `kt:yolo` |
+| `kt:joseph-weizenbaum` | `kt:eliza` |
 | `kt:juergen-schmidhuber` | `kt:long-short-term-memory` |
 | `kt:karen-sparck-jones` | `kt:tf-idf` |
 | `kt:karl-pearson` | `kt:principal-component-analysis` |
@@ -250,7 +254,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mteb` | `kt:beir` |
 | `kt:multi-armed-bandit` | `kt:exploration-exploitation` |
 | `kt:multimodal-learning` | `kt:vision-language-model` |
-| `kt:natural-language-processing` | `kt:prompt-engineering` |
 | `kt:neocognitron` | `kt:convolutional-neural-network` |
 | `kt:nist` | `kt:nist-ai-risk-management-framework` |
 | `kt:nist-generative-ai-profile` | `kt:nist-ai-risk-management-framework` |
@@ -276,6 +279,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:residual-connection` | `kt:transformer-architecture` |
 | `kt:retrieval-augmented-generation-for-knowledge-intensive-nlp-tasks` | `kt:retrieval-augmented-generation` |
 | `kt:richard-bellman` | `kt:markov-decision-process` |
+| `kt:rule-based-system` | `kt:eliza` |
 | `kt:ruler` | `kt:context-window` |
 | `kt:sarsa` | `kt:q-learning` |
 | `kt:scalable-parallel-programming-with-cuda` | `kt:cuda` |
@@ -310,6 +314,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:thompson-sampling` | `kt:exploration-exploitation` |
 | `kt:through-silicon-via` | `kt:high-bandwidth-memory` |
 | `kt:tim-dettmers` | `kt:qlora` |
+| `kt:time-sharing` | `kt:eliza` |
 | `kt:training-verifiers-to-solve-math-word-problems` | `kt:gsm8k` |
 | `kt:transformers-state-of-the-art-natural-language-processing` | `kt:hugging-face-transformers` |
 | `kt:tri-dao` | `kt:flash-attention` |

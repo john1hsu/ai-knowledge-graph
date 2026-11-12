@@ -1129,6 +1129,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/dropout-a-simple-way-to-prevent-neural-networks-from-overfitting> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <https://github.com/john1hsu/ai-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eliza> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eliza> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eliza> <http://www.w3.org/2000/01/rdf-schema#label> "ELIZA" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eliza> <http://www.w3.org/2004/02/skos/core#altLabel> "DOCTOR (ELIZA script)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eliza> <http://www.w3.org/2004/02/skos/core#altLabel> "ELIZA chatbot" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eliza> <http://www.w3.org/2004/02/skos/core#altLabel> "Weizenbaum's ELIZA" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eliza> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/chatbot> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eliza> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eliza> <http://www.w3.org/2004/02/skos/core#definition> "A natural-language conversation program written by Joseph Weizenbaum at MIT and published in 1966, which matched keywords in typed input against an editable script of decomposition and reassembly rules; run with its Rogerian-psychotherapist script (DOCTOR), it became the best-known early chatbot." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eliza> <http://www.w3.org/2004/02/skos/core#prefLabel> "ELIZA" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eliza> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eliza> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eliza> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/rule-based-system> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eliza> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eliza> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eliza> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/eliza/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eliza> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/eliza/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eliza> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/eliza/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eliza> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/eliza/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eliza> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/eliza/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eliza> <https://github.com/john1hsu/ai-knowledge-graph/ontology#causes> <https://github.com/john1hsu/ai-knowledge-graph/id/eliza-effect> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eliza> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/joseph-weizenbaum> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eliza> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/time-sharing> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eliza> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-history" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eliza> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/eliza-a-computer-program-for-the-study-of-natural-language-communication-between-man-and-machine> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eliza> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "historical" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> <http://www.w3.org/2000/01/rdf-schema#label> "Embeddings" .
@@ -3890,6 +3916,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s6> <https://schema.org/url> "https://proceedings.mlr.press/v48/gal16" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eliza/s1> <http://purl.org/dc/terms/publisher> "J. Weizenbaum, Communications of the ACM 9(1), January 1966 (copy hosted by UMBC CMSC 331)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eliza/s1> <http://purl.org/dc/terms/title> "ELIZA — A Computer Program for the Study of Natural Language Communication Between Man and Machine" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eliza/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eliza/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eliza/s1> <https://schema.org/url> "https://courses.cs.umbc.edu/331/papers/eliza.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eliza/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eliza/s2> <http://purl.org/dc/terms/title> "Eliza" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eliza/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eliza/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eliza/s2> <https://schema.org/url> "https://www.britannica.com/topic/Eliza" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eliza/s3> <http://purl.org/dc/terms/publisher> "R. Lane, A. Hay, A. Schwarz, D. M. Berry and J. Shrager, arXiv:2501.06707, January 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eliza/s3> <http://purl.org/dc/terms/title> "ELIZA Reanimated: The world's first chatbot restored on the world's first time sharing system" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eliza/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eliza/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "preprint" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eliza/s3> <https://schema.org/url> "https://arxiv.org/html/2501.06707v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eliza/s4> <http://purl.org/dc/terms/publisher> "MIT News, March 2008" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eliza/s4> <http://purl.org/dc/terms/title> "Joseph Weizenbaum obituary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eliza/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eliza/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eliza/s4> <https://schema.org/url> "https://news.mit.edu/2008/obit-weizenbaum-0310" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eliza/s5> <http://purl.org/dc/terms/publisher> "IEEE Computer Society History" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eliza/s5> <http://purl.org/dc/terms/title> "Joseph Weizenbaum (Computer Pioneers)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eliza/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eliza/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eliza/s5> <https://schema.org/url> "https://history.computer.org/pioneers/weizenbaum.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s1> <http://purl.org/dc/terms/publisher> "Journal of Machine Learning Research 3 (2003), 1137-1155 (Bengio, Ducharme, Vincent and Jauvin)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s1> <http://purl.org/dc/terms/title> "A Neural Probabilistic Language Model" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/embeddings/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
