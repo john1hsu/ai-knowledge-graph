@@ -2311,6 +2311,33 @@
     ]
   },
   {
+    "id": "kt:vision-language-model",
+    "title": "Vision-language model: LLMs with visual input",
+    "aliases": [
+      "vision-language model",
+      "VLM",
+      "VLMs",
+      "large vision-language model",
+      "LVLM",
+      "large multimodal model",
+      "multimodal LLM",
+      "visual language model"
+    ],
+    "type": "Architecture",
+    "domain": "computer-vision-and-multimodal",
+    "file": "articles/computer-vision-and-multimodal/vision-language-model.md",
+    "created": "2026-11-12",
+    "maturity": "established",
+    "source_urls": [
+      "https://papers.neurips.cc/paper_files/paper/2022/file/960a172bc7fbf0177ccccbb411a7d800-Paper-Conference.pdf",
+      "https://arxiv.org/abs/2204.14198",
+      "https://proceedings.mlr.press/v202/li23q.html",
+      "https://proceedings.neurips.cc/paper_files/paper/2023/hash/6dcf277ea32ce3288914faf369fe6de0-Abstract.html",
+      "https://arxiv.org/abs/2305.10355v1",
+      "https://huggingface.co/blog/vlms"
+    ]
+  },
+  {
     "id": "kt:voyager",
     "title": "Voyager (embodied LLM agent)",
     "aliases": [

@@ -5334,6 +5334,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s5> <https://schema.org/url> "https://www.cs.ubc.ca/~dsuth/532D/25w1/notes/9-universal.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s1> <http://purl.org/dc/terms/publisher> "Alayrac et al. (DeepMind), Advances in Neural Information Processing Systems 35 (NeurIPS 2022)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s1> <http://purl.org/dc/terms/title> "Flamingo: a Visual Language Model for Few-Shot Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s1> <https://schema.org/url> "https://papers.neurips.cc/paper_files/paper/2022/file/960a172bc7fbf0177ccccbb411a7d800-Paper-Conference.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s2> <http://purl.org/dc/terms/publisher> "Alayrac et al., arXiv, April 2022 (v2 November 2022)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s2> <http://purl.org/dc/terms/title> "Flamingo: a Visual Language Model for Few-Shot Learning (authors' arXiv version, 2204.14198)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s2> <https://schema.org/url> "https://arxiv.org/abs/2204.14198" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s3> <http://purl.org/dc/terms/publisher> "Li, Li, Savarese and Hoi, Proceedings of ICML 2023 (PMLR 202), pp. 19730–19742" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s3> <http://purl.org/dc/terms/title> "BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s3> <https://schema.org/url> "https://proceedings.mlr.press/v202/li23q.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s4> <http://purl.org/dc/terms/publisher> "Liu, Li, Wu and Lee, Advances in Neural Information Processing Systems 36 (NeurIPS 2023), pp. 34892–34916" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s4> <http://purl.org/dc/terms/title> "Visual Instruction Tuning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s4> <https://schema.org/url> "https://proceedings.neurips.cc/paper_files/paper/2023/hash/6dcf277ea32ce3288914faf369fe6de0-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s5> <http://purl.org/dc/terms/publisher> "Li, Du, Zhou, Wang, Zhao and Wen, arXiv 2305.10355, May 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s5> <http://purl.org/dc/terms/title> "Evaluating Object Hallucination in Large Vision-Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s5> <https://schema.org/url> "https://arxiv.org/abs/2305.10355v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s6> <http://purl.org/dc/terms/publisher> "Hugging Face blog (merve and Edward Beeching), April 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s6> <http://purl.org/dc/terms/title> "Vision Language Models Explained" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s6> <https://schema.org/url> "https://huggingface.co/blog/vlms" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s1> <http://purl.org/dc/terms/publisher> "arXiv 2305.16291 (Wang et al., authors' version)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s1> <http://purl.org/dc/terms/title> "Voyager: An Open-Ended Embodied Agent with Large Language Models (v2)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -5717,6 +5747,40 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <https://github.com/john1hsu/ai-knowledge-graph/ontology#extends> <https://github.com/john1hsu/ai-knowledge-graph/id/stone-weierstrass-theorem> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/approximation-by-superpositions-of-a-sigmoidal-function> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <http://www.w3.org/2000/01/rdf-schema#label> "Vision-language model: LLMs with visual input" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <http://www.w3.org/2004/02/skos/core#altLabel> "LVLM" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <http://www.w3.org/2004/02/skos/core#altLabel> "VLM" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <http://www.w3.org/2004/02/skos/core#altLabel> "VLMs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <http://www.w3.org/2004/02/skos/core#altLabel> "large multimodal model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <http://www.w3.org/2004/02/skos/core#altLabel> "large vision-language model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <http://www.w3.org/2004/02/skos/core#altLabel> "multimodal LLM" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <http://www.w3.org/2004/02/skos/core#altLabel> "vision-language model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <http://www.w3.org/2004/02/skos/core#altLabel> "visual language model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/multimodal-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <http://www.w3.org/2004/02/skos/core#definition> "A model that takes images (and often video) together with text as input and generates text, typically built by connecting a pretrained image encoder to a pretrained large language model through a learned bridge such as a projector, a query transformer or cross-attention layers." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vision-language model: LLMs with visual input" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/clip> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/clip> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#causes> <https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "computer-vision-and-multimodal" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/flamingo-a-visual-language-model-for-few-shot-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Model> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <http://www.w3.org/2000/01/rdf-schema#label> "Voyager (embodied LLM agent)" .

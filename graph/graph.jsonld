@@ -2663,6 +2663,117 @@
       ]
     },
     {
+      "@id": "kt:vision-language-model",
+      "@type": "kto:Architecture",
+      "skos:prefLabel": "Vision-language model: LLMs with visual input",
+      "skos:definition": "A model that takes images (and often video) together with text as input and generates text, typically built by connecting a pretrained image encoder to a pretrained large language model through a learned bridge such as a projector, a query transformer or cross-attention layers.",
+      "kto:domain": "computer-vision-and-multimodal",
+      "dcterms:created": "2026-11-12",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Flamingo: a Visual Language Model for Few-Shot Learning",
+          "dcterms:publisher": "Alayrac et al. (DeepMind), Advances in Neural Information Processing Systems 35 (NeurIPS 2022)",
+          "schema:url": "https://papers.neurips.cc/paper_files/paper/2022/file/960a172bc7fbf0177ccccbb411a7d800-Paper-Conference.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Flamingo: a Visual Language Model for Few-Shot Learning (authors' arXiv version, 2204.14198)",
+          "dcterms:publisher": "Alayrac et al., arXiv, April 2022 (v2 November 2022)",
+          "schema:url": "https://arxiv.org/abs/2204.14198",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models",
+          "dcterms:publisher": "Li, Li, Savarese and Hoi, Proceedings of ICML 2023 (PMLR 202), pp. 19730–19742",
+          "schema:url": "https://proceedings.mlr.press/v202/li23q.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Visual Instruction Tuning",
+          "dcterms:publisher": "Liu, Li, Wu and Lee, Advances in Neural Information Processing Systems 36 (NeurIPS 2023), pp. 34892–34916",
+          "schema:url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/6dcf277ea32ce3288914faf369fe6de0-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Evaluating Object Hallucination in Large Vision-Language Models",
+          "dcterms:publisher": "Li, Du, Zhou, Wang, Zhao and Wen, arXiv 2305.10355, May 2023",
+          "schema:url": "https://arxiv.org/abs/2305.10355v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Vision Language Models Explained",
+          "dcterms:publisher": "Hugging Face blog (merve and Edward Beeching), April 2024",
+          "schema:url": "https://huggingface.co/blog/vlms",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/computer-vision-and-multimodal/vision-language-model.md",
+      "skos:altLabel": [
+        "vision-language model",
+        "VLM",
+        "VLMs",
+        "large vision-language model",
+        "LVLM",
+        "large multimodal model",
+        "multimodal LLM",
+        "visual language model"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:multimodal-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:clip"
+        },
+        {
+          "@id": "kt:an-image-is-worth-16x16-words"
+        },
+        {
+          "@id": "kt:hallucination"
+        },
+        {
+          "@id": "kt:in-context-learning"
+        },
+        {
+          "@id": "kt:instruction-tuning"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:transformer-architecture"
+        },
+        {
+          "@id": "kt:clip"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:flamingo-a-visual-language-model-for-few-shot-learning"
+        }
+      ],
+      "kto:trainedWith": [
+        {
+          "@id": "kt:instruction-tuning"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:hugging-face-transformers"
+        }
+      ],
+      "kto:causes": [
+        {
+          "@id": "kt:hallucination"
+        }
+      ]
+    },
+    {
       "@id": "kt:yolo",
       "@type": "kto:Architecture",
       "skos:prefLabel": "YOLO",
