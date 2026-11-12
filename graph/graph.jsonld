@@ -3860,6 +3860,113 @@
       ]
     },
     {
+      "@id": "kt:recurrent-neural-network",
+      "@type": "kto:Architecture",
+      "skos:prefLabel": "Recurrent neural network",
+      "skos:definition": "A neural network for sequential data that carries a hidden state from one time step to the next, applying the same weights at every step so that each output can depend on the whole input history.",
+      "kto:domain": "deep-learning",
+      "dcterms:created": "2026-11-12",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "9.4. Recurrent Neural Networks",
+          "dcterms:publisher": "Dive into Deep Learning (Zhang, Lipton, Li and Smola)",
+          "schema:url": "https://www.d2l.ai/chapter_recurrent-neural-networks/rnn.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "9. Recurrent Neural Networks (chapter introduction)",
+          "dcterms:publisher": "Dive into Deep Learning (Zhang, Lipton, Li and Smola)",
+          "schema:url": "https://d2l.ai/chapter_recurrent-neural-networks/",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Finding Structure in Time",
+          "dcterms:publisher": "Cognitive Science 14:179–211 (1990) (J. L. Elman), PDF hosted by Saarland University",
+          "schema:url": "https://www.coli.uni-saarland.de/~crocker/Teaching/Connectionist/CogSci90-Elman.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "On the difficulty of training recurrent neural networks",
+          "dcterms:publisher": "ICML 2013, PMLR 28(3):1310–1318 (Pascanu, Mikolov and Bengio)",
+          "schema:url": "https://proceedings.mlr.press/v28/pascanu13.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation",
+          "dcterms:publisher": "EMNLP 2014, pp. 1724–1734 (Cho et al.)",
+          "schema:url": "https://aclanthology.org/D14-1179",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "10.2. Gated Recurrent Units (GRU)",
+          "dcterms:publisher": "Dive into Deep Learning (Zhang, Lipton, Li and Smola)",
+          "schema:url": "https://d2l.ai/chapter_recurrent-modern/gru.html",
+          "kto:sourceType": "textbook"
+        }
+      ],
+      "kto:file": "articles/deep-learning/recurrent-neural-network.md",
+      "skos:altLabel": [
+        "RNN",
+        "recurrent net",
+        "simple recurrent network",
+        "Elman network"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:artificial-neural-network"
+        },
+        {
+          "@id": "kt:deep-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:long-short-term-memory"
+        },
+        {
+          "@id": "kt:gated-recurrent-unit"
+        },
+        {
+          "@id": "kt:vanishing-gradient-problem"
+        },
+        {
+          "@id": "kt:sequence-to-sequence-learning"
+        },
+        {
+          "@id": "kt:hidden-markov-model"
+        }
+      ],
+      "kto:trainedWith": [
+        {
+          "@id": "kt:backpropagation-through-time"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:backpropagation"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:automatic-speech-recognition"
+        },
+        {
+          "@id": "kt:neural-machine-translation-by-jointly-learning-to-align-and-translate"
+        }
+      ],
+      "kto:supersededBy": [
+        {
+          "@id": "kt:transformer-architecture"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:convolutional-neural-network"
+        }
+      ]
+    },
+    {
       "@id": "kt:universal-approximation-theorem",
       "@type": "kto:Concept",
       "skos:prefLabel": "Universal approximation theorem",

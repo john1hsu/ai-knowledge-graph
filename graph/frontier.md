@@ -4,15 +4,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:recurrent-neural-network` | `kt:automatic-speech-recognition`, `kt:convolutional-neural-network`, `kt:deep-learning`, `kt:long-short-term-memory`, `kt:conditional-random-field`, `kt:hidden-markov-model`, `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:transformer-architecture` |
 | `kt:instruction-tuning` | `kt:vision-language-model`, `kt:vision-language-model`, `kt:fine-tuning`, `kt:pretraining`, `kt:qlora`, `kt:rlhf`, `kt:synthetic-data`, `kt:synthetic-data` |
 | `kt:pytorch` | `kt:data-parallelism`, `kt:hugging-face-transformers`, `kt:faster-r-cnn`, `kt:adam-optimizer`, `kt:backpropagation`, `kt:dropout`, `kt:long-short-term-memory`, `kt:model-pruning` |
+| `kt:sequence-to-sequence-learning` | `kt:automatic-speech-recognition`, `kt:long-short-term-memory`, `kt:recurrent-neural-network`, `kt:program-induction-by-rationale-generation`, `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
 | `kt:distributed-training` | `kt:cuda`, `kt:data-parallelism`, `kt:mlops`, `kt:nvidia`, `kt:tpu`, `kt:pretraining` |
 | `kt:eu-ai-act` | `kt:ai-governance`, `kt:algorithmic-bias-and-fairness`, `kt:compute-governance`, `kt:executive-orders-on-ai`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda` |
 | `kt:information-retrieval` | `kt:beir`, `kt:approximate-nearest-neighbor-search`, `kt:bm25`, `kt:retrieval-augmented-generation`, `kt:semantic-search`, `kt:tf-idf` |
 | `kt:multi-agent-systems` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:autogen`, `kt:generative-agents-interactive-simulacra-of-human-behavior`, `kt:langgraph` |
 | `kt:overfitting` | `kt:dropout`, `kt:dropout`, `kt:benchmark-contamination`, `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:supervised-learning` |
-| `kt:sequence-to-sequence-learning` | `kt:automatic-speech-recognition`, `kt:long-short-term-memory`, `kt:program-induction-by-rationale-generation`, `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
 | `kt:vllm` | `kt:hugging-face-transformers`, `kt:model-serving`, `kt:awq`, `kt:awq`, `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
 | `kt:ai-accelerator` | `kt:high-bandwidth-memory`, `kt:model-serving`, `kt:tpu`, `kt:ai-chip-export-controls`, `kt:compute-governance` |
 | `kt:ai-safety` | `kt:ai-governance`, `kt:ai-alignment`, `kt:goodharts-law`, `kt:hallucination`, `kt:reward-hacking` |
@@ -88,6 +87,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:self-refine` | `kt:agentic-workflow`, `kt:voyager` |
 | `kt:stochastic-gradient-descent` | `kt:data-parallelism`, `kt:adam-optimizer` |
 | `kt:transfer-learning` | `kt:fine-tuning`, `kt:pretraining` |
+| `kt:vanishing-gradient-problem` | `kt:long-short-term-memory`, `kt:recurrent-neural-network` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:wmt-2014` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
 | `kt:adam-a-method-for-stochastic-optimization` | `kt:adam-optimizer` |
@@ -120,6 +120,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:automatic-differentiation` | `kt:backpropagation` |
 | `kt:autonomous-driving` | `kt:yolo` |
 | `kt:awq-activation-aware-weight-quantization-for-llm-compression-and-acceleration` | `kt:awq` |
+| `kt:backpropagation-through-time` | `kt:recurrent-neural-network` |
 | `kt:beir-a-heterogeneous-benchmark-for-zero-shot-evaluation-of-information-retrieval-models` | `kt:beir` |
 | `kt:berkeley-function-calling-leaderboard` | `kt:tool-use` |
 | `kt:bert` | `kt:transformer-architecture` |
@@ -178,6 +179,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:flamingo-a-visual-language-model-for-few-shot-learning` | `kt:vision-language-model` |
 | `kt:foundation-model` | `kt:large-language-model` |
 | `kt:frank-rosenblatt` | `kt:perceptron` |
+| `kt:gated-recurrent-unit` | `kt:recurrent-neural-network` |
 | `kt:gddr-memory` | `kt:high-bandwidth-memory` |
 | `kt:general-problem-solver` | `kt:logic-theorist` |
 | `kt:generative-adversarial-nets` | `kt:generative-adversarial-network` |
@@ -330,7 +332,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:upper-confidence-bound` | `kt:exploration-exploitation` |
 | `kt:us-department-of-commerce` | `kt:bureau-of-industry-and-security` |
 | `kt:value-iteration` | `kt:markov-decision-process` |
-| `kt:vanishing-gradient-problem` | `kt:long-short-term-memory` |
 | `kt:vector-space-model` | `kt:tf-idf` |
 | `kt:voyager-an-open-ended-embodied-agent-with-large-language-models` | `kt:voyager` |
 | `kt:vtab` | `kt:an-image-is-worth-16x16-words` |

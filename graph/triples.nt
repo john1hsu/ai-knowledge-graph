@@ -2420,6 +2420,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <http://www.w3.org/2000/01/rdf-schema#label> "Recurrent neural network" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <http://www.w3.org/2004/02/skos/core#altLabel> "Elman network" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <http://www.w3.org/2004/02/skos/core#altLabel> "RNN" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <http://www.w3.org/2004/02/skos/core#altLabel> "recurrent net" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <http://www.w3.org/2004/02/skos/core#altLabel> "simple recurrent network" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <http://www.w3.org/2004/02/skos/core#definition> "A neural network for sequential data that carries a hidden state from one time step to the next, applying the same weights at every step so that each output can depend on the whole input history." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <http://www.w3.org/2004/02/skos/core#prefLabel> "Recurrent neural network" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/gated-recurrent-unit> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "deep-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#supersededBy> <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation-through-time> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/neural-machine-translation-by-jointly-learning-to-align-and-translate> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <http://www.w3.org/2000/01/rdf-schema#label> "Red teaming" .
@@ -5324,6 +5354,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s5> <https://schema.org/url> "https://developer.nvidia.com/blog/optimizing-llms-for-performance-and-accuracy-with-post-training-quantization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s1> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (Zhang, Lipton, Li and Smola)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s1> <http://purl.org/dc/terms/title> "9.4. Recurrent Neural Networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s1> <https://schema.org/url> "https://www.d2l.ai/chapter_recurrent-neural-networks/rnn.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s2> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (Zhang, Lipton, Li and Smola)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s2> <http://purl.org/dc/terms/title> "9. Recurrent Neural Networks (chapter introduction)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s2> <https://schema.org/url> "https://d2l.ai/chapter_recurrent-neural-networks/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s3> <http://purl.org/dc/terms/publisher> "Cognitive Science 14:179–211 (1990) (J. L. Elman), PDF hosted by Saarland University" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s3> <http://purl.org/dc/terms/title> "Finding Structure in Time" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s3> <https://schema.org/url> "https://www.coli.uni-saarland.de/~crocker/Teaching/Connectionist/CogSci90-Elman.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s4> <http://purl.org/dc/terms/publisher> "ICML 2013, PMLR 28(3):1310–1318 (Pascanu, Mikolov and Bengio)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s4> <http://purl.org/dc/terms/title> "On the difficulty of training recurrent neural networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s4> <https://schema.org/url> "https://proceedings.mlr.press/v28/pascanu13.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s5> <http://purl.org/dc/terms/publisher> "EMNLP 2014, pp. 1724–1734 (Cho et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s5> <http://purl.org/dc/terms/title> "Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s5> <https://schema.org/url> "https://aclanthology.org/D14-1179" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s6> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (Zhang, Lipton, Li and Smola)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s6> <http://purl.org/dc/terms/title> "10.2. Gated Recurrent Units (GRU)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s6> <https://schema.org/url> "https://d2l.ai/chapter_recurrent-modern/gru.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s1> <http://purl.org/dc/terms/publisher> "Proceedings of EMNLP 2022, pp. 3419–3448 (Perez et al.), ACL Anthology" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s1> <http://purl.org/dc/terms/title> "Red Teaming Language Models with Language Models" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

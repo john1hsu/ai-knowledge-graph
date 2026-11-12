@@ -2048,6 +2048,29 @@
     ]
   },
   {
+    "id": "kt:recurrent-neural-network",
+    "title": "Recurrent neural network",
+    "aliases": [
+      "RNN",
+      "recurrent net",
+      "simple recurrent network",
+      "Elman network"
+    ],
+    "type": "Architecture",
+    "domain": "deep-learning",
+    "file": "articles/deep-learning/recurrent-neural-network.md",
+    "created": "2026-11-12",
+    "maturity": "established",
+    "source_urls": [
+      "https://www.d2l.ai/chapter_recurrent-neural-networks/rnn.html",
+      "https://d2l.ai/chapter_recurrent-neural-networks/",
+      "https://www.coli.uni-saarland.de/~crocker/Teaching/Connectionist/CogSci90-Elman.pdf",
+      "https://proceedings.mlr.press/v28/pascanu13.html",
+      "https://aclanthology.org/D14-1179",
+      "https://d2l.ai/chapter_recurrent-modern/gru.html"
+    ]
+  },
+  {
     "id": "kt:red-teaming",
     "title": "Red teaming",
     "aliases": [
