@@ -7653,6 +7653,119 @@
       ]
     },
     {
+      "@id": "kt:retrieval-augmented-generation",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Retrieval-augmented generation for knowledge-intensive tasks",
+      "skos:definition": "A technique that couples a text generator with a retriever, so that documents fetched from an external corpus at inference time condition the model's output; the \"parametric\" knowledge in the model's weights is supplemented by \"non-parametric\" knowledge held in an updatable index.",
+      "kto:domain": "retrieval-and-knowledge",
+      "dcterms:created": "2026-11-12",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+          "dcterms:publisher": "Advances in Neural Information Processing Systems 33 (NeurIPS 2020), pp. 9459-9474 (Lewis, Perez, Piktus, Petroni, Karpukhin, Goyal, Küttler, Lewis, Yih, Rocktäschel, Riedel and Kiela)",
+          "schema:url": "https://papers.nips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (full text, arXiv:2005.11401)",
+          "dcterms:publisher": "Lewis et al., authors' arXiv paper, full text as mirrored on Hugging Face Papers",
+          "schema:url": "https://huggingface.co/papers/2005.11401.md",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Retrieval Augmented Language Model Pre-Training",
+          "dcterms:publisher": "Proceedings of the 37th ICML, PMLR 119:3929-3938, 2020 (Guu, Lee, Tung, Pasupat and Chang)",
+          "schema:url": "https://proceedings.mlr.press/v119/guu20a.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Retrieval-Augmented Generation for Large Language Models: A Survey",
+          "dcterms:publisher": "arXiv:2312.10997v2, 2024 (Gao, Xiong, Gao, Jia, Pan, Bi, Dai, Sun, Wang and Wang)",
+          "schema:url": "https://arxiv.org/pdf/2312.10997v2.pdf",
+          "kto:sourceType": "preprint"
+        },
+        {
+          "dcterms:title": "Lost in the Middle: How Language Models Use Long Contexts",
+          "dcterms:publisher": "Transactions of the Association for Computational Linguistics 12, 157-173, 2024 (Liu, Lin, Hewitt, Paranjape, Bevilacqua, Petroni and Liang)",
+          "schema:url": "https://aclanthology.org/2024.tacl-1.9/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "RAG",
+          "dcterms:publisher": "Hugging Face Transformers documentation",
+          "schema:url": "https://huggingface.co/docs/transformers/en/model_doc/rag",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/retrieval-and-knowledge/retrieval-augmented-generation.md",
+      "skos:altLabel": [
+        "retrieval-augmented generation",
+        "RAG",
+        "retrieval augmented generation",
+        "RAG-Sequence",
+        "RAG-Token"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:information-retrieval"
+        },
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:semantic-search"
+        },
+        {
+          "@id": "kt:vector-database"
+        },
+        {
+          "@id": "kt:context-window"
+        },
+        {
+          "@id": "kt:reranking"
+        },
+        {
+          "@id": "kt:toolformer"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:retrieval-augmented-generation-for-knowledge-intensive-nlp-tasks"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:realm"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:embeddings"
+        },
+        {
+          "@id": "kt:approximate-nearest-neighbor-search"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:hallucination"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:fine-tuning"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:hugging-face-transformers"
+        }
+      ]
+    },
+    {
       "@id": "kt:semantic-search",
       "@type": "kto:Technique",
       "skos:prefLabel": "Semantic search",
