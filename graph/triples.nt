@@ -5452,6 +5452,26 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "preprint" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s6> <https://schema.org/url> "https://arxiv.org/pdf/2212.10403" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/supervised-learning/s1> <http://purl.org/dc/terms/publisher> "Stanford University CS229 Machine Learning (Andrew Ng and Tengyu Ma)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/supervised-learning/s1> <http://purl.org/dc/terms/title> "CS229 Lecture Notes" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/supervised-learning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/supervised-learning/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/supervised-learning/s1> <https://schema.org/url> "https://cs229.stanford.edu/main_notes.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/supervised-learning/s2> <http://purl.org/dc/terms/publisher> "Cambridge University Press, 2014 (Shalev-Shwartz and Ben-David), authors' online copy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/supervised-learning/s2> <http://purl.org/dc/terms/title> "Understanding Machine Learning: From Theory to Algorithms" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/supervised-learning/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/supervised-learning/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/supervised-learning/s2> <https://schema.org/url> "https://cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/supervised-learning/s3> <http://purl.org/dc/terms/publisher> "Zhang, Lipton, Li and Smola, arXiv:2106.11342 (book, d2l.ai)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/supervised-learning/s3> <http://purl.org/dc/terms/title> "Dive into Deep Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/supervised-learning/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/supervised-learning/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/supervised-learning/s3> <https://schema.org/url> "https://arxiv.org/pdf/2106.11342" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/supervised-learning/s4> <http://purl.org/dc/terms/publisher> "Communications of the ACM 27(11), November 1984 (L. G. Valiant), Princeton COS 511 course copy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/supervised-learning/s4> <http://purl.org/dc/terms/title> "A Theory of the Learnable" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/supervised-learning/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/supervised-learning/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/supervised-learning/s4> <https://schema.org/url> "https://www.cs.princeton.edu/courses/archive/spring13/cos511/handouts/valiant.pdf" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s1> <http://purl.org/dc/terms/publisher> "Findings of ACL 2023, pp. 13387–13434 (Perez, Ringer, Lukošiūtė, Nguyen et al., Anthropic)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s1> <http://purl.org/dc/terms/title> "Discovering Language Model Behaviors with Model-Written Evaluations" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -5884,6 +5904,29 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/expert-iteration> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/star-bootstrapping-reasoning-with-reasoning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Paradigm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> <http://www.w3.org/2000/01/rdf-schema#label> "Supervised learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "learning from labeled data" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "learning from labelled examples" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "predictive learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> <http://www.w3.org/2004/02/skos/core#definition> "The machine learning paradigm in which a model is fitted to a dataset of input–label pairs so that it predicts the correct label for new, unseen inputs; regression and classification are its two classic forms." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> <http://www.w3.org/2004/02/skos/core#prefLabel> "Supervised learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/loss-function> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/supervised-learning/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/supervised-learning/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/supervised-learning/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/supervised-learning/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ml-foundations" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/empirical-risk-minimization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Risk> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> <http://www.w3.org/2000/01/rdf-schema#label> "Sycophancy" .

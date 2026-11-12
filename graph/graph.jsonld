@@ -6497,6 +6497,84 @@
       ]
     },
     {
+      "@id": "kt:supervised-learning",
+      "@type": "kto:Paradigm",
+      "skos:prefLabel": "Supervised learning",
+      "skos:definition": "The machine learning paradigm in which a model is fitted to a dataset of input–label pairs so that it predicts the correct label for new, unseen inputs; regression and classification are its two classic forms.",
+      "kto:domain": "ml-foundations",
+      "dcterms:created": "2026-11-12",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "CS229 Lecture Notes",
+          "dcterms:publisher": "Stanford University CS229 Machine Learning (Andrew Ng and Tengyu Ma)",
+          "schema:url": "https://cs229.stanford.edu/main_notes.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Understanding Machine Learning: From Theory to Algorithms",
+          "dcterms:publisher": "Cambridge University Press, 2014 (Shalev-Shwartz and Ben-David), authors' online copy",
+          "schema:url": "https://cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Dive into Deep Learning",
+          "dcterms:publisher": "Zhang, Lipton, Li and Smola, arXiv:2106.11342 (book, d2l.ai)",
+          "schema:url": "https://arxiv.org/pdf/2106.11342",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "A Theory of the Learnable",
+          "dcterms:publisher": "Communications of the ACM 27(11), November 1984 (L. G. Valiant), Princeton COS 511 course copy",
+          "schema:url": "https://www.cs.princeton.edu/courses/archive/spring13/cos511/handouts/valiant.pdf",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/ml-foundations/supervised-learning.md",
+      "skos:altLabel": [
+        "learning from labeled data",
+        "learning from labelled examples",
+        "predictive learning"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:machine-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:bias-variance-tradeoff"
+        },
+        {
+          "@id": "kt:overfitting"
+        },
+        {
+          "@id": "kt:loss-function"
+        },
+        {
+          "@id": "kt:pretraining"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:unsupervised-learning"
+        },
+        {
+          "@id": "kt:reinforcement-learning"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:statistical-learning-theory"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:empirical-risk-minimization"
+        }
+      ]
+    },
+    {
       "@id": "kt:chain-of-thought",
       "@type": "kto:Technique",
       "skos:prefLabel": "Chain-of-thought prompting",

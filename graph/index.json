@@ -2253,6 +2253,26 @@
     ]
   },
   {
+    "id": "kt:supervised-learning",
+    "title": "Supervised learning",
+    "aliases": [
+      "learning from labeled data",
+      "learning from labelled examples",
+      "predictive learning"
+    ],
+    "type": "Paradigm",
+    "domain": "ml-foundations",
+    "file": "articles/ml-foundations/supervised-learning.md",
+    "created": "2026-11-12",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://cs229.stanford.edu/main_notes.pdf",
+      "https://cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf",
+      "https://arxiv.org/pdf/2106.11342",
+      "https://www.cs.princeton.edu/courses/archive/spring13/cos511/handouts/valiant.pdf"
+    ]
+  },
+  {
     "id": "kt:sycophancy",
     "title": "Sycophancy",
     "aliases": [
