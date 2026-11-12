@@ -1732,6 +1732,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "evaluation-and-benchmarks" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <https://github.com/john1hsu/ai-knowledge-graph/ontology#supersededBy> <https://github.com/john1hsu/ai-knowledge-graph/id/mmlu-pro> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <http://www.w3.org/2000/01/rdf-schema#label> "Model serving: deploying trained models behind inference APIs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <http://www.w3.org/2004/02/skos/core#altLabel> "ML model serving" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <http://www.w3.org/2004/02/skos/core#altLabel> "inference serving" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <http://www.w3.org/2004/02/skos/core#altLabel> "model serving" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <http://www.w3.org/2004/02/skos/core#altLabel> "online inference" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <http://www.w3.org/2004/02/skos/core#altLabel> "prediction serving" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/mlops> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <http://www.w3.org/2004/02/skos/core#definition> "The systems practice of loading trained models into long-running servers that answer prediction requests over a network API, managing versions, batching, hardware placement and latency targets so that models can be used by applications in production." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <http://www.w3.org/2004/02/skos/core#prefLabel> "Model serving: deploying trained models behind inference APIs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/batching-and-paged-attention> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/llm-inference-optimization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/speculative-decoding> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-infrastructure-and-mlops" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/tensorflow-serving> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/triton-inference-server> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/vllm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/clipper-prediction-serving-system> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <https://github.com/john1hsu/ai-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/ai-knowledge-graph/id/mlops> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <https://github.com/john1hsu/ai-knowledge-graph/ontology#runsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/neural-machine-translation-by-jointly-learning-to-align-and-translate> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/neural-machine-translation-by-jointly-learning-to-align-and-translate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Work> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/neural-machine-translation-by-jointly-learning-to-align-and-translate> <http://www.w3.org/2000/01/rdf-schema#label> "Neural Machine Translation by Jointly Learning to Align and Translate" .
@@ -4215,6 +4245,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s6> <https://schema.org/url> "https://hai-production.s3.amazonaws.com/files/hai_ai-index-report-2025_chapter2_final.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s1> <http://purl.org/dc/terms/publisher> "NSDI 2017 (Crankshaw, Wang, Zhou, Franklin, Gonzalez, Stoica), USENIX" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s1> <http://purl.org/dc/terms/title> "Clipper: A Low-Latency Online Prediction Serving System" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s1> <https://schema.org/url> "https://usenix.org/conference/nsdi17/technical-sessions/presentation/crankshaw" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s2> <http://purl.org/dc/terms/publisher> "Crankshaw et al., arXiv 1612.03079" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s2> <http://purl.org/dc/terms/title> "Clipper: A Low-Latency Online Prediction Serving System (full text)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s2> <https://schema.org/url> "https://arxiv.org/pdf/1612.03079" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s3> <http://purl.org/dc/terms/publisher> "Olston et al., Google, NIPS 2017 workshop, arXiv 1712.06139" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s3> <http://purl.org/dc/terms/title> "TensorFlow-Serving: Flexible, High-Performance ML Serving" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s3> <https://schema.org/url> "https://arxiv.org/pdf/1712.06139" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s4> <http://purl.org/dc/terms/publisher> "NVIDIA Triton Inference Server documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s4> <http://purl.org/dc/terms/title> "Dynamic Batching & Concurrent Model Execution (Triton Conceptual Guide, Part 2)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s4> <https://schema.org/url> "https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/tutorials/Conceptual_Guide/Part_2-improving_resource_utilization/README.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s5> <http://purl.org/dc/terms/publisher> "OSDI 2022 (Yu, Jeong, Kim, Kim, Chun), USENIX" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s5> <http://purl.org/dc/terms/title> "Orca: A Distributed Serving System for Transformer-Based Generative Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s5> <https://schema.org/url> "https://www.usenix.org/conference/osdi22/presentation/yu" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/neural-machine-translation-by-jointly-learning-to-align-and-translate/s1> <http://purl.org/dc/terms/publisher> "Bahdanau, Cho and Bengio, ICLR 2015 conference paper (authors' arXiv version 1409.0473v7, 19 May 2016)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/neural-machine-translation-by-jointly-learning-to-align-and-translate/s1> <http://purl.org/dc/terms/title> "Neural Machine Translation by Jointly Learning to Align and Translate" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/neural-machine-translation-by-jointly-learning-to-align-and-translate/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

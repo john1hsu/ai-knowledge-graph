@@ -1750,6 +1750,106 @@
       ]
     },
     {
+      "@id": "kt:model-serving",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Model serving: deploying trained models behind inference APIs",
+      "skos:definition": "The systems practice of loading trained models into long-running servers that answer prediction requests over a network API, managing versions, batching, hardware placement and latency targets so that models can be used by applications in production.",
+      "kto:domain": "ai-infrastructure-and-mlops",
+      "dcterms:created": "2026-11-12",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Clipper: A Low-Latency Online Prediction Serving System",
+          "dcterms:publisher": "NSDI 2017 (Crankshaw, Wang, Zhou, Franklin, Gonzalez, Stoica), USENIX",
+          "schema:url": "https://usenix.org/conference/nsdi17/technical-sessions/presentation/crankshaw",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Clipper: A Low-Latency Online Prediction Serving System (full text)",
+          "dcterms:publisher": "Crankshaw et al., arXiv 1612.03079",
+          "schema:url": "https://arxiv.org/pdf/1612.03079",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "TensorFlow-Serving: Flexible, High-Performance ML Serving",
+          "dcterms:publisher": "Olston et al., Google, NIPS 2017 workshop, arXiv 1712.06139",
+          "schema:url": "https://arxiv.org/pdf/1712.06139",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Dynamic Batching & Concurrent Model Execution (Triton Conceptual Guide, Part 2)",
+          "dcterms:publisher": "NVIDIA Triton Inference Server documentation",
+          "schema:url": "https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/tutorials/Conceptual_Guide/Part_2-improving_resource_utilization/README.html",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Orca: A Distributed Serving System for Transformer-Based Generative Models",
+          "dcterms:publisher": "OSDI 2022 (Yu, Jeong, Kim, Kim, Chun), USENIX",
+          "schema:url": "https://www.usenix.org/conference/osdi22/presentation/yu",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/ai-infrastructure-and-mlops/model-serving.md",
+      "skos:altLabel": [
+        "model serving",
+        "inference serving",
+        "prediction serving",
+        "ML model serving",
+        "online inference"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:mlops"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:batching-and-paged-attention"
+        },
+        {
+          "@id": "kt:quantization"
+        },
+        {
+          "@id": "kt:speculative-decoding"
+        },
+        {
+          "@id": "kt:llm-inference-optimization"
+        },
+        {
+          "@id": "kt:hugging-face-transformers"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:mlops"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:tensorflow-serving"
+        },
+        {
+          "@id": "kt:triton-inference-server"
+        },
+        {
+          "@id": "kt:vllm"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:clipper-prediction-serving-system"
+        },
+        {
+          "@id": "kt:orca-serving-system"
+        }
+      ],
+      "kto:runsOn": [
+        {
+          "@id": "kt:ai-accelerator"
+        }
+      ]
+    },
+    {
       "@id": "kt:nvidia",
       "@type": "kto:Organization",
       "skos:prefLabel": "NVIDIA",

@@ -1477,6 +1477,29 @@
     ]
   },
   {
+    "id": "kt:model-serving",
+    "title": "Model serving: deploying trained models behind inference APIs",
+    "aliases": [
+      "model serving",
+      "inference serving",
+      "prediction serving",
+      "ML model serving",
+      "online inference"
+    ],
+    "type": "Concept",
+    "domain": "ai-infrastructure-and-mlops",
+    "file": "articles/ai-infrastructure-and-mlops/model-serving.md",
+    "created": "2026-11-12",
+    "maturity": "established",
+    "source_urls": [
+      "https://usenix.org/conference/nsdi17/technical-sessions/presentation/crankshaw",
+      "https://arxiv.org/pdf/1612.03079",
+      "https://arxiv.org/pdf/1712.06139",
+      "https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/tutorials/Conceptual_Guide/Part_2-improving_resource_utilization/README.html",
+      "https://www.usenix.org/conference/osdi22/presentation/yu"
+    ]
+  },
+  {
     "id": "kt:neural-machine-translation-by-jointly-learning-to-align-and-translate",
     "title": "Neural Machine Translation by Jointly Learning to Align and Translate",
     "aliases": [
