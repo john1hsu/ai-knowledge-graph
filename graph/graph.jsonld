@@ -3851,6 +3851,95 @@
       ]
     },
     {
+      "@id": "kt:benchmark-contamination",
+      "@type": "kto:Risk",
+      "skos:prefLabel": "Benchmark contamination",
+      "skos:definition": "The presence of a benchmark's test data (or closely related material) in a model's training data, which inflates its measured score and can make evaluation results and the conclusions drawn from them invalid.",
+      "kto:domain": "evaluation-and-benchmarks",
+      "dcterms:created": "2026-11-12",
+      "kto:maturity": "emerging",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "NLP Evaluation in trouble: On the Need to Measure LLM Data Contamination for each Benchmark",
+          "dcterms:publisher": "Findings of EMNLP 2023 (Sainz, Campos, García-Ferrero, Etxaniz, Lopez de Lacalle, Agirre)",
+          "schema:url": "https://aclanthology.org/2023.findings-emnlp.722.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Documenting Large Webtext Corpora: A Case Study on the Colossal Clean Crawled Corpus",
+          "dcterms:publisher": "EMNLP 2021 (Dodge, Sap, Marasović, Agnew, Ilharco, Groeneveld, Mitchell, Gardner)",
+          "schema:url": "https://aclanthology.org/2021.emnlp-main.98/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Proving Test Set Contamination in Black-Box Language Models",
+          "dcterms:publisher": "ICLR 2024 (Oren, Meister, Chatterji, Ladhak, Hashimoto)",
+          "schema:url": "https://proceedings.iclr.cc/paper_files/paper/2024/hash/46e624c244cff669223d488defd4e835-Abstract-Conference.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Detecting Pretraining Data from Large Language Models",
+          "dcterms:publisher": "ICLR 2024 (Shi, Ajith, Xia, Huang, Liu, Blevins, Chen, Zettlemoyer)",
+          "schema:url": "https://proceedings.iclr.cc/paper_files/paper/2024/hash/e32ad85fa27be4a9868d55703f01323e-Abstract-Conference.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "A Careful Examination of Large Language Model Performance on Grade School Arithmetic",
+          "dcterms:publisher": "NeurIPS 2024 Datasets and Benchmarks Track (Zhang, Da, Lee et al.; Scale AI)",
+          "schema:url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/53384f2090c6a5cac952c598fd67992f-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "LiveBench: A Challenging, Contamination-Limited LLM Benchmark",
+          "dcterms:publisher": "ICLR 2025 poster (White, Dooley, Roberts, Pal et al.)",
+          "schema:url": "https://iclr.cc/virtual/2025/poster/28134",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/evaluation-and-benchmarks/benchmark-contamination.md",
+      "skos:altLabel": [
+        "data contamination",
+        "test set contamination",
+        "test-set leakage",
+        "evaluation data contamination"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-evaluation"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:gsm8k"
+        },
+        {
+          "@id": "kt:mmlu"
+        },
+        {
+          "@id": "kt:goodharts-law"
+        },
+        {
+          "@id": "kt:overfitting"
+        },
+        {
+          "@id": "kt:membership-inference-attack"
+        },
+        {
+          "@id": "kt:livebench"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:pretraining"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:data-poisoning"
+        }
+      ]
+    },
+    {
       "@id": "kt:commonsenseqa",
       "@type": "kto:Benchmark",
       "skos:prefLabel": "CommonsenseQA",

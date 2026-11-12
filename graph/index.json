@@ -481,6 +481,29 @@
     ]
   },
   {
+    "id": "kt:benchmark-contamination",
+    "title": "Benchmark contamination",
+    "aliases": [
+      "data contamination",
+      "test set contamination",
+      "test-set leakage",
+      "evaluation data contamination"
+    ],
+    "type": "Risk",
+    "domain": "evaluation-and-benchmarks",
+    "file": "articles/evaluation-and-benchmarks/benchmark-contamination.md",
+    "created": "2026-11-12",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://aclanthology.org/2023.findings-emnlp.722.pdf",
+      "https://aclanthology.org/2021.emnlp-main.98/",
+      "https://proceedings.iclr.cc/paper_files/paper/2024/hash/46e624c244cff669223d488defd4e835-Abstract-Conference.html",
+      "https://proceedings.iclr.cc/paper_files/paper/2024/hash/e32ad85fa27be4a9868d55703f01323e-Abstract-Conference.html",
+      "https://proceedings.neurips.cc/paper_files/paper/2024/hash/53384f2090c6a5cac952c598fd67992f-Abstract.html",
+      "https://iclr.cc/virtual/2025/poster/28134"
+    ]
+  },
+  {
     "id": "kt:bias-variance-tradeoff",
     "title": "Bias-variance tradeoff",
     "aliases": [

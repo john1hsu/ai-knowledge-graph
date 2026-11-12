@@ -559,6 +559,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/beir> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/beir-a-heterogeneous-benchmark-for-zero-shot-evaluation-of-information-retrieval-models> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/beir> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/beir> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/mteb> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Risk> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> <http://www.w3.org/2000/01/rdf-schema#label> "Benchmark contamination" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> <http://www.w3.org/2004/02/skos/core#altLabel> "data contamination" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> <http://www.w3.org/2004/02/skos/core#altLabel> "evaluation data contamination" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> <http://www.w3.org/2004/02/skos/core#altLabel> "test set contamination" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> <http://www.w3.org/2004/02/skos/core#altLabel> "test-set leakage" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> <http://www.w3.org/2004/02/skos/core#definition> "The presence of a benchmark's test data (or closely related material) in a model's training data, which inflates its measured score and can make evaluation results and the conclusions drawn from them invalid." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> <http://www.w3.org/2004/02/skos/core#prefLabel> "Benchmark contamination" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/goodharts-law> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/livebench> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/membership-inference-attack> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/data-poisoning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "evaluation-and-benchmarks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <http://www.w3.org/2000/01/rdf-schema#label> "Bias-variance tradeoff" .
@@ -3114,6 +3140,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s5> <https://schema.org/url> "https://arxiv.org/abs/2306.07471" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s1> <http://purl.org/dc/terms/publisher> "Findings of EMNLP 2023 (Sainz, Campos, García-Ferrero, Etxaniz, Lopez de Lacalle, Agirre)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s1> <http://purl.org/dc/terms/title> "NLP Evaluation in trouble: On the Need to Measure LLM Data Contamination for each Benchmark" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s1> <https://schema.org/url> "https://aclanthology.org/2023.findings-emnlp.722.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s2> <http://purl.org/dc/terms/publisher> "EMNLP 2021 (Dodge, Sap, Marasović, Agnew, Ilharco, Groeneveld, Mitchell, Gardner)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s2> <http://purl.org/dc/terms/title> "Documenting Large Webtext Corpora: A Case Study on the Colossal Clean Crawled Corpus" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s2> <https://schema.org/url> "https://aclanthology.org/2021.emnlp-main.98/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s3> <http://purl.org/dc/terms/publisher> "ICLR 2024 (Oren, Meister, Chatterji, Ladhak, Hashimoto)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s3> <http://purl.org/dc/terms/title> "Proving Test Set Contamination in Black-Box Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s3> <https://schema.org/url> "https://proceedings.iclr.cc/paper_files/paper/2024/hash/46e624c244cff669223d488defd4e835-Abstract-Conference.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s4> <http://purl.org/dc/terms/publisher> "ICLR 2024 (Shi, Ajith, Xia, Huang, Liu, Blevins, Chen, Zettlemoyer)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s4> <http://purl.org/dc/terms/title> "Detecting Pretraining Data from Large Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s4> <https://schema.org/url> "https://proceedings.iclr.cc/paper_files/paper/2024/hash/e32ad85fa27be4a9868d55703f01323e-Abstract-Conference.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s5> <http://purl.org/dc/terms/publisher> "NeurIPS 2024 Datasets and Benchmarks Track (Zhang, Da, Lee et al.; Scale AI)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s5> <http://purl.org/dc/terms/title> "A Careful Examination of Large Language Model Performance on Grade School Arithmetic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s5> <https://schema.org/url> "https://proceedings.neurips.cc/paper_files/paper/2024/hash/53384f2090c6a5cac952c598fd67992f-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s6> <http://purl.org/dc/terms/publisher> "ICLR 2025 poster (White, Dooley, Roberts, Pal et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s6> <http://purl.org/dc/terms/title> "LiveBench: A Challenging, Contamination-Limited LLM Benchmark" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s6> <https://schema.org/url> "https://iclr.cc/virtual/2025/poster/28134" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s1> <http://purl.org/dc/terms/publisher> "Neural Computation 4, 1–58 (1992) (Geman, Bienenstock and Doursat), ML Anthology record" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s1> <http://purl.org/dc/terms/title> "Neural Networks and the Bias/Variance Dilemma" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
