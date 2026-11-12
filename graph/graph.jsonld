@@ -540,6 +540,90 @@
       ]
     },
     {
+      "@id": "kt:tool-use",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Tool use",
+      "skos:definition": "The capability of a language model to call external functions, APIs and programs: the model emits a structured request (a tool name plus arguments matching a declared schema), the application or provider executes it, and the result is fed back into the context so the model can continue or answer.",
+      "kto:domain": "agents-and-tool-use",
+      "dcterms:created": "2026-11-12",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning",
+          "dcterms:publisher": "arXiv 2205.00445 (Karpas et al., AI21 Labs; authors' version)",
+          "schema:url": "https://arxiv.org/pdf/2205.00445",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "How tool use works",
+          "dcterms:publisher": "Anthropic, Claude Platform documentation",
+          "schema:url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/how-tool-use-works",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Function calling",
+          "dcterms:publisher": "OpenAI API documentation",
+          "schema:url": "https://developers.openai.com/api/docs/guides/function-calling",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Gorilla: Large Language Model Connected with Massive APIs",
+          "dcterms:publisher": "Advances in Neural Information Processing Systems 37 (NeurIPS 2024), Patil, Zhang, Wang and Gonzalez",
+          "schema:url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/e4c61f578ff07830f5c37378dd3ecb0d-Paper-Conference.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Berkeley Function Calling Leaderboard (BFCL): From Tool Use to Agentic Evaluation of Large Language Models",
+          "dcterms:publisher": "Proceedings of the 42nd International Conference on Machine Learning (ICML 2025), PMLR 267",
+          "schema:url": "https://proceedings.mlr.press/v267/patil25a.html",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/agents-and-tool-use/tool-use.md",
+      "skos:altLabel": [
+        "function calling",
+        "tool calling",
+        "tool-augmented language models"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:toolformer"
+        },
+        {
+          "@id": "kt:react-prompting"
+        },
+        {
+          "@id": "kt:model-context-protocol"
+        },
+        {
+          "@id": "kt:structured-output"
+        },
+        {
+          "@id": "kt:prompt-injection"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:ai-agent"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:mrkl-systems"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:berkeley-function-calling-leaderboard"
+        }
+      ]
+    },
+    {
       "@id": "kt:toolformer",
       "@type": "kto:Model",
       "skos:prefLabel": "Toolformer: Language Models Can Teach Themselves to Use Tools",

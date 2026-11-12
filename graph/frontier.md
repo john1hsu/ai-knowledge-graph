@@ -14,12 +14,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:multi-agent-systems` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:autogen`, `kt:generative-agents-interactive-simulacra-of-human-behavior`, `kt:langgraph` |
 | `kt:overfitting` | `kt:dropout`, `kt:dropout`, `kt:benchmark-contamination`, `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:supervised-learning` |
 | `kt:sequence-to-sequence-learning` | `kt:automatic-speech-recognition`, `kt:long-short-term-memory`, `kt:program-induction-by-rationale-generation`, `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
-| `kt:tool-use` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:autogen`, `kt:toolformer`, `kt:voyager` |
 | `kt:vllm` | `kt:hugging-face-transformers`, `kt:model-serving`, `kt:awq`, `kt:awq`, `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
 | `kt:ai-accelerator` | `kt:high-bandwidth-memory`, `kt:model-serving`, `kt:tpu`, `kt:ai-chip-export-controls`, `kt:compute-governance` |
 | `kt:ensemble-methods` | `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:eu-ai-act` | `kt:algorithmic-bias-and-fairness`, `kt:compute-governance`, `kt:executive-orders-on-ai`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda` |
 | `kt:google` | `kt:agent2agent-protocol`, `kt:tpu`, `kt:an-image-is-worth-16x16-words`, `kt:word2vec`, `kt:attention-is-all-you-need` |
+| `kt:react-prompting` | `kt:ai-agent`, `kt:autogen`, `kt:tool-use`, `kt:toolformer`, `kt:chain-of-thought` |
 | `kt:reasoning-models` | `kt:chain-of-thought`, `kt:scratchpad`, `kt:test-time-compute`, `kt:test-time-compute`, `kt:star-self-taught-reasoner` |
 | `kt:regularization` | `kt:dropout`, `kt:model-pruning`, `kt:bias-variance-tradeoff`, `kt:conditional-random-field`, `kt:double-descent` |
 | `kt:representation-learning` | `kt:clip`, `kt:deep-learning`, `kt:embeddings`, `kt:glove`, `kt:word2vec` |
@@ -32,7 +32,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:llm-inference-optimization` | `kt:model-serving`, `kt:batching-and-paged-attention`, `kt:flash-attention`, `kt:speculative-decoding` |
 | `kt:model-compression` | `kt:gptq`, `kt:model-pruning`, `kt:quantization`, `kt:knowledge-distillation` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent`, `kt:generative-agents-interactive-simulacra-of-human-behavior`, `kt:voyager` |
-| `kt:react-prompting` | `kt:ai-agent`, `kt:autogen`, `kt:toolformer`, `kt:chain-of-thought` |
+| `kt:prompt-injection` | `kt:agent2agent-protocol`, `kt:tool-use`, `kt:red-teaming`, `kt:jailbreak` |
 | `kt:reranking` | `kt:beir`, `kt:bm25`, `kt:retrieval-augmented-generation`, `kt:semantic-search` |
 | `kt:self-attention` | `kt:flash-attention`, `kt:attention-is-all-you-need`, `kt:context-window`, `kt:transformer-architecture` |
 | `kt:unsupervised-learning` | `kt:dimensionality-reduction`, `kt:machine-learning`, `kt:principal-component-analysis`, `kt:supervised-learning` |
@@ -48,7 +48,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:llm-as-a-judge` | `kt:ai-evaluation`, `kt:truthfulqa`, `kt:qlora` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
 | `kt:positional-encoding` | `kt:attention-is-all-you-need`, `kt:context-window`, `kt:transformer-architecture` |
-| `kt:prompt-injection` | `kt:agent2agent-protocol`, `kt:red-teaming`, `kt:jailbreak` |
 | `kt:proximal-policy-optimization` | `kt:policy-gradient`, `kt:direct-preference-optimization`, `kt:rlhf` |
 | `kt:statistical-learning-theory` | `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:supervised-learning` |
 | `kt:temporal-difference-learning` | `kt:actor-critic`, `kt:q-learning`, `kt:reinforcement-learning` |
@@ -71,6 +70,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:latent-semantic-analysis` | `kt:glove`, `kt:semantic-search` |
 | `kt:marvin-minsky` | `kt:dartmouth-workshop`, `kt:perceptron` |
 | `kt:model-cards` | `kt:algorithmic-bias-and-fairness`, `kt:omb-ai-memoranda` |
+| `kt:model-context-protocol` | `kt:agent2agent-protocol`, `kt:tool-use` |
 | `kt:ms-coco` | `kt:faster-r-cnn`, `kt:yolo` |
 | `kt:named-entity-recognition` | `kt:conditional-random-field`, `kt:glove` |
 | `kt:object-detection` | `kt:faster-r-cnn`, `kt:yolo` |
@@ -120,6 +120,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:autonomous-driving` | `kt:yolo` |
 | `kt:awq-activation-aware-weight-quantization-for-llm-compression-and-acceleration` | `kt:awq` |
 | `kt:beir-a-heterogeneous-benchmark-for-zero-shot-evaluation-of-information-retrieval-models` | `kt:beir` |
+| `kt:berkeley-function-calling-leaderboard` | `kt:tool-use` |
 | `kt:bert` | `kt:transformer-architecture` |
 | `kt:big-bench` | `kt:emergent-abilities` |
 | `kt:boltzmann-machine` | `kt:geoffrey-hinton` |
@@ -241,11 +242,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mmlu-pro` | `kt:mmlu` |
 | `kt:model-collapse` | `kt:synthetic-data` |
 | `kt:model-compression-caruana-2006` | `kt:knowledge-distillation` |
-| `kt:model-context-protocol` | `kt:agent2agent-protocol` |
 | `kt:model-parallelism` | `kt:data-parallelism` |
 | `kt:model-registry` | `kt:mlops` |
 | `kt:monte-carlo-dropout` | `kt:dropout` |
 | `kt:monte-carlo-tree-search` | `kt:alphago` |
+| `kt:mrkl-systems` | `kt:tool-use` |
 | `kt:mteb` | `kt:beir` |
 | `kt:multi-armed-bandit` | `kt:exploration-exploitation` |
 | `kt:multimodal-learning` | `kt:vision-language-model` |
@@ -293,6 +294,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:star-bootstrapping-reasoning-with-reasoning` | `kt:star-self-taught-reasoner` |
 | `kt:stone-weierstrass-theorem` | `kt:universal-approximation-theorem` |
 | `kt:strong-ai` | `kt:chinese-room-argument` |
+| `kt:structured-output` | `kt:tool-use` |
 | `kt:stylegan` | `kt:generative-adversarial-network` |
 | `kt:support-vector-machine` | `kt:perceptron` |
 | `kt:switchboard-corpus` | `kt:automatic-speech-recognition` |

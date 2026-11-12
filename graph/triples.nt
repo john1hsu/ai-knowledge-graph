@@ -5700,6 +5700,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s6> <https://schema.org/url> "https://lucene.apache.org/core/api/core/org/apache/lucene/search/similarities/TFIDFSimilarity.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tool-use/s1> <http://purl.org/dc/terms/publisher> "arXiv 2205.00445 (Karpas et al., AI21 Labs; authors' version)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tool-use/s1> <http://purl.org/dc/terms/title> "MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tool-use/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tool-use/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tool-use/s1> <https://schema.org/url> "https://arxiv.org/pdf/2205.00445" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tool-use/s2> <http://purl.org/dc/terms/publisher> "Anthropic, Claude Platform documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tool-use/s2> <http://purl.org/dc/terms/title> "How tool use works" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tool-use/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tool-use/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tool-use/s2> <https://schema.org/url> "https://platform.claude.com/docs/en/agents-and-tools/tool-use/how-tool-use-works" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tool-use/s3> <http://purl.org/dc/terms/publisher> "OpenAI API documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tool-use/s3> <http://purl.org/dc/terms/title> "Function calling" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tool-use/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tool-use/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tool-use/s3> <https://schema.org/url> "https://developers.openai.com/api/docs/guides/function-calling" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tool-use/s4> <http://purl.org/dc/terms/publisher> "Advances in Neural Information Processing Systems 37 (NeurIPS 2024), Patil, Zhang, Wang and Gonzalez" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tool-use/s4> <http://purl.org/dc/terms/title> "Gorilla: Large Language Model Connected with Massive APIs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tool-use/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tool-use/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tool-use/s4> <https://schema.org/url> "https://proceedings.neurips.cc/paper_files/paper/2024/file/e4c61f578ff07830f5c37378dd3ecb0d-Paper-Conference.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tool-use/s5> <http://purl.org/dc/terms/publisher> "Proceedings of the 42nd International Conference on Machine Learning (ICML 2025), PMLR 267" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tool-use/s5> <http://purl.org/dc/terms/title> "The Berkeley Function Calling Leaderboard (BFCL): From Tool Use to Agentic Evaluation of Large Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tool-use/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tool-use/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tool-use/s5> <https://schema.org/url> "https://proceedings.mlr.press/v267/patil25a.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/toolformer/s1> <http://purl.org/dc/terms/publisher> "arXiv 2302.04761 (Schick et al., Meta AI Research; authors' version)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/toolformer/s1> <http://purl.org/dc/terms/title> "Toolformer: Language Models Can Teach Themselves to Use Tools" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/toolformer/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -6137,6 +6162,30 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#supersededBy> <https://github.com/john1hsu/ai-knowledge-graph/id/bm25> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/vector-space-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> <http://www.w3.org/2000/01/rdf-schema#label> "Tool use" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> <http://www.w3.org/2004/02/skos/core#altLabel> "function calling" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> <http://www.w3.org/2004/02/skos/core#altLabel> "tool calling" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> <http://www.w3.org/2004/02/skos/core#altLabel> "tool-augmented language models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> <http://www.w3.org/2004/02/skos/core#definition> "The capability of a language model to call external functions, APIs and programs: the model emits a structured request (a tool name plus arguments matching a declared schema), the application or provider executes it, and the result is fed back into the context so the model can continue or answer." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tool use" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/model-context-protocol> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-injection> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/react-prompting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/toolformer> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/tool-use/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/tool-use/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/tool-use/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/tool-use/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/tool-use/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "agents-and-tool-use" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/berkeley-function-calling-leaderboard> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/mrkl-systems> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/toolformer> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/toolformer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Model> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/toolformer> <http://www.w3.org/2000/01/rdf-schema#label> "Toolformer: Language Models Can Teach Themselves to Use Tools" .

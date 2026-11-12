@@ -2409,6 +2409,27 @@
     ]
   },
   {
+    "id": "kt:tool-use",
+    "title": "Tool use",
+    "aliases": [
+      "function calling",
+      "tool calling",
+      "tool-augmented language models"
+    ],
+    "type": "Technique",
+    "domain": "agents-and-tool-use",
+    "file": "articles/agents-and-tool-use/tool-use.md",
+    "created": "2026-11-12",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/pdf/2205.00445",
+      "https://platform.claude.com/docs/en/agents-and-tools/tool-use/how-tool-use-works",
+      "https://developers.openai.com/api/docs/guides/function-calling",
+      "https://proceedings.neurips.cc/paper_files/paper/2024/file/e4c61f578ff07830f5c37378dd3ecb0d-Paper-Conference.pdf",
+      "https://proceedings.mlr.press/v267/patil25a.html"
+    ]
+  },
+  {
     "id": "kt:toolformer",
     "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
     "aliases": [
