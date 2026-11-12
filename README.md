@@ -32,7 +32,7 @@ python3 scripts/site.py && python3 -m http.server -d _site 8000
 pip install pyyaml networkx
 python3 scripts/kg.py check              # validate
 python3 scripts/kg.py build              # validate + regenerate graph/
-python3 scripts/kg.py similar "Topic"    # check a candidate for duplicates
+python3 scripts/kg.py similar "Topic" --about "one-sentence definition"   # check a candidate for duplicates
 ```
 
 Steer what gets written by editing `topics/seeds.yaml`. The run playbook is `CLAUDE.md`; the article format is `SCHEMA.md`. The `.nt` and `.jsonld` exports load into RDF tools (Apache Jena, GraphDB, rdflib) or Neo4j via n10s.

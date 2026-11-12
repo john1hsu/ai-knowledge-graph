@@ -18,9 +18,10 @@ Use the current UTC hour:
 
 Then prove it is unique:
 ```bash
-python3 scripts/kg.py similar "<candidate title>"
+python3 scripts/kg.py similar "<candidate title>" --about "<one-sentence definition of the candidate>"
 ```
-If any score ≥ 0.5, or an existing title/alias names the same thing, pick a different topic. Never write a second article on a subject that already has a node — not a rename, a sub-angle that restates it, an acronym (e.g. "RLHF" vs "reinforcement learning from human feedback"), or a synonym. Record alternate names and acronyms as `aliases`.
+Always pass `--about`. The score blends name overlap (IDF-weighted, so common words like "model" or "learning" count for little) with how close your definition is to each article's title, aliases and summary; an exact title, alias or acronym match scores 1.0. Matches at ≥ 0.5 are marked `<- review`. The output also lists articles whose body already mentions the candidate phrase. These are useful for back-links and are not duplicates by themselves.
+If any score ≥ 0.5, read that article's summary. If it covers the same subject, or an existing title/alias names the same thing, pick a different topic. If it is clearly a different subject, you may proceed, and you must record the reason in the commit body (`similar: 0.55 vs kt:x — <why it differs>`). Never write a second article on a subject that already has a node — not a rename, a sub-angle that restates it, an acronym (e.g. "RLHF" vs "reinforcement learning from human feedback"), or a synonym. Record alternate names and acronyms as `aliases`.
 
 ## 3. Research
 - Run several web searches; read the actual pages (WebFetch), don't rely on snippets or memory.

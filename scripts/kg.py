@@ -4,7 +4,8 @@
 Usage:
   python3 scripts/kg.py check            # validate only (exit 1 on errors)
   python3 scripts/kg.py build            # validate, then regenerate graph/
-  python3 scripts/kg.py similar "Title"  # find existing articles close to a candidate topic
+  python3 scripts/kg.py similar "Title" [--about "one-sentence definition"]
+                                         # find existing articles close to a candidate topic
 
 Articles live in articles/<domain>/<slug>.md with YAML frontmatter (see SCHEMA.md).
 Generated outputs (never hand-edit): graph/graph.jsonld, graph/triples.nt,
@@ -81,11 +82,6 @@ def norm(s: str) -> str:
 def tokens(s: str) -> set[str]:
     # crude stemming so "superconductors" ~ "superconductivity"
     return {w[:6] if len(w) > 6 else w.rstrip("s") for w in norm(s).split()}
-
-
-def label_sim(a: str, b: str) -> float:
-    from difflib import SequenceMatcher
-    return max(jaccard(tokens(a), tokens(b)), SequenceMatcher(None, norm(a), norm(b)).ratio())
 
 
 def shingles(text: str, k: int = 5) -> set[int]:
@@ -357,26 +353,128 @@ def build(arts: list[dict]) -> None:
     (GRAPH / "stats.md").write_text("\n".join(out) + "\n")
 
 
-def similar(query: str, arts: list[dict]) -> None:
+# ------------------------------------------------------------ similarity ---
+# `similar` scores a candidate topic against every article on two signals:
+#   name  - IDF-weighted token overlap with the article's title and aliases
+#           (common words such as "model" or "learning" count for little; an
+#           acronym that spells out a title, e.g. RLHF, counts as a match), and
+#   about - TF-IDF cosine between the candidate's description (--about) and the
+#           article's title, aliases and summary, i.e. what the article is about.
+# With --about, score = 0.4 * name + 0.6 * about, so two topics that merely
+# share words ("Deep reinforcement learning" vs "Deep learning") stay below the
+# review threshold while a reworded duplicate of an existing article rises above
+# it. An exact title, alias or acronym match always scores 1.0. Without --about
+# only the name signal is available. Plain character overlap is no longer used:
+# it made unrelated short titles ("LLM-as-a-judge" vs "AI agent") score >= 0.5.
+SIM_REVIEW_THRESHOLD = 0.5
+NAME_WEIGHT = 0.4
+
+
+def _idf(docs: list[set[str]]) -> dict[str, float]:
+    import math
+    df = Counter(t for d in docs for t in d)
+    n = len(docs)
+    return defaultdict(lambda: math.log(n + 1) + 1, {t: math.log((n + 1) / (c + 1)) + 1 for t, c in df.items()})
+
+
+def _tok_eq(a: str, b: str) -> bool:
+    if a == b:
+        return True
+    if min(len(a), len(b)) < 5:
+        return False
+    from difflib import SequenceMatcher
+    return SequenceMatcher(None, a, b).ratio() >= 0.85
+
+
+def _acronym(s: str) -> str:
+    return "".join(w[0] for w in norm(s).split() if w)
+
+
+def name_sim(query: str, label: str, idf: dict[str, float]) -> float:
+    q, l = norm(query).replace(" ", ""), norm(label).replace(" ", "")
+    if not q or not l:
+        return 0.0
+    if q == l:
+        return 1.0
+    # acronym <-> expansion ("RLHF" vs "reinforcement learning from human feedback")
+    if (len(norm(query).split()) == 1 and len(q) >= 2 and q == _acronym(label)) or \
+       (len(norm(label).split()) == 1 and len(l) >= 2 and l == _acronym(query)):
+        return 1.0
+    qt, lt = tokens(query), tokens(label)
+    if not qt or not lt:
+        return 0.0
+    wq = sum(idf[t] for t in qt)
+    wl = sum(idf[t] for t in lt)
+    mq = sum(idf[t] for t in qt if any(_tok_eq(t, u) for u in lt))
+    ml = sum(idf[u] for u in lt if any(_tok_eq(u, t) for t in qt))
+    return (mq + ml) / (wq + wl)  # IDF-weighted Dice overlap
+
+
+def _vec(text: str, idf: dict[str, float]) -> dict[str, float]:
+    import math
+    tf = Counter(tokens_list(text))
+    v = {t: (1 + math.log(c)) * idf[t] for t, c in tf.items()}
+    n = math.sqrt(sum(x * x for x in v.values())) or 1.0
+    return {t: x / n for t, x in v.items()}
+
+
+def tokens_list(s: str) -> list[str]:
+    return [w[:6] if len(w) > 6 else w.rstrip("s") for w in norm(s).split()]
+
+
+def _profile(a: dict) -> str:
+    labels = " ".join([a.get("title", "")] + list(a.get("aliases") or []))
+    return f"{labels} {a.get('summary', '')}"
+
+
+def similar(query: str, arts: list[dict], about: str = "") -> None:
+    # IDF over title + aliases + summary, so generic words ("model", "network",
+    # "evaluation") that appear across many articles carry little weight.
+    text_idf = label_idf = _idf([set(tokens_list(_profile(a))) for a in arts])
+    qv = _vec(f"{query} {about}", text_idf) if about else None
+    phrase = norm(query)
     scored = []
     for a in arts:
         labels = [a.get("title", "")] + list(a.get("aliases") or [])
-        best = max(label_sim(query, x) for x in labels)
-        if norm(query) in {norm(x) for x in labels}:
-            best = 1.0
-        scored.append((best, a.get("id"), a.get("title")))
-    hits = [x for x in sorted(scored, reverse=True) if x[0] > 0][:10]
+        name = max(name_sim(query, x, label_idf) for x in labels)
+        content = 0.0
+        if qv is not None:
+            av = _vec(_profile(a), text_idf)
+            content = sum(x * av.get(t, 0.0) for t, x in qv.items())
+        mentions = len(re.findall(r"\b" + re.escape(phrase) + r"\b", norm(a["_body"]))) if phrase else 0
+        if qv is None or name >= 0.95:   # exact title/alias/acronym match always counts in full
+            score = name
+        else:                             # otherwise meaning outweighs shared words
+            score = NAME_WEIGHT * name + (1 - NAME_WEIGHT) * content
+        scored.append((score, name, content, mentions, a.get("id"), a.get("title")))
+    scored.sort(key=lambda x: (x[0], x[3]), reverse=True)
+    hits = [x for x in scored if x[0] >= 0.2][:10]
     if not hits:
         print("No similar articles. Topic looks unique.")
-    for s, i, t in hits:
-        print(f"{s:.2f}  {i}  {t}")
+    else:
+        print("score  name  about  mentions  node")
+    for s, n, c, m, i, t in hits:
+        flag = "  <- review" if s >= SIM_REVIEW_THRESHOLD else ""
+        about_col = f"{c:.2f}" if qv is not None else "  - "
+        print(f"{s:.2f}   {n:.2f}  {about_col}  {m:>8}  {i}  {t}{flag}")
+    mentioned = sorted((x for x in scored if x[3] and x not in hits), key=lambda x: -x[3])[:5]
+    if mentioned:
+        print("Also mention the phrase in their body: " + ", ".join(f"{x[4]} ({x[3]}x)" for x in mentioned))
+    if qv is None:
+        print('Name-only check. Add --about "<one-sentence definition>" to also compare against what each '
+              'article is about; shared words alone are weak evidence of a duplicate.')
 
 
 def main() -> int:
     cmd = sys.argv[1] if len(sys.argv) > 1 else "check"
     arts, errs = load_articles()
     if cmd == "similar":
-        similar(" ".join(sys.argv[2:]), arts)
+        args, about = sys.argv[2:], ""
+        if "--about" in args:
+            k = args.index("--about")
+            about = " ".join(args[k + 1:])
+            args = args[:k]
+        similar(" ".join(args), arts, about)
         return 0
     errs += validate(arts) if not errs else []
     if errs:
