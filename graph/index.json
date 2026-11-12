@@ -1569,6 +1569,29 @@
     ]
   },
   {
+    "id": "kt:llm-as-a-judge",
+    "title": "LLM-as-a-judge",
+    "aliases": [
+      "LLM judge",
+      "model-based evaluation",
+      "LLM-based evaluator",
+      "LLM evaluator",
+      "model-graded evaluation"
+    ],
+    "type": "Technique",
+    "domain": "evaluation-and-benchmarks",
+    "file": "articles/evaluation-and-benchmarks/llm-as-a-judge.md",
+    "created": "2026-11-12",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/abs/2306.05685",
+      "https://aclanthology.org/2023.emnlp-main.153",
+      "https://aclanthology.org/2024.acl-long.511",
+      "https://mlanthology.org/iclr/2024/kim2024iclr-prometheus",
+      "https://papers.nips.cc/paper_files/paper/2024/hash/7f1f0218e45f5414c79c0679633e47bc-Abstract-Conference.html"
+    ]
+  },
+  {
     "id": "kt:logic-theorist",
     "title": "Logic Theorist",
     "aliases": [

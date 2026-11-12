@@ -1846,6 +1846,34 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <http://www.w3.org/2000/01/rdf-schema#label> "LLM-as-a-judge" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <http://www.w3.org/2004/02/skos/core#altLabel> "LLM evaluator" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <http://www.w3.org/2004/02/skos/core#altLabel> "LLM judge" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <http://www.w3.org/2004/02/skos/core#altLabel> "LLM-based evaluator" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <http://www.w3.org/2004/02/skos/core#altLabel> "model-based evaluation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <http://www.w3.org/2004/02/skos/core#altLabel> "model-graded evaluation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <http://www.w3.org/2004/02/skos/core#definition> "An evaluation technique in which a strong large language model is prompted, or fine-tuned, to grade or compare the outputs of other models, serving as a scalable approximation of human judgment for open-ended tasks." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <http://www.w3.org/2004/02/skos/core#prefLabel> "LLM-as-a-judge" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/self-refine-iterative-refinement-with-self-feedback> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "evaluation-and-benchmarks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/judging-llm-as-a-judge-with-mt-bench-and-chatbot-arena> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/mt-bench> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Model> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> <http://www.w3.org/2000/01/rdf-schema#label> "Logic Theorist" .
@@ -4820,6 +4848,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s5> <https://schema.org/url> "https://arxiv.org/abs/2108.07258" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s1> <http://purl.org/dc/terms/publisher> "arXiv 2306.05685, NeurIPS 2023 Datasets and Benchmarks Track (Zheng, Chiang, Sheng et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s1> <http://purl.org/dc/terms/title> "Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s1> <https://schema.org/url> "https://arxiv.org/abs/2306.05685" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s2> <http://purl.org/dc/terms/publisher> "Proceedings of EMNLP 2023, pp. 2511–2522 (Liu, Iter, Xu, Wang, Xu, Zhu)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s2> <http://purl.org/dc/terms/title> "G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s2> <https://schema.org/url> "https://aclanthology.org/2023.emnlp-main.153" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s3> <http://purl.org/dc/terms/publisher> "Proceedings of ACL 2024 (Volume 1: Long Papers), pp. 9440–9450 (Wang, Li, Chen et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s3> <http://purl.org/dc/terms/title> "Large Language Models are not Fair Evaluators" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s3> <https://schema.org/url> "https://aclanthology.org/2024.acl-long.511" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s4> <http://purl.org/dc/terms/publisher> "ICLR 2024 (Kim, Seo et al.), via ML Anthology" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s4> <http://purl.org/dc/terms/title> "Prometheus: Inducing Fine-Grained Evaluation Capability in Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s4> <https://schema.org/url> "https://mlanthology.org/iclr/2024/kim2024iclr-prometheus" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s5> <http://purl.org/dc/terms/publisher> "NeurIPS 2024 Main Conference Track (Panickssery, Bowman, Feng)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s5> <http://purl.org/dc/terms/title> "LLM Evaluators Recognize and Favor Their Own Generations" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s5> <https://schema.org/url> "https://papers.nips.cc/paper_files/paper/2024/hash/7f1f0218e45f5414c79c0679633e47bc-Abstract-Conference.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s1> <http://purl.org/dc/terms/publisher> "A. Newell and H. A. Simon, RAND Corporation, 1956 (doi:10.7249/P868)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s1> <http://purl.org/dc/terms/title> "The Logic Theory Machine: A Complex Information Processing System (RAND P-868)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

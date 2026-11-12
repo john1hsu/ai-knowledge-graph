@@ -43,7 +43,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:gradient-descent` | `kt:adam-optimizer`, `kt:backpropagation`, `kt:deep-learning` |
 | `kt:hugging-face-trl` | `kt:direct-preference-optimization`, `kt:instruction-tuning`, `kt:rlhf` |
 | `kt:hybrid-search` | `kt:bm25`, `kt:bm25`, `kt:semantic-search` |
-| `kt:llm-as-a-judge` | `kt:ai-evaluation`, `kt:truthfulqa`, `kt:qlora` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
 | `kt:ms-coco` | `kt:faster-r-cnn`, `kt:object-detection`, `kt:yolo` |
 | `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:gpu-computing` |
@@ -132,6 +131,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chain-of-thought-prompting-elicits-reasoning-in-large-language-models` | `kt:chain-of-thought` |
 | `kt:charles-goodhart` | `kt:goodharts-law` |
 | `kt:chatbot` | `kt:eliza` |
+| `kt:chatbot-arena` | `kt:llm-as-a-judge` |
 | `kt:christopher-watkins` | `kt:q-learning` |
 | `kt:cliff-shaw` | `kt:logic-theorist` |
 | `kt:clipper-prediction-serving-system` | `kt:model-serving` |
@@ -196,6 +196,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hugging-face` | `kt:hugging-face-transformers` |
 | `kt:hugging-face-diffusers` | `kt:diffusion-model` |
 | `kt:hugging-face-peft` | `kt:qlora` |
+| `kt:human-evaluation` | `kt:llm-as-a-judge` |
 | `kt:ian-goodfellow` | `kt:generative-adversarial-network` |
 | `kt:imagenet-classification-with-deep-convolutional-neural-networks` | `kt:imagenet-and-alexnet` |
 | `kt:imagenet-large-scale-visual-recognition-challenge` | `kt:imagenet-and-alexnet` |
@@ -211,6 +212,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:john-searle` | `kt:chinese-room-argument` |
 | `kt:joseph-redmon` | `kt:yolo` |
 | `kt:joseph-weizenbaum` | `kt:eliza` |
+| `kt:judging-llm-as-a-judge-with-mt-bench-and-chatbot-arena` | `kt:llm-as-a-judge` |
 | `kt:juergen-schmidhuber` | `kt:long-short-term-memory` |
 | `kt:karen-sparck-jones` | `kt:tf-idf` |
 | `kt:karl-pearson` | `kt:principal-component-analysis` |
@@ -254,6 +256,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:monte-carlo-dropout` | `kt:dropout` |
 | `kt:monte-carlo-tree-search` | `kt:alphago` |
 | `kt:mrkl-systems` | `kt:tool-use` |
+| `kt:mt-bench` | `kt:llm-as-a-judge` |
 | `kt:mteb` | `kt:beir` |
 | `kt:multi-armed-bandit` | `kt:exploration-exploitation` |
 | `kt:multimodal-learning` | `kt:vision-language-model` |

@@ -4589,6 +4589,100 @@
       ]
     },
     {
+      "@id": "kt:llm-as-a-judge",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "LLM-as-a-judge",
+      "skos:definition": "An evaluation technique in which a strong large language model is prompted, or fine-tuned, to grade or compare the outputs of other models, serving as a scalable approximation of human judgment for open-ended tasks.",
+      "kto:domain": "evaluation-and-benchmarks",
+      "dcterms:created": "2026-11-12",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena",
+          "dcterms:publisher": "arXiv 2306.05685, NeurIPS 2023 Datasets and Benchmarks Track (Zheng, Chiang, Sheng et al.)",
+          "schema:url": "https://arxiv.org/abs/2306.05685",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment",
+          "dcterms:publisher": "Proceedings of EMNLP 2023, pp. 2511–2522 (Liu, Iter, Xu, Wang, Xu, Zhu)",
+          "schema:url": "https://aclanthology.org/2023.emnlp-main.153",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Large Language Models are not Fair Evaluators",
+          "dcterms:publisher": "Proceedings of ACL 2024 (Volume 1: Long Papers), pp. 9440–9450 (Wang, Li, Chen et al.)",
+          "schema:url": "https://aclanthology.org/2024.acl-long.511",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Prometheus: Inducing Fine-Grained Evaluation Capability in Language Models",
+          "dcterms:publisher": "ICLR 2024 (Kim, Seo et al.), via ML Anthology",
+          "schema:url": "https://mlanthology.org/iclr/2024/kim2024iclr-prometheus",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "LLM Evaluators Recognize and Favor Their Own Generations",
+          "dcterms:publisher": "NeurIPS 2024 Main Conference Track (Panickssery, Bowman, Feng)",
+          "schema:url": "https://papers.nips.cc/paper_files/paper/2024/hash/7f1f0218e45f5414c79c0679633e47bc-Abstract-Conference.html",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/evaluation-and-benchmarks/llm-as-a-judge.md",
+      "skos:altLabel": [
+        "LLM judge",
+        "model-based evaluation",
+        "LLM-based evaluator",
+        "LLM evaluator",
+        "model-graded evaluation"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-evaluation"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:human-evaluation"
+        },
+        {
+          "@id": "kt:sycophancy"
+        },
+        {
+          "@id": "kt:reward-hacking"
+        },
+        {
+          "@id": "kt:self-refine-iterative-refinement-with-self-feedback"
+        },
+        {
+          "@id": "kt:rlhf"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:judging-llm-as-a-judge-with-mt-bench-and-chatbot-arena"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:chatbot-arena"
+        },
+        {
+          "@id": "kt:mt-bench"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:chain-of-thought"
+        }
+      ]
+    },
+    {
       "@id": "kt:mmlu",
       "@type": "kto:Benchmark",
       "skos:prefLabel": "MMLU: Measuring Massive Multitask Language Understanding",
