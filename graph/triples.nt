@@ -820,6 +820,33 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/ruler> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> <http://www.w3.org/2000/01/rdf-schema#label> "Convolutional neural network" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> <http://www.w3.org/2004/02/skos/core#altLabel> "CNN" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> <http://www.w3.org/2004/02/skos/core#altLabel> "ConvNet" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> <http://www.w3.org/2004/02/skos/core#altLabel> "convolutional network" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> <http://www.w3.org/2004/02/skos/core#definition> "A neural network architecture for grid-structured data such as images that replaces dense layers with small learned kernels slid across the input, so that weights are local and shared across positions, usually interleaved with pooling and stacked into deep feature hierarchies." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> <http://www.w3.org/2004/02/skos/core#prefLabel> "Convolutional neural network" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/yann-lecun> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "deep-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/neocognitron> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/gradient-based-learning-applied-to-document-recognition> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Tool> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/cuda> <http://www.w3.org/2000/01/rdf-schema#label> "CUDA" .
@@ -3331,6 +3358,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s6> <https://schema.org/url> "https://platform.claude.com/docs/es/build-with-claude/context-windows" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s1> <http://purl.org/dc/terms/publisher> "Biological Cybernetics 36(4):193–202 (1980) (Fukushima), via ML Anthology" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s1> <http://purl.org/dc/terms/title> "Neocognitron: A Self-Organizing Neural Network Model for a Mechanism of Pattern Recognition Unaffected by Shift in Position" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s1> <https://schema.org/url> "https://mlanthology.org/misc/1980/fukushima1980misc-neocognitron" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s2> <http://purl.org/dc/terms/publisher> "Proceedings of the IEEE 86(11):2278–2324 (1998) (LeCun, Bottou, Bengio and Haffner), via ML Anthology" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s2> <http://purl.org/dc/terms/title> "Gradient-Based Learning Applied to Document Recognition" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s2> <https://schema.org/url> "https://mlanthology.org/misc/1998/lecun1998misc-gradientbased" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s3> <http://purl.org/dc/terms/publisher> "CVPR 2016, pp. 770–778 (He, Zhang, Ren and Sun)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s3> <http://purl.org/dc/terms/title> "Deep Residual Learning for Image Recognition" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s3> <https://schema.org/url> "https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s4> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (Zhang, Lipton, Li and Smola)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s4> <http://purl.org/dc/terms/title> "7. Convolutional Neural Networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s4> <https://schema.org/url> "https://d2l.ai/chapter_convolutional-neural-networks/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s5> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (Zhang, Lipton, Li and Smola)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s5> <http://purl.org/dc/terms/title> "7.2. Convolutions for Images" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s5> <https://schema.org/url> "https://d2l.ai/chapter_convolutional-neural-networks/conv-layer.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s6> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning, DJL edition (Zhang, Lipton, Li and Smola)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s6> <http://purl.org/dc/terms/title> "From Fully Connected Layers to Convolutions" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s6> <https://schema.org/url> "https://d2l.djl.ai/chapter_convolutional-neural-networks/why-conv.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s1> <http://purl.org/dc/terms/publisher> "NVIDIA CUDA documentation" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s1> <http://purl.org/dc/terms/title> "CUDA Programming Guide, 1.2 Programming Model (v13.4.2)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/cuda/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

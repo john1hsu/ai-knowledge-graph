@@ -698,6 +698,28 @@
     ]
   },
   {
+    "id": "kt:convolutional-neural-network",
+    "title": "Convolutional neural network",
+    "aliases": [
+      "CNN",
+      "ConvNet",
+      "convolutional network"
+    ],
+    "type": "Architecture",
+    "domain": "deep-learning",
+    "file": "articles/deep-learning/convolutional-neural-network.md",
+    "created": "2026-11-12",
+    "maturity": "established",
+    "source_urls": [
+      "https://mlanthology.org/misc/1980/fukushima1980misc-neocognitron",
+      "https://mlanthology.org/misc/1998/lecun1998misc-gradientbased",
+      "https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html",
+      "https://d2l.ai/chapter_convolutional-neural-networks/",
+      "https://d2l.ai/chapter_convolutional-neural-networks/conv-layer.html",
+      "https://d2l.djl.ai/chapter_convolutional-neural-networks/why-conv.html"
+    ]
+  },
+  {
     "id": "kt:cuda",
     "title": "CUDA",
     "aliases": [

@@ -5,11 +5,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:executive-orders-on-ai` | `kt:red-teaming`, `kt:ai-chip-export-controls`, `kt:ai-safety-institutes`, `kt:bureau-of-industry-and-security`, `kt:bureau-of-industry-and-security`, `kt:compute-governance`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda`, `kt:omb-ai-memoranda` |
+| `kt:recurrent-neural-network` | `kt:automatic-speech-recognition`, `kt:convolutional-neural-network`, `kt:deep-learning`, `kt:long-short-term-memory`, `kt:conditional-random-field`, `kt:hidden-markov-model`, `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:transformer-architecture` |
 | `kt:ai-governance` | `kt:ai-chip-export-controls`, `kt:ai-safety-institutes`, `kt:algorithmic-bias-and-fairness`, `kt:bureau-of-industry-and-security`, `kt:compute-governance`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda`, `kt:ai-alignment` |
-| `kt:convolutional-neural-network` | `kt:imagenet-and-alexnet`, `kt:an-image-is-worth-16x16-words`, `kt:faster-r-cnn`, `kt:yolo`, `kt:artificial-neural-network`, `kt:deep-learning`, `kt:alphago`, `kt:deep-q-network` |
 | `kt:markov-decision-process` | `kt:hidden-markov-model`, `kt:actor-critic`, `kt:deep-q-network`, `kt:policy-gradient`, `kt:q-learning`, `kt:q-learning`, `kt:reinforcement-learning`, `kt:reinforcement-learning` |
 | `kt:pretraining` | `kt:test-time-compute`, `kt:fine-tuning`, `kt:synthetic-data`, `kt:emergent-abilities`, `kt:in-context-learning`, `kt:large-language-model`, `kt:scaling-laws`, `kt:scaling-laws` |
-| `kt:recurrent-neural-network` | `kt:automatic-speech-recognition`, `kt:deep-learning`, `kt:long-short-term-memory`, `kt:conditional-random-field`, `kt:hidden-markov-model`, `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:transformer-architecture` |
 | `kt:benchmark-contamination` | `kt:ai-evaluation`, `kt:commonsenseqa`, `kt:gsm8k`, `kt:mmlu`, `kt:truthfulqa`, `kt:goodharts-law`, `kt:synthetic-data` |
 | `kt:gpu-computing` | `kt:imagenet-and-alexnet`, `kt:cuda`, `kt:data-parallelism`, `kt:high-bandwidth-memory`, `kt:nvidia`, `kt:tpu`, `kt:ai-chip-export-controls` |
 | `kt:instruction-tuning` | `kt:vision-language-model`, `kt:vision-language-model`, `kt:fine-tuning`, `kt:qlora`, `kt:rlhf`, `kt:synthetic-data`, `kt:synthetic-data` |
@@ -41,6 +40,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:reranking` | `kt:beir`, `kt:bm25`, `kt:retrieval-augmented-generation`, `kt:semantic-search` |
 | `kt:self-attention` | `kt:flash-attention`, `kt:attention-is-all-you-need`, `kt:context-window`, `kt:transformer-architecture` |
 | `kt:vector-database` | `kt:approximate-nearest-neighbor-search`, `kt:embeddings`, `kt:retrieval-augmented-generation`, `kt:semantic-search` |
+| `kt:vision-transformer` | `kt:an-image-is-worth-16x16-words`, `kt:clip`, `kt:yolo`, `kt:convolutional-neural-network` |
 | `kt:adagrad` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:glove` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph` |
 | `kt:ai-safety` | `kt:ai-alignment`, `kt:goodharts-law`, `kt:reward-hacking` |
@@ -49,6 +49,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:hidden-markov-model` |
 | `kt:gradient-descent` | `kt:adam-optimizer`, `kt:backpropagation`, `kt:deep-learning` |
 | `kt:hybrid-search` | `kt:bm25`, `kt:bm25`, `kt:semantic-search` |
+| `kt:image-classification` | `kt:imagenet-and-alexnet`, `kt:an-image-is-worth-16x16-words`, `kt:convolutional-neural-network` |
 | `kt:llm-as-a-judge` | `kt:ai-evaluation`, `kt:truthfulqa`, `kt:qlora` |
 | `kt:model-compression` | `kt:gptq`, `kt:quantization`, `kt:knowledge-distillation` |
 | `kt:model-pruning` | `kt:quantization`, `kt:quantization`, `kt:knowledge-distillation` |
@@ -57,7 +58,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:proximal-policy-optimization` | `kt:policy-gradient`, `kt:direct-preference-optimization`, `kt:rlhf` |
 | `kt:temporal-difference-learning` | `kt:actor-critic`, `kt:q-learning`, `kt:reinforcement-learning` |
 | `kt:unsupervised-learning` | `kt:dimensionality-reduction`, `kt:machine-learning`, `kt:principal-component-analysis` |
-| `kt:vision-transformer` | `kt:an-image-is-worth-16x16-words`, `kt:clip`, `kt:yolo` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
 | `kt:ai-hardware` | `kt:high-bandwidth-memory`, `kt:nvidia` |
 | `kt:apache-lucene` | `kt:bm25`, `kt:tf-idf` |
@@ -72,7 +72,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
 | `kt:google-deepmind` | `kt:alphago`, `kt:deep-q-network` |
 | `kt:hugging-face-trl` | `kt:direct-preference-optimization`, `kt:rlhf` |
-| `kt:image-classification` | `kt:imagenet-and-alexnet`, `kt:an-image-is-worth-16x16-words` |
 | `kt:induction-head` | `kt:mechanistic-interpretability`, `kt:in-context-learning` |
 | `kt:kv-cache` | `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
 | `kt:latent-semantic-analysis` | `kt:glove`, `kt:semantic-search` |
@@ -185,6 +184,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:glove-global-vectors-for-word-representation` | `kt:glove` |
 | `kt:gpt-j` | `kt:toolformer` |
 | `kt:gptq-accurate-post-training-quantization-for-generative-pre-trained-transformers` | `kt:gptq` |
+| `kt:gradient-based-learning-applied-to-document-recognition` | `kt:convolutional-neural-network` |
 | `kt:harold-hotelling` | `kt:principal-component-analysis` |
 | `kt:herbert-a-simon` | `kt:logic-theorist` |
 | `kt:heuristic-search` | `kt:logic-theorist` |
@@ -249,6 +249,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mteb` | `kt:beir` |
 | `kt:multi-armed-bandit` | `kt:exploration-exploitation` |
 | `kt:multimodal-learning` | `kt:vision-language-model` |
+| `kt:neocognitron` | `kt:convolutional-neural-network` |
 | `kt:nist` | `kt:nist-ai-risk-management-framework` |
 | `kt:nist-generative-ai-profile` | `kt:nist-ai-risk-management-framework` |
 | `kt:office-of-management-and-budget` | `kt:omb-ai-memoranda` |
@@ -325,6 +326,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:weak-to-strong-generalization` | `kt:scalable-oversight` |
 | `kt:weight-decay` | `kt:dropout` |
 | `kt:whisper` | `kt:automatic-speech-recognition` |
+| `kt:yann-lecun` | `kt:convolutional-neural-network` |
 | `kt:yoshua-bengio` | `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
 | `kt:you-only-look-once-unified-real-time-object-detection` | `kt:yolo` |
 | `kt:zero-redundancy-optimizer` | `kt:data-parallelism` |

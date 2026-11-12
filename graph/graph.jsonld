@@ -3180,6 +3180,108 @@
       ]
     },
     {
+      "@id": "kt:convolutional-neural-network",
+      "@type": "kto:Architecture",
+      "skos:prefLabel": "Convolutional neural network",
+      "skos:definition": "A neural network architecture for grid-structured data such as images that replaces dense layers with small learned kernels slid across the input, so that weights are local and shared across positions, usually interleaved with pooling and stacked into deep feature hierarchies.",
+      "kto:domain": "deep-learning",
+      "dcterms:created": "2026-11-12",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Neocognitron: A Self-Organizing Neural Network Model for a Mechanism of Pattern Recognition Unaffected by Shift in Position",
+          "dcterms:publisher": "Biological Cybernetics 36(4):193–202 (1980) (Fukushima), via ML Anthology",
+          "schema:url": "https://mlanthology.org/misc/1980/fukushima1980misc-neocognitron",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Gradient-Based Learning Applied to Document Recognition",
+          "dcterms:publisher": "Proceedings of the IEEE 86(11):2278–2324 (1998) (LeCun, Bottou, Bengio and Haffner), via ML Anthology",
+          "schema:url": "https://mlanthology.org/misc/1998/lecun1998misc-gradientbased",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Deep Residual Learning for Image Recognition",
+          "dcterms:publisher": "CVPR 2016, pp. 770–778 (He, Zhang, Ren and Sun)",
+          "schema:url": "https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "7. Convolutional Neural Networks",
+          "dcterms:publisher": "Dive into Deep Learning (Zhang, Lipton, Li and Smola)",
+          "schema:url": "https://d2l.ai/chapter_convolutional-neural-networks/",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "7.2. Convolutions for Images",
+          "dcterms:publisher": "Dive into Deep Learning (Zhang, Lipton, Li and Smola)",
+          "schema:url": "https://d2l.ai/chapter_convolutional-neural-networks/conv-layer.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "From Fully Connected Layers to Convolutions",
+          "dcterms:publisher": "Dive into Deep Learning, DJL edition (Zhang, Lipton, Li and Smola)",
+          "schema:url": "https://d2l.djl.ai/chapter_convolutional-neural-networks/why-conv.html",
+          "kto:sourceType": "textbook"
+        }
+      ],
+      "kto:file": "articles/deep-learning/convolutional-neural-network.md",
+      "skos:altLabel": [
+        "CNN",
+        "ConvNet",
+        "convolutional network"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:artificial-neural-network"
+        },
+        {
+          "@id": "kt:deep-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:imagenet-and-alexnet"
+        },
+        {
+          "@id": "kt:image-classification"
+        },
+        {
+          "@id": "kt:recurrent-neural-network"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:gradient-based-learning-applied-to-document-recognition"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:yann-lecun"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:neocognitron"
+        }
+      ],
+      "kto:trainedWith": [
+        {
+          "@id": "kt:backpropagation"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:faster-r-cnn"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:vision-transformer"
+        }
+      ]
+    },
+    {
       "@id": "kt:deep-learning",
       "@type": "kto:Field",
       "skos:prefLabel": "Deep learning",
