@@ -1746,6 +1746,101 @@
       ]
     },
     {
+      "@id": "kt:gpu-computing",
+      "@type": "kto:Paradigm",
+      "skos:prefLabel": "GPU computing",
+      "skos:definition": "The use of graphics processing units, throughput-oriented processors with thousands of parallel lanes and high-bandwidth memory, for general computation rather than rendering; since the late 2000s it has been the dominant hardware substrate for training and serving neural networks.",
+      "kto:domain": "ai-infrastructure-and-mlops",
+      "dcterms:created": "2026-11-12",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "A Survey of General-Purpose Computation on Graphics Hardware",
+          "dcterms:publisher": "Eurographics 2005 State of the Art Reports (Owens, Luebke, Govindaraju, Harris, Krüger, Lefohn, Purcell); NVIDIA Research page",
+          "schema:url": "https://research.nvidia.com/publication/2005-08_survey-general-purpose-computation-graphics-hardware",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "GPU Computing",
+          "dcterms:publisher": "Proceedings of the IEEE 96(5), May 2008 (Owens, Houston, Luebke, Green, Stone, Phillips); UC eScholarship copy",
+          "schema:url": "https://escholarship.org/content/qt0cv1p1nc/qt0cv1p1nc.pdf?t=owljow",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Large-scale Deep Unsupervised Learning using Graphics Processors",
+          "dcterms:publisher": "ICML 2009 (Raina, Madhavan, Ng)",
+          "schema:url": "https://icml.cc/imls/conferences/2009/papers/218.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "GPU Performance Background User's Guide",
+          "dcterms:publisher": "NVIDIA Deep Learning Performance documentation",
+          "schema:url": "https://docs.nvidia.com/deeplearning/performance/dl-performance-gpu-background/index.html",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Understanding GPU performance",
+          "dcterms:publisher": "AMD ROCm HIP documentation",
+          "schema:url": "https://rocm.docs.amd.com/projects/HIP/en/latest/understand/performance_optimization.html",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/ai-infrastructure-and-mlops/gpu-computing.md",
+      "skos:altLabel": [
+        "GPGPU",
+        "general-purpose computing on graphics processing units",
+        "general-purpose GPU computing",
+        "GPU acceleration"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:parallel-computing"
+        },
+        {
+          "@id": "kt:ai-hardware"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:cuda"
+        },
+        {
+          "@id": "kt:high-bandwidth-memory"
+        },
+        {
+          "@id": "kt:data-parallelism"
+        },
+        {
+          "@id": "kt:roofline-model"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:deep-learning"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:imagenet-and-alexnet"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:tensor-cores"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:tpu"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:arithmetic-intensity"
+        }
+      ]
+    },
+    {
       "@id": "kt:high-bandwidth-memory",
       "@type": "kto:Hardware",
       "skos:prefLabel": "High-bandwidth memory",

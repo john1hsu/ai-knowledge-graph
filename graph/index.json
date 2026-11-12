@@ -1283,6 +1283,28 @@
     ]
   },
   {
+    "id": "kt:gpu-computing",
+    "title": "GPU computing",
+    "aliases": [
+      "GPGPU",
+      "general-purpose computing on graphics processing units",
+      "general-purpose GPU computing",
+      "GPU acceleration"
+    ],
+    "type": "Paradigm",
+    "domain": "ai-infrastructure-and-mlops",
+    "file": "articles/ai-infrastructure-and-mlops/gpu-computing.md",
+    "created": "2026-11-12",
+    "maturity": "established",
+    "source_urls": [
+      "https://research.nvidia.com/publication/2005-08_survey-general-purpose-computation-graphics-hardware",
+      "https://escholarship.org/content/qt0cv1p1nc/qt0cv1p1nc.pdf?t=owljow",
+      "https://icml.cc/imls/conferences/2009/papers/218.pdf",
+      "https://docs.nvidia.com/deeplearning/performance/dl-performance-gpu-background/index.html",
+      "https://rocm.docs.amd.com/projects/HIP/en/latest/understand/performance_optimization.html"
+    ]
+  },
+  {
     "id": "kt:gsm8k",
     "title": "GSM8K",
     "aliases": [

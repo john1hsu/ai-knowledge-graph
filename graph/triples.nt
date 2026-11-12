@@ -1507,6 +1507,33 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/gptq-accurate-post-training-quantization-for-generative-pre-trained-transformers> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Paradigm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> <http://www.w3.org/2000/01/rdf-schema#label> "GPU computing" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> <http://www.w3.org/2004/02/skos/core#altLabel> "GPGPU" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> <http://www.w3.org/2004/02/skos/core#altLabel> "GPU acceleration" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> <http://www.w3.org/2004/02/skos/core#altLabel> "general-purpose GPU computing" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> <http://www.w3.org/2004/02/skos/core#altLabel> "general-purpose computing on graphics processing units" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-hardware> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/parallel-computing> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> <http://www.w3.org/2004/02/skos/core#definition> "The use of graphics processing units, throughput-oriented processors with thousands of parallel lanes and high-bandwidth memory, for general computation rather than rendering; since the late 2000s it has been the dominant hardware substrate for training and serving neural networks." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> <http://www.w3.org/2004/02/skos/core#prefLabel> "GPU computing" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/cuda> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/data-parallelism> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/roofline-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/gpu-computing/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/gpu-computing/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/gpu-computing/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/gpu-computing/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/gpu-computing/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/tpu> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/arithmetic-intensity> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-infrastructure-and-mlops" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/tensor-cores> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Benchmark> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <http://www.w3.org/2000/01/rdf-schema#label> "GSM8K" .
@@ -4347,6 +4374,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s4> <https://schema.org/url> "https://huggingface.co/docs/transformers/en/quantization/gptq" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpu-computing/s1> <http://purl.org/dc/terms/publisher> "Eurographics 2005 State of the Art Reports (Owens, Luebke, Govindaraju, Harris, Krüger, Lefohn, Purcell); NVIDIA Research page" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpu-computing/s1> <http://purl.org/dc/terms/title> "A Survey of General-Purpose Computation on Graphics Hardware" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpu-computing/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpu-computing/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpu-computing/s1> <https://schema.org/url> "https://research.nvidia.com/publication/2005-08_survey-general-purpose-computation-graphics-hardware" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpu-computing/s2> <http://purl.org/dc/terms/publisher> "Proceedings of the IEEE 96(5), May 2008 (Owens, Houston, Luebke, Green, Stone, Phillips); UC eScholarship copy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpu-computing/s2> <http://purl.org/dc/terms/title> "GPU Computing" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpu-computing/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpu-computing/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpu-computing/s2> <https://schema.org/url> "https://escholarship.org/content/qt0cv1p1nc/qt0cv1p1nc.pdf?t=owljow" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpu-computing/s3> <http://purl.org/dc/terms/publisher> "ICML 2009 (Raina, Madhavan, Ng)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpu-computing/s3> <http://purl.org/dc/terms/title> "Large-scale Deep Unsupervised Learning using Graphics Processors" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpu-computing/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpu-computing/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpu-computing/s3> <https://schema.org/url> "https://icml.cc/imls/conferences/2009/papers/218.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpu-computing/s4> <http://purl.org/dc/terms/publisher> "NVIDIA Deep Learning Performance documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpu-computing/s4> <http://purl.org/dc/terms/title> "GPU Performance Background User's Guide" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpu-computing/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpu-computing/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpu-computing/s4> <https://schema.org/url> "https://docs.nvidia.com/deeplearning/performance/dl-performance-gpu-background/index.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpu-computing/s5> <http://purl.org/dc/terms/publisher> "AMD ROCm HIP documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpu-computing/s5> <http://purl.org/dc/terms/title> "Understanding GPU performance" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpu-computing/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpu-computing/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpu-computing/s5> <https://schema.org/url> "https://rocm.docs.amd.com/projects/HIP/en/latest/understand/performance_optimization.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s1> <http://purl.org/dc/terms/publisher> "arXiv:2110.14168 (Cobbe, Kosaraju, Bavarian, Chen, Jun, Kaiser, Plappert, Tworek, Hilton, Nakano, Hesse, Schulman; OpenAI), October 2021" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s1> <http://purl.org/dc/terms/title> "Training Verifiers to Solve Math Word Problems" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
