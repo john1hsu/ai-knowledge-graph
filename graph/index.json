@@ -1587,6 +1587,29 @@
     ]
   },
   {
+    "id": "kt:model-pruning",
+    "title": "Model pruning",
+    "aliases": [
+      "neural network pruning",
+      "weight pruning",
+      "network pruning",
+      "parameter pruning"
+    ],
+    "type": "Technique",
+    "domain": "inference-and-optimization",
+    "file": "articles/inference-and-optimization/model-pruning.md",
+    "created": "2026-11-12",
+    "maturity": "established",
+    "source_urls": [
+      "https://papers.nips.cc/paper/1989/hash/6c9882bbac1c7093bd25041881277658-Abstract.html",
+      "https://arxiv.org/abs/1506.02626v3",
+      "https://arxiv.org/html/1803.03635v5",
+      "https://arxiv.org/abs/2301.00774",
+      "https://proceedings.mlsys.org/paper_files/paper/2020/hash/6c44dc73014d66ba49b28d483a8f8b0d-Abstract.html",
+      "https://developer.nvidia.com/blog/accelerating-inference-with-sparsity-using-ampere-and-tensorrt/"
+    ]
+  },
+  {
     "id": "kt:model-serving",
     "title": "Model serving: deploying trained models behind inference APIs",
     "aliases": [

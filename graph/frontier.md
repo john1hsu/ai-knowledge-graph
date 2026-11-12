@@ -8,8 +8,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:recurrent-neural-network` | `kt:automatic-speech-recognition`, `kt:convolutional-neural-network`, `kt:deep-learning`, `kt:long-short-term-memory`, `kt:conditional-random-field`, `kt:hidden-markov-model`, `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:transformer-architecture` |
 | `kt:instruction-tuning` | `kt:vision-language-model`, `kt:vision-language-model`, `kt:fine-tuning`, `kt:pretraining`, `kt:qlora`, `kt:rlhf`, `kt:synthetic-data`, `kt:synthetic-data` |
 | `kt:markov-decision-process` | `kt:hidden-markov-model`, `kt:actor-critic`, `kt:deep-q-network`, `kt:policy-gradient`, `kt:q-learning`, `kt:q-learning`, `kt:reinforcement-learning`, `kt:reinforcement-learning` |
+| `kt:pytorch` | `kt:data-parallelism`, `kt:hugging-face-transformers`, `kt:faster-r-cnn`, `kt:adam-optimizer`, `kt:backpropagation`, `kt:dropout`, `kt:long-short-term-memory`, `kt:model-pruning` |
 | `kt:gpu-computing` | `kt:imagenet-and-alexnet`, `kt:cuda`, `kt:data-parallelism`, `kt:high-bandwidth-memory`, `kt:nvidia`, `kt:tpu`, `kt:ai-chip-export-controls` |
-| `kt:pytorch` | `kt:data-parallelism`, `kt:hugging-face-transformers`, `kt:faster-r-cnn`, `kt:adam-optimizer`, `kt:backpropagation`, `kt:dropout`, `kt:long-short-term-memory` |
 | `kt:distributed-training` | `kt:cuda`, `kt:data-parallelism`, `kt:mlops`, `kt:nvidia`, `kt:tpu`, `kt:pretraining` |
 | `kt:hallucination` | `kt:vision-language-model`, `kt:vision-language-model`, `kt:truthfulqa`, `kt:retrieval-augmented-generation`, `kt:mechanistic-interpretability`, `kt:sycophancy` |
 | `kt:information-retrieval` | `kt:beir`, `kt:approximate-nearest-neighbor-search`, `kt:bm25`, `kt:retrieval-augmented-generation`, `kt:semantic-search`, `kt:tf-idf` |
@@ -25,15 +25,16 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:overfitting` | `kt:dropout`, `kt:dropout`, `kt:benchmark-contamination`, `kt:bias-variance-tradeoff`, `kt:double-descent` |
 | `kt:prompt-engineering` | `kt:chain-of-thought`, `kt:prompt-sensitivity`, `kt:scratchpad`, `kt:self-consistency`, `kt:self-refine-iterative-refinement-with-self-feedback` |
 | `kt:reasoning-models` | `kt:chain-of-thought`, `kt:scratchpad`, `kt:test-time-compute`, `kt:test-time-compute`, `kt:star-self-taught-reasoner` |
+| `kt:regularization` | `kt:dropout`, `kt:model-pruning`, `kt:bias-variance-tradeoff`, `kt:conditional-random-field`, `kt:double-descent` |
 | `kt:representation-learning` | `kt:clip`, `kt:deep-learning`, `kt:embeddings`, `kt:glove`, `kt:word2vec` |
 | `kt:activation-function` | `kt:artificial-neural-network`, `kt:backpropagation`, `kt:universal-approximation-theorem`, `kt:universal-approximation-theorem` |
 | `kt:agent-memory` | `kt:ai-agent`, `kt:generative-agents-interactive-simulacra-of-human-behavior`, `kt:langgraph`, `kt:voyager` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:dartmouth-workshop`, `kt:turing-test`, `kt:machine-learning` |
 | `kt:beam-search` | `kt:sampling-temperature-and-top-p`, `kt:self-consistency`, `kt:knowledge-distillation`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
 | `kt:llm-inference-optimization` | `kt:model-serving`, `kt:batching-and-paged-attention`, `kt:flash-attention`, `kt:speculative-decoding` |
+| `kt:model-compression` | `kt:gptq`, `kt:model-pruning`, `kt:quantization`, `kt:knowledge-distillation` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent`, `kt:generative-agents-interactive-simulacra-of-human-behavior`, `kt:voyager` |
 | `kt:react-prompting` | `kt:ai-agent`, `kt:autogen`, `kt:toolformer`, `kt:chain-of-thought` |
-| `kt:regularization` | `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:conditional-random-field`, `kt:double-descent` |
 | `kt:reranking` | `kt:beir`, `kt:bm25`, `kt:retrieval-augmented-generation`, `kt:semantic-search` |
 | `kt:self-attention` | `kt:flash-attention`, `kt:attention-is-all-you-need`, `kt:context-window`, `kt:transformer-architecture` |
 | `kt:vector-database` | `kt:approximate-nearest-neighbor-search`, `kt:embeddings`, `kt:retrieval-augmented-generation`, `kt:semantic-search` |
@@ -48,8 +49,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hybrid-search` | `kt:bm25`, `kt:bm25`, `kt:semantic-search` |
 | `kt:image-classification` | `kt:imagenet-and-alexnet`, `kt:an-image-is-worth-16x16-words`, `kt:convolutional-neural-network` |
 | `kt:llm-as-a-judge` | `kt:ai-evaluation`, `kt:truthfulqa`, `kt:qlora` |
-| `kt:model-compression` | `kt:gptq`, `kt:quantization`, `kt:knowledge-distillation` |
-| `kt:model-pruning` | `kt:quantization`, `kt:quantization`, `kt:knowledge-distillation` |
 | `kt:positional-encoding` | `kt:attention-is-all-you-need`, `kt:context-window`, `kt:transformer-architecture` |
 | `kt:prompt-injection` | `kt:agent2agent-protocol`, `kt:red-teaming`, `kt:jailbreak` |
 | `kt:proximal-policy-optimization` | `kt:policy-gradient`, `kt:direct-preference-optimization`, `kt:rlhf` |
@@ -91,6 +90,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:statistical-learning-theory` | `kt:bias-variance-tradeoff`, `kt:double-descent` |
 | `kt:stochastic-gradient-descent` | `kt:data-parallelism`, `kt:adam-optimizer` |
 | `kt:symbolic-ai` | `kt:dartmouth-workshop`, `kt:logic-theorist` |
+| `kt:tensor-cores` | `kt:nvidia`, `kt:model-pruning` |
 | `kt:transfer-learning` | `kt:fine-tuning`, `kt:pretraining` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:wmt-2014` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
@@ -226,6 +226,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:logistic-regression` | `kt:conditional-random-field` |
 | `kt:long-short-term-memory-1997` | `kt:long-short-term-memory` |
 | `kt:lora` | `kt:qlora` |
+| `kt:lottery-ticket-hypothesis` | `kt:model-pruning` |
 | `kt:markov-chain` | `kt:hidden-markov-model` |
 | `kt:mask-r-cnn` | `kt:faster-r-cnn` |
 | `kt:mastering-the-game-of-go-with-deep-neural-networks-and-tree-search` | `kt:alphago` |
@@ -255,6 +256,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:nist-generative-ai-profile` | `kt:nist-ai-risk-management-framework` |
 | `kt:office-of-management-and-budget` | `kt:omb-ai-memoranda` |
 | `kt:optimal-brain-compression` | `kt:gptq` |
+| `kt:optimal-brain-damage` | `kt:model-pruning` |
 | `kt:penetration-testing` | `kt:red-teaming` |
 | `kt:philosophy-of-artificial-intelligence` | `kt:chinese-room-argument` |
 | `kt:playing-atari-with-deep-reinforcement-learning` | `kt:deep-q-network` |
@@ -295,7 +297,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:symbol-grounding-problem` | `kt:chinese-room-argument` |
 | `kt:systolic-array` | `kt:tpu` |
 | `kt:t-sne` | `kt:dimensionality-reduction` |
-| `kt:tensor-cores` | `kt:nvidia` |
 | `kt:tensorflow-serving` | `kt:model-serving` |
 | `kt:tensorrt-llm` | `kt:quantization` |
 | `kt:text-to-image-generation` | `kt:diffusion-model` |

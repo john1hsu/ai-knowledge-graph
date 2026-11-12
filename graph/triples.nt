@@ -1865,6 +1865,34 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "evaluation-and-benchmarks" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <https://github.com/john1hsu/ai-knowledge-graph/ontology#supersededBy> <https://github.com/john1hsu/ai-knowledge-graph/id/mmlu-pro> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <http://www.w3.org/2000/01/rdf-schema#label> "Model pruning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <http://www.w3.org/2004/02/skos/core#altLabel> "network pruning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <http://www.w3.org/2004/02/skos/core#altLabel> "neural network pruning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <http://www.w3.org/2004/02/skos/core#altLabel> "parameter pruning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <http://www.w3.org/2004/02/skos/core#altLabel> "weight pruning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <http://www.w3.org/2004/02/skos/core#definition> "A model-compression technique that removes weights, neurons, channels or other structures judged unimportant from a trained neural network, producing a sparser or smaller model that ideally keeps the original accuracy while needing less memory and, when the sparsity pattern suits the hardware, less compute." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <http://www.w3.org/2004/02/skos/core#prefLabel> "Model pruning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/gptq> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/lottery-ticket-hypothesis> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/regularization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "inference-and-optimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/optimal-brain-damage> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#runsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/tensor-cores> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <http://www.w3.org/2000/01/rdf-schema#label> "Model serving: deploying trained models behind inference APIs" .
@@ -4581,6 +4609,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s6> <https://schema.org/url> "https://hai-production.s3.amazonaws.com/files/hai_ai-index-report-2025_chapter2_final.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 1989 (Advances in Neural Information Processing Systems 2; LeCun, Denker and Solla)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s1> <http://purl.org/dc/terms/title> "Optimal Brain Damage" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s1> <https://schema.org/url> "https://papers.nips.cc/paper/1989/hash/6c9882bbac1c7093bd25041881277658-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s2> <http://purl.org/dc/terms/publisher> "Han, Pool, Tran and Dally, authors' arXiv version 1506.02626 (2015)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s2> <http://purl.org/dc/terms/title> "Learning both Weights and Connections for Efficient Neural Networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s2> <https://schema.org/url> "https://arxiv.org/abs/1506.02626v3" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s3> <http://purl.org/dc/terms/publisher> "Frankle and Carbin, authors' arXiv version 1803.03635 (2018, revised 2019)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s3> <http://purl.org/dc/terms/title> "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s3> <https://schema.org/url> "https://arxiv.org/html/1803.03635v5" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s4> <http://purl.org/dc/terms/publisher> "ICML 2023 (Frantar and Alistarh), authors' arXiv version 2301.00774" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s4> <http://purl.org/dc/terms/title> "SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s4> <https://schema.org/url> "https://arxiv.org/abs/2301.00774" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s5> <http://purl.org/dc/terms/publisher> "MLSys 2020 (Blalock, Gonzalez Ortiz, Frankle and Guttag)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s5> <http://purl.org/dc/terms/title> "What is the State of Neural Network Pruning?" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s5> <https://schema.org/url> "https://proceedings.mlsys.org/paper_files/paper/2020/hash/6c44dc73014d66ba49b28d483a8f8b0d-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s6> <http://purl.org/dc/terms/publisher> "NVIDIA Technical Blog (Pool, Sawarkar and Rodge), July 2021" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s6> <http://purl.org/dc/terms/title> "Accelerating Inference with Sparsity Using the NVIDIA Ampere Architecture and NVIDIA TensorRT" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s6> <https://schema.org/url> "https://developer.nvidia.com/blog/accelerating-inference-with-sparsity-using-ampere-and-tensorrt/" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s1> <http://purl.org/dc/terms/publisher> "NSDI 2017 (Crankshaw, Wang, Zhou, Franklin, Gonzalez, Stoica), USENIX" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s1> <http://purl.org/dc/terms/title> "Clipper: A Low-Latency Online Prediction Serving System" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

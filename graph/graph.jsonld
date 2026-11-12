@@ -5491,6 +5491,109 @@
       ]
     },
     {
+      "@id": "kt:model-pruning",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Model pruning",
+      "skos:definition": "A model-compression technique that removes weights, neurons, channels or other structures judged unimportant from a trained neural network, producing a sparser or smaller model that ideally keeps the original accuracy while needing less memory and, when the sparsity pattern suits the hardware, less compute.",
+      "kto:domain": "inference-and-optimization",
+      "dcterms:created": "2026-11-12",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Optimal Brain Damage",
+          "dcterms:publisher": "NeurIPS 1989 (Advances in Neural Information Processing Systems 2; LeCun, Denker and Solla)",
+          "schema:url": "https://papers.nips.cc/paper/1989/hash/6c9882bbac1c7093bd25041881277658-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Learning both Weights and Connections for Efficient Neural Networks",
+          "dcterms:publisher": "Han, Pool, Tran and Dally, authors' arXiv version 1506.02626 (2015)",
+          "schema:url": "https://arxiv.org/abs/1506.02626v3",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks",
+          "dcterms:publisher": "Frankle and Carbin, authors' arXiv version 1803.03635 (2018, revised 2019)",
+          "schema:url": "https://arxiv.org/html/1803.03635v5",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot",
+          "dcterms:publisher": "ICML 2023 (Frantar and Alistarh), authors' arXiv version 2301.00774",
+          "schema:url": "https://arxiv.org/abs/2301.00774",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "What is the State of Neural Network Pruning?",
+          "dcterms:publisher": "MLSys 2020 (Blalock, Gonzalez Ortiz, Frankle and Guttag)",
+          "schema:url": "https://proceedings.mlsys.org/paper_files/paper/2020/hash/6c44dc73014d66ba49b28d483a8f8b0d-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Accelerating Inference with Sparsity Using the NVIDIA Ampere Architecture and NVIDIA TensorRT",
+          "dcterms:publisher": "NVIDIA Technical Blog (Pool, Sawarkar and Rodge), July 2021",
+          "schema:url": "https://developer.nvidia.com/blog/accelerating-inference-with-sparsity-using-ampere-and-tensorrt/",
+          "kto:sourceType": "lab-research"
+        }
+      ],
+      "kto:file": "articles/inference-and-optimization/model-pruning.md",
+      "skos:altLabel": [
+        "neural network pruning",
+        "weight pruning",
+        "network pruning",
+        "parameter pruning"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:model-compression"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:knowledge-distillation"
+        },
+        {
+          "@id": "kt:lottery-ticket-hypothesis"
+        },
+        {
+          "@id": "kt:regularization"
+        },
+        {
+          "@id": "kt:gptq"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:optimal-brain-damage"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:quantization"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:runsOn": [
+        {
+          "@id": "kt:tensor-cores"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:pytorch"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:model-serving"
+        }
+      ]
+    },
+    {
       "@id": "kt:quantization",
       "@type": "kto:Technique",
       "skos:prefLabel": "Quantization",
