@@ -1129,6 +1129,101 @@
       ]
     },
     {
+      "@id": "kt:logic-theorist",
+      "@type": "kto:Model",
+      "skos:prefLabel": "Logic Theorist",
+      "skos:definition": "A 1955–1957 computer program by Allen Newell, J. C. (Cliff) Shaw and Herbert A. Simon at RAND that searched for proofs of propositional-logic theorems from Whitehead and Russell's Principia Mathematica using heuristic methods modelled on human problem solving; it is widely regarded as the first artificial intelligence program.",
+      "kto:domain": "ai-history",
+      "dcterms:created": "2026-11-12",
+      "kto:maturity": "historical",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Logic Theory Machine: A Complex Information Processing System (RAND P-868)",
+          "dcterms:publisher": "A. Newell and H. A. Simon, RAND Corporation, 1956 (doi:10.7249/P868)",
+          "schema:url": "https://www.rand.org/pubs/papers/P868.html",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Early Heuristic Programs (ch. 5 of The Quest for Artificial Intelligence)",
+          "dcterms:publisher": "N. J. Nilsson, Cambridge University Press, 2009 (doi:10.1017/CBO9780511819346.007)",
+          "schema:url": "https://www.cambridge.org/core/books/abs/quest-for-artificial-intelligence/early-heuristic-programs/2E2E2219739947C7868D9A68C49A49D1",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Allen Newell",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/biography/Allen-Newell",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "The Early History of Automated Deduction",
+          "dcterms:publisher": "M. Davis, in Handbook of Automated Reasoning, Elsevier, 2001 (author copy hosted by L. C. Paulson, University of Cambridge)",
+          "schema:url": "https://lawrencecpaulson.github.io/papers/Early-History-of-ATP.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Executable Archaeology: Reanimating the Logic Theorist from its IPL-V Source",
+          "dcterms:publisher": "J. Shrager, arXiv:2603.13514, 2026",
+          "schema:url": "https://arxiv.org/abs/2603.13514",
+          "kto:sourceType": "preprint"
+        }
+      ],
+      "kto:file": "articles/ai-history/logic-theorist.md",
+      "skos:altLabel": [
+        "Logic Theory Machine",
+        "LT",
+        "Newell-Shaw-Simon Logic Theorist"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:symbolic-ai"
+        },
+        {
+          "@id": "kt:automated-theorem-proving"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:dartmouth-workshop"
+        },
+        {
+          "@id": "kt:heuristic-search"
+        },
+        {
+          "@id": "kt:ai-agent"
+        },
+        {
+          "@id": "kt:turing-test"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:allen-newell"
+        },
+        {
+          "@id": "kt:herbert-a-simon"
+        },
+        {
+          "@id": "kt:cliff-shaw"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:the-logic-theory-machine-a-complex-information-processing-system"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:information-processing-language"
+        }
+      ],
+      "kto:followedBy": [
+        {
+          "@id": "kt:general-problem-solver"
+        }
+      ]
+    },
+    {
       "@id": "kt:perceptron",
       "@type": "kto:Algorithm",
       "skos:prefLabel": "Perceptron",

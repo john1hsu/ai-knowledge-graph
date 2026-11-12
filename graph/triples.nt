@@ -1606,6 +1606,33 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> <http://www.w3.org/2000/01/rdf-schema#label> "Logic Theorist" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> <http://www.w3.org/2004/02/skos/core#altLabel> "LT" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> <http://www.w3.org/2004/02/skos/core#altLabel> "Logic Theory Machine" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> <http://www.w3.org/2004/02/skos/core#altLabel> "Newell-Shaw-Simon Logic Theorist" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/automated-theorem-proving> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> <http://www.w3.org/2004/02/skos/core#definition> "A 1955–1957 computer program by Allen Newell, J. C. (Cliff) Shaw and Herbert A. Simon at RAND that searched for proofs of propositional-logic theorems from Whitehead and Russell's Principia Mathematica using heuristic methods modelled on human problem solving; it is widely regarded as the first artificial intelligence program." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> <http://www.w3.org/2004/02/skos/core#prefLabel> "Logic Theorist" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/dartmouth-workshop> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/heuristic-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/allen-newell> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/cliff-shaw> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/herbert-a-simon> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-history" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> <https://github.com/john1hsu/ai-knowledge-graph/ontology#followedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/general-problem-solver> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/information-processing-language> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/the-logic-theory-machine-a-complex-information-processing-system> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "historical" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> <http://www.w3.org/2000/01/rdf-schema#label> "Long short-term memory" .
@@ -4100,6 +4127,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s5> <https://schema.org/url> "https://arxiv.org/abs/2108.07258" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s1> <http://purl.org/dc/terms/publisher> "A. Newell and H. A. Simon, RAND Corporation, 1956 (doi:10.7249/P868)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s1> <http://purl.org/dc/terms/title> "The Logic Theory Machine: A Complex Information Processing System (RAND P-868)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s1> <https://schema.org/url> "https://www.rand.org/pubs/papers/P868.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s2> <http://purl.org/dc/terms/publisher> "N. J. Nilsson, Cambridge University Press, 2009 (doi:10.1017/CBO9780511819346.007)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s2> <http://purl.org/dc/terms/title> "Early Heuristic Programs (ch. 5 of The Quest for Artificial Intelligence)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s2> <https://schema.org/url> "https://www.cambridge.org/core/books/abs/quest-for-artificial-intelligence/early-heuristic-programs/2E2E2219739947C7868D9A68C49A49D1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s3> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s3> <http://purl.org/dc/terms/title> "Allen Newell" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s3> <https://schema.org/url> "https://www.britannica.com/biography/Allen-Newell" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s4> <http://purl.org/dc/terms/publisher> "M. Davis, in Handbook of Automated Reasoning, Elsevier, 2001 (author copy hosted by L. C. Paulson, University of Cambridge)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s4> <http://purl.org/dc/terms/title> "The Early History of Automated Deduction" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s4> <https://schema.org/url> "https://lawrencecpaulson.github.io/papers/Early-History-of-ATP.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s5> <http://purl.org/dc/terms/publisher> "J. Shrager, arXiv:2603.13514, 2026" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s5> <http://purl.org/dc/terms/title> "Executable Archaeology: Reanimating the Logic Theorist from its IPL-V Source" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "preprint" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s5> <https://schema.org/url> "https://arxiv.org/abs/2603.13514" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s1> <http://purl.org/dc/terms/publisher> "Neural Computation 9(8):1735–1780 (1997) (Hochreiter and Schmidhuber), via ML Anthology" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s1> <http://purl.org/dc/terms/title> "Long Short-Term Memory" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/long-short-term-memory/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

@@ -1369,6 +1369,27 @@
     ]
   },
   {
+    "id": "kt:logic-theorist",
+    "title": "Logic Theorist",
+    "aliases": [
+      "Logic Theory Machine",
+      "LT",
+      "Newell-Shaw-Simon Logic Theorist"
+    ],
+    "type": "Model",
+    "domain": "ai-history",
+    "file": "articles/ai-history/logic-theorist.md",
+    "created": "2026-11-12",
+    "maturity": "historical",
+    "source_urls": [
+      "https://www.rand.org/pubs/papers/P868.html",
+      "https://www.cambridge.org/core/books/abs/quest-for-artificial-intelligence/early-heuristic-programs/2E2E2219739947C7868D9A68C49A49D1",
+      "https://www.britannica.com/biography/Allen-Newell",
+      "https://lawrencecpaulson.github.io/papers/Early-History-of-ATP.pdf",
+      "https://arxiv.org/abs/2603.13514"
+    ]
+  },
+  {
     "id": "kt:long-short-term-memory",
     "title": "Long short-term memory",
     "aliases": [

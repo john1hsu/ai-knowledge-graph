@@ -96,6 +96,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:self-refine` | `kt:agentic-workflow`, `kt:voyager` |
 | `kt:statistical-learning-theory` | `kt:bias-variance-tradeoff`, `kt:double-descent` |
 | `kt:stochastic-gradient-descent` | `kt:data-parallelism`, `kt:adam-optimizer` |
+| `kt:symbolic-ai` | `kt:dartmouth-workshop`, `kt:logic-theorist` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:wmt-2014` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
 | `kt:adam-a-method-for-stochastic-optimization` | `kt:adam-optimizer` |
@@ -111,6 +112,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alfworld` | `kt:autogen` |
 | `kt:all-reduce` | `kt:data-parallelism` |
 | `kt:allen-institute-for-ai` | `kt:commonsenseqa` |
+| `kt:allen-newell` | `kt:logic-theorist` |
 | `kt:alphago-zero` | `kt:alphago` |
 | `kt:alphazero` | `kt:alphago` |
 | `kt:ann-benchmarks` | `kt:approximate-nearest-neighbor-search` |
@@ -121,6 +123,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:arthur-samuel` | `kt:machine-learning` |
 | `kt:asynchronous-advantage-actor-critic` | `kt:actor-critic` |
 | `kt:autoencoder` | `kt:dimensionality-reduction` |
+| `kt:automated-theorem-proving` | `kt:logic-theorist` |
 | `kt:automatic-differentiation` | `kt:backpropagation` |
 | `kt:autonomous-driving` | `kt:yolo` |
 | `kt:awq-activation-aware-weight-quantization-for-llm-compression-and-acceleration` | `kt:awq` |
@@ -135,6 +138,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chain-of-thought-prompting-elicits-reasoning-in-large-language-models` | `kt:chain-of-thought` |
 | `kt:charles-goodhart` | `kt:goodharts-law` |
 | `kt:christopher-watkins` | `kt:q-learning` |
+| `kt:cliff-shaw` | `kt:logic-theorist` |
 | `kt:clipper-prediction-serving-system` | `kt:model-serving` |
 | `kt:commonsense-reasoning` | `kt:commonsenseqa` |
 | `kt:commonsenseqa-2-0` | `kt:commonsenseqa` |
@@ -176,12 +180,15 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:foundation-model` | `kt:large-language-model` |
 | `kt:frank-rosenblatt` | `kt:perceptron` |
 | `kt:gddr-memory` | `kt:high-bandwidth-memory` |
+| `kt:general-problem-solver` | `kt:logic-theorist` |
 | `kt:generative-adversarial-nets` | `kt:generative-adversarial-network` |
 | `kt:george-cybenko` | `kt:universal-approximation-theorem` |
 | `kt:glove-global-vectors-for-word-representation` | `kt:glove` |
 | `kt:gpt-j` | `kt:toolformer` |
 | `kt:gptq-accurate-post-training-quantization-for-generative-pre-trained-transformers` | `kt:gptq` |
 | `kt:harold-hotelling` | `kt:principal-component-analysis` |
+| `kt:herbert-a-simon` | `kt:logic-theorist` |
+| `kt:heuristic-search` | `kt:logic-theorist` |
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
 | `kt:hugging-face` | `kt:hugging-face-transformers` |
 | `kt:hugging-face-diffusers` | `kt:diffusion-model` |
@@ -191,6 +198,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:imagenet-large-scale-visual-recognition-challenge` | `kt:imagenet-and-alexnet` |
 | `kt:in-datacenter-performance-analysis-of-a-tensor-processing-unit` | `kt:tpu` |
 | `kt:induction-head` | `kt:mechanistic-interpretability` |
+| `kt:information-processing-language` | `kt:logic-theorist` |
 | `kt:inspect-ai` | `kt:ai-evaluation` |
 | `kt:interpretability` | `kt:mechanistic-interpretability` |
 | `kt:intrinsic-motivation` | `kt:exploration-exploitation` |
@@ -216,7 +224,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:linear-probing` | `kt:fine-tuning` |
 | `kt:llmops` | `kt:mlops` |
 | `kt:loftq` | `kt:qlora` |
-| `kt:logic-theorist` | `kt:dartmouth-workshop` |
 | `kt:logistic-regression` | `kt:conditional-random-field` |
 | `kt:long-short-term-memory-1997` | `kt:long-short-term-memory` |
 | `kt:lora` | `kt:qlora` |
@@ -281,7 +288,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:support-vector-machine` | `kt:perceptron` |
 | `kt:switchboard-corpus` | `kt:automatic-speech-recognition` |
 | `kt:symbol-grounding-problem` | `kt:chinese-room-argument` |
-| `kt:symbolic-ai` | `kt:dartmouth-workshop` |
 | `kt:systolic-array` | `kt:tpu` |
 | `kt:t-sne` | `kt:dimensionality-reduction` |
 | `kt:tensor-cores` | `kt:nvidia` |
@@ -289,6 +295,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tensorrt-llm` | `kt:quantization` |
 | `kt:text-to-image-generation` | `kt:diffusion-model` |
 | `kt:the-curious-case-of-neural-text-degeneration` | `kt:sampling-temperature-and-top-p` |
+| `kt:the-logic-theory-machine-a-complex-information-processing-system` | `kt:logic-theorist` |
 | `kt:the-perceptron-a-probabilistic-model-for-information-storage-and-organization-in-the-brain` | `kt:perceptron` |
 | `kt:thompson-sampling` | `kt:exploration-exploitation` |
 | `kt:through-silicon-via` | `kt:high-bandwidth-memory` |
