@@ -1458,6 +1458,29 @@
     ]
   },
   {
+    "id": "kt:instruction-tuning",
+    "title": "Instruction tuning",
+    "aliases": [
+      "instruction fine-tuning",
+      "instruction finetuning",
+      "supervised instruction tuning",
+      "multitask prompted training"
+    ],
+    "type": "Technique",
+    "domain": "training-and-adaptation",
+    "file": "articles/training-and-adaptation/instruction-tuning.md",
+    "created": "2026-11-12",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/pdf/2109.01652",
+      "https://arxiv.org/pdf/2110.08207",
+      "https://www.jmlr.org/papers/v25/23-0870.html",
+      "https://proceedings.neurips.cc/paper_files/paper/2023/hash/ac662d74829e4407ce1d126477f4a03a-Abstract.html",
+      "https://arxiv.org/abs/2305.15717",
+      "https://huggingface.co/docs/trl/sft_trainer"
+    ]
+  },
+  {
     "id": "kt:jailbreak",
     "title": "Jailbreak",
     "aliases": [

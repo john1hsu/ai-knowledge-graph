@@ -1716,6 +1716,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <http://www.w3.org/2000/01/rdf-schema#label> "Instruction tuning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <http://www.w3.org/2004/02/skos/core#altLabel> "instruction fine-tuning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <http://www.w3.org/2004/02/skos/core#altLabel> "instruction finetuning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <http://www.w3.org/2004/02/skos/core#altLabel> "multitask prompted training" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <http://www.w3.org/2004/02/skos/core#altLabel> "supervised instruction tuning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/post-training> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <http://www.w3.org/2004/02/skos/core#definition> "A fine-tuning technique that trains a pretrained language model on many tasks phrased as natural-language instructions paired with target responses, so that it follows instructions and generalizes zero-shot to tasks it was never trained on." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <http://www.w3.org/2004/02/skos/core#prefLabel> "Instruction tuning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "training-and-adaptation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#followedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/finetuned-language-models-are-zero-shot-learners> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/jailbreak> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/jailbreak> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Risk> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/jailbreak> <http://www.w3.org/2000/01/rdf-schema#label> "Jailbreak" .
@@ -4645,6 +4675,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/in-context-learning/s6> <https://schema.org/url> "https://proceedings.mlr.press/v139/zhao21c.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s1> <http://purl.org/dc/terms/publisher> "ICLR 2022; arXiv 2109.01652v5, Google Research (Wei, Bosma, Zhao, Guu, Yu, Lester, Du, Dai and Le)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s1> <http://purl.org/dc/terms/title> "Finetuned Language Models Are Zero-Shot Learners" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s1> <https://schema.org/url> "https://arxiv.org/pdf/2109.01652" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s2> <http://purl.org/dc/terms/publisher> "ICLR 2022; arXiv 2110.08207, BigScience (Sanh, Webson, Raffel, Bach et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s2> <http://purl.org/dc/terms/title> "Multitask Prompted Training Enables Zero-Shot Task Generalization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s2> <https://schema.org/url> "https://arxiv.org/pdf/2110.08207" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s3> <http://purl.org/dc/terms/publisher> "Journal of Machine Learning Research 25(70):1–53, 2024 (Chung, Hou, Longpre, Zoph et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s3> <http://purl.org/dc/terms/title> "Scaling Instruction-Finetuned Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s3> <https://schema.org/url> "https://www.jmlr.org/papers/v25/23-0870.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s4> <http://purl.org/dc/terms/publisher> "NeurIPS 2023, Advances in Neural Information Processing Systems 36 (Zhou et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s4> <http://purl.org/dc/terms/title> "LIMA: Less Is More for Alignment" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s4> <https://schema.org/url> "https://proceedings.neurips.cc/paper_files/paper/2023/hash/ac662d74829e4407ce1d126477f4a03a-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s5> <http://purl.org/dc/terms/publisher> "arXiv 2305.15717 (Gudibande, Wallace, Snell, Geng, Liu, Abbeel, Levine and Song), UC Berkeley" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s5> <http://purl.org/dc/terms/title> "The False Promise of Imitating Proprietary LLMs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "preprint" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s5> <https://schema.org/url> "https://arxiv.org/abs/2305.15717" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s6> <http://purl.org/dc/terms/publisher> "Hugging Face TRL documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s6> <http://purl.org/dc/terms/title> "SFT Trainer" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s6> <https://schema.org/url> "https://huggingface.co/docs/trl/sft_trainer" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/jailbreak/s1> <http://purl.org/dc/terms/publisher> "NIST (Vassilev, Oprea, Fordyce, Anderson, Davies, Hamin), March 2025" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/jailbreak/s1> <http://purl.org/dc/terms/title> "Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations (NIST AI 100-2 E2025)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/jailbreak/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
