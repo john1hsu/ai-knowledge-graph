@@ -9351,6 +9351,94 @@
       ]
     },
     {
+      "@id": "kt:pretraining",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Pretraining: learning general-purpose representations before task adaptation",
+      "skos:definition": "The first phase of training a model, in which it learns general-purpose representations from a very large, mostly unlabeled dataset through a self-supervised objective such as next-token or masked-token prediction, before being adapted to specific tasks.",
+      "kto:domain": "training-and-adaptation",
+      "dcterms:created": "2026-11-12",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Why Does Unsupervised Pre-training Help Deep Learning?",
+          "dcterms:publisher": "Journal of Machine Learning Research 11:625-660, 2010 (Erhan, Bengio, Courville, Manzagol, Vincent, Bengio)",
+          "schema:url": "https://jmlr.org/papers/v11/erhan10a.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Improving Language Understanding by Generative Pre-Training",
+          "dcterms:publisher": "OpenAI technical report, 2018 (Radford, Narasimhan, Salimans, Sutskever)",
+          "schema:url": "https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+          "dcterms:publisher": "NAACL-HLT 2019, pages 4171-4186 (Devlin, Chang, Lee, Toutanova)",
+          "schema:url": "https://aclanthology.org/N19-1423/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Training Compute-Optimal Large Language Models",
+          "dcterms:publisher": "Hoffmann et al. (DeepMind), 2022; authors' arXiv version",
+          "schema:url": "https://arxiv.org/abs/2203.15556",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Llama 3 Herd of Models",
+          "dcterms:publisher": "Llama Team, AI @ Meta, 2024; authors' arXiv version",
+          "schema:url": "https://arxiv.org/pdf/2407.21783",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/training-and-adaptation/pretraining.md",
+      "skos:altLabel": [
+        "pre-training",
+        "model pretraining",
+        "unsupervised pre-training",
+        "generative pre-training"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:transfer-learning"
+        },
+        {
+          "@id": "kt:self-supervised-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:scaling-laws"
+        },
+        {
+          "@id": "kt:in-context-learning"
+        },
+        {
+          "@id": "kt:emergent-abilities"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:fine-tuning"
+        },
+        {
+          "@id": "kt:instruction-tuning"
+        }
+      ],
+      "kto:causes": [
+        {
+          "@id": "kt:benchmark-contamination"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:distributed-training"
+        }
+      ]
+    },
+    {
       "@id": "kt:qlora",
       "@type": "kto:Technique",
       "skos:prefLabel": "QLoRA",

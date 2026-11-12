@@ -1744,6 +1744,28 @@
     ]
   },
   {
+    "id": "kt:pretraining",
+    "title": "Pretraining: learning general-purpose representations before task adaptation",
+    "aliases": [
+      "pre-training",
+      "model pretraining",
+      "unsupervised pre-training",
+      "generative pre-training"
+    ],
+    "type": "Technique",
+    "domain": "training-and-adaptation",
+    "file": "articles/training-and-adaptation/pretraining.md",
+    "created": "2026-11-12",
+    "maturity": "established",
+    "source_urls": [
+      "https://jmlr.org/papers/v11/erhan10a.html",
+      "https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf",
+      "https://aclanthology.org/N19-1423/",
+      "https://arxiv.org/abs/2203.15556",
+      "https://arxiv.org/pdf/2407.21783"
+    ]
+  },
+  {
     "id": "kt:principal-component-analysis",
     "title": "Principal component analysis",
     "aliases": [

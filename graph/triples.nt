@@ -2056,6 +2056,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient-methods-for-reinforcement-learning-with-function-approximation> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> <http://www.w3.org/2000/01/rdf-schema#label> "Pretraining: learning general-purpose representations before task adaptation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> <http://www.w3.org/2004/02/skos/core#altLabel> "generative pre-training" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> <http://www.w3.org/2004/02/skos/core#altLabel> "model pretraining" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> <http://www.w3.org/2004/02/skos/core#altLabel> "pre-training" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> <http://www.w3.org/2004/02/skos/core#altLabel> "unsupervised pre-training" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/transfer-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> <http://www.w3.org/2004/02/skos/core#definition> "The first phase of training a model, in which it learns general-purpose representations from a very large, mostly unlabeled dataset through a self-supervised objective such as next-token or masked-token prediction, before being adapted to specific tasks." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pretraining: learning general-purpose representations before task adaptation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/pretraining/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/pretraining/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/pretraining/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/pretraining/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/pretraining/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> <https://github.com/john1hsu/ai-knowledge-graph/ontology#causes> <https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "training-and-adaptation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> <http://www.w3.org/2000/01/rdf-schema#label> "Principal component analysis" .
@@ -4740,6 +4766,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s6> <https://schema.org/url> "https://arxiv.org/abs/1707.06347" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pretraining/s1> <http://purl.org/dc/terms/publisher> "Journal of Machine Learning Research 11:625-660, 2010 (Erhan, Bengio, Courville, Manzagol, Vincent, Bengio)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pretraining/s1> <http://purl.org/dc/terms/title> "Why Does Unsupervised Pre-training Help Deep Learning?" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pretraining/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pretraining/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pretraining/s1> <https://schema.org/url> "https://jmlr.org/papers/v11/erhan10a.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pretraining/s2> <http://purl.org/dc/terms/publisher> "OpenAI technical report, 2018 (Radford, Narasimhan, Salimans, Sutskever)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pretraining/s2> <http://purl.org/dc/terms/title> "Improving Language Understanding by Generative Pre-Training" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pretraining/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pretraining/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pretraining/s2> <https://schema.org/url> "https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pretraining/s3> <http://purl.org/dc/terms/publisher> "NAACL-HLT 2019, pages 4171-4186 (Devlin, Chang, Lee, Toutanova)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pretraining/s3> <http://purl.org/dc/terms/title> "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pretraining/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pretraining/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pretraining/s3> <https://schema.org/url> "https://aclanthology.org/N19-1423/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pretraining/s4> <http://purl.org/dc/terms/publisher> "Hoffmann et al. (DeepMind), 2022; authors' arXiv version" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pretraining/s4> <http://purl.org/dc/terms/title> "Training Compute-Optimal Large Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pretraining/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pretraining/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pretraining/s4> <https://schema.org/url> "https://arxiv.org/abs/2203.15556" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pretraining/s5> <http://purl.org/dc/terms/publisher> "Llama Team, AI @ Meta, 2024; authors' arXiv version" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pretraining/s5> <http://purl.org/dc/terms/title> "The Llama 3 Herd of Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pretraining/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pretraining/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pretraining/s5> <https://schema.org/url> "https://arxiv.org/pdf/2407.21783" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s1> <http://purl.org/dc/terms/publisher> "Journal of the Royal Statistical Society, Series B 61(3), 611–622 (1999) (Tipping and Bishop), Virginia Tech course copy" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s1> <http://purl.org/dc/terms/title> "Probabilistic Principal Component Analysis" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
