@@ -1156,6 +1156,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/big-bench> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities-of-large-language-models> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Policy> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> <http://www.w3.org/2000/01/rdf-schema#label> "Executive orders on AI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> <http://www.w3.org/2004/02/skos/core#altLabel> "AI executive orders" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> <http://www.w3.org/2004/02/skos/core#altLabel> "US executive orders on artificial intelligence" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> <http://www.w3.org/2004/02/skos/core#altLabel> "presidential AI executive orders" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> <http://www.w3.org/2004/02/skos/core#definition> "Directives signed by the US President that set federal policy on artificial intelligence by instructing executive agencies, from the 2019 American AI Initiative (EO 13859) through EO 14110 on safe and trustworthy AI (2023), its 2025 replacement EO 14179, and later orders on LLM procurement, state-law preemption and frontier-model security." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> <http://www.w3.org/2004/02/skos/core#prefLabel> "Executive orders on AI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "governance-and-policy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <http://www.w3.org/2000/01/rdf-schema#label> "Exploration-exploitation dilemma" .
@@ -3733,6 +3759,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s6> <https://schema.org/url> "https://proceedings.neurips.cc/paper_files/paper/2024/hash/5f1eee2509599faeeb3570a887016a64-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s1> <http://purl.org/dc/terms/publisher> "The American Presidency Project, UC Santa Barbara (order signed 11 February 2019)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s1> <http://purl.org/dc/terms/title> "Executive Order 13859—Maintaining American Leadership in Artificial Intelligence" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s1> <https://schema.org/url> "https://www.presidency.ucsb.edu/documents/executive-order-13859-maintaining-american-leadership-artificial-intelligence" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s2> <http://purl.org/dc/terms/publisher> "Federal Register Vol. 88 No. 210, 1 November 2023 (GovInfo)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s2> <http://purl.org/dc/terms/title> "Executive Order 14110: Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s2> <https://schema.org/url> "https://www.govinfo.gov/content/pkg/FR-2023-11-01/html/2023-24283.htm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s3> <http://purl.org/dc/terms/publisher> "Federal Register Vol. 90 No. 20, 31 January 2025 (GovInfo)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s3> <http://purl.org/dc/terms/title> "Executive Order 14179: Removing Barriers to American Leadership in Artificial Intelligence" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s3> <https://schema.org/url> "https://www.govinfo.gov/content/pkg/FR-2025-01-31/html/2025-02172.htm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s4> <http://purl.org/dc/terms/publisher> "Federal Register Vol. 90 No. 142, 28 July 2025 (GovInfo)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s4> <http://purl.org/dc/terms/title> "Executive Order 14319: Preventing Woke AI in the Federal Government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s4> <https://schema.org/url> "https://www.govinfo.gov/content/pkg/FR-2025-07-28/html/2025-14217.htm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s5> <http://purl.org/dc/terms/publisher> "The White House, 11 December 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s5> <http://purl.org/dc/terms/title> "Ensuring a National Policy Framework for Artificial Intelligence (EO 14365)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s5> <https://schema.org/url> "https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s6> <http://purl.org/dc/terms/publisher> "The White House, 2 June 2026" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s6> <http://purl.org/dc/terms/title> "Promoting Advanced Artificial Intelligence Innovation and Security (EO 14409)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s6> <https://schema.org/url> "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s1> <http://purl.org/dc/terms/publisher> "MIT Press, 2018 (Sutton and Barto), course copy hosted by Texas A&M CSCE 421" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s1> <http://purl.org/dc/terms/title> "Reinforcement Learning: An Introduction (2nd ed.)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

@@ -984,6 +984,28 @@
     ]
   },
   {
+    "id": "kt:executive-orders-on-ai",
+    "title": "Executive orders on AI",
+    "aliases": [
+      "US executive orders on artificial intelligence",
+      "AI executive orders",
+      "presidential AI executive orders"
+    ],
+    "type": "Policy",
+    "domain": "governance-and-policy",
+    "file": "articles/governance-and-policy/executive-orders-on-ai.md",
+    "created": "2026-11-12",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://www.presidency.ucsb.edu/documents/executive-order-13859-maintaining-american-leadership-artificial-intelligence",
+      "https://www.govinfo.gov/content/pkg/FR-2023-11-01/html/2023-24283.htm",
+      "https://www.govinfo.gov/content/pkg/FR-2025-01-31/html/2025-02172.htm",
+      "https://www.govinfo.gov/content/pkg/FR-2025-07-28/html/2025-14217.htm",
+      "https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence/",
+      "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/"
+    ]
+  },
+  {
     "id": "kt:exploration-exploitation",
     "title": "Exploration-exploitation dilemma",
     "aliases": [
