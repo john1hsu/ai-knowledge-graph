@@ -1072,6 +1072,27 @@
     ]
   },
   {
+    "id": "kt:eu-ai-act",
+    "title": "EU AI Act",
+    "aliases": [
+      "Artificial Intelligence Act",
+      "AI Act",
+      "Regulation (EU) 2024/1689",
+      "European Union Artificial Intelligence Act"
+    ],
+    "type": "Policy",
+    "domain": "governance-and-policy",
+    "file": "articles/governance-and-policy/eu-ai-act.md",
+    "created": "2026-11-13",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/eng/pdf",
+      "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "https://digital-strategy.ec.europa.eu/en/news/eu-agrees-simplify-ai-rules-boost-innovation-and-ban-nudification-apps-protect-citizens",
+      "https://arxiv.org/pdf/2107.03721.pdf"
+    ]
+  },
+  {
     "id": "kt:executive-orders-on-ai",
     "title": "Executive orders on AI",
     "aliases": [

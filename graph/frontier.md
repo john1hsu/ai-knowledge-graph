@@ -6,7 +6,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:distributed-training` | `kt:cuda`, `kt:data-parallelism`, `kt:mlops`, `kt:nvidia`, `kt:pytorch`, `kt:tpu`, `kt:pretraining` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:dartmouth-workshop`, `kt:turing-test`, `kt:ai-governance`, `kt:machine-learning`, `kt:ai-safety` |
-| `kt:eu-ai-act` | `kt:ai-governance`, `kt:algorithmic-bias-and-fairness`, `kt:compute-governance`, `kt:executive-orders-on-ai`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda` |
 | `kt:llm-inference-optimization` | `kt:model-serving`, `kt:batching-and-paged-attention`, `kt:flash-attention`, `kt:speculative-decoding`, `kt:tensorrt-llm`, `kt:vllm` |
 | `kt:regularization` | `kt:dropout`, `kt:model-pruning`, `kt:bias-variance-tradeoff`, `kt:conditional-random-field`, `kt:double-descent`, `kt:overfitting` |
 | `kt:vision-transformer` | `kt:an-image-is-worth-16x16-words`, `kt:clip`, `kt:image-classification`, `kt:object-detection`, `kt:yolo`, `kt:convolutional-neural-network` |
@@ -153,6 +152,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:devops` | `kt:mlops` |
 | `kt:diederik-kingma` | `kt:adam-optimizer` |
 | `kt:differential-privacy` | `kt:synthetic-data` |
+| `kt:digital-omnibus-on-ai` | `kt:eu-ai-act` |
 | `kt:distilbert` | `kt:knowledge-distillation` |
 | `kt:distilling-the-knowledge-in-a-neural-network` | `kt:knowledge-distillation` |
 | `kt:dram` | `kt:high-bandwidth-memory` |
@@ -163,6 +163,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:eliza-effect` | `kt:eliza` |
 | `kt:emergent-abilities-of-large-language-models` | `kt:emergent-abilities` |
 | `kt:empirical-risk-minimization` | `kt:supervised-learning` |
+| `kt:european-union` | `kt:eu-ai-act` |
 | `kt:expectation-maximization` | `kt:hidden-markov-model` |
 | `kt:expert-iteration` | `kt:star-self-taught-reasoner` |
 | `kt:facial-recognition` | `kt:algorithmic-bias-and-fairness` |
@@ -181,6 +182,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:gated-recurrent-unit` | `kt:recurrent-neural-network` |
 | `kt:gddr-memory` | `kt:high-bandwidth-memory` |
 | `kt:general-problem-solver` | `kt:logic-theorist` |
+| `kt:general-purpose-ai-model` | `kt:eu-ai-act` |
 | `kt:generalized-advantage-estimation` | `kt:proximal-policy-optimization` |
 | `kt:generative-adversarial-nets` | `kt:generative-adversarial-network` |
 | `kt:george-cybenko` | `kt:universal-approximation-theorem` |
@@ -269,6 +271,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:multimodal-learning` | `kt:vision-language-model` |
 | `kt:mycin` | `kt:expert-systems` |
 | `kt:neocognitron` | `kt:convolutional-neural-network` |
+| `kt:new-legislative-framework` | `kt:eu-ai-act` |
 | `kt:nist` | `kt:nist-ai-risk-management-framework` |
 | `kt:nist-generative-ai-profile` | `kt:nist-ai-risk-management-framework` |
 | `kt:non-maximum-suppression` | `kt:object-detection` |

@@ -5853,6 +5853,88 @@
       ]
     },
     {
+      "@id": "kt:eu-ai-act",
+      "@type": "kto:Policy",
+      "skos:prefLabel": "EU AI Act",
+      "skos:definition": "Regulation (EU) 2024/1689, the European Union's horizontal law on artificial intelligence, which sorts AI systems into risk tiers (prohibited, high-risk, transparency, minimal), sets separate duties for providers of general-purpose AI models, and is enforced by national authorities and the Commission's AI Office.",
+      "kto:domain": "governance-and-policy",
+      "dcterms:created": "2026-11-13",
+      "kto:maturity": "emerging",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Regulation (EU) 2024/1689 (Artificial Intelligence Act), consolidated text of 27 July 2026",
+          "dcterms:publisher": "EUR-Lex, Publications Office of the European Union",
+          "schema:url": "https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/eng/pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "AI Act — Shaping Europe's digital future (regulatory framework for AI)",
+          "dcterms:publisher": "European Commission, last updated 19 October 2026",
+          "schema:url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "EU agrees to simplify AI rules to boost innovation and ban 'nudification' apps to protect citizens",
+          "dcterms:publisher": "European Commission press release, 7 May 2026",
+          "schema:url": "https://digital-strategy.ec.europa.eu/en/news/eu-agrees-simplify-ai-rules-boost-innovation-and-ban-nudification-apps-protect-citizens",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Demystifying the Draft EU Artificial Intelligence Act",
+          "dcterms:publisher": "Computer Law Review International 22(4), 2021 (Veale & Zuiderveen Borgesius; authors' arXiv version)",
+          "schema:url": "https://arxiv.org/pdf/2107.03721.pdf",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/governance-and-policy/eu-ai-act.md",
+      "skos:altLabel": [
+        "Artificial Intelligence Act",
+        "AI Act",
+        "Regulation (EU) 2024/1689",
+        "European Union Artificial Intelligence Act"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-governance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:nist-ai-risk-management-framework"
+        },
+        {
+          "@id": "kt:compute-governance"
+        },
+        {
+          "@id": "kt:algorithmic-bias-and-fairness"
+        },
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:general-purpose-ai-model"
+        },
+        {
+          "@id": "kt:digital-omnibus-on-ai"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:european-union"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:executive-orders-on-ai"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:new-legislative-framework"
+        }
+      ]
+    },
+    {
       "@id": "kt:executive-orders-on-ai",
       "@type": "kto:Policy",
       "skos:prefLabel": "Executive orders on AI",

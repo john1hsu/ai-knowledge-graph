@@ -1260,6 +1260,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/big-bench> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities-of-large-language-models> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Policy> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> <http://www.w3.org/2000/01/rdf-schema#label> "EU AI Act" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> <http://www.w3.org/2004/02/skos/core#altLabel> "AI Act" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> <http://www.w3.org/2004/02/skos/core#altLabel> "Artificial Intelligence Act" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> <http://www.w3.org/2004/02/skos/core#altLabel> "European Union Artificial Intelligence Act" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> <http://www.w3.org/2004/02/skos/core#altLabel> "Regulation (EU) 2024/1689" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> <http://www.w3.org/2004/02/skos/core#definition> "Regulation (EU) 2024/1689, the European Union's horizontal law on artificial intelligence, which sorts AI systems into risk tiers (prohibited, high-risk, transparency, minimal), sets separate duties for providers of general-purpose AI models, and is enforced by national authorities and the Commission's AI Office." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> <http://www.w3.org/2004/02/skos/core#prefLabel> "EU AI Act" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/digital-omnibus-on-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/general-purpose-ai-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/eu-ai-act/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/eu-ai-act/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/eu-ai-act/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/eu-ai-act/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/european-union> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "governance-and-policy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/new-legislative-framework> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Policy> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> <http://www.w3.org/2000/01/rdf-schema#label> "Executive orders on AI" .
@@ -4481,6 +4506,26 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s6> <https://schema.org/url> "https://proceedings.neurips.cc/paper_files/paper/2024/hash/5f1eee2509599faeeb3570a887016a64-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eu-ai-act/s1> <http://purl.org/dc/terms/publisher> "EUR-Lex, Publications Office of the European Union" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eu-ai-act/s1> <http://purl.org/dc/terms/title> "Regulation (EU) 2024/1689 (Artificial Intelligence Act), consolidated text of 27 July 2026" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eu-ai-act/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eu-ai-act/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eu-ai-act/s1> <https://schema.org/url> "https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/eng/pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eu-ai-act/s2> <http://purl.org/dc/terms/publisher> "European Commission, last updated 19 October 2026" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eu-ai-act/s2> <http://purl.org/dc/terms/title> "AI Act — Shaping Europe's digital future (regulatory framework for AI)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eu-ai-act/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eu-ai-act/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eu-ai-act/s2> <https://schema.org/url> "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eu-ai-act/s3> <http://purl.org/dc/terms/publisher> "European Commission press release, 7 May 2026" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eu-ai-act/s3> <http://purl.org/dc/terms/title> "EU agrees to simplify AI rules to boost innovation and ban 'nudification' apps to protect citizens" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eu-ai-act/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eu-ai-act/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eu-ai-act/s3> <https://schema.org/url> "https://digital-strategy.ec.europa.eu/en/news/eu-agrees-simplify-ai-rules-boost-innovation-and-ban-nudification-apps-protect-citizens" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eu-ai-act/s4> <http://purl.org/dc/terms/publisher> "Computer Law Review International 22(4), 2021 (Veale & Zuiderveen Borgesius; authors' arXiv version)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eu-ai-act/s4> <http://purl.org/dc/terms/title> "Demystifying the Draft EU Artificial Intelligence Act" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eu-ai-act/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eu-ai-act/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/eu-ai-act/s4> <https://schema.org/url> "https://arxiv.org/pdf/2107.03721.pdf" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s1> <http://purl.org/dc/terms/publisher> "The American Presidency Project, UC Santa Barbara (order signed 11 February 2019)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s1> <http://purl.org/dc/terms/title> "Executive Order 13859—Maintaining American Leadership in Artificial Intelligence" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
