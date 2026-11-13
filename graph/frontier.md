@@ -19,7 +19,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:google` | `kt:agent2agent-protocol`, `kt:tpu`, `kt:an-image-is-worth-16x16-words`, `kt:word2vec`, `kt:attention-is-all-you-need` |
 | `kt:llm-inference-optimization` | `kt:model-serving`, `kt:batching-and-paged-attention`, `kt:flash-attention`, `kt:speculative-decoding`, `kt:tensorrt-llm` |
 | `kt:react-prompting` | `kt:ai-agent`, `kt:autogen`, `kt:tool-use`, `kt:toolformer`, `kt:chain-of-thought` |
-| `kt:reasoning-models` | `kt:chain-of-thought`, `kt:scratchpad`, `kt:test-time-compute`, `kt:test-time-compute`, `kt:star-self-taught-reasoner` |
 | `kt:representation-learning` | `kt:clip`, `kt:deep-learning`, `kt:embeddings`, `kt:glove`, `kt:word2vec` |
 | `kt:vision-transformer` | `kt:an-image-is-worth-16x16-words`, `kt:clip`, `kt:object-detection`, `kt:yolo`, `kt:convolutional-neural-network` |
 | `kt:activation-function` | `kt:artificial-neural-network`, `kt:backpropagation`, `kt:universal-approximation-theorem`, `kt:universal-approximation-theorem` |
@@ -129,6 +128,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:campbells-law` | `kt:goodharts-law` |
 | `kt:catastrophic-forgetting` | `kt:fine-tuning` |
 | `kt:center-for-ai-standards-and-innovation` | `kt:ai-safety-institutes` |
+| `kt:chain-of-thought-faithfulness` | `kt:reasoning-models` |
 | `kt:chain-of-thought-prompting-elicits-reasoning-in-large-language-models` | `kt:chain-of-thought` |
 | `kt:charles-goodhart` | `kt:goodharts-law` |
 | `kt:chatbot` | `kt:eliza` |
@@ -186,6 +186,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:generative-adversarial-nets` | `kt:generative-adversarial-network` |
 | `kt:george-cybenko` | `kt:universal-approximation-theorem` |
 | `kt:glove-global-vectors-for-word-representation` | `kt:glove` |
+| `kt:gpqa` | `kt:reasoning-models` |
 | `kt:gpt-j` | `kt:toolformer` |
 | `kt:gptq-accurate-post-training-quantization-for-generative-pre-trained-transformers` | `kt:gptq` |
 | `kt:gradient-based-learning-applied-to-document-recognition` | `kt:convolutional-neural-network` |
@@ -226,6 +227,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:latent-diffusion-model` | `kt:diffusion-model` |
 | `kt:layer-normalization` | `kt:transformer-architecture` |
 | `kt:learning-representations-by-back-propagating-errors` | `kt:backpropagation` |
+| `kt:learning-to-reason-with-llms` | `kt:reasoning-models` |
 | `kt:learning-transferable-visual-models-from-natural-language-supervision` | `kt:clip` |
 | `kt:lenet` | `kt:imagenet-and-alexnet` |
 | `kt:librispeech` | `kt:automatic-speech-recognition` |

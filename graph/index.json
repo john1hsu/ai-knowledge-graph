@@ -2158,6 +2158,30 @@
     ]
   },
   {
+    "id": "kt:reasoning-models",
+    "title": "Reasoning models",
+    "aliases": [
+      "reasoning model",
+      "large reasoning models",
+      "LRMs",
+      "LRM",
+      "thinking models",
+      "reasoning language models"
+    ],
+    "type": "Model",
+    "domain": "prompting-and-reasoning",
+    "file": "articles/prompting-and-reasoning/reasoning-models.md",
+    "created": "2026-11-13",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://openai.com/index/learning-to-reason-with-llms/",
+      "https://arxiv.org/abs/2501.12948",
+      "https://www.anthropic.com/research/reasoning-models-dont-say-think",
+      "https://developers.openai.com/api/docs/guides/reasoning.md",
+      "https://machinelearning.apple.com/research/illusion-of-thinking"
+    ]
+  },
+  {
     "id": "kt:recurrent-neural-network",
     "title": "Recurrent neural network",
     "aliases": [

@@ -2554,6 +2554,37 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <http://www.w3.org/2000/01/rdf-schema#label> "Reasoning models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <http://www.w3.org/2004/02/skos/core#altLabel> "LRM" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <http://www.w3.org/2004/02/skos/core#altLabel> "LRMs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <http://www.w3.org/2004/02/skos/core#altLabel> "large reasoning models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <http://www.w3.org/2004/02/skos/core#altLabel> "reasoning language models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <http://www.w3.org/2004/02/skos/core#altLabel> "reasoning model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <http://www.w3.org/2004/02/skos/core#altLabel> "thinking models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <http://www.w3.org/2004/02/skos/core#definition> "Large language models trained, mainly with reinforcement learning on verifiable tasks, to generate a long internal chain of thought (reasoning or thinking tokens) before giving a final answer, so that answer quality improves as more inference-time computation is spent on a problem." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reasoning models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/scratchpad> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/test-time-compute> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reasoning-models/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reasoning-models/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reasoning-models/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reasoning-models/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reasoning-models/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/test-time-compute> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "prompting-and-reasoning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/gpqa> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/learning-to-reason-with-llms> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought-faithfulness> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <http://www.w3.org/2000/01/rdf-schema#label> "Recurrent neural network" .
@@ -5633,6 +5664,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/quantization/s5> <https://schema.org/url> "https://developer.nvidia.com/blog/optimizing-llms-for-performance-and-accuracy-with-post-training-quantization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reasoning-models/s1> <http://purl.org/dc/terms/publisher> "OpenAI, 12 September 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reasoning-models/s1> <http://purl.org/dc/terms/title> "Learning to reason with LLMs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reasoning-models/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reasoning-models/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reasoning-models/s1> <https://schema.org/url> "https://openai.com/index/learning-to-reason-with-llms/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reasoning-models/s2> <http://purl.org/dc/terms/publisher> "DeepSeek-AI (Guo, Yang, Zhang, Song, Wang et al.); arXiv 2501.12948, Nature 645, 633–638 (2025)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reasoning-models/s2> <http://purl.org/dc/terms/title> "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reasoning-models/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reasoning-models/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reasoning-models/s2> <https://schema.org/url> "https://arxiv.org/abs/2501.12948" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reasoning-models/s3> <http://purl.org/dc/terms/publisher> "Anthropic Alignment Science, 3 April 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reasoning-models/s3> <http://purl.org/dc/terms/title> "Reasoning models don't always say what they think" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reasoning-models/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reasoning-models/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reasoning-models/s3> <https://schema.org/url> "https://www.anthropic.com/research/reasoning-models-dont-say-think" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reasoning-models/s4> <http://purl.org/dc/terms/publisher> "OpenAI developer documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reasoning-models/s4> <http://purl.org/dc/terms/title> "Reasoning models (API guide)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reasoning-models/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reasoning-models/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reasoning-models/s4> <https://schema.org/url> "https://developers.openai.com/api/docs/guides/reasoning.md" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reasoning-models/s5> <http://purl.org/dc/terms/publisher> "Apple Machine Learning Research (Shojaee, Mirzadeh, Alizadeh, Horton, Bengio, Farajtabar), June 2025; arXiv 2506.06941" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reasoning-models/s5> <http://purl.org/dc/terms/title> "The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reasoning-models/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reasoning-models/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reasoning-models/s5> <https://schema.org/url> "https://machinelearning.apple.com/research/illusion-of-thinking" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s1> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (Zhang, Lipton, Li and Smola)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s1> <http://purl.org/dc/terms/title> "9.4. Recurrent Neural Networks" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

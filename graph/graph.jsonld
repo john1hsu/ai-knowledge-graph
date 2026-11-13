@@ -7762,6 +7762,111 @@
       ]
     },
     {
+      "@id": "kt:reasoning-models",
+      "@type": "kto:Model",
+      "skos:prefLabel": "Reasoning models",
+      "skos:definition": "Large language models trained, mainly with reinforcement learning on verifiable tasks, to generate a long internal chain of thought (reasoning or thinking tokens) before giving a final answer, so that answer quality improves as more inference-time computation is spent on a problem.",
+      "kto:domain": "prompting-and-reasoning",
+      "dcterms:created": "2026-11-13",
+      "kto:maturity": "emerging",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Learning to reason with LLMs",
+          "dcterms:publisher": "OpenAI, 12 September 2024",
+          "schema:url": "https://openai.com/index/learning-to-reason-with-llms/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+          "dcterms:publisher": "DeepSeek-AI (Guo, Yang, Zhang, Song, Wang et al.); arXiv 2501.12948, Nature 645, 633–638 (2025)",
+          "schema:url": "https://arxiv.org/abs/2501.12948",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Reasoning models don't always say what they think",
+          "dcterms:publisher": "Anthropic Alignment Science, 3 April 2025",
+          "schema:url": "https://www.anthropic.com/research/reasoning-models-dont-say-think",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Reasoning models (API guide)",
+          "dcterms:publisher": "OpenAI developer documentation",
+          "schema:url": "https://developers.openai.com/api/docs/guides/reasoning.md",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity",
+          "dcterms:publisher": "Apple Machine Learning Research (Shojaee, Mirzadeh, Alizadeh, Horton, Bengio, Farajtabar), June 2025; arXiv 2506.06941",
+          "schema:url": "https://machinelearning.apple.com/research/illusion-of-thinking",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/prompting-and-reasoning/reasoning-models.md",
+      "skos:altLabel": [
+        "reasoning model",
+        "large reasoning models",
+        "LRMs",
+        "LRM",
+        "thinking models",
+        "reasoning language models"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:chain-of-thought"
+        },
+        {
+          "@id": "kt:test-time-compute"
+        },
+        {
+          "@id": "kt:scratchpad"
+        },
+        {
+          "@id": "kt:star-self-taught-reasoner"
+        },
+        {
+          "@id": "kt:reward-hacking"
+        },
+        {
+          "@id": "kt:knowledge-distillation"
+        }
+      ],
+      "kto:trainedWith": [
+        {
+          "@id": "kt:reinforcement-learning"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:chain-of-thought"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:learning-to-reason-with-llms"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:test-time-compute"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:chain-of-thought-faithfulness"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:gpqa"
+        }
+      ]
+    },
+    {
       "@id": "kt:scratchpad",
       "@type": "kto:Technique",
       "skos:prefLabel": "Scratchpad",
