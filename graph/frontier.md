@@ -104,6 +104,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:allen-institute-for-ai` | `kt:commonsenseqa` |
 | `kt:allen-newell` | `kt:logic-theorist` |
 | `kt:ann-benchmarks` | `kt:approximate-nearest-neighbor-search` |
+| `kt:anthropic` | `kt:constitutional-ai` |
 | `kt:application-specific-integrated-circuit` | `kt:tpu` |
 | `kt:approximation-by-superpositions-of-a-sigmoidal-function` | `kt:universal-approximation-theorem` |
 | `kt:aqua-rat` | `kt:program-induction-by-rationale-generation` |
@@ -129,6 +130,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chatbot` | `kt:eliza` |
 | `kt:christopher-watkins` | `kt:q-learning` |
 | `kt:cifar-10` | `kt:image-classification` |
+| `kt:claude` | `kt:constitutional-ai` |
 | `kt:cliff-shaw` | `kt:logic-theorist` |
 | `kt:clipper-prediction-serving-system` | `kt:model-serving` |
 | `kt:colbert` | `kt:reranking` |
@@ -138,6 +140,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:computing-machinery-and-intelligence` | `kt:turing-test` |
 | `kt:conceptnet` | `kt:commonsenseqa` |
 | `kt:conditional-random-fields-probabilistic-models-for-segmenting-and-labeling-sequence-data` | `kt:conditional-random-field` |
+| `kt:constitutional-ai-harmlessness-from-ai-feedback` | `kt:constitutional-ai` |
 | `kt:contextual-calibration` | `kt:prompt-sensitivity` |
 | `kt:contrastive-learning` | `kt:clip` |
 | `kt:cudnn` | `kt:cuda` |
@@ -306,6 +309,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:rectified-linear-unit` | `kt:activation-function` |
 | `kt:reflexion` | `kt:self-refine-iterative-refinement-with-self-feedback` |
 | `kt:reinforce-algorithm` | `kt:policy-gradient` |
+| `kt:reinforcement-learning-from-ai-feedback` | `kt:constitutional-ai` |
 | `kt:retrieval-augmented-generation-for-knowledge-intensive-nlp-tasks` | `kt:retrieval-augmented-generation` |
 | `kt:richard-bellman` | `kt:markov-decision-process` |
 | `kt:roofline-model` | `kt:gpu-computing` |

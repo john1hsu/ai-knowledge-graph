@@ -11940,6 +11940,98 @@
       ]
     },
     {
+      "@id": "kt:constitutional-ai",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Constitutional AI",
+      "skos:definition": "An alignment training method, introduced by Anthropic in 2022, in which a short written list of natural-language principles (a \"constitution\") replaces human harmlessness labels: the model critiques and revises its own outputs against those principles, then is refined with reinforcement learning from AI-generated preference labels.",
+      "kto:domain": "training-and-adaptation",
+      "dcterms:created": "2026-11-13",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Constitutional AI: Harmlessness from AI Feedback",
+          "dcterms:publisher": "Bai et al. (Anthropic), arXiv 2212.08073, December 2022 (ar5iv HTML rendering)",
+          "schema:url": "https://ar5iv.labs.arxiv.org/html/2212.08073",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Claude's new constitution",
+          "dcterms:publisher": "Anthropic, 22 January 2026",
+          "schema:url": "https://www.anthropic.com/research/claude-new-constitution",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback",
+          "dcterms:publisher": "ICML 2024, PMLR 235:26874–26901 (Lee, Phatale, Mansoor, Mesnard, Ferret, Lu, Bishop, Hall, Carbune, Rastogi and Prakash)",
+          "schema:url": "https://proceedings.mlr.press/v235/lee24t.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Collective Constitutional AI: Aligning a Language Model with Public Input",
+          "dcterms:publisher": "Huang, Siddarth, Lovitt, Liao, Durmus, Tamkin and Ganguli, arXiv 2406.07814 (2024)",
+          "schema:url": "https://arxiv.org/abs/2406.07814",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/training-and-adaptation/constitutional-ai.md",
+      "skos:altLabel": [
+        "CAI",
+        "constitutional AI training"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-alignment"
+        },
+        {
+          "@id": "kt:fine-tuning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:red-teaming"
+        },
+        {
+          "@id": "kt:synthetic-data"
+        },
+        {
+          "@id": "kt:scalable-oversight"
+        },
+        {
+          "@id": "kt:self-refine-iterative-refinement-with-self-feedback"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:constitutional-ai-harmlessness-from-ai-feedback"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:anthropic"
+        }
+      ],
+      "kto:extends": [
+        {
+          "@id": "kt:rlhf"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:reinforcement-learning-from-ai-feedback"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:claude"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:chain-of-thought"
+        }
+      ]
+    },
+    {
       "@id": "kt:direct-preference-optimization",
       "@type": "kto:Algorithm",
       "skos:prefLabel": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",

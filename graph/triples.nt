@@ -927,6 +927,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-fields-probabilistic-models-for-segmenting-and-labeling-sequence-data> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/constitutional-ai> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/constitutional-ai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/constitutional-ai> <http://www.w3.org/2000/01/rdf-schema#label> "Constitutional AI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/constitutional-ai> <http://www.w3.org/2004/02/skos/core#altLabel> "CAI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/constitutional-ai> <http://www.w3.org/2004/02/skos/core#altLabel> "constitutional AI training" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/constitutional-ai> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/constitutional-ai> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/constitutional-ai> <http://www.w3.org/2004/02/skos/core#definition> "An alignment training method, introduced by Anthropic in 2022, in which a short written list of natural-language principles (a \"constitution\") replaces human harmlessness labels: the model critiques and revises its own outputs against those principles, then is refined with reinforcement learning from AI-generated preference labels." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/constitutional-ai> <http://www.w3.org/2004/02/skos/core#prefLabel> "Constitutional AI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/constitutional-ai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/constitutional-ai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/constitutional-ai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/self-refine-iterative-refinement-with-self-feedback> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/constitutional-ai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/constitutional-ai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/constitutional-ai/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/constitutional-ai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/constitutional-ai/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/constitutional-ai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/constitutional-ai/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/constitutional-ai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/constitutional-ai/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/constitutional-ai> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning-from-ai-feedback> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/constitutional-ai> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/anthropic> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/constitutional-ai> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/constitutional-ai> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "training-and-adaptation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/constitutional-ai> <https://github.com/john1hsu/ai-knowledge-graph/ontology#extends> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/constitutional-ai> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/constitutional-ai-harmlessness-from-ai-feedback> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/constitutional-ai> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/constitutional-ai> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/claude> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <http://www.w3.org/2000/01/rdf-schema#label> "Context window" .
@@ -4297,6 +4322,26 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s5> <https://schema.org/url> "https://arxiv.org/html/1603.01360" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/constitutional-ai/s1> <http://purl.org/dc/terms/publisher> "Bai et al. (Anthropic), arXiv 2212.08073, December 2022 (ar5iv HTML rendering)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/constitutional-ai/s1> <http://purl.org/dc/terms/title> "Constitutional AI: Harmlessness from AI Feedback" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/constitutional-ai/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/constitutional-ai/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/constitutional-ai/s1> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/2212.08073" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/constitutional-ai/s2> <http://purl.org/dc/terms/publisher> "Anthropic, 22 January 2026" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/constitutional-ai/s2> <http://purl.org/dc/terms/title> "Claude's new constitution" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/constitutional-ai/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/constitutional-ai/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/constitutional-ai/s2> <https://schema.org/url> "https://www.anthropic.com/research/claude-new-constitution" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/constitutional-ai/s3> <http://purl.org/dc/terms/publisher> "ICML 2024, PMLR 235:26874–26901 (Lee, Phatale, Mansoor, Mesnard, Ferret, Lu, Bishop, Hall, Carbune, Rastogi and Prakash)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/constitutional-ai/s3> <http://purl.org/dc/terms/title> "RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/constitutional-ai/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/constitutional-ai/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/constitutional-ai/s3> <https://schema.org/url> "https://proceedings.mlr.press/v235/lee24t.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/constitutional-ai/s4> <http://purl.org/dc/terms/publisher> "Huang, Siddarth, Lovitt, Liao, Durmus, Tamkin and Ganguli, arXiv 2406.07814 (2024)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/constitutional-ai/s4> <http://purl.org/dc/terms/title> "Collective Constitutional AI: Aligning a Language Model with Public Input" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/constitutional-ai/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/constitutional-ai/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/constitutional-ai/s4> <https://schema.org/url> "https://arxiv.org/abs/2406.07814" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 2017, Advances in Neural Information Processing Systems 30 (Vaswani, Shazeer, Parmar, Uszkoreit, Jones, Gomez, Kaiser, Polosukhin)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s1> <http://purl.org/dc/terms/title> "Attention is All you Need" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

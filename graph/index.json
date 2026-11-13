@@ -785,6 +785,25 @@
     ]
   },
   {
+    "id": "kt:constitutional-ai",
+    "title": "Constitutional AI",
+    "aliases": [
+      "CAI",
+      "constitutional AI training"
+    ],
+    "type": "Technique",
+    "domain": "training-and-adaptation",
+    "file": "articles/training-and-adaptation/constitutional-ai.md",
+    "created": "2026-11-13",
+    "maturity": "established",
+    "source_urls": [
+      "https://ar5iv.labs.arxiv.org/html/2212.08073",
+      "https://www.anthropic.com/research/claude-new-constitution",
+      "https://proceedings.mlr.press/v235/lee24t.html",
+      "https://arxiv.org/abs/2406.07814"
+    ]
+  },
+  {
     "id": "kt:context-window",
     "title": "Context window",
     "aliases": [
