@@ -1414,6 +1414,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> <http://www.w3.org/2000/01/rdf-schema#label> "Few-shot prompting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> <http://www.w3.org/2004/02/skos/core#altLabel> "example-based prompting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> <http://www.w3.org/2004/02/skos/core#altLabel> "k-shot prompting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> <http://www.w3.org/2004/02/skos/core#altLabel> "multishot prompting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> <http://www.w3.org/2004/02/skos/core#altLabel> "prompting with demonstrations" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> <http://www.w3.org/2004/02/skos/core#definition> "A prompting technique that places a small number of worked input-output examples (demonstrations) in a language model's prompt ahead of the real query, so the model infers the task, label set and output format from the examples without any weight update." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> <http://www.w3.org/2004/02/skos/core#prefLabel> "Few-shot prompting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-prompting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/few-shot-prompting/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/few-shot-prompting/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/few-shot-prompting/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/few-shot-prompting/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/few-shot-prompting/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "prompting-and-reasoning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> <http://www.w3.org/2000/01/rdf-schema#label> "Fine-tuning" .
@@ -4727,6 +4752,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s6> <https://schema.org/url> "https://docs.pytorch.org/vision/stable/models/generated/torchvision.models.detection.fasterrcnn_resnet50_fpn.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/few-shot-prompting/s1> <http://purl.org/dc/terms/publisher> "arXiv 2005.14165 via ar5iv (Brown, Mann, Ryder, Subbiah, Kaplan, Dhariwal, et al.; NeurIPS 2020)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/few-shot-prompting/s1> <http://purl.org/dc/terms/title> "Language Models are Few-Shot Learners" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/few-shot-prompting/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/few-shot-prompting/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/few-shot-prompting/s1> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/2005.14165" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/few-shot-prompting/s2> <http://purl.org/dc/terms/publisher> "DeeLIO 2022 workshop, ACL, pp. 100-114 (Liu, Shen, Zhang, Dolan, Carin, Chen)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/few-shot-prompting/s2> <http://purl.org/dc/terms/title> "What Makes Good In-Context Examples for GPT-3?" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/few-shot-prompting/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/few-shot-prompting/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/few-shot-prompting/s2> <https://schema.org/url> "https://aclanthology.org/2022.deelio-1.10" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/few-shot-prompting/s3> <http://purl.org/dc/terms/publisher> "EMNLP 2022, pp. 11048-11064 (Min, Lyu, Holtzman, Artetxe, Lewis, Hajishirzi, Zettlemoyer)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/few-shot-prompting/s3> <http://purl.org/dc/terms/title> "Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/few-shot-prompting/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/few-shot-prompting/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/few-shot-prompting/s3> <https://schema.org/url> "https://aclanthology.org/2022.emnlp-main.759" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/few-shot-prompting/s4> <http://purl.org/dc/terms/publisher> "NeurIPS 2024, vol. 37, pp. 76930-76966 (Agarwal, Singh, Zhang, Bohnet, et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/few-shot-prompting/s4> <http://purl.org/dc/terms/title> "Many-Shot In-Context Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/few-shot-prompting/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/few-shot-prompting/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/few-shot-prompting/s4> <https://schema.org/url> "https://papers.neurips.cc/paper_files/paper/2024/hash/8cb564df771e9eacbfe9d72bd46a24a9-Abstract-Conference.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/few-shot-prompting/s5> <http://purl.org/dc/terms/publisher> "Anthropic, Claude Platform Docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/few-shot-prompting/s5> <http://purl.org/dc/terms/title> "Prompting best practices: Use examples effectively" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/few-shot-prompting/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/few-shot-prompting/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/few-shot-prompting/s5> <https://schema.org/url> "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/multishot-prompting" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 2014, Advances in Neural Information Processing Systems 27 (Yosinski, Clune, Bengio and Lipson)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s1> <http://purl.org/dc/terms/title> "How transferable are features in deep neural networks?" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/fine-tuning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

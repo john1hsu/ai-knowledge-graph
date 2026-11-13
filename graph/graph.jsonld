@@ -8357,6 +8357,91 @@
       ]
     },
     {
+      "@id": "kt:few-shot-prompting",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Few-shot prompting",
+      "skos:definition": "A prompting technique that places a small number of worked input-output examples (demonstrations) in a language model's prompt ahead of the real query, so the model infers the task, label set and output format from the examples without any weight update.",
+      "kto:domain": "prompting-and-reasoning",
+      "dcterms:created": "2026-11-13",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Language Models are Few-Shot Learners",
+          "dcterms:publisher": "arXiv 2005.14165 via ar5iv (Brown, Mann, Ryder, Subbiah, Kaplan, Dhariwal, et al.; NeurIPS 2020)",
+          "schema:url": "https://ar5iv.labs.arxiv.org/html/2005.14165",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "What Makes Good In-Context Examples for GPT-3?",
+          "dcterms:publisher": "DeeLIO 2022 workshop, ACL, pp. 100-114 (Liu, Shen, Zhang, Dolan, Carin, Chen)",
+          "schema:url": "https://aclanthology.org/2022.deelio-1.10",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?",
+          "dcterms:publisher": "EMNLP 2022, pp. 11048-11064 (Min, Lyu, Holtzman, Artetxe, Lewis, Hajishirzi, Zettlemoyer)",
+          "schema:url": "https://aclanthology.org/2022.emnlp-main.759",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Many-Shot In-Context Learning",
+          "dcterms:publisher": "NeurIPS 2024, vol. 37, pp. 76930-76966 (Agarwal, Singh, Zhang, Bohnet, et al.)",
+          "schema:url": "https://papers.neurips.cc/paper_files/paper/2024/hash/8cb564df771e9eacbfe9d72bd46a24a9-Abstract-Conference.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Prompting best practices: Use examples effectively",
+          "dcterms:publisher": "Anthropic, Claude Platform Docs",
+          "schema:url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/multishot-prompting",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/prompting-and-reasoning/few-shot-prompting.md",
+      "skos:altLabel": [
+        "multishot prompting",
+        "k-shot prompting",
+        "prompting with demonstrations",
+        "example-based prompting"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:prompt-engineering"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:zero-shot-prompting"
+        },
+        {
+          "@id": "kt:prompt-sensitivity"
+        },
+        {
+          "@id": "kt:chain-of-thought"
+        },
+        {
+          "@id": "kt:semantic-search"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:language-models-are-few-shot-learners"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:in-context-learning"
+        },
+        {
+          "@id": "kt:context-window"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:fine-tuning"
+        }
+      ]
+    },
+    {
       "@id": "kt:program-induction-by-rationale-generation",
       "@type": "kto:Work",
       "skos:prefLabel": "Program Induction by Rationale Generation: Learning to Solve and Explain Algebraic Word Problems",

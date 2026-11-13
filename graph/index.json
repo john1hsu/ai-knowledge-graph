@@ -1201,6 +1201,28 @@
     ]
   },
   {
+    "id": "kt:few-shot-prompting",
+    "title": "Few-shot prompting",
+    "aliases": [
+      "multishot prompting",
+      "k-shot prompting",
+      "prompting with demonstrations",
+      "example-based prompting"
+    ],
+    "type": "Technique",
+    "domain": "prompting-and-reasoning",
+    "file": "articles/prompting-and-reasoning/few-shot-prompting.md",
+    "created": "2026-11-13",
+    "maturity": "established",
+    "source_urls": [
+      "https://ar5iv.labs.arxiv.org/html/2005.14165",
+      "https://aclanthology.org/2022.deelio-1.10",
+      "https://aclanthology.org/2022.emnlp-main.759",
+      "https://papers.neurips.cc/paper_files/paper/2024/hash/8cb564df771e9eacbfe9d72bd46a24a9-Abstract-Conference.html",
+      "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/multishot-prompting"
+    ]
+  },
+  {
     "id": "kt:fine-tuning",
     "title": "Fine-tuning",
     "aliases": [

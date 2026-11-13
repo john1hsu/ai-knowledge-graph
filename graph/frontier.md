@@ -11,7 +11,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:vision-transformer` | `kt:an-image-is-worth-16x16-words`, `kt:clip`, `kt:image-classification`, `kt:object-detection`, `kt:yolo`, `kt:convolutional-neural-network` |
 | `kt:ai-accelerator` | `kt:high-bandwidth-memory`, `kt:model-serving`, `kt:tpu`, `kt:ai-chip-export-controls`, `kt:compute-governance` |
 | `kt:beam-search` | `kt:sampling-temperature-and-top-p`, `kt:self-consistency`, `kt:knowledge-distillation`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
-| `kt:few-shot-prompting` | `kt:chain-of-thought`, `kt:prompt-engineering`, `kt:prompt-sensitivity`, `kt:instruction-tuning`, `kt:in-context-learning` |
 | `kt:google` | `kt:agent2agent-protocol`, `kt:tpu`, `kt:an-image-is-worth-16x16-words`, `kt:word2vec`, `kt:attention-is-all-you-need` |
 | `kt:react-prompting` | `kt:ai-agent`, `kt:autogen`, `kt:tool-use`, `kt:toolformer`, `kt:chain-of-thought` |
 | `kt:representation-learning` | `kt:clip`, `kt:deep-learning`, `kt:embeddings`, `kt:glove`, `kt:word2vec` |
@@ -67,6 +66,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
 | `kt:google-deepmind` | `kt:alphago`, `kt:deep-q-network` |
 | `kt:induction-head` | `kt:mechanistic-interpretability`, `kt:in-context-learning` |
+| `kt:language-models-are-few-shot-learners` | `kt:few-shot-prompting`, `kt:in-context-learning` |
 | `kt:latent-semantic-analysis` | `kt:glove`, `kt:semantic-search` |
 | `kt:marvin-minsky` | `kt:dartmouth-workshop`, `kt:perceptron` |
 | `kt:meta-ai` | `kt:toolformer`, `kt:pytorch` |
@@ -228,7 +228,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:knowledge-representation` | `kt:expert-systems` |
 | `kt:langchain` | `kt:langgraph` |
 | `kt:language-model` | `kt:large-language-model` |
-| `kt:language-models-are-few-shot-learners` | `kt:in-context-learning` |
 | `kt:large-language-monkeys` | `kt:self-consistency` |
 | `kt:lasso` | `kt:regularization` |
 | `kt:latent-diffusion-model` | `kt:diffusion-model` |
@@ -372,3 +371,4 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:yoshua-bengio` | `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
 | `kt:you-only-look-once-unified-real-time-object-detection` | `kt:yolo` |
 | `kt:zero-redundancy-optimizer` | `kt:data-parallelism` |
+| `kt:zero-shot-prompting` | `kt:few-shot-prompting` |
