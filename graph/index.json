@@ -2402,6 +2402,27 @@
     ]
   },
   {
+    "id": "kt:regularization",
+    "title": "Regularization",
+    "aliases": [
+      "regularisation",
+      "model regularization",
+      "regularizer"
+    ],
+    "type": "Concept",
+    "domain": "ml-foundations",
+    "file": "articles/ml-foundations/regularization.md",
+    "created": "2026-11-13",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://d2l.ai/chapter_linear-regression/weight-decay.html",
+      "https://sites.stat.washington.edu/courses/stat527/s13/readings/j_royal_stat_soc_b1996.pdf",
+      "https://papers.nips.cc/paper/1991/hash/8eefcfdf5990e441f0fb6f3fad709e21-Abstract.html",
+      "https://arxiv.org/abs/1711.05101",
+      "https://research.google/pubs/understanding-deep-learning-requires-rethinking-generalization/"
+    ]
+  },
+  {
     "id": "kt:reinforcement-learning",
     "title": "Reinforcement learning",
     "aliases": [

@@ -8007,6 +8007,96 @@
       ]
     },
     {
+      "@id": "kt:regularization",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Regularization",
+      "skos:definition": "Any modification to a learning algorithm, most classically a penalty on the size of the model's parameters, that is meant to improve performance on unseen data rather than on the training set, typically by trading a little extra bias for a large reduction in variance.",
+      "kto:domain": "ml-foundations",
+      "dcterms:created": "2026-11-13",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "3.7. Weight Decay",
+          "dcterms:publisher": "Dive into Deep Learning (Zhang, Lipton, Li and Smola), d2l.ai",
+          "schema:url": "https://d2l.ai/chapter_linear-regression/weight-decay.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Regression Shrinkage and Selection via the Lasso",
+          "dcterms:publisher": "Journal of the Royal Statistical Society, Series B 58(1), 267–288 (1996) (Tibshirani); course-reading copy hosted by the University of Washington",
+          "schema:url": "https://sites.stat.washington.edu/courses/stat527/s13/readings/j_royal_stat_soc_b1996.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "A Simple Weight Decay Can Improve Generalization",
+          "dcterms:publisher": "Advances in Neural Information Processing Systems 4 (NIPS 1991) (Krogh and Hertz)",
+          "schema:url": "https://papers.nips.cc/paper/1991/hash/8eefcfdf5990e441f0fb6f3fad709e21-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Decoupled Weight Decay Regularization",
+          "dcterms:publisher": "ICLR 2019 (Loshchilov and Hutter), arXiv:1711.05101",
+          "schema:url": "https://arxiv.org/abs/1711.05101",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Understanding deep learning requires rethinking generalization",
+          "dcterms:publisher": "Google Research publication page; ICLR 2017 (Zhang, Bengio, Hardt, Recht and Vinyals)",
+          "schema:url": "https://research.google/pubs/understanding-deep-learning-requires-rethinking-generalization/",
+          "kto:sourceType": "lab-research"
+        }
+      ],
+      "kto:file": "articles/ml-foundations/regularization.md",
+      "skos:altLabel": [
+        "regularisation",
+        "model regularization",
+        "regularizer"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:machine-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:bias-variance-tradeoff"
+        },
+        {
+          "@id": "kt:dropout"
+        },
+        {
+          "@id": "kt:double-descent"
+        },
+        {
+          "@id": "kt:adam-optimizer"
+        },
+        {
+          "@id": "kt:ensemble-methods"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:overfitting"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:weight-decay"
+        },
+        {
+          "@id": "kt:lasso"
+        },
+        {
+          "@id": "kt:early-stopping"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:statistical-learning-theory"
+        }
+      ]
+    },
+    {
       "@id": "kt:supervised-learning",
       "@type": "kto:Paradigm",
       "skos:prefLabel": "Supervised learning",

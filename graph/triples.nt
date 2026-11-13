@@ -2846,6 +2846,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "evaluation-and-benchmarks" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <https://github.com/john1hsu/ai-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/regularization> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/regularization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/regularization> <http://www.w3.org/2000/01/rdf-schema#label> "Regularization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/regularization> <http://www.w3.org/2004/02/skos/core#altLabel> "model regularization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/regularization> <http://www.w3.org/2004/02/skos/core#altLabel> "regularisation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/regularization> <http://www.w3.org/2004/02/skos/core#altLabel> "regularizer" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/regularization> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/regularization> <http://www.w3.org/2004/02/skos/core#definition> "Any modification to a learning algorithm, most classically a penalty on the size of the model's parameters, that is meant to improve performance on unseen data rather than on the training set, typically by trading a little extra bias for a large reduction in variance." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/regularization> <http://www.w3.org/2004/02/skos/core#prefLabel> "Regularization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/regularization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/regularization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/regularization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/regularization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/dropout> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/regularization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ensemble-methods> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/regularization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/regularization/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/regularization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/regularization/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/regularization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/regularization/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/regularization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/regularization/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/regularization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/regularization/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/regularization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ml-foundations" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/regularization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/early-stopping> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/regularization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/lasso> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/regularization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/weight-decay> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/regularization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/regularization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/regularization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Field> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <http://www.w3.org/2000/01/rdf-schema#label> "Reinforcement learning" .
@@ -6200,6 +6226,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s5> <https://schema.org/url> "https://www.govinfo.gov/content/pkg/DCPD-202500115/html/DCPD-202500115.htm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/regularization/s1> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (Zhang, Lipton, Li and Smola), d2l.ai" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/regularization/s1> <http://purl.org/dc/terms/title> "3.7. Weight Decay" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/regularization/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/regularization/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/regularization/s1> <https://schema.org/url> "https://d2l.ai/chapter_linear-regression/weight-decay.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/regularization/s2> <http://purl.org/dc/terms/publisher> "Journal of the Royal Statistical Society, Series B 58(1), 267–288 (1996) (Tibshirani); course-reading copy hosted by the University of Washington" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/regularization/s2> <http://purl.org/dc/terms/title> "Regression Shrinkage and Selection via the Lasso" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/regularization/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/regularization/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/regularization/s2> <https://schema.org/url> "https://sites.stat.washington.edu/courses/stat527/s13/readings/j_royal_stat_soc_b1996.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/regularization/s3> <http://purl.org/dc/terms/publisher> "Advances in Neural Information Processing Systems 4 (NIPS 1991) (Krogh and Hertz)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/regularization/s3> <http://purl.org/dc/terms/title> "A Simple Weight Decay Can Improve Generalization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/regularization/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/regularization/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/regularization/s3> <https://schema.org/url> "https://papers.nips.cc/paper/1991/hash/8eefcfdf5990e441f0fb6f3fad709e21-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/regularization/s4> <http://purl.org/dc/terms/publisher> "ICLR 2019 (Loshchilov and Hutter), arXiv:1711.05101" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/regularization/s4> <http://purl.org/dc/terms/title> "Decoupled Weight Decay Regularization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/regularization/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/regularization/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/regularization/s4> <https://schema.org/url> "https://arxiv.org/abs/1711.05101" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/regularization/s5> <http://purl.org/dc/terms/publisher> "Google Research publication page; ICLR 2017 (Zhang, Bengio, Hardt, Recht and Vinyals)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/regularization/s5> <http://purl.org/dc/terms/title> "Understanding deep learning requires rethinking generalization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/regularization/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/regularization/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/regularization/s5> <https://schema.org/url> "https://research.google/pubs/understanding-deep-learning-requires-rethinking-generalization/" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s1> <http://purl.org/dc/terms/publisher> "Journal of Artificial Intelligence Research 4:237-285, 1996 (Kaelbling, Littman and Moore)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s1> <http://purl.org/dc/terms/title> "Reinforcement Learning: A Survey" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
