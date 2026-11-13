@@ -384,6 +384,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "historical" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <https://github.com/john1hsu/ai-knowledge-graph/ontology#supersededBy> <https://github.com/john1hsu/ai-knowledge-graph/id/alphago-zero> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/alphago> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphazero> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphazero> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphazero> <http://www.w3.org/2000/01/rdf-schema#label> "AlphaZero" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphazero> <http://www.w3.org/2004/02/skos/core#altLabel> "Alpha Zero" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphazero> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphazero> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphazero> <http://www.w3.org/2004/02/skos/core#definition> "DeepMind's general self-play reinforcement learning algorithm (2017-2018) that, given only the rules, learned chess, shogi and Go from random play using one deep neural network to guide Monte Carlo tree search, and defeated the strongest existing program in each game." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphazero> <http://www.w3.org/2004/02/skos/core#prefLabel> "AlphaZero" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphazero> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/alphago> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphazero> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphazero> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphazero> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphazero> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/tpu> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphazero> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/alphazero/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphazero> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/alphazero/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphazero> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/alphazero/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphazero> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/alphazero/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphazero> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/alphazero/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphazero> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphazero> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/google-deepmind> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphazero> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "reinforcement-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphazero> <https://github.com/john1hsu/ai-knowledge-graph/ontology#extends> <https://github.com/john1hsu/ai-knowledge-graph/id/alphago-zero> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphazero> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/mastering-chess-and-shogi-by-self-play-with-a-general-reinforcement-learning-algorithm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphazero> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphazero> <https://github.com/john1hsu/ai-knowledge-graph/ontology#supersededBy> <https://github.com/john1hsu/ai-knowledge-graph/id/muzero> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alphazero> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/self-play> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Work> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> <http://www.w3.org/2000/01/rdf-schema#label> "An Image Is Worth 16x16 Words: Transformers for Image Recognition at Scale" .
@@ -3671,6 +3697,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "news" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago/s6> <https://schema.org/url> "https://www.koreatimes.co.kr/business/tech-science/20160315/alphago-wins-final-game-after-neck-and-neck-race" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphazero/s1> <http://purl.org/dc/terms/publisher> "arXiv:1712.01815 (Silver et al., Google DeepMind), December 2017" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphazero/s1> <http://purl.org/dc/terms/title> "Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphazero/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphazero/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphazero/s1> <https://schema.org/url> "https://arxiv.org/abs/1712.01815v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphazero/s2> <http://purl.org/dc/terms/publisher> "Science 362(6419), 1140-1144, 2018 (Silver et al.); full text hosted on a UNAM IIMAS course page" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphazero/s2> <http://purl.org/dc/terms/title> "A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphazero/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphazero/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphazero/s2> <https://schema.org/url> "https://turing.iimas.unam.mx/~luis/cursos/IA2022-1/lecturas/AlphaZero.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphazero/s3> <http://purl.org/dc/terms/publisher> "Google DeepMind blog, 6 December 2018" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphazero/s3> <http://purl.org/dc/terms/title> "AlphaZero: Shedding new light on chess, shogi, and Go" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphazero/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphazero/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphazero/s3> <https://schema.org/url> "https://deepmind.google/blog/alphazero-shedding-new-light-on-chess-shogi-and-go/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphazero/s4> <http://purl.org/dc/terms/publisher> "arXiv:1911.08265 (Schrittwieser et al., DeepMind), v2 February 2020" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphazero/s4> <http://purl.org/dc/terms/title> "Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphazero/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphazero/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphazero/s4> <https://schema.org/url> "https://arxiv.org/abs/1911.08265v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphazero/s5> <http://purl.org/dc/terms/publisher> "PNAS 119(47), e2206625119, 2022 (McGrath et al.), PubMed Central" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphazero/s5> <http://purl.org/dc/terms/title> "Acquisition of chess knowledge in AlphaZero" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphazero/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphazero/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alphazero/s5> <https://schema.org/url> "https://pmc.ncbi.nlm.nih.gov/articles/PMC9704706" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s1> <http://purl.org/dc/terms/publisher> "Dosovitskiy, Beyer, Kolesnikov, Weissenborn, Zhai, Unterthiner, Dehghani, Minderer, Heigold, Gelly, Uszkoreit and Houlsby, ICLR 2021 virtual conference page" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s1> <http://purl.org/dc/terms/title> "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (oral)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

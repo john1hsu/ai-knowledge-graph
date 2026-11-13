@@ -32,6 +32,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:concrete-problems-in-ai-safety` | `kt:ai-safety`, `kt:reward-hacking`, `kt:scalable-oversight` |
 | `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:geoffrey-hinton`, `kt:perceptron` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:hidden-markov-model` |
+| `kt:google-deepmind` | `kt:alphago`, `kt:alphazero`, `kt:deep-q-network` |
 | `kt:gradient-descent` | `kt:adam-optimizer`, `kt:backpropagation`, `kt:deep-learning` |
 | `kt:hugging-face-trl` | `kt:direct-preference-optimization`, `kt:instruction-tuning`, `kt:rlhf` |
 | `kt:hybrid-search` | `kt:bm25`, `kt:bm25`, `kt:semantic-search` |
@@ -48,6 +49,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:wmt-2014` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
 | `kt:ai-winter` | `kt:expert-systems`, `kt:perceptron` |
+| `kt:alphago-zero` | `kt:alphago`, `kt:alphazero` |
 | `kt:apache-lucene` | `kt:bm25`, `kt:tf-idf` |
 | `kt:automatic-differentiation` | `kt:pytorch`, `kt:backpropagation` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:yolo` |
@@ -63,7 +65,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:efficient-memory-management-for-large-language-model-serving-with-pagedattention` | `kt:batching-and-paged-attention`, `kt:vllm` |
 | `kt:export-control-reform-act` | `kt:ai-chip-export-controls`, `kt:bureau-of-industry-and-security` |
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
-| `kt:google-deepmind` | `kt:alphago`, `kt:deep-q-network` |
 | `kt:induction-head` | `kt:mechanistic-interpretability`, `kt:in-context-learning` |
 | `kt:language-models-are-few-shot-learners` | `kt:few-shot-prompting`, `kt:in-context-learning` |
 | `kt:latent-semantic-analysis` | `kt:glove`, `kt:semantic-search` |
@@ -71,6 +72,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:meta-ai` | `kt:toolformer`, `kt:pytorch` |
 | `kt:model-cards` | `kt:algorithmic-bias-and-fairness`, `kt:omb-ai-memoranda` |
 | `kt:model-context-protocol` | `kt:agent2agent-protocol`, `kt:tool-use` |
+| `kt:monte-carlo-tree-search` | `kt:alphago`, `kt:alphazero` |
 | `kt:named-entity-recognition` | `kt:conditional-random-field`, `kt:glove` |
 | `kt:parameter-efficient-fine-tuning` | `kt:fine-tuning`, `kt:qlora` |
 | `kt:post-training-quantization` | `kt:awq`, `kt:gptq` |
@@ -101,8 +103,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:all-reduce` | `kt:data-parallelism` |
 | `kt:allen-institute-for-ai` | `kt:commonsenseqa` |
 | `kt:allen-newell` | `kt:logic-theorist` |
-| `kt:alphago-zero` | `kt:alphago` |
-| `kt:alphazero` | `kt:alphago` |
 | `kt:ann-benchmarks` | `kt:approximate-nearest-neighbor-search` |
 | `kt:application-specific-integrated-circuit` | `kt:tpu` |
 | `kt:approximation-by-superpositions-of-a-sigmoidal-function` | `kt:universal-approximation-theorem` |
@@ -144,6 +144,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dan-hendrycks` | `kt:mmlu` |
 | `kt:data-drift` | `kt:mlops` |
 | `kt:data-poisoning` | `kt:benchmark-contamination` |
+| `kt:deep-blue` | `kt:alphazero` |
 | `kt:deep-reinforcement-learning-from-human-preferences` | `kt:rlhf` |
 | `kt:deep-unsupervised-learning-using-nonequilibrium-thermodynamics` | `kt:diffusion-model` |
 | `kt:dendral` | `kt:expert-systems` |
@@ -247,6 +248,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:loss-function` | `kt:supervised-learning` |
 | `kt:lottery-ticket-hypothesis` | `kt:model-pruning` |
 | `kt:mask-r-cnn` | `kt:faster-r-cnn` |
+| `kt:mastering-chess-and-shogi-by-self-play-with-a-general-reinforcement-learning-algorithm` | `kt:alphazero` |
 | `kt:mastering-the-game-of-go-with-deep-neural-networks-and-tree-search` | `kt:alphago` |
 | `kt:mathematical-reasoning` | `kt:program-induction-by-rationale-generation` |
 | `kt:maximum-entropy-markov-model` | `kt:conditional-random-field` |
@@ -264,12 +266,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:model-parallelism` | `kt:data-parallelism` |
 | `kt:model-registry` | `kt:mlops` |
 | `kt:monte-carlo-dropout` | `kt:dropout` |
-| `kt:monte-carlo-tree-search` | `kt:alphago` |
 | `kt:mrkl-systems` | `kt:tool-use` |
 | `kt:mt-bench` | `kt:llm-as-a-judge` |
 | `kt:mteb` | `kt:beir` |
 | `kt:multi-armed-bandit` | `kt:exploration-exploitation` |
 | `kt:multimodal-learning` | `kt:vision-language-model` |
+| `kt:muzero` | `kt:alphazero` |
 | `kt:mycin` | `kt:expert-systems` |
 | `kt:neocognitron` | `kt:convolutional-neural-network` |
 | `kt:new-legislative-framework` | `kt:eu-ai-act` |
@@ -313,6 +315,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:score-matching` | `kt:diffusion-model` |
 | `kt:self-consistency-improves-chain-of-thought-reasoning-in-language-models` | `kt:self-consistency` |
 | `kt:self-correction` | `kt:self-refine-iterative-refinement-with-self-feedback` |
+| `kt:self-play` | `kt:alphazero` |
 | `kt:self-supervised-learning` | `kt:pretraining` |
 | `kt:sepp-hochreiter` | `kt:long-short-term-memory` |
 | `kt:show-your-work-scratchpads-for-intermediate-computation-with-language-models` | `kt:scratchpad` |

@@ -9338,6 +9338,106 @@
       ]
     },
     {
+      "@id": "kt:alphazero",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "AlphaZero",
+      "skos:definition": "DeepMind's general self-play reinforcement learning algorithm (2017-2018) that, given only the rules, learned chess, shogi and Go from random play using one deep neural network to guide Monte Carlo tree search, and defeated the strongest existing program in each game.",
+      "kto:domain": "reinforcement-learning",
+      "dcterms:created": "2026-11-13",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm",
+          "dcterms:publisher": "arXiv:1712.01815 (Silver et al., Google DeepMind), December 2017",
+          "schema:url": "https://arxiv.org/abs/1712.01815v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play",
+          "dcterms:publisher": "Science 362(6419), 1140-1144, 2018 (Silver et al.); full text hosted on a UNAM IIMAS course page",
+          "schema:url": "https://turing.iimas.unam.mx/~luis/cursos/IA2022-1/lecturas/AlphaZero.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "AlphaZero: Shedding new light on chess, shogi, and Go",
+          "dcterms:publisher": "Google DeepMind blog, 6 December 2018",
+          "schema:url": "https://deepmind.google/blog/alphazero-shedding-new-light-on-chess-shogi-and-go/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model",
+          "dcterms:publisher": "arXiv:1911.08265 (Schrittwieser et al., DeepMind), v2 February 2020",
+          "schema:url": "https://arxiv.org/abs/1911.08265v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Acquisition of chess knowledge in AlphaZero",
+          "dcterms:publisher": "PNAS 119(47), e2206625119, 2022 (McGrath et al.), PubMed Central",
+          "schema:url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9704706",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/reinforcement-learning/alphazero.md",
+      "skos:altLabel": [
+        "Alpha Zero"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:reinforcement-learning"
+        },
+        {
+          "@id": "kt:deep-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:alphago"
+        },
+        {
+          "@id": "kt:exploration-exploitation"
+        },
+        {
+          "@id": "kt:deep-blue"
+        },
+        {
+          "@id": "kt:mechanistic-interpretability"
+        },
+        {
+          "@id": "kt:tpu"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:mastering-chess-and-shogi-by-self-play-with-a-general-reinforcement-learning-algorithm"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:google-deepmind"
+        }
+      ],
+      "kto:extends": [
+        {
+          "@id": "kt:alphago-zero"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:monte-carlo-tree-search"
+        }
+      ],
+      "kto:trainedWith": [
+        {
+          "@id": "kt:self-play"
+        }
+      ],
+      "kto:supersededBy": [
+        {
+          "@id": "kt:muzero"
+        }
+      ]
+    },
+    {
       "@id": "kt:deep-q-network",
       "@type": "kto:Algorithm",
       "skos:prefLabel": "Deep Q-network: human-level control through deep reinforcement learning",

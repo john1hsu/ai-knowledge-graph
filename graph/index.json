@@ -331,6 +331,25 @@
     ]
   },
   {
+    "id": "kt:alphazero",
+    "title": "AlphaZero",
+    "aliases": [
+      "Alpha Zero"
+    ],
+    "type": "Algorithm",
+    "domain": "reinforcement-learning",
+    "file": "articles/reinforcement-learning/alphazero.md",
+    "created": "2026-11-13",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/abs/1712.01815v1",
+      "https://turing.iimas.unam.mx/~luis/cursos/IA2022-1/lecturas/AlphaZero.pdf",
+      "https://deepmind.google/blog/alphazero-shedding-new-light-on-chess-shogi-and-go/",
+      "https://arxiv.org/abs/1911.08265v2",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9704706"
+    ]
+  },
+  {
     "id": "kt:an-image-is-worth-16x16-words",
     "title": "An Image Is Worth 16x16 Words: Transformers for Image Recognition at Scale",
     "aliases": [
