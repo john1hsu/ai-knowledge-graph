@@ -230,6 +230,9 @@
       ],
       "skos:related": [
         {
+          "@id": "kt:swe-bench"
+        },
+        {
           "@id": "kt:agentic-workflow"
         },
         {
@@ -5309,6 +5312,95 @@
       "kto:contrastsWith": [
         {
           "@id": "kt:penetration-testing"
+        }
+      ]
+    },
+    {
+      "@id": "kt:swe-bench",
+      "@type": "kto:Benchmark",
+      "skos:prefLabel": "SWE-bench",
+      "skos:definition": "A benchmark of 2,294 real GitHub issues from 12 popular Python repositories in which a model must edit the codebase to resolve each issue, graded by running the repository's own unit tests; introduced by Princeton researchers at ICLR 2024 and now a standard yardstick for coding agents.",
+      "kto:domain": "evaluation-and-benchmarks",
+      "dcterms:created": "2026-11-13",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?",
+          "dcterms:publisher": "arXiv:2310.06770 (Jimenez, Yang, Wettig, Yao, Pei, Press, Narasimhan), v2 April 2024",
+          "schema:url": "https://arxiv.org/abs/2310.06770v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "SWE-Bench: Can Language Models Resolve Real-World GitHub Issues? (ICLR 2024)",
+          "dcterms:publisher": "ML Anthology, ICLR 2024 proceedings record",
+          "schema:url": "https://mlanthology.org/iclr/2024/jimenez2024iclr-swebench",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Introducing SWE-bench Verified",
+          "dcterms:publisher": "OpenAI, 13 August 2024 (updated 24 February 2025)",
+          "schema:url": "https://openai.com/index/introducing-swe-bench-verified/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "SWE-bench/SWE-bench (benchmark and evaluation harness repository)",
+          "dcterms:publisher": "SWE-bench maintainers on GitHub",
+          "schema:url": "https://github.com/SWE-bench/SWE-bench",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "princeton-nlp/SWE-bench_Lite dataset card",
+          "dcterms:publisher": "Hugging Face Datasets",
+          "schema:url": "https://huggingface.co/datasets/princeton-nlp/SWE-bench_Lite/blob/main/README.md",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "SWE-Bench+: Enhanced Coding Benchmark for LLMs",
+          "dcterms:publisher": "arXiv:2410.06992 (Aleithan, Xue, Mohajer, Nnorom, Uddin, Wang), October 2024",
+          "schema:url": "https://arxiv.org/abs/2410.06992v2",
+          "kto:sourceType": "preprint"
+        }
+      ],
+      "kto:file": "articles/evaluation-and-benchmarks/swe-bench.md",
+      "skos:altLabel": [
+        "SWE-Bench",
+        "SWE-bench Verified",
+        "SWE-bench Lite",
+        "Software Engineering Benchmark"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-evaluation"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:ai-agent"
+        },
+        {
+          "@id": "kt:tool-use"
+        },
+        {
+          "@id": "kt:benchmark-contamination"
+        },
+        {
+          "@id": "kt:test-time-compute"
+        },
+        {
+          "@id": "kt:swe-agent"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:swe-bench-can-language-models-resolve-real-world-github-issues"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:princeton-university"
         }
       ]
     },

@@ -2758,6 +2758,29 @@
     ]
   },
   {
+    "id": "kt:swe-bench",
+    "title": "SWE-bench",
+    "aliases": [
+      "SWE-Bench",
+      "SWE-bench Verified",
+      "SWE-bench Lite",
+      "Software Engineering Benchmark"
+    ],
+    "type": "Benchmark",
+    "domain": "evaluation-and-benchmarks",
+    "file": "articles/evaluation-and-benchmarks/swe-bench.md",
+    "created": "2026-11-13",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/abs/2310.06770v2",
+      "https://mlanthology.org/iclr/2024/jimenez2024iclr-swebench",
+      "https://openai.com/index/introducing-swe-bench-verified/",
+      "https://github.com/SWE-bench/SWE-bench",
+      "https://huggingface.co/datasets/princeton-nlp/SWE-bench_Lite/blob/main/README.md",
+      "https://arxiv.org/abs/2410.06992v2"
+    ]
+  },
+  {
     "id": "kt:sycophancy",
     "title": "Sycophancy",
     "aliases": [

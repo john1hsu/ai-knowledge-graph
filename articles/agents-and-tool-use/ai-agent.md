@@ -10,7 +10,7 @@ summary: >-
   feedback from the environment.
 maturity: emerging
 broader: [kt:artificial-intelligence]
-related: [kt:agentic-workflow, kt:multi-agent-systems, kt:agent-memory, kt:planning-in-llms, kt:agent2agent-protocol]
+related: [kt:swe-bench, kt:agentic-workflow, kt:multi-agent-systems, kt:agent-memory, kt:planning-in-llms, kt:agent2agent-protocol]
 relations:
   - {predicate: basedOn, object: kt:large-language-model}
   - {predicate: dependsOn, object: kt:tool-use}

@@ -167,6 +167,7 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s1> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s2> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s3> .
@@ -6671,6 +6672,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/supervised-learning/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/supervised-learning/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/supervised-learning/s4> <https://schema.org/url> "https://www.cs.princeton.edu/courses/archive/spring13/cos511/handouts/valiant.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s1> <http://purl.org/dc/terms/publisher> "arXiv:2310.06770 (Jimenez, Yang, Wettig, Yao, Pei, Press, Narasimhan), v2 April 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s1> <http://purl.org/dc/terms/title> "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s1> <https://schema.org/url> "https://arxiv.org/abs/2310.06770v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s2> <http://purl.org/dc/terms/publisher> "ML Anthology, ICLR 2024 proceedings record" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s2> <http://purl.org/dc/terms/title> "SWE-Bench: Can Language Models Resolve Real-World GitHub Issues? (ICLR 2024)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s2> <https://schema.org/url> "https://mlanthology.org/iclr/2024/jimenez2024iclr-swebench" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s3> <http://purl.org/dc/terms/publisher> "OpenAI, 13 August 2024 (updated 24 February 2025)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s3> <http://purl.org/dc/terms/title> "Introducing SWE-bench Verified" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s3> <https://schema.org/url> "https://openai.com/index/introducing-swe-bench-verified/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s4> <http://purl.org/dc/terms/publisher> "SWE-bench maintainers on GitHub" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s4> <http://purl.org/dc/terms/title> "SWE-bench/SWE-bench (benchmark and evaluation harness repository)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s4> <https://schema.org/url> "https://github.com/SWE-bench/SWE-bench" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s5> <http://purl.org/dc/terms/publisher> "Hugging Face Datasets" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s5> <http://purl.org/dc/terms/title> "princeton-nlp/SWE-bench_Lite dataset card" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s5> <https://schema.org/url> "https://huggingface.co/datasets/princeton-nlp/SWE-bench_Lite/blob/main/README.md" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s6> <http://purl.org/dc/terms/publisher> "arXiv:2410.06992 (Aleithan, Xue, Mohajer, Nnorom, Uddin, Wang), October 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s6> <http://purl.org/dc/terms/title> "SWE-Bench+: Enhanced Coding Benchmark for LLMs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "preprint" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s6> <https://schema.org/url> "https://arxiv.org/abs/2410.06992v2" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s1> <http://purl.org/dc/terms/publisher> "Findings of ACL 2023, pp. 13387–13434 (Perez, Ringer, Lukošiūtė, Nguyen et al., Anthropic)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s1> <http://purl.org/dc/terms/title> "Discovering Language Model Behaviors with Model-Written Evaluations" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -7211,6 +7242,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/empirical-risk-minimization> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Benchmark> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> <http://www.w3.org/2000/01/rdf-schema#label> "SWE-bench" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> <http://www.w3.org/2004/02/skos/core#altLabel> "SWE-Bench" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> <http://www.w3.org/2004/02/skos/core#altLabel> "SWE-bench Lite" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> <http://www.w3.org/2004/02/skos/core#altLabel> "SWE-bench Verified" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> <http://www.w3.org/2004/02/skos/core#altLabel> "Software Engineering Benchmark" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> <http://www.w3.org/2004/02/skos/core#definition> "A benchmark of 2,294 real GitHub issues from 12 popular Python repositories in which a model must edit the codebase to resolve each issue, graded by running the repository's own unit tests; introduced by Princeton researchers at ICLR 2024 and now a standard yardstick for coding agents." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> <http://www.w3.org/2004/02/skos/core#prefLabel> "SWE-bench" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/swe-agent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/test-time-compute> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/princeton-university> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "evaluation-and-benchmarks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench-can-language-models-resolve-real-world-github-issues> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Risk> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> <http://www.w3.org/2000/01/rdf-schema#label> "Sycophancy" .

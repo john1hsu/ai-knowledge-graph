@@ -290,6 +290,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:policy-iteration` | `kt:markov-decision-process` |
 | `kt:post-training` | `kt:instruction-tuning` |
 | `kt:pregel` | `kt:langgraph` |
+| `kt:princeton-university` | `kt:swe-bench` |
 | `kt:probabilistic-graphical-model` | `kt:conditional-random-field` |
 | `kt:process-reward-model` | `kt:test-time-compute` |
 | `kt:program-induction` | `kt:program-induction-by-rationale-generation` |
@@ -328,6 +329,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:structured-output` | `kt:tool-use` |
 | `kt:stylegan` | `kt:generative-adversarial-network` |
 | `kt:support-vector-machine` | `kt:perceptron` |
+| `kt:swe-agent` | `kt:swe-bench` |
+| `kt:swe-bench-can-language-models-resolve-real-world-github-issues` | `kt:swe-bench` |
 | `kt:swiglu` | `kt:activation-function` |
 | `kt:switchboard-corpus` | `kt:automatic-speech-recognition` |
 | `kt:symbol-grounding-problem` | `kt:chinese-room-argument` |
