@@ -13575,6 +13575,95 @@
       ]
     },
     {
+      "@id": "kt:self-attention",
+      "@type": "kto:Architecture",
+      "skos:prefLabel": "Self-attention",
+      "skos:definition": "An attention mechanism in which every position of a single sequence computes its new representation as a weighted sum over all positions of that same sequence, with weights derived from query-key similarity; it is the core layer of the transformer.",
+      "kto:domain": "transformers-and-llms",
+      "dcterms:created": "2026-11-13",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Attention is All you Need",
+          "dcterms:publisher": "Vaswani et al., Advances in Neural Information Processing Systems 30 (NIPS 2017)",
+          "schema:url": "https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "11.6. Self-Attention and Positional Encoding",
+          "dcterms:publisher": "Zhang, Lipton, Li and Smola, Dive into Deep Learning (d2l.ai)",
+          "schema:url": "https://d2l.ai/chapter_attention-mechanisms-and-transformers/self-attention-and-positional-encoding.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Long Short-Term Memory-Networks for Machine Reading",
+          "dcterms:publisher": "Cheng, Dong and Lapata, Proceedings of EMNLP 2016 (ACL Anthology D16-1053)",
+          "schema:url": "https://aclanthology.org/D16-1053.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Attention is not Explanation",
+          "dcterms:publisher": "Jain and Wallace, Proceedings of NAACL-HLT 2019 (ACL Anthology N19-1357)",
+          "schema:url": "https://aclanthology.org/N19-1357/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Efficient Transformers: A Survey",
+          "dcterms:publisher": "Tay, Dehghani, Bahri and Metzler (Google Research), arXiv:2009.06732v3 (March 2022)",
+          "schema:url": "https://arxiv.org/pdf/2009.06732",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/transformers-and-llms/self-attention.md",
+      "skos:altLabel": [
+        "intra-attention",
+        "scaled dot-product self-attention"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:attention-mechanism"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:positional-encoding"
+        },
+        {
+          "@id": "kt:attention-is-all-you-need"
+        },
+        {
+          "@id": "kt:context-window"
+        },
+        {
+          "@id": "kt:kv-cache"
+        },
+        {
+          "@id": "kt:flash-attention"
+        },
+        {
+          "@id": "kt:mechanistic-interpretability"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:long-short-term-memory-networks-for-machine-reading"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:transformer-architecture"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:recurrent-neural-network"
+        },
+        {
+          "@id": "kt:convolutional-neural-network"
+        }
+      ]
+    },
+    {
       "@id": "kt:sequence-to-sequence-learning",
       "@type": "kto:Paradigm",
       "skos:prefLabel": "Sequence-to-sequence learning",

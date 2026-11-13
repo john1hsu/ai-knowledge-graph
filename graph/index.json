@@ -2712,6 +2712,26 @@
     ]
   },
   {
+    "id": "kt:self-attention",
+    "title": "Self-attention",
+    "aliases": [
+      "intra-attention",
+      "scaled dot-product self-attention"
+    ],
+    "type": "Architecture",
+    "domain": "transformers-and-llms",
+    "file": "articles/transformers-and-llms/self-attention.md",
+    "created": "2026-11-13",
+    "maturity": "established",
+    "source_urls": [
+      "https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf",
+      "https://d2l.ai/chapter_attention-mechanisms-and-transformers/self-attention-and-positional-encoding.html",
+      "https://aclanthology.org/D16-1053.pdf",
+      "https://aclanthology.org/N19-1357/",
+      "https://arxiv.org/pdf/2009.06732"
+    ]
+  },
+  {
     "id": "kt:self-consistency",
     "title": "Self-consistency",
     "aliases": [
