@@ -4,10 +4,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:pytorch` | `kt:data-parallelism`, `kt:hugging-face-transformers`, `kt:faster-r-cnn`, `kt:adam-optimizer`, `kt:backpropagation`, `kt:dropout`, `kt:long-short-term-memory`, `kt:model-pruning`, `kt:tensorrt-llm` |
+| `kt:distributed-training` | `kt:cuda`, `kt:data-parallelism`, `kt:mlops`, `kt:nvidia`, `kt:pytorch`, `kt:tpu`, `kt:pretraining` |
 | `kt:vllm` | `kt:hugging-face-transformers`, `kt:model-serving`, `kt:awq`, `kt:awq`, `kt:batching-and-paged-attention`, `kt:speculative-decoding`, `kt:tensorrt-llm` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:dartmouth-workshop`, `kt:turing-test`, `kt:ai-governance`, `kt:machine-learning`, `kt:ai-safety` |
-| `kt:distributed-training` | `kt:cuda`, `kt:data-parallelism`, `kt:mlops`, `kt:nvidia`, `kt:tpu`, `kt:pretraining` |
 | `kt:eu-ai-act` | `kt:ai-governance`, `kt:algorithmic-bias-and-fairness`, `kt:compute-governance`, `kt:executive-orders-on-ai`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda` |
 | `kt:regularization` | `kt:dropout`, `kt:model-pruning`, `kt:bias-variance-tradeoff`, `kt:conditional-random-field`, `kt:double-descent`, `kt:overfitting` |
 | `kt:ai-accelerator` | `kt:high-bandwidth-memory`, `kt:model-serving`, `kt:tpu`, `kt:ai-chip-export-controls`, `kt:compute-governance` |
@@ -54,12 +53,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
 | `kt:adversarial-machine-learning` | `kt:ai-safety`, `kt:jailbreak` |
 | `kt:apache-lucene` | `kt:bm25`, `kt:tf-idf` |
+| `kt:automatic-differentiation` | `kt:pytorch`, `kt:backpropagation` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:yolo` |
 | `kt:batch-normalization` | `kt:data-parallelism`, `kt:yolo` |
 | `kt:computing-power-and-the-governance-of-artificial-intelligence` | `kt:compute-governance`, `kt:compute-governance` |
 | `kt:cross-validation` | `kt:bias-variance-tradeoff`, `kt:overfitting` |
 | `kt:curse-of-dimensionality` | `kt:universal-approximation-theorem`, `kt:dimensionality-reduction` |
 | `kt:deep-belief-network` | `kt:geoffrey-hinton`, `kt:deep-learning` |
+| `kt:deep-learning-framework` | `kt:hugging-face-transformers`, `kt:pytorch` |
 | `kt:double-q-learning` | `kt:deep-q-network`, `kt:q-learning` |
 | `kt:export-control-reform-act` | `kt:ai-chip-export-controls`, `kt:bureau-of-industry-and-security` |
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
@@ -68,6 +69,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:kv-cache` | `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
 | `kt:latent-semantic-analysis` | `kt:glove`, `kt:semantic-search` |
 | `kt:marvin-minsky` | `kt:dartmouth-workshop`, `kt:perceptron` |
+| `kt:meta-ai` | `kt:toolformer`, `kt:pytorch` |
 | `kt:model-cards` | `kt:algorithmic-bias-and-fairness`, `kt:omb-ai-memoranda` |
 | `kt:model-context-protocol` | `kt:agent2agent-protocol`, `kt:tool-use` |
 | `kt:named-entity-recognition` | `kt:conditional-random-field`, `kt:glove` |
@@ -112,7 +114,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:asynchronous-advantage-actor-critic` | `kt:actor-critic` |
 | `kt:autoencoder` | `kt:dimensionality-reduction` |
 | `kt:automated-theorem-proving` | `kt:logic-theorist` |
-| `kt:automatic-differentiation` | `kt:backpropagation` |
 | `kt:awq-activation-aware-weight-quantization-for-llm-compression-and-acceleration` | `kt:awq` |
 | `kt:backpropagation-through-time` | `kt:recurrent-neural-network` |
 | `kt:beir-a-heterogeneous-benchmark-for-zero-shot-evaluation-of-information-retrieval-models` | `kt:beir` |
@@ -145,7 +146,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dan-hendrycks` | `kt:mmlu` |
 | `kt:data-drift` | `kt:mlops` |
 | `kt:data-poisoning` | `kt:benchmark-contamination` |
-| `kt:deep-learning-framework` | `kt:hugging-face-transformers` |
 | `kt:deep-reinforcement-learning-from-human-preferences` | `kt:rlhf` |
 | `kt:deep-unsupervised-learning-using-nonequilibrium-thermodynamics` | `kt:diffusion-model` |
 | `kt:devops` | `kt:mlops` |
@@ -243,7 +243,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:maximum-entropy-markov-model` | `kt:conditional-random-field` |
 | `kt:membership-inference-attack` | `kt:benchmark-contamination` |
 | `kt:memory-wall` | `kt:high-bandwidth-memory` |
-| `kt:meta-ai` | `kt:toolformer` |
 | `kt:michael-wooldridge` | `kt:multi-agent-systems` |
 | `kt:microsoft-agent-framework` | `kt:autogen` |
 | `kt:microsoft-research` | `kt:autogen` |
@@ -283,6 +282,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:process-reward-model` | `kt:test-time-compute` |
 | `kt:program-induction` | `kt:program-induction-by-rationale-generation` |
 | `kt:proximal-policy-optimization-algorithms` | `kt:proximal-policy-optimization` |
+| `kt:pytorch-an-imperative-style-high-performance-deep-learning-library` | `kt:pytorch` |
 | `kt:qlora-efficient-finetuning-of-quantized-llms` | `kt:qlora` |
 | `kt:quiet-star` | `kt:star-self-taught-reasoner` |
 | `kt:realm` | `kt:retrieval-augmented-generation` |

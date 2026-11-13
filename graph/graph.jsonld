@@ -2387,6 +2387,97 @@
       ]
     },
     {
+      "@id": "kt:pytorch",
+      "@type": "kto:Tool",
+      "skos:prefLabel": "PyTorch",
+      "skos:definition": "An open-source deep learning framework, begun at Meta (then Facebook) AI in 2016 and governed since 2022 by the PyTorch Foundation under the Linux Foundation, that pairs GPU-accelerated tensors with an imperative, define-by-run programming model and reverse-mode automatic differentiation, plus the torch.compile graph compiler.",
+      "kto:domain": "ai-infrastructure-and-mlops",
+      "dcterms:created": "2026-11-13",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "PyTorch: An Imperative Style, High-Performance Deep Learning Library",
+          "dcterms:publisher": "Advances in Neural Information Processing Systems 32 (NeurIPS 2019), Paszke et al.",
+          "schema:url": "https://papers.nips.cc/paper/9015-pytorch",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Autograd mechanics (PyTorch 2.2 documentation)",
+          "dcterms:publisher": "PyTorch documentation",
+          "schema:url": "https://docs.pytorch.org/docs/2.2/notes/autograd.html",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "PyTorch 2 paper and tutorial @ ASPLOS 2024",
+          "dcterms:publisher": "PyTorch blog, 6 February 2024",
+          "schema:url": "https://pytorch.org/blog/pytorch-2-paper-tutorial/",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Meta Transitions PyTorch to the Linux Foundation, Further Accelerating AI/ML Open Source Collaboration",
+          "dcterms:publisher": "The Linux Foundation, press release, 12 September 2022",
+          "schema:url": "https://linuxfoundation.org/press-release/meta-transitions-pytorch-to-the-linux-foundation/",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "PyTorch Foundation (announcement of PyTorch's move to the Linux Foundation)",
+          "dcterms:publisher": "Meta AI blog, 12 September 2022",
+          "schema:url": "https://ai.meta.com/blog/pytorch-foundation/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "PyTorch 2.14 Release Blog",
+          "dcterms:publisher": "PyTorch blog, 2 September 2026",
+          "schema:url": "https://pytorch.org/blog/pytorch-2-14-release-blog/",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/ai-infrastructure-and-mlops/pytorch.md",
+      "skos:altLabel": [
+        "torch"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:deep-learning-framework"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:automatic-differentiation"
+        },
+        {
+          "@id": "kt:hugging-face-transformers"
+        },
+        {
+          "@id": "kt:data-parallelism"
+        },
+        {
+          "@id": "kt:distributed-training"
+        },
+        {
+          "@id": "kt:backpropagation"
+        },
+        {
+          "@id": "kt:gpu-computing"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:meta-ai"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:pytorch-an-imperative-style-high-performance-deep-learning-library"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:cuda"
+        }
+      ]
+    },
+    {
       "@id": "kt:tpu",
       "@type": "kto:Hardware",
       "skos:prefLabel": "Tensor Processing Unit",

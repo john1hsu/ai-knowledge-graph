@@ -2549,6 +2549,30 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization-algorithms> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Tool> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> <http://www.w3.org/2000/01/rdf-schema#label> "PyTorch" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> <http://www.w3.org/2004/02/skos/core#altLabel> "torch" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning-framework> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> <http://www.w3.org/2004/02/skos/core#definition> "An open-source deep learning framework, begun at Meta (then Facebook) AI in 2016 and governed since 2022 by the PyTorch Foundation under the Linux Foundation, that pairs GPU-accelerated tensors with an imperative, define-by-run programming model and reverse-mode automatic differentiation, plus the torch.compile graph compiler." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> <http://www.w3.org/2004/02/skos/core#prefLabel> "PyTorch" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/automatic-differentiation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/data-parallelism> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/meta-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/cuda> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-infrastructure-and-mlops" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/pytorch-an-imperative-style-high-performance-deep-learning-library> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <http://www.w3.org/2000/01/rdf-schema#label> "Q-learning" .
@@ -5776,6 +5800,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s6> <https://schema.org/url> "https://arxiv.org/html/2402.03300v3" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s1> <http://purl.org/dc/terms/publisher> "Advances in Neural Information Processing Systems 32 (NeurIPS 2019), Paszke et al." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s1> <http://purl.org/dc/terms/title> "PyTorch: An Imperative Style, High-Performance Deep Learning Library" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s1> <https://schema.org/url> "https://papers.nips.cc/paper/9015-pytorch" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s2> <http://purl.org/dc/terms/publisher> "PyTorch documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s2> <http://purl.org/dc/terms/title> "Autograd mechanics (PyTorch 2.2 documentation)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s2> <https://schema.org/url> "https://docs.pytorch.org/docs/2.2/notes/autograd.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s3> <http://purl.org/dc/terms/publisher> "PyTorch blog, 6 February 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s3> <http://purl.org/dc/terms/title> "PyTorch 2 paper and tutorial @ ASPLOS 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s3> <https://schema.org/url> "https://pytorch.org/blog/pytorch-2-paper-tutorial/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s4> <http://purl.org/dc/terms/publisher> "The Linux Foundation, press release, 12 September 2022" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s4> <http://purl.org/dc/terms/title> "Meta Transitions PyTorch to the Linux Foundation, Further Accelerating AI/ML Open Source Collaboration" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s4> <https://schema.org/url> "https://linuxfoundation.org/press-release/meta-transitions-pytorch-to-the-linux-foundation/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s5> <http://purl.org/dc/terms/publisher> "Meta AI blog, 12 September 2022" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s5> <http://purl.org/dc/terms/title> "PyTorch Foundation (announcement of PyTorch's move to the Linux Foundation)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s5> <https://schema.org/url> "https://ai.meta.com/blog/pytorch-foundation/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s6> <http://purl.org/dc/terms/publisher> "PyTorch blog, 2 September 2026" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s6> <http://purl.org/dc/terms/title> "PyTorch 2.14 Release Blog" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pytorch/s6> <https://schema.org/url> "https://pytorch.org/blog/pytorch-2-14-release-blog/" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s1> <http://purl.org/dc/terms/publisher> "Machine Learning 8:279-292, 1992 (Watkins and Dayan), via ML Anthology" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s1> <http://purl.org/dc/terms/title> "Technical Note: Q-Learning" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

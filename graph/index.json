@@ -2162,6 +2162,26 @@
     ]
   },
   {
+    "id": "kt:pytorch",
+    "title": "PyTorch",
+    "aliases": [
+      "torch"
+    ],
+    "type": "Tool",
+    "domain": "ai-infrastructure-and-mlops",
+    "file": "articles/ai-infrastructure-and-mlops/pytorch.md",
+    "created": "2026-11-13",
+    "maturity": "established",
+    "source_urls": [
+      "https://papers.nips.cc/paper/9015-pytorch",
+      "https://docs.pytorch.org/docs/2.2/notes/autograd.html",
+      "https://pytorch.org/blog/pytorch-2-paper-tutorial/",
+      "https://linuxfoundation.org/press-release/meta-transitions-pytorch-to-the-linux-foundation/",
+      "https://ai.meta.com/blog/pytorch-foundation/",
+      "https://pytorch.org/blog/pytorch-2-14-release-blog/"
+    ]
+  },
+  {
     "id": "kt:q-learning",
     "title": "Q-learning",
     "aliases": [
