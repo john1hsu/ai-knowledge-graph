@@ -17,9 +17,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:statistical-learning-theory` | `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:overfitting`, `kt:regularization`, `kt:supervised-learning` |
 | `kt:agent-memory` | `kt:ai-agent`, `kt:generative-agents-interactive-simulacra-of-human-behavior`, `kt:langgraph`, `kt:voyager` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
+| `kt:hybrid-search` | `kt:bm25`, `kt:bm25`, `kt:reranking`, `kt:semantic-search` |
 | `kt:model-compression` | `kt:gptq`, `kt:model-pruning`, `kt:quantization`, `kt:knowledge-distillation` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent`, `kt:generative-agents-interactive-simulacra-of-human-behavior`, `kt:voyager` |
-| `kt:reranking` | `kt:beir`, `kt:bm25`, `kt:retrieval-augmented-generation`, `kt:semantic-search` |
 | `kt:self-attention` | `kt:flash-attention`, `kt:attention-is-all-you-need`, `kt:context-window`, `kt:transformer-architecture` |
 | `kt:symbolic-ai` | `kt:dartmouth-workshop`, `kt:eliza`, `kt:expert-systems`, `kt:logic-theorist` |
 | `kt:tensor-cores` | `kt:gpu-computing`, `kt:nvidia`, `kt:model-pruning`, `kt:tensorrt-llm` |
@@ -35,7 +35,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:google-deepmind` | `kt:alphago`, `kt:alphazero`, `kt:deep-q-network` |
 | `kt:gradient-descent` | `kt:adam-optimizer`, `kt:backpropagation`, `kt:deep-learning` |
 | `kt:hugging-face-trl` | `kt:direct-preference-optimization`, `kt:instruction-tuning`, `kt:rlhf` |
-| `kt:hybrid-search` | `kt:bm25`, `kt:bm25`, `kt:semantic-search` |
 | `kt:kv-cache` | `kt:batching-and-paged-attention`, `kt:speculative-decoding`, `kt:vllm` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
 | `kt:ms-coco` | `kt:faster-r-cnn`, `kt:object-detection`, `kt:yolo` |
@@ -54,6 +53,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:automatic-differentiation` | `kt:pytorch`, `kt:backpropagation` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:yolo` |
 | `kt:batch-normalization` | `kt:data-parallelism`, `kt:yolo` |
+| `kt:bert` | `kt:reranking`, `kt:transformer-architecture` |
 | `kt:chatbot-arena` | `kt:llm-as-a-judge`, `kt:vllm` |
 | `kt:computer-vision` | `kt:image-classification`, `kt:object-detection` |
 | `kt:computing-power-and-the-governance-of-artificial-intelligence` | `kt:compute-governance`, `kt:compute-governance` |
@@ -117,7 +117,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:backpropagation-through-time` | `kt:recurrent-neural-network` |
 | `kt:beir-a-heterogeneous-benchmark-for-zero-shot-evaluation-of-information-retrieval-models` | `kt:beir` |
 | `kt:berkeley-function-calling-leaderboard` | `kt:tool-use` |
-| `kt:bert` | `kt:transformer-architecture` |
 | `kt:big-bench` | `kt:emergent-abilities` |
 | `kt:boltzmann-machine` | `kt:geoffrey-hinton` |
 | `kt:bradley-terry-model` | `kt:direct-preference-optimization` |
@@ -132,6 +131,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cifar-10` | `kt:image-classification` |
 | `kt:cliff-shaw` | `kt:logic-theorist` |
 | `kt:clipper-prediction-serving-system` | `kt:model-serving` |
+| `kt:colbert` | `kt:reranking` |
 | `kt:commonsense-reasoning` | `kt:commonsenseqa` |
 | `kt:commonsenseqa-2-0` | `kt:commonsenseqa` |
 | `kt:commonsenseqa-a-question-answering-challenge-targeting-commonsense-knowledge` | `kt:commonsenseqa` |
@@ -234,6 +234,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:latent-diffusion-model` | `kt:diffusion-model` |
 | `kt:layer-normalization` | `kt:transformer-architecture` |
 | `kt:learning-representations-by-back-propagating-errors` | `kt:backpropagation` |
+| `kt:learning-to-rank` | `kt:reranking` |
 | `kt:learning-to-reason-with-llms` | `kt:reasoning-models` |
 | `kt:learning-transferable-visual-models-from-natural-language-supervision` | `kt:clip` |
 | `kt:lenet` | `kt:imagenet-and-alexnet` |
@@ -267,6 +268,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:model-registry` | `kt:mlops` |
 | `kt:monte-carlo-dropout` | `kt:dropout` |
 | `kt:mrkl-systems` | `kt:tool-use` |
+| `kt:ms-marco` | `kt:reranking` |
 | `kt:mt-bench` | `kt:llm-as-a-judge` |
 | `kt:mteb` | `kt:beir` |
 | `kt:multi-armed-bandit` | `kt:exploration-exploitation` |

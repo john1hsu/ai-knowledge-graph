@@ -10571,6 +10571,111 @@
       ]
     },
     {
+      "@id": "kt:reranking",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Reranking",
+      "skos:definition": "A second retrieval stage in which a slower, more accurate model rescores and reorders the top candidates returned by a fast first-stage retriever, so that the most relevant results rise to the top of the list.",
+      "kto:domain": "retrieval-and-knowledge",
+      "dcterms:created": "2026-11-13",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Passage Re-ranking with BERT",
+          "dcterms:publisher": "arXiv:1901.04085 (Nogueira and Cho), v5, April 2020",
+          "schema:url": "https://arxiv.org/pdf/1901.04085",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT",
+          "dcterms:publisher": "SIGIR 2020 (Khattab and Zaharia); author copy hosted at UC Berkeley",
+          "schema:url": "https://people.eecs.berkeley.edu/~matei/papers/2020/sigir_colbert.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents",
+          "dcterms:publisher": "EMNLP 2023, pages 14918-14937 (Sun, Yan, Ma, Wang, Ren, Chen, Yin and Ren)",
+          "schema:url": "https://aclanthology.org/2023.emnlp-main.923",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Is ChatGPT Good at Search? (full text, v3)",
+          "dcterms:publisher": "arXiv:2304.09542 (Sun et al.), authors' version",
+          "schema:url": "https://arxiv.org/html/2304.09542v3",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Retrieve & Re-Rank",
+          "dcterms:publisher": "Sentence Transformers documentation (sbert.net)",
+          "schema:url": "https://sbert.net/examples/applications/retrieve_rerank",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "CS276 Lecture 15: Learning to Rank",
+          "dcterms:publisher": "Stanford University, CS276 Information Retrieval and Web Search (Manning and Nayak)",
+          "schema:url": "https://web.stanford.edu/class/cs276/handouts/lecture15-learning-ranking-handouts-6-per.pdf",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/retrieval-and-knowledge/reranking.md",
+      "skos:altLabel": [
+        "re-ranking",
+        "neural reranking",
+        "second-stage ranking",
+        "cross-encoder reranking",
+        "passage re-ranking"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:information-retrieval"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:semantic-search"
+        },
+        {
+          "@id": "kt:hybrid-search"
+        },
+        {
+          "@id": "kt:learning-to-rank"
+        },
+        {
+          "@id": "kt:colbert"
+        },
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:bm25"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:bert"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:retrieval-augmented-generation"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:beir"
+        },
+        {
+          "@id": "kt:ms-marco"
+        }
+      ],
+      "kto:trainedWith": [
+        {
+          "@id": "kt:knowledge-distillation"
+        }
+      ]
+    },
+    {
       "@id": "kt:retrieval-augmented-generation",
       "@type": "kto:Technique",
       "skos:prefLabel": "Retrieval-augmented generation for knowledge-intensive tasks",

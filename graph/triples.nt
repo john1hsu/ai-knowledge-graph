@@ -2976,6 +2976,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <http://www.w3.org/2000/01/rdf-schema#label> "Reranking" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <http://www.w3.org/2004/02/skos/core#altLabel> "cross-encoder reranking" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <http://www.w3.org/2004/02/skos/core#altLabel> "neural reranking" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <http://www.w3.org/2004/02/skos/core#altLabel> "passage re-ranking" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <http://www.w3.org/2004/02/skos/core#altLabel> "re-ranking" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <http://www.w3.org/2004/02/skos/core#altLabel> "second-stage ranking" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <http://www.w3.org/2004/02/skos/core#definition> "A second retrieval stage in which a slower, more accurate model rescores and reorders the top candidates returned by a fast first-stage retriever, so that the most relevant results rise to the top of the list." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reranking" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/colbert> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/hybrid-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/learning-to-rank> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/bert> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/bm25> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "retrieval-and-knowledge" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/beir> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/ms-marco> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> <http://www.w3.org/2000/01/rdf-schema#label> "Retrieval-augmented generation for knowledge-intensive tasks" .
@@ -6432,6 +6462,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s5> <https://schema.org/url> "https://research.google/pubs/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s1> <http://purl.org/dc/terms/publisher> "arXiv:1901.04085 (Nogueira and Cho), v5, April 2020" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s1> <http://purl.org/dc/terms/title> "Passage Re-ranking with BERT" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s1> <https://schema.org/url> "https://arxiv.org/pdf/1901.04085" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s2> <http://purl.org/dc/terms/publisher> "SIGIR 2020 (Khattab and Zaharia); author copy hosted at UC Berkeley" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s2> <http://purl.org/dc/terms/title> "ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s2> <https://schema.org/url> "https://people.eecs.berkeley.edu/~matei/papers/2020/sigir_colbert.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s3> <http://purl.org/dc/terms/publisher> "EMNLP 2023, pages 14918-14937 (Sun, Yan, Ma, Wang, Ren, Chen, Yin and Ren)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s3> <http://purl.org/dc/terms/title> "Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s3> <https://schema.org/url> "https://aclanthology.org/2023.emnlp-main.923" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s4> <http://purl.org/dc/terms/publisher> "arXiv:2304.09542 (Sun et al.), authors' version" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s4> <http://purl.org/dc/terms/title> "Is ChatGPT Good at Search? (full text, v3)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s4> <https://schema.org/url> "https://arxiv.org/html/2304.09542v3" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s5> <http://purl.org/dc/terms/publisher> "Sentence Transformers documentation (sbert.net)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s5> <http://purl.org/dc/terms/title> "Retrieve & Re-Rank" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s5> <https://schema.org/url> "https://sbert.net/examples/applications/retrieve_rerank" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s6> <http://purl.org/dc/terms/publisher> "Stanford University, CS276 Information Retrieval and Web Search (Manning and Nayak)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s6> <http://purl.org/dc/terms/title> "CS276 Lecture 15: Learning to Rank" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s6> <https://schema.org/url> "https://web.stanford.edu/class/cs276/handouts/lecture15-learning-ranking-handouts-6-per.pdf" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/retrieval-augmented-generation/s1> <http://purl.org/dc/terms/publisher> "Advances in Neural Information Processing Systems 33 (NeurIPS 2020), pp. 9459-9474 (Lewis, Perez, Piktus, Petroni, Karpukhin, Goyal, Küttler, Lewis, Yih, Rocktäschel, Riedel and Kiela)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/retrieval-augmented-generation/s1> <http://purl.org/dc/terms/title> "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/retrieval-augmented-generation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

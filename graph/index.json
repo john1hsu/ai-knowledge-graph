@@ -2508,6 +2508,30 @@
     ]
   },
   {
+    "id": "kt:reranking",
+    "title": "Reranking",
+    "aliases": [
+      "re-ranking",
+      "neural reranking",
+      "second-stage ranking",
+      "cross-encoder reranking",
+      "passage re-ranking"
+    ],
+    "type": "Technique",
+    "domain": "retrieval-and-knowledge",
+    "file": "articles/retrieval-and-knowledge/reranking.md",
+    "created": "2026-11-13",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/pdf/1901.04085",
+      "https://people.eecs.berkeley.edu/~matei/papers/2020/sigir_colbert.pdf",
+      "https://aclanthology.org/2023.emnlp-main.923",
+      "https://arxiv.org/html/2304.09542v3",
+      "https://sbert.net/examples/applications/retrieve_rerank",
+      "https://web.stanford.edu/class/cs276/handouts/lecture15-learning-ranking-handouts-6-per.pdf"
+    ]
+  },
+  {
     "id": "kt:retrieval-augmented-generation",
     "title": "Retrieval-augmented generation for knowledge-intensive tasks",
     "aliases": [
