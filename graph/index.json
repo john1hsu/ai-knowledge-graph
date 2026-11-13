@@ -1456,6 +1456,27 @@
     ]
   },
   {
+    "id": "kt:image-classification",
+    "title": "Image classification",
+    "aliases": [
+      "image recognition",
+      "visual classification",
+      "image categorization"
+    ],
+    "type": "Application",
+    "domain": "computer-vision-and-multimodal",
+    "file": "articles/computer-vision-and-multimodal/image-classification.md",
+    "created": "2026-11-13",
+    "maturity": "established",
+    "source_urls": [
+      "https://cs231n.Stanford.edu/slides/2024/lecture_2.pdf",
+      "https://d2l.ai/chapter_linear-classification/softmax-regression.html",
+      "https://arxiv.org/pdf/1409.0575",
+      "https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html",
+      "https://proceedings.mlr.press/v97/recht19a"
+    ]
+  },
+  {
     "id": "kt:imagenet-and-alexnet",
     "title": "ImageNet and AlexNet",
     "aliases": [

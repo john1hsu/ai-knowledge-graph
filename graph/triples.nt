@@ -1711,6 +1711,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/transformers-state-of-the-art-natural-language-processing> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/vllm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Application> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> <http://www.w3.org/2000/01/rdf-schema#label> "Image classification" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> <http://www.w3.org/2004/02/skos/core#altLabel> "image categorization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> <http://www.w3.org/2004/02/skos/core#altLabel> "image recognition" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> <http://www.w3.org/2004/02/skos/core#altLabel> "visual classification" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> <http://www.w3.org/2004/02/skos/core#definition> "The computer vision task of assigning an entire image one label (or, in the multi-label variant, several labels) from a fixed set of categories, usually by training a model such as a convolutional network or vision transformer on labeled examples; it is the benchmark task on which much of modern deep learning was developed." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> <http://www.w3.org/2004/02/skos/core#prefLabel> "Image classification" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/image-classification/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/image-classification/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/image-classification/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/image-classification/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/image-classification/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/object-detection> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/softmax-regression> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "computer-vision-and-multimodal" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/cifar-10> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/ilsvrc> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Event> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> <http://www.w3.org/2000/01/rdf-schema#label> "ImageNet and AlexNet" .
@@ -4930,6 +4956,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s4> <https://schema.org/url> "https://huggingface.co/docs/hub/transformers" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-classification/s1> <http://purl.org/dc/terms/publisher> "Stanford University CS231n, Deep Learning for Computer Vision (lecture slides)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-classification/s1> <http://purl.org/dc/terms/title> "Lecture 2: Image Classification with Linear Classifiers (CS231n, 2024)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-classification/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-classification/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-classification/s1> <https://schema.org/url> "https://cs231n.Stanford.edu/slides/2024/lecture_2.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-classification/s2> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (d2l.ai)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-classification/s2> <http://purl.org/dc/terms/title> "4.1. Softmax Regression" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-classification/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-classification/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-classification/s2> <https://schema.org/url> "https://d2l.ai/chapter_linear-classification/softmax-regression.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-classification/s3> <http://purl.org/dc/terms/publisher> "Russakovsky, Deng, Su, Krause, Satheesh, Ma, Huang, Karpathy, Khosla, Bernstein, Berg and Fei-Fei (authors' arXiv version of the IJCV 2015 paper, 1409.0575)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-classification/s3> <http://purl.org/dc/terms/title> "ImageNet Large Scale Visual Recognition Challenge" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-classification/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-classification/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-classification/s3> <https://schema.org/url> "https://arxiv.org/pdf/1409.0575" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-classification/s4> <http://purl.org/dc/terms/publisher> "He, Zhang, Ren and Sun, CVPR 2016 (CVF Open Access)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-classification/s4> <http://purl.org/dc/terms/title> "Deep Residual Learning for Image Recognition" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-classification/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-classification/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-classification/s4> <https://schema.org/url> "https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-classification/s5> <http://purl.org/dc/terms/publisher> "Recht, Roelofs, Schmidt and Shankar, ICML 2019 (PMLR volume 97)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-classification/s5> <http://purl.org/dc/terms/title> "Do ImageNet Classifiers Generalize to ImageNet?" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-classification/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-classification/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-classification/s5> <https://schema.org/url> "https://proceedings.mlr.press/v97/recht19a" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s1> <http://purl.org/dc/terms/publisher> "NIPS 2012 (Krizhevsky, Sutskever and Hinton), abstract page" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s1> <http://purl.org/dc/terms/title> "ImageNet Classification with Deep Convolutional Neural Networks" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/imagenet-and-alexnet/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

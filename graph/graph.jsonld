@@ -3207,6 +3207,96 @@
       ]
     },
     {
+      "@id": "kt:image-classification",
+      "@type": "kto:Application",
+      "skos:prefLabel": "Image classification",
+      "skos:definition": "The computer vision task of assigning an entire image one label (or, in the multi-label variant, several labels) from a fixed set of categories, usually by training a model such as a convolutional network or vision transformer on labeled examples; it is the benchmark task on which much of modern deep learning was developed.",
+      "kto:domain": "computer-vision-and-multimodal",
+      "dcterms:created": "2026-11-13",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Lecture 2: Image Classification with Linear Classifiers (CS231n, 2024)",
+          "dcterms:publisher": "Stanford University CS231n, Deep Learning for Computer Vision (lecture slides)",
+          "schema:url": "https://cs231n.Stanford.edu/slides/2024/lecture_2.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "4.1. Softmax Regression",
+          "dcterms:publisher": "Dive into Deep Learning (d2l.ai)",
+          "schema:url": "https://d2l.ai/chapter_linear-classification/softmax-regression.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "ImageNet Large Scale Visual Recognition Challenge",
+          "dcterms:publisher": "Russakovsky, Deng, Su, Krause, Satheesh, Ma, Huang, Karpathy, Khosla, Bernstein, Berg and Fei-Fei (authors' arXiv version of the IJCV 2015 paper, 1409.0575)",
+          "schema:url": "https://arxiv.org/pdf/1409.0575",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Deep Residual Learning for Image Recognition",
+          "dcterms:publisher": "He, Zhang, Ren and Sun, CVPR 2016 (CVF Open Access)",
+          "schema:url": "https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Do ImageNet Classifiers Generalize to ImageNet?",
+          "dcterms:publisher": "Recht, Roelofs, Schmidt and Shankar, ICML 2019 (PMLR volume 97)",
+          "schema:url": "https://proceedings.mlr.press/v97/recht19a",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/computer-vision-and-multimodal/image-classification.md",
+      "skos:altLabel": [
+        "image recognition",
+        "visual classification",
+        "image categorization"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:computer-vision"
+        },
+        {
+          "@id": "kt:supervised-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:convolutional-neural-network"
+        },
+        {
+          "@id": "kt:imagenet-and-alexnet"
+        },
+        {
+          "@id": "kt:residual-connection"
+        },
+        {
+          "@id": "kt:vision-transformer"
+        },
+        {
+          "@id": "kt:an-image-is-worth-16x16-words"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:object-detection"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:ilsvrc"
+        },
+        {
+          "@id": "kt:cifar-10"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:softmax-regression"
+        }
+      ]
+    },
+    {
       "@id": "kt:object-detection",
       "@type": "kto:Application",
       "skos:prefLabel": "Object detection",
