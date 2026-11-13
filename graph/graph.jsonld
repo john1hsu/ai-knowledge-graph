@@ -1768,6 +1768,83 @@
       ]
     },
     {
+      "@id": "kt:symbolic-ai",
+      "@type": "kto:Paradigm",
+      "skos:prefLabel": "Symbolic AI",
+      "skos:definition": "The approach to artificial intelligence that represents knowledge as explicit, human-readable symbol structures and produces intelligent behaviour by manipulating them with rules, logic and search; it dominated AI research from the 1950s through the 1980s and contrasts with the connectionist, neural-network approach.",
+      "kto:domain": "ai-history",
+      "dcterms:created": "2026-11-13",
+      "kto:maturity": "historical",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Computer Science as Empirical Inquiry: Symbols and Search (1975 ACM Turing Award Lecture)",
+          "dcterms:publisher": "A. Newell and H. A. Simon, Communications of the ACM 19(3), March 1976 (scan held by the Computer History Museum)",
+          "schema:url": "https://www.computerhistory.org/chess/doc-431614f691642/",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Artificial intelligence: Methods and goals in AI",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/technology/artificial-intelligence/Methods-and-goals-in-AI",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Logic-Based Artificial Intelligence",
+          "dcterms:publisher": "R. Thomason, Stanford Encyclopedia of Philosophy (substantive revision 2024-02-27)",
+          "schema:url": "https://plato.stanford.edu/entries/logic-ai/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence",
+          "dcterms:publisher": "G. Marcus, arXiv:2002.06177, 2020",
+          "schema:url": "https://arxiv.org/abs/2002.06177v3",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Artificial Intelligence: A General Survey (The Lighthill Report)",
+          "dcterms:publisher": "J. Lighthill, in \"Artificial Intelligence: A Paper Symposium\", Science Research Council (AITopics classics archive)",
+          "schema:url": "https://aitopics.org/doc/classics:D8235CF9",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/ai-history/symbolic-ai.md",
+      "skos:altLabel": [
+        "symbolic artificial intelligence",
+        "GOFAI",
+        "good old-fashioned AI",
+        "top-down AI"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:artificial-intelligence"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:expert-systems"
+        },
+        {
+          "@id": "kt:logic-theorist"
+        },
+        {
+          "@id": "kt:knowledge-representation"
+        },
+        {
+          "@id": "kt:neuro-symbolic-ai"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:physical-symbol-system-hypothesis"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:connectionism"
+        }
+      ]
+    },
+    {
       "@id": "kt:turing-test",
       "@type": "kto:Concept",
       "skos:prefLabel": "Turing test",

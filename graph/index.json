@@ -2972,6 +2972,28 @@
     ]
   },
   {
+    "id": "kt:symbolic-ai",
+    "title": "Symbolic AI",
+    "aliases": [
+      "symbolic artificial intelligence",
+      "GOFAI",
+      "good old-fashioned AI",
+      "top-down AI"
+    ],
+    "type": "Paradigm",
+    "domain": "ai-history",
+    "file": "articles/ai-history/symbolic-ai.md",
+    "created": "2026-11-13",
+    "maturity": "historical",
+    "source_urls": [
+      "https://www.computerhistory.org/chess/doc-431614f691642/",
+      "https://www.britannica.com/technology/artificial-intelligence/Methods-and-goals-in-AI",
+      "https://plato.stanford.edu/entries/logic-ai/",
+      "https://arxiv.org/abs/2002.06177v3",
+      "https://aitopics.org/doc/classics:D8235CF9"
+    ]
+  },
+  {
     "id": "kt:synthetic-data",
     "title": "Synthetic data",
     "aliases": [

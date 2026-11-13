@@ -4,7 +4,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:artificial-intelligence` | `kt:ai-agent`, `kt:dartmouth-workshop`, `kt:turing-test`, `kt:ai-governance`, `kt:machine-learning`, `kt:ai-safety` |
+| `kt:artificial-intelligence` | `kt:ai-agent`, `kt:dartmouth-workshop`, `kt:symbolic-ai`, `kt:turing-test`, `kt:ai-governance`, `kt:machine-learning`, `kt:ai-safety` |
 | `kt:ensemble-methods` | `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:regularization`, `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:google` | `kt:agent2agent-protocol`, `kt:react-prompting`, `kt:tpu`, `kt:an-image-is-worth-16x16-words`, `kt:word2vec`, `kt:attention-is-all-you-need` |
 | `kt:llm-inference-optimization` | `kt:model-serving`, `kt:batching-and-paged-attention`, `kt:flash-attention`, `kt:speculative-decoding`, `kt:tensorrt-llm`, `kt:vllm` |
@@ -16,13 +16,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:agent-memory` | `kt:ai-agent`, `kt:generative-agents-interactive-simulacra-of-human-behavior`, `kt:langgraph`, `kt:voyager` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:attention-mechanism` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:self-attention`, `kt:sequence-to-sequence-learning` |
+| `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:geoffrey-hinton`, `kt:perceptron`, `kt:symbolic-ai` |
 | `kt:hybrid-search` | `kt:bm25`, `kt:bm25`, `kt:reranking`, `kt:semantic-search` |
 | `kt:kv-cache` | `kt:batching-and-paged-attention`, `kt:speculative-decoding`, `kt:vllm`, `kt:self-attention` |
 | `kt:model-compression` | `kt:gptq`, `kt:model-pruning`, `kt:quantization`, `kt:knowledge-distillation` |
 | `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent`, `kt:generative-agents-interactive-simulacra-of-human-behavior`, `kt:voyager` |
 | `kt:positional-encoding` | `kt:attention-is-all-you-need`, `kt:context-window`, `kt:self-attention`, `kt:transformer-architecture` |
-| `kt:symbolic-ai` | `kt:dartmouth-workshop`, `kt:eliza`, `kt:expert-systems`, `kt:logic-theorist` |
 | `kt:tensor-cores` | `kt:gpu-computing`, `kt:nvidia`, `kt:model-pruning`, `kt:tensorrt-llm` |
 | `kt:unsupervised-learning` | `kt:dimensionality-reduction`, `kt:machine-learning`, `kt:principal-component-analysis`, `kt:supervised-learning` |
 | `kt:vector-database` | `kt:approximate-nearest-neighbor-search`, `kt:embeddings`, `kt:retrieval-augmented-generation`, `kt:semantic-search` |
@@ -30,7 +30,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:adversarial-machine-learning` | `kt:ai-safety`, `kt:jailbreak`, `kt:prompt-injection` |
 | `kt:ai-hardware` | `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
 | `kt:concrete-problems-in-ai-safety` | `kt:ai-safety`, `kt:reward-hacking`, `kt:scalable-oversight` |
-| `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:geoffrey-hinton`, `kt:perceptron` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:hidden-markov-model` |
 | `kt:google-deepmind` | `kt:alphago`, `kt:alphazero`, `kt:deep-q-network` |
 | `kt:gradient-descent` | `kt:adam-optimizer`, `kt:backpropagation`, `kt:deep-learning` |
@@ -65,6 +64,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:export-control-reform-act` | `kt:ai-chip-export-controls`, `kt:bureau-of-industry-and-security` |
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
 | `kt:induction-head` | `kt:mechanistic-interpretability`, `kt:in-context-learning` |
+| `kt:knowledge-representation` | `kt:expert-systems`, `kt:symbolic-ai` |
 | `kt:language-models-are-few-shot-learners` | `kt:few-shot-prompting`, `kt:in-context-learning` |
 | `kt:latent-semantic-analysis` | `kt:glove`, `kt:semantic-search` |
 | `kt:marvin-minsky` | `kt:dartmouth-workshop`, `kt:perceptron` |
@@ -229,7 +229,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:karl-pearson` | `kt:principal-component-analysis` |
 | `kt:kernel-pca` | `kt:principal-component-analysis` |
 | `kt:knowledge-base` | `kt:expert-systems` |
-| `kt:knowledge-representation` | `kt:expert-systems` |
 | `kt:langchain` | `kt:langgraph` |
 | `kt:language-model` | `kt:large-language-model` |
 | `kt:large-language-monkeys` | `kt:self-consistency` |
@@ -280,6 +279,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:muzero` | `kt:alphazero` |
 | `kt:mycin` | `kt:expert-systems` |
 | `kt:neocognitron` | `kt:convolutional-neural-network` |
+| `kt:neuro-symbolic-ai` | `kt:symbolic-ai` |
 | `kt:new-legislative-framework` | `kt:eu-ai-act` |
 | `kt:nist` | `kt:nist-ai-risk-management-framework` |
 | `kt:nist-generative-ai-profile` | `kt:nist-ai-risk-management-framework` |
@@ -292,6 +292,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pascal-voc` | `kt:object-detection` |
 | `kt:penetration-testing` | `kt:red-teaming` |
 | `kt:philosophy-of-artificial-intelligence` | `kt:chinese-room-argument` |
+| `kt:physical-symbol-system-hypothesis` | `kt:symbolic-ai` |
 | `kt:pipeline-parallelism` | `kt:distributed-training` |
 | `kt:playing-atari-with-deep-reinforcement-learning` | `kt:deep-q-network` |
 | `kt:policy-gradient-methods-for-reinforcement-learning-with-function-approximation` | `kt:policy-gradient` |

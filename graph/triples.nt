@@ -7135,6 +7135,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/sycophancy/s6> <https://schema.org/url> "https://openai.com/index/expanding-on-sycophancy/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/symbolic-ai/s1> <http://purl.org/dc/terms/publisher> "A. Newell and H. A. Simon, Communications of the ACM 19(3), March 1976 (scan held by the Computer History Museum)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/symbolic-ai/s1> <http://purl.org/dc/terms/title> "Computer Science as Empirical Inquiry: Symbols and Search (1975 ACM Turing Award Lecture)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/symbolic-ai/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/symbolic-ai/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/symbolic-ai/s1> <https://schema.org/url> "https://www.computerhistory.org/chess/doc-431614f691642/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/symbolic-ai/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/symbolic-ai/s2> <http://purl.org/dc/terms/title> "Artificial intelligence: Methods and goals in AI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/symbolic-ai/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/symbolic-ai/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/symbolic-ai/s2> <https://schema.org/url> "https://www.britannica.com/technology/artificial-intelligence/Methods-and-goals-in-AI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/symbolic-ai/s3> <http://purl.org/dc/terms/publisher> "R. Thomason, Stanford Encyclopedia of Philosophy (substantive revision 2024-02-27)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/symbolic-ai/s3> <http://purl.org/dc/terms/title> "Logic-Based Artificial Intelligence" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/symbolic-ai/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/symbolic-ai/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/symbolic-ai/s3> <https://schema.org/url> "https://plato.stanford.edu/entries/logic-ai/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/symbolic-ai/s4> <http://purl.org/dc/terms/publisher> "G. Marcus, arXiv:2002.06177, 2020" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/symbolic-ai/s4> <http://purl.org/dc/terms/title> "The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/symbolic-ai/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/symbolic-ai/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/symbolic-ai/s4> <https://schema.org/url> "https://arxiv.org/abs/2002.06177v3" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/symbolic-ai/s5> <http://purl.org/dc/terms/publisher> "J. Lighthill, in \"Artificial Intelligence: A Paper Symposium\", Science Research Council (AITopics classics archive)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/symbolic-ai/s5> <http://purl.org/dc/terms/title> "Artificial Intelligence: A General Survey (The Lighthill Report)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/symbolic-ai/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/symbolic-ai/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/symbolic-ai/s5> <https://schema.org/url> "https://aitopics.org/doc/classics:D8235CF9" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s1> <http://purl.org/dc/terms/publisher> "Proceedings of ACL 2023 (Volume 1, Long Papers), pp. 13484–13508 (Wang, Kordi, Mishra, Liu, Smith, Khashabi, Hajishirzi)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s1> <http://purl.org/dc/terms/title> "Self-Instruct: Aligning Language Models with Self-Generated Instructions" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -7694,6 +7719,29 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "safety-alignment-and-security" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/sycophancy> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Paradigm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> <http://www.w3.org/2000/01/rdf-schema#label> "Symbolic AI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> <http://www.w3.org/2004/02/skos/core#altLabel> "GOFAI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> <http://www.w3.org/2004/02/skos/core#altLabel> "good old-fashioned AI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> <http://www.w3.org/2004/02/skos/core#altLabel> "symbolic artificial intelligence" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> <http://www.w3.org/2004/02/skos/core#altLabel> "top-down AI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> <http://www.w3.org/2004/02/skos/core#definition> "The approach to artificial intelligence that represents knowledge as explicit, human-readable symbol structures and produces intelligent behaviour by manipulating them with rules, logic and search; it dominated AI research from the 1950s through the 1980s and contrasts with the connectionist, neural-network approach." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> <http://www.w3.org/2004/02/skos/core#prefLabel> "Symbolic AI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/expert-systems> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-representation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/neuro-symbolic-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/symbolic-ai/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/symbolic-ai/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/symbolic-ai/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/symbolic-ai/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/symbolic-ai/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/physical-symbol-system-hypothesis> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/connectionism> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-history" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "historical" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <http://www.w3.org/2000/01/rdf-schema#label> "Synthetic data" .
