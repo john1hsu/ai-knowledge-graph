@@ -2416,6 +2416,27 @@
     ]
   },
   {
+    "id": "kt:react-prompting",
+    "title": "ReAct prompting",
+    "aliases": [
+      "ReAct",
+      "ReAct agent",
+      "Reason+Act",
+      "ReAct: Synergizing Reasoning and Acting in Language Models"
+    ],
+    "type": "Technique",
+    "domain": "agents-and-tool-use",
+    "file": "articles/agents-and-tool-use/react-prompting.md",
+    "created": "2026-11-13",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/abs/2210.03629",
+      "https://research.google/blog/react-synergizing-reasoning-and-acting-in-language-models/?m=1",
+      "https://arxiv.org/abs/2405.13966v1",
+      "https://reference.langchain.com/python/langgraph.prebuilt/"
+    ]
+  },
+  {
     "id": "kt:reasoning-models",
     "title": "Reasoning models",
     "aliases": [

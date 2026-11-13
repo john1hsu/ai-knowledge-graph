@@ -638,6 +638,101 @@
       ]
     },
     {
+      "@id": "kt:react-prompting",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "ReAct prompting",
+      "skos:definition": "A prompting paradigm, introduced by Yao et al. (Google Research, ICLR 2023), in which a language model interleaves free-form reasoning traces (\"thoughts\") with actions such as search or tool calls and reads back the resulting observations, so reasoning guides actions and external feedback grounds reasoning.",
+      "kto:domain": "agents-and-tool-use",
+      "dcterms:created": "2026-11-13",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "dcterms:publisher": "arXiv 2210.03629 (Yao et al.; v3 is the ICLR 2023 camera-ready version)",
+          "schema:url": "https://arxiv.org/abs/2210.03629",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "dcterms:publisher": "Google Research Blog (Shunyu Yao and Yuan Cao, Brain Team), 8 November 2022",
+          "schema:url": "https://research.google/blog/react-synergizing-reasoning-and-acting-in-language-models/?m=1",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "On the Brittle Foundations of ReAct Prompting for Agentic Large Language Models",
+          "dcterms:publisher": "arXiv 2405.13966 (Verma, Bhambri and Kambhampati)",
+          "schema:url": "https://arxiv.org/abs/2405.13966v1",
+          "kto:sourceType": "preprint"
+        },
+        {
+          "dcterms:title": "langgraph.prebuilt (create_react_agent) reference",
+          "dcterms:publisher": "LangChain Reference documentation",
+          "schema:url": "https://reference.langchain.com/python/langgraph.prebuilt/",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/agents-and-tool-use/react-prompting.md",
+      "skos:altLabel": [
+        "ReAct",
+        "ReAct agent",
+        "Reason+Act",
+        "ReAct: Synergizing Reasoning and Acting in Language Models"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:prompt-engineering"
+        },
+        {
+          "@id": "kt:tool-use"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:ai-agent"
+        },
+        {
+          "@id": "kt:toolformer"
+        },
+        {
+          "@id": "kt:reflexion"
+        },
+        {
+          "@id": "kt:agentic-workflow"
+        },
+        {
+          "@id": "kt:hallucination"
+        }
+      ],
+      "kto:extends": [
+        {
+          "@id": "kt:chain-of-thought"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:few-shot-prompting"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:google"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:hotpotqa"
+        },
+        {
+          "@id": "kt:alfworld"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:langgraph"
+        }
+      ]
+    },
+    {
       "@id": "kt:tool-use",
       "@type": "kto:Technique",
       "skos:prefLabel": "Tool use",

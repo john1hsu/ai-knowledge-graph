@@ -7,12 +7,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:distributed-training` | `kt:cuda`, `kt:data-parallelism`, `kt:mlops`, `kt:nvidia`, `kt:pytorch`, `kt:tpu`, `kt:pretraining` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:dartmouth-workshop`, `kt:turing-test`, `kt:ai-governance`, `kt:machine-learning`, `kt:ai-safety` |
 | `kt:ensemble-methods` | `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:regularization`, `kt:self-consistency`, `kt:knowledge-distillation` |
+| `kt:google` | `kt:agent2agent-protocol`, `kt:react-prompting`, `kt:tpu`, `kt:an-image-is-worth-16x16-words`, `kt:word2vec`, `kt:attention-is-all-you-need` |
 | `kt:llm-inference-optimization` | `kt:model-serving`, `kt:batching-and-paged-attention`, `kt:flash-attention`, `kt:speculative-decoding`, `kt:tensorrt-llm`, `kt:vllm` |
 | `kt:vision-transformer` | `kt:an-image-is-worth-16x16-words`, `kt:clip`, `kt:image-classification`, `kt:object-detection`, `kt:yolo`, `kt:convolutional-neural-network` |
 | `kt:ai-accelerator` | `kt:high-bandwidth-memory`, `kt:model-serving`, `kt:tpu`, `kt:ai-chip-export-controls`, `kt:compute-governance` |
 | `kt:beam-search` | `kt:sampling-temperature-and-top-p`, `kt:self-consistency`, `kt:knowledge-distillation`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
-| `kt:google` | `kt:agent2agent-protocol`, `kt:tpu`, `kt:an-image-is-worth-16x16-words`, `kt:word2vec`, `kt:attention-is-all-you-need` |
-| `kt:react-prompting` | `kt:ai-agent`, `kt:autogen`, `kt:tool-use`, `kt:toolformer`, `kt:chain-of-thought` |
 | `kt:representation-learning` | `kt:clip`, `kt:deep-learning`, `kt:embeddings`, `kt:glove`, `kt:word2vec` |
 | `kt:statistical-learning-theory` | `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:overfitting`, `kt:regularization`, `kt:supervised-learning` |
 | `kt:agent-memory` | `kt:ai-agent`, `kt:generative-agents-interactive-simulacra-of-human-behavior`, `kt:langgraph`, `kt:voyager` |
@@ -47,6 +46,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:wmt-2014` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
 | `kt:ai-winter` | `kt:expert-systems`, `kt:perceptron` |
+| `kt:alfworld` | `kt:autogen`, `kt:react-prompting` |
 | `kt:alphago-zero` | `kt:alphago`, `kt:alphazero` |
 | `kt:apache-lucene` | `kt:bm25`, `kt:tf-idf` |
 | `kt:automatic-differentiation` | `kt:pytorch`, `kt:backpropagation` |
@@ -77,6 +77,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:post-training-quantization` | `kt:awq`, `kt:gptq` |
 | `kt:probabilistic-relevance-framework` | `kt:bm25`, `kt:bm25` |
 | `kt:r-cnn` | `kt:faster-r-cnn`, `kt:yolo` |
+| `kt:reflexion` | `kt:react-prompting`, `kt:self-refine-iterative-refinement-with-self-feedback` |
 | `kt:residual-connection` | `kt:image-classification`, `kt:transformer-architecture` |
 | `kt:reward-model` | `kt:goodharts-law`, `kt:reward-hacking` |
 | `kt:rmsprop` | `kt:adam-optimizer`, `kt:adam-optimizer` |
@@ -98,7 +99,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ai-safety-via-debate` | `kt:scalable-oversight` |
 | `kt:alan-turing` | `kt:turing-test` |
 | `kt:alex-graves` | `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
-| `kt:alfworld` | `kt:autogen` |
 | `kt:all-reduce` | `kt:data-parallelism` |
 | `kt:allen-institute-for-ai` | `kt:commonsenseqa` |
 | `kt:allen-newell` | `kt:logic-theorist` |
@@ -198,6 +198,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:herbert-a-simon` | `kt:logic-theorist` |
 | `kt:heuristic-search` | `kt:logic-theorist` |
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
+| `kt:hotpotqa` | `kt:react-prompting` |
 | `kt:hugging-face` | `kt:hugging-face-transformers` |
 | `kt:hugging-face-diffusers` | `kt:diffusion-model` |
 | `kt:hugging-face-peft` | `kt:qlora` |
@@ -307,7 +308,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:realm` | `kt:retrieval-augmented-generation` |
 | `kt:reconciling-modern-machine-learning-practice-and-the-bias-variance-trade-off` | `kt:double-descent` |
 | `kt:rectified-linear-unit` | `kt:activation-function` |
-| `kt:reflexion` | `kt:self-refine-iterative-refinement-with-self-feedback` |
 | `kt:reinforce-algorithm` | `kt:policy-gradient` |
 | `kt:reinforcement-learning-from-ai-feedback` | `kt:constitutional-ai` |
 | `kt:retrieval-augmented-generation-for-knowledge-intensive-nlp-tasks` | `kt:retrieval-augmented-generation` |
