@@ -7,13 +7,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pytorch` | `kt:data-parallelism`, `kt:hugging-face-transformers`, `kt:faster-r-cnn`, `kt:adam-optimizer`, `kt:backpropagation`, `kt:dropout`, `kt:long-short-term-memory`, `kt:model-pruning`, `kt:tensorrt-llm` |
 | `kt:sequence-to-sequence-learning` | `kt:automatic-speech-recognition`, `kt:long-short-term-memory`, `kt:recurrent-neural-network`, `kt:program-induction-by-rationale-generation`, `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
 | `kt:vllm` | `kt:hugging-face-transformers`, `kt:model-serving`, `kt:awq`, `kt:awq`, `kt:batching-and-paged-attention`, `kt:speculative-decoding`, `kt:tensorrt-llm` |
+| `kt:artificial-intelligence` | `kt:ai-agent`, `kt:dartmouth-workshop`, `kt:turing-test`, `kt:ai-governance`, `kt:machine-learning`, `kt:ai-safety` |
 | `kt:distributed-training` | `kt:cuda`, `kt:data-parallelism`, `kt:mlops`, `kt:nvidia`, `kt:tpu`, `kt:pretraining` |
 | `kt:eu-ai-act` | `kt:ai-governance`, `kt:algorithmic-bias-and-fairness`, `kt:compute-governance`, `kt:executive-orders-on-ai`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda` |
 | `kt:multi-agent-systems` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:autogen`, `kt:generative-agents-interactive-simulacra-of-human-behavior`, `kt:langgraph` |
 | `kt:regularization` | `kt:dropout`, `kt:model-pruning`, `kt:bias-variance-tradeoff`, `kt:conditional-random-field`, `kt:double-descent`, `kt:overfitting` |
 | `kt:ai-accelerator` | `kt:high-bandwidth-memory`, `kt:model-serving`, `kt:tpu`, `kt:ai-chip-export-controls`, `kt:compute-governance` |
-| `kt:ai-safety` | `kt:ai-governance`, `kt:ai-alignment`, `kt:goodharts-law`, `kt:hallucination`, `kt:reward-hacking` |
-| `kt:artificial-intelligence` | `kt:ai-agent`, `kt:dartmouth-workshop`, `kt:turing-test`, `kt:ai-governance`, `kt:machine-learning` |
 | `kt:ensemble-methods` | `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:few-shot-prompting` | `kt:chain-of-thought`, `kt:prompt-engineering`, `kt:prompt-sensitivity`, `kt:instruction-tuning`, `kt:in-context-learning` |
 | `kt:google` | `kt:agent2agent-protocol`, `kt:tpu`, `kt:an-image-is-worth-16x16-words`, `kt:word2vec`, `kt:attention-is-all-you-need` |
@@ -37,6 +36,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:adagrad` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:glove` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph` |
 | `kt:ai-hardware` | `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
+| `kt:concrete-problems-in-ai-safety` | `kt:ai-safety`, `kt:reward-hacking`, `kt:scalable-oversight` |
 | `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:geoffrey-hinton`, `kt:perceptron` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:hidden-markov-model` |
 | `kt:gradient-descent` | `kt:adam-optimizer`, `kt:backpropagation`, `kt:deep-learning` |
@@ -52,12 +52,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:symbolic-ai` | `kt:dartmouth-workshop`, `kt:eliza`, `kt:logic-theorist` |
 | `kt:temporal-difference-learning` | `kt:actor-critic`, `kt:q-learning`, `kt:reinforcement-learning` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
+| `kt:adversarial-machine-learning` | `kt:ai-safety`, `kt:jailbreak` |
 | `kt:apache-lucene` | `kt:bm25`, `kt:tf-idf` |
 | `kt:attention-mechanism` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:yolo` |
 | `kt:batch-normalization` | `kt:data-parallelism`, `kt:yolo` |
 | `kt:computing-power-and-the-governance-of-artificial-intelligence` | `kt:compute-governance`, `kt:compute-governance` |
-| `kt:concrete-problems-in-ai-safety` | `kt:reward-hacking`, `kt:scalable-oversight` |
 | `kt:cross-validation` | `kt:bias-variance-tradeoff`, `kt:overfitting` |
 | `kt:curse-of-dimensionality` | `kt:universal-approximation-theorem`, `kt:dimensionality-reduction` |
 | `kt:deep-belief-network` | `kt:geoffrey-hinton`, `kt:deep-learning` |
@@ -91,7 +91,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:zero-shot-learning` | `kt:clip`, `kt:instruction-tuning` |
 | `kt:adam-a-method-for-stochastic-optimization` | `kt:adam-optimizer` |
 | `kt:adamw` | `kt:adam-optimizer` |
-| `kt:adversarial-machine-learning` | `kt:jailbreak` |
 | `kt:ai-ethics` | `kt:algorithmic-bias-and-fairness` |
 | `kt:ai-governance-a-research-agenda` | `kt:ai-governance` |
 | `kt:ai-risk-management` | `kt:nist-ai-risk-management-framework` |

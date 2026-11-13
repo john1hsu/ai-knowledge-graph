@@ -9947,6 +9947,94 @@
       ]
     },
     {
+      "@id": "kt:ai-safety",
+      "@type": "kto:Field",
+      "skos:prefLabel": "AI safety",
+      "skos:definition": "The interdisciplinary field concerned with preventing AI systems from causing harm, whether through accidents and malfunctions, deliberate misuse or systemic effects of deployment, spanning robustness, monitoring, alignment and risk management.",
+      "kto:domain": "safety-alignment-and-security",
+      "dcterms:created": "2026-11-13",
+      "kto:maturity": "emerging",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Concrete Problems in AI Safety",
+          "dcterms:publisher": "Google Research (Amodei, Olah, Steinhardt, Christiano, Schulman, Mané), arXiv:1606.06565, 2016",
+          "schema:url": "https://research.google/pubs/concrete-problems-in-ai-safety/",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Unsolved Problems in ML Safety",
+          "dcterms:publisher": "arXiv:2109.13916v4 (Hendrycks, Carlini, Schulman, Steinhardt), first submitted September 2021",
+          "schema:url": "https://arxiv.org/pdf/2109.13916v4",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "AI Risk Management Framework 1.0, Section 3: AI Risks and Trustworthiness",
+          "dcterms:publisher": "National Institute of Standards and Technology (NIST), Trustworthy and Responsible AI Resource Center",
+          "schema:url": "https://airc.nist.gov/airmf-resources/airmf/3-sec-characteristics/",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "The Bletchley Declaration by Countries Attending the AI Safety Summit, 1-2 November 2023",
+          "dcterms:publisher": "UK Government (GOV.UK), published 1 November 2023",
+          "schema:url": "https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023.",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "International AI Safety Report",
+          "dcterms:publisher": "arXiv:2501.17805 (Bengio et al., 100 contributing experts), January 2025",
+          "schema:url": "https://arxiv.org/abs/2501.17805",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "International AI Safety Report (full text)",
+          "dcterms:publisher": "arXiv:2501.17805 PDF (Bengio et al.), January 2025",
+          "schema:url": "https://arxiv.org/pdf/2501.17805",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/safety-alignment-and-security/ai-safety.md",
+      "skos:altLabel": [
+        "ML safety",
+        "machine learning safety",
+        "safety of AI systems"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:artificial-intelligence"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:ai-governance"
+        },
+        {
+          "@id": "kt:ai-evaluation"
+        },
+        {
+          "@id": "kt:red-teaming"
+        },
+        {
+          "@id": "kt:adversarial-machine-learning"
+        },
+        {
+          "@id": "kt:ai-safety-institutes"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:ai-alignment"
+        },
+        {
+          "@id": "kt:mechanistic-interpretability"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:concrete-problems-in-ai-safety"
+        }
+      ]
+    },
+    {
       "@id": "kt:goodharts-law",
       "@type": "kto:Concept",
       "skos:prefLabel": "Goodhart's law",

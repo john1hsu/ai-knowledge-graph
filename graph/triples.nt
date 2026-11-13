@@ -277,6 +277,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/uk-ai-security-institute> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-summit> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Field> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> <http://www.w3.org/2000/01/rdf-schema#label> "AI safety" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> <http://www.w3.org/2004/02/skos/core#altLabel> "ML safety" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> <http://www.w3.org/2004/02/skos/core#altLabel> "machine learning safety" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> <http://www.w3.org/2004/02/skos/core#altLabel> "safety of AI systems" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> <http://www.w3.org/2004/02/skos/core#definition> "The interdisciplinary field concerned with preventing AI systems from causing harm, whether through accidents and malfunctions, deliberate misuse or systemic effects of deployment, spanning robustness, monitoring, alignment and risk management." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> <http://www.w3.org/2004/02/skos/core#prefLabel> "AI safety" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "safety-alignment-and-security" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/concrete-problems-in-ai-safety> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Risk> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <http://www.w3.org/2000/01/rdf-schema#label> "Algorithmic bias and fairness" .
@@ -3244,6 +3269,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s7> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s7> <https://schema.org/url> "https://www.gov.uk/government/news/efforts-to-share-best-practices-on-ai-measurement-and-evaluations-driven-forward-through-the-international-network-for-advanced-ai-measurement-evalua" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s1> <http://purl.org/dc/terms/publisher> "Google Research (Amodei, Olah, Steinhardt, Christiano, Schulman, Mané), arXiv:1606.06565, 2016" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s1> <http://purl.org/dc/terms/title> "Concrete Problems in AI Safety" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s1> <https://schema.org/url> "https://research.google/pubs/concrete-problems-in-ai-safety/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s2> <http://purl.org/dc/terms/publisher> "arXiv:2109.13916v4 (Hendrycks, Carlini, Schulman, Steinhardt), first submitted September 2021" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s2> <http://purl.org/dc/terms/title> "Unsolved Problems in ML Safety" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s2> <https://schema.org/url> "https://arxiv.org/pdf/2109.13916v4" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s3> <http://purl.org/dc/terms/publisher> "National Institute of Standards and Technology (NIST), Trustworthy and Responsible AI Resource Center" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s3> <http://purl.org/dc/terms/title> "AI Risk Management Framework 1.0, Section 3: AI Risks and Trustworthiness" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s3> <https://schema.org/url> "https://airc.nist.gov/airmf-resources/airmf/3-sec-characteristics/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s4> <http://purl.org/dc/terms/publisher> "UK Government (GOV.UK), published 1 November 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s4> <http://purl.org/dc/terms/title> "The Bletchley Declaration by Countries Attending the AI Safety Summit, 1-2 November 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s4> <https://schema.org/url> "https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s5> <http://purl.org/dc/terms/publisher> "arXiv:2501.17805 (Bengio et al., 100 contributing experts), January 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s5> <http://purl.org/dc/terms/title> "International AI Safety Report" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s5> <https://schema.org/url> "https://arxiv.org/abs/2501.17805" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s6> <http://purl.org/dc/terms/publisher> "arXiv:2501.17805 PDF (Bengio et al.), January 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s6> <http://purl.org/dc/terms/title> "International AI Safety Report (full text)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s6> <https://schema.org/url> "https://arxiv.org/pdf/2501.17805" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s1> <http://purl.org/dc/terms/publisher> "MIT Press, 2023 (Barocas, Hardt, Narayanan); online edition at fairmlbook.org" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s1> <http://purl.org/dc/terms/title> "Fairness and Machine Learning: Limitations and Opportunities — Chapter 3, Classification" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

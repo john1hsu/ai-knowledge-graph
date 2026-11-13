@@ -217,6 +217,28 @@
     ]
   },
   {
+    "id": "kt:ai-safety",
+    "title": "AI safety",
+    "aliases": [
+      "ML safety",
+      "machine learning safety",
+      "safety of AI systems"
+    ],
+    "type": "Field",
+    "domain": "safety-alignment-and-security",
+    "file": "articles/safety-alignment-and-security/ai-safety.md",
+    "created": "2026-11-13",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://research.google/pubs/concrete-problems-in-ai-safety/",
+      "https://arxiv.org/pdf/2109.13916v4",
+      "https://airc.nist.gov/airmf-resources/airmf/3-sec-characteristics/",
+      "https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023.",
+      "https://arxiv.org/abs/2501.17805",
+      "https://arxiv.org/pdf/2501.17805"
+    ]
+  },
+  {
     "id": "kt:ai-safety-institutes",
     "title": "AI safety institutes",
     "aliases": [
