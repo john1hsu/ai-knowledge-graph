@@ -2116,6 +2116,29 @@
     ]
   },
   {
+    "id": "kt:proximal-policy-optimization",
+    "title": "Proximal policy optimization",
+    "aliases": [
+      "PPO",
+      "PPO-Clip",
+      "PPO-Penalty",
+      "clipped surrogate objective"
+    ],
+    "type": "Algorithm",
+    "domain": "reinforcement-learning",
+    "file": "articles/reinforcement-learning/proximal-policy-optimization.md",
+    "created": "2026-11-13",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/abs/1707.06347",
+      "https://arxiv.org/pdf/1707.06347v1",
+      "https://spinningup.openai.com/en/latest/algorithms/ppo.html",
+      "https://iclr.cc/virtual/2020/poster/1752",
+      "https://papers.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf",
+      "https://arxiv.org/html/2402.03300v3"
+    ]
+  },
+  {
     "id": "kt:q-learning",
     "title": "Q-learning",
     "aliases": [

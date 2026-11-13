@@ -45,10 +45,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
 | `kt:ms-coco` | `kt:faster-r-cnn`, `kt:object-detection`, `kt:yolo` |
 | `kt:natural-language-processing` | `kt:eliza`, `kt:prompt-engineering`, `kt:information-retrieval` |
+| `kt:openai` | `kt:clip`, `kt:gsm8k`, `kt:proximal-policy-optimization` |
 | `kt:orca-serving-system` | `kt:model-serving`, `kt:batching-and-paged-attention`, `kt:tensorrt-llm` |
 | `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:gpu-computing` |
 | `kt:positional-encoding` | `kt:attention-is-all-you-need`, `kt:context-window`, `kt:transformer-architecture` |
-| `kt:proximal-policy-optimization` | `kt:policy-gradient`, `kt:direct-preference-optimization`, `kt:rlhf` |
 | `kt:symbolic-ai` | `kt:dartmouth-workshop`, `kt:eliza`, `kt:logic-theorist` |
 | `kt:temporal-difference-learning` | `kt:actor-critic`, `kt:q-learning`, `kt:reinforcement-learning` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
@@ -72,7 +72,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:model-cards` | `kt:algorithmic-bias-and-fairness`, `kt:omb-ai-memoranda` |
 | `kt:model-context-protocol` | `kt:agent2agent-protocol`, `kt:tool-use` |
 | `kt:named-entity-recognition` | `kt:conditional-random-field`, `kt:glove` |
-| `kt:openai` | `kt:clip`, `kt:gsm8k` |
 | `kt:parameter-efficient-fine-tuning` | `kt:fine-tuning`, `kt:qlora` |
 | `kt:post-training-quantization` | `kt:awq`, `kt:gptq` |
 | `kt:probabilistic-relevance-framework` | `kt:bm25`, `kt:bm25` |
@@ -182,6 +181,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:gated-recurrent-unit` | `kt:recurrent-neural-network` |
 | `kt:gddr-memory` | `kt:high-bandwidth-memory` |
 | `kt:general-problem-solver` | `kt:logic-theorist` |
+| `kt:generalized-advantage-estimation` | `kt:proximal-policy-optimization` |
 | `kt:generative-adversarial-nets` | `kt:generative-adversarial-network` |
 | `kt:george-cybenko` | `kt:universal-approximation-theorem` |
 | `kt:glove-global-vectors-for-word-representation` | `kt:glove` |
@@ -283,6 +283,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:probabilistic-graphical-model` | `kt:conditional-random-field` |
 | `kt:process-reward-model` | `kt:test-time-compute` |
 | `kt:program-induction` | `kt:program-induction-by-rationale-generation` |
+| `kt:proximal-policy-optimization-algorithms` | `kt:proximal-policy-optimization` |
 | `kt:qlora-efficient-finetuning-of-quantized-llms` | `kt:qlora` |
 | `kt:quiet-star` | `kt:star-self-taught-reasoner` |
 | `kt:realm` | `kt:retrieval-augmented-generation` |
@@ -332,6 +333,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:transformers-state-of-the-art-natural-language-processing` | `kt:hugging-face-transformers` |
 | `kt:trec` | `kt:information-retrieval` |
 | `kt:tri-dao` | `kt:flash-attention` |
+| `kt:trust-region-policy-optimization` | `kt:proximal-policy-optimization` |
 | `kt:truthfulqa-measuring-how-models-mimic-human-falsehoods` | `kt:truthfulqa` |
 | `kt:turing-machine` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:uk-ai-security-institute` | `kt:ai-safety-institutes` |

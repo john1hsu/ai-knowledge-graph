@@ -8792,6 +8792,98 @@
       ]
     },
     {
+      "@id": "kt:proximal-policy-optimization",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "Proximal policy optimization",
+      "skos:definition": "An on-policy, actor-critic policy-gradient algorithm that reuses each batch of experience for several epochs of minibatch updates while a clipped probability-ratio objective keeps each new policy close to the one that collected the data.",
+      "kto:domain": "reinforcement-learning",
+      "dcterms:created": "2026-11-13",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Proximal Policy Optimization Algorithms",
+          "dcterms:publisher": "Schulman, Wolski, Dhariwal, Radford and Klimov (OpenAI), arXiv 1707.06347, 2017",
+          "schema:url": "https://arxiv.org/abs/1707.06347",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Proximal Policy Optimization Algorithms (v1 full text)",
+          "dcterms:publisher": "Schulman et al., arXiv 1707.06347v1 PDF",
+          "schema:url": "https://arxiv.org/pdf/1707.06347v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Spinning Up in Deep RL: Proximal Policy Optimization",
+          "dcterms:publisher": "OpenAI",
+          "schema:url": "https://spinningup.openai.com/en/latest/algorithms/ppo.html",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Implementation Matters in Deep RL: A Case Study on PPO and TRPO",
+          "dcterms:publisher": "ICLR 2020 (Engstrom, Ilyas, Santurkar, Tsipras, Janoos, Rudolph and Madry)",
+          "schema:url": "https://iclr.cc/virtual/2020/poster/1752",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Training language models to follow instructions with human feedback",
+          "dcterms:publisher": "NeurIPS 2022 (Ouyang et al., OpenAI)",
+          "schema:url": "https://papers.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "dcterms:publisher": "Shao et al. (DeepSeek), arXiv 2402.03300, 2024",
+          "schema:url": "https://arxiv.org/html/2402.03300v3",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/reinforcement-learning/proximal-policy-optimization.md",
+      "skos:altLabel": [
+        "PPO",
+        "PPO-Clip",
+        "PPO-Penalty",
+        "clipped surrogate objective"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:policy-gradient"
+        },
+        {
+          "@id": "kt:actor-critic"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:direct-preference-optimization"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:proximal-policy-optimization-algorithms"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:openai"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:trust-region-policy-optimization"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:generalized-advantage-estimation"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:rlhf"
+        }
+      ]
+    },
+    {
       "@id": "kt:q-learning",
       "@type": "kto:Algorithm",
       "skos:prefLabel": "Q-learning",

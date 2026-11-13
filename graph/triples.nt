@@ -2496,6 +2496,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "prompting-and-reasoning" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization> <http://www.w3.org/2000/01/rdf-schema#label> "Proximal policy optimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization> <http://www.w3.org/2004/02/skos/core#altLabel> "PPO" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization> <http://www.w3.org/2004/02/skos/core#altLabel> "PPO-Clip" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization> <http://www.w3.org/2004/02/skos/core#altLabel> "PPO-Penalty" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization> <http://www.w3.org/2004/02/skos/core#altLabel> "clipped surrogate objective" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization> <http://www.w3.org/2004/02/skos/core#definition> "An on-policy, actor-critic policy-gradient algorithm that reuses each batch of experience for several epochs of minibatch updates while a clipped probability-ratio objective keeps each new policy close to the one that collected the data." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization> <http://www.w3.org/2004/02/skos/core#prefLabel> "Proximal policy optimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/direct-preference-optimization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/trust-region-policy-optimization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/openai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/generalized-advantage-estimation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "reinforcement-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization-algorithms> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> <http://www.w3.org/2000/01/rdf-schema#label> "Q-learning" .
@@ -5639,6 +5664,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s5> <https://schema.org/url> "https://aclanthology.org/2024.tacl-1.52" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s1> <http://purl.org/dc/terms/publisher> "Schulman, Wolski, Dhariwal, Radford and Klimov (OpenAI), arXiv 1707.06347, 2017" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s1> <http://purl.org/dc/terms/title> "Proximal Policy Optimization Algorithms" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s1> <https://schema.org/url> "https://arxiv.org/abs/1707.06347" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s2> <http://purl.org/dc/terms/publisher> "Schulman et al., arXiv 1707.06347v1 PDF" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s2> <http://purl.org/dc/terms/title> "Proximal Policy Optimization Algorithms (v1 full text)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s2> <https://schema.org/url> "https://arxiv.org/pdf/1707.06347v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s3> <http://purl.org/dc/terms/publisher> "OpenAI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s3> <http://purl.org/dc/terms/title> "Spinning Up in Deep RL: Proximal Policy Optimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s3> <https://schema.org/url> "https://spinningup.openai.com/en/latest/algorithms/ppo.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s4> <http://purl.org/dc/terms/publisher> "ICLR 2020 (Engstrom, Ilyas, Santurkar, Tsipras, Janoos, Rudolph and Madry)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s4> <http://purl.org/dc/terms/title> "Implementation Matters in Deep RL: A Case Study on PPO and TRPO" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s4> <https://schema.org/url> "https://iclr.cc/virtual/2020/poster/1752" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s5> <http://purl.org/dc/terms/publisher> "NeurIPS 2022 (Ouyang et al., OpenAI)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s5> <http://purl.org/dc/terms/title> "Training language models to follow instructions with human feedback" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s5> <https://schema.org/url> "https://papers.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s6> <http://purl.org/dc/terms/publisher> "Shao et al. (DeepSeek), arXiv 2402.03300, 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s6> <http://purl.org/dc/terms/title> "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/proximal-policy-optimization/s6> <https://schema.org/url> "https://arxiv.org/html/2402.03300v3" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s1> <http://purl.org/dc/terms/publisher> "Machine Learning 8:279-292, 1992 (Watkins and Dayan), via ML Anthology" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s1> <http://purl.org/dc/terms/title> "Technical Note: Q-Learning" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/q-learning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
