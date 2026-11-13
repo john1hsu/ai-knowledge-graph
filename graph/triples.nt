@@ -20,6 +20,35 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/a-logical-calculus-of-the-ideas-immanent-in-nervous-activity> <https://github.com/john1hsu/ai-knowledge-graph/ontology#followedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/a-logical-calculus-of-the-ideas-immanent-in-nervous-activity> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/turing-machine> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/a-logical-calculus-of-the-ideas-immanent-in-nervous-activity> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "historical" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <http://www.w3.org/2000/01/rdf-schema#label> "Activation function" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <http://www.w3.org/2004/02/skos/core#altLabel> "activation functions" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <http://www.w3.org/2004/02/skos/core#altLabel> "nonlinearity" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <http://www.w3.org/2004/02/skos/core#altLabel> "squashing function" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <http://www.w3.org/2004/02/skos/core#altLabel> "transfer function (neural networks)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <http://www.w3.org/2004/02/skos/core#definition> "The elementwise nonlinear function a neural network applies to each unit's weighted input sum (for example sigmoid, tanh, ReLU, GELU or Swish); without it, any stack of layers collapses into a single linear map, so the choice of activation decides both what a network can represent and how easily gradients flow during training." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <http://www.w3.org/2004/02/skos/core#prefLabel> "Activation function" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/gelu> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/rectified-linear-unit> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/swiglu> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s7> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "deep-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <https://github.com/john1hsu/ai-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <https://github.com/john1hsu/ai-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> <http://www.w3.org/2000/01/rdf-schema#label> "Actor-critic" .
@@ -3166,6 +3195,41 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/a-logical-calculus-of-the-ideas-immanent-in-nervous-activity/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/a-logical-calculus-of-the-ideas-immanent-in-nervous-activity/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/a-logical-calculus-of-the-ideas-immanent-in-nervous-activity/s5> <https://schema.org/url> "https://www.rand.org/pubs/research_memoranda/RM704.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s1> <http://purl.org/dc/terms/publisher> "Zhang, Lipton, Li and Smola, Dive into Deep Learning (d2l.ai)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s1> <http://purl.org/dc/terms/title> "5.1. Multilayer Perceptrons (Dive into Deep Learning)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s1> <https://schema.org/url> "https://d2l.ai/chapter_multilayer-perceptrons/mlp.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s2> <http://purl.org/dc/terms/publisher> "ICML 2010, pp. 807–814 (Nair and Hinton), via ML Anthology" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s2> <http://purl.org/dc/terms/title> "Rectified Linear Units Improve Restricted Boltzmann Machines" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s2> <https://schema.org/url> "https://mlanthology.org/icml/2010/nair2010icml-rectified" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s3> <http://purl.org/dc/terms/publisher> "AISTATS 2011, PMLR 15:315–323 (Glorot, Bordes and Bengio)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s3> <http://purl.org/dc/terms/title> "Deep Sparse Rectifier Neural Networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s3> <https://schema.org/url> "https://proceedings.mlr.press/v15/glorot11a.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s4> <http://purl.org/dc/terms/publisher> "arXiv:1606.08415 (Hendrycks and Gimpel, June 2016; v5 June 2023)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s4> <http://purl.org/dc/terms/title> "Gaussian Error Linear Units (GELUs)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s4> <https://schema.org/url> "https://arxiv.org/abs/1606.08415" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s5> <http://purl.org/dc/terms/publisher> "arXiv:1710.05941 (Ramachandran, Zoph and Le, October 2017)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s5> <http://purl.org/dc/terms/title> "Searching for Activation Functions" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s5> <https://schema.org/url> "https://arxiv.org/abs/1710.05941v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s6> <http://purl.org/dc/terms/publisher> "arXiv:2002.05202 (Shazeer, February 2020), ar5iv HTML rendering" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s6> <http://purl.org/dc/terms/title> "GLU Variants Improve Transformer" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s6> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/2002.05202" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s7> <http://purl.org/dc/terms/publisher> "arXiv:2302.13971 (Touvron et al., Meta AI, February 2023), ar5iv HTML rendering" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s7> <http://purl.org/dc/terms/title> "LLaMA: Open and Efficient Foundation Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s7> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s7> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/2302.13971" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s1> <http://purl.org/dc/terms/publisher> "Advances in Neural Information Processing Systems 12 (NIPS 1999) (Konda and Tsitsiklis)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s1> <http://purl.org/dc/terms/title> "Actor-Critic Algorithms" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

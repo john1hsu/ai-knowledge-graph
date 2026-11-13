@@ -20,6 +20,30 @@
     ]
   },
   {
+    "id": "kt:activation-function",
+    "title": "Activation function",
+    "aliases": [
+      "activation functions",
+      "nonlinearity",
+      "transfer function (neural networks)",
+      "squashing function"
+    ],
+    "type": "Concept",
+    "domain": "deep-learning",
+    "file": "articles/deep-learning/activation-function.md",
+    "created": "2026-11-13",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://d2l.ai/chapter_multilayer-perceptrons/mlp.html",
+      "https://mlanthology.org/icml/2010/nair2010icml-rectified",
+      "https://proceedings.mlr.press/v15/glorot11a.html",
+      "https://arxiv.org/abs/1606.08415",
+      "https://arxiv.org/abs/1710.05941v2",
+      "https://ar5iv.labs.arxiv.org/html/2002.05202",
+      "https://ar5iv.labs.arxiv.org/html/2302.13971"
+    ]
+  },
+  {
     "id": "kt:actor-critic",
     "title": "Actor-critic",
     "aliases": [

@@ -3605,6 +3605,107 @@
       ]
     },
     {
+      "@id": "kt:activation-function",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Activation function",
+      "skos:definition": "The elementwise nonlinear function a neural network applies to each unit's weighted input sum (for example sigmoid, tanh, ReLU, GELU or Swish); without it, any stack of layers collapses into a single linear map, so the choice of activation decides both what a network can represent and how easily gradients flow during training.",
+      "kto:domain": "deep-learning",
+      "dcterms:created": "2026-11-13",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "5.1. Multilayer Perceptrons (Dive into Deep Learning)",
+          "dcterms:publisher": "Zhang, Lipton, Li and Smola, Dive into Deep Learning (d2l.ai)",
+          "schema:url": "https://d2l.ai/chapter_multilayer-perceptrons/mlp.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Rectified Linear Units Improve Restricted Boltzmann Machines",
+          "dcterms:publisher": "ICML 2010, pp. 807–814 (Nair and Hinton), via ML Anthology",
+          "schema:url": "https://mlanthology.org/icml/2010/nair2010icml-rectified",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Deep Sparse Rectifier Neural Networks",
+          "dcterms:publisher": "AISTATS 2011, PMLR 15:315–323 (Glorot, Bordes and Bengio)",
+          "schema:url": "https://proceedings.mlr.press/v15/glorot11a.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Gaussian Error Linear Units (GELUs)",
+          "dcterms:publisher": "arXiv:1606.08415 (Hendrycks and Gimpel, June 2016; v5 June 2023)",
+          "schema:url": "https://arxiv.org/abs/1606.08415",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Searching for Activation Functions",
+          "dcterms:publisher": "arXiv:1710.05941 (Ramachandran, Zoph and Le, October 2017)",
+          "schema:url": "https://arxiv.org/abs/1710.05941v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "GLU Variants Improve Transformer",
+          "dcterms:publisher": "arXiv:2002.05202 (Shazeer, February 2020), ar5iv HTML rendering",
+          "schema:url": "https://ar5iv.labs.arxiv.org/html/2002.05202",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "LLaMA: Open and Efficient Foundation Language Models",
+          "dcterms:publisher": "arXiv:2302.13971 (Touvron et al., Meta AI, February 2023), ar5iv HTML rendering",
+          "schema:url": "https://ar5iv.labs.arxiv.org/html/2302.13971",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/deep-learning/activation-function.md",
+      "skos:altLabel": [
+        "activation functions",
+        "nonlinearity",
+        "transfer function (neural networks)",
+        "squashing function"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:artificial-neural-network"
+        },
+        {
+          "@id": "kt:deep-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:backpropagation"
+        },
+        {
+          "@id": "kt:vanishing-gradient-problem"
+        },
+        {
+          "@id": "kt:universal-approximation-theorem"
+        },
+        {
+          "@id": "kt:rectified-linear-unit"
+        },
+        {
+          "@id": "kt:gelu"
+        },
+        {
+          "@id": "kt:swiglu"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:artificial-neural-network"
+        },
+        {
+          "@id": "kt:transformer-architecture"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:perceptron"
+        }
+      ]
+    },
+    {
       "@id": "kt:adam-optimizer",
       "@type": "kto:Algorithm",
       "skos:prefLabel": "Adam optimizer",

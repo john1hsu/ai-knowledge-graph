@@ -16,7 +16,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:google` | `kt:agent2agent-protocol`, `kt:tpu`, `kt:an-image-is-worth-16x16-words`, `kt:word2vec`, `kt:attention-is-all-you-need` |
 | `kt:react-prompting` | `kt:ai-agent`, `kt:autogen`, `kt:tool-use`, `kt:toolformer`, `kt:chain-of-thought` |
 | `kt:representation-learning` | `kt:clip`, `kt:deep-learning`, `kt:embeddings`, `kt:glove`, `kt:word2vec` |
-| `kt:activation-function` | `kt:artificial-neural-network`, `kt:backpropagation`, `kt:universal-approximation-theorem`, `kt:universal-approximation-theorem` |
 | `kt:agent-memory` | `kt:ai-agent`, `kt:generative-agents-interactive-simulacra-of-human-behavior`, `kt:langgraph`, `kt:voyager` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:model-compression` | `kt:gptq`, `kt:model-pruning`, `kt:quantization`, `kt:knowledge-distillation` |
@@ -47,6 +46,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:gpu-computing` |
 | `kt:positional-encoding` | `kt:attention-is-all-you-need`, `kt:context-window`, `kt:transformer-architecture` |
 | `kt:temporal-difference-learning` | `kt:actor-critic`, `kt:q-learning`, `kt:reinforcement-learning` |
+| `kt:vanishing-gradient-problem` | `kt:activation-function`, `kt:long-short-term-memory`, `kt:recurrent-neural-network` |
 | `kt:wmt-2014` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
 | `kt:adversarial-machine-learning` | `kt:ai-safety`, `kt:jailbreak` |
@@ -86,7 +86,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:stochastic-gradient-descent` | `kt:data-parallelism`, `kt:adam-optimizer` |
 | `kt:transfer-learning` | `kt:fine-tuning`, `kt:pretraining` |
 | `kt:triton-inference-server` | `kt:model-serving`, `kt:tensorrt-llm` |
-| `kt:vanishing-gradient-problem` | `kt:long-short-term-memory`, `kt:recurrent-neural-network` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:vector-space-model` | `kt:information-retrieval`, `kt:tf-idf` |
 | `kt:zero-shot-learning` | `kt:clip`, `kt:instruction-tuning` |
@@ -181,6 +180,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:frank-rosenblatt` | `kt:perceptron` |
 | `kt:gated-recurrent-unit` | `kt:recurrent-neural-network` |
 | `kt:gddr-memory` | `kt:high-bandwidth-memory` |
+| `kt:gelu` | `kt:activation-function` |
 | `kt:general-problem-solver` | `kt:logic-theorist` |
 | `kt:general-purpose-ai-model` | `kt:eu-ai-act` |
 | `kt:generalized-advantage-estimation` | `kt:proximal-policy-optimization` |
@@ -297,6 +297,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:quiet-star` | `kt:star-self-taught-reasoner` |
 | `kt:realm` | `kt:retrieval-augmented-generation` |
 | `kt:reconciling-modern-machine-learning-practice-and-the-bias-variance-trade-off` | `kt:double-descent` |
+| `kt:rectified-linear-unit` | `kt:activation-function` |
 | `kt:reflexion` | `kt:self-refine-iterative-refinement-with-self-feedback` |
 | `kt:reinforce-algorithm` | `kt:policy-gradient` |
 | `kt:retrieval-augmented-generation-for-knowledge-intensive-nlp-tasks` | `kt:retrieval-augmented-generation` |
@@ -325,6 +326,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:structured-output` | `kt:tool-use` |
 | `kt:stylegan` | `kt:generative-adversarial-network` |
 | `kt:support-vector-machine` | `kt:perceptron` |
+| `kt:swiglu` | `kt:activation-function` |
 | `kt:switchboard-corpus` | `kt:automatic-speech-recognition` |
 | `kt:symbol-grounding-problem` | `kt:chinese-room-argument` |
 | `kt:systolic-array` | `kt:tpu` |
