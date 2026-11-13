@@ -6925,6 +6925,113 @@
       ]
     },
     {
+      "@id": "kt:vllm",
+      "@type": "kto:Tool",
+      "skos:prefLabel": "vLLM",
+      "skos:definition": "An open-source, high-throughput and memory-efficient inference and serving engine for large language models, created at UC Berkeley around PagedAttention and now a PyTorch Foundation-hosted project that exposes OpenAI-compatible APIs across many hardware backends.",
+      "kto:domain": "inference-and-optimization",
+      "dcterms:created": "2026-11-13",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+          "dcterms:publisher": "Kwon, Li, Zhuang, Sheng, Zheng, Yu, Gonzalez, Zhang and Stoica, SOSP 2023, arXiv 2309.06180",
+          "schema:url": "https://arxiv.org/abs/2309.06180",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention",
+          "dcterms:publisher": "vLLM project blog (UC Berkeley), 20 June 2023",
+          "schema:url": "https://vllm.ai/blog/2023-06-20-vllm",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "vLLM V1: A Major Upgrade to vLLM's Core Architecture",
+          "dcterms:publisher": "vLLM project blog, 27 January 2025",
+          "schema:url": "https://vllm.ai/blog/2025-01-27-v1-alpha-release",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "PyTorch Foundation Welcomes vLLM",
+          "dcterms:publisher": "PyTorch Foundation blog, 7 May 2025",
+          "schema:url": "https://pytorch.org/blog/pytorch-foundation-welcomes-vllm/",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "vLLM V1 guide",
+          "dcterms:publisher": "vLLM documentation (latest, November 2026)",
+          "schema:url": "https://docs.vllm.ai/en/latest/usage/v1_guide/",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Online serving (OpenAI-compatible server)",
+          "dcterms:publisher": "vLLM documentation (stable, October 2026)",
+          "schema:url": "https://docs.vllm.ai/en/stable/serving/online_serving/",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/inference-and-optimization/vllm.md",
+      "skos:altLabel": [
+        "vLLM inference engine",
+        "vLLM serving engine"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:llm-inference-optimization"
+        },
+        {
+          "@id": "kt:model-serving"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:batching-and-paged-attention"
+        },
+        {
+          "@id": "kt:speculative-decoding"
+        },
+        {
+          "@id": "kt:quantization"
+        },
+        {
+          "@id": "kt:hugging-face-transformers"
+        },
+        {
+          "@id": "kt:chatbot-arena"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:efficient-memory-management-for-large-language-model-serving-with-pagedattention"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:uc-berkeley"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:pytorch"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:kv-cache"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:tensorrt-llm"
+        }
+      ],
+      "kto:runsOn": [
+        {
+          "@id": "kt:gpu-computing"
+        }
+      ]
+    },
+    {
       "@id": "kt:bias-variance-tradeoff",
       "@type": "kto:Concept",
       "skos:prefLabel": "Bias-variance tradeoff",

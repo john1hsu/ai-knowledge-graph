@@ -6815,6 +6815,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s6> <https://schema.org/url> "https://huggingface.co/blog/vlms" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s1> <http://purl.org/dc/terms/publisher> "Kwon, Li, Zhuang, Sheng, Zheng, Yu, Gonzalez, Zhang and Stoica, SOSP 2023, arXiv 2309.06180" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s1> <http://purl.org/dc/terms/title> "Efficient Memory Management for Large Language Model Serving with PagedAttention" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s1> <https://schema.org/url> "https://arxiv.org/abs/2309.06180" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s2> <http://purl.org/dc/terms/publisher> "vLLM project blog (UC Berkeley), 20 June 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s2> <http://purl.org/dc/terms/title> "vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s2> <https://schema.org/url> "https://vllm.ai/blog/2023-06-20-vllm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s3> <http://purl.org/dc/terms/publisher> "vLLM project blog, 27 January 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s3> <http://purl.org/dc/terms/title> "vLLM V1: A Major Upgrade to vLLM's Core Architecture" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s3> <https://schema.org/url> "https://vllm.ai/blog/2025-01-27-v1-alpha-release" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s4> <http://purl.org/dc/terms/publisher> "PyTorch Foundation blog, 7 May 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s4> <http://purl.org/dc/terms/title> "PyTorch Foundation Welcomes vLLM" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s4> <https://schema.org/url> "https://pytorch.org/blog/pytorch-foundation-welcomes-vllm/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s5> <http://purl.org/dc/terms/publisher> "vLLM documentation (latest, November 2026)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s5> <http://purl.org/dc/terms/title> "vLLM V1 guide" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s5> <https://schema.org/url> "https://docs.vllm.ai/en/latest/usage/v1_guide/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s6> <http://purl.org/dc/terms/publisher> "vLLM documentation (stable, October 2026)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s6> <http://purl.org/dc/terms/title> "Online serving (OpenAI-compatible server)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s6> <https://schema.org/url> "https://docs.vllm.ai/en/stable/serving/online_serving/" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s1> <http://purl.org/dc/terms/publisher> "arXiv 2305.16291 (Wang et al., authors' version)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s1> <http://purl.org/dc/terms/title> "Voyager: An Open-Ended Embodied Agent with Large Language Models (v2)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -7307,6 +7337,34 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/flamingo-a-visual-language-model-for-few-shot-learning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vllm> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vllm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Tool> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vllm> <http://www.w3.org/2000/01/rdf-schema#label> "vLLM" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vllm> <http://www.w3.org/2004/02/skos/core#altLabel> "vLLM inference engine" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vllm> <http://www.w3.org/2004/02/skos/core#altLabel> "vLLM serving engine" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vllm> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/llm-inference-optimization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vllm> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vllm> <http://www.w3.org/2004/02/skos/core#definition> "An open-source, high-throughput and memory-efficient inference and serving engine for large language models, created at UC Berkeley around PagedAttention and now a PyTorch Foundation-hosted project that exposes OpenAI-compatible APIs across many hardware backends." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vllm> <http://www.w3.org/2004/02/skos/core#prefLabel> "vLLM" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vllm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/batching-and-paged-attention> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vllm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vllm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vllm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vllm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/speculative-decoding> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vllm> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vllm> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vllm> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vllm> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vllm> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vllm> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vllm> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vllm> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vllm> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/uc-berkeley> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vllm> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vllm> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "inference-and-optimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vllm> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/efficient-memory-management-for-large-language-model-serving-with-pagedattention> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vllm> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vllm> <https://github.com/john1hsu/ai-knowledge-graph/ontology#runsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Model> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <http://www.w3.org/2000/01/rdf-schema#label> "Voyager (embodied LLM agent)" .

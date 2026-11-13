@@ -5,16 +5,15 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:distributed-training` | `kt:cuda`, `kt:data-parallelism`, `kt:mlops`, `kt:nvidia`, `kt:pytorch`, `kt:tpu`, `kt:pretraining` |
-| `kt:vllm` | `kt:hugging-face-transformers`, `kt:model-serving`, `kt:awq`, `kt:awq`, `kt:batching-and-paged-attention`, `kt:speculative-decoding`, `kt:tensorrt-llm` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:dartmouth-workshop`, `kt:turing-test`, `kt:ai-governance`, `kt:machine-learning`, `kt:ai-safety` |
 | `kt:eu-ai-act` | `kt:ai-governance`, `kt:algorithmic-bias-and-fairness`, `kt:compute-governance`, `kt:executive-orders-on-ai`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda` |
+| `kt:llm-inference-optimization` | `kt:model-serving`, `kt:batching-and-paged-attention`, `kt:flash-attention`, `kt:speculative-decoding`, `kt:tensorrt-llm`, `kt:vllm` |
 | `kt:regularization` | `kt:dropout`, `kt:model-pruning`, `kt:bias-variance-tradeoff`, `kt:conditional-random-field`, `kt:double-descent`, `kt:overfitting` |
 | `kt:ai-accelerator` | `kt:high-bandwidth-memory`, `kt:model-serving`, `kt:tpu`, `kt:ai-chip-export-controls`, `kt:compute-governance` |
 | `kt:beam-search` | `kt:sampling-temperature-and-top-p`, `kt:self-consistency`, `kt:knowledge-distillation`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
 | `kt:ensemble-methods` | `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:few-shot-prompting` | `kt:chain-of-thought`, `kt:prompt-engineering`, `kt:prompt-sensitivity`, `kt:instruction-tuning`, `kt:in-context-learning` |
 | `kt:google` | `kt:agent2agent-protocol`, `kt:tpu`, `kt:an-image-is-worth-16x16-words`, `kt:word2vec`, `kt:attention-is-all-you-need` |
-| `kt:llm-inference-optimization` | `kt:model-serving`, `kt:batching-and-paged-attention`, `kt:flash-attention`, `kt:speculative-decoding`, `kt:tensorrt-llm` |
 | `kt:react-prompting` | `kt:ai-agent`, `kt:autogen`, `kt:tool-use`, `kt:toolformer`, `kt:chain-of-thought` |
 | `kt:representation-learning` | `kt:clip`, `kt:deep-learning`, `kt:embeddings`, `kt:glove`, `kt:word2vec` |
 | `kt:vision-transformer` | `kt:an-image-is-worth-16x16-words`, `kt:clip`, `kt:object-detection`, `kt:yolo`, `kt:convolutional-neural-network` |
@@ -41,6 +40,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:gradient-descent` | `kt:adam-optimizer`, `kt:backpropagation`, `kt:deep-learning` |
 | `kt:hugging-face-trl` | `kt:direct-preference-optimization`, `kt:instruction-tuning`, `kt:rlhf` |
 | `kt:hybrid-search` | `kt:bm25`, `kt:bm25`, `kt:semantic-search` |
+| `kt:kv-cache` | `kt:batching-and-paged-attention`, `kt:speculative-decoding`, `kt:vllm` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
 | `kt:ms-coco` | `kt:faster-r-cnn`, `kt:object-detection`, `kt:yolo` |
 | `kt:natural-language-processing` | `kt:eliza`, `kt:prompt-engineering`, `kt:information-retrieval` |
@@ -57,17 +57,18 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:automatic-differentiation` | `kt:pytorch`, `kt:backpropagation` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:yolo` |
 | `kt:batch-normalization` | `kt:data-parallelism`, `kt:yolo` |
+| `kt:chatbot-arena` | `kt:llm-as-a-judge`, `kt:vllm` |
 | `kt:computing-power-and-the-governance-of-artificial-intelligence` | `kt:compute-governance`, `kt:compute-governance` |
 | `kt:cross-validation` | `kt:bias-variance-tradeoff`, `kt:overfitting` |
 | `kt:curse-of-dimensionality` | `kt:universal-approximation-theorem`, `kt:dimensionality-reduction` |
 | `kt:deep-belief-network` | `kt:geoffrey-hinton`, `kt:deep-learning` |
 | `kt:deep-learning-framework` | `kt:hugging-face-transformers`, `kt:pytorch` |
 | `kt:double-q-learning` | `kt:deep-q-network`, `kt:q-learning` |
+| `kt:efficient-memory-management-for-large-language-model-serving-with-pagedattention` | `kt:batching-and-paged-attention`, `kt:vllm` |
 | `kt:export-control-reform-act` | `kt:ai-chip-export-controls`, `kt:bureau-of-industry-and-security` |
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
 | `kt:google-deepmind` | `kt:alphago`, `kt:deep-q-network` |
 | `kt:induction-head` | `kt:mechanistic-interpretability`, `kt:in-context-learning` |
-| `kt:kv-cache` | `kt:batching-and-paged-attention`, `kt:speculative-decoding` |
 | `kt:latent-semantic-analysis` | `kt:glove`, `kt:semantic-search` |
 | `kt:marvin-minsky` | `kt:dartmouth-workshop`, `kt:perceptron` |
 | `kt:meta-ai` | `kt:toolformer`, `kt:pytorch` |
@@ -129,7 +130,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chain-of-thought-prompting-elicits-reasoning-in-large-language-models` | `kt:chain-of-thought` |
 | `kt:charles-goodhart` | `kt:goodharts-law` |
 | `kt:chatbot` | `kt:eliza` |
-| `kt:chatbot-arena` | `kt:llm-as-a-judge` |
 | `kt:christopher-watkins` | `kt:q-learning` |
 | `kt:cliff-shaw` | `kt:logic-theorist` |
 | `kt:clipper-prediction-serving-system` | `kt:model-serving` |
@@ -158,7 +158,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dropout-a-simple-way-to-prevent-neural-networks-from-overfitting` | `kt:dropout` |
 | `kt:edward-feigenbaum` | `kt:expert-systems` |
 | `kt:efficient-estimation-of-word-representations-in-vector-space` | `kt:word2vec` |
-| `kt:efficient-memory-management-for-large-language-model-serving-with-pagedattention` | `kt:batching-and-paged-attention` |
 | `kt:eliza-a-computer-program-for-the-study-of-natural-language-communication-between-man-and-machine` | `kt:eliza` |
 | `kt:eliza-effect` | `kt:eliza` |
 | `kt:emergent-abilities-of-large-language-models` | `kt:emergent-abilities` |
@@ -341,6 +340,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:trust-region-policy-optimization` | `kt:proximal-policy-optimization` |
 | `kt:truthfulqa-measuring-how-models-mimic-human-falsehoods` | `kt:truthfulqa` |
 | `kt:turing-machine` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
+| `kt:uc-berkeley` | `kt:vllm` |
 | `kt:uk-ai-security-institute` | `kt:ai-safety-institutes` |
 | `kt:umap` | `kt:dimensionality-reduction` |
 | `kt:underfitting` | `kt:overfitting` |

@@ -2953,6 +2953,27 @@
     ]
   },
   {
+    "id": "kt:vllm",
+    "title": "vLLM",
+    "aliases": [
+      "vLLM inference engine",
+      "vLLM serving engine"
+    ],
+    "type": "Tool",
+    "domain": "inference-and-optimization",
+    "file": "articles/inference-and-optimization/vllm.md",
+    "created": "2026-11-13",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/abs/2309.06180",
+      "https://vllm.ai/blog/2023-06-20-vllm",
+      "https://vllm.ai/blog/2025-01-27-v1-alpha-release",
+      "https://pytorch.org/blog/pytorch-foundation-welcomes-vllm/",
+      "https://docs.vllm.ai/en/latest/usage/v1_guide/",
+      "https://docs.vllm.ai/en/stable/serving/online_serving/"
+    ]
+  },
+  {
     "id": "kt:voyager",
     "title": "Voyager (embodied LLM agent)",
     "aliases": [
