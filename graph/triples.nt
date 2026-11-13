@@ -1286,6 +1286,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/expert-systems> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/expert-systems> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Paradigm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/expert-systems> <http://www.w3.org/2000/01/rdf-schema#label> "Expert systems" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/expert-systems> <http://www.w3.org/2004/02/skos/core#altLabel> "expert system" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/expert-systems> <http://www.w3.org/2004/02/skos/core#altLabel> "knowledge-based system" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/expert-systems> <http://www.w3.org/2004/02/skos/core#altLabel> "rule-based expert system" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/expert-systems> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-representation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/expert-systems> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/expert-systems> <http://www.w3.org/2004/02/skos/core#definition> "Symbolic AI programs that capture the knowledge of human specialists in a narrow domain, usually as if-then production rules in a knowledge base, and apply it through a separate inference engine; pioneered at Stanford with DENDRAL (from 1965) and MYCIN (from 1972), they were the first commercially significant form of AI." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/expert-systems> <http://www.w3.org/2004/02/skos/core#prefLabel> "Expert systems" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/expert-systems> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-winter> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/expert-systems> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/dendral> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/expert-systems> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/expert-systems> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/mycin> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/expert-systems> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/expert-systems/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/expert-systems> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/expert-systems/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/expert-systems> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/expert-systems/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/expert-systems> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/expert-systems/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/expert-systems> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/expert-systems/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/expert-systems> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/expert-systems> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/edward-feigenbaum> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/expert-systems> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-history" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/expert-systems> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/inference-engine> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/expert-systems> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-base> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/expert-systems> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "historical" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <http://www.w3.org/2000/01/rdf-schema#label> "Exploration-exploitation dilemma" .
@@ -4460,6 +4485,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/executive-orders-on-ai/s6> <https://schema.org/url> "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/expert-systems/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/expert-systems/s1> <http://purl.org/dc/terms/title> "Artificial intelligence: Expert systems" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/expert-systems/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/expert-systems/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/expert-systems/s1> <https://schema.org/url> "https://www.britannica.com:443/technology/artificial-intelligence/Expert-systems" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/expert-systems/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/expert-systems/s2> <http://purl.org/dc/terms/title> "Edward Albert Feigenbaum" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/expert-systems/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/expert-systems/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/expert-systems/s2> <https://schema.org/url> "https://www.britannica.com/biography/Edward-Albert-Feigenbaum" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/expert-systems/s3> <http://purl.org/dc/terms/publisher> "B. G. Buchanan and E. H. Shortliffe (eds.), Addison-Wesley, 1984 (author-hosted edition, Columbia DBMI)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/expert-systems/s3> <http://purl.org/dc/terms/title> "Rule-Based Expert Systems: The MYCIN Experiments of the Stanford Heuristic Programming Project" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/expert-systems/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/expert-systems/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/expert-systems/s3> <https://schema.org/url> "https://people.dbmi.columbia.edu/~ehs7001/Buchanan-Shortliffe-1984/MYCIN%20Book.htm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/expert-systems/s4> <http://purl.org/dc/terms/publisher> "B. G. Buchanan and E. H. Shortliffe, Addison-Wesley, 1984" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/expert-systems/s4> <http://purl.org/dc/terms/title> "Major Lessons from This Work (ch. 36 of Rule-Based Expert Systems)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/expert-systems/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/expert-systems/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/expert-systems/s4> <https://schema.org/url> "https://people.dbmi.columbia.edu/shortliffe/Buchanan-Shortliffe-1984/Chapter-36.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/expert-systems/s5> <http://purl.org/dc/terms/publisher> "J. McDermott and B. Steele, Proceedings of IJCAI 1981, pp. 824–827" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/expert-systems/s5> <http://purl.org/dc/terms/title> "Extending a Knowledge-Based System to Deal with Ad Hoc Constraints" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/expert-systems/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/expert-systems/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/expert-systems/s5> <https://schema.org/url> "https://ijcai.org/proceedings/1981/157" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s1> <http://purl.org/dc/terms/publisher> "MIT Press, 2018 (Sutton and Barto), course copy hosted by Texas A&M CSCE 421" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s1> <http://purl.org/dc/terms/title> "Reinforcement Learning: An Introduction (2nd ed.)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

@@ -28,6 +28,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:reranking` | `kt:beir`, `kt:bm25`, `kt:retrieval-augmented-generation`, `kt:semantic-search` |
 | `kt:self-attention` | `kt:flash-attention`, `kt:attention-is-all-you-need`, `kt:context-window`, `kt:transformer-architecture` |
 | `kt:statistical-learning-theory` | `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:overfitting`, `kt:supervised-learning` |
+| `kt:symbolic-ai` | `kt:dartmouth-workshop`, `kt:eliza`, `kt:expert-systems`, `kt:logic-theorist` |
 | `kt:tensor-cores` | `kt:gpu-computing`, `kt:nvidia`, `kt:model-pruning`, `kt:tensorrt-llm` |
 | `kt:unsupervised-learning` | `kt:dimensionality-reduction`, `kt:machine-learning`, `kt:principal-component-analysis`, `kt:supervised-learning` |
 | `kt:vector-database` | `kt:approximate-nearest-neighbor-search`, `kt:embeddings`, `kt:retrieval-augmented-generation`, `kt:semantic-search` |
@@ -47,11 +48,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:orca-serving-system` | `kt:model-serving`, `kt:batching-and-paged-attention`, `kt:tensorrt-llm` |
 | `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:gpu-computing` |
 | `kt:positional-encoding` | `kt:attention-is-all-you-need`, `kt:context-window`, `kt:transformer-architecture` |
-| `kt:symbolic-ai` | `kt:dartmouth-workshop`, `kt:eliza`, `kt:logic-theorist` |
 | `kt:temporal-difference-learning` | `kt:actor-critic`, `kt:q-learning`, `kt:reinforcement-learning` |
 | `kt:wmt-2014` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
 | `kt:adversarial-machine-learning` | `kt:ai-safety`, `kt:jailbreak` |
+| `kt:ai-winter` | `kt:expert-systems`, `kt:perceptron` |
 | `kt:apache-lucene` | `kt:bm25`, `kt:tf-idf` |
 | `kt:automatic-differentiation` | `kt:pytorch`, `kt:backpropagation` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:yolo` |
@@ -95,7 +96,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ai-risk-management` | `kt:nist-ai-risk-management-framework` |
 | `kt:ai-safety-summit` | `kt:ai-safety-institutes` |
 | `kt:ai-safety-via-debate` | `kt:scalable-oversight` |
-| `kt:ai-winter` | `kt:perceptron` |
 | `kt:alan-turing` | `kt:turing-test` |
 | `kt:alex-graves` | `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
 | `kt:alfworld` | `kt:autogen` |
@@ -148,6 +148,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:data-poisoning` | `kt:benchmark-contamination` |
 | `kt:deep-reinforcement-learning-from-human-preferences` | `kt:rlhf` |
 | `kt:deep-unsupervised-learning-using-nonequilibrium-thermodynamics` | `kt:diffusion-model` |
+| `kt:dendral` | `kt:expert-systems` |
 | `kt:devops` | `kt:mlops` |
 | `kt:diederik-kingma` | `kt:adam-optimizer` |
 | `kt:differential-privacy` | `kt:synthetic-data` |
@@ -155,6 +156,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:distilling-the-knowledge-in-a-neural-network` | `kt:knowledge-distillation` |
 | `kt:dram` | `kt:high-bandwidth-memory` |
 | `kt:dropout-a-simple-way-to-prevent-neural-networks-from-overfitting` | `kt:dropout` |
+| `kt:edward-feigenbaum` | `kt:expert-systems` |
 | `kt:efficient-estimation-of-word-representations-in-vector-space` | `kt:word2vec` |
 | `kt:efficient-memory-management-for-large-language-model-serving-with-pagedattention` | `kt:batching-and-paged-attention` |
 | `kt:eliza-a-computer-program-for-the-study-of-natural-language-communication-between-man-and-machine` | `kt:eliza` |
@@ -199,6 +201,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:imagenet-classification-with-deep-convolutional-neural-networks` | `kt:imagenet-and-alexnet` |
 | `kt:imagenet-large-scale-visual-recognition-challenge` | `kt:imagenet-and-alexnet` |
 | `kt:in-datacenter-performance-analysis-of-a-tensor-processing-unit` | `kt:tpu` |
+| `kt:inference-engine` | `kt:expert-systems` |
 | `kt:information-processing-language` | `kt:logic-theorist` |
 | `kt:information-science` | `kt:information-retrieval` |
 | `kt:inspect-ai` | `kt:ai-evaluation` |
@@ -217,6 +220,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:karen-sparck-jones` | `kt:tf-idf` |
 | `kt:karl-pearson` | `kt:principal-component-analysis` |
 | `kt:kernel-pca` | `kt:principal-component-analysis` |
+| `kt:knowledge-base` | `kt:expert-systems` |
+| `kt:knowledge-representation` | `kt:expert-systems` |
 | `kt:langchain` | `kt:langgraph` |
 | `kt:language-model` | `kt:large-language-model` |
 | `kt:language-models-are-few-shot-learners` | `kt:in-context-learning` |
@@ -261,6 +266,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mteb` | `kt:beir` |
 | `kt:multi-armed-bandit` | `kt:exploration-exploitation` |
 | `kt:multimodal-learning` | `kt:vision-language-model` |
+| `kt:mycin` | `kt:expert-systems` |
 | `kt:neocognitron` | `kt:convolutional-neural-network` |
 | `kt:nist` | `kt:nist-ai-risk-management-framework` |
 | `kt:nist-generative-ai-profile` | `kt:nist-ai-risk-management-framework` |

@@ -1094,6 +1094,27 @@
     ]
   },
   {
+    "id": "kt:expert-systems",
+    "title": "Expert systems",
+    "aliases": [
+      "expert system",
+      "knowledge-based system",
+      "rule-based expert system"
+    ],
+    "type": "Paradigm",
+    "domain": "ai-history",
+    "file": "articles/ai-history/expert-systems.md",
+    "created": "2026-11-13",
+    "maturity": "historical",
+    "source_urls": [
+      "https://www.britannica.com:443/technology/artificial-intelligence/Expert-systems",
+      "https://www.britannica.com/biography/Edward-Albert-Feigenbaum",
+      "https://people.dbmi.columbia.edu/~ehs7001/Buchanan-Shortliffe-1984/MYCIN%20Book.htm",
+      "https://people.dbmi.columbia.edu/shortliffe/Buchanan-Shortliffe-1984/Chapter-36.pdf",
+      "https://ijcai.org/proceedings/1981/157"
+    ]
+  },
+  {
     "id": "kt:exploration-exploitation",
     "title": "Exploration-exploitation dilemma",
     "aliases": [
