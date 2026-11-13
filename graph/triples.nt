@@ -2632,6 +2632,30 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "prompting-and-reasoning" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-injection> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-injection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Risk> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-injection> <http://www.w3.org/2000/01/rdf-schema#label> "Prompt injection" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-injection> <http://www.w3.org/2004/02/skos/core#altLabel> "LLM01" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-injection> <http://www.w3.org/2004/02/skos/core#altLabel> "direct prompt injection" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-injection> <http://www.w3.org/2004/02/skos/core#altLabel> "indirect prompt injection" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-injection> <http://www.w3.org/2004/02/skos/core#altLabel> "prompt injection attack" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-injection> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-injection> <http://www.w3.org/2004/02/skos/core#definition> "A class of attacks on applications built around language models in which text supplied by a user or embedded in content the model reads is interpreted as instructions, overriding or subverting what the developer intended." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-injection> <http://www.w3.org/2004/02/skos/core#prefLabel> "Prompt injection" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-injection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-injection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/instruction-hierarchy> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-injection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-injection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-injection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-injection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-injection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-injection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-injection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-injection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-injection> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/jailbreak> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-injection> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "safety-alignment-and-security" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-injection> <https://github.com/john1hsu/ai-knowledge-graph/ontology#exploits> <https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/prompt-injection> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> <http://www.w3.org/2000/01/rdf-schema#label> "Prompt sensitivity" .
@@ -6032,6 +6056,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-engineering/s6> <https://schema.org/url> "https://developers.openai.com/api/docs/guides/prompt-engineering" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s1> <http://purl.org/dc/terms/publisher> "NIST (Vassilev, Oprea, Fordyce, Anderson, Davies, Hamin), March 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s1> <http://purl.org/dc/terms/title> "Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations (NIST AI 100-2 E2025)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s1> <https://schema.org/url> "https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-2e2025.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s2> <http://purl.org/dc/terms/publisher> "arXiv:2302.12173 (Greshake, Abdelnabi, Mishra, Endres, Holz, Fritz), 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s2> <http://purl.org/dc/terms/title> "Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s2> <https://schema.org/url> "https://arxiv.org/abs/2302.12173v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s3> <http://purl.org/dc/terms/publisher> "USENIX Security 2024 (Liu, Jia, Geng, Jia, Gong)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s3> <http://purl.org/dc/terms/title> "Formalizing and Benchmarking Prompt Injection Attacks and Defenses" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s3> <https://schema.org/url> "https://www.usenix.org/conference/usenixsecurity24/presentation/liu-yupei" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s4> <http://purl.org/dc/terms/publisher> "arXiv:2404.13208 (Wallace, Xiao, Leike, Weng, Heidecke, Beutel), 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s4> <http://purl.org/dc/terms/title> "The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s4> <https://schema.org/url> "https://arxiv.org/abs/2404.13208v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s5> <http://purl.org/dc/terms/publisher> "OWASP Gen AI Security Project, Top 10 for LLM Applications 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s5> <http://purl.org/dc/terms/title> "LLM01:2025 Prompt Injection" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s5> <https://schema.org/url> "https://genai.owasp.org/llmrisk/llm01-prompt-injection/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s6> <http://purl.org/dc/terms/publisher> "Hackaday, 16 September 2022" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s6> <http://purl.org/dc/terms/title> "What's Old Is New Again: GPT-3 Prompt Injection Attack Affects AI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-injection/s6> <https://schema.org/url> "https://hackaday.com/2022/09/16/whats-old-is-new-again-gpt-3-prompt-injection-attack-affects-ai" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s1> <http://purl.org/dc/terms/publisher> "ICML 2021, PMLR vol. 139, pp. 12697-12706 (Zhao, Wallace, Feng, Klein, Singh)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s1> <http://purl.org/dc/terms/title> "Calibrate Before Use: Improving Few-shot Performance of Language Models" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/prompt-sensitivity/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

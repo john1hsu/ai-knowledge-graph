@@ -2226,6 +2226,29 @@
     ]
   },
   {
+    "id": "kt:prompt-injection",
+    "title": "Prompt injection",
+    "aliases": [
+      "prompt injection attack",
+      "indirect prompt injection",
+      "direct prompt injection",
+      "LLM01"
+    ],
+    "type": "Risk",
+    "domain": "safety-alignment-and-security",
+    "file": "articles/safety-alignment-and-security/prompt-injection.md",
+    "created": "2026-11-13",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-2e2025.pdf",
+      "https://arxiv.org/abs/2302.12173v2",
+      "https://www.usenix.org/conference/usenixsecurity24/presentation/liu-yupei",
+      "https://arxiv.org/abs/2404.13208v1",
+      "https://genai.owasp.org/llmrisk/llm01-prompt-injection/",
+      "https://hackaday.com/2022/09/16/whats-old-is-new-again-gpt-3-prompt-injection-attack-affects-ai"
+    ]
+  },
+  {
     "id": "kt:prompt-sensitivity",
     "title": "Prompt sensitivity",
     "aliases": [

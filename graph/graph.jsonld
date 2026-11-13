@@ -11392,6 +11392,89 @@
       ]
     },
     {
+      "@id": "kt:prompt-injection",
+      "@type": "kto:Risk",
+      "skos:prefLabel": "Prompt injection",
+      "skos:definition": "A class of attacks on applications built around language models in which text supplied by a user or embedded in content the model reads is interpreted as instructions, overriding or subverting what the developer intended.",
+      "kto:domain": "safety-alignment-and-security",
+      "dcterms:created": "2026-11-13",
+      "kto:maturity": "emerging",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations (NIST AI 100-2 E2025)",
+          "dcterms:publisher": "NIST (Vassilev, Oprea, Fordyce, Anderson, Davies, Hamin), March 2025",
+          "schema:url": "https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-2e2025.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection",
+          "dcterms:publisher": "arXiv:2302.12173 (Greshake, Abdelnabi, Mishra, Endres, Holz, Fritz), 2023",
+          "schema:url": "https://arxiv.org/abs/2302.12173v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Formalizing and Benchmarking Prompt Injection Attacks and Defenses",
+          "dcterms:publisher": "USENIX Security 2024 (Liu, Jia, Geng, Jia, Gong)",
+          "schema:url": "https://www.usenix.org/conference/usenixsecurity24/presentation/liu-yupei",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions",
+          "dcterms:publisher": "arXiv:2404.13208 (Wallace, Xiao, Leike, Weng, Heidecke, Beutel), 2024",
+          "schema:url": "https://arxiv.org/abs/2404.13208v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "LLM01:2025 Prompt Injection",
+          "dcterms:publisher": "OWASP Gen AI Security Project, Top 10 for LLM Applications 2025",
+          "schema:url": "https://genai.owasp.org/llmrisk/llm01-prompt-injection/",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "What's Old Is New Again: GPT-3 Prompt Injection Attack Affects AI",
+          "dcterms:publisher": "Hackaday, 16 September 2022",
+          "schema:url": "https://hackaday.com/2022/09/16/whats-old-is-new-again-gpt-3-prompt-injection-attack-affects-ai",
+          "kto:sourceType": "news"
+        }
+      ],
+      "kto:file": "articles/safety-alignment-and-security/prompt-injection.md",
+      "skos:altLabel": [
+        "prompt injection attack",
+        "indirect prompt injection",
+        "direct prompt injection",
+        "LLM01"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:adversarial-machine-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:ai-agent"
+        },
+        {
+          "@id": "kt:red-teaming"
+        },
+        {
+          "@id": "kt:retrieval-augmented-generation"
+        },
+        {
+          "@id": "kt:instruction-hierarchy"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:jailbreak"
+        }
+      ],
+      "kto:exploits": [
+        {
+          "@id": "kt:tool-use"
+        }
+      ]
+    },
+    {
       "@id": "kt:reward-hacking",
       "@type": "kto:Risk",
       "skos:prefLabel": "Reward hacking",

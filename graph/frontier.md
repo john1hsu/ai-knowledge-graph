@@ -19,7 +19,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:model-compression` | `kt:gptq`, `kt:model-pruning`, `kt:quantization`, `kt:knowledge-distillation` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent`, `kt:generative-agents-interactive-simulacra-of-human-behavior`, `kt:voyager` |
-| `kt:prompt-injection` | `kt:agent2agent-protocol`, `kt:tool-use`, `kt:red-teaming`, `kt:jailbreak` |
 | `kt:reranking` | `kt:beir`, `kt:bm25`, `kt:retrieval-augmented-generation`, `kt:semantic-search` |
 | `kt:self-attention` | `kt:flash-attention`, `kt:attention-is-all-you-need`, `kt:context-window`, `kt:transformer-architecture` |
 | `kt:symbolic-ai` | `kt:dartmouth-workshop`, `kt:eliza`, `kt:expert-systems`, `kt:logic-theorist` |
@@ -27,6 +26,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:unsupervised-learning` | `kt:dimensionality-reduction`, `kt:machine-learning`, `kt:principal-component-analysis`, `kt:supervised-learning` |
 | `kt:vector-database` | `kt:approximate-nearest-neighbor-search`, `kt:embeddings`, `kt:retrieval-augmented-generation`, `kt:semantic-search` |
 | `kt:adagrad` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:glove` |
+| `kt:adversarial-machine-learning` | `kt:ai-safety`, `kt:jailbreak`, `kt:prompt-injection` |
 | `kt:ai-hardware` | `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
 | `kt:attention-mechanism` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
 | `kt:concrete-problems-in-ai-safety` | `kt:ai-safety`, `kt:reward-hacking`, `kt:scalable-oversight` |
@@ -47,7 +47,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:vanishing-gradient-problem` | `kt:activation-function`, `kt:long-short-term-memory`, `kt:recurrent-neural-network` |
 | `kt:wmt-2014` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
-| `kt:adversarial-machine-learning` | `kt:ai-safety`, `kt:jailbreak` |
 | `kt:ai-winter` | `kt:expert-systems`, `kt:perceptron` |
 | `kt:apache-lucene` | `kt:bm25`, `kt:tf-idf` |
 | `kt:automatic-differentiation` | `kt:pytorch`, `kt:backpropagation` |
@@ -209,6 +208,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:information-processing-language` | `kt:logic-theorist` |
 | `kt:information-science` | `kt:information-retrieval` |
 | `kt:inspect-ai` | `kt:ai-evaluation` |
+| `kt:instruction-hierarchy` | `kt:prompt-injection` |
 | `kt:interpretability` | `kt:mechanistic-interpretability` |
 | `kt:intrinsic-motivation` | `kt:exploration-exploitation` |
 | `kt:inverted-index` | `kt:information-retrieval` |
