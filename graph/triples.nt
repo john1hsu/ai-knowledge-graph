@@ -1208,6 +1208,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/direct-preference-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "training-and-adaptation" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/direct-preference-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/direct-preference-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Paradigm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> <http://www.w3.org/2000/01/rdf-schema#label> "Distributed training" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> <http://www.w3.org/2004/02/skos/core#altLabel> "3D parallelism" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> <http://www.w3.org/2004/02/skos/core#altLabel> "distributed deep learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> <http://www.w3.org/2004/02/skos/core#altLabel> "multi-GPU training" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> <http://www.w3.org/2004/02/skos/core#altLabel> "parallel training" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/parallel-computing> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> <http://www.w3.org/2004/02/skos/core#definition> "Training a single neural network across many accelerators or machines by partitioning the data, the layers or the individual weight matrices, and synchronizing gradients and activations over collective communication so the devices act as one larger computer." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> <http://www.w3.org/2004/02/skos/core#prefLabel> "Distributed training" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/zero-redundancy-optimizer> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/distributed-training/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/distributed-training/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/distributed-training/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/distributed-training/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/all-reduce> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-infrastructure-and-mlops" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/data-parallelism> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/pipeline-parallelism> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/tensor-parallelism> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <http://www.w3.org/2000/01/rdf-schema#label> "Double descent" .
@@ -4685,6 +4710,26 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/direct-preference-optimization/s6> <https://schema.org/url> "https://arxiv.org/abs/2310.16944" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/distributed-training/s1> <http://purl.org/dc/terms/publisher> "arXiv:1909.08053 (Shoeybi, Patwary, Puri, LeGresley, Casper, Catanzaro), NVIDIA, 2019" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/distributed-training/s1> <http://purl.org/dc/terms/title> "Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/distributed-training/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/distributed-training/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/distributed-training/s1> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/1909.08053" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/distributed-training/s2> <http://purl.org/dc/terms/publisher> "NeurIPS 2019 (Huang, Cheng, Bapna, Firat, Chen, Chen, Lee, Ngiam, Le, Wu, Chen)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/distributed-training/s2> <http://purl.org/dc/terms/title> "GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/distributed-training/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/distributed-training/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/distributed-training/s2> <https://schema.org/url> "https://papers.nips.cc/paper/2019/file/093f65e080a295f8076b1c5722a46aa2-Paper.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/distributed-training/s3> <http://purl.org/dc/terms/publisher> "SC '21 (Narayanan, Shoeybi, Casper, LeGresley, Patwary, Korthikanti, Vainbrand, Kashinkunti, Bernauer, Catanzaro, Phanishayee, Zaharia)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/distributed-training/s3> <http://purl.org/dc/terms/title> "Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/distributed-training/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/distributed-training/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/distributed-training/s3> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/2104.04473" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/distributed-training/s4> <http://purl.org/dc/terms/publisher> "PyTorch tutorials (Will Constable)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/distributed-training/s4> <http://purl.org/dc/terms/title> "PyTorch Distributed Overview" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/distributed-training/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/distributed-training/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/distributed-training/s4> <https://schema.org/url> "https://docs.pytorch.org/tutorials/_sources/beginner/dist_overview.rst.txt" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s1> <http://purl.org/dc/terms/publisher> "arXiv:1812.11118 (Belkin, Hsu, Ma, Mandal), 2018; v2 2019; published in PNAS, doi 10.1073/pnas.1903070116" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s1> <http://purl.org/dc/terms/title> "Reconciling modern machine learning practice and the bias-variance trade-off" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

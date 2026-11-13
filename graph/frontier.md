@@ -4,7 +4,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:distributed-training` | `kt:cuda`, `kt:data-parallelism`, `kt:mlops`, `kt:nvidia`, `kt:pytorch`, `kt:tpu`, `kt:pretraining` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:dartmouth-workshop`, `kt:turing-test`, `kt:ai-governance`, `kt:machine-learning`, `kt:ai-safety` |
 | `kt:ensemble-methods` | `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:regularization`, `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:google` | `kt:agent2agent-protocol`, `kt:react-prompting`, `kt:tpu`, `kt:an-image-is-worth-16x16-words`, `kt:word2vec`, `kt:attention-is-all-you-need` |
@@ -20,6 +19,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hybrid-search` | `kt:bm25`, `kt:bm25`, `kt:reranking`, `kt:semantic-search` |
 | `kt:kv-cache` | `kt:batching-and-paged-attention`, `kt:speculative-decoding`, `kt:vllm`, `kt:self-attention` |
 | `kt:model-compression` | `kt:gptq`, `kt:model-pruning`, `kt:quantization`, `kt:knowledge-distillation` |
+| `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent`, `kt:generative-agents-interactive-simulacra-of-human-behavior`, `kt:voyager` |
 | `kt:positional-encoding` | `kt:attention-is-all-you-need`, `kt:context-window`, `kt:self-attention`, `kt:transformer-architecture` |
 | `kt:symbolic-ai` | `kt:dartmouth-workshop`, `kt:eliza`, `kt:expert-systems`, `kt:logic-theorist` |
@@ -40,13 +40,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:natural-language-processing` | `kt:eliza`, `kt:prompt-engineering`, `kt:information-retrieval` |
 | `kt:openai` | `kt:clip`, `kt:gsm8k`, `kt:proximal-policy-optimization` |
 | `kt:orca-serving-system` | `kt:model-serving`, `kt:batching-and-paged-attention`, `kt:tensorrt-llm` |
-| `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:gpu-computing` |
 | `kt:temporal-difference-learning` | `kt:actor-critic`, `kt:q-learning`, `kt:reinforcement-learning` |
 | `kt:vanishing-gradient-problem` | `kt:activation-function`, `kt:long-short-term-memory`, `kt:recurrent-neural-network` |
 | `kt:wmt-2014` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
 | `kt:ai-winter` | `kt:expert-systems`, `kt:perceptron` |
 | `kt:alfworld` | `kt:autogen`, `kt:react-prompting` |
+| `kt:all-reduce` | `kt:data-parallelism`, `kt:distributed-training` |
 | `kt:alphago-zero` | `kt:alphago`, `kt:alphazero` |
 | `kt:apache-lucene` | `kt:bm25`, `kt:tf-idf` |
 | `kt:automatic-differentiation` | `kt:pytorch`, `kt:backpropagation` |
@@ -89,6 +89,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:vector-space-model` | `kt:information-retrieval`, `kt:tf-idf` |
 | `kt:weight-decay` | `kt:dropout`, `kt:regularization` |
+| `kt:zero-redundancy-optimizer` | `kt:data-parallelism`, `kt:distributed-training` |
 | `kt:zero-shot-learning` | `kt:clip`, `kt:instruction-tuning` |
 | `kt:adam-a-method-for-stochastic-optimization` | `kt:adam-optimizer` |
 | `kt:adamw` | `kt:adam-optimizer` |
@@ -99,7 +100,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ai-safety-via-debate` | `kt:scalable-oversight` |
 | `kt:alan-turing` | `kt:turing-test` |
 | `kt:alex-graves` | `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
-| `kt:all-reduce` | `kt:data-parallelism` |
 | `kt:allen-institute-for-ai` | `kt:commonsenseqa` |
 | `kt:allen-newell` | `kt:logic-theorist` |
 | `kt:ann-benchmarks` | `kt:approximate-nearest-neighbor-search` |
@@ -292,6 +292,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pascal-voc` | `kt:object-detection` |
 | `kt:penetration-testing` | `kt:red-teaming` |
 | `kt:philosophy-of-artificial-intelligence` | `kt:chinese-room-argument` |
+| `kt:pipeline-parallelism` | `kt:distributed-training` |
 | `kt:playing-atari-with-deep-reinforcement-learning` | `kt:deep-q-network` |
 | `kt:policy-gradient-methods-for-reinforcement-learning-with-function-approximation` | `kt:policy-gradient` |
 | `kt:policy-iteration` | `kt:markov-decision-process` |
@@ -344,6 +345,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:symbol-grounding-problem` | `kt:chinese-room-argument` |
 | `kt:systolic-array` | `kt:tpu` |
 | `kt:t-sne` | `kt:dimensionality-reduction` |
+| `kt:tensor-parallelism` | `kt:distributed-training` |
 | `kt:tensorflow-serving` | `kt:model-serving` |
 | `kt:text-to-image-generation` | `kt:diffusion-model` |
 | `kt:the-curious-case-of-neural-text-degeneration` | `kt:sampling-temperature-and-top-p` |
@@ -379,5 +381,4 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:yann-lecun` | `kt:convolutional-neural-network` |
 | `kt:yoshua-bengio` | `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
 | `kt:you-only-look-once-unified-real-time-object-detection` | `kt:yolo` |
-| `kt:zero-redundancy-optimizer` | `kt:data-parallelism` |
 | `kt:zero-shot-prompting` | `kt:few-shot-prompting` |

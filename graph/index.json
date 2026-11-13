@@ -1024,6 +1024,27 @@
     ]
   },
   {
+    "id": "kt:distributed-training",
+    "title": "Distributed training",
+    "aliases": [
+      "distributed deep learning",
+      "parallel training",
+      "multi-GPU training",
+      "3D parallelism"
+    ],
+    "type": "Paradigm",
+    "domain": "ai-infrastructure-and-mlops",
+    "file": "articles/ai-infrastructure-and-mlops/distributed-training.md",
+    "created": "2026-11-13",
+    "maturity": "established",
+    "source_urls": [
+      "https://ar5iv.labs.arxiv.org/html/1909.08053",
+      "https://papers.nips.cc/paper/2019/file/093f65e080a295f8076b1c5722a46aa2-Paper.pdf",
+      "https://ar5iv.labs.arxiv.org/html/2104.04473",
+      "https://docs.pytorch.org/tutorials/_sources/beginner/dist_overview.rst.txt"
+    ]
+  },
+  {
     "id": "kt:double-descent",
     "title": "Double descent",
     "aliases": [

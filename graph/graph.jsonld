@@ -2026,6 +2026,90 @@
       ]
     },
     {
+      "@id": "kt:distributed-training",
+      "@type": "kto:Paradigm",
+      "skos:prefLabel": "Distributed training",
+      "skos:definition": "Training a single neural network across many accelerators or machines by partitioning the data, the layers or the individual weight matrices, and synchronizing gradients and activations over collective communication so the devices act as one larger computer.",
+      "kto:domain": "ai-infrastructure-and-mlops",
+      "dcterms:created": "2026-11-13",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism",
+          "dcterms:publisher": "arXiv:1909.08053 (Shoeybi, Patwary, Puri, LeGresley, Casper, Catanzaro), NVIDIA, 2019",
+          "schema:url": "https://ar5iv.labs.arxiv.org/html/1909.08053",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism",
+          "dcterms:publisher": "NeurIPS 2019 (Huang, Cheng, Bapna, Firat, Chen, Chen, Lee, Ngiam, Le, Wu, Chen)",
+          "schema:url": "https://papers.nips.cc/paper/2019/file/093f65e080a295f8076b1c5722a46aa2-Paper.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM",
+          "dcterms:publisher": "SC '21 (Narayanan, Shoeybi, Casper, LeGresley, Patwary, Korthikanti, Vainbrand, Kashinkunti, Bernauer, Catanzaro, Phanishayee, Zaharia)",
+          "schema:url": "https://ar5iv.labs.arxiv.org/html/2104.04473",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "PyTorch Distributed Overview",
+          "dcterms:publisher": "PyTorch tutorials (Will Constable)",
+          "schema:url": "https://docs.pytorch.org/tutorials/_sources/beginner/dist_overview.rst.txt",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/ai-infrastructure-and-mlops/distributed-training.md",
+      "skos:altLabel": [
+        "distributed deep learning",
+        "parallel training",
+        "multi-GPU training",
+        "3D parallelism"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:parallel-computing"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:pretraining"
+        },
+        {
+          "@id": "kt:gpu-computing"
+        },
+        {
+          "@id": "kt:zero-redundancy-optimizer"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:data-parallelism"
+        },
+        {
+          "@id": "kt:tensor-parallelism"
+        },
+        {
+          "@id": "kt:pipeline-parallelism"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:all-reduce"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:pytorch"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:large-language-model"
+        }
+      ]
+    },
+    {
       "@id": "kt:gpu-computing",
       "@type": "kto:Paradigm",
       "skos:prefLabel": "GPU computing",
