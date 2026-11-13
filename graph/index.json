@@ -2519,6 +2519,28 @@
     ]
   },
   {
+    "id": "kt:sequence-to-sequence-learning",
+    "title": "Sequence-to-sequence learning",
+    "aliases": [
+      "seq2seq",
+      "encoder-decoder model",
+      "RNN encoder-decoder"
+    ],
+    "type": "Paradigm",
+    "domain": "transformers-and-llms",
+    "file": "articles/transformers-and-llms/sequence-to-sequence-learning.md",
+    "created": "2026-11-13",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/pdf/1409.3215",
+      "https://aclanthology.org/D14-1179.pdf",
+      "https://d2l.ai/chapter_recurrent-modern/seq2seq.html",
+      "https://web.stanford.edu/%7Ejurafsky/slp3/12.pdf",
+      "https://www.jmlr.org/papers/v21/20-074.html",
+      "https://arxiv.org/pdf/1910.10683v3"
+    ]
+  },
+  {
     "id": "kt:speculative-decoding",
     "title": "Speculative decoding",
     "aliases": [

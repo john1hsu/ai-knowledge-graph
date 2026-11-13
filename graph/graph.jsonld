@@ -12275,6 +12275,93 @@
       ]
     },
     {
+      "@id": "kt:sequence-to-sequence-learning",
+      "@type": "kto:Paradigm",
+      "skos:prefLabel": "Sequence-to-sequence learning",
+      "skos:definition": "An approach in which a neural encoder reads a variable-length input sequence into a learned representation and a decoder generates a variable-length output sequence from it token by token, trained end to end; popularised in 2014 for machine translation by Sutskever, Vinyals and Le and by Cho et al.",
+      "kto:domain": "transformers-and-llms",
+      "dcterms:created": "2026-11-13",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Sequence to Sequence Learning with Neural Networks",
+          "dcterms:publisher": "Sutskever, Vinyals and Le (Google), NIPS 2014; authors' arXiv version 1409.3215v3",
+          "schema:url": "https://arxiv.org/pdf/1409.3215",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation",
+          "dcterms:publisher": "Cho, van Merriënboer, Gulcehre, Bahdanau, Bougares, Schwenk and Bengio, Proc. EMNLP 2014, pp. 1724–1734",
+          "schema:url": "https://aclanthology.org/D14-1179.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Dive into Deep Learning, 10.7: Sequence-to-Sequence Learning for Machine Translation",
+          "dcterms:publisher": "Zhang, Lipton, Li and Smola, d2l.ai",
+          "schema:url": "https://d2l.ai/chapter_recurrent-modern/seq2seq.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Speech and Language Processing (3rd ed. draft), Chapter 12: Machine Translation",
+          "dcterms:publisher": "D. Jurafsky and J. H. Martin, Stanford University (draft of 6 January 2026)",
+          "schema:url": "https://web.stanford.edu/%7Ejurafsky/slp3/12.pdf",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+          "dcterms:publisher": "Raffel et al., Journal of Machine Learning Research 21(140):1–67, 2020",
+          "schema:url": "https://www.jmlr.org/papers/v21/20-074.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (arXiv 1910.10683v3)",
+          "dcterms:publisher": "Raffel et al., authors' arXiv version",
+          "schema:url": "https://arxiv.org/pdf/1910.10683v3",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/transformers-and-llms/sequence-to-sequence-learning.md",
+      "skos:altLabel": [
+        "seq2seq",
+        "encoder-decoder model",
+        "RNN encoder-decoder"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:deep-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:recurrent-neural-network"
+        },
+        {
+          "@id": "kt:attention-mechanism"
+        },
+        {
+          "@id": "kt:transformer-architecture"
+        },
+        {
+          "@id": "kt:beam-search"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:long-short-term-memory"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:wmt-2014"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:automatic-speech-recognition"
+        }
+      ]
+    },
+    {
       "@id": "kt:transformer-architecture",
       "@type": "kto:Architecture",
       "skos:prefLabel": "Transformer architecture",

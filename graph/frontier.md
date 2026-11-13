@@ -5,7 +5,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:pytorch` | `kt:data-parallelism`, `kt:hugging-face-transformers`, `kt:faster-r-cnn`, `kt:adam-optimizer`, `kt:backpropagation`, `kt:dropout`, `kt:long-short-term-memory`, `kt:model-pruning`, `kt:tensorrt-llm` |
-| `kt:sequence-to-sequence-learning` | `kt:automatic-speech-recognition`, `kt:long-short-term-memory`, `kt:recurrent-neural-network`, `kt:program-induction-by-rationale-generation`, `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
 | `kt:vllm` | `kt:hugging-face-transformers`, `kt:model-serving`, `kt:awq`, `kt:awq`, `kt:batching-and-paged-attention`, `kt:speculative-decoding`, `kt:tensorrt-llm` |
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:dartmouth-workshop`, `kt:turing-test`, `kt:ai-governance`, `kt:machine-learning`, `kt:ai-safety` |
 | `kt:distributed-training` | `kt:cuda`, `kt:data-parallelism`, `kt:mlops`, `kt:nvidia`, `kt:tpu`, `kt:pretraining` |
@@ -13,6 +12,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:multi-agent-systems` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:autogen`, `kt:generative-agents-interactive-simulacra-of-human-behavior`, `kt:langgraph` |
 | `kt:regularization` | `kt:dropout`, `kt:model-pruning`, `kt:bias-variance-tradeoff`, `kt:conditional-random-field`, `kt:double-descent`, `kt:overfitting` |
 | `kt:ai-accelerator` | `kt:high-bandwidth-memory`, `kt:model-serving`, `kt:tpu`, `kt:ai-chip-export-controls`, `kt:compute-governance` |
+| `kt:beam-search` | `kt:sampling-temperature-and-top-p`, `kt:self-consistency`, `kt:knowledge-distillation`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
 | `kt:ensemble-methods` | `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:few-shot-prompting` | `kt:chain-of-thought`, `kt:prompt-engineering`, `kt:prompt-sensitivity`, `kt:instruction-tuning`, `kt:in-context-learning` |
 | `kt:google` | `kt:agent2agent-protocol`, `kt:tpu`, `kt:an-image-is-worth-16x16-words`, `kt:word2vec`, `kt:attention-is-all-you-need` |
@@ -22,7 +22,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:vision-transformer` | `kt:an-image-is-worth-16x16-words`, `kt:clip`, `kt:object-detection`, `kt:yolo`, `kt:convolutional-neural-network` |
 | `kt:activation-function` | `kt:artificial-neural-network`, `kt:backpropagation`, `kt:universal-approximation-theorem`, `kt:universal-approximation-theorem` |
 | `kt:agent-memory` | `kt:ai-agent`, `kt:generative-agents-interactive-simulacra-of-human-behavior`, `kt:langgraph`, `kt:voyager` |
-| `kt:beam-search` | `kt:sampling-temperature-and-top-p`, `kt:self-consistency`, `kt:knowledge-distillation`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
 | `kt:image-classification` | `kt:imagenet-and-alexnet`, `kt:an-image-is-worth-16x16-words`, `kt:object-detection`, `kt:convolutional-neural-network` |
 | `kt:model-compression` | `kt:gptq`, `kt:model-pruning`, `kt:quantization`, `kt:knowledge-distillation` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent`, `kt:generative-agents-interactive-simulacra-of-human-behavior`, `kt:voyager` |
@@ -36,6 +35,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:adagrad` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:glove` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph` |
 | `kt:ai-hardware` | `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
+| `kt:attention-mechanism` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
 | `kt:concrete-problems-in-ai-safety` | `kt:ai-safety`, `kt:reward-hacking`, `kt:scalable-oversight` |
 | `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:geoffrey-hinton`, `kt:perceptron` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:hidden-markov-model` |
@@ -51,10 +51,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:positional-encoding` | `kt:attention-is-all-you-need`, `kt:context-window`, `kt:transformer-architecture` |
 | `kt:symbolic-ai` | `kt:dartmouth-workshop`, `kt:eliza`, `kt:logic-theorist` |
 | `kt:temporal-difference-learning` | `kt:actor-critic`, `kt:q-learning`, `kt:reinforcement-learning` |
+| `kt:wmt-2014` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
 | `kt:adversarial-machine-learning` | `kt:ai-safety`, `kt:jailbreak` |
 | `kt:apache-lucene` | `kt:bm25`, `kt:tf-idf` |
-| `kt:attention-mechanism` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:yolo` |
 | `kt:batch-normalization` | `kt:data-parallelism`, `kt:yolo` |
 | `kt:computing-power-and-the-governance-of-artificial-intelligence` | `kt:compute-governance`, `kt:compute-governance` |
@@ -86,7 +86,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:vanishing-gradient-problem` | `kt:long-short-term-memory`, `kt:recurrent-neural-network` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:vector-space-model` | `kt:information-retrieval`, `kt:tf-idf` |
-| `kt:wmt-2014` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
 | `kt:zero-shot-learning` | `kt:clip`, `kt:instruction-tuning` |
 | `kt:adam-a-method-for-stochastic-optimization` | `kt:adam-optimizer` |
 | `kt:adamw` | `kt:adam-optimizer` |

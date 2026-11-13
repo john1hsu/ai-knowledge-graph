@@ -2989,6 +2989,30 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/beir> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Paradigm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> <http://www.w3.org/2000/01/rdf-schema#label> "Sequence-to-sequence learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "RNN encoder-decoder" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "encoder-decoder model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "seq2seq" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> <http://www.w3.org/2004/02/skos/core#definition> "An approach in which a neural encoder reads a variable-length input sequence into a learned representation and a decoder generates a variable-length output sequence from it token by token, trained end to end; popularised in 2014 for machine translation by Sutskever, Vinyals and Le and by Cho et al." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sequence-to-sequence learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/beam-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "transformers-and-llms" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/a-logical-calculus-of-the-ideas-immanent-in-nervous-activity/s1> <http://purl.org/dc/terms/publisher> "Bulletin of Mathematical Biophysics 5, 115–133 (1943), DOI 10.1007/BF02478259; ML Anthology record" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/a-logical-calculus-of-the-ideas-immanent-in-nervous-activity/s1> <http://purl.org/dc/terms/title> "A Logical Calculus of the Ideas Immanent in Nervous Activity" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/a-logical-calculus-of-the-ideas-immanent-in-nervous-activity/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -6164,6 +6188,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s6> <https://schema.org/url> "https://arxiv.org/abs/2104.08663" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s1> <http://purl.org/dc/terms/publisher> "Sutskever, Vinyals and Le (Google), NIPS 2014; authors' arXiv version 1409.3215v3" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s1> <http://purl.org/dc/terms/title> "Sequence to Sequence Learning with Neural Networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s1> <https://schema.org/url> "https://arxiv.org/pdf/1409.3215" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s2> <http://purl.org/dc/terms/publisher> "Cho, van Merriënboer, Gulcehre, Bahdanau, Bougares, Schwenk and Bengio, Proc. EMNLP 2014, pp. 1724–1734" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s2> <http://purl.org/dc/terms/title> "Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s2> <https://schema.org/url> "https://aclanthology.org/D14-1179.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s3> <http://purl.org/dc/terms/publisher> "Zhang, Lipton, Li and Smola, d2l.ai" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s3> <http://purl.org/dc/terms/title> "Dive into Deep Learning, 10.7: Sequence-to-Sequence Learning for Machine Translation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s3> <https://schema.org/url> "https://d2l.ai/chapter_recurrent-modern/seq2seq.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s4> <http://purl.org/dc/terms/publisher> "D. Jurafsky and J. H. Martin, Stanford University (draft of 6 January 2026)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s4> <http://purl.org/dc/terms/title> "Speech and Language Processing (3rd ed. draft), Chapter 12: Machine Translation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s4> <https://schema.org/url> "https://web.stanford.edu/%7Ejurafsky/slp3/12.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s5> <http://purl.org/dc/terms/publisher> "Raffel et al., Journal of Machine Learning Research 21(140):1–67, 2020" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s5> <http://purl.org/dc/terms/title> "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s5> <https://schema.org/url> "https://www.jmlr.org/papers/v21/20-074.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s6> <http://purl.org/dc/terms/publisher> "Raffel et al., authors' arXiv version" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s6> <http://purl.org/dc/terms/title> "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (arXiv 1910.10683v3)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s6> <https://schema.org/url> "https://arxiv.org/pdf/1910.10683v3" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/speculative-decoding/s1> <http://purl.org/dc/terms/publisher> "ICML 2023, PMLR 202:19274–19286 (Leviathan, Kalman and Matias)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/speculative-decoding/s1> <http://purl.org/dc/terms/title> "Fast Inference from Transformers via Speculative Decoding" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/speculative-decoding/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
