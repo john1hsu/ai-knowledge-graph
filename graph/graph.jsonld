@@ -7177,6 +7177,93 @@
       ]
     },
     {
+      "@id": "kt:overfitting",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Overfitting",
+      "skos:definition": "The failure mode in which a learned model fits its training data, including noise and quirks of the particular sample, more closely than the underlying data distribution, so that training error is low but error on new data is high; the gap between the two is the generalization gap.",
+      "kto:domain": "ml-foundations",
+      "dcterms:created": "2026-11-13",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "3.6. Generalization",
+          "dcterms:publisher": "Dive into Deep Learning (Zhang, Lipton, Li and Smola), d2l.ai",
+          "schema:url": "https://d2l.ai/chapter_linear-regression/generalization.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Overfitting",
+          "dcterms:publisher": "Google for Developers, Machine Learning Crash Course",
+          "schema:url": "https://developers.google.com/machine-learning/crash-course/overfitting/overfitting?hl=en",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Overfitting in Neural Nets: Backpropagation, Conjugate Gradient, and Early Stopping",
+          "dcterms:publisher": "Advances in Neural Information Processing Systems 13 (NIPS 2000) (Caruana, Lawrence and Giles)",
+          "schema:url": "https://proceedings.neurips.cc/paper/2000/hash/059fdcd96baeb75112f09fa1dcc740cc-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Dropout: A Simple Way to Prevent Neural Networks from Overfitting",
+          "dcterms:publisher": "Journal of Machine Learning Research 15(56), 1929–1958 (2014) (Srivastava, Hinton, Krizhevsky, Sutskever and Salakhutdinov)",
+          "schema:url": "https://www.jmlr.org/papers/v15/srivastava14a.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Understanding Deep Learning Requires Rethinking Generalization",
+          "dcterms:publisher": "ICLR 2017 (Zhang, Bengio, Hardt, Recht and Vinyals), ML Anthology record",
+          "schema:url": "https://mlanthology.org/iclr/2017/zhang2017iclr-understanding",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "5.5. Generalization in Deep Learning",
+          "dcterms:publisher": "Dive into Deep Learning (Zhang, Lipton, Li and Smola), d2l.ai",
+          "schema:url": "https://d2l.ai/chapter_multilayer-perceptrons/generalization-deep.html",
+          "kto:sourceType": "textbook"
+        }
+      ],
+      "kto:file": "articles/ml-foundations/overfitting.md",
+      "skos:altLabel": [
+        "over-fitting",
+        "overfit model"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:machine-learning"
+        },
+        {
+          "@id": "kt:supervised-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:bias-variance-tradeoff"
+        },
+        {
+          "@id": "kt:regularization"
+        },
+        {
+          "@id": "kt:cross-validation"
+        },
+        {
+          "@id": "kt:dropout"
+        },
+        {
+          "@id": "kt:double-descent"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:underfitting"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:statistical-learning-theory"
+        }
+      ]
+    },
+    {
       "@id": "kt:principal-component-analysis",
       "@type": "kto:Algorithm",
       "skos:prefLabel": "Principal component analysis",

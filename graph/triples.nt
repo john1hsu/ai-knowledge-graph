@@ -2271,6 +2271,30 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/office-of-management-and-budget> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "governance-and-policy" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <http://www.w3.org/2000/01/rdf-schema#label> "Overfitting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <http://www.w3.org/2004/02/skos/core#altLabel> "over-fitting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <http://www.w3.org/2004/02/skos/core#altLabel> "overfit model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <http://www.w3.org/2004/02/skos/core#definition> "The failure mode in which a learned model fits its training data, including noise and quirks of the particular sample, more closely than the underlying data distribution, so that training error is low but error on new data is high; the gap between the two is the generalization gap." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <http://www.w3.org/2004/02/skos/core#prefLabel> "Overfitting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/cross-validation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/dropout> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/regularization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/underfitting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ml-foundations" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <http://www.w3.org/2000/01/rdf-schema#label> "Perceptron" .
@@ -5314,6 +5338,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s6> <https://schema.org/url> "https://www.whitehouse.gov/wp-content/uploads/2025/12/M-26-04-Increasing-Public-Trust-in-Artificial-Intelligence-Through-Unbiased-AI-Principles-1.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s1> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (Zhang, Lipton, Li and Smola), d2l.ai" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s1> <http://purl.org/dc/terms/title> "3.6. Generalization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s1> <https://schema.org/url> "https://d2l.ai/chapter_linear-regression/generalization.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s2> <http://purl.org/dc/terms/publisher> "Google for Developers, Machine Learning Crash Course" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s2> <http://purl.org/dc/terms/title> "Overfitting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s2> <https://schema.org/url> "https://developers.google.com/machine-learning/crash-course/overfitting/overfitting?hl=en" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s3> <http://purl.org/dc/terms/publisher> "Advances in Neural Information Processing Systems 13 (NIPS 2000) (Caruana, Lawrence and Giles)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s3> <http://purl.org/dc/terms/title> "Overfitting in Neural Nets: Backpropagation, Conjugate Gradient, and Early Stopping" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s3> <https://schema.org/url> "https://proceedings.neurips.cc/paper/2000/hash/059fdcd96baeb75112f09fa1dcc740cc-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s4> <http://purl.org/dc/terms/publisher> "Journal of Machine Learning Research 15(56), 1929–1958 (2014) (Srivastava, Hinton, Krizhevsky, Sutskever and Salakhutdinov)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s4> <http://purl.org/dc/terms/title> "Dropout: A Simple Way to Prevent Neural Networks from Overfitting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s4> <https://schema.org/url> "https://www.jmlr.org/papers/v15/srivastava14a.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s5> <http://purl.org/dc/terms/publisher> "ICLR 2017 (Zhang, Bengio, Hardt, Recht and Vinyals), ML Anthology record" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s5> <http://purl.org/dc/terms/title> "Understanding Deep Learning Requires Rethinking Generalization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s5> <https://schema.org/url> "https://mlanthology.org/iclr/2017/zhang2017iclr-understanding" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s6> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (Zhang, Lipton, Li and Smola), d2l.ai" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s6> <http://purl.org/dc/terms/title> "5.5. Generalization in Deep Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s6> <https://schema.org/url> "https://d2l.ai/chapter_multilayer-perceptrons/generalization-deep.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s1> <http://purl.org/dc/terms/publisher> "F. Rosenblatt, Cornell Aeronautical Laboratory; Psychological Review 65(6), 1958" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s1> <http://purl.org/dc/terms/title> "The perceptron: A probabilistic model for information storage and organization in the brain" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
