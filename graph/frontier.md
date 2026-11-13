@@ -9,7 +9,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:dartmouth-workshop`, `kt:turing-test`, `kt:ai-governance`, `kt:machine-learning`, `kt:ai-safety` |
 | `kt:distributed-training` | `kt:cuda`, `kt:data-parallelism`, `kt:mlops`, `kt:nvidia`, `kt:tpu`, `kt:pretraining` |
 | `kt:eu-ai-act` | `kt:ai-governance`, `kt:algorithmic-bias-and-fairness`, `kt:compute-governance`, `kt:executive-orders-on-ai`, `kt:nist-ai-risk-management-framework`, `kt:omb-ai-memoranda` |
-| `kt:multi-agent-systems` | `kt:agent2agent-protocol`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:autogen`, `kt:generative-agents-interactive-simulacra-of-human-behavior`, `kt:langgraph` |
 | `kt:regularization` | `kt:dropout`, `kt:model-pruning`, `kt:bias-variance-tradeoff`, `kt:conditional-random-field`, `kt:double-descent`, `kt:overfitting` |
 | `kt:ai-accelerator` | `kt:high-bandwidth-memory`, `kt:model-serving`, `kt:tpu`, `kt:ai-chip-export-controls`, `kt:compute-governance` |
 | `kt:beam-search` | `kt:sampling-temperature-and-top-p`, `kt:self-consistency`, `kt:knowledge-distillation`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
@@ -22,6 +21,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:vision-transformer` | `kt:an-image-is-worth-16x16-words`, `kt:clip`, `kt:object-detection`, `kt:yolo`, `kt:convolutional-neural-network` |
 | `kt:activation-function` | `kt:artificial-neural-network`, `kt:backpropagation`, `kt:universal-approximation-theorem`, `kt:universal-approximation-theorem` |
 | `kt:agent-memory` | `kt:ai-agent`, `kt:generative-agents-interactive-simulacra-of-human-behavior`, `kt:langgraph`, `kt:voyager` |
+| `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:image-classification` | `kt:imagenet-and-alexnet`, `kt:an-image-is-worth-16x16-words`, `kt:object-detection`, `kt:convolutional-neural-network` |
 | `kt:model-compression` | `kt:gptq`, `kt:model-pruning`, `kt:quantization`, `kt:knowledge-distillation` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent`, `kt:generative-agents-interactive-simulacra-of-human-behavior`, `kt:voyager` |
@@ -33,7 +33,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:unsupervised-learning` | `kt:dimensionality-reduction`, `kt:machine-learning`, `kt:principal-component-analysis`, `kt:supervised-learning` |
 | `kt:vector-database` | `kt:approximate-nearest-neighbor-search`, `kt:embeddings`, `kt:retrieval-augmented-generation`, `kt:semantic-search` |
 | `kt:adagrad` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:glove` |
-| `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph` |
 | `kt:ai-hardware` | `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
 | `kt:attention-mechanism` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
 | `kt:concrete-problems-in-ai-safety` | `kt:ai-safety`, `kt:reward-hacking`, `kt:scalable-oversight` |
@@ -245,6 +244,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:membership-inference-attack` | `kt:benchmark-contamination` |
 | `kt:memory-wall` | `kt:high-bandwidth-memory` |
 | `kt:meta-ai` | `kt:toolformer` |
+| `kt:michael-wooldridge` | `kt:multi-agent-systems` |
 | `kt:microsoft-agent-framework` | `kt:autogen` |
 | `kt:microsoft-research` | `kt:autogen` |
 | `kt:min-p-sampling` | `kt:sampling-temperature-and-top-p` |

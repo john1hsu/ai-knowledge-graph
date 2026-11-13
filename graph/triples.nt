@@ -2164,6 +2164,34 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <https://github.com/john1hsu/ai-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/ai-knowledge-graph/id/mlops> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <https://github.com/john1hsu/ai-knowledge-graph/ontology#runsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Paradigm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <http://www.w3.org/2000/01/rdf-schema#label> "Multi-agent systems" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <http://www.w3.org/2004/02/skos/core#altLabel> "LLM-MA systems" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <http://www.w3.org/2004/02/skos/core#altLabel> "LLM-based multi-agent systems" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <http://www.w3.org/2004/02/skos/core#altLabel> "MAS" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <http://www.w3.org/2004/02/skos/core#altLabel> "multiagent systems" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/agentic-systems> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <http://www.w3.org/2004/02/skos/core#definition> "Systems made of several autonomous agents that interact (cooperating, debating or competing) to reach goals no single agent handles well; a classic AI subfield since the 1990s that has been revived by systems in which each agent is an LLM with its own role, tools and context." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <http://www.w3.org/2004/02/skos/core#prefLabel> "Multi-agent systems" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/agent2agent-protocol> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/generative-agents-interactive-simulacra-of-human-behavior> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/michael-wooldridge> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "agents-and-tool-use" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/autogen> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/neural-machine-translation-by-jointly-learning-to-align-and-translate> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/neural-machine-translation-by-jointly-learning-to-align-and-translate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Work> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/neural-machine-translation-by-jointly-learning-to-align-and-translate> <http://www.w3.org/2000/01/rdf-schema#label> "Neural Machine Translation by Jointly Learning to Align and Translate" .
@@ -5338,6 +5366,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s5> <https://schema.org/url> "https://www.usenix.org/conference/osdi22/presentation/yu" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s1> <http://purl.org/dc/terms/publisher> "Michael Wooldridge; Hebrew University of Jerusalem course \"Intelligent Multi-Agent Systems\" (2003)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s1> <http://purl.org/dc/terms/title> "An Introduction to MultiAgent Systems — Lecture 1: Introduction (lecture slides)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s1> <https://schema.org/url> "https://www.cs.huji.ac.il/course/2003/imas/slides/pdf/lecture01.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s2> <http://purl.org/dc/terms/publisher> "IJCAI 2024 Survey Track (Guo et al.), pp. 8048-8057" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s2> <http://purl.org/dc/terms/title> "Large Language Model Based Multi-agents: A Survey of Progress and Challenges" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s2> <https://schema.org/url> "https://www.ijcai.org/proceedings/2024/0890" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s3> <http://purl.org/dc/terms/publisher> "arXiv 2402.01680v1 (Guo et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s3> <http://purl.org/dc/terms/title> "Large Language Model based Multi-Agents: A Survey of Progress and Challenges (authors' version)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s3> <https://schema.org/url> "https://arxiv.org/html/2402.01680v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s4> <http://purl.org/dc/terms/publisher> "ICML 2024, PMLR 235 (Du, Li, Torralba, Tenenbaum, Mordatch)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s4> <http://purl.org/dc/terms/title> "Improving Factuality and Reasoning in Language Models through Multiagent Debate" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s4> <https://schema.org/url> "https://proceedings.mlr.press/v235/du24e.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s5> <http://purl.org/dc/terms/publisher> "Anthropic Engineering" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s5> <http://purl.org/dc/terms/title> "How we built our multi-agent research system" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s5> <https://schema.org/url> "https://www.anthropic.com/engineering/multi-agent-research-system" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s6> <http://purl.org/dc/terms/publisher> "arXiv 2503.13657v2 (Cemri et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s6> <http://purl.org/dc/terms/title> "Why Do Multi-Agent LLM Systems Fail?" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "preprint" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s6> <https://schema.org/url> "https://arxiv.org/abs/2503.13657v2" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/neural-machine-translation-by-jointly-learning-to-align-and-translate/s1> <http://purl.org/dc/terms/publisher> "Bahdanau, Cho and Bengio, ICLR 2015 conference paper (authors' arXiv version 1409.0473v7, 19 May 2016)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/neural-machine-translation-by-jointly-learning-to-align-and-translate/s1> <http://purl.org/dc/terms/title> "Neural Machine Translation by Jointly Learning to Align and Translate" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/neural-machine-translation-by-jointly-learning-to-align-and-translate/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

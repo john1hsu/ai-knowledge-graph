@@ -1832,6 +1832,29 @@
     ]
   },
   {
+    "id": "kt:multi-agent-systems",
+    "title": "Multi-agent systems",
+    "aliases": [
+      "multiagent systems",
+      "MAS",
+      "LLM-based multi-agent systems",
+      "LLM-MA systems"
+    ],
+    "type": "Paradigm",
+    "domain": "agents-and-tool-use",
+    "file": "articles/agents-and-tool-use/multi-agent-systems.md",
+    "created": "2026-11-13",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://www.cs.huji.ac.il/course/2003/imas/slides/pdf/lecture01.pdf",
+      "https://www.ijcai.org/proceedings/2024/0890",
+      "https://arxiv.org/html/2402.01680v1",
+      "https://proceedings.mlr.press/v235/du24e.html",
+      "https://www.anthropic.com/engineering/multi-agent-research-system",
+      "https://arxiv.org/abs/2503.13657v2"
+    ]
+  },
+  {
     "id": "kt:neural-machine-translation-by-jointly-learning-to-align-and-translate",
     "title": "Neural Machine Translation by Jointly Learning to Align and Translate",
     "aliases": [
