@@ -938,6 +938,7 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/react-prompting> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/tree-of-thoughts> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s1> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s2> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s3> .
@@ -8404,6 +8405,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/transformer-architecture/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/transformer-architecture/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/transformer-architecture/s5> <https://schema.org/url> "https://arxiv.org/pdf/2302.13971" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s1> <http://purl.org/dc/terms/publisher> "arXiv 2305.10601 (Yao, Yu, Zhao, Shafran, Griffiths, Cao, Narasimhan)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s1> <http://purl.org/dc/terms/title> "Tree of Thoughts: Deliberate Problem Solving with Large Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s1> <https://schema.org/url> "https://arxiv.org/pdf/2305.10601" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s2> <http://purl.org/dc/terms/publisher> "NeurIPS 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s2> <http://purl.org/dc/terms/title> "Tree of Thoughts: Deliberate Problem Solving with Large Language Models (NeurIPS 2023 oral)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s2> <https://schema.org/url> "https://neurips.cc/virtual/2023/oral/73874" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s3> <http://purl.org/dc/terms/publisher> "Princeton University research portal" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s3> <http://purl.org/dc/terms/title> "Tree of Thoughts: Deliberate Problem Solving with Large Language Models (publication record)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s3> <https://schema.org/url> "https://collaborate.princeton.edu/en/publications/tree-of-thoughts-deliberate-problem-solving-with-large-language-m-2/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s4> <http://purl.org/dc/terms/publisher> "arXiv 2305.08291 (Jieyi Long)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s4> <http://purl.org/dc/terms/title> "Large Language Model Guided Tree-of-Thought" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s4> <https://schema.org/url> "https://arxiv.org/abs/2305.08291" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s5> <http://purl.org/dc/terms/publisher> "arXiv 2308.09687 (Besta et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s5> <http://purl.org/dc/terms/title> "Graph of Thoughts: Solving Elaborate Problems with Large Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s5> <https://schema.org/url> "https://arxiv.org/pdf/2308.09687" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s6> <http://purl.org/dc/terms/publisher> "ML Anthology (AAAI 2024, pp. 17682–17690)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s6> <http://purl.org/dc/terms/title> "Graph of Thoughts: Solving Elaborate Problems with Large Language Models (AAAI 2024)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s6> <https://schema.org/url> "https://mlanthology.org/aaai/2024/besta2024aaai-graph" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s1> <http://purl.org/dc/terms/publisher> "Proceedings of ACL 2022 (Volume 1: Long Papers), pp. 3214–3252 (Lin, Hilton, Evans)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s1> <http://purl.org/dc/terms/title> "TruthfulQA: Measuring How Models Mimic Human Falsehoods" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/truthfulqa/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -9102,6 +9133,30 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tree-of-thoughts> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tree-of-thoughts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tree-of-thoughts> <http://www.w3.org/2000/01/rdf-schema#label> "Tree of Thoughts" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tree-of-thoughts> <http://www.w3.org/2004/02/skos/core#altLabel> "ToT" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tree-of-thoughts> <http://www.w3.org/2004/02/skos/core#altLabel> "Tree-of-Thought" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tree-of-thoughts> <http://www.w3.org/2004/02/skos/core#altLabel> "tree-of-thought prompting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tree-of-thoughts> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tree-of-thoughts> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/test-time-compute> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tree-of-thoughts> <http://www.w3.org/2004/02/skos/core#definition> "An inference-time framework in which a language model generates several candidate intermediate reasoning steps (\"thoughts\"), evaluates them itself, and explores the resulting tree with a search algorithm such as breadth-first or depth-first search, allowing lookahead and backtracking instead of a single left-to-right chain." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tree-of-thoughts> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tree of Thoughts" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tree-of-thoughts> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/graph-of-thoughts> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tree-of-thoughts> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tree-of-thoughts> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tree-of-thoughts> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tree-of-thoughts> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tree-of-thoughts> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tree-of-thoughts> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tree-of-thoughts> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tree-of-thoughts> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/tree-of-thoughts/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tree-of-thoughts> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "prompting-and-reasoning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tree-of-thoughts> <https://github.com/john1hsu/ai-knowledge-graph/ontology#extends> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tree-of-thoughts> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/heuristic-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tree-of-thoughts> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/tree-of-thoughts-deliberate-problem-solving-with-large-language-models> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tree-of-thoughts> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Benchmark> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> <http://www.w3.org/2000/01/rdf-schema#label> "TruthfulQA" .

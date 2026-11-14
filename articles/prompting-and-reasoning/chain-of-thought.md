@@ -10,7 +10,7 @@ summary: >-
   arithmetic, commonsense and symbolic reasoning tasks in sufficiently large models.
 maturity: established
 broader: [kt:prompt-engineering]
-related: [kt:in-context-learning, kt:self-consistency, kt:reasoning-models, kt:react-prompting, kt:few-shot-prompting]
+related: [kt:in-context-learning, kt:self-consistency, kt:reasoning-models, kt:react-prompting, kt:few-shot-prompting, kt:tree-of-thoughts]
 relations:
   - {predicate: introducedIn, object: kt:chain-of-thought-prompting-elicits-reasoning-in-large-language-models}
   - {predicate: basedOn, object: kt:large-language-model}

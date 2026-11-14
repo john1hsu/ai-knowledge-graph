@@ -3623,6 +3623,28 @@
     ]
   },
   {
+    "id": "kt:tree-of-thoughts",
+    "title": "Tree of Thoughts",
+    "aliases": [
+      "ToT",
+      "tree-of-thought prompting",
+      "Tree-of-Thought"
+    ],
+    "type": "Technique",
+    "domain": "prompting-and-reasoning",
+    "file": "articles/prompting-and-reasoning/tree-of-thoughts.md",
+    "created": "2026-11-14",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/pdf/2305.10601",
+      "https://neurips.cc/virtual/2023/oral/73874",
+      "https://collaborate.princeton.edu/en/publications/tree-of-thoughts-deliberate-problem-solving-with-large-language-m-2/",
+      "https://arxiv.org/abs/2305.08291",
+      "https://arxiv.org/pdf/2308.09687",
+      "https://mlanthology.org/aaai/2024/besta2024aaai-graph"
+    ]
+  },
+  {
     "id": "kt:truthfulqa",
     "title": "TruthfulQA",
     "aliases": [

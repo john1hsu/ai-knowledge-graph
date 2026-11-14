@@ -9912,6 +9912,9 @@
         },
         {
           "@id": "kt:few-shot-prompting"
+        },
+        {
+          "@id": "kt:tree-of-thoughts"
         }
       ],
       "kto:introducedIn": [
@@ -10824,6 +10827,93 @@
       "kto:usedIn": [
         {
           "@id": "kt:reasoning-models"
+        }
+      ]
+    },
+    {
+      "@id": "kt:tree-of-thoughts",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Tree of Thoughts",
+      "skos:definition": "An inference-time framework in which a language model generates several candidate intermediate reasoning steps (\"thoughts\"), evaluates them itself, and explores the resulting tree with a search algorithm such as breadth-first or depth-first search, allowing lookahead and backtracking instead of a single left-to-right chain.",
+      "kto:domain": "prompting-and-reasoning",
+      "dcterms:created": "2026-11-14",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models",
+          "dcterms:publisher": "arXiv 2305.10601 (Yao, Yu, Zhao, Shafran, Griffiths, Cao, Narasimhan)",
+          "schema:url": "https://arxiv.org/pdf/2305.10601",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models (NeurIPS 2023 oral)",
+          "dcterms:publisher": "NeurIPS 2023",
+          "schema:url": "https://neurips.cc/virtual/2023/oral/73874",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models (publication record)",
+          "dcterms:publisher": "Princeton University research portal",
+          "schema:url": "https://collaborate.princeton.edu/en/publications/tree-of-thoughts-deliberate-problem-solving-with-large-language-m-2/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Large Language Model Guided Tree-of-Thought",
+          "dcterms:publisher": "arXiv 2305.08291 (Jieyi Long)",
+          "schema:url": "https://arxiv.org/abs/2305.08291",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Graph of Thoughts: Solving Elaborate Problems with Large Language Models",
+          "dcterms:publisher": "arXiv 2308.09687 (Besta et al.)",
+          "schema:url": "https://arxiv.org/pdf/2308.09687",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Graph of Thoughts: Solving Elaborate Problems with Large Language Models (AAAI 2024)",
+          "dcterms:publisher": "ML Anthology (AAAI 2024, pp. 17682–17690)",
+          "schema:url": "https://mlanthology.org/aaai/2024/besta2024aaai-graph",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/prompting-and-reasoning/tree-of-thoughts.md",
+      "skos:altLabel": [
+        "ToT",
+        "tree-of-thought prompting",
+        "Tree-of-Thought"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:test-time-compute"
+        },
+        {
+          "@id": "kt:prompt-engineering"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:self-consistency"
+        },
+        {
+          "@id": "kt:planning-in-llms"
+        },
+        {
+          "@id": "kt:graph-of-thoughts"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:tree-of-thoughts-deliberate-problem-solving-with-large-language-models"
+        }
+      ],
+      "kto:extends": [
+        {
+          "@id": "kt:chain-of-thought"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:heuristic-search"
         }
       ]
     },
