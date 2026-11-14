@@ -1810,6 +1810,27 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/goodharts-law> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/charles-goodhart> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/goodharts-law> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "safety-alignment-and-security" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/goodharts-law> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Organization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google> <http://www.w3.org/2000/01/rdf-schema#label> "Google" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google> <http://www.w3.org/2004/02/skos/core#altLabel> "Google Inc." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google> <http://www.w3.org/2004/02/skos/core#altLabel> "Google LLC" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google> <http://www.w3.org/2004/02/skos/core#definition> "An American technology company founded in 1998 and, since 2015, a subsidiary of Alphabet Inc., whose research groups and infrastructure produced foundational AI work such as TensorFlow, the Tensor Processing Unit and the Transformer, and which now builds the Gemini model family." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google> <http://www.w3.org/2004/02/skos/core#prefLabel> "Google" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/nvidia> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/tensorflow> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/tpu> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-infrastructure-and-mlops" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/google-deepmind> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google> <https://github.com/john1hsu/ai-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/ai-knowledge-graph/id/alphabet-inc> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <http://www.w3.org/2000/01/rdf-schema#label> "GPTQ" .
@@ -5616,6 +5637,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/goodharts-law/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/goodharts-law/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/goodharts-law/s6> <https://schema.org/url> "https://www.cambridge.org/core/journals/european-review/article/improving-ratings-audit-inthe-british-university-system/FC2EE640C0C44E3DB87C29FB666E9AAB" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica (Britannica Money)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s1> <http://purl.org/dc/terms/title> "Google Inc." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s1> <https://schema.org/url> "https://www.britannica.com/money/Google-Inc" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s2> <http://purl.org/dc/terms/publisher> "Alphabet Inc. (investor relations), filed February 2026" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s2> <http://purl.org/dc/terms/title> "Alphabet Inc. Annual Report on Form 10-K for the fiscal year ended December 31, 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s2> <https://schema.org/url> "https://s206.q4cdn.com/479360582/files/doc_financials/2025/q4/GOOG-10-K-2025.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s3> <http://purl.org/dc/terms/publisher> "The Keyword (Google blog), Sundar Pichai, April 20, 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s3> <http://purl.org/dc/terms/title> "Google DeepMind: Bringing together two world-class AI teams" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s3> <https://schema.org/url> "https://blog.google/technology/ai/april-ai-update/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s4> <http://purl.org/dc/terms/publisher> "arXiv 1704.04760 (Jouppi et al., Google; ISCA 2017)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s4> <http://purl.org/dc/terms/title> "In-Datacenter Performance Analysis of a Tensor Processing Unit" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s4> <https://schema.org/url> "https://arxiv.org/abs/1704.04760v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s5> <http://purl.org/dc/terms/publisher> "USENIX OSDI 2016 (Abadi et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s5> <http://purl.org/dc/terms/title> "TensorFlow: A System for Large-Scale Machine Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s5> <https://schema.org/url> "https://usenix.org/conference/osdi16/technical-sessions/presentation/abadi" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s1> <http://purl.org/dc/terms/publisher> "ICLR 2023 (Frantar, Ashkboos, Hoefler and Alistarh), authors' arXiv version 2210.17323" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s1> <http://purl.org/dc/terms/title> "GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

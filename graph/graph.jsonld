@@ -2337,6 +2337,81 @@
       ]
     },
     {
+      "@id": "kt:google",
+      "@type": "kto:Organization",
+      "skos:prefLabel": "Google",
+      "skos:definition": "An American technology company founded in 1998 and, since 2015, a subsidiary of Alphabet Inc., whose research groups and infrastructure produced foundational AI work such as TensorFlow, the Tensor Processing Unit and the Transformer, and which now builds the Gemini model family.",
+      "kto:domain": "ai-infrastructure-and-mlops",
+      "dcterms:created": "2026-11-14",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Google Inc.",
+          "dcterms:publisher": "Encyclopaedia Britannica (Britannica Money)",
+          "schema:url": "https://www.britannica.com/money/Google-Inc",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Alphabet Inc. Annual Report on Form 10-K for the fiscal year ended December 31, 2025",
+          "dcterms:publisher": "Alphabet Inc. (investor relations), filed February 2026",
+          "schema:url": "https://s206.q4cdn.com/479360582/files/doc_financials/2025/q4/GOOG-10-K-2025.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Google DeepMind: Bringing together two world-class AI teams",
+          "dcterms:publisher": "The Keyword (Google blog), Sundar Pichai, April 20, 2023",
+          "schema:url": "https://blog.google/technology/ai/april-ai-update/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "In-Datacenter Performance Analysis of a Tensor Processing Unit",
+          "dcterms:publisher": "arXiv 1704.04760 (Jouppi et al., Google; ISCA 2017)",
+          "schema:url": "https://arxiv.org/abs/1704.04760v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "TensorFlow: A System for Large-Scale Machine Learning",
+          "dcterms:publisher": "USENIX OSDI 2016 (Abadi et al.)",
+          "schema:url": "https://usenix.org/conference/osdi16/technical-sessions/presentation/abadi",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/ai-infrastructure-and-mlops/google.md",
+      "skos:altLabel": [
+        "Google LLC",
+        "Google Inc."
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:artificial-intelligence"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:tpu"
+        },
+        {
+          "@id": "kt:nvidia"
+        },
+        {
+          "@id": "kt:attention-is-all-you-need"
+        },
+        {
+          "@id": "kt:tensorflow"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:alphabet-inc"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:google-deepmind"
+        }
+      ]
+    },
+    {
       "@id": "kt:gpu-computing",
       "@type": "kto:Paradigm",
       "skos:prefLabel": "GPU computing",

@@ -4,8 +4,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:artificial-intelligence` | `kt:ai-agent`, `kt:ai-winter`, `kt:dartmouth-workshop`, `kt:symbolic-ai`, `kt:turing-test`, `kt:ai-governance`, `kt:machine-learning`, `kt:ai-safety` |
-| `kt:google` | `kt:agent2agent-protocol`, `kt:react-prompting`, `kt:tpu`, `kt:an-image-is-worth-16x16-words`, `kt:batch-normalization`, `kt:word2vec`, `kt:attention-is-all-you-need` |
+| `kt:artificial-intelligence` | `kt:ai-agent`, `kt:ai-winter`, `kt:dartmouth-workshop`, `kt:symbolic-ai`, `kt:turing-test`, `kt:google`, `kt:ai-governance`, `kt:machine-learning`, `kt:ai-safety` |
 | `kt:vector-database` | `kt:agent-memory`, `kt:approximate-nearest-neighbor-search`, `kt:embeddings`, `kt:hybrid-search`, `kt:retrieval-augmented-generation`, `kt:semantic-search` |
 | `kt:ai-accelerator` | `kt:high-bandwidth-memory`, `kt:model-serving`, `kt:tpu`, `kt:ai-chip-export-controls`, `kt:compute-governance` |
 | `kt:beam-search` | `kt:sampling-temperature-and-top-p`, `kt:self-consistency`, `kt:knowledge-distillation`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
@@ -15,6 +14,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:attention-mechanism` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:self-attention`, `kt:sequence-to-sequence-learning` |
 | `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:geoffrey-hinton`, `kt:perceptron`, `kt:symbolic-ai` |
+| `kt:google-deepmind` | `kt:google`, `kt:alphago`, `kt:alphazero`, `kt:deep-q-network` |
 | `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent`, `kt:generative-agents-interactive-simulacra-of-human-behavior`, `kt:voyager` |
 | `kt:positional-encoding` | `kt:attention-is-all-you-need`, `kt:context-window`, `kt:self-attention`, `kt:transformer-architecture` |
@@ -26,7 +26,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:computer-vision` | `kt:image-classification`, `kt:object-detection`, `kt:vision-transformer` |
 | `kt:concrete-problems-in-ai-safety` | `kt:ai-safety`, `kt:reward-hacking`, `kt:scalable-oversight` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:hidden-markov-model` |
-| `kt:google-deepmind` | `kt:alphago`, `kt:alphazero`, `kt:deep-q-network` |
 | `kt:gradient-descent` | `kt:adam-optimizer`, `kt:backpropagation`, `kt:deep-learning` |
 | `kt:layer-normalization` | `kt:batch-normalization`, `kt:batch-normalization`, `kt:transformer-architecture` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
@@ -101,6 +100,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alex-graves` | `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
 | `kt:allen-institute-for-ai` | `kt:commonsenseqa` |
 | `kt:allen-newell` | `kt:logic-theorist` |
+| `kt:alphabet-inc` | `kt:google` |
 | `kt:ann-benchmarks` | `kt:approximate-nearest-neighbor-search` |
 | `kt:anthropic` | `kt:constitutional-ai` |
 | `kt:application-specific-integrated-circuit` | `kt:tpu` |
@@ -367,6 +367,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:t-sne` | `kt:dimensionality-reduction` |
 | `kt:td-gammon` | `kt:temporal-difference-learning` |
 | `kt:tensor-parallelism` | `kt:distributed-training` |
+| `kt:tensorflow` | `kt:google` |
 | `kt:tensorflow-serving` | `kt:model-serving` |
 | `kt:text-to-image-generation` | `kt:diffusion-model` |
 | `kt:the-curious-case-of-neural-text-degeneration` | `kt:sampling-temperature-and-top-p` |

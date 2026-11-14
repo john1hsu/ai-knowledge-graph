@@ -1539,6 +1539,26 @@
     ]
   },
   {
+    "id": "kt:google",
+    "title": "Google",
+    "aliases": [
+      "Google LLC",
+      "Google Inc."
+    ],
+    "type": "Organization",
+    "domain": "ai-infrastructure-and-mlops",
+    "file": "articles/ai-infrastructure-and-mlops/google.md",
+    "created": "2026-11-14",
+    "maturity": "established",
+    "source_urls": [
+      "https://www.britannica.com/money/Google-Inc",
+      "https://s206.q4cdn.com/479360582/files/doc_financials/2025/q4/GOOG-10-K-2025.pdf",
+      "https://blog.google/technology/ai/april-ai-update/",
+      "https://arxiv.org/abs/1704.04760v1",
+      "https://usenix.org/conference/osdi16/technical-sessions/presentation/abadi"
+    ]
+  },
+  {
     "id": "kt:gptq",
     "title": "GPTQ",
     "aliases": [
