@@ -12367,6 +12367,79 @@
       ]
     },
     {
+      "@id": "kt:vector-database",
+      "@type": "kto:Tool",
+      "skos:prefLabel": "Vector database",
+      "skos:definition": "A data management system that stores high-dimensional embedding vectors together with their metadata and answers similarity queries over them, typically through approximate nearest neighbor indexes, while adding database features such as updates, filtering on attributes, persistence and distributed scale-out.",
+      "kto:domain": "retrieval-and-knowledge",
+      "dcterms:created": "2026-11-14",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Survey of vector database management systems",
+          "dcterms:publisher": "The VLDB Journal 33, pp. 1591-1615, 2024 (Pan, Wang and Li)",
+          "schema:url": "https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/vldbj2024-vectordb.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Milvus: A Purpose-Built Vector Data Management System",
+          "dcterms:publisher": "ACM SIGMOD 2021 (Wang et al., Zilliz and Purdue University)",
+          "schema:url": "https://www.cs.purdue.edu/homes/csjgwang/pubs/SIGMOD21_Milvus.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "DiskANN: Fast Accurate Billion-point Nearest Neighbor Search on a Single Node",
+          "dcterms:publisher": "NeurIPS 2019 (Jayaram Subramanya et al., Microsoft Research)",
+          "schema:url": "https://papers.nips.cc/paper/2019/hash/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "pgvector: Open-source vector similarity search for Postgres (vector extension documentation)",
+          "dcterms:publisher": "PGXN, pgvector project",
+          "schema:url": "https://pgxn.org/dist/vector",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/retrieval-and-knowledge/vector-database.md",
+      "skos:altLabel": [
+        "vector database management system",
+        "VDBMS",
+        "vector store",
+        "vector DB"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:information-retrieval"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:embeddings"
+        },
+        {
+          "@id": "kt:semantic-search"
+        },
+        {
+          "@id": "kt:hybrid-search"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:approximate-nearest-neighbor-search"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:retrieval-augmented-generation"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:faiss"
+        }
+      ]
+    },
+    {
       "@id": "kt:word2vec",
       "@type": "kto:Algorithm",
       "skos:prefLabel": "Word2vec",

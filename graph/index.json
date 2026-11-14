@@ -3552,6 +3552,27 @@
     ]
   },
   {
+    "id": "kt:vector-database",
+    "title": "Vector database",
+    "aliases": [
+      "vector database management system",
+      "VDBMS",
+      "vector store",
+      "vector DB"
+    ],
+    "type": "Tool",
+    "domain": "retrieval-and-knowledge",
+    "file": "articles/retrieval-and-knowledge/vector-database.md",
+    "created": "2026-11-14",
+    "maturity": "established",
+    "source_urls": [
+      "https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/vldbj2024-vectordb.pdf",
+      "https://www.cs.purdue.edu/homes/csjgwang/pubs/SIGMOD21_Milvus.pdf",
+      "https://papers.nips.cc/paper/2019/hash/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Abstract.html",
+      "https://pgxn.org/dist/vector"
+    ]
+  },
+  {
     "id": "kt:vision-language-model",
     "title": "Vision-language model: LLMs with visual input",
     "aliases": [

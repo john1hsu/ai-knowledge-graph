@@ -5,7 +5,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:ai-winter`, `kt:dartmouth-workshop`, `kt:symbolic-ai`, `kt:turing-test`, `kt:google`, `kt:computer-vision`, `kt:ai-governance`, `kt:machine-learning`, `kt:ai-safety` |
-| `kt:vector-database` | `kt:agent-memory`, `kt:approximate-nearest-neighbor-search`, `kt:embeddings`, `kt:hybrid-search`, `kt:retrieval-augmented-generation`, `kt:semantic-search` |
 | `kt:ai-accelerator` | `kt:high-bandwidth-memory`, `kt:model-serving`, `kt:tpu`, `kt:ai-chip-export-controls`, `kt:compute-governance` |
 | `kt:beam-search` | `kt:sampling-temperature-and-top-p`, `kt:self-consistency`, `kt:knowledge-distillation`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
 | `kt:model-compression` | `kt:gptq`, `kt:llm-inference-optimization`, `kt:model-pruning`, `kt:quantization`, `kt:knowledge-distillation` |
@@ -55,6 +54,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:double-q-learning` | `kt:deep-q-network`, `kt:q-learning` |
 | `kt:efficient-memory-management-for-large-language-model-serving-with-pagedattention` | `kt:batching-and-paged-attention`, `kt:vllm` |
 | `kt:export-control-reform-act` | `kt:ai-chip-export-controls`, `kt:bureau-of-industry-and-security` |
+| `kt:faiss` | `kt:approximate-nearest-neighbor-search`, `kt:vector-database` |
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
 | `kt:hugging-face` | `kt:hugging-face-transformers`, `kt:hugging-face-trl` |
 | `kt:induction-head` | `kt:mechanistic-interpretability`, `kt:in-context-learning` |
@@ -176,7 +176,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:facial-recognition` | `kt:algorithmic-bias-and-fairness` |
 | `kt:factor-analysis` | `kt:principal-component-analysis` |
 | `kt:fairness-accountability-and-transparency` | `kt:algorithmic-bias-and-fairness` |
-| `kt:faiss` | `kt:approximate-nearest-neighbor-search` |
 | `kt:fast-inference-from-transformers-via-speculative-decoding` | `kt:speculative-decoding` |
 | `kt:fast-r-cnn` | `kt:faster-r-cnn` |
 | `kt:faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks` | `kt:faster-r-cnn` |
