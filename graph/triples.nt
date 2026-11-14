@@ -616,6 +616,33 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/learning-representations-by-back-propagating-errors> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> <http://www.w3.org/2000/01/rdf-schema#label> "Batch normalization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> <http://www.w3.org/2004/02/skos/core#altLabel> "BN layer" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> <http://www.w3.org/2004/02/skos/core#altLabel> "BatchNorm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> <http://www.w3.org/2004/02/skos/core#altLabel> "batch norm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> <http://www.w3.org/2004/02/skos/core#definition> "A neural-network layer that standardizes each feature (or each convolutional channel) using the mean and variance of the current mini-batch, then applies a learned scale and shift; introduced by Ioffe and Szegedy in 2015, it permits higher learning rates and faster, more stable training." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> <http://www.w3.org/2004/02/skos/core#prefLabel> "Batch normalization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/dropout> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/layer-normalization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/regularization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/batch-normalization/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/batch-normalization/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/batch-normalization/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/batch-normalization/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/layer-normalization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/google> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "deep-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization-accelerating-deep-network-training> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/batching-and-paged-attention> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/batching-and-paged-attention> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/batching-and-paged-attention> <http://www.w3.org/2000/01/rdf-schema#label> "Continuous batching and PagedAttention" .
@@ -4121,6 +4148,26 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/backpropagation/s6> <https://schema.org/url> "https://www.neuroscience.ox.ac.uk/publications/1100959" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/batch-normalization/s1> <http://purl.org/dc/terms/publisher> "Proceedings of the 32nd ICML, PMLR 37:448–456 (2015) (Ioffe and Szegedy)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/batch-normalization/s1> <http://purl.org/dc/terms/title> "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/batch-normalization/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/batch-normalization/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/batch-normalization/s1> <https://schema.org/url> "https://proceedings.mlr.press/v37/ioffe15" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/batch-normalization/s2> <http://purl.org/dc/terms/publisher> "NeurIPS 2018 (Santurkar, Tsipras, Ilyas and Madry)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/batch-normalization/s2> <http://purl.org/dc/terms/title> "How Does Batch Normalization Help Optimization?" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/batch-normalization/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/batch-normalization/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/batch-normalization/s2> <https://schema.org/url> "https://papers.nips.cc/paper/2018/hash/905056c1ac1dad141560467e0a99e1cf-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/batch-normalization/s3> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (d2l.ai)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/batch-normalization/s3> <http://purl.org/dc/terms/title> "8.5. Batch Normalization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/batch-normalization/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/batch-normalization/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/batch-normalization/s3> <https://schema.org/url> "https://d2l.ai/chapter_convolutional-modern/batch-norm.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/batch-normalization/s4> <http://purl.org/dc/terms/publisher> "PyTorch documentation (v2.3)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/batch-normalization/s4> <http://purl.org/dc/terms/title> "BatchNorm2d" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/batch-normalization/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/batch-normalization/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/batch-normalization/s4> <https://schema.org/url> "https://docs.pytorch.org/docs/2.3/generated/torch.nn.BatchNorm2d.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/batching-and-paged-attention/s1> <http://purl.org/dc/terms/publisher> "Kwon et al., SOSP 2023, arXiv 2309.06180" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/batching-and-paged-attention/s1> <http://purl.org/dc/terms/title> "Efficient Memory Management for Large Language Model Serving with PagedAttention" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/batching-and-paged-attention/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

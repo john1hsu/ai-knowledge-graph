@@ -4370,6 +4370,102 @@
       ]
     },
     {
+      "@id": "kt:batch-normalization",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Batch normalization",
+      "skos:definition": "A neural-network layer that standardizes each feature (or each convolutional channel) using the mean and variance of the current mini-batch, then applies a learned scale and shift; introduced by Ioffe and Szegedy in 2015, it permits higher learning rates and faster, more stable training.",
+      "kto:domain": "deep-learning",
+      "dcterms:created": "2026-11-14",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift",
+          "dcterms:publisher": "Proceedings of the 32nd ICML, PMLR 37:448–456 (2015) (Ioffe and Szegedy)",
+          "schema:url": "https://proceedings.mlr.press/v37/ioffe15",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "How Does Batch Normalization Help Optimization?",
+          "dcterms:publisher": "NeurIPS 2018 (Santurkar, Tsipras, Ilyas and Madry)",
+          "schema:url": "https://papers.nips.cc/paper/2018/hash/905056c1ac1dad141560467e0a99e1cf-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "8.5. Batch Normalization",
+          "dcterms:publisher": "Dive into Deep Learning (d2l.ai)",
+          "schema:url": "https://d2l.ai/chapter_convolutional-modern/batch-norm.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "BatchNorm2d",
+          "dcterms:publisher": "PyTorch documentation (v2.3)",
+          "schema:url": "https://docs.pytorch.org/docs/2.3/generated/torch.nn.BatchNorm2d.html",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/deep-learning/batch-normalization.md",
+      "skos:altLabel": [
+        "BatchNorm",
+        "batch norm",
+        "BN layer"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:deep-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:layer-normalization"
+        },
+        {
+          "@id": "kt:dropout"
+        },
+        {
+          "@id": "kt:regularization"
+        },
+        {
+          "@id": "kt:convolutional-neural-network"
+        },
+        {
+          "@id": "kt:residual-connection"
+        },
+        {
+          "@id": "kt:image-classification"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:batch-normalization-accelerating-deep-network-training"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:google"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:convolutional-neural-network"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:pytorch"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:layer-normalization"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:vanishing-gradient-problem"
+        }
+      ]
+    },
+    {
       "@id": "kt:convolutional-neural-network",
       "@type": "kto:Architecture",
       "skos:prefLabel": "Convolutional neural network",

@@ -524,6 +524,26 @@
     ]
   },
   {
+    "id": "kt:batch-normalization",
+    "title": "Batch normalization",
+    "aliases": [
+      "BatchNorm",
+      "batch norm",
+      "BN layer"
+    ],
+    "type": "Technique",
+    "domain": "deep-learning",
+    "file": "articles/deep-learning/batch-normalization.md",
+    "created": "2026-11-14",
+    "maturity": "established",
+    "source_urls": [
+      "https://proceedings.mlr.press/v37/ioffe15",
+      "https://papers.nips.cc/paper/2018/hash/905056c1ac1dad141560467e0a99e1cf-Abstract.html",
+      "https://d2l.ai/chapter_convolutional-modern/batch-norm.html",
+      "https://docs.pytorch.org/docs/2.3/generated/torch.nn.BatchNorm2d.html"
+    ]
+  },
+  {
     "id": "kt:batching-and-paged-attention",
     "title": "Continuous batching and PagedAttention",
     "aliases": [

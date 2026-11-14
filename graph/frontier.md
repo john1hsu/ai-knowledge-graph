@@ -5,7 +5,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:dartmouth-workshop`, `kt:symbolic-ai`, `kt:turing-test`, `kt:ai-governance`, `kt:machine-learning`, `kt:ai-safety` |
-| `kt:google` | `kt:agent2agent-protocol`, `kt:react-prompting`, `kt:tpu`, `kt:an-image-is-worth-16x16-words`, `kt:word2vec`, `kt:attention-is-all-you-need` |
+| `kt:google` | `kt:agent2agent-protocol`, `kt:react-prompting`, `kt:tpu`, `kt:an-image-is-worth-16x16-words`, `kt:batch-normalization`, `kt:word2vec`, `kt:attention-is-all-you-need` |
 | `kt:ai-accelerator` | `kt:high-bandwidth-memory`, `kt:model-serving`, `kt:tpu`, `kt:ai-chip-export-controls`, `kt:compute-governance` |
 | `kt:beam-search` | `kt:sampling-temperature-and-top-p`, `kt:self-consistency`, `kt:knowledge-distillation`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
 | `kt:kv-cache` | `kt:batching-and-paged-attention`, `kt:llm-inference-optimization`, `kt:speculative-decoding`, `kt:vllm`, `kt:self-attention` |
@@ -22,6 +22,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:positional-encoding` | `kt:attention-is-all-you-need`, `kt:context-window`, `kt:self-attention`, `kt:transformer-architecture` |
 | `kt:tensor-cores` | `kt:gpu-computing`, `kt:nvidia`, `kt:model-pruning`, `kt:tensorrt-llm` |
 | `kt:unsupervised-learning` | `kt:dimensionality-reduction`, `kt:machine-learning`, `kt:principal-component-analysis`, `kt:supervised-learning` |
+| `kt:vanishing-gradient-problem` | `kt:activation-function`, `kt:batch-normalization`, `kt:long-short-term-memory`, `kt:recurrent-neural-network` |
 | `kt:vector-database` | `kt:approximate-nearest-neighbor-search`, `kt:embeddings`, `kt:retrieval-augmented-generation`, `kt:semantic-search` |
 | `kt:adagrad` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:glove` |
 | `kt:adversarial-machine-learning` | `kt:ai-safety`, `kt:jailbreak`, `kt:prompt-injection` |
@@ -32,13 +33,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:google-deepmind` | `kt:alphago`, `kt:alphazero`, `kt:deep-q-network` |
 | `kt:gradient-descent` | `kt:adam-optimizer`, `kt:backpropagation`, `kt:deep-learning` |
 | `kt:hugging-face-trl` | `kt:direct-preference-optimization`, `kt:instruction-tuning`, `kt:rlhf` |
+| `kt:layer-normalization` | `kt:batch-normalization`, `kt:batch-normalization`, `kt:transformer-architecture` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
 | `kt:ms-coco` | `kt:faster-r-cnn`, `kt:object-detection`, `kt:yolo` |
 | `kt:natural-language-processing` | `kt:eliza`, `kt:prompt-engineering`, `kt:information-retrieval` |
 | `kt:openai` | `kt:clip`, `kt:gsm8k`, `kt:proximal-policy-optimization` |
 | `kt:orca-serving-system` | `kt:model-serving`, `kt:batching-and-paged-attention`, `kt:tensorrt-llm` |
+| `kt:residual-connection` | `kt:image-classification`, `kt:batch-normalization`, `kt:transformer-architecture` |
 | `kt:temporal-difference-learning` | `kt:actor-critic`, `kt:q-learning`, `kt:reinforcement-learning` |
-| `kt:vanishing-gradient-problem` | `kt:activation-function`, `kt:long-short-term-memory`, `kt:recurrent-neural-network` |
 | `kt:wmt-2014` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
 | `kt:ai-winter` | `kt:expert-systems`, `kt:perceptron` |
@@ -48,7 +50,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:apache-lucene` | `kt:bm25`, `kt:tf-idf` |
 | `kt:automatic-differentiation` | `kt:pytorch`, `kt:backpropagation` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:yolo` |
-| `kt:batch-normalization` | `kt:data-parallelism`, `kt:yolo` |
 | `kt:bert` | `kt:reranking`, `kt:transformer-architecture` |
 | `kt:chatbot-arena` | `kt:llm-as-a-judge`, `kt:vllm` |
 | `kt:computing-power-and-the-governance-of-artificial-intelligence` | `kt:compute-governance`, `kt:compute-governance` |
@@ -75,7 +76,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:probabilistic-relevance-framework` | `kt:bm25`, `kt:bm25` |
 | `kt:r-cnn` | `kt:faster-r-cnn`, `kt:yolo` |
 | `kt:reflexion` | `kt:react-prompting`, `kt:self-refine-iterative-refinement-with-self-feedback` |
-| `kt:residual-connection` | `kt:image-classification`, `kt:transformer-architecture` |
 | `kt:reward-model` | `kt:goodharts-law`, `kt:reward-hacking` |
 | `kt:rmsprop` | `kt:adam-optimizer`, `kt:adam-optimizer` |
 | `kt:scikit-learn` | `kt:dimensionality-reduction`, `kt:principal-component-analysis` |
@@ -113,6 +113,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:awq-activation-aware-weight-quantization-for-llm-compression-and-acceleration` | `kt:awq` |
 | `kt:backpropagation-through-time` | `kt:recurrent-neural-network` |
 | `kt:bagging` | `kt:ensemble-methods` |
+| `kt:batch-normalization-accelerating-deep-network-training` | `kt:batch-normalization` |
 | `kt:beir-a-heterogeneous-benchmark-for-zero-shot-evaluation-of-information-retrieval-models` | `kt:beir` |
 | `kt:berkeley-function-calling-leaderboard` | `kt:tool-use` |
 | `kt:big-bench` | `kt:emergent-abilities` |
@@ -234,7 +235,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:large-language-monkeys` | `kt:self-consistency` |
 | `kt:lasso` | `kt:regularization` |
 | `kt:latent-diffusion-model` | `kt:diffusion-model` |
-| `kt:layer-normalization` | `kt:transformer-architecture` |
 | `kt:learning-representations-by-back-propagating-errors` | `kt:backpropagation` |
 | `kt:learning-to-rank` | `kt:reranking` |
 | `kt:learning-to-reason-with-llms` | `kt:reasoning-models` |
