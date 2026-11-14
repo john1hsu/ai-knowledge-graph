@@ -38,7 +38,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:parameter-efficient-fine-tuning` | `kt:fine-tuning`, `kt:hugging-face-trl`, `kt:qlora` |
 | `kt:residual-connection` | `kt:image-classification`, `kt:batch-normalization`, `kt:transformer-architecture` |
 | `kt:reward-model` | `kt:goodharts-law`, `kt:reward-hacking`, `kt:hugging-face-trl` |
-| `kt:temporal-difference-learning` | `kt:actor-critic`, `kt:q-learning`, `kt:reinforcement-learning` |
 | `kt:wmt-2014` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
 | `kt:ai-risk-management` | `kt:iso-iec-42001`, `kt:nist-ai-risk-management-framework` |
@@ -80,6 +79,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:r-cnn` | `kt:faster-r-cnn`, `kt:yolo` |
 | `kt:reflexion` | `kt:react-prompting`, `kt:self-refine-iterative-refinement-with-self-feedback` |
 | `kt:rmsprop` | `kt:adam-optimizer`, `kt:adam-optimizer` |
+| `kt:sarsa` | `kt:q-learning`, `kt:temporal-difference-learning` |
 | `kt:scikit-learn` | `kt:dimensionality-reduction`, `kt:principal-component-analysis` |
 | `kt:self-refine` | `kt:agentic-workflow`, `kt:voyager` |
 | `kt:stochastic-gradient-descent` | `kt:data-parallelism`, `kt:adam-optimizer` |
@@ -245,6 +245,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:lasso` | `kt:regularization` |
 | `kt:latent-diffusion-model` | `kt:diffusion-model` |
 | `kt:learning-representations-by-back-propagating-errors` | `kt:backpropagation` |
+| `kt:learning-to-predict-by-the-methods-of-temporal-differences` | `kt:temporal-difference-learning` |
 | `kt:learning-to-rank` | `kt:reranking` |
 | `kt:learning-to-reason-with-llms` | `kt:reasoning-models` |
 | `kt:learning-transferable-visual-models-from-natural-language-supervision` | `kt:clip` |
@@ -282,6 +283,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:model-parallelism` | `kt:data-parallelism` |
 | `kt:model-registry` | `kt:mlops` |
 | `kt:monte-carlo-dropout` | `kt:dropout` |
+| `kt:monte-carlo-methods` | `kt:temporal-difference-learning` |
 | `kt:mrkl-systems` | `kt:tool-use` |
 | `kt:ms-marco` | `kt:reranking` |
 | `kt:mt-bench` | `kt:llm-as-a-judge` |
@@ -330,10 +332,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:reinforcement-learning-from-ai-feedback` | `kt:constitutional-ai` |
 | `kt:retrieval-augmented-generation-for-knowledge-intensive-nlp-tasks` | `kt:retrieval-augmented-generation` |
 | `kt:richard-bellman` | `kt:markov-decision-process` |
+| `kt:richard-sutton` | `kt:temporal-difference-learning` |
 | `kt:roofline-model` | `kt:gpu-computing` |
 | `kt:rule-based-system` | `kt:eliza` |
 | `kt:ruler` | `kt:context-window` |
-| `kt:sarsa` | `kt:q-learning` |
 | `kt:scalable-parallel-programming-with-cuda` | `kt:cuda` |
 | `kt:scaling-laws-for-neural-language-models` | `kt:scaling-laws` |
 | `kt:score-matching` | `kt:diffusion-model` |
@@ -362,6 +364,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:symbol-grounding-problem` | `kt:chinese-room-argument` |
 | `kt:systolic-array` | `kt:tpu` |
 | `kt:t-sne` | `kt:dimensionality-reduction` |
+| `kt:td-gammon` | `kt:temporal-difference-learning` |
 | `kt:tensor-parallelism` | `kt:distributed-training` |
 | `kt:tensorflow-serving` | `kt:model-serving` |
 | `kt:text-to-image-generation` | `kt:diffusion-model` |

@@ -3236,6 +3236,29 @@
     ]
   },
   {
+    "id": "kt:temporal-difference-learning",
+    "title": "Temporal-difference learning",
+    "aliases": [
+      "TD learning",
+      "TD(0)",
+      "TD(lambda)",
+      "temporal difference methods"
+    ],
+    "type": "Algorithm",
+    "domain": "reinforcement-learning",
+    "file": "articles/reinforcement-learning/temporal-difference-learning.md",
+    "created": "2026-11-14",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://mlanthology.org/mlj/1988/sutton1988mlj-learning",
+      "https://people.cs.umass.edu/~barto/courses/cs687/Chapter%206.pdf",
+      "https://bkgm.com/articles/tesauro/tdl.html",
+      "https://papers.nips.cc/paper/1996/hash/e00406144c1e7e35240afed70f34166a-Abstract.html",
+      "https://pubmed.ncbi.nlm.nih.gov/9054347/",
+      "https://people.cs.umass.edu/~barto/courses/cs687/sdm97.pdf"
+    ]
+  },
+  {
     "id": "kt:tensorrt-llm",
     "title": "TensorRT-LLM",
     "aliases": [

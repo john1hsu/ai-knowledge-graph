@@ -7682,6 +7682,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/synthetic-data/s6> <https://schema.org/url> "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-188.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s1> <http://purl.org/dc/terms/publisher> "Machine Learning 3:9-44, 1988 (Sutton), via ML Anthology" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s1> <http://purl.org/dc/terms/title> "Learning to Predict by the Methods of Temporal Differences" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s1> <https://schema.org/url> "https://mlanthology.org/mlj/1988/sutton1988mlj-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s2> <http://purl.org/dc/terms/publisher> "University of Massachusetts Amherst CS687 (Sutton and Barto)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s2> <http://purl.org/dc/terms/title> "Chapter 6: Temporal Difference Learning (lecture slides for Reinforcement Learning: An Introduction)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s2> <https://schema.org/url> "https://people.cs.umass.edu/~barto/courses/cs687/Chapter%206.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s3> <http://purl.org/dc/terms/publisher> "Communications of the ACM 38(3), March 1995 (Tesauro), reprinted at bkgm.com" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s3> <http://purl.org/dc/terms/title> "Temporal Difference Learning and TD-Gammon" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s3> <https://schema.org/url> "https://bkgm.com/articles/tesauro/tdl.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s4> <http://purl.org/dc/terms/publisher> "Advances in Neural Information Processing Systems 9 (NIPS 1996) (Tsitsiklis and Van Roy)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s4> <http://purl.org/dc/terms/title> "Analysis of Temporal-Diffference Learning with Function Approximation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s4> <https://schema.org/url> "https://papers.nips.cc/paper/1996/hash/e00406144c1e7e35240afed70f34166a-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s5> <http://purl.org/dc/terms/publisher> "Science 275(5306):1593-1599, 1997 (Schultz, Dayan and Montague), via PubMed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s5> <http://purl.org/dc/terms/title> "A Neural Substrate of Prediction and Reward" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s5> <https://schema.org/url> "https://pubmed.ncbi.nlm.nih.gov/9054347/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s6> <http://purl.org/dc/terms/publisher> "University of Massachusetts Amherst CS687 course reading (Schultz, Dayan and Montague, 1997)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s6> <http://purl.org/dc/terms/title> "A Neural Substrate of Prediction and Reward (author copy)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s6> <https://schema.org/url> "https://people.cs.umass.edu/~barto/courses/cs687/sdm97.pdf" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s1> <http://purl.org/dc/terms/publisher> "NVIDIA TensorRT-LLM documentation" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s1> <http://purl.org/dc/terms/title> "Overview — TensorRT LLM documentation (1.4.0rc3)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -8314,6 +8344,35 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/differential-privacy> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/synthetic-data> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> <http://www.w3.org/2000/01/rdf-schema#label> "Temporal-difference learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "TD learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "TD(0)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "TD(lambda)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "temporal difference methods" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> <http://www.w3.org/2004/02/skos/core#definition> "A family of model-free reinforcement learning methods that learn value predictions from experience by nudging each estimate toward a later estimate (bootstrapping), driven by the TD error between temporally successive predictions rather than by the final outcome." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> <http://www.w3.org/2004/02/skos/core#prefLabel> "Temporal-difference learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/markov-decision-process> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/sarsa> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/temporal-difference-learning/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-methods> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/richard-sutton> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/markov-decision-process> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "reinforcement-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/td-gammon> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/learning-to-predict-by-the-methods-of-temporal-differences> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Tool> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <http://www.w3.org/2000/01/rdf-schema#label> "TensorRT-LLM" .

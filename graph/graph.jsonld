@@ -10965,6 +10965,110 @@
       ]
     },
     {
+      "@id": "kt:temporal-difference-learning",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "Temporal-difference learning",
+      "skos:definition": "A family of model-free reinforcement learning methods that learn value predictions from experience by nudging each estimate toward a later estimate (bootstrapping), driven by the TD error between temporally successive predictions rather than by the final outcome.",
+      "kto:domain": "reinforcement-learning",
+      "dcterms:created": "2026-11-14",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Learning to Predict by the Methods of Temporal Differences",
+          "dcterms:publisher": "Machine Learning 3:9-44, 1988 (Sutton), via ML Anthology",
+          "schema:url": "https://mlanthology.org/mlj/1988/sutton1988mlj-learning",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Chapter 6: Temporal Difference Learning (lecture slides for Reinforcement Learning: An Introduction)",
+          "dcterms:publisher": "University of Massachusetts Amherst CS687 (Sutton and Barto)",
+          "schema:url": "https://people.cs.umass.edu/~barto/courses/cs687/Chapter%206.pdf",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Temporal Difference Learning and TD-Gammon",
+          "dcterms:publisher": "Communications of the ACM 38(3), March 1995 (Tesauro), reprinted at bkgm.com",
+          "schema:url": "https://bkgm.com/articles/tesauro/tdl.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Analysis of Temporal-Diffference Learning with Function Approximation",
+          "dcterms:publisher": "Advances in Neural Information Processing Systems 9 (NIPS 1996) (Tsitsiklis and Van Roy)",
+          "schema:url": "https://papers.nips.cc/paper/1996/hash/e00406144c1e7e35240afed70f34166a-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "A Neural Substrate of Prediction and Reward",
+          "dcterms:publisher": "Science 275(5306):1593-1599, 1997 (Schultz, Dayan and Montague), via PubMed",
+          "schema:url": "https://pubmed.ncbi.nlm.nih.gov/9054347/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "A Neural Substrate of Prediction and Reward (author copy)",
+          "dcterms:publisher": "University of Massachusetts Amherst CS687 course reading (Schultz, Dayan and Montague, 1997)",
+          "schema:url": "https://people.cs.umass.edu/~barto/courses/cs687/sdm97.pdf",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/reinforcement-learning/temporal-difference-learning.md",
+      "skos:altLabel": [
+        "TD learning",
+        "TD(0)",
+        "TD(lambda)",
+        "temporal difference methods"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:reinforcement-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:markov-decision-process"
+        },
+        {
+          "@id": "kt:q-learning"
+        },
+        {
+          "@id": "kt:actor-critic"
+        },
+        {
+          "@id": "kt:deep-q-network"
+        },
+        {
+          "@id": "kt:sarsa"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:richard-sutton"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:learning-to-predict-by-the-methods-of-temporal-differences"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:markov-decision-process"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:q-learning"
+        },
+        {
+          "@id": "kt:td-gammon"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:monte-carlo-methods"
+        }
+      ]
+    },
+    {
       "@id": "kt:approximate-nearest-neighbor-search",
       "@type": "kto:Technique",
       "skos:prefLabel": "Approximate nearest neighbor search",
