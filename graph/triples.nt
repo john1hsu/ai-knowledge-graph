@@ -741,6 +741,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/batching-and-paged-attention> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/batching-and-paged-attention> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/efficient-memory-management-for-large-language-model-serving-with-pagedattention> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/batching-and-paged-attention> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beam-search> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beam-search> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beam-search> <http://www.w3.org/2000/01/rdf-schema#label> "Beam search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beam-search> <http://www.w3.org/2004/02/skos/core#altLabel> "beam decoding" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beam-search> <http://www.w3.org/2004/02/skos/core#altLabel> "beam-search decoding" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beam-search> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/decoding-strategy> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beam-search> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/heuristic-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beam-search> <http://www.w3.org/2004/02/skos/core#definition> "A heuristic decoding algorithm for sequence models that, at each generation step, keeps only the k highest-scoring partial sequences (the beam) and extends them, trading search cost against the chance of finding the most probable output." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beam-search> <http://www.w3.org/2004/02/skos/core#prefLabel> "Beam search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beam-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/diverse-beam-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beam-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/if-beam-search-is-the-answer-what-was-the-question> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beam-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beam-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beam-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beam-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beam-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beam-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beam-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beam-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beam-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beam-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beam-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/the-curious-case-of-neural-text-degeneration> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beam-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "inference-and-optimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beam-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beam-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/beam-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/neural-machine-translation-by-jointly-learning-to-align-and-translate> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/beir> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/beir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Benchmark> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/beir> <http://www.w3.org/2000/01/rdf-schema#label> "BEIR" .
@@ -4560,6 +4586,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/batching-and-paged-attention/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/batching-and-paged-attention/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/batching-and-paged-attention/s6> <https://schema.org/url> "https://huggingface.co/docs/text-generation-inference/conceptual/paged_attention" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s1> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (Zhang, Lipton, Li, Smola)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s1> <http://purl.org/dc/terms/title> "10.8. Beam Search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s1> <https://schema.org/url> "https://d2l.ai/chapter_recurrent-modern/beam-search.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s2> <http://purl.org/dc/terms/publisher> "Proceedings of the First Workshop on Neural Machine Translation, ACL 2017 (Koehn, Knowles)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s2> <http://purl.org/dc/terms/title> "Six Challenges for Neural Machine Translation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s2> <https://schema.org/url> "https://aclanthology.org/W17-3204/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s3> <http://purl.org/dc/terms/publisher> "EMNLP 2020 (Meister, Cotterell, Vieira)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s3> <http://purl.org/dc/terms/title> "If beam search is the answer, what was the question?" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s3> <https://schema.org/url> "https://aclanthology.org/2020.emnlp-main.170" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s4> <http://purl.org/dc/terms/publisher> "AAAI 2018 (Vijayakumar, Cogswell, Selvaraju, Sun, Lee, Crandall, Batra)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s4> <http://purl.org/dc/terms/title> "Diverse Beam Search for Improved Description of Complex Scenes" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s4> <https://schema.org/url> "https://ojs.aaai.org/index.php/AAAI/article/view/12340" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s5> <http://purl.org/dc/terms/publisher> "arXiv:1904.09751v2 (Holtzman, Buys, Du, Forbes, Choi)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s5> <http://purl.org/dc/terms/title> "The Curious Case of Neural Text Degeneration" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s5> <https://schema.org/url> "https://arxiv.org/abs/1904.09751" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s6> <http://purl.org/dc/terms/publisher> "Hugging Face Transformers documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s6> <http://purl.org/dc/terms/title> "Generation (GenerationConfig reference), Transformers v5.3.0" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/beam-search/s6> <https://schema.org/url> "https://huggingface.co/docs/transformers/v5.3.0/en/main_classes/text_generation" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s1> <http://purl.org/dc/terms/publisher> "arXiv:2104.08663v4 (Thakur, Reimers, Rücklé, Srivastava, Gurevych), October 2021" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s1> <http://purl.org/dc/terms/title> "BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/beir/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

@@ -632,6 +632,27 @@
     ]
   },
   {
+    "id": "kt:beam-search",
+    "title": "Beam search",
+    "aliases": [
+      "beam decoding",
+      "beam-search decoding"
+    ],
+    "type": "Algorithm",
+    "domain": "inference-and-optimization",
+    "file": "articles/inference-and-optimization/beam-search.md",
+    "created": "2026-11-14",
+    "maturity": "established",
+    "source_urls": [
+      "https://d2l.ai/chapter_recurrent-modern/beam-search.html",
+      "https://aclanthology.org/W17-3204/",
+      "https://aclanthology.org/2020.emnlp-main.170",
+      "https://ojs.aaai.org/index.php/AAAI/article/view/12340",
+      "https://arxiv.org/abs/1904.09751",
+      "https://huggingface.co/docs/transformers/v5.3.0/en/main_classes/text_generation"
+    ]
+  },
+  {
     "id": "kt:beir",
     "title": "BEIR",
     "aliases": [

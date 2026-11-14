@@ -7659,6 +7659,103 @@
       ]
     },
     {
+      "@id": "kt:beam-search",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "Beam search",
+      "skos:definition": "A heuristic decoding algorithm for sequence models that, at each generation step, keeps only the k highest-scoring partial sequences (the beam) and extends them, trading search cost against the chance of finding the most probable output.",
+      "kto:domain": "inference-and-optimization",
+      "dcterms:created": "2026-11-14",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "10.8. Beam Search",
+          "dcterms:publisher": "Dive into Deep Learning (Zhang, Lipton, Li, Smola)",
+          "schema:url": "https://d2l.ai/chapter_recurrent-modern/beam-search.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Six Challenges for Neural Machine Translation",
+          "dcterms:publisher": "Proceedings of the First Workshop on Neural Machine Translation, ACL 2017 (Koehn, Knowles)",
+          "schema:url": "https://aclanthology.org/W17-3204/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "If beam search is the answer, what was the question?",
+          "dcterms:publisher": "EMNLP 2020 (Meister, Cotterell, Vieira)",
+          "schema:url": "https://aclanthology.org/2020.emnlp-main.170",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Diverse Beam Search for Improved Description of Complex Scenes",
+          "dcterms:publisher": "AAAI 2018 (Vijayakumar, Cogswell, Selvaraju, Sun, Lee, Crandall, Batra)",
+          "schema:url": "https://ojs.aaai.org/index.php/AAAI/article/view/12340",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Curious Case of Neural Text Degeneration",
+          "dcterms:publisher": "arXiv:1904.09751v2 (Holtzman, Buys, Du, Forbes, Choi)",
+          "schema:url": "https://arxiv.org/abs/1904.09751",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Generation (GenerationConfig reference), Transformers v5.3.0",
+          "dcterms:publisher": "Hugging Face Transformers documentation",
+          "schema:url": "https://huggingface.co/docs/transformers/v5.3.0/en/main_classes/text_generation",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/inference-and-optimization/beam-search.md",
+      "skos:altLabel": [
+        "beam decoding",
+        "beam-search decoding"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:decoding-strategy"
+        },
+        {
+          "@id": "kt:heuristic-search"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:sequence-to-sequence-learning"
+        },
+        {
+          "@id": "kt:knowledge-distillation"
+        },
+        {
+          "@id": "kt:self-consistency"
+        },
+        {
+          "@id": "kt:diverse-beam-search"
+        },
+        {
+          "@id": "kt:if-beam-search-is-the-answer-what-was-the-question"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:sampling-temperature-and-top-p"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:neural-machine-translation-by-jointly-learning-to-align-and-translate"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:hugging-face-transformers"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:the-curious-case-of-neural-text-degeneration"
+        }
+      ]
+    },
+    {
       "@id": "kt:flash-attention",
       "@type": "kto:Algorithm",
       "skos:prefLabel": "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness",

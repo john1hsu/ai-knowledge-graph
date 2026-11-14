@@ -6,7 +6,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:ai-winter`, `kt:dartmouth-workshop`, `kt:symbolic-ai`, `kt:turing-test`, `kt:google`, `kt:computer-vision`, `kt:ai-governance`, `kt:machine-learning`, `kt:ai-safety` |
 | `kt:ai-accelerator` | `kt:high-bandwidth-memory`, `kt:model-serving`, `kt:tpu`, `kt:ai-chip-export-controls`, `kt:compute-governance` |
-| `kt:beam-search` | `kt:sampling-temperature-and-top-p`, `kt:self-consistency`, `kt:knowledge-distillation`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
 | `kt:model-compression` | `kt:gptq`, `kt:llm-inference-optimization`, `kt:model-pruning`, `kt:quantization`, `kt:knowledge-distillation` |
 | `kt:representation-learning` | `kt:clip`, `kt:deep-learning`, `kt:embeddings`, `kt:glove`, `kt:word2vec` |
 | `kt:statistical-learning-theory` | `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:overfitting`, `kt:regularization`, `kt:supervised-learning` |
@@ -55,6 +54,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:export-control-reform-act` | `kt:ai-chip-export-controls`, `kt:bureau-of-industry-and-security` |
 | `kt:faiss` | `kt:approximate-nearest-neighbor-search`, `kt:vector-database` |
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
+| `kt:heuristic-search` | `kt:logic-theorist`, `kt:beam-search` |
 | `kt:highway-network` | `kt:residual-connection`, `kt:residual-connection` |
 | `kt:hugging-face` | `kt:hugging-face-transformers`, `kt:hugging-face-trl` |
 | `kt:induction-head` | `kt:mechanistic-interpretability`, `kt:in-context-learning` |
@@ -80,6 +80,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:scikit-learn` | `kt:dimensionality-reduction`, `kt:principal-component-analysis` |
 | `kt:self-refine` | `kt:agentic-workflow`, `kt:voyager` |
 | `kt:stochastic-gradient-descent` | `kt:data-parallelism`, `kt:adam-optimizer` |
+| `kt:the-curious-case-of-neural-text-degeneration` | `kt:beam-search`, `kt:sampling-temperature-and-top-p` |
 | `kt:tokenization` | `kt:perplexity`, `kt:structured-output` |
 | `kt:transfer-learning` | `kt:fine-tuning`, `kt:pretraining` |
 | `kt:triton-inference-server` | `kt:model-serving`, `kt:tensorrt-llm` |
@@ -151,6 +152,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dan-hendrycks` | `kt:mmlu` |
 | `kt:data-drift` | `kt:mlops` |
 | `kt:decision-tree` | `kt:ensemble-methods` |
+| `kt:decoding-strategy` | `kt:beam-search` |
 | `kt:deep-blue` | `kt:alphazero` |
 | `kt:deep-reinforcement-learning-from-human-preferences` | `kt:rlhf` |
 | `kt:deep-residual-learning-for-image-recognition` | `kt:residual-connection` |
@@ -163,6 +165,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:digital-omnibus-on-ai` | `kt:eu-ai-act` |
 | `kt:distilbert` | `kt:knowledge-distillation` |
 | `kt:distilling-the-knowledge-in-a-neural-network` | `kt:knowledge-distillation` |
+| `kt:diverse-beam-search` | `kt:beam-search` |
 | `kt:dram` | `kt:high-bandwidth-memory` |
 | `kt:dropout-a-simple-way-to-prevent-neural-networks-from-overfitting` | `kt:dropout` |
 | `kt:early-stopping` | `kt:regularization` |
@@ -204,13 +207,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:grouped-query-attention` | `kt:kv-cache` |
 | `kt:harold-hotelling` | `kt:principal-component-analysis` |
 | `kt:herbert-a-simon` | `kt:logic-theorist` |
-| `kt:heuristic-search` | `kt:logic-theorist` |
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
 | `kt:hotpotqa` | `kt:react-prompting` |
 | `kt:hugging-face-diffusers` | `kt:diffusion-model` |
 | `kt:hugging-face-peft` | `kt:qlora` |
 | `kt:human-evaluation` | `kt:llm-as-a-judge` |
 | `kt:ian-goodfellow` | `kt:generative-adversarial-network` |
+| `kt:if-beam-search-is-the-answer-what-was-the-question` | `kt:beam-search` |
 | `kt:ilsvrc` | `kt:image-classification` |
 | `kt:imagenet-classification-with-deep-convolutional-neural-networks` | `kt:imagenet-and-alexnet` |
 | `kt:imagenet-large-scale-visual-recognition-challenge` | `kt:imagenet-and-alexnet` |
@@ -372,7 +375,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tensorflow` | `kt:google` |
 | `kt:tensorflow-serving` | `kt:model-serving` |
 | `kt:text-to-image-generation` | `kt:diffusion-model` |
-| `kt:the-curious-case-of-neural-text-degeneration` | `kt:sampling-temperature-and-top-p` |
 | `kt:the-logic-theory-machine-a-complex-information-processing-system` | `kt:logic-theorist` |
 | `kt:the-perceptron-a-probabilistic-model-for-information-storage-and-organization-in-the-brain` | `kt:perceptron` |
 | `kt:thompson-sampling` | `kt:exploration-exploitation` |
