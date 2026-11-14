@@ -130,6 +130,29 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/model-extraction> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-injection> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agent-memory> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agent-memory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agent-memory> <http://www.w3.org/2000/01/rdf-schema#label> "Agent memory" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agent-memory> <http://www.w3.org/2004/02/skos/core#altLabel> "LLM agent memory" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agent-memory> <http://www.w3.org/2004/02/skos/core#altLabel> "agentic memory" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agent-memory> <http://www.w3.org/2004/02/skos/core#altLabel> "long-term agent memory" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agent-memory> <http://www.w3.org/2004/02/skos/core#altLabel> "memory for language agents" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agent-memory> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agent-memory> <http://www.w3.org/2004/02/skos/core#definition> "The mechanisms that let an LLM-based agent keep, organize and recall information beyond a single model call, spanning short-term working context and long-term episodic, semantic and procedural stores that the agent writes to, manages and retrieves from as it acts." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agent-memory> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agent memory" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agent-memory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agent-memory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/generative-agents-interactive-simulacra-of-human-behavior> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agent-memory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/memgpt> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agent-memory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agent-memory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/agent-memory/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agent-memory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/agent-memory/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agent-memory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/agent-memory/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agent-memory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/agent-memory/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agent-memory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/agent-memory/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agent-memory> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/vector-database> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agent-memory> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "agents-and-tool-use" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agent-memory> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/agent-memory> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/agent2agent-protocol> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/agent2agent-protocol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Tool> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/agent2agent-protocol> <http://www.w3.org/2000/01/rdf-schema#label> "Agent2Agent protocol" .
@@ -3782,6 +3805,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s6> <https://schema.org/url> "https://arxiv.org/abs/1706.06083v4" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agent-memory/s1> <http://purl.org/dc/terms/publisher> "Transactions on Machine Learning Research, 2024 (Sumers, Yao, Narasimhan, Griffiths; authors' arXiv version 2309.02427)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agent-memory/s1> <http://purl.org/dc/terms/title> "Cognitive Architectures for Language Agents" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agent-memory/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agent-memory/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agent-memory/s1> <https://schema.org/url> "https://arxiv.org/pdf/2309.02427" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agent-memory/s2> <http://purl.org/dc/terms/publisher> "arXiv 2310.08560 (Packer et al., authors' version)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agent-memory/s2> <http://purl.org/dc/terms/title> "MemGPT: Towards LLMs as Operating Systems" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agent-memory/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agent-memory/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agent-memory/s2> <https://schema.org/url> "https://arxiv.org/pdf/2310.08560" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agent-memory/s3> <http://purl.org/dc/terms/publisher> "arXiv 2404.13501 (Zhang et al., authors' version)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agent-memory/s3> <http://purl.org/dc/terms/title> "A Survey on the Memory Mechanism of Large Language Model based Agents" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agent-memory/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agent-memory/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agent-memory/s3> <https://schema.org/url> "https://arxiv.org/pdf/2404.13501" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agent-memory/s4> <http://purl.org/dc/terms/publisher> "UIST 2023 (Park et al.; authors' arXiv version 2304.03442v2)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agent-memory/s4> <http://purl.org/dc/terms/title> "Generative Agents: Interactive Simulacra of Human Behavior" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agent-memory/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agent-memory/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agent-memory/s4> <https://schema.org/url> "https://arxiv.org/pdf/2304.03442v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agent-memory/s5> <http://purl.org/dc/terms/publisher> "LangChain" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agent-memory/s5> <http://purl.org/dc/terms/title> "Memory overview (LangGraph / LangChain docs)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agent-memory/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agent-memory/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/agent-memory/s5> <https://schema.org/url> "https://docs.langchain.com/oss/python/concepts/memory" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/agent2agent-protocol/s1> <http://purl.org/dc/terms/publisher> "Google Developers Blog (Surapaneni, Jha, Vakoc, Segal), 9 April 2025" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/agent2agent-protocol/s1> <http://purl.org/dc/terms/title> "Announcing the Agent2Agent Protocol (A2A)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/agent2agent-protocol/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

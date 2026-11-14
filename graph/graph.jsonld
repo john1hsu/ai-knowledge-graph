@@ -10,6 +10,83 @@
   },
   "@graph": [
     {
+      "@id": "kt:agent-memory",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Agent memory",
+      "skos:definition": "The mechanisms that let an LLM-based agent keep, organize and recall information beyond a single model call, spanning short-term working context and long-term episodic, semantic and procedural stores that the agent writes to, manages and retrieves from as it acts.",
+      "kto:domain": "agents-and-tool-use",
+      "dcterms:created": "2026-11-14",
+      "kto:maturity": "emerging",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Cognitive Architectures for Language Agents",
+          "dcterms:publisher": "Transactions on Machine Learning Research, 2024 (Sumers, Yao, Narasimhan, Griffiths; authors' arXiv version 2309.02427)",
+          "schema:url": "https://arxiv.org/pdf/2309.02427",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "MemGPT: Towards LLMs as Operating Systems",
+          "dcterms:publisher": "arXiv 2310.08560 (Packer et al., authors' version)",
+          "schema:url": "https://arxiv.org/pdf/2310.08560",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "A Survey on the Memory Mechanism of Large Language Model based Agents",
+          "dcterms:publisher": "arXiv 2404.13501 (Zhang et al., authors' version)",
+          "schema:url": "https://arxiv.org/pdf/2404.13501",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Generative Agents: Interactive Simulacra of Human Behavior",
+          "dcterms:publisher": "UIST 2023 (Park et al.; authors' arXiv version 2304.03442v2)",
+          "schema:url": "https://arxiv.org/pdf/2304.03442v2",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Memory overview (LangGraph / LangChain docs)",
+          "dcterms:publisher": "LangChain",
+          "schema:url": "https://docs.langchain.com/oss/python/concepts/memory",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/agents-and-tool-use/agent-memory.md",
+      "skos:altLabel": [
+        "LLM agent memory",
+        "memory for language agents",
+        "agentic memory",
+        "long-term agent memory"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-agent"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:retrieval-augmented-generation"
+        },
+        {
+          "@id": "kt:context-window"
+        },
+        {
+          "@id": "kt:memgpt"
+        },
+        {
+          "@id": "kt:generative-agents-interactive-simulacra-of-human-behavior"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:vector-database"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:langgraph"
+        }
+      ]
+    },
+    {
       "@id": "kt:agent2agent-protocol",
       "@type": "kto:Tool",
       "skos:prefLabel": "Agent2Agent protocol",

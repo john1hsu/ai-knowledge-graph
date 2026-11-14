@@ -108,6 +108,28 @@
     ]
   },
   {
+    "id": "kt:agent-memory",
+    "title": "Agent memory",
+    "aliases": [
+      "LLM agent memory",
+      "memory for language agents",
+      "agentic memory",
+      "long-term agent memory"
+    ],
+    "type": "Concept",
+    "domain": "agents-and-tool-use",
+    "file": "articles/agents-and-tool-use/agent-memory.md",
+    "created": "2026-11-14",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://arxiv.org/pdf/2309.02427",
+      "https://arxiv.org/pdf/2310.08560",
+      "https://arxiv.org/pdf/2404.13501",
+      "https://arxiv.org/pdf/2304.03442v2",
+      "https://docs.langchain.com/oss/python/concepts/memory"
+    ]
+  },
+  {
     "id": "kt:agent2agent-protocol",
     "title": "Agent2Agent protocol",
     "aliases": [
