@@ -10,7 +10,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:representation-learning` | `kt:clip`, `kt:deep-learning`, `kt:embeddings`, `kt:glove`, `kt:word2vec` |
 | `kt:vanishing-gradient-problem` | `kt:activation-function`, `kt:batch-normalization`, `kt:long-short-term-memory`, `kt:recurrent-neural-network`, `kt:residual-connection` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
-| `kt:attention-mechanism` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:self-attention`, `kt:sequence-to-sequence-learning` |
 | `kt:chatbot-arena` | `kt:human-evaluation`, `kt:human-evaluation`, `kt:llm-as-a-judge`, `kt:vllm` |
 | `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:geoffrey-hinton`, `kt:perceptron`, `kt:symbolic-ai` |
 | `kt:google-deepmind` | `kt:google`, `kt:alphago`, `kt:alphazero`, `kt:deep-q-network` |
@@ -215,6 +214,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ian-goodfellow` | `kt:generative-adversarial-network` |
 | `kt:if-beam-search-is-the-answer-what-was-the-question` | `kt:beam-search` |
 | `kt:ilsvrc` | `kt:image-classification` |
+| `kt:image-captioning` | `kt:attention-mechanism` |
 | `kt:imagenet-classification-with-deep-convolutional-neural-networks` | `kt:imagenet-and-alexnet` |
 | `kt:imagenet-large-scale-visual-recognition-challenge` | `kt:imagenet-and-alexnet` |
 | `kt:in-datacenter-performance-analysis-of-a-tensor-processing-unit` | `kt:tpu` |
@@ -356,6 +356,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:show-your-work-scratchpads-for-intermediate-computation-with-language-models` | `kt:scratchpad` |
 | `kt:singular-value-decomposition` | `kt:principal-component-analysis` |
 | `kt:soft-actor-critic` | `kt:actor-critic` |
+| `kt:softmax-function` | `kt:attention-mechanism` |
 | `kt:softmax-regression` | `kt:image-classification` |
 | `kt:sparse-autoencoder` | `kt:mechanistic-interpretability` |
 | `kt:speech-processing` | `kt:automatic-speech-recognition` |

@@ -580,6 +580,33 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/neural-machine-translation-by-jointly-learning-to-align-and-translate> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> <http://www.w3.org/2000/01/rdf-schema#label> "Attention mechanism" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> <http://www.w3.org/2004/02/skos/core#altLabel> "Bahdanau attention" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> <http://www.w3.org/2004/02/skos/core#altLabel> "additive attention" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> <http://www.w3.org/2004/02/skos/core#altLabel> "neural attention" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> <http://www.w3.org/2004/02/skos/core#altLabel> "soft attention" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> <http://www.w3.org/2004/02/skos/core#definition> "A differentiable neural network component that builds an output as a weighted average of value vectors, with the weights computed by scoring a query against a set of keys and normalizing the scores with softmax, so a model can focus on the most relevant parts of its input." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> <http://www.w3.org/2004/02/skos/core#prefLabel> "Attention mechanism" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/self-attention> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-mechanism/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-mechanism/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-mechanism/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-mechanism/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-mechanism/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "transformers-and-llms" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#extends> <https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/softmax-function> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/neural-machine-translation-by-jointly-learning-to-align-and-translate> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/image-captioning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Tool> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <http://www.w3.org/2000/01/rdf-schema#label> "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation" .
@@ -4482,6 +4509,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-is-all-you-need/s6> <https://schema.org/url> "https://web.stanford.edu/~jurafsky/slp3/7.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-mechanism/s1> <http://purl.org/dc/terms/publisher> "Bahdanau, Cho and Bengio, ICLR 2015 (authors' arXiv version, 1409.0473)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-mechanism/s1> <http://purl.org/dc/terms/title> "Neural Machine Translation by Jointly Learning to Align and Translate" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-mechanism/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-mechanism/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-mechanism/s1> <https://schema.org/url> "https://arxiv.org/pdf/1409.0473" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-mechanism/s2> <http://purl.org/dc/terms/publisher> "Luong, Pham and Manning, Proceedings of EMNLP 2015, pp. 1412–1421 (ACL Anthology D15-1166)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-mechanism/s2> <http://purl.org/dc/terms/title> "Effective Approaches to Attention-based Neural Machine Translation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-mechanism/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-mechanism/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-mechanism/s2> <https://schema.org/url> "https://aclanthology.org/D15-1166.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-mechanism/s3> <http://purl.org/dc/terms/publisher> "Zhang, Lipton, Li and Smola, Dive into Deep Learning (d2l.ai)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-mechanism/s3> <http://purl.org/dc/terms/title> "11.3. Attention Scoring Functions" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-mechanism/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-mechanism/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-mechanism/s3> <https://schema.org/url> "https://www.d2l.ai/chapter_attention-mechanisms-and-transformers/attention-scoring-functions.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-mechanism/s4> <http://purl.org/dc/terms/publisher> "Xu et al., ICML 2015, PMLR vol. 37, pp. 2048–2057 (authors' arXiv version, 1502.03044)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-mechanism/s4> <http://purl.org/dc/terms/title> "Show, Attend and Tell: Neural Image Caption Generation with Visual Attention" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-mechanism/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-mechanism/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-mechanism/s4> <https://schema.org/url> "https://arxiv.org/abs/1502.03044v3" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-mechanism/s5> <http://purl.org/dc/terms/publisher> "Wiegreffe and Pinter, Proceedings of EMNLP-IJCNLP 2019, pp. 11–20 (ACL Anthology D19-1002)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-mechanism/s5> <http://purl.org/dc/terms/title> "Attention is not not Explanation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-mechanism/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-mechanism/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-mechanism/s5> <https://schema.org/url> "https://aclanthology.org/D19-1002/" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s1> <http://purl.org/dc/terms/publisher> "arXiv 2308.08155v2 (Wu et al., Microsoft Research, Penn State, University of Washington, Xidian University; authors' version)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s1> <http://purl.org/dc/terms/title> "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

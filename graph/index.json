@@ -501,6 +501,28 @@
     ]
   },
   {
+    "id": "kt:attention-mechanism",
+    "title": "Attention mechanism",
+    "aliases": [
+      "neural attention",
+      "soft attention",
+      "Bahdanau attention",
+      "additive attention"
+    ],
+    "type": "Architecture",
+    "domain": "transformers-and-llms",
+    "file": "articles/transformers-and-llms/attention-mechanism.md",
+    "created": "2026-11-14",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://arxiv.org/pdf/1409.0473",
+      "https://aclanthology.org/D15-1166.pdf",
+      "https://www.d2l.ai/chapter_attention-mechanisms-and-transformers/attention-scoring-functions.html",
+      "https://arxiv.org/abs/1502.03044v3",
+      "https://aclanthology.org/D19-1002/"
+    ]
+  },
+  {
     "id": "kt:autogen",
     "title": "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation",
     "aliases": [

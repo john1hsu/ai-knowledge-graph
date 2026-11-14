@@ -15169,6 +15169,99 @@
       ]
     },
     {
+      "@id": "kt:attention-mechanism",
+      "@type": "kto:Architecture",
+      "skos:prefLabel": "Attention mechanism",
+      "skos:definition": "A differentiable neural network component that builds an output as a weighted average of value vectors, with the weights computed by scoring a query against a set of keys and normalizing the scores with softmax, so a model can focus on the most relevant parts of its input.",
+      "kto:domain": "transformers-and-llms",
+      "dcterms:created": "2026-11-14",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Neural Machine Translation by Jointly Learning to Align and Translate",
+          "dcterms:publisher": "Bahdanau, Cho and Bengio, ICLR 2015 (authors' arXiv version, 1409.0473)",
+          "schema:url": "https://arxiv.org/pdf/1409.0473",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Effective Approaches to Attention-based Neural Machine Translation",
+          "dcterms:publisher": "Luong, Pham and Manning, Proceedings of EMNLP 2015, pp. 1412–1421 (ACL Anthology D15-1166)",
+          "schema:url": "https://aclanthology.org/D15-1166.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "11.3. Attention Scoring Functions",
+          "dcterms:publisher": "Zhang, Lipton, Li and Smola, Dive into Deep Learning (d2l.ai)",
+          "schema:url": "https://www.d2l.ai/chapter_attention-mechanisms-and-transformers/attention-scoring-functions.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Show, Attend and Tell: Neural Image Caption Generation with Visual Attention",
+          "dcterms:publisher": "Xu et al., ICML 2015, PMLR vol. 37, pp. 2048–2057 (authors' arXiv version, 1502.03044)",
+          "schema:url": "https://arxiv.org/abs/1502.03044v3",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Attention is not not Explanation",
+          "dcterms:publisher": "Wiegreffe and Pinter, Proceedings of EMNLP-IJCNLP 2019, pp. 11–20 (ACL Anthology D19-1002)",
+          "schema:url": "https://aclanthology.org/D19-1002/",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/transformers-and-llms/attention-mechanism.md",
+      "skos:altLabel": [
+        "neural attention",
+        "soft attention",
+        "Bahdanau attention",
+        "additive attention"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:deep-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:self-attention"
+        },
+        {
+          "@id": "kt:sequence-to-sequence-learning"
+        },
+        {
+          "@id": "kt:recurrent-neural-network"
+        },
+        {
+          "@id": "kt:mechanistic-interpretability"
+        },
+        {
+          "@id": "kt:vision-language-model"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:neural-machine-translation-by-jointly-learning-to-align-and-translate"
+        }
+      ],
+      "kto:extends": [
+        {
+          "@id": "kt:sequence-to-sequence-learning"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:transformer-architecture"
+        },
+        {
+          "@id": "kt:image-captioning"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:softmax-function"
+        }
+      ]
+    },
+    {
       "@id": "kt:context-window",
       "@type": "kto:Concept",
       "skos:prefLabel": "Context window",
