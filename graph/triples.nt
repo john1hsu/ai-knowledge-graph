@@ -2156,6 +2156,28 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/mt-bench> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-inference-optimization> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-inference-optimization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Field> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-inference-optimization> <http://www.w3.org/2000/01/rdf-schema#label> "LLM inference optimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-inference-optimization> <http://www.w3.org/2004/02/skos/core#altLabel> "LLM inference acceleration" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-inference-optimization> <http://www.w3.org/2004/02/skos/core#altLabel> "LLM inference efficiency" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-inference-optimization> <http://www.w3.org/2004/02/skos/core#altLabel> "efficient LLM inference" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-inference-optimization> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-inference-optimization> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning-systems> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-inference-optimization> <http://www.w3.org/2004/02/skos/core#definition> "The body of data-, model- and system-level techniques that cut the latency, memory footprint and cost of generating text with a trained large language model, chiefly by attacking the memory-bound, token-by-token decode phase, the growing KV cache and the sheer size of the weights." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-inference-optimization> <http://www.w3.org/2004/02/skos/core#prefLabel> "LLM inference optimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-inference-optimization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-inference-optimization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-inference-optimization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-inference-optimization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-inference-optimization/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-inference-optimization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-inference-optimization/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-inference-optimization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-inference-optimization/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-inference-optimization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-inference-optimization/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-inference-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "inference-and-optimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-inference-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-inference-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/batching-and-paged-attention> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-inference-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/speculative-decoding> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/llm-inference-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Model> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> <http://www.w3.org/2000/01/rdf-schema#label> "Logic Theorist" .
@@ -5724,6 +5746,26 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s5> <https://schema.org/url> "https://papers.nips.cc/paper_files/paper/2024/hash/7f1f0218e45f5414c79c0679633e47bc-Abstract-Conference.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-inference-optimization/s1> <http://purl.org/dc/terms/publisher> "Zhou, Ning, Hong et al., arXiv 2404.14294 (2024)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-inference-optimization/s1> <http://purl.org/dc/terms/title> "A Survey on Efficient Inference for Large Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-inference-optimization/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-inference-optimization/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "preprint" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-inference-optimization/s1> <https://schema.org/url> "https://arxiv.org/html/2404.14294v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-inference-optimization/s2> <http://purl.org/dc/terms/publisher> "Proceedings of Machine Learning and Systems 5 (MLSys 2023), pp. 606–624 (Pope et al., Google)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-inference-optimization/s2> <http://purl.org/dc/terms/title> "Efficiently Scaling Transformer Inference" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-inference-optimization/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-inference-optimization/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-inference-optimization/s2> <https://schema.org/url> "https://proceedings.mlsys.org/paper_files/paper/2023/hash/c4be71ab8d24cdfb45e3d06dbfca2780-Abstract-mlsys2023.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-inference-optimization/s3> <http://purl.org/dc/terms/publisher> "USENIX OSDI '22, pp. 521–538 (Yu, Jeong, Kim, Kim and Chun)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-inference-optimization/s3> <http://purl.org/dc/terms/title> "Orca: A Distributed Serving System for Transformer-Based Generative Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-inference-optimization/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-inference-optimization/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-inference-optimization/s3> <https://schema.org/url> "https://www.usenix.org/conference/osdi22/presentation/yu" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-inference-optimization/s4> <http://purl.org/dc/terms/publisher> "NVIDIA Technical Blog (Verma and Vaidya, November 2023)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-inference-optimization/s4> <http://purl.org/dc/terms/title> "Mastering LLM Techniques: Inference Optimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-inference-optimization/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-inference-optimization/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-inference-optimization/s4> <https://schema.org/url> "https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s1> <http://purl.org/dc/terms/publisher> "A. Newell and H. A. Simon, RAND Corporation, 1956 (doi:10.7249/P868)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s1> <http://purl.org/dc/terms/title> "The Logic Theory Machine: A Complex Information Processing System (RAND P-868)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/logic-theorist/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

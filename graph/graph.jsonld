@@ -7147,6 +7147,79 @@
       ]
     },
     {
+      "@id": "kt:llm-inference-optimization",
+      "@type": "kto:Field",
+      "skos:prefLabel": "LLM inference optimization",
+      "skos:definition": "The body of data-, model- and system-level techniques that cut the latency, memory footprint and cost of generating text with a trained large language model, chiefly by attacking the memory-bound, token-by-token decode phase, the growing KV cache and the sheer size of the weights.",
+      "kto:domain": "inference-and-optimization",
+      "dcterms:created": "2026-11-14",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "A Survey on Efficient Inference for Large Language Models",
+          "dcterms:publisher": "Zhou, Ning, Hong et al., arXiv 2404.14294 (2024)",
+          "schema:url": "https://arxiv.org/html/2404.14294v2",
+          "kto:sourceType": "preprint"
+        },
+        {
+          "dcterms:title": "Efficiently Scaling Transformer Inference",
+          "dcterms:publisher": "Proceedings of Machine Learning and Systems 5 (MLSys 2023), pp. 606–624 (Pope et al., Google)",
+          "schema:url": "https://proceedings.mlsys.org/paper_files/paper/2023/hash/c4be71ab8d24cdfb45e3d06dbfca2780-Abstract-mlsys2023.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Orca: A Distributed Serving System for Transformer-Based Generative Models",
+          "dcterms:publisher": "USENIX OSDI '22, pp. 521–538 (Yu, Jeong, Kim, Kim and Chun)",
+          "schema:url": "https://www.usenix.org/conference/osdi22/presentation/yu",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Mastering LLM Techniques: Inference Optimization",
+          "dcterms:publisher": "NVIDIA Technical Blog (Verma and Vaidya, November 2023)",
+          "schema:url": "https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization",
+          "kto:sourceType": "lab-research"
+        }
+      ],
+      "kto:file": "articles/inference-and-optimization/llm-inference-optimization.md",
+      "skos:altLabel": [
+        "efficient LLM inference",
+        "LLM inference efficiency",
+        "LLM inference acceleration"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:machine-learning-systems"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:kv-cache"
+        },
+        {
+          "@id": "kt:model-compression"
+        },
+        {
+          "@id": "kt:flash-attention"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:speculative-decoding"
+        },
+        {
+          "@id": "kt:batching-and-paged-attention"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:model-serving"
+        }
+      ]
+    },
+    {
       "@id": "kt:model-pruning",
       "@type": "kto:Technique",
       "skos:prefLabel": "Model pruning",
