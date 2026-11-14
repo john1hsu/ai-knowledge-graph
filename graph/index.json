@@ -1624,6 +1624,29 @@
     ]
   },
   {
+    "id": "kt:hybrid-search",
+    "title": "Hybrid search",
+    "aliases": [
+      "hybrid retrieval",
+      "sparse-dense retrieval",
+      "hybrid sparse-dense search",
+      "lexical-semantic hybrid search"
+    ],
+    "type": "Technique",
+    "domain": "retrieval-and-knowledge",
+    "file": "articles/retrieval-and-knowledge/hybrid-search.md",
+    "created": "2026-11-14",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/pdf/2004.04906.pdf",
+      "https://arxiv.org/pdf/2104.05740",
+      "https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/65b9eea6e1cc6bb9f0cd2a47751a186f-Paper-round2.pdf",
+      "https://research.google/pubs/pub36196/",
+      "https://www.elastic.co/guide/en/elasticsearch/reference/8.19/rrf.html",
+      "https://docs.weaviate.io/weaviate/concepts/search/hybrid-search"
+    ]
+  },
+  {
     "id": "kt:image-classification",
     "title": "Image classification",
     "aliases": [

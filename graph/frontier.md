@@ -11,18 +11,17 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:model-compression` | `kt:gptq`, `kt:llm-inference-optimization`, `kt:model-pruning`, `kt:quantization`, `kt:knowledge-distillation` |
 | `kt:representation-learning` | `kt:clip`, `kt:deep-learning`, `kt:embeddings`, `kt:glove`, `kt:word2vec` |
 | `kt:statistical-learning-theory` | `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:overfitting`, `kt:regularization`, `kt:supervised-learning` |
+| `kt:vector-database` | `kt:approximate-nearest-neighbor-search`, `kt:embeddings`, `kt:hybrid-search`, `kt:retrieval-augmented-generation`, `kt:semantic-search` |
 | `kt:agent-memory` | `kt:ai-agent`, `kt:generative-agents-interactive-simulacra-of-human-behavior`, `kt:langgraph`, `kt:voyager` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:attention-mechanism` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:self-attention`, `kt:sequence-to-sequence-learning` |
 | `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:geoffrey-hinton`, `kt:perceptron`, `kt:symbolic-ai` |
-| `kt:hybrid-search` | `kt:bm25`, `kt:bm25`, `kt:reranking`, `kt:semantic-search` |
 | `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent`, `kt:generative-agents-interactive-simulacra-of-human-behavior`, `kt:voyager` |
 | `kt:positional-encoding` | `kt:attention-is-all-you-need`, `kt:context-window`, `kt:self-attention`, `kt:transformer-architecture` |
 | `kt:tensor-cores` | `kt:gpu-computing`, `kt:nvidia`, `kt:model-pruning`, `kt:tensorrt-llm` |
 | `kt:unsupervised-learning` | `kt:dimensionality-reduction`, `kt:machine-learning`, `kt:principal-component-analysis`, `kt:supervised-learning` |
 | `kt:vanishing-gradient-problem` | `kt:activation-function`, `kt:batch-normalization`, `kt:long-short-term-memory`, `kt:recurrent-neural-network` |
-| `kt:vector-database` | `kt:approximate-nearest-neighbor-search`, `kt:embeddings`, `kt:retrieval-augmented-generation`, `kt:semantic-search` |
 | `kt:adagrad` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:glove` |
 | `kt:adversarial-machine-learning` | `kt:ai-safety`, `kt:jailbreak`, `kt:prompt-injection` |
 | `kt:ai-hardware` | `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
@@ -152,6 +151,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:deep-reinforcement-learning-from-human-preferences` | `kt:rlhf` |
 | `kt:deep-unsupervised-learning-using-nonequilibrium-thermodynamics` | `kt:diffusion-model` |
 | `kt:dendral` | `kt:expert-systems` |
+| `kt:dense-passage-retrieval` | `kt:hybrid-search` |
 | `kt:devops` | `kt:mlops` |
 | `kt:diederik-kingma` | `kt:adam-optimizer` |
 | `kt:differential-privacy` | `kt:synthetic-data` |
@@ -315,6 +315,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:quiet-star` | `kt:star-self-taught-reasoner` |
 | `kt:random-forest` | `kt:ensemble-methods` |
 | `kt:realm` | `kt:retrieval-augmented-generation` |
+| `kt:reciprocal-rank-fusion` | `kt:hybrid-search` |
 | `kt:reconciling-modern-machine-learning-practice-and-the-bias-variance-trade-off` | `kt:double-descent` |
 | `kt:rectified-linear-unit` | `kt:activation-function` |
 | `kt:reinforce-algorithm` | `kt:policy-gradient` |

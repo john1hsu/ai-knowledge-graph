@@ -11166,6 +11166,104 @@
       ]
     },
     {
+      "@id": "kt:hybrid-search",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Hybrid search",
+      "skos:definition": "A retrieval approach that runs a lexical (sparse, keyword) search such as BM25 and a dense vector similarity search over the same collection, then fuses the two ranked lists into a single ranking, typically by weighted score combination or reciprocal rank fusion.",
+      "kto:domain": "retrieval-and-knowledge",
+      "dcterms:created": "2026-11-14",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Dense Passage Retrieval for Open-Domain Question Answering",
+          "dcterms:publisher": "arXiv:2004.04906 (Karpukhin, Oguz, Min, Lewis, Wu, Edunov, Chen and Yih); EMNLP 2020",
+          "schema:url": "https://arxiv.org/pdf/2004.04906.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "A Replication Study of Dense Passage Retriever",
+          "dcterms:publisher": "arXiv:2104.05740 (Ma, Sun, Pradeep and Lin, University of Waterloo)",
+          "schema:url": "https://arxiv.org/pdf/2104.05740",
+          "kto:sourceType": "preprint"
+        },
+        {
+          "dcterms:title": "BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models",
+          "dcterms:publisher": "NeurIPS 2021 Datasets and Benchmarks Track (Thakur, Reimers, Rücklé, Srivastava and Gurevych)",
+          "schema:url": "https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/65b9eea6e1cc6bb9f0cd2a47751a186f-Paper-round2.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Reciprocal rank fusion outperforms condorcet and individual rank learning methods",
+          "dcterms:publisher": "SIGIR 2009, pages 758-759 (Cormack, Clarke and Buettcher); Google Research publication page",
+          "schema:url": "https://research.google/pubs/pub36196/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Reciprocal rank fusion (Elasticsearch Reference 8.19)",
+          "dcterms:publisher": "Elastic",
+          "schema:url": "https://www.elastic.co/guide/en/elasticsearch/reference/8.19/rrf.html",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Hybrid search (concepts)",
+          "dcterms:publisher": "Weaviate documentation",
+          "schema:url": "https://docs.weaviate.io/weaviate/concepts/search/hybrid-search",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/retrieval-and-knowledge/hybrid-search.md",
+      "skos:altLabel": [
+        "hybrid retrieval",
+        "sparse-dense retrieval",
+        "hybrid sparse-dense search",
+        "lexical-semantic hybrid search"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:information-retrieval"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:semantic-search"
+        },
+        {
+          "@id": "kt:reranking"
+        },
+        {
+          "@id": "kt:vector-database"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:bm25"
+        },
+        {
+          "@id": "kt:reciprocal-rank-fusion"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:embeddings"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:retrieval-augmented-generation"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:beir"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:dense-passage-retrieval"
+        }
+      ]
+    },
+    {
       "@id": "kt:information-retrieval",
       "@type": "kto:Field",
       "skos:prefLabel": "Information retrieval",
