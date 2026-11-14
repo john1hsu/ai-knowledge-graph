@@ -7,7 +7,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:dartmouth-workshop`, `kt:symbolic-ai`, `kt:turing-test`, `kt:ai-governance`, `kt:machine-learning`, `kt:ai-safety` |
 | `kt:google` | `kt:agent2agent-protocol`, `kt:react-prompting`, `kt:tpu`, `kt:an-image-is-worth-16x16-words`, `kt:word2vec`, `kt:attention-is-all-you-need` |
 | `kt:llm-inference-optimization` | `kt:model-serving`, `kt:batching-and-paged-attention`, `kt:flash-attention`, `kt:speculative-decoding`, `kt:tensorrt-llm`, `kt:vllm` |
-| `kt:vision-transformer` | `kt:an-image-is-worth-16x16-words`, `kt:clip`, `kt:image-classification`, `kt:object-detection`, `kt:yolo`, `kt:convolutional-neural-network` |
 | `kt:ai-accelerator` | `kt:high-bandwidth-memory`, `kt:model-serving`, `kt:tpu`, `kt:ai-chip-export-controls`, `kt:compute-governance` |
 | `kt:beam-search` | `kt:sampling-temperature-and-top-p`, `kt:self-consistency`, `kt:knowledge-distillation`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
 | `kt:representation-learning` | `kt:clip`, `kt:deep-learning`, `kt:embeddings`, `kt:glove`, `kt:word2vec` |
@@ -28,6 +27,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:adagrad` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:glove` |
 | `kt:adversarial-machine-learning` | `kt:ai-safety`, `kt:jailbreak`, `kt:prompt-injection` |
 | `kt:ai-hardware` | `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
+| `kt:computer-vision` | `kt:image-classification`, `kt:object-detection`, `kt:vision-transformer` |
 | `kt:concrete-problems-in-ai-safety` | `kt:ai-safety`, `kt:reward-hacking`, `kt:scalable-oversight` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:hidden-markov-model` |
 | `kt:google-deepmind` | `kt:alphago`, `kt:alphazero`, `kt:deep-q-network` |
@@ -52,7 +52,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:batch-normalization` | `kt:data-parallelism`, `kt:yolo` |
 | `kt:bert` | `kt:reranking`, `kt:transformer-architecture` |
 | `kt:chatbot-arena` | `kt:llm-as-a-judge`, `kt:vllm` |
-| `kt:computer-vision` | `kt:image-classification`, `kt:object-detection` |
 | `kt:computing-power-and-the-governance-of-artificial-intelligence` | `kt:compute-governance`, `kt:compute-governance` |
 | `kt:cross-validation` | `kt:bias-variance-tradeoff`, `kt:overfitting` |
 | `kt:curse-of-dimensionality` | `kt:universal-approximation-theorem`, `kt:dimensionality-reduction` |
@@ -254,6 +253,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:loss-function` | `kt:supervised-learning` |
 | `kt:lottery-ticket-hypothesis` | `kt:model-pruning` |
 | `kt:mask-r-cnn` | `kt:faster-r-cnn` |
+| `kt:masked-autoencoder` | `kt:vision-transformer` |
 | `kt:mastering-chess-and-shogi-by-self-play-with-a-general-reinforcement-learning-algorithm` | `kt:alphazero` |
 | `kt:mastering-the-game-of-go-with-deep-neural-networks-and-tree-search` | `kt:alphago` |
 | `kt:mathematical-reasoning` | `kt:program-induction-by-rationale-generation` |
@@ -345,6 +345,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:swe-agent` | `kt:swe-bench` |
 | `kt:swe-bench-can-language-models-resolve-real-world-github-issues` | `kt:swe-bench` |
 | `kt:swiglu` | `kt:activation-function` |
+| `kt:swin-transformer` | `kt:vision-transformer` |
 | `kt:switchboard-corpus` | `kt:automatic-speech-recognition` |
 | `kt:symbol-grounding-problem` | `kt:chinese-room-argument` |
 | `kt:systolic-array` | `kt:tpu` |

@@ -3276,6 +3276,27 @@
     ]
   },
   {
+    "id": "kt:vision-transformer",
+    "title": "Vision transformer",
+    "aliases": [
+      "ViT",
+      "vision transformers",
+      "visual transformer backbone"
+    ],
+    "type": "Architecture",
+    "domain": "computer-vision-and-multimodal",
+    "file": "articles/computer-vision-and-multimodal/vision-transformer.md",
+    "created": "2026-11-14",
+    "maturity": "established",
+    "source_urls": [
+      "https://proceedings.mlr.press/v139/touvron21a.html",
+      "https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/CVPR2022/html/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper",
+      "https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2151_ECCV_2022_paper.php",
+      "https://openaccess.thecvf.com/content/CVPR2022/html/Liu_A_ConvNet_for_the_2020s_CVPR_2022_paper.html"
+    ]
+  },
+  {
     "id": "kt:vllm",
     "title": "vLLM",
     "aliases": [

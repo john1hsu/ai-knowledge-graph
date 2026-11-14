@@ -7534,6 +7534,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-language-model/s6> <https://schema.org/url> "https://huggingface.co/blog/vlms" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-transformer/s1> <http://purl.org/dc/terms/publisher> "Touvron, Cord, Douze, Massa, Sablayrolles and Jégou, Proceedings of the 38th ICML, PMLR 139:10347-10357, 2021" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-transformer/s1> <http://purl.org/dc/terms/title> "Training data-efficient image transformers & distillation through attention" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-transformer/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-transformer/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-transformer/s1> <https://schema.org/url> "https://proceedings.mlr.press/v139/touvron21a.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-transformer/s2> <http://purl.org/dc/terms/publisher> "Liu, Lin, Cao, Hu, Wei, Zhang, Lin and Guo (Microsoft Research Asia), ICCV 2021, CVF Open Access" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-transformer/s2> <http://purl.org/dc/terms/title> "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-transformer/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-transformer/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-transformer/s2> <https://schema.org/url> "https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-transformer/s3> <http://purl.org/dc/terms/publisher> "He, Chen, Xie, Li, Dollár and Girshick, CVPR 2022, CVF Open Access" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-transformer/s3> <http://purl.org/dc/terms/title> "Masked Autoencoders Are Scalable Vision Learners" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-transformer/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-transformer/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-transformer/s3> <https://schema.org/url> "https://openaccess.thecvf.com/content/CVPR2022/html/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-transformer/s4> <http://purl.org/dc/terms/publisher> "Li, Mao, Girshick and He, ECCV 2022, ECVA" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-transformer/s4> <http://purl.org/dc/terms/title> "Exploring Plain Vision Transformer Backbones for Object Detection" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-transformer/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-transformer/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-transformer/s4> <https://schema.org/url> "https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2151_ECCV_2022_paper.php" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-transformer/s5> <http://purl.org/dc/terms/publisher> "Liu, Mao, Wu, Feichtenhofer, Darrell and Xie, CVPR 2022, CVF Open Access" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-transformer/s5> <http://purl.org/dc/terms/title> "A ConvNet for the 2020s" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-transformer/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-transformer/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-transformer/s5> <https://schema.org/url> "https://openaccess.thecvf.com/content/CVPR2022/html/Liu_A_ConvNet_for_the_2020s_CVPR_2022_paper.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s1> <http://purl.org/dc/terms/publisher> "Kwon, Li, Zhuang, Sheng, Zheng, Yu, Gonzalez, Zhang and Stoica, SOSP 2023, arXiv 2309.06180" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s1> <http://purl.org/dc/terms/title> "Efficient Memory Management for Large Language Model Serving with PagedAttention" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/vllm/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -8105,6 +8130,33 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/flamingo-a-visual-language-model-for-few-shot-learning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> <http://www.w3.org/2000/01/rdf-schema#label> "Vision transformer" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> <http://www.w3.org/2004/02/skos/core#altLabel> "ViT" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> <http://www.w3.org/2004/02/skos/core#altLabel> "vision transformers" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> <http://www.w3.org/2004/02/skos/core#altLabel> "visual transformer backbone" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> <http://www.w3.org/2004/02/skos/core#definition> "A family of image models that apply Transformer self-attention to a sequence of image-patch tokens instead of using convolutions, spanning the plain ViT, data-efficient variants such as DeiT, hierarchical windowed designs such as Swin, and self-supervised ViT backbones used for classification, detection, segmentation and as the vision encoder of multimodal models." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vision transformer" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/clip> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/swin-transformer> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-transformer/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-transformer/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-transformer/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-transformer/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/vision-transformer/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/self-attention> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "computer-vision-and-multimodal" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/masked-autoencoder> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/object-detection> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/vllm> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/vllm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Tool> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/vllm> <http://www.w3.org/2000/01/rdf-schema#label> "vLLM" .
