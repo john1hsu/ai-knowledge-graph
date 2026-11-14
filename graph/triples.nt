@@ -1944,6 +1944,35 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/transformers-state-of-the-art-natural-language-processing> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/vllm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Tool> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> <http://www.w3.org/2000/01/rdf-schema#label> "Hugging Face TRL" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> <http://www.w3.org/2004/02/skos/core#altLabel> "TRL" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> <http://www.w3.org/2004/02/skos/core#altLabel> "Transformer Reinforcement Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> <http://www.w3.org/2004/02/skos/core#altLabel> "Transformers Reinforcement Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> <http://www.w3.org/2004/02/skos/core#altLabel> "trl library" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/post-training> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> <http://www.w3.org/2004/02/skos/core#definition> "An open-source Python library from Hugging Face for post-training transformer language models, providing ready-made trainers for supervised fine-tuning, reward modeling, preference optimization (DPO, KTO) and online reinforcement learning (GRPO, RLOO), built on top of the Hugging Face Transformers library." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hugging Face TRL" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/direct-preference-optimization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/qlora> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/reward-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "training-and-adaptation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hybrid-search> <http://purl.org/dc/terms/created> "2026-11-14" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hybrid-search> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hybrid-search> <http://www.w3.org/2000/01/rdf-schema#label> "Hybrid search" .
@@ -5668,6 +5697,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s4> <https://schema.org/url> "https://huggingface.co/docs/hub/transformers" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s1> <http://purl.org/dc/terms/publisher> "Hugging Face" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s1> <http://purl.org/dc/terms/title> "TRL documentation: TRL - Transformers Reinforcement Learning (main)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s1> <https://schema.org/url> "https://huggingface.co/docs/trl/main/index" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s2> <http://purl.org/dc/terms/publisher> "Hugging Face" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s2> <http://purl.org/dc/terms/title> "TRL documentation (v1.9.0): Quickstart" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s2> <https://schema.org/url> "https://huggingface.co/docs/trl/v1.9.0/quickstart" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s3> <http://purl.org/dc/terms/publisher> "Hugging Face blog, 31 March 2026 (Gallouédec, Liu, Cuenca and Paniego)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s3> <http://purl.org/dc/terms/title> "TRL v1.0: Post-Training Library Built to Move with the Field" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s3> <https://schema.org/url> "https://huggingface.co/blog/trl-v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s4> <http://purl.org/dc/terms/publisher> "Hugging Face blog, 9 March 2023 (Beeching, Younes B., von Werra, Mangrulkar, Tunstall and Rasul)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s4> <http://purl.org/dc/terms/title> "Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s4> <https://schema.org/url> "https://huggingface.co/blog/trl-peft" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s5> <http://purl.org/dc/terms/publisher> "arXiv:1909.08593 (Ziegler, Stiennon, Wu, Brown, Radford, Amodei, Christiano and Irving), 2019" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s5> <http://purl.org/dc/terms/title> "Fine-Tuning Language Models from Human Preferences" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s5> <https://schema.org/url> "https://arxiv.org/abs/1909.08593" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s6> <http://purl.org/dc/terms/publisher> "arXiv:2402.03300 (Shao et al., DeepSeek-AI), 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s6> <http://purl.org/dc/terms/title> "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s6> <https://schema.org/url> "https://arxiv.org/abs/2402.03300" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hybrid-search/s1> <http://purl.org/dc/terms/publisher> "arXiv:2004.04906 (Karpukhin, Oguz, Min, Lewis, Wu, Edunov, Chen and Yih); EMNLP 2020" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hybrid-search/s1> <http://purl.org/dc/terms/title> "Dense Passage Retrieval for Open-Domain Question Answering" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hybrid-search/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

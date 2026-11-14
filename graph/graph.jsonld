@@ -13285,6 +13285,106 @@
       ]
     },
     {
+      "@id": "kt:hugging-face-trl",
+      "@type": "kto:Tool",
+      "skos:prefLabel": "Hugging Face TRL",
+      "skos:definition": "An open-source Python library from Hugging Face for post-training transformer language models, providing ready-made trainers for supervised fine-tuning, reward modeling, preference optimization (DPO, KTO) and online reinforcement learning (GRPO, RLOO), built on top of the Hugging Face Transformers library.",
+      "kto:domain": "training-and-adaptation",
+      "dcterms:created": "2026-11-14",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "TRL documentation: TRL - Transformers Reinforcement Learning (main)",
+          "dcterms:publisher": "Hugging Face",
+          "schema:url": "https://huggingface.co/docs/trl/main/index",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "TRL documentation (v1.9.0): Quickstart",
+          "dcterms:publisher": "Hugging Face",
+          "schema:url": "https://huggingface.co/docs/trl/v1.9.0/quickstart",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "TRL v1.0: Post-Training Library Built to Move with the Field",
+          "dcterms:publisher": "Hugging Face blog, 31 March 2026 (Gallouédec, Liu, Cuenca and Paniego)",
+          "schema:url": "https://huggingface.co/blog/trl-v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU",
+          "dcterms:publisher": "Hugging Face blog, 9 March 2023 (Beeching, Younes B., von Werra, Mangrulkar, Tunstall and Rasul)",
+          "schema:url": "https://huggingface.co/blog/trl-peft",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Fine-Tuning Language Models from Human Preferences",
+          "dcterms:publisher": "arXiv:1909.08593 (Ziegler, Stiennon, Wu, Brown, Radford, Amodei, Christiano and Irving), 2019",
+          "schema:url": "https://arxiv.org/abs/1909.08593",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+          "dcterms:publisher": "arXiv:2402.03300 (Shao et al., DeepSeek-AI), 2024",
+          "schema:url": "https://arxiv.org/abs/2402.03300",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/training-and-adaptation/hugging-face-trl.md",
+      "skos:altLabel": [
+        "TRL",
+        "Transformer Reinforcement Learning",
+        "Transformers Reinforcement Learning",
+        "trl library"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:post-training"
+        },
+        {
+          "@id": "kt:fine-tuning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:rlhf"
+        },
+        {
+          "@id": "kt:direct-preference-optimization"
+        },
+        {
+          "@id": "kt:instruction-tuning"
+        },
+        {
+          "@id": "kt:qlora"
+        },
+        {
+          "@id": "kt:knowledge-distillation"
+        },
+        {
+          "@id": "kt:reward-model"
+        },
+        {
+          "@id": "kt:parameter-efficient-fine-tuning"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:hugging-face"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:hugging-face-transformers"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:proximal-policy-optimization"
+        }
+      ]
+    },
+    {
       "@id": "kt:instruction-tuning",
       "@type": "kto:Technique",
       "skos:prefLabel": "Instruction tuning",

@@ -1646,6 +1646,29 @@
     ]
   },
   {
+    "id": "kt:hugging-face-trl",
+    "title": "Hugging Face TRL",
+    "aliases": [
+      "TRL",
+      "Transformer Reinforcement Learning",
+      "Transformers Reinforcement Learning",
+      "trl library"
+    ],
+    "type": "Tool",
+    "domain": "training-and-adaptation",
+    "file": "articles/training-and-adaptation/hugging-face-trl.md",
+    "created": "2026-11-14",
+    "maturity": "established",
+    "source_urls": [
+      "https://huggingface.co/docs/trl/main/index",
+      "https://huggingface.co/docs/trl/v1.9.0/quickstart",
+      "https://huggingface.co/blog/trl-v1",
+      "https://huggingface.co/blog/trl-peft",
+      "https://arxiv.org/abs/1909.08593",
+      "https://arxiv.org/abs/2402.03300"
+    ]
+  },
+  {
     "id": "kt:hybrid-search",
     "title": "Hybrid search",
     "aliases": [

@@ -29,14 +29,15 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:hidden-markov-model` |
 | `kt:google-deepmind` | `kt:alphago`, `kt:alphazero`, `kt:deep-q-network` |
 | `kt:gradient-descent` | `kt:adam-optimizer`, `kt:backpropagation`, `kt:deep-learning` |
-| `kt:hugging-face-trl` | `kt:direct-preference-optimization`, `kt:instruction-tuning`, `kt:rlhf` |
 | `kt:layer-normalization` | `kt:batch-normalization`, `kt:batch-normalization`, `kt:transformer-architecture` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
 | `kt:ms-coco` | `kt:faster-r-cnn`, `kt:object-detection`, `kt:yolo` |
 | `kt:natural-language-processing` | `kt:eliza`, `kt:prompt-engineering`, `kt:information-retrieval` |
 | `kt:openai` | `kt:clip`, `kt:gsm8k`, `kt:proximal-policy-optimization` |
 | `kt:orca-serving-system` | `kt:model-serving`, `kt:batching-and-paged-attention`, `kt:tensorrt-llm` |
+| `kt:parameter-efficient-fine-tuning` | `kt:fine-tuning`, `kt:hugging-face-trl`, `kt:qlora` |
 | `kt:residual-connection` | `kt:image-classification`, `kt:batch-normalization`, `kt:transformer-architecture` |
+| `kt:reward-model` | `kt:goodharts-law`, `kt:reward-hacking`, `kt:hugging-face-trl` |
 | `kt:temporal-difference-learning` | `kt:actor-critic`, `kt:q-learning`, `kt:reinforcement-learning` |
 | `kt:wmt-2014` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
@@ -60,6 +61,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:efficient-memory-management-for-large-language-model-serving-with-pagedattention` | `kt:batching-and-paged-attention`, `kt:vllm` |
 | `kt:export-control-reform-act` | `kt:ai-chip-export-controls`, `kt:bureau-of-industry-and-security` |
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
+| `kt:hugging-face` | `kt:hugging-face-transformers`, `kt:hugging-face-trl` |
 | `kt:induction-head` | `kt:mechanistic-interpretability`, `kt:in-context-learning` |
 | `kt:iso-iec-27001` | `kt:iso-iec-42001`, `kt:iso-iec-42001` |
 | `kt:knowledge-representation` | `kt:expert-systems`, `kt:symbolic-ai` |
@@ -72,12 +74,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:model-context-protocol` | `kt:agent2agent-protocol`, `kt:tool-use` |
 | `kt:monte-carlo-tree-search` | `kt:alphago`, `kt:alphazero` |
 | `kt:named-entity-recognition` | `kt:conditional-random-field`, `kt:glove` |
-| `kt:parameter-efficient-fine-tuning` | `kt:fine-tuning`, `kt:qlora` |
+| `kt:post-training` | `kt:hugging-face-trl`, `kt:instruction-tuning` |
 | `kt:post-training-quantization` | `kt:awq`, `kt:gptq` |
 | `kt:probabilistic-relevance-framework` | `kt:bm25`, `kt:bm25` |
 | `kt:r-cnn` | `kt:faster-r-cnn`, `kt:yolo` |
 | `kt:reflexion` | `kt:react-prompting`, `kt:self-refine-iterative-refinement-with-self-feedback` |
-| `kt:reward-model` | `kt:goodharts-law`, `kt:reward-hacking` |
 | `kt:rmsprop` | `kt:adam-optimizer`, `kt:adam-optimizer` |
 | `kt:scikit-learn` | `kt:dimensionality-reduction`, `kt:principal-component-analysis` |
 | `kt:self-refine` | `kt:agentic-workflow`, `kt:voyager` |
@@ -207,7 +208,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:heuristic-search` | `kt:logic-theorist` |
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
 | `kt:hotpotqa` | `kt:react-prompting` |
-| `kt:hugging-face` | `kt:hugging-face-transformers` |
 | `kt:hugging-face-diffusers` | `kt:diffusion-model` |
 | `kt:hugging-face-peft` | `kt:qlora` |
 | `kt:human-evaluation` | `kt:llm-as-a-judge` |
@@ -311,7 +311,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:playing-atari-with-deep-reinforcement-learning` | `kt:deep-q-network` |
 | `kt:policy-gradient-methods-for-reinforcement-learning-with-function-approximation` | `kt:policy-gradient` |
 | `kt:policy-iteration` | `kt:markov-decision-process` |
-| `kt:post-training` | `kt:instruction-tuning` |
 | `kt:prefix-caching` | `kt:kv-cache` |
 | `kt:pregel` | `kt:langgraph` |
 | `kt:princeton-university` | `kt:swe-bench` |
