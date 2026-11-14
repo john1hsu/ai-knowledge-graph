@@ -2106,6 +2106,34 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/distilling-the-knowledge-in-a-neural-network> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/distilbert> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <http://www.w3.org/2000/01/rdf-schema#label> "KV cache" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <http://www.w3.org/2004/02/skos/core#altLabel> "KV caching" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <http://www.w3.org/2004/02/skos/core#altLabel> "attention KV cache" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <http://www.w3.org/2004/02/skos/core#altLabel> "key-value cache" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <http://www.w3.org/2004/02/skos/core#altLabel> "past key values" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/llm-inference-optimization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <http://www.w3.org/2004/02/skos/core#definition> "An inference technique for autoregressive transformers that stores the attention key and value vectors of every token already processed, so each new decoding step computes keys and values only for the newest token and reuses the rest, trading GPU memory for much faster generation." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <http://www.w3.org/2004/02/skos/core#prefLabel> "KV cache" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/batching-and-paged-attention> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/grouped-query-attention> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/multi-query-attention> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/speculative-decoding> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/self-attention> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "transformers-and-llms" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/prefix-caching> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/vllm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <https://github.com/john1hsu/ai-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Tool> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> <http://www.w3.org/2000/01/rdf-schema#label> "LangGraph" .
@@ -5708,6 +5736,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s6> <https://schema.org/url> "https://arxiv.org/pdf/2006.05525v6" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s1> <http://purl.org/dc/terms/publisher> "Hugging Face Transformers documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s1> <http://purl.org/dc/terms/title> "Cache strategies (KV cache)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s1> <https://schema.org/url> "https://huggingface.co/docs/transformers/kv_cache" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s2> <http://purl.org/dc/terms/publisher> "Noam Shazeer, arXiv 1911.02150 (2019)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s2> <http://purl.org/dc/terms/title> "Fast Transformer Decoding: One Write-Head is All You Need" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s2> <https://schema.org/url> "https://arxiv.org/abs/1911.02150v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s3> <http://purl.org/dc/terms/publisher> "Ainslie et al., EMNLP 2023 (ACL Anthology)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s3> <http://purl.org/dc/terms/title> "GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s3> <https://schema.org/url> "https://aclanthology.org/2023.emnlp-main.298" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s4> <http://purl.org/dc/terms/publisher> "Pope et al., Proceedings of MLSys 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s4> <http://purl.org/dc/terms/title> "Efficiently Scaling Transformer Inference" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s4> <https://schema.org/url> "https://proceedings.mlsys.org/paper_files/paper/2023/hash/c4be71ab8d24cdfb45e3d06dbfca2780-Abstract-mlsys2023.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s5> <http://purl.org/dc/terms/publisher> "Kwon et al., SOSP 2023, arXiv 2309.06180" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s5> <http://purl.org/dc/terms/title> "Efficient Memory Management for Large Language Model Serving with PagedAttention" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s5> <https://schema.org/url> "https://arxiv.org/pdf/2309.06180" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s1> <http://purl.org/dc/terms/publisher> "LangChain, LangGraph documentation (Python)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s1> <http://purl.org/dc/terms/title> "LangGraph overview" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

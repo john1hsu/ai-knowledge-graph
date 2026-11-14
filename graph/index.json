@@ -1780,6 +1780,28 @@
     ]
   },
   {
+    "id": "kt:kv-cache",
+    "title": "KV cache",
+    "aliases": [
+      "key-value cache",
+      "KV caching",
+      "past key values",
+      "attention KV cache"
+    ],
+    "type": "Technique",
+    "domain": "transformers-and-llms",
+    "file": "articles/transformers-and-llms/kv-cache.md",
+    "created": "2026-11-14",
+    "maturity": "established",
+    "source_urls": [
+      "https://huggingface.co/docs/transformers/kv_cache",
+      "https://arxiv.org/abs/1911.02150v1",
+      "https://aclanthology.org/2023.emnlp-main.298",
+      "https://proceedings.mlsys.org/paper_files/paper/2023/hash/c4be71ab8d24cdfb45e3d06dbfca2780-Abstract-mlsys2023.html",
+      "https://arxiv.org/pdf/2309.06180"
+    ]
+  },
+  {
     "id": "kt:langgraph",
     "title": "LangGraph",
     "aliases": [

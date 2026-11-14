@@ -8,7 +8,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:google` | `kt:agent2agent-protocol`, `kt:react-prompting`, `kt:tpu`, `kt:an-image-is-worth-16x16-words`, `kt:batch-normalization`, `kt:word2vec`, `kt:attention-is-all-you-need` |
 | `kt:ai-accelerator` | `kt:high-bandwidth-memory`, `kt:model-serving`, `kt:tpu`, `kt:ai-chip-export-controls`, `kt:compute-governance` |
 | `kt:beam-search` | `kt:sampling-temperature-and-top-p`, `kt:self-consistency`, `kt:knowledge-distillation`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
-| `kt:kv-cache` | `kt:batching-and-paged-attention`, `kt:llm-inference-optimization`, `kt:speculative-decoding`, `kt:vllm`, `kt:self-attention` |
 | `kt:model-compression` | `kt:gptq`, `kt:llm-inference-optimization`, `kt:model-pruning`, `kt:quantization`, `kt:knowledge-distillation` |
 | `kt:representation-learning` | `kt:clip`, `kt:deep-learning`, `kt:embeddings`, `kt:glove`, `kt:word2vec` |
 | `kt:statistical-learning-theory` | `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:overfitting`, `kt:regularization`, `kt:supervised-learning` |
@@ -195,6 +194,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:gpt-j` | `kt:toolformer` |
 | `kt:gptq-accurate-post-training-quantization-for-generative-pre-trained-transformers` | `kt:gptq` |
 | `kt:gradient-based-learning-applied-to-document-recognition` | `kt:convolutional-neural-network` |
+| `kt:grouped-query-attention` | `kt:kv-cache` |
 | `kt:harold-hotelling` | `kt:principal-component-analysis` |
 | `kt:herbert-a-simon` | `kt:logic-theorist` |
 | `kt:heuristic-search` | `kt:logic-theorist` |
@@ -277,6 +277,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mt-bench` | `kt:llm-as-a-judge` |
 | `kt:mteb` | `kt:beir` |
 | `kt:multi-armed-bandit` | `kt:exploration-exploitation` |
+| `kt:multi-query-attention` | `kt:kv-cache` |
 | `kt:multimodal-learning` | `kt:vision-language-model` |
 | `kt:muzero` | `kt:alphazero` |
 | `kt:mycin` | `kt:expert-systems` |
@@ -300,6 +301,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:policy-gradient-methods-for-reinforcement-learning-with-function-approximation` | `kt:policy-gradient` |
 | `kt:policy-iteration` | `kt:markov-decision-process` |
 | `kt:post-training` | `kt:instruction-tuning` |
+| `kt:prefix-caching` | `kt:kv-cache` |
 | `kt:pregel` | `kt:langgraph` |
 | `kt:princeton-university` | `kt:swe-bench` |
 | `kt:probabilistic-graphical-model` | `kt:conditional-random-field` |

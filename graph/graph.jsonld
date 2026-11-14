@@ -13914,6 +13914,102 @@
       ]
     },
     {
+      "@id": "kt:kv-cache",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "KV cache",
+      "skos:definition": "An inference technique for autoregressive transformers that stores the attention key and value vectors of every token already processed, so each new decoding step computes keys and values only for the newest token and reuses the rest, trading GPU memory for much faster generation.",
+      "kto:domain": "transformers-and-llms",
+      "dcterms:created": "2026-11-14",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Cache strategies (KV cache)",
+          "dcterms:publisher": "Hugging Face Transformers documentation",
+          "schema:url": "https://huggingface.co/docs/transformers/kv_cache",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Fast Transformer Decoding: One Write-Head is All You Need",
+          "dcterms:publisher": "Noam Shazeer, arXiv 1911.02150 (2019)",
+          "schema:url": "https://arxiv.org/abs/1911.02150v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints",
+          "dcterms:publisher": "Ainslie et al., EMNLP 2023 (ACL Anthology)",
+          "schema:url": "https://aclanthology.org/2023.emnlp-main.298",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Efficiently Scaling Transformer Inference",
+          "dcterms:publisher": "Pope et al., Proceedings of MLSys 2023",
+          "schema:url": "https://proceedings.mlsys.org/paper_files/paper/2023/hash/c4be71ab8d24cdfb45e3d06dbfca2780-Abstract-mlsys2023.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+          "dcterms:publisher": "Kwon et al., SOSP 2023, arXiv 2309.06180",
+          "schema:url": "https://arxiv.org/pdf/2309.06180",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/transformers-and-llms/kv-cache.md",
+      "skos:altLabel": [
+        "key-value cache",
+        "KV caching",
+        "past key values",
+        "attention KV cache"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:llm-inference-optimization"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:batching-and-paged-attention"
+        },
+        {
+          "@id": "kt:context-window"
+        },
+        {
+          "@id": "kt:multi-query-attention"
+        },
+        {
+          "@id": "kt:grouped-query-attention"
+        },
+        {
+          "@id": "kt:speculative-decoding"
+        },
+        {
+          "@id": "kt:quantization"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:self-attention"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:transformer-architecture"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:hugging-face-transformers"
+        },
+        {
+          "@id": "kt:vllm"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:prefix-caching"
+        }
+      ]
+    },
+    {
       "@id": "kt:large-language-model",
       "@type": "kto:Concept",
       "skos:prefLabel": "Large language model",
