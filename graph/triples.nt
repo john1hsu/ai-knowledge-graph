@@ -381,6 +381,27 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/concrete-problems-in-ai-safety> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-winter> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-winter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Event> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-winter> <http://www.w3.org/2000/01/rdf-schema#label> "AI winter" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-winter> <http://www.w3.org/2004/02/skos/core#altLabel> "AI winters" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-winter> <http://www.w3.org/2004/02/skos/core#altLabel> "winter of AI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-winter> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-winter> <http://www.w3.org/2004/02/skos/core#definition> "A period in which funding for and confidence in artificial intelligence research contract sharply after ambitious promises go unmet; historians usually identify one in the 1970s, following the 1973 Lighthill report and US defense cutbacks, and another from the mid-1980s, after the expert-system and Lisp-machine boom faded." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-winter> <http://www.w3.org/2004/02/skos/core#prefLabel> "AI winter" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-winter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/expert-systems> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-winter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-winter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-winter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-winter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-winter/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-winter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-winter/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-winter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-winter/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-winter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-winter/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-winter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-winter/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-winter> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-history" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-winter> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/lighthill-report> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-winter> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/strategic-computing-initiative> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-winter> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "historical" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Risk> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <http://www.w3.org/2000/01/rdf-schema#label> "Algorithmic bias and fairness" .
@@ -4085,6 +4106,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety/s6> <https://schema.org/url> "https://arxiv.org/pdf/2501.17805" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-winter/s1> <http://purl.org/dc/terms/publisher> "Sir James Lighthill, for the UK Science Research Council, 1973 (hosted by AIAI, University of Edinburgh)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-winter/s1> <http://purl.org/dc/terms/title> "Artificial Intelligence: A General Survey (the Lighthill report)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-winter/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-winter/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-winter/s1> <https://schema.org/url> "https://www.aiai.ed.ac.uk/events/lighthill1973/lighthill.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-winter/s2> <http://purl.org/dc/terms/publisher> "National Research Council, National Academies Press, 1999" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-winter/s2> <http://purl.org/dc/terms/title> "Funding a Revolution: Government Support for Computing Research, ch. 9 Developments in Artificial Intelligence" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-winter/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-winter/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-winter/s2> <https://schema.org/url> "https://www.nationalacademies.org/read/6323/chapter/11" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-winter/s3> <http://purl.org/dc/terms/publisher> "One Hundred Year Study on Artificial Intelligence (AI100), Stanford University, 2016" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-winter/s3> <http://purl.org/dc/terms/title> "Artificial Intelligence and Life in 2030, Appendix I: A Short History of AI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-winter/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-winter/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-winter/s3> <https://schema.org/url> "https://ai100.stanford.edu/2016-report/appendix-i-short-history-ai" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-winter/s4> <http://purl.org/dc/terms/publisher> "Nils J. Nilsson, Cambridge University Press, 2009" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-winter/s4> <http://purl.org/dc/terms/title> "The Quest for Artificial Intelligence, ch. 24 Speed Bumps" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-winter/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-winter/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-winter/s4> <https://schema.org/url> "https://www.cambridge.org/core/books/quest-for-artificial-intelligence/speed-bumps/2B4303A939E15295F05FF2AA4FB58873" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-winter/s5> <http://purl.org/dc/terms/publisher> "Nils J. Nilsson, Cambridge University Press, 2009" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-winter/s5> <http://purl.org/dc/terms/title> "The Quest for Artificial Intelligence, ch. 23 DARPA's Strategic Computing Program" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-winter/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-winter/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-winter/s5> <https://schema.org/url> "https://www.cambridge.org/core/books/quest-for-artificial-intelligence/darpas-strategic-computing-program/2DED975CB010E48E9D3E1850A75C7AE4" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s1> <http://purl.org/dc/terms/publisher> "MIT Press, 2023 (Barocas, Hardt, Narayanan); online edition at fairmlbook.org" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s1> <http://purl.org/dc/terms/title> "Fairness and Machine Learning: Limitations and Opportunities — Chapter 3, Classification" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

@@ -1146,6 +1146,79 @@
       ]
     },
     {
+      "@id": "kt:ai-winter",
+      "@type": "kto:Event",
+      "skos:prefLabel": "AI winter",
+      "skos:definition": "A period in which funding for and confidence in artificial intelligence research contract sharply after ambitious promises go unmet; historians usually identify one in the 1970s, following the 1973 Lighthill report and US defense cutbacks, and another from the mid-1980s, after the expert-system and Lisp-machine boom faded.",
+      "kto:domain": "ai-history",
+      "dcterms:created": "2026-11-14",
+      "kto:maturity": "historical",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Artificial Intelligence: A General Survey (the Lighthill report)",
+          "dcterms:publisher": "Sir James Lighthill, for the UK Science Research Council, 1973 (hosted by AIAI, University of Edinburgh)",
+          "schema:url": "https://www.aiai.ed.ac.uk/events/lighthill1973/lighthill.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Funding a Revolution: Government Support for Computing Research, ch. 9 Developments in Artificial Intelligence",
+          "dcterms:publisher": "National Research Council, National Academies Press, 1999",
+          "schema:url": "https://www.nationalacademies.org/read/6323/chapter/11",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Artificial Intelligence and Life in 2030, Appendix I: A Short History of AI",
+          "dcterms:publisher": "One Hundred Year Study on Artificial Intelligence (AI100), Stanford University, 2016",
+          "schema:url": "https://ai100.stanford.edu/2016-report/appendix-i-short-history-ai",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Quest for Artificial Intelligence, ch. 24 Speed Bumps",
+          "dcterms:publisher": "Nils J. Nilsson, Cambridge University Press, 2009",
+          "schema:url": "https://www.cambridge.org/core/books/quest-for-artificial-intelligence/speed-bumps/2B4303A939E15295F05FF2AA4FB58873",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "The Quest for Artificial Intelligence, ch. 23 DARPA's Strategic Computing Program",
+          "dcterms:publisher": "Nils J. Nilsson, Cambridge University Press, 2009",
+          "schema:url": "https://www.cambridge.org/core/books/quest-for-artificial-intelligence/darpas-strategic-computing-program/2DED975CB010E48E9D3E1850A75C7AE4",
+          "kto:sourceType": "textbook"
+        }
+      ],
+      "kto:file": "articles/ai-history/ai-winter.md",
+      "skos:altLabel": [
+        "AI winters",
+        "winter of AI"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:artificial-intelligence"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:expert-systems"
+        },
+        {
+          "@id": "kt:perceptron"
+        },
+        {
+          "@id": "kt:symbolic-ai"
+        },
+        {
+          "@id": "kt:machine-learning"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:lighthill-report"
+        },
+        {
+          "@id": "kt:strategic-computing-initiative"
+        }
+      ]
+    },
+    {
       "@id": "kt:chinese-room-argument",
       "@type": "kto:Concept",
       "skos:prefLabel": "Chinese room argument",

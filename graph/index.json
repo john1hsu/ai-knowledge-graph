@@ -331,6 +331,26 @@
     ]
   },
   {
+    "id": "kt:ai-winter",
+    "title": "AI winter",
+    "aliases": [
+      "AI winters",
+      "winter of AI"
+    ],
+    "type": "Event",
+    "domain": "ai-history",
+    "file": "articles/ai-history/ai-winter.md",
+    "created": "2026-11-14",
+    "maturity": "historical",
+    "source_urls": [
+      "https://www.aiai.ed.ac.uk/events/lighthill1973/lighthill.pdf",
+      "https://www.nationalacademies.org/read/6323/chapter/11",
+      "https://ai100.stanford.edu/2016-report/appendix-i-short-history-ai",
+      "https://www.cambridge.org/core/books/quest-for-artificial-intelligence/speed-bumps/2B4303A939E15295F05FF2AA4FB58873",
+      "https://www.cambridge.org/core/books/quest-for-artificial-intelligence/darpas-strategic-computing-program/2DED975CB010E48E9D3E1850A75C7AE4"
+    ]
+  },
+  {
     "id": "kt:algorithmic-bias-and-fairness",
     "title": "Algorithmic bias and fairness",
     "aliases": [

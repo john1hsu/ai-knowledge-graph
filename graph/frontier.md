@@ -4,7 +4,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:artificial-intelligence` | `kt:ai-agent`, `kt:dartmouth-workshop`, `kt:symbolic-ai`, `kt:turing-test`, `kt:ai-governance`, `kt:machine-learning`, `kt:ai-safety` |
+| `kt:artificial-intelligence` | `kt:ai-agent`, `kt:ai-winter`, `kt:dartmouth-workshop`, `kt:symbolic-ai`, `kt:turing-test`, `kt:ai-governance`, `kt:machine-learning`, `kt:ai-safety` |
 | `kt:google` | `kt:agent2agent-protocol`, `kt:react-prompting`, `kt:tpu`, `kt:an-image-is-worth-16x16-words`, `kt:batch-normalization`, `kt:word2vec`, `kt:attention-is-all-you-need` |
 | `kt:vector-database` | `kt:agent-memory`, `kt:approximate-nearest-neighbor-search`, `kt:embeddings`, `kt:hybrid-search`, `kt:retrieval-augmented-generation`, `kt:semantic-search` |
 | `kt:ai-accelerator` | `kt:high-bandwidth-memory`, `kt:model-serving`, `kt:tpu`, `kt:ai-chip-export-controls`, `kt:compute-governance` |
@@ -40,7 +40,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:wmt-2014` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
 | `kt:ai-risk-management` | `kt:iso-iec-42001`, `kt:nist-ai-risk-management-framework` |
-| `kt:ai-winter` | `kt:expert-systems`, `kt:perceptron` |
 | `kt:alfworld` | `kt:autogen`, `kt:react-prompting` |
 | `kt:all-reduce` | `kt:data-parallelism`, `kt:distributed-training` |
 | `kt:alphago-zero` | `kt:alphago`, `kt:alphazero` |
@@ -250,6 +249,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:learning-transferable-visual-models-from-natural-language-supervision` | `kt:clip` |
 | `kt:lenet` | `kt:imagenet-and-alexnet` |
 | `kt:librispeech` | `kt:automatic-speech-recognition` |
+| `kt:lighthill-report` | `kt:ai-winter` |
 | `kt:linear-probing` | `kt:fine-tuning` |
 | `kt:livebench` | `kt:benchmark-contamination` |
 | `kt:llmops` | `kt:mlops` |
@@ -353,6 +353,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:stanford-nlp-group` | `kt:glove` |
 | `kt:star-bootstrapping-reasoning-with-reasoning` | `kt:star-self-taught-reasoner` |
 | `kt:stone-weierstrass-theorem` | `kt:universal-approximation-theorem` |
+| `kt:strategic-computing-initiative` | `kt:ai-winter` |
 | `kt:strong-ai` | `kt:chinese-room-argument` |
 | `kt:stylegan` | `kt:generative-adversarial-network` |
 | `kt:support-vector-machine` | `kt:perceptron` |
