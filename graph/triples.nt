@@ -2090,6 +2090,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "training-and-adaptation" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> <http://www.w3.org/2000/01/rdf-schema#label> "Human evaluation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> <http://www.w3.org/2004/02/skos/core#altLabel> "human assessment of model outputs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> <http://www.w3.org/2004/02/skos/core#altLabel> "human judgment evaluation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> <http://www.w3.org/2004/02/skos/core#altLabel> "human preference evaluation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> <http://www.w3.org/2004/02/skos/core#definition> "Assessing the outputs of AI systems, especially generated text, by collecting judgments from human raters through ratings, pairwise preferences or annotation tasks, typically treated as the reference standard against which automatic metrics and model judges are validated." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Human evaluation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/inter-annotator-agreement> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/perplexity> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/bradley-terry-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "evaluation-and-benchmarks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hybrid-search> <http://purl.org/dc/terms/created> "2026-11-14" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hybrid-search> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hybrid-search> <http://www.w3.org/2000/01/rdf-schema#label> "Hybrid search" .
@@ -6006,6 +6032,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-trl/s6> <https://schema.org/url> "https://arxiv.org/abs/2402.03300" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s1> <http://purl.org/dc/terms/publisher> "Proceedings of INLG 2019, pp. 355–368 (van der Lee, Gatt, van Miltenburg, Wubben, Krahmer)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s1> <http://purl.org/dc/terms/title> "Best practices for the human evaluation of automatically generated text" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s1> <https://schema.org/url> "https://aclanthology.org/W19-8643/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s2> <http://purl.org/dc/terms/publisher> "Proceedings of INLG 2020, pp. 169–182 (Howcroft, Belz, Clinciu et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s2> <http://purl.org/dc/terms/title> "Twenty Years of Confusion in Human Evaluation: NLG Needs Evaluation Sheets and Standardised Definitions" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s2> <https://schema.org/url> "https://aclanthology.org/2020.inlg-1.23" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s3> <http://purl.org/dc/terms/publisher> "Proceedings of ACL-IJCNLP 2021 (Volume 1), pp. 7282–7296 (Clark, August, Serrano, Haduong, Gururangan, Smith)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s3> <http://purl.org/dc/terms/title> "All That's 'Human' Is Not Gold: Evaluating Human Evaluation of Generated Text" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s3> <https://schema.org/url> "https://aclanthology.org/2021.acl-long.565" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s4> <http://purl.org/dc/terms/publisher> "Proceedings of EMNLP 2021, pp. 1265–1285 (Karpinska, Akoury, Iyyer)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s4> <http://purl.org/dc/terms/title> "The Perils of Using Mechanical Turk to Evaluate Open-Ended Text Generation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s4> <https://schema.org/url> "https://aclanthology.org/2021.emnlp-main.97" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s5> <http://purl.org/dc/terms/publisher> "Proceedings of ICML 2024, PMLR 235:8359–8388 (Chiang, Zheng, Sheng et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s5> <http://purl.org/dc/terms/title> "Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s5> <https://schema.org/url> "https://proceedings.mlr.press/v235/chiang24b.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s6> <http://purl.org/dc/terms/publisher> "NeurIPS 2022 (Ouyang, Wu, Jiang et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s6> <http://purl.org/dc/terms/title> "Training language models to follow instructions with human feedback" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s6> <https://schema.org/url> "https://neurips.cc/virtual/2022/poster/52886" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hybrid-search/s1> <http://purl.org/dc/terms/publisher> "arXiv:2004.04906 (Karpukhin, Oguz, Min, Lewis, Wu, Edunov, Chen and Yih); EMNLP 2020" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hybrid-search/s1> <http://purl.org/dc/terms/title> "Dense Passage Retrieval for Open-Domain Question Answering" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hybrid-search/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

@@ -12,6 +12,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:vanishing-gradient-problem` | `kt:activation-function`, `kt:batch-normalization`, `kt:long-short-term-memory`, `kt:recurrent-neural-network`, `kt:residual-connection` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:attention-mechanism` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:self-attention`, `kt:sequence-to-sequence-learning` |
+| `kt:chatbot-arena` | `kt:human-evaluation`, `kt:human-evaluation`, `kt:llm-as-a-judge`, `kt:vllm` |
 | `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:geoffrey-hinton`, `kt:perceptron`, `kt:symbolic-ai` |
 | `kt:google-deepmind` | `kt:google`, `kt:alphago`, `kt:alphazero`, `kt:deep-q-network` |
 | `kt:layer-normalization` | `kt:batch-normalization`, `kt:batch-normalization`, `kt:residual-connection`, `kt:transformer-architecture` |
@@ -42,7 +43,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:automatic-differentiation` | `kt:pytorch`, `kt:backpropagation` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:yolo` |
 | `kt:bert` | `kt:reranking`, `kt:transformer-architecture` |
-| `kt:chatbot-arena` | `kt:llm-as-a-judge`, `kt:vllm` |
+| `kt:bradley-terry-model` | `kt:human-evaluation`, `kt:direct-preference-optimization` |
 | `kt:computing-power-and-the-governance-of-artificial-intelligence` | `kt:compute-governance`, `kt:compute-governance` |
 | `kt:cross-validation` | `kt:bias-variance-tradeoff`, `kt:overfitting` |
 | `kt:curse-of-dimensionality` | `kt:universal-approximation-theorem`, `kt:dimensionality-reduction` |
@@ -122,7 +123,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:big-bench` | `kt:emergent-abilities` |
 | `kt:boltzmann-machine` | `kt:geoffrey-hinton` |
 | `kt:boosting` | `kt:ensemble-methods` |
-| `kt:bradley-terry-model` | `kt:direct-preference-optimization` |
 | `kt:campbells-law` | `kt:goodharts-law` |
 | `kt:catastrophic-forgetting` | `kt:fine-tuning` |
 | `kt:center-for-ai-standards-and-innovation` | `kt:ai-safety-institutes` |
@@ -211,7 +211,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hotpotqa` | `kt:react-prompting` |
 | `kt:hugging-face-diffusers` | `kt:diffusion-model` |
 | `kt:hugging-face-peft` | `kt:qlora` |
-| `kt:human-evaluation` | `kt:llm-as-a-judge` |
 | `kt:ian-goodfellow` | `kt:generative-adversarial-network` |
 | `kt:if-beam-search-is-the-answer-what-was-the-question` | `kt:beam-search` |
 | `kt:ilsvrc` | `kt:image-classification` |
@@ -224,6 +223,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:information-theory` | `kt:perplexity` |
 | `kt:inspect-ai` | `kt:ai-evaluation` |
 | `kt:instruction-hierarchy` | `kt:prompt-injection` |
+| `kt:inter-annotator-agreement` | `kt:human-evaluation` |
 | `kt:interpretability` | `kt:mechanistic-interpretability` |
 | `kt:intrinsic-motivation` | `kt:exploration-exploitation` |
 | `kt:inverted-index` | `kt:information-retrieval` |

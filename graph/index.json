@@ -1773,6 +1773,28 @@
     ]
   },
   {
+    "id": "kt:human-evaluation",
+    "title": "Human evaluation",
+    "aliases": [
+      "human judgment evaluation",
+      "human assessment of model outputs",
+      "human preference evaluation"
+    ],
+    "type": "Technique",
+    "domain": "evaluation-and-benchmarks",
+    "file": "articles/evaluation-and-benchmarks/human-evaluation.md",
+    "created": "2026-11-14",
+    "maturity": "established",
+    "source_urls": [
+      "https://aclanthology.org/W19-8643/",
+      "https://aclanthology.org/2020.inlg-1.23",
+      "https://aclanthology.org/2021.acl-long.565",
+      "https://aclanthology.org/2021.emnlp-main.97",
+      "https://proceedings.mlr.press/v235/chiang24b.html",
+      "https://neurips.cc/virtual/2022/poster/52886"
+    ]
+  },
+  {
     "id": "kt:hybrid-search",
     "title": "Hybrid search",
     "aliases": [

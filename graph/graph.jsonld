@@ -5938,6 +5938,101 @@
       ]
     },
     {
+      "@id": "kt:human-evaluation",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Human evaluation",
+      "skos:definition": "Assessing the outputs of AI systems, especially generated text, by collecting judgments from human raters through ratings, pairwise preferences or annotation tasks, typically treated as the reference standard against which automatic metrics and model judges are validated.",
+      "kto:domain": "evaluation-and-benchmarks",
+      "dcterms:created": "2026-11-14",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Best practices for the human evaluation of automatically generated text",
+          "dcterms:publisher": "Proceedings of INLG 2019, pp. 355–368 (van der Lee, Gatt, van Miltenburg, Wubben, Krahmer)",
+          "schema:url": "https://aclanthology.org/W19-8643/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Twenty Years of Confusion in Human Evaluation: NLG Needs Evaluation Sheets and Standardised Definitions",
+          "dcterms:publisher": "Proceedings of INLG 2020, pp. 169–182 (Howcroft, Belz, Clinciu et al.)",
+          "schema:url": "https://aclanthology.org/2020.inlg-1.23",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "All That's 'Human' Is Not Gold: Evaluating Human Evaluation of Generated Text",
+          "dcterms:publisher": "Proceedings of ACL-IJCNLP 2021 (Volume 1), pp. 7282–7296 (Clark, August, Serrano, Haduong, Gururangan, Smith)",
+          "schema:url": "https://aclanthology.org/2021.acl-long.565",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Perils of Using Mechanical Turk to Evaluate Open-Ended Text Generation",
+          "dcterms:publisher": "Proceedings of EMNLP 2021, pp. 1265–1285 (Karpinska, Akoury, Iyyer)",
+          "schema:url": "https://aclanthology.org/2021.emnlp-main.97",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference",
+          "dcterms:publisher": "Proceedings of ICML 2024, PMLR 235:8359–8388 (Chiang, Zheng, Sheng et al.)",
+          "schema:url": "https://proceedings.mlr.press/v235/chiang24b.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Training language models to follow instructions with human feedback",
+          "dcterms:publisher": "NeurIPS 2022 (Ouyang, Wu, Jiang et al.)",
+          "schema:url": "https://neurips.cc/virtual/2022/poster/52886",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/evaluation-and-benchmarks/human-evaluation.md",
+      "skos:altLabel": [
+        "human judgment evaluation",
+        "human assessment of model outputs",
+        "human preference evaluation"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-evaluation"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:llm-as-a-judge"
+        },
+        {
+          "@id": "kt:chatbot-arena"
+        },
+        {
+          "@id": "kt:red-teaming"
+        },
+        {
+          "@id": "kt:inter-annotator-agreement"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:rlhf"
+        },
+        {
+          "@id": "kt:chatbot-arena"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:bradley-terry-model"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:llm-as-a-judge"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:perplexity"
+        }
+      ]
+    },
+    {
       "@id": "kt:llm-as-a-judge",
       "@type": "kto:Technique",
       "skos:prefLabel": "LLM-as-a-judge",
