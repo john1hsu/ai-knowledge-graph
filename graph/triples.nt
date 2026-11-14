@@ -7892,6 +7892,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "preprint" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s6> <https://schema.org/url> "https://arxiv.org/pdf/2212.10403" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s1> <http://purl.org/dc/terms/publisher> "IEEE Transactions on Neural Networks 10(5), September 1999 (V. N. Vapnik), copy hosted at MIT" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s1> <http://purl.org/dc/terms/title> "An Overview of Statistical Learning Theory" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s1> <https://schema.org/url> "https://www.mit.edu/~6.454/www_spring_2001/emin/slt.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s2> <http://purl.org/dc/terms/publisher> "Communications of the ACM 27(11), 1134–1142, November 1984 (L. G. Valiant), Princeton COS 511 handout" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s2> <http://purl.org/dc/terms/title> "A Theory of the Learnable" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s2> <https://schema.org/url> "https://www.cs.princeton.edu/courses/archive/spring13/cos511/handouts/valiant.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s3> <http://purl.org/dc/terms/publisher> "Cambridge University Press, 2014 (S. Shalev-Shwartz and S. Ben-David), authors' free edition" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s3> <http://purl.org/dc/terms/title> "Understanding Machine Learning: From Theory to Algorithms" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s3> <https://schema.org/url> "https://cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s4> <http://purl.org/dc/terms/publisher> "Journal of Machine Learning Research 3, 463–482 (2002) (P. L. Bartlett and S. Mendelson)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s4> <http://purl.org/dc/terms/title> "Rademacher and Gaussian Complexities: Risk Bounds and Structural Results" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s4> <https://schema.org/url> "https://jmlr.org/papers/v3/bartlett02a.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s5> <http://purl.org/dc/terms/publisher> "Zhang, Bengio, Hardt, Recht and Vinyals, ICLR 2017 (authors' arXiv version 1611.03530)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s5> <http://purl.org/dc/terms/title> "Understanding deep learning requires rethinking generalization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s5> <https://schema.org/url> "https://arxiv.org/abs/1611.03530.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s6> <http://purl.org/dc/terms/publisher> "MIT OpenCourseWare, Spring 2007 (Dmitry Panchenko)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s6> <http://purl.org/dc/terms/title> "18.465 Topics in Statistics: Statistical Learning Theory — Lecture Notes" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s6> <https://schema.org/url> "https://www.ocw.mit.edu/courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/pages/lecture-notes" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s1> <http://purl.org/dc/terms/publisher> "arXiv 2307.09702v4 (Willard and Louf, Normal Computing)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s1> <http://purl.org/dc/terms/title> "Efficient Guided Generation for Large Language Models" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -8584,6 +8614,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/expert-iteration> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/star-bootstrapping-reasoning-with-reasoning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Field> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> <http://www.w3.org/2000/01/rdf-schema#label> "Statistical learning theory" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "SLT" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "VC theory" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "Vapnik-Chervonenkis theory" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> <http://www.w3.org/2004/02/skos/core#definition> "The mathematical theory of learning from finite samples, which asks when minimising error on training data guarantees low error on unseen data drawn from the same distribution, and bounds that gap using capacity measures such as VC dimension and Rademacher complexity." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> <http://www.w3.org/2004/02/skos/core#prefLabel> "Statistical learning theory" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/regularization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/vladimir-vapnik> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ml-foundations" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/support-vector-machine> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/pac-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/vc-dimension> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> <http://purl.org/dc/terms/created> "2026-11-14" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> <http://www.w3.org/2000/01/rdf-schema#label> "Structured output" .

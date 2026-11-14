@@ -9584,6 +9584,99 @@
       ]
     },
     {
+      "@id": "kt:statistical-learning-theory",
+      "@type": "kto:Field",
+      "skos:prefLabel": "Statistical learning theory",
+      "skos:definition": "The mathematical theory of learning from finite samples, which asks when minimising error on training data guarantees low error on unseen data drawn from the same distribution, and bounds that gap using capacity measures such as VC dimension and Rademacher complexity.",
+      "kto:domain": "ml-foundations",
+      "dcterms:created": "2026-11-14",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "An Overview of Statistical Learning Theory",
+          "dcterms:publisher": "IEEE Transactions on Neural Networks 10(5), September 1999 (V. N. Vapnik), copy hosted at MIT",
+          "schema:url": "https://www.mit.edu/~6.454/www_spring_2001/emin/slt.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "A Theory of the Learnable",
+          "dcterms:publisher": "Communications of the ACM 27(11), 1134–1142, November 1984 (L. G. Valiant), Princeton COS 511 handout",
+          "schema:url": "https://www.cs.princeton.edu/courses/archive/spring13/cos511/handouts/valiant.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Understanding Machine Learning: From Theory to Algorithms",
+          "dcterms:publisher": "Cambridge University Press, 2014 (S. Shalev-Shwartz and S. Ben-David), authors' free edition",
+          "schema:url": "https://cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Rademacher and Gaussian Complexities: Risk Bounds and Structural Results",
+          "dcterms:publisher": "Journal of Machine Learning Research 3, 463–482 (2002) (P. L. Bartlett and S. Mendelson)",
+          "schema:url": "https://jmlr.org/papers/v3/bartlett02a.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Understanding deep learning requires rethinking generalization",
+          "dcterms:publisher": "Zhang, Bengio, Hardt, Recht and Vinyals, ICLR 2017 (authors' arXiv version 1611.03530)",
+          "schema:url": "https://arxiv.org/abs/1611.03530.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "18.465 Topics in Statistics: Statistical Learning Theory — Lecture Notes",
+          "dcterms:publisher": "MIT OpenCourseWare, Spring 2007 (Dmitry Panchenko)",
+          "schema:url": "https://www.ocw.mit.edu/courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/pages/lecture-notes",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/ml-foundations/statistical-learning-theory.md",
+      "skos:altLabel": [
+        "SLT",
+        "Vapnik-Chervonenkis theory",
+        "VC theory"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:machine-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:overfitting"
+        },
+        {
+          "@id": "kt:regularization"
+        },
+        {
+          "@id": "kt:bias-variance-tradeoff"
+        },
+        {
+          "@id": "kt:double-descent"
+        },
+        {
+          "@id": "kt:supervised-learning"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:vladimir-vapnik"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:vc-dimension"
+        },
+        {
+          "@id": "kt:pac-learning"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:support-vector-machine"
+        }
+      ]
+    },
+    {
       "@id": "kt:supervised-learning",
       "@type": "kto:Paradigm",
       "skos:prefLabel": "Supervised learning",

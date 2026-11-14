@@ -8,7 +8,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ai-accelerator` | `kt:high-bandwidth-memory`, `kt:model-serving`, `kt:tpu`, `kt:ai-chip-export-controls`, `kt:compute-governance` |
 | `kt:model-compression` | `kt:gptq`, `kt:llm-inference-optimization`, `kt:model-pruning`, `kt:quantization`, `kt:knowledge-distillation` |
 | `kt:representation-learning` | `kt:clip`, `kt:deep-learning`, `kt:embeddings`, `kt:glove`, `kt:word2vec` |
-| `kt:statistical-learning-theory` | `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:overfitting`, `kt:regularization`, `kt:supervised-learning` |
 | `kt:vanishing-gradient-problem` | `kt:activation-function`, `kt:batch-normalization`, `kt:long-short-term-memory`, `kt:recurrent-neural-network`, `kt:residual-connection` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:attention-mechanism` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:self-attention`, `kt:sequence-to-sequence-learning` |
@@ -81,6 +80,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:scikit-learn` | `kt:dimensionality-reduction`, `kt:principal-component-analysis` |
 | `kt:self-refine` | `kt:agentic-workflow`, `kt:voyager` |
 | `kt:stochastic-gradient-descent` | `kt:data-parallelism`, `kt:adam-optimizer` |
+| `kt:support-vector-machine` | `kt:perceptron`, `kt:statistical-learning-theory` |
 | `kt:the-curious-case-of-neural-text-degeneration` | `kt:beam-search`, `kt:sampling-temperature-and-top-p` |
 | `kt:tokenization` | `kt:perplexity`, `kt:structured-output` |
 | `kt:transfer-learning` | `kt:fine-tuning`, `kt:pretraining` |
@@ -307,6 +307,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:optimal-brain-compression` | `kt:gptq` |
 | `kt:optimal-brain-damage` | `kt:model-pruning` |
 | `kt:outlines` | `kt:structured-output` |
+| `kt:pac-learning` | `kt:statistical-learning-theory` |
 | `kt:partially-observable-markov-decision-process` | `kt:markov-decision-process` |
 | `kt:pascal-voc` | `kt:object-detection` |
 | `kt:pattern-recognition` | `kt:computer-vision` |
@@ -361,7 +362,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategic-computing-initiative` | `kt:ai-winter` |
 | `kt:strong-ai` | `kt:chinese-room-argument` |
 | `kt:stylegan` | `kt:generative-adversarial-network` |
-| `kt:support-vector-machine` | `kt:perceptron` |
 | `kt:swe-agent` | `kt:swe-bench` |
 | `kt:swe-bench-can-language-models-resolve-real-world-github-issues` | `kt:swe-bench` |
 | `kt:swiglu` | `kt:activation-function` |
@@ -397,6 +397,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:upper-confidence-bound` | `kt:exploration-exploitation` |
 | `kt:us-department-of-commerce` | `kt:bureau-of-industry-and-security` |
 | `kt:value-iteration` | `kt:markov-decision-process` |
+| `kt:vc-dimension` | `kt:statistical-learning-theory` |
+| `kt:vladimir-vapnik` | `kt:statistical-learning-theory` |
 | `kt:voyager-an-open-ended-embodied-agent-with-large-language-models` | `kt:voyager` |
 | `kt:vtab` | `kt:an-image-is-worth-16x16-words` |
 | `kt:walter-pitts` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |

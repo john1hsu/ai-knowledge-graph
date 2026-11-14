@@ -3254,6 +3254,28 @@
     ]
   },
   {
+    "id": "kt:statistical-learning-theory",
+    "title": "Statistical learning theory",
+    "aliases": [
+      "SLT",
+      "Vapnik-Chervonenkis theory",
+      "VC theory"
+    ],
+    "type": "Field",
+    "domain": "ml-foundations",
+    "file": "articles/ml-foundations/statistical-learning-theory.md",
+    "created": "2026-11-14",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://www.mit.edu/~6.454/www_spring_2001/emin/slt.pdf",
+      "https://www.cs.princeton.edu/courses/archive/spring13/cos511/handouts/valiant.pdf",
+      "https://cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf",
+      "https://jmlr.org/papers/v3/bartlett02a.html",
+      "https://arxiv.org/abs/1611.03530.pdf",
+      "https://www.ocw.mit.edu/courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/pages/lecture-notes"
+    ]
+  },
+  {
     "id": "kt:structured-output",
     "title": "Structured output",
     "aliases": [
