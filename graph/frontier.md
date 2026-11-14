@@ -10,29 +10,28 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:model-compression` | `kt:gptq`, `kt:llm-inference-optimization`, `kt:model-pruning`, `kt:quantization`, `kt:knowledge-distillation` |
 | `kt:representation-learning` | `kt:clip`, `kt:deep-learning`, `kt:embeddings`, `kt:glove`, `kt:word2vec` |
 | `kt:statistical-learning-theory` | `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:overfitting`, `kt:regularization`, `kt:supervised-learning` |
+| `kt:vanishing-gradient-problem` | `kt:activation-function`, `kt:batch-normalization`, `kt:long-short-term-memory`, `kt:recurrent-neural-network`, `kt:residual-connection` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:attention-mechanism` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:self-attention`, `kt:sequence-to-sequence-learning` |
 | `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:geoffrey-hinton`, `kt:perceptron`, `kt:symbolic-ai` |
 | `kt:google-deepmind` | `kt:google`, `kt:alphago`, `kt:alphazero`, `kt:deep-q-network` |
+| `kt:layer-normalization` | `kt:batch-normalization`, `kt:batch-normalization`, `kt:residual-connection`, `kt:transformer-architecture` |
 | `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent`, `kt:generative-agents-interactive-simulacra-of-human-behavior`, `kt:voyager` |
 | `kt:positional-encoding` | `kt:attention-is-all-you-need`, `kt:context-window`, `kt:self-attention`, `kt:transformer-architecture` |
 | `kt:tensor-cores` | `kt:gpu-computing`, `kt:nvidia`, `kt:model-pruning`, `kt:tensorrt-llm` |
 | `kt:unsupervised-learning` | `kt:dimensionality-reduction`, `kt:machine-learning`, `kt:principal-component-analysis`, `kt:supervised-learning` |
-| `kt:vanishing-gradient-problem` | `kt:activation-function`, `kt:batch-normalization`, `kt:long-short-term-memory`, `kt:recurrent-neural-network` |
 | `kt:adagrad` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:glove` |
 | `kt:ai-hardware` | `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
 | `kt:concrete-problems-in-ai-safety` | `kt:ai-safety`, `kt:reward-hacking`, `kt:scalable-oversight` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:hidden-markov-model` |
 | `kt:gradient-descent` | `kt:adam-optimizer`, `kt:backpropagation`, `kt:deep-learning` |
-| `kt:layer-normalization` | `kt:batch-normalization`, `kt:batch-normalization`, `kt:transformer-architecture` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
 | `kt:ms-coco` | `kt:faster-r-cnn`, `kt:object-detection`, `kt:yolo` |
 | `kt:natural-language-processing` | `kt:eliza`, `kt:prompt-engineering`, `kt:information-retrieval` |
 | `kt:openai` | `kt:clip`, `kt:gsm8k`, `kt:proximal-policy-optimization` |
 | `kt:orca-serving-system` | `kt:model-serving`, `kt:batching-and-paged-attention`, `kt:tensorrt-llm` |
 | `kt:parameter-efficient-fine-tuning` | `kt:fine-tuning`, `kt:hugging-face-trl`, `kt:qlora` |
-| `kt:residual-connection` | `kt:image-classification`, `kt:batch-normalization`, `kt:transformer-architecture` |
 | `kt:reward-model` | `kt:goodharts-law`, `kt:reward-hacking`, `kt:hugging-face-trl` |
 | `kt:wmt-2014` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
@@ -56,6 +55,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:export-control-reform-act` | `kt:ai-chip-export-controls`, `kt:bureau-of-industry-and-security` |
 | `kt:faiss` | `kt:approximate-nearest-neighbor-search`, `kt:vector-database` |
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
+| `kt:highway-network` | `kt:residual-connection`, `kt:residual-connection` |
 | `kt:hugging-face` | `kt:hugging-face-transformers`, `kt:hugging-face-trl` |
 | `kt:induction-head` | `kt:mechanistic-interpretability`, `kt:in-context-learning` |
 | `kt:iso-iec-27001` | `kt:iso-iec-42001`, `kt:iso-iec-42001` |
@@ -65,6 +65,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:latent-semantic-analysis` | `kt:glove`, `kt:semantic-search` |
 | `kt:marvin-minsky` | `kt:dartmouth-workshop`, `kt:perceptron` |
 | `kt:meta-ai` | `kt:toolformer`, `kt:pytorch` |
+| `kt:microsoft-research` | `kt:autogen`, `kt:residual-connection` |
 | `kt:model-cards` | `kt:algorithmic-bias-and-fairness`, `kt:omb-ai-memoranda` |
 | `kt:model-context-protocol` | `kt:agent2agent-protocol`, `kt:tool-use` |
 | `kt:monte-carlo-tree-search` | `kt:alphago`, `kt:alphazero` |
@@ -152,6 +153,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:decision-tree` | `kt:ensemble-methods` |
 | `kt:deep-blue` | `kt:alphazero` |
 | `kt:deep-reinforcement-learning-from-human-preferences` | `kt:rlhf` |
+| `kt:deep-residual-learning-for-image-recognition` | `kt:residual-connection` |
 | `kt:deep-unsupervised-learning-using-nonequilibrium-thermodynamics` | `kt:diffusion-model` |
 | `kt:dendral` | `kt:expert-systems` |
 | `kt:dense-passage-retrieval` | `kt:hybrid-search` |
@@ -271,7 +273,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:memory-wall` | `kt:high-bandwidth-memory` |
 | `kt:michael-wooldridge` | `kt:multi-agent-systems` |
 | `kt:microsoft-agent-framework` | `kt:autogen` |
-| `kt:microsoft-research` | `kt:autogen` |
 | `kt:min-p-sampling` | `kt:sampling-temperature-and-top-p` |
 | `kt:minds-brains-and-programs` | `kt:chinese-room-argument` |
 | `kt:mlflow` | `kt:mlops` |

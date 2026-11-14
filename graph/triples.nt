@@ -3407,6 +3407,38 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <http://www.w3.org/2000/01/rdf-schema#label> "Residual connection" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <http://www.w3.org/2004/02/skos/core#altLabel> "identity shortcut" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <http://www.w3.org/2004/02/skos/core#altLabel> "residual block" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <http://www.w3.org/2004/02/skos/core#altLabel> "residual learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <http://www.w3.org/2004/02/skos/core#altLabel> "shortcut connection" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <http://www.w3.org/2004/02/skos/core#altLabel> "skip connection" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <http://www.w3.org/2004/02/skos/core#definition> "An architectural shortcut that adds a block's input directly to the block's output, so the stacked layers learn only a residual correction F(x) = H(x) − x; introduced in ResNets by He et al. (CVPR 2016), it made networks of hundreds of layers trainable and is now a standard part of transformers." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <http://www.w3.org/2004/02/skos/core#prefLabel> "Residual connection" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/highway-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/layer-normalization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s7> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/microsoft-research> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "deep-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/highway-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-residual-learning-for-image-recognition> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <https://github.com/john1hsu/ai-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> <http://www.w3.org/2000/01/rdf-schema#label> "Retrieval-augmented generation for knowledge-intensive tasks" .
@@ -7313,6 +7345,41 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s6> <https://schema.org/url> "https://web.stanford.edu/class/cs276/handouts/lecture15-learning-ranking-handouts-6-per.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s1> <http://purl.org/dc/terms/publisher> "CVPR 2016, pp. 770–778 (He, Zhang, Ren and Sun)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s1> <http://purl.org/dc/terms/title> "Deep Residual Learning for Image Recognition" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s1> <https://schema.org/url> "https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s2> <http://purl.org/dc/terms/publisher> "arXiv / ar5iv (He, Zhang, Ren and Sun, Microsoft Research)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s2> <http://purl.org/dc/terms/title> "Deep Residual Learning for Image Recognition (arXiv 1512.03385v1, full text)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s2> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/1512.03385v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s3> <http://purl.org/dc/terms/publisher> "arXiv 1603.05027 (He, Zhang, Ren and Sun, 2016)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s3> <http://purl.org/dc/terms/title> "Identity Mappings in Deep Residual Networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s3> <https://schema.org/url> "https://arxiv.org/abs/1603.05027v3" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s4> <http://purl.org/dc/terms/publisher> "NeurIPS 2016 (Veit, Wilber and Belongie)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s4> <http://purl.org/dc/terms/title> "Residual Networks Behave Like Ensembles of Relatively Shallow Networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s4> <https://schema.org/url> "https://proceedings.neurips.cc/paper/2016/hash/37bc2f75bf1bcfe8450a1a41c200364c-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s5> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (Zhang, Lipton, Li and Smola)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s5> <http://purl.org/dc/terms/title> "8.6. Residual Networks (ResNet) and ResNeXt" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s5> <https://schema.org/url> "https://d2l.ai/chapter_convolutional-modern/resnet.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s6> <http://purl.org/dc/terms/publisher> "ICML 2020 (Xiong et al.), Microsoft Research publication page" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s6> <http://purl.org/dc/terms/title> "On Layer Normalization in the Transformer Architecture" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s6> <https://schema.org/url> "https://www.microsoft.com/en-us/research/publication/on-layer-normalization-in-the-transformer-architecture/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s7> <http://purl.org/dc/terms/publisher> "arXiv 1505.00387 (Srivastava, Greff and Schmidhuber, 2015)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s7> <http://purl.org/dc/terms/title> "Highway Networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s7> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s7> <https://schema.org/url> "https://arxiv.org/abs/1505.00387v2" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/retrieval-augmented-generation/s1> <http://purl.org/dc/terms/publisher> "Advances in Neural Information Processing Systems 33 (NeurIPS 2020), pp. 9459-9474 (Lewis, Perez, Piktus, Petroni, Karpukhin, Goyal, Küttler, Lewis, Yih, Rocktäschel, Riedel and Kiela)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/retrieval-augmented-generation/s1> <http://purl.org/dc/terms/title> "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/retrieval-augmented-generation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

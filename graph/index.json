@@ -2872,6 +2872,31 @@
     ]
   },
   {
+    "id": "kt:residual-connection",
+    "title": "Residual connection",
+    "aliases": [
+      "skip connection",
+      "shortcut connection",
+      "identity shortcut",
+      "residual block",
+      "residual learning"
+    ],
+    "type": "Technique",
+    "domain": "deep-learning",
+    "file": "articles/deep-learning/residual-connection.md",
+    "created": "2026-11-14",
+    "maturity": "established",
+    "source_urls": [
+      "https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html",
+      "https://ar5iv.labs.arxiv.org/html/1512.03385v1",
+      "https://arxiv.org/abs/1603.05027v3",
+      "https://proceedings.neurips.cc/paper/2016/hash/37bc2f75bf1bcfe8450a1a41c200364c-Abstract.html",
+      "https://d2l.ai/chapter_convolutional-modern/resnet.html",
+      "https://www.microsoft.com/en-us/research/publication/on-layer-normalization-in-the-transformer-architecture/",
+      "https://arxiv.org/abs/1505.00387v2"
+    ]
+  },
+  {
     "id": "kt:retrieval-augmented-generation",
     "title": "Retrieval-augmented generation for knowledge-intensive tasks",
     "aliases": [

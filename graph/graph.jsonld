@@ -5299,6 +5299,120 @@
       ]
     },
     {
+      "@id": "kt:residual-connection",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Residual connection",
+      "skos:definition": "An architectural shortcut that adds a block's input directly to the block's output, so the stacked layers learn only a residual correction F(x) = H(x) − x; introduced in ResNets by He et al. (CVPR 2016), it made networks of hundreds of layers trainable and is now a standard part of transformers.",
+      "kto:domain": "deep-learning",
+      "dcterms:created": "2026-11-14",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Deep Residual Learning for Image Recognition",
+          "dcterms:publisher": "CVPR 2016, pp. 770–778 (He, Zhang, Ren and Sun)",
+          "schema:url": "https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Deep Residual Learning for Image Recognition (arXiv 1512.03385v1, full text)",
+          "dcterms:publisher": "arXiv / ar5iv (He, Zhang, Ren and Sun, Microsoft Research)",
+          "schema:url": "https://ar5iv.labs.arxiv.org/html/1512.03385v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Identity Mappings in Deep Residual Networks",
+          "dcterms:publisher": "arXiv 1603.05027 (He, Zhang, Ren and Sun, 2016)",
+          "schema:url": "https://arxiv.org/abs/1603.05027v3",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Residual Networks Behave Like Ensembles of Relatively Shallow Networks",
+          "dcterms:publisher": "NeurIPS 2016 (Veit, Wilber and Belongie)",
+          "schema:url": "https://proceedings.neurips.cc/paper/2016/hash/37bc2f75bf1bcfe8450a1a41c200364c-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "8.6. Residual Networks (ResNet) and ResNeXt",
+          "dcterms:publisher": "Dive into Deep Learning (Zhang, Lipton, Li and Smola)",
+          "schema:url": "https://d2l.ai/chapter_convolutional-modern/resnet.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "On Layer Normalization in the Transformer Architecture",
+          "dcterms:publisher": "ICML 2020 (Xiong et al.), Microsoft Research publication page",
+          "schema:url": "https://www.microsoft.com/en-us/research/publication/on-layer-normalization-in-the-transformer-architecture/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Highway Networks",
+          "dcterms:publisher": "arXiv 1505.00387 (Srivastava, Greff and Schmidhuber, 2015)",
+          "schema:url": "https://arxiv.org/abs/1505.00387v2",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/deep-learning/residual-connection.md",
+      "skos:altLabel": [
+        "skip connection",
+        "shortcut connection",
+        "identity shortcut",
+        "residual block",
+        "residual learning"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:deep-learning"
+        },
+        {
+          "@id": "kt:artificial-neural-network"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:batch-normalization"
+        },
+        {
+          "@id": "kt:layer-normalization"
+        },
+        {
+          "@id": "kt:convolutional-neural-network"
+        },
+        {
+          "@id": "kt:image-classification"
+        },
+        {
+          "@id": "kt:highway-network"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:deep-residual-learning-for-image-recognition"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:microsoft-research"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:highway-network"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:vanishing-gradient-problem"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:convolutional-neural-network"
+        },
+        {
+          "@id": "kt:transformer-architecture"
+        }
+      ]
+    },
+    {
       "@id": "kt:universal-approximation-theorem",
       "@type": "kto:Concept",
       "skos:prefLabel": "Universal approximation theorem",
