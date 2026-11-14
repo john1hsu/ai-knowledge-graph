@@ -2665,6 +2665,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "evaluation-and-benchmarks" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> <https://github.com/john1hsu/ai-knowledge-graph/ontology#supersededBy> <https://github.com/john1hsu/ai-knowledge-graph/id/mmlu-pro> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> <http://www.w3.org/2000/01/rdf-schema#label> "Model cards" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> <http://www.w3.org/2004/02/skos/core#altLabel> "model card" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> <http://www.w3.org/2004/02/skos/core#altLabel> "model cards for model reporting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> <http://www.w3.org/2004/02/skos/core#definition> "Short, structured documents that accompany a trained machine learning model and report its intended use, training and evaluation data, performance disaggregated across groups and conditions, ethical considerations and known limitations; proposed by Mitchell et al. at FAT* 2019." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> <http://www.w3.org/2004/02/skos/core#prefLabel> "Model cards" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/margaret-mitchell> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "governance-and-policy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-hub> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/model-cards-for-model-reporting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <http://www.w3.org/2000/01/rdf-schema#label> "Model pruning" .
@@ -6647,6 +6672,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/mmlu/s6> <https://schema.org/url> "https://hai-production.s3.amazonaws.com/files/hai_ai-index-report-2025_chapter2_final.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s1> <http://purl.org/dc/terms/publisher> "FAT* 2019 (Mitchell, Wu, Zaldivar, Barnes, Vasserman, Hutchinson, Spitzer, Raji, Gebru); arXiv:1810.03993" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s1> <http://purl.org/dc/terms/title> "Model Cards for Model Reporting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s1> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/1810.03993" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s2> <http://purl.org/dc/terms/publisher> "Hugging Face" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s2> <http://purl.org/dc/terms/title> "Model Cards — Hub documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s2> <https://schema.org/url> "https://huggingface.co/docs/hub/en/model-cards" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s3> <http://purl.org/dc/terms/publisher> "NIST Trustworthy and Responsible AI Resource Center" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s3> <http://purl.org/dc/terms/title> "AI RMF Playbook — Measure" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s3> <https://schema.org/url> "https://airc.nist.gov/airmf-resources/playbook/measure/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s4> <http://purl.org/dc/terms/publisher> "European Commission AI Act Service Desk (Regulation (EU) 2024/1689)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s4> <http://purl.org/dc/terms/title> "Annex XI: Technical documentation referred to in Article 53(1)(a) — general-purpose AI models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s4> <https://schema.org/url> "https://ai-act-service-desk.ec.europa.eu/en/ai-act/annex-11" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s5> <http://purl.org/dc/terms/publisher> "arXiv:2402.05160 (Liang, Rajani, Yang, Ozoani, Wu, Chen, Smith, Zou), February 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s5> <http://purl.org/dc/terms/title> "What's documented in AI? Systematic Analysis of 32K AI Model Cards" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "preprint" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s5> <https://schema.org/url> "https://arxiv.org/abs/2402.05160v1" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 1989 (Advances in Neural Information Processing Systems 2; LeCun, Denker and Solla)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s1> <http://purl.org/dc/terms/title> "Optimal Brain Damage" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

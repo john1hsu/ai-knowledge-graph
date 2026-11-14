@@ -2255,6 +2255,26 @@
     ]
   },
   {
+    "id": "kt:model-cards",
+    "title": "Model cards",
+    "aliases": [
+      "model card",
+      "model cards for model reporting"
+    ],
+    "type": "Technique",
+    "domain": "governance-and-policy",
+    "file": "articles/governance-and-policy/model-cards.md",
+    "created": "2026-11-14",
+    "maturity": "established",
+    "source_urls": [
+      "https://ar5iv.labs.arxiv.org/html/1810.03993",
+      "https://huggingface.co/docs/hub/en/model-cards",
+      "https://airc.nist.gov/airmf-resources/playbook/measure/",
+      "https://ai-act-service-desk.ec.europa.eu/en/ai-act/annex-11",
+      "https://arxiv.org/abs/2402.05160v1"
+    ]
+  },
+  {
     "id": "kt:model-pruning",
     "title": "Model pruning",
     "aliases": [

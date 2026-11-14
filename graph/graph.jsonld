@@ -7366,6 +7366,97 @@
       ]
     },
     {
+      "@id": "kt:model-cards",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Model cards",
+      "skos:definition": "Short, structured documents that accompany a trained machine learning model and report its intended use, training and evaluation data, performance disaggregated across groups and conditions, ethical considerations and known limitations; proposed by Mitchell et al. at FAT* 2019.",
+      "kto:domain": "governance-and-policy",
+      "dcterms:created": "2026-11-14",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Model Cards for Model Reporting",
+          "dcterms:publisher": "FAT* 2019 (Mitchell, Wu, Zaldivar, Barnes, Vasserman, Hutchinson, Spitzer, Raji, Gebru); arXiv:1810.03993",
+          "schema:url": "https://ar5iv.labs.arxiv.org/html/1810.03993",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Model Cards — Hub documentation",
+          "dcterms:publisher": "Hugging Face",
+          "schema:url": "https://huggingface.co/docs/hub/en/model-cards",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "AI RMF Playbook — Measure",
+          "dcterms:publisher": "NIST Trustworthy and Responsible AI Resource Center",
+          "schema:url": "https://airc.nist.gov/airmf-resources/playbook/measure/",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Annex XI: Technical documentation referred to in Article 53(1)(a) — general-purpose AI models",
+          "dcterms:publisher": "European Commission AI Act Service Desk (Regulation (EU) 2024/1689)",
+          "schema:url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/annex-11",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "What's documented in AI? Systematic Analysis of 32K AI Model Cards",
+          "dcterms:publisher": "arXiv:2402.05160 (Liang, Rajani, Yang, Ozoani, Wu, Chen, Smith, Zou), February 2024",
+          "schema:url": "https://arxiv.org/abs/2402.05160v1",
+          "kto:sourceType": "preprint"
+        }
+      ],
+      "kto:file": "articles/governance-and-policy/model-cards.md",
+      "skos:altLabel": [
+        "model card",
+        "model cards for model reporting"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-governance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:algorithmic-bias-and-fairness"
+        },
+        {
+          "@id": "kt:datasheets-for-datasets"
+        },
+        {
+          "@id": "kt:nist-ai-risk-management-framework"
+        },
+        {
+          "@id": "kt:eu-ai-act"
+        },
+        {
+          "@id": "kt:ai-evaluation"
+        },
+        {
+          "@id": "kt:omb-ai-memoranda"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:model-cards-for-model-reporting"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:margaret-mitchell"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:hugging-face-hub"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:fairness-accountability-and-transparency"
+        }
+      ]
+    },
+    {
       "@id": "kt:nist-ai-risk-management-framework",
       "@type": "kto:Policy",
       "skos:prefLabel": "NIST AI Risk Management Framework",

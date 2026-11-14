@@ -52,6 +52,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:double-q-learning` | `kt:deep-q-network`, `kt:q-learning` |
 | `kt:efficient-memory-management-for-large-language-model-serving-with-pagedattention` | `kt:batching-and-paged-attention`, `kt:vllm` |
 | `kt:export-control-reform-act` | `kt:ai-chip-export-controls`, `kt:bureau-of-industry-and-security` |
+| `kt:fairness-accountability-and-transparency` | `kt:algorithmic-bias-and-fairness`, `kt:model-cards` |
 | `kt:faiss` | `kt:approximate-nearest-neighbor-search`, `kt:vector-database` |
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
 | `kt:heuristic-search` | `kt:logic-theorist`, `kt:beam-search` |
@@ -66,7 +67,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:marvin-minsky` | `kt:dartmouth-workshop`, `kt:perceptron` |
 | `kt:meta-ai` | `kt:toolformer`, `kt:pytorch` |
 | `kt:microsoft-research` | `kt:autogen`, `kt:residual-connection` |
-| `kt:model-cards` | `kt:algorithmic-bias-and-fairness`, `kt:omb-ai-memoranda` |
 | `kt:model-context-protocol` | `kt:agent2agent-protocol`, `kt:tool-use` |
 | `kt:monte-carlo-tree-search` | `kt:alphago`, `kt:alphazero` |
 | `kt:named-entity-recognition` | `kt:conditional-random-field`, `kt:glove` |
@@ -151,6 +151,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cudnn` | `kt:cuda` |
 | `kt:dan-hendrycks` | `kt:mmlu` |
 | `kt:data-drift` | `kt:mlops` |
+| `kt:datasheets-for-datasets` | `kt:model-cards` |
 | `kt:decision-tree` | `kt:ensemble-methods` |
 | `kt:decoding-strategy` | `kt:beam-search` |
 | `kt:deep-blue` | `kt:alphazero` |
@@ -180,7 +181,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:expert-iteration` | `kt:star-self-taught-reasoner` |
 | `kt:facial-recognition` | `kt:algorithmic-bias-and-fairness` |
 | `kt:factor-analysis` | `kt:principal-component-analysis` |
-| `kt:fairness-accountability-and-transparency` | `kt:algorithmic-bias-and-fairness` |
 | `kt:fast-inference-from-transformers-via-speculative-decoding` | `kt:speculative-decoding` |
 | `kt:fast-r-cnn` | `kt:faster-r-cnn` |
 | `kt:faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks` | `kt:faster-r-cnn` |
@@ -210,6 +210,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
 | `kt:hotpotqa` | `kt:react-prompting` |
 | `kt:hugging-face-diffusers` | `kt:diffusion-model` |
+| `kt:hugging-face-hub` | `kt:model-cards` |
 | `kt:hugging-face-peft` | `kt:qlora` |
 | `kt:ian-goodfellow` | `kt:generative-adversarial-network` |
 | `kt:if-beam-search-is-the-answer-what-was-the-question` | `kt:beam-search` |
@@ -265,6 +266,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:loss-function` | `kt:supervised-learning` |
 | `kt:lottery-ticket-hypothesis` | `kt:model-pruning` |
 | `kt:machine-learning-systems` | `kt:llm-inference-optimization` |
+| `kt:margaret-mitchell` | `kt:model-cards` |
 | `kt:mask-r-cnn` | `kt:faster-r-cnn` |
 | `kt:masked-autoencoder` | `kt:vision-transformer` |
 | `kt:mastering-chess-and-shogi-by-self-play-with-a-general-reinforcement-learning-algorithm` | `kt:alphazero` |
@@ -280,6 +282,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:minds-brains-and-programs` | `kt:chinese-room-argument` |
 | `kt:mlflow` | `kt:mlops` |
 | `kt:mmlu-pro` | `kt:mmlu` |
+| `kt:model-cards-for-model-reporting` | `kt:model-cards` |
 | `kt:model-collapse` | `kt:synthetic-data` |
 | `kt:model-compression-caruana-2006` | `kt:knowledge-distillation` |
 | `kt:model-extraction` | `kt:adversarial-machine-learning` |
