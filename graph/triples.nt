@@ -7463,6 +7463,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "preprint" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/star-self-taught-reasoner/s6> <https://schema.org/url> "https://arxiv.org/pdf/2212.10403" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s1> <http://purl.org/dc/terms/publisher> "arXiv 2307.09702v4 (Willard and Louf, Normal Computing)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s1> <http://purl.org/dc/terms/title> "Efficient Guided Generation for Large Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s1> <https://schema.org/url> "https://arxiv.org/pdf/2307.09702" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s2> <http://purl.org/dc/terms/publisher> "EMNLP 2023 (Geng, Josifoski, Peyrard, West)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s2> <http://purl.org/dc/terms/title> "Grammar-Constrained Decoding for Structured NLP Tasks without Finetuning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s2> <https://schema.org/url> "https://aclanthology.org/2023.emnlp-main.674" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s3> <http://purl.org/dc/terms/publisher> "OpenAI API documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s3> <http://purl.org/dc/terms/title> "Structured model outputs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s3> <https://schema.org/url> "https://developers.openai.com/api/docs/guides/structured-outputs.md" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s4> <http://purl.org/dc/terms/publisher> "EMNLP 2024 Industry Track (Tam, Wu, Tsai, Lin, Lee, Chen)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s4> <http://purl.org/dc/terms/title> "Let Me Speak Freely? A Study on the Impact of Format Restrictions on Large Language Model Performance" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s4> <https://schema.org/url> "https://aclanthology.org/2024.emnlp-industry.91" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s5> <http://purl.org/dc/terms/publisher> "arXiv 2501.10868v3 (Geng, Cooper, Moskal, et al.; Microsoft, EPFL)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s5> <http://purl.org/dc/terms/title> "JSONSchemaBench: A Rigorous Benchmark of Structured Outputs for Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s5> <https://schema.org/url> "https://arxiv.org/html/2501.10868v3" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/supervised-learning/s1> <http://purl.org/dc/terms/publisher> "Stanford University CS229 Machine Learning (Andrew Ng and Tengyu Ma)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/supervised-learning/s1> <http://purl.org/dc/terms/title> "CS229 Lecture Notes" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/supervised-learning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -8080,6 +8105,33 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/expert-iteration> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/star-bootstrapping-reasoning-with-reasoning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/star-self-taught-reasoner> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> <http://www.w3.org/2000/01/rdf-schema#label> "Structured output" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> <http://www.w3.org/2004/02/skos/core#altLabel> "JSON mode" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> <http://www.w3.org/2004/02/skos/core#altLabel> "guided generation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> <http://www.w3.org/2004/02/skos/core#altLabel> "schema-constrained generation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> <http://www.w3.org/2004/02/skos/core#altLabel> "structured generation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> <http://www.w3.org/2004/02/skos/core#altLabel> "structured outputs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> <http://www.w3.org/2004/02/skos/core#definition> "The practice of making a language model emit text in a machine-readable format, such as JSON that validates against a given JSON Schema or a string accepted by a formal grammar, typically enforced by masking disallowed tokens during decoding rather than by prompting alone." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> <http://www.w3.org/2004/02/skos/core#prefLabel> "Structured output" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/function-calling> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/constrained-decoding> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/tokenization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "prompting-and-reasoning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/jsonschemabench> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/outlines> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Paradigm> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> <http://www.w3.org/2000/01/rdf-schema#label> "Supervised learning" .

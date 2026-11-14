@@ -3080,6 +3080,29 @@
     ]
   },
   {
+    "id": "kt:structured-output",
+    "title": "Structured output",
+    "aliases": [
+      "structured outputs",
+      "structured generation",
+      "guided generation",
+      "JSON mode",
+      "schema-constrained generation"
+    ],
+    "type": "Technique",
+    "domain": "prompting-and-reasoning",
+    "file": "articles/prompting-and-reasoning/structured-output.md",
+    "created": "2026-11-14",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/pdf/2307.09702",
+      "https://aclanthology.org/2023.emnlp-main.674",
+      "https://developers.openai.com/api/docs/guides/structured-outputs.md",
+      "https://aclanthology.org/2024.emnlp-industry.91",
+      "https://arxiv.org/html/2501.10868v3"
+    ]
+  },
+  {
     "id": "kt:supervised-learning",
     "title": "Supervised learning",
     "aliases": [

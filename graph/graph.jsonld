@@ -9834,6 +9834,99 @@
       ]
     },
     {
+      "@id": "kt:structured-output",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Structured output",
+      "skos:definition": "The practice of making a language model emit text in a machine-readable format, such as JSON that validates against a given JSON Schema or a string accepted by a formal grammar, typically enforced by masking disallowed tokens during decoding rather than by prompting alone.",
+      "kto:domain": "prompting-and-reasoning",
+      "dcterms:created": "2026-11-14",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Efficient Guided Generation for Large Language Models",
+          "dcterms:publisher": "arXiv 2307.09702v4 (Willard and Louf, Normal Computing)",
+          "schema:url": "https://arxiv.org/pdf/2307.09702",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Grammar-Constrained Decoding for Structured NLP Tasks without Finetuning",
+          "dcterms:publisher": "EMNLP 2023 (Geng, Josifoski, Peyrard, West)",
+          "schema:url": "https://aclanthology.org/2023.emnlp-main.674",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Structured model outputs",
+          "dcterms:publisher": "OpenAI API documentation",
+          "schema:url": "https://developers.openai.com/api/docs/guides/structured-outputs.md",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Let Me Speak Freely? A Study on the Impact of Format Restrictions on Large Language Model Performance",
+          "dcterms:publisher": "EMNLP 2024 Industry Track (Tam, Wu, Tsai, Lin, Lee, Chen)",
+          "schema:url": "https://aclanthology.org/2024.emnlp-industry.91",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "JSONSchemaBench: A Rigorous Benchmark of Structured Outputs for Language Models",
+          "dcterms:publisher": "arXiv 2501.10868v3 (Geng, Cooper, Moskal, et al.; Microsoft, EPFL)",
+          "schema:url": "https://arxiv.org/html/2501.10868v3",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/prompting-and-reasoning/structured-output.md",
+      "skos:altLabel": [
+        "structured outputs",
+        "structured generation",
+        "guided generation",
+        "JSON mode",
+        "schema-constrained generation"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:prompt-engineering"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:tool-use"
+        },
+        {
+          "@id": "kt:sampling-temperature-and-top-p"
+        },
+        {
+          "@id": "kt:chain-of-thought"
+        },
+        {
+          "@id": "kt:function-calling"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:constrained-decoding"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:tokenization"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:outlines"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:jsonschemabench"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:tool-use"
+        }
+      ]
+    },
+    {
       "@id": "kt:test-time-compute",
       "@type": "kto:Concept",
       "skos:prefLabel": "Test-time compute",

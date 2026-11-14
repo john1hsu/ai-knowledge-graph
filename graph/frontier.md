@@ -82,6 +82,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:scikit-learn` | `kt:dimensionality-reduction`, `kt:principal-component-analysis` |
 | `kt:self-refine` | `kt:agentic-workflow`, `kt:voyager` |
 | `kt:stochastic-gradient-descent` | `kt:data-parallelism`, `kt:adam-optimizer` |
+| `kt:tokenization` | `kt:perplexity`, `kt:structured-output` |
 | `kt:transfer-learning` | `kt:fine-tuning`, `kt:pretraining` |
 | `kt:triton-inference-server` | `kt:model-serving`, `kt:tensorrt-llm` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
@@ -142,6 +143,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:conceptnet` | `kt:commonsenseqa` |
 | `kt:conditional-random-fields-probabilistic-models-for-segmenting-and-labeling-sequence-data` | `kt:conditional-random-field` |
 | `kt:constitutional-ai-harmlessness-from-ai-feedback` | `kt:constitutional-ai` |
+| `kt:constrained-decoding` | `kt:structured-output` |
 | `kt:contextual-calibration` | `kt:prompt-sensitivity` |
 | `kt:contrastive-learning` | `kt:clip` |
 | `kt:cross-entropy` | `kt:perplexity` |
@@ -185,6 +187,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:flamingo-a-visual-language-model-for-few-shot-learning` | `kt:vision-language-model` |
 | `kt:foundation-model` | `kt:large-language-model` |
 | `kt:frank-rosenblatt` | `kt:perceptron` |
+| `kt:function-calling` | `kt:structured-output` |
 | `kt:gated-recurrent-unit` | `kt:recurrent-neural-network` |
 | `kt:gddr-memory` | `kt:high-bandwidth-memory` |
 | `kt:gelu` | `kt:activation-function` |
@@ -230,6 +233,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:john-searle` | `kt:chinese-room-argument` |
 | `kt:joseph-redmon` | `kt:yolo` |
 | `kt:joseph-weizenbaum` | `kt:eliza` |
+| `kt:jsonschemabench` | `kt:structured-output` |
 | `kt:judging-llm-as-a-judge-with-mt-bench-and-chatbot-arena` | `kt:llm-as-a-judge` |
 | `kt:juergen-schmidhuber` | `kt:long-short-term-memory` |
 | `kt:karen-sparck-jones` | `kt:tf-idf` |
@@ -297,6 +301,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:office-of-management-and-budget` | `kt:omb-ai-memoranda` |
 | `kt:optimal-brain-compression` | `kt:gptq` |
 | `kt:optimal-brain-damage` | `kt:model-pruning` |
+| `kt:outlines` | `kt:structured-output` |
 | `kt:partially-observable-markov-decision-process` | `kt:markov-decision-process` |
 | `kt:pascal-voc` | `kt:object-detection` |
 | `kt:penetration-testing` | `kt:red-teaming` |
@@ -348,7 +353,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:star-bootstrapping-reasoning-with-reasoning` | `kt:star-self-taught-reasoner` |
 | `kt:stone-weierstrass-theorem` | `kt:universal-approximation-theorem` |
 | `kt:strong-ai` | `kt:chinese-room-argument` |
-| `kt:structured-output` | `kt:tool-use` |
 | `kt:stylegan` | `kt:generative-adversarial-network` |
 | `kt:support-vector-machine` | `kt:perceptron` |
 | `kt:swe-agent` | `kt:swe-bench` |
@@ -369,7 +373,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:through-silicon-via` | `kt:high-bandwidth-memory` |
 | `kt:tim-dettmers` | `kt:qlora` |
 | `kt:time-sharing` | `kt:eliza` |
-| `kt:tokenization` | `kt:perplexity` |
 | `kt:training-verifiers-to-solve-math-word-problems` | `kt:gsm8k` |
 | `kt:transformers-state-of-the-art-natural-language-processing` | `kt:hugging-face-transformers` |
 | `kt:trec` | `kt:information-retrieval` |
