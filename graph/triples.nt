@@ -104,6 +104,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/adam-a-method-for-stochastic-optimization> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Field> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <http://www.w3.org/2000/01/rdf-schema#label> "Adversarial machine learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "AML" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "adversarial ML" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "machine learning security" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <http://www.w3.org/2004/02/skos/core#definition> "The study of how attackers can manipulate machine learning systems through crafted inputs, corrupted training data or probing queries, and of the defenses that make models robust to such manipulation." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <http://www.w3.org/2004/02/skos/core#prefLabel> "Adversarial machine learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-example> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-training> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/jailbreak> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "safety-alignment-and-security" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/data-poisoning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/model-extraction> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-injection> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/agent2agent-protocol> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/agent2agent-protocol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Tool> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/agent2agent-protocol> <http://www.w3.org/2000/01/rdf-schema#label> "Agent2Agent protocol" .
@@ -3697,6 +3723,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s6> <https://schema.org/url> "https://arxiv.org/pdf/2307.09288" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s1> <http://purl.org/dc/terms/publisher> "NIST CSRC publication page (Vassilev, Oprea, Fordyce, Anderson, Davies, Hamin), March 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s1> <http://purl.org/dc/terms/title> "Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations (NIST AI 100-2 E2025)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s1> <https://schema.org/url> "https://csrc.nist.gov/pubs/ai/100/2/e2025/final" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s2> <http://purl.org/dc/terms/publisher> "NIST, March 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s2> <http://purl.org/dc/terms/title> "Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations (NIST AI 100-2 E2025), full report" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s2> <https://schema.org/url> "https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-2e2025.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s3> <http://purl.org/dc/terms/publisher> "Pattern Recognition 84 (2018), arXiv:1712.03141 (Biggio, Roli)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s3> <http://purl.org/dc/terms/title> "Wild Patterns: Ten Years After the Rise of Adversarial Machine Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s3> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/1712.03141" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s4> <http://purl.org/dc/terms/publisher> "ICLR 2015, arXiv:1412.6572 (Goodfellow, Shlens, Szegedy)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s4> <http://purl.org/dc/terms/title> "Explaining and Harnessing Adversarial Examples" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s4> <https://schema.org/url> "https://arxiv.org/abs/1412.6572" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s5> <http://purl.org/dc/terms/publisher> "Google Research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s5> <http://purl.org/dc/terms/title> "Explaining and Harnessing Adversarial Examples (publication record)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s5> <https://schema.org/url> "https://research.google/pubs/explaining-and-harnessing-adversarial-examples/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s6> <http://purl.org/dc/terms/publisher> "arXiv:1706.06083 (Madry, Makelov, Schmidt, Tsipras, Vladu), 2017" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s6> <http://purl.org/dc/terms/title> "Towards Deep Learning Models Resistant to Adversarial Attacks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s6> <https://schema.org/url> "https://arxiv.org/abs/1706.06083v4" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/agent2agent-protocol/s1> <http://purl.org/dc/terms/publisher> "Google Developers Blog (Surapaneni, Jha, Vakoc, Segal), 9 April 2025" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/agent2agent-protocol/s1> <http://purl.org/dc/terms/title> "Announcing the Agent2Agent Protocol (A2A)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/agent2agent-protocol/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

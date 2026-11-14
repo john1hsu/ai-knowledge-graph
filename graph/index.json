@@ -86,6 +86,28 @@
     ]
   },
   {
+    "id": "kt:adversarial-machine-learning",
+    "title": "Adversarial machine learning",
+    "aliases": [
+      "AML",
+      "adversarial ML",
+      "machine learning security"
+    ],
+    "type": "Field",
+    "domain": "safety-alignment-and-security",
+    "file": "articles/safety-alignment-and-security/adversarial-machine-learning.md",
+    "created": "2026-11-14",
+    "maturity": "established",
+    "source_urls": [
+      "https://csrc.nist.gov/pubs/ai/100/2/e2025/final",
+      "https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-2e2025.pdf",
+      "https://ar5iv.labs.arxiv.org/html/1712.03141",
+      "https://arxiv.org/abs/1412.6572",
+      "https://research.google/pubs/explaining-and-harnessing-adversarial-examples/",
+      "https://arxiv.org/abs/1706.06083v4"
+    ]
+  },
+  {
     "id": "kt:agent2agent-protocol",
     "title": "Agent2Agent protocol",
     "aliases": [

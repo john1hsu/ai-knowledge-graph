@@ -23,7 +23,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:unsupervised-learning` | `kt:dimensionality-reduction`, `kt:machine-learning`, `kt:principal-component-analysis`, `kt:supervised-learning` |
 | `kt:vanishing-gradient-problem` | `kt:activation-function`, `kt:batch-normalization`, `kt:long-short-term-memory`, `kt:recurrent-neural-network` |
 | `kt:adagrad` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:glove` |
-| `kt:adversarial-machine-learning` | `kt:ai-safety`, `kt:jailbreak`, `kt:prompt-injection` |
 | `kt:ai-hardware` | `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
 | `kt:computer-vision` | `kt:image-classification`, `kt:object-detection`, `kt:vision-transformer` |
 | `kt:concrete-problems-in-ai-safety` | `kt:ai-safety`, `kt:reward-hacking`, `kt:scalable-oversight` |
@@ -54,6 +53,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:computing-power-and-the-governance-of-artificial-intelligence` | `kt:compute-governance`, `kt:compute-governance` |
 | `kt:cross-validation` | `kt:bias-variance-tradeoff`, `kt:overfitting` |
 | `kt:curse-of-dimensionality` | `kt:universal-approximation-theorem`, `kt:dimensionality-reduction` |
+| `kt:data-poisoning` | `kt:benchmark-contamination`, `kt:adversarial-machine-learning` |
 | `kt:deep-belief-network` | `kt:geoffrey-hinton`, `kt:deep-learning` |
 | `kt:deep-learning-framework` | `kt:hugging-face-transformers`, `kt:pytorch` |
 | `kt:double-q-learning` | `kt:deep-q-network`, `kt:q-learning` |
@@ -91,6 +91,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:zero-shot-learning` | `kt:clip`, `kt:instruction-tuning` |
 | `kt:adam-a-method-for-stochastic-optimization` | `kt:adam-optimizer` |
 | `kt:adamw` | `kt:adam-optimizer` |
+| `kt:adversarial-example` | `kt:adversarial-machine-learning` |
+| `kt:adversarial-training` | `kt:adversarial-machine-learning` |
 | `kt:ai-ethics` | `kt:algorithmic-bias-and-fairness` |
 | `kt:ai-governance-a-research-agenda` | `kt:ai-governance` |
 | `kt:ai-safety-summit` | `kt:ai-safety-institutes` |
@@ -146,7 +148,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cudnn` | `kt:cuda` |
 | `kt:dan-hendrycks` | `kt:mmlu` |
 | `kt:data-drift` | `kt:mlops` |
-| `kt:data-poisoning` | `kt:benchmark-contamination` |
 | `kt:decision-tree` | `kt:ensemble-methods` |
 | `kt:deep-blue` | `kt:alphazero` |
 | `kt:deep-reinforcement-learning-from-human-preferences` | `kt:rlhf` |
@@ -273,6 +274,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mmlu-pro` | `kt:mmlu` |
 | `kt:model-collapse` | `kt:synthetic-data` |
 | `kt:model-compression-caruana-2006` | `kt:knowledge-distillation` |
+| `kt:model-extraction` | `kt:adversarial-machine-learning` |
 | `kt:model-parallelism` | `kt:data-parallelism` |
 | `kt:model-registry` | `kt:mlops` |
 | `kt:monte-carlo-dropout` | `kt:dropout` |

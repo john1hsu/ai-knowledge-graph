@@ -11959,6 +11959,97 @@
       ]
     },
     {
+      "@id": "kt:adversarial-machine-learning",
+      "@type": "kto:Field",
+      "skos:prefLabel": "Adversarial machine learning",
+      "skos:definition": "The study of how attackers can manipulate machine learning systems through crafted inputs, corrupted training data or probing queries, and of the defenses that make models robust to such manipulation.",
+      "kto:domain": "safety-alignment-and-security",
+      "dcterms:created": "2026-11-14",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations (NIST AI 100-2 E2025)",
+          "dcterms:publisher": "NIST CSRC publication page (Vassilev, Oprea, Fordyce, Anderson, Davies, Hamin), March 2025",
+          "schema:url": "https://csrc.nist.gov/pubs/ai/100/2/e2025/final",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations (NIST AI 100-2 E2025), full report",
+          "dcterms:publisher": "NIST, March 2025",
+          "schema:url": "https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-2e2025.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Wild Patterns: Ten Years After the Rise of Adversarial Machine Learning",
+          "dcterms:publisher": "Pattern Recognition 84 (2018), arXiv:1712.03141 (Biggio, Roli)",
+          "schema:url": "https://ar5iv.labs.arxiv.org/html/1712.03141",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Explaining and Harnessing Adversarial Examples",
+          "dcterms:publisher": "ICLR 2015, arXiv:1412.6572 (Goodfellow, Shlens, Szegedy)",
+          "schema:url": "https://arxiv.org/abs/1412.6572",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Explaining and Harnessing Adversarial Examples (publication record)",
+          "dcterms:publisher": "Google Research",
+          "schema:url": "https://research.google/pubs/explaining-and-harnessing-adversarial-examples/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Towards Deep Learning Models Resistant to Adversarial Attacks",
+          "dcterms:publisher": "arXiv:1706.06083 (Madry, Makelov, Schmidt, Tsipras, Vladu), 2017",
+          "schema:url": "https://arxiv.org/abs/1706.06083v4",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/safety-alignment-and-security/adversarial-machine-learning.md",
+      "skos:altLabel": [
+        "AML",
+        "adversarial ML",
+        "machine learning security"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-safety"
+        },
+        {
+          "@id": "kt:machine-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:red-teaming"
+        },
+        {
+          "@id": "kt:jailbreak"
+        },
+        {
+          "@id": "kt:adversarial-example"
+        },
+        {
+          "@id": "kt:adversarial-training"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:prompt-injection"
+        },
+        {
+          "@id": "kt:data-poisoning"
+        },
+        {
+          "@id": "kt:model-extraction"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:generative-adversarial-network"
+        }
+      ]
+    },
+    {
       "@id": "kt:ai-alignment",
       "@type": "kto:Field",
       "skos:prefLabel": "AI alignment",
