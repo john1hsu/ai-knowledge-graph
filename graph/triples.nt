@@ -2682,6 +2682,29 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/a-logical-calculus-of-the-ideas-immanent-in-nervous-activity> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/the-perceptron-a-probabilistic-model-for-information-storage-and-organization-in-the-brain> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perplexity> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perplexity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perplexity> <http://www.w3.org/2000/01/rdf-schema#label> "Perplexity" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perplexity> <http://www.w3.org/2004/02/skos/core#altLabel> "PPL" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perplexity> <http://www.w3.org/2004/02/skos/core#altLabel> "language model perplexity" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perplexity> <http://www.w3.org/2004/02/skos/core#altLabel> "test-set perplexity" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perplexity> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perplexity> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perplexity> <http://www.w3.org/2004/02/skos/core#definition> "The standard intrinsic metric for language models: the inverse probability a model assigns to held-out text, normalized per token, equivalently the exponentiated average negative log-likelihood (cross-entropy); lower is better." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perplexity> <http://www.w3.org/2004/02/skos/core#prefLabel> "Perplexity" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perplexity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perplexity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perplexity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perplexity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/tokenization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perplexity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perplexity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perplexity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perplexity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perplexity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perplexity> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/cross-entropy> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perplexity> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "evaluation-and-benchmarks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perplexity> <https://github.com/john1hsu/ai-knowledge-graph/ontology#extends> <https://github.com/john1hsu/ai-knowledge-graph/id/information-theory> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/perplexity> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://www.w3.org/2000/01/rdf-schema#label> "Policy gradient methods" .
@@ -6336,6 +6359,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s5> <https://schema.org/url> "https://exhibits.lib.lehigh.edu/exhibits/show/informationland/logic-computers-ai/perceptrons" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s1> <http://purl.org/dc/terms/publisher> "Stanford University (Jurafsky & Martin), draft of August 2026" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s1> <http://purl.org/dc/terms/title> "Speech and Language Processing (3rd ed. draft), Chapter 3: N-gram Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s1> <https://schema.org/url> "https://web.stanford.edu/%7Ejurafsky/slp3/3.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s2> <http://purl.org/dc/terms/publisher> "d2l.ai (Zhang, Lipton, Li, Smola)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s2> <http://purl.org/dc/terms/title> "Dive into Deep Learning, 9.3 Language Models (9.3.2 Perplexity)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s2> <https://schema.org/url> "https://d2l.ai/chapter_recurrent-neural-networks/language-model.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s3> <http://purl.org/dc/terms/publisher> "Hugging Face Transformers documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s3> <http://purl.org/dc/terms/title> "Perplexity of fixed-length models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s3> <https://schema.org/url> "https://HuggingFace.co/docs/transformers/perplexity" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s4> <http://purl.org/dc/terms/publisher> "ICLR 2025 poster (Fang, Wang, Liu, Zhang, Jegelka, Gao, Ding, Wang)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s4> <http://purl.org/dc/terms/title> "What is Wrong with Perplexity for Long-context Language Modeling?" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s4> <https://schema.org/url> "https://iclr.cc/virtual/2025/poster/28884" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s5> <http://purl.org/dc/terms/publisher> "arXiv (Fang et al.; Peking University, MIT, Alibaba Group, TUM)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s5> <http://purl.org/dc/terms/title> "What is Wrong with Perplexity for Long-context Language Modeling? (arXiv:2410.23771v5, HTML version)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s5> <https://schema.org/url> "https://arxiv.org/html/2410.23771v5" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s1> <http://purl.org/dc/terms/publisher> "Advances in Neural Information Processing Systems 12 (NIPS 1999) (Sutton, McAllester, Singh and Mansour)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s1> <http://purl.org/dc/terms/title> "Policy Gradient Methods for Reinforcement Learning with Function Approximation" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

@@ -62,6 +62,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
 | `kt:induction-head` | `kt:mechanistic-interpretability`, `kt:in-context-learning` |
 | `kt:knowledge-representation` | `kt:expert-systems`, `kt:symbolic-ai` |
+| `kt:language-model` | `kt:perplexity`, `kt:large-language-model` |
 | `kt:language-models-are-few-shot-learners` | `kt:few-shot-prompting`, `kt:in-context-learning` |
 | `kt:latent-semantic-analysis` | `kt:glove`, `kt:semantic-search` |
 | `kt:marvin-minsky` | `kt:dartmouth-workshop`, `kt:perceptron` |
@@ -141,6 +142,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:constitutional-ai-harmlessness-from-ai-feedback` | `kt:constitutional-ai` |
 | `kt:contextual-calibration` | `kt:prompt-sensitivity` |
 | `kt:contrastive-learning` | `kt:clip` |
+| `kt:cross-entropy` | `kt:perplexity` |
 | `kt:cudnn` | `kt:cuda` |
 | `kt:dan-hendrycks` | `kt:mmlu` |
 | `kt:data-drift` | `kt:mlops` |
@@ -212,6 +214,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:inference-engine` | `kt:expert-systems` |
 | `kt:information-processing-language` | `kt:logic-theorist` |
 | `kt:information-science` | `kt:information-retrieval` |
+| `kt:information-theory` | `kt:perplexity` |
 | `kt:inspect-ai` | `kt:ai-evaluation` |
 | `kt:instruction-hierarchy` | `kt:prompt-injection` |
 | `kt:interpretability` | `kt:mechanistic-interpretability` |
@@ -231,7 +234,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:kernel-pca` | `kt:principal-component-analysis` |
 | `kt:knowledge-base` | `kt:expert-systems` |
 | `kt:langchain` | `kt:langgraph` |
-| `kt:language-model` | `kt:large-language-model` |
 | `kt:large-language-monkeys` | `kt:self-consistency` |
 | `kt:lasso` | `kt:regularization` |
 | `kt:latent-diffusion-model` | `kt:diffusion-model` |
@@ -362,6 +364,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:through-silicon-via` | `kt:high-bandwidth-memory` |
 | `kt:tim-dettmers` | `kt:qlora` |
 | `kt:time-sharing` | `kt:eliza` |
+| `kt:tokenization` | `kt:perplexity` |
 | `kt:training-verifiers-to-solve-math-word-problems` | `kt:gsm8k` |
 | `kt:transformers-state-of-the-art-natural-language-processing` | `kt:hugging-face-transformers` |
 | `kt:trec` | `kt:information-retrieval` |

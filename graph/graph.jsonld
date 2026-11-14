@@ -5687,6 +5687,85 @@
       ]
     },
     {
+      "@id": "kt:perplexity",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Perplexity",
+      "skos:definition": "The standard intrinsic metric for language models: the inverse probability a model assigns to held-out text, normalized per token, equivalently the exponentiated average negative log-likelihood (cross-entropy); lower is better.",
+      "kto:domain": "evaluation-and-benchmarks",
+      "dcterms:created": "2026-11-14",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Speech and Language Processing (3rd ed. draft), Chapter 3: N-gram Language Models",
+          "dcterms:publisher": "Stanford University (Jurafsky & Martin), draft of August 2026",
+          "schema:url": "https://web.stanford.edu/%7Ejurafsky/slp3/3.pdf",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Dive into Deep Learning, 9.3 Language Models (9.3.2 Perplexity)",
+          "dcterms:publisher": "d2l.ai (Zhang, Lipton, Li, Smola)",
+          "schema:url": "https://d2l.ai/chapter_recurrent-neural-networks/language-model.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Perplexity of fixed-length models",
+          "dcterms:publisher": "Hugging Face Transformers documentation",
+          "schema:url": "https://HuggingFace.co/docs/transformers/perplexity",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "What is Wrong with Perplexity for Long-context Language Modeling?",
+          "dcterms:publisher": "ICLR 2025 poster (Fang, Wang, Liu, Zhang, Jegelka, Gao, Ding, Wang)",
+          "schema:url": "https://iclr.cc/virtual/2025/poster/28884",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "What is Wrong with Perplexity for Long-context Language Modeling? (arXiv:2410.23771v5, HTML version)",
+          "dcterms:publisher": "arXiv (Fang et al.; Peking University, MIT, Alibaba Group, TUM)",
+          "schema:url": "https://arxiv.org/html/2410.23771v5",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/evaluation-and-benchmarks/perplexity.md",
+      "skos:altLabel": [
+        "PPL",
+        "language model perplexity",
+        "test-set perplexity"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-evaluation"
+        },
+        {
+          "@id": "kt:language-model"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:context-window"
+        },
+        {
+          "@id": "kt:tokenization"
+        },
+        {
+          "@id": "kt:benchmark-contamination"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:cross-entropy"
+        }
+      ],
+      "kto:extends": [
+        {
+          "@id": "kt:information-theory"
+        }
+      ]
+    },
+    {
       "@id": "kt:red-teaming",
       "@type": "kto:Technique",
       "skos:prefLabel": "Red teaming",

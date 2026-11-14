@@ -2259,6 +2259,27 @@
     ]
   },
   {
+    "id": "kt:perplexity",
+    "title": "Perplexity",
+    "aliases": [
+      "PPL",
+      "language model perplexity",
+      "test-set perplexity"
+    ],
+    "type": "Concept",
+    "domain": "evaluation-and-benchmarks",
+    "file": "articles/evaluation-and-benchmarks/perplexity.md",
+    "created": "2026-11-14",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://web.stanford.edu/%7Ejurafsky/slp3/3.pdf",
+      "https://d2l.ai/chapter_recurrent-neural-networks/language-model.html",
+      "https://HuggingFace.co/docs/transformers/perplexity",
+      "https://iclr.cc/virtual/2025/poster/28884",
+      "https://arxiv.org/html/2410.23771v5"
+    ]
+  },
+  {
     "id": "kt:policy-gradient",
     "title": "Policy gradient methods",
     "aliases": [
