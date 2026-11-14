@@ -1758,6 +1758,29 @@
     ]
   },
   {
+    "id": "kt:iso-iec-42001",
+    "title": "ISO/IEC 42001",
+    "aliases": [
+      "ISO/IEC 42001:2023",
+      "ISO 42001",
+      "AI management system standard",
+      "AIMS standard"
+    ],
+    "type": "Policy",
+    "domain": "governance-and-policy",
+    "file": "articles/governance-and-policy/iso-iec-42001.md",
+    "created": "2026-11-14",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://webstore.iec.ch/publication/90574",
+      "https://www.din.de/de/mitwirken/normenausschuesse/nia/veroeffentlichungen/wdc-beuth:din21:376160445/toc-3516210/download",
+      "https://committee.iso.org/artificial-intelligence/ai-management-systems",
+      "https://www.iso.org/standard/42006",
+      "https://airc.nist.gov/docs/NIST_AI_RMF_to_ISO_IEC_42001_Crosswalk.pdf",
+      "https://digital-strategy.ec.europa.eu/en/policies/ai-act-standardisation"
+    ]
+  },
+  {
     "id": "kt:jailbreak",
     "title": "Jailbreak",
     "aliases": [

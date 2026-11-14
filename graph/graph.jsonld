@@ -6751,6 +6751,95 @@
       ]
     },
     {
+      "@id": "kt:iso-iec-42001",
+      "@type": "kto:Policy",
+      "skos:prefLabel": "ISO/IEC 42001",
+      "skos:definition": "The international standard, published by ISO and IEC in December 2023, that specifies requirements and guidance for establishing, implementing, maintaining and continually improving an artificial intelligence management system (AIMS) in any organization that develops, provides or uses AI systems.",
+      "kto:domain": "governance-and-policy",
+      "dcterms:created": "2026-11-14",
+      "kto:maturity": "emerging",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "ISO/IEC 42001:2023 — Information technology — Artificial intelligence — Management system",
+          "dcterms:publisher": "IEC Webstore (ISO/IEC JTC 1/SC 42), edition 1.0, 2023-12-18",
+          "schema:url": "https://webstore.iec.ch/publication/90574",
+          "kto:sourceType": "standards-body"
+        },
+        {
+          "dcterms:title": "ISO/IEC 42001:2023 — table of contents",
+          "dcterms:publisher": "DIN (German Institute for Standardization)",
+          "schema:url": "https://www.din.de/de/mitwirken/normenausschuesse/nia/veroeffentlichungen/wdc-beuth:din21:376160445/toc-3516210/download",
+          "kto:sourceType": "standards-body"
+        },
+        {
+          "dcterms:title": "AI management systems: What businesses need to know",
+          "dcterms:publisher": "ISO, 31 January 2024",
+          "schema:url": "https://committee.iso.org/artificial-intelligence/ai-management-systems",
+          "kto:sourceType": "standards-body"
+        },
+        {
+          "dcterms:title": "ISO/IEC 42006 — Requirements for bodies providing audit and certification of artificial intelligence management systems",
+          "dcterms:publisher": "ISO, July 2025",
+          "schema:url": "https://www.iso.org/standard/42006",
+          "kto:sourceType": "standards-body"
+        },
+        {
+          "dcterms:title": "NIST AI RMF to ISO/IEC FDIS 42001 AI Management System Crosswalk",
+          "dcterms:publisher": "NIST Trustworthy and Responsible AI Resource Center (AIRC)",
+          "schema:url": "https://airc.nist.gov/docs/NIST_AI_RMF_to_ISO_IEC_42001_Crosswalk.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Standardisation of the AI Act",
+          "dcterms:publisher": "European Commission, Shaping Europe's digital future (updated 19 October 2026)",
+          "schema:url": "https://digital-strategy.ec.europa.eu/en/policies/ai-act-standardisation",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/governance-and-policy/iso-iec-42001.md",
+      "skos:altLabel": [
+        "ISO/IEC 42001:2023",
+        "ISO 42001",
+        "AI management system standard",
+        "AIMS standard"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-governance"
+        },
+        {
+          "@id": "kt:ai-risk-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:nist-ai-risk-management-framework"
+        },
+        {
+          "@id": "kt:eu-ai-act"
+        },
+        {
+          "@id": "kt:iso-iec-42006"
+        },
+        {
+          "@id": "kt:iso-iec-27001"
+        },
+        {
+          "@id": "kt:algorithmic-bias-and-fairness"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:iso-iec-jtc-1-sc-42"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:iso-iec-27001"
+        }
+      ]
+    },
+    {
       "@id": "kt:nist-ai-risk-management-framework",
       "@type": "kto:Policy",
       "skos:prefLabel": "NIST AI Risk Management Framework",

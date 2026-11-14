@@ -41,6 +41,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:temporal-difference-learning` | `kt:actor-critic`, `kt:q-learning`, `kt:reinforcement-learning` |
 | `kt:wmt-2014` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
+| `kt:ai-risk-management` | `kt:iso-iec-42001`, `kt:nist-ai-risk-management-framework` |
 | `kt:ai-winter` | `kt:expert-systems`, `kt:perceptron` |
 | `kt:alfworld` | `kt:autogen`, `kt:react-prompting` |
 | `kt:all-reduce` | `kt:data-parallelism`, `kt:distributed-training` |
@@ -60,6 +61,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:export-control-reform-act` | `kt:ai-chip-export-controls`, `kt:bureau-of-industry-and-security` |
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
 | `kt:induction-head` | `kt:mechanistic-interpretability`, `kt:in-context-learning` |
+| `kt:iso-iec-27001` | `kt:iso-iec-42001`, `kt:iso-iec-42001` |
 | `kt:knowledge-representation` | `kt:expert-systems`, `kt:symbolic-ai` |
 | `kt:language-model` | `kt:perplexity`, `kt:large-language-model` |
 | `kt:language-models-are-few-shot-learners` | `kt:few-shot-prompting`, `kt:in-context-learning` |
@@ -91,7 +93,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:adamw` | `kt:adam-optimizer` |
 | `kt:ai-ethics` | `kt:algorithmic-bias-and-fairness` |
 | `kt:ai-governance-a-research-agenda` | `kt:ai-governance` |
-| `kt:ai-risk-management` | `kt:nist-ai-risk-management-framework` |
 | `kt:ai-safety-summit` | `kt:ai-safety-institutes` |
 | `kt:ai-safety-via-debate` | `kt:scalable-oversight` |
 | `kt:alan-turing` | `kt:turing-test` |
@@ -220,7 +221,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:interpretability` | `kt:mechanistic-interpretability` |
 | `kt:intrinsic-motivation` | `kt:exploration-exploitation` |
 | `kt:inverted-index` | `kt:information-retrieval` |
-| `kt:iso-iec-42001` | `kt:nist-ai-risk-management-framework` |
+| `kt:iso-iec-42006` | `kt:iso-iec-42001` |
+| `kt:iso-iec-jtc-1-sc-42` | `kt:iso-iec-42001` |
 | `kt:iterated-amplification` | `kt:scalable-oversight` |
 | `kt:jedec` | `kt:high-bandwidth-memory` |
 | `kt:john-mccarthy` | `kt:dartmouth-workshop` |
