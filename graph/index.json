@@ -847,6 +847,27 @@
     ]
   },
   {
+    "id": "kt:computer-vision",
+    "title": "Computer vision",
+    "aliases": [
+      "CV",
+      "machine vision",
+      "visual recognition"
+    ],
+    "type": "Field",
+    "domain": "computer-vision-and-multimodal",
+    "file": "articles/computer-vision-and-multimodal/computer-vision.md",
+    "created": "2026-11-14",
+    "maturity": "established",
+    "source_urls": [
+      "https://www.britannica.com:443/technology/computer-vision",
+      "https://cs.utexas.edu/~pstone/Courses/309fall24/preclass/readings/week6_Szeliski_CVAA_Book_p_1_10.pdf",
+      "https://dspace.mit.edu/handle/1721.1/6125",
+      "https://cs231n.Stanford.edu/slides/2024/lecture_1_part_2.pdf",
+      "https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html"
+    ]
+  },
+  {
     "id": "kt:conditional-random-field",
     "title": "Conditional random field",
     "aliases": [

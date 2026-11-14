@@ -998,6 +998,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/computing-power-and-the-governance-of-artificial-intelligence> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Field> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> <http://www.w3.org/2000/01/rdf-schema#label> "Computer vision" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> <http://www.w3.org/2004/02/skos/core#altLabel> "CV" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> <http://www.w3.org/2004/02/skos/core#altLabel> "machine vision" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> <http://www.w3.org/2004/02/skos/core#altLabel> "visual recognition" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> <http://www.w3.org/2004/02/skos/core#definition> "The field of artificial intelligence concerned with getting computers to extract meaningful descriptions of the world (objects, regions, shape, motion, illumination) from images and video; it is an inverse problem that today is tackled mostly with deep learning trained on large labeled datasets." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> <http://www.w3.org/2004/02/skos/core#prefLabel> "Computer vision" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/object-detection> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/pattern-recognition> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/computer-vision/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/computer-vision/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/computer-vision/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/computer-vision/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/computer-vision/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/computer-graphics> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "computer-vision-and-multimodal" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-segmentation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <http://www.w3.org/2000/01/rdf-schema#label> "Conditional random field" .
@@ -4772,6 +4798,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s7> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/compute-governance/s7> <https://schema.org/url> "https://apcp.assembly.ca.gov/media/1019" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/computer-vision/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica (The Editors; revised by Erik Gregersen)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/computer-vision/s1> <http://purl.org/dc/terms/title> "computer vision" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/computer-vision/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/computer-vision/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/computer-vision/s1> <https://schema.org/url> "https://www.britannica.com:443/technology/computer-vision" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/computer-vision/s2> <http://purl.org/dc/terms/publisher> "Richard Szeliski, Springer 2022 (final draft 2021-09-30; course reading hosted by UT Austin)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/computer-vision/s2> <http://purl.org/dc/terms/title> "Computer Vision: Algorithms and Applications, 2nd ed. (Chapter 1 excerpt, pp. 1–10)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/computer-vision/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/computer-vision/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/computer-vision/s2> <https://schema.org/url> "https://cs.utexas.edu/~pstone/Courses/309fall24/preclass/readings/week6_Szeliski_CVAA_Book_p_1_10.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/computer-vision/s3> <http://purl.org/dc/terms/publisher> "MIT Artificial Intelligence Project, DSpace@MIT (Seymour A. Papert, 1966)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/computer-vision/s3> <http://purl.org/dc/terms/title> "The Summer Vision Project (AI Memo AIM-100)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/computer-vision/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/computer-vision/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/computer-vision/s3> <https://schema.org/url> "https://dspace.mit.edu/handle/1721.1/6125" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/computer-vision/s4> <http://purl.org/dc/terms/publisher> "Stanford University CS231n (lecture slides)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/computer-vision/s4> <http://purl.org/dc/terms/title> "Lecture 1, Part 2 (CS231n: Deep Learning for Computer Vision, 2024)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/computer-vision/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/computer-vision/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/computer-vision/s4> <https://schema.org/url> "https://cs231n.Stanford.edu/slides/2024/lecture_1_part_2.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/computer-vision/s5> <http://purl.org/dc/terms/publisher> "NeurIPS 2012 (Krizhevsky, Sutskever and Hinton)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/computer-vision/s5> <http://purl.org/dc/terms/title> "ImageNet Classification with Deep Convolutional Neural Networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/computer-vision/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/computer-vision/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/computer-vision/s5> <https://schema.org/url> "https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s1> <http://purl.org/dc/terms/publisher> "ICML 2001 (Lafferty, McCallum, Pereira); author copy hosted on a University of Colorado course page" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s1> <http://purl.org/dc/terms/title> "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

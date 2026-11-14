@@ -3414,6 +3414,98 @@
       ]
     },
     {
+      "@id": "kt:computer-vision",
+      "@type": "kto:Field",
+      "skos:prefLabel": "Computer vision",
+      "skos:definition": "The field of artificial intelligence concerned with getting computers to extract meaningful descriptions of the world (objects, regions, shape, motion, illumination) from images and video; it is an inverse problem that today is tackled mostly with deep learning trained on large labeled datasets.",
+      "kto:domain": "computer-vision-and-multimodal",
+      "dcterms:created": "2026-11-14",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "computer vision",
+          "dcterms:publisher": "Encyclopaedia Britannica (The Editors; revised by Erik Gregersen)",
+          "schema:url": "https://www.britannica.com:443/technology/computer-vision",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Computer Vision: Algorithms and Applications, 2nd ed. (Chapter 1 excerpt, pp. 1–10)",
+          "dcterms:publisher": "Richard Szeliski, Springer 2022 (final draft 2021-09-30; course reading hosted by UT Austin)",
+          "schema:url": "https://cs.utexas.edu/~pstone/Courses/309fall24/preclass/readings/week6_Szeliski_CVAA_Book_p_1_10.pdf",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "The Summer Vision Project (AI Memo AIM-100)",
+          "dcterms:publisher": "MIT Artificial Intelligence Project, DSpace@MIT (Seymour A. Papert, 1966)",
+          "schema:url": "https://dspace.mit.edu/handle/1721.1/6125",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Lecture 1, Part 2 (CS231n: Deep Learning for Computer Vision, 2024)",
+          "dcterms:publisher": "Stanford University CS231n (lecture slides)",
+          "schema:url": "https://cs231n.Stanford.edu/slides/2024/lecture_1_part_2.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "ImageNet Classification with Deep Convolutional Neural Networks",
+          "dcterms:publisher": "NeurIPS 2012 (Krizhevsky, Sutskever and Hinton)",
+          "schema:url": "https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/computer-vision-and-multimodal/computer-vision.md",
+      "skos:altLabel": [
+        "CV",
+        "machine vision",
+        "visual recognition"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:artificial-intelligence"
+        },
+        {
+          "@id": "kt:machine-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:image-classification"
+        },
+        {
+          "@id": "kt:object-detection"
+        },
+        {
+          "@id": "kt:vision-transformer"
+        },
+        {
+          "@id": "kt:vision-language-model"
+        },
+        {
+          "@id": "kt:pattern-recognition"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:semantic-segmentation"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:convolutional-neural-network"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:imagenet-and-alexnet"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:computer-graphics"
+        }
+      ]
+    },
+    {
       "@id": "kt:diffusion-model",
       "@type": "kto:Architecture",
       "skos:prefLabel": "Diffusion model",
