@@ -5,7 +5,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:artificial-intelligence` | `kt:ai-agent`, `kt:dartmouth-workshop`, `kt:symbolic-ai`, `kt:turing-test`, `kt:ai-governance`, `kt:machine-learning`, `kt:ai-safety` |
-| `kt:ensemble-methods` | `kt:dropout`, `kt:bias-variance-tradeoff`, `kt:double-descent`, `kt:regularization`, `kt:self-consistency`, `kt:knowledge-distillation` |
 | `kt:google` | `kt:agent2agent-protocol`, `kt:react-prompting`, `kt:tpu`, `kt:an-image-is-worth-16x16-words`, `kt:word2vec`, `kt:attention-is-all-you-need` |
 | `kt:llm-inference-optimization` | `kt:model-serving`, `kt:batching-and-paged-attention`, `kt:flash-attention`, `kt:speculative-decoding`, `kt:tensorrt-llm`, `kt:vllm` |
 | `kt:vision-transformer` | `kt:an-image-is-worth-16x16-words`, `kt:clip`, `kt:image-classification`, `kt:object-detection`, `kt:yolo`, `kt:convolutional-neural-network` |
@@ -115,10 +114,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:automated-theorem-proving` | `kt:logic-theorist` |
 | `kt:awq-activation-aware-weight-quantization-for-llm-compression-and-acceleration` | `kt:awq` |
 | `kt:backpropagation-through-time` | `kt:recurrent-neural-network` |
+| `kt:bagging` | `kt:ensemble-methods` |
 | `kt:beir-a-heterogeneous-benchmark-for-zero-shot-evaluation-of-information-retrieval-models` | `kt:beir` |
 | `kt:berkeley-function-calling-leaderboard` | `kt:tool-use` |
 | `kt:big-bench` | `kt:emergent-abilities` |
 | `kt:boltzmann-machine` | `kt:geoffrey-hinton` |
+| `kt:boosting` | `kt:ensemble-methods` |
 | `kt:bradley-terry-model` | `kt:direct-preference-optimization` |
 | `kt:campbells-law` | `kt:goodharts-law` |
 | `kt:catastrophic-forgetting` | `kt:fine-tuning` |
@@ -146,6 +147,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dan-hendrycks` | `kt:mmlu` |
 | `kt:data-drift` | `kt:mlops` |
 | `kt:data-poisoning` | `kt:benchmark-contamination` |
+| `kt:decision-tree` | `kt:ensemble-methods` |
 | `kt:deep-blue` | `kt:alphazero` |
 | `kt:deep-reinforcement-learning-from-human-preferences` | `kt:rlhf` |
 | `kt:deep-unsupervised-learning-using-nonequilibrium-thermodynamics` | `kt:diffusion-model` |
@@ -307,6 +309,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pytorch-an-imperative-style-high-performance-deep-learning-library` | `kt:pytorch` |
 | `kt:qlora-efficient-finetuning-of-quantized-llms` | `kt:qlora` |
 | `kt:quiet-star` | `kt:star-self-taught-reasoner` |
+| `kt:random-forest` | `kt:ensemble-methods` |
 | `kt:realm` | `kt:retrieval-augmented-generation` |
 | `kt:reconciling-modern-machine-learning-practice-and-the-bias-variance-trade-off` | `kt:double-descent` |
 | `kt:rectified-linear-unit` | `kt:activation-function` |

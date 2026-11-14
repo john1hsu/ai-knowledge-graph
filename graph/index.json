@@ -1155,6 +1155,28 @@
     ]
   },
   {
+    "id": "kt:ensemble-methods",
+    "title": "Ensemble methods",
+    "aliases": [
+      "ensemble learning",
+      "model ensembles",
+      "classifier ensembles",
+      "multiple classifier systems"
+    ],
+    "type": "Technique",
+    "domain": "ml-foundations",
+    "file": "articles/ml-foundations/ensemble-methods.md",
+    "created": "2026-11-14",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://www.biostat.wisc.edu/~kbroman/teaching/statgen/2004/refs/bagging.pdf",
+      "https://collaborate.princeton.edu/en/publications/a-decision-theoretic-generalization-of-on-line-learning-and-an-ap/",
+      "https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf",
+      "https://kbroman.org/teaching_old/statgen/2004/refs/dietterich.pdf",
+      "https://scikit-learn.org/stable/modules/ensemble"
+    ]
+  },
+  {
     "id": "kt:eu-ai-act",
     "title": "EU AI Act",
     "aliases": [

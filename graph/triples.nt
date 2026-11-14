@@ -1366,6 +1366,30 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/big-bench> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities-of-large-language-models> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ensemble-methods> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ensemble-methods> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ensemble-methods> <http://www.w3.org/2000/01/rdf-schema#label> "Ensemble methods" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ensemble-methods> <http://www.w3.org/2004/02/skos/core#altLabel> "classifier ensembles" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ensemble-methods> <http://www.w3.org/2004/02/skos/core#altLabel> "ensemble learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ensemble-methods> <http://www.w3.org/2004/02/skos/core#altLabel> "model ensembles" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ensemble-methods> <http://www.w3.org/2004/02/skos/core#altLabel> "multiple classifier systems" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ensemble-methods> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ensemble-methods> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ensemble-methods> <http://www.w3.org/2004/02/skos/core#definition> "Techniques that train several models and combine their predictions, by averaging, voting or a learned combiner, so that the group is more accurate and robust than any single member; the main families are bagging and random forests, boosting, and voting or stacking." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ensemble-methods> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ensemble methods" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ensemble-methods> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ensemble-methods> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/decision-tree> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ensemble-methods> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ensemble-methods/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ensemble-methods> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ensemble-methods/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ensemble-methods> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ensemble-methods/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ensemble-methods> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ensemble-methods/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ensemble-methods> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ensemble-methods/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ensemble-methods> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ml-foundations" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ensemble-methods> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/bagging> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ensemble-methods> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/boosting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ensemble-methods> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/random-forest> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ensemble-methods> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ensemble-methods> <https://github.com/john1hsu/ai-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Policy> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> <http://www.w3.org/2000/01/rdf-schema#label> "EU AI Act" .
@@ -4870,6 +4894,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/emergent-abilities/s6> <https://schema.org/url> "https://proceedings.neurips.cc/paper_files/paper/2024/hash/5f1eee2509599faeeb3570a887016a64-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ensemble-methods/s1> <http://purl.org/dc/terms/publisher> "Machine Learning 24, 123–140 (1996) (Leo Breiman), author's technical-report copy hosted by UW–Madison" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ensemble-methods/s1> <http://purl.org/dc/terms/title> "Bagging Predictors" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ensemble-methods/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ensemble-methods/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ensemble-methods/s1> <https://schema.org/url> "https://www.biostat.wisc.edu/~kbroman/teaching/statgen/2004/refs/bagging.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ensemble-methods/s2> <http://purl.org/dc/terms/publisher> "Journal of Computer and System Sciences 55(1), 119–139 (1997) (Freund and Schapire), Princeton University research record" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ensemble-methods/s2> <http://purl.org/dc/terms/title> "A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ensemble-methods/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ensemble-methods/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ensemble-methods/s2> <https://schema.org/url> "https://collaborate.princeton.edu/en/publications/a-decision-theoretic-generalization-of-on-line-learning-and-an-ap/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ensemble-methods/s3> <http://purl.org/dc/terms/publisher> "Machine Learning 45, 5–32 (2001) (Leo Breiman), author's copy at UC Berkeley Statistics" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ensemble-methods/s3> <http://purl.org/dc/terms/title> "Random Forests" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ensemble-methods/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ensemble-methods/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ensemble-methods/s3> <https://schema.org/url> "https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ensemble-methods/s4> <http://purl.org/dc/terms/publisher> "Machine Learning 40, 139–157 (2000) (Thomas G. Dietterich), author's copy hosted by Karl Broman (UW–Madison course materials)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ensemble-methods/s4> <http://purl.org/dc/terms/title> "An Experimental Comparison of Three Methods for Constructing Ensembles of Decision Trees: Bagging, Boosting, and Randomization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ensemble-methods/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ensemble-methods/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ensemble-methods/s4> <https://schema.org/url> "https://kbroman.org/teaching_old/statgen/2004/refs/dietterich.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ensemble-methods/s5> <http://purl.org/dc/terms/publisher> "scikit-learn User Guide, section 1.11 (stable)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ensemble-methods/s5> <http://purl.org/dc/terms/title> "Ensembles: Gradient boosting, random forests, bagging, voting, stacking" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ensemble-methods/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ensemble-methods/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ensemble-methods/s5> <https://schema.org/url> "https://scikit-learn.org/stable/modules/ensemble" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/eu-ai-act/s1> <http://purl.org/dc/terms/publisher> "EUR-Lex, Publications Office of the European Union" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/eu-ai-act/s1> <http://purl.org/dc/terms/title> "Regulation (EU) 2024/1689 (Artificial Intelligence Act), consolidated text of 27 July 2026" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/eu-ai-act/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

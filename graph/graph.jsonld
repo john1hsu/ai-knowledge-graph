@@ -8008,6 +8008,86 @@
       ]
     },
     {
+      "@id": "kt:ensemble-methods",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Ensemble methods",
+      "skos:definition": "Techniques that train several models and combine their predictions, by averaging, voting or a learned combiner, so that the group is more accurate and robust than any single member; the main families are bagging and random forests, boosting, and voting or stacking.",
+      "kto:domain": "ml-foundations",
+      "dcterms:created": "2026-11-14",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Bagging Predictors",
+          "dcterms:publisher": "Machine Learning 24, 123–140 (1996) (Leo Breiman), author's technical-report copy hosted by UW–Madison",
+          "schema:url": "https://www.biostat.wisc.edu/~kbroman/teaching/statgen/2004/refs/bagging.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting",
+          "dcterms:publisher": "Journal of Computer and System Sciences 55(1), 119–139 (1997) (Freund and Schapire), Princeton University research record",
+          "schema:url": "https://collaborate.princeton.edu/en/publications/a-decision-theoretic-generalization-of-on-line-learning-and-an-ap/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Random Forests",
+          "dcterms:publisher": "Machine Learning 45, 5–32 (2001) (Leo Breiman), author's copy at UC Berkeley Statistics",
+          "schema:url": "https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "An Experimental Comparison of Three Methods for Constructing Ensembles of Decision Trees: Bagging, Boosting, and Randomization",
+          "dcterms:publisher": "Machine Learning 40, 139–157 (2000) (Thomas G. Dietterich), author's copy hosted by Karl Broman (UW–Madison course materials)",
+          "schema:url": "https://kbroman.org/teaching_old/statgen/2004/refs/dietterich.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Ensembles: Gradient boosting, random forests, bagging, voting, stacking",
+          "dcterms:publisher": "scikit-learn User Guide, section 1.11 (stable)",
+          "schema:url": "https://scikit-learn.org/stable/modules/ensemble",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/ml-foundations/ensemble-methods.md",
+      "skos:altLabel": [
+        "ensemble learning",
+        "model ensembles",
+        "classifier ensembles",
+        "multiple classifier systems"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:machine-learning"
+        },
+        {
+          "@id": "kt:supervised-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:bias-variance-tradeoff"
+        },
+        {
+          "@id": "kt:decision-tree"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:bagging"
+        },
+        {
+          "@id": "kt:boosting"
+        },
+        {
+          "@id": "kt:random-forest"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:overfitting"
+        }
+      ]
+    },
+    {
       "@id": "kt:hidden-markov-model",
       "@type": "kto:Concept",
       "skos:prefLabel": "Hidden Markov model",
