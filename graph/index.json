@@ -2148,6 +2148,28 @@
     ]
   },
   {
+    "id": "kt:least-to-most-prompting",
+    "title": "Least-to-most prompting",
+    "aliases": [
+      "least-to-most",
+      "LtM prompting",
+      "L2M prompting"
+    ],
+    "type": "Technique",
+    "domain": "prompting-and-reasoning",
+    "file": "articles/prompting-and-reasoning/least-to-most-prompting.md",
+    "created": "2026-11-15",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/pdf/2205.10625v3",
+      "https://iclr.cc/virtual/2023/poster/12263",
+      "https://mlanthology.org/iclr/2023/zhou2023iclr-leasttomost",
+      "https://arxiv.org/pdf/2209.15003",
+      "https://arxiv.org/abs/2210.02406v2",
+      "https://mlanthology.org/iclr/2023/khot2023iclr-decomposed"
+    ]
+  },
+  {
     "id": "kt:llm-as-a-judge",
     "title": "LLM-as-a-judge",
     "aliases": [

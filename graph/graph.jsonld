@@ -10759,6 +10759,9 @@
         },
         {
           "@id": "kt:tree-of-thoughts"
+        },
+        {
+          "@id": "kt:least-to-most-prompting"
         }
       ],
       "kto:introducedIn": [
@@ -10864,6 +10867,90 @@
       "kto:alternativeTo": [
         {
           "@id": "kt:fine-tuning"
+        }
+      ]
+    },
+    {
+      "@id": "kt:least-to-most-prompting",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Least-to-most prompting",
+      "skos:definition": "A few-shot prompting technique that first asks a language model to break a hard problem into a sequence of simpler subproblems, then solves those subproblems in order, feeding each earlier answer into the prompt for the next, so the model can generalise to problems harder than its exemplars.",
+      "kto:domain": "prompting-and-reasoning",
+      "dcterms:created": "2026-11-15",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Least-to-Most Prompting Enables Complex Reasoning in Large Language Models",
+          "dcterms:publisher": "arXiv 2205.10625v3 (Zhou, Schärli, Hou, Wei, Scales, Wang, Schuurmans, Cui, Bousquet, Le, Chi)",
+          "schema:url": "https://arxiv.org/pdf/2205.10625v3",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Least-to-Most Prompting Enables Complex Reasoning in Large Language Models (ICLR 2023 poster)",
+          "dcterms:publisher": "ICLR 2023",
+          "schema:url": "https://iclr.cc/virtual/2023/poster/12263",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Least-to-Most Prompting Enables Complex Reasoning in Large Language Models (publication record)",
+          "dcterms:publisher": "ML Anthology (ICLR 2023)",
+          "schema:url": "https://mlanthology.org/iclr/2023/zhou2023iclr-leasttomost",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Compositional Semantic Parsing with Large Language Models",
+          "dcterms:publisher": "arXiv 2209.15003 (Drozdov, Schärli, Akyürek, Scales, Song, Chen, Bousquet, Zhou)",
+          "schema:url": "https://arxiv.org/pdf/2209.15003",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Decomposed Prompting: A Modular Approach for Solving Complex Tasks",
+          "dcterms:publisher": "arXiv 2210.02406v2 (Khot, Trivedi, Finlayson, Fu, Richardson, Clark, Sabharwal)",
+          "schema:url": "https://arxiv.org/abs/2210.02406v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Decomposed Prompting: A Modular Approach for Solving Complex Tasks (publication record)",
+          "dcterms:publisher": "ML Anthology (ICLR 2023)",
+          "schema:url": "https://mlanthology.org/iclr/2023/khot2023iclr-decomposed",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/prompting-and-reasoning/least-to-most-prompting.md",
+      "skos:altLabel": [
+        "least-to-most",
+        "LtM prompting",
+        "L2M prompting"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:prompt-engineering"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:few-shot-prompting"
+        },
+        {
+          "@id": "kt:decomposed-prompting"
+        },
+        {
+          "@id": "kt:compositional-generalization"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:least-to-most-prompting-enables-complex-reasoning-in-large-language-models"
+        }
+      ],
+      "kto:extends": [
+        {
+          "@id": "kt:chain-of-thought"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:gsm8k"
         }
       ]
     },

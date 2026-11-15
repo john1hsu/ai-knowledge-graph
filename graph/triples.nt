@@ -962,6 +962,7 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chain-of-thought prompting" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/react-prompting> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> .
@@ -2541,6 +2542,29 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> <http://www.w3.org/2000/01/rdf-schema#label> "Least-to-most prompting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> <http://www.w3.org/2004/02/skos/core#altLabel> "L2M prompting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> <http://www.w3.org/2004/02/skos/core#altLabel> "LtM prompting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> <http://www.w3.org/2004/02/skos/core#altLabel> "least-to-most" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> <http://www.w3.org/2004/02/skos/core#definition> "A few-shot prompting technique that first asks a language model to break a hard problem into a sequence of simpler subproblems, then solves those subproblems in order, feeding each earlier answer into the prompt for the next, so the model can generalise to problems harder than its exemplars." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> <http://www.w3.org/2004/02/skos/core#prefLabel> "Least-to-most prompting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/compositional-generalization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/decomposed-prompting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "prompting-and-reasoning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#extends> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting-enables-complex-reasoning-in-large-language-models> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <http://www.w3.org/2000/01/rdf-schema#label> "LLM-as-a-judge" .
@@ -6888,6 +6912,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s5> <https://schema.org/url> "https://arxiv.org/abs/2108.07258" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s1> <http://purl.org/dc/terms/publisher> "arXiv 2205.10625v3 (Zhou, Schärli, Hou, Wei, Scales, Wang, Schuurmans, Cui, Bousquet, Le, Chi)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s1> <http://purl.org/dc/terms/title> "Least-to-Most Prompting Enables Complex Reasoning in Large Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s1> <https://schema.org/url> "https://arxiv.org/pdf/2205.10625v3" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s2> <http://purl.org/dc/terms/publisher> "ICLR 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s2> <http://purl.org/dc/terms/title> "Least-to-Most Prompting Enables Complex Reasoning in Large Language Models (ICLR 2023 poster)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s2> <https://schema.org/url> "https://iclr.cc/virtual/2023/poster/12263" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s3> <http://purl.org/dc/terms/publisher> "ML Anthology (ICLR 2023)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s3> <http://purl.org/dc/terms/title> "Least-to-Most Prompting Enables Complex Reasoning in Large Language Models (publication record)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s3> <https://schema.org/url> "https://mlanthology.org/iclr/2023/zhou2023iclr-leasttomost" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s4> <http://purl.org/dc/terms/publisher> "arXiv 2209.15003 (Drozdov, Schärli, Akyürek, Scales, Song, Chen, Bousquet, Zhou)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s4> <http://purl.org/dc/terms/title> "Compositional Semantic Parsing with Large Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s4> <https://schema.org/url> "https://arxiv.org/pdf/2209.15003" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s5> <http://purl.org/dc/terms/publisher> "arXiv 2210.02406v2 (Khot, Trivedi, Finlayson, Fu, Richardson, Clark, Sabharwal)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s5> <http://purl.org/dc/terms/title> "Decomposed Prompting: A Modular Approach for Solving Complex Tasks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s5> <https://schema.org/url> "https://arxiv.org/abs/2210.02406v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s6> <http://purl.org/dc/terms/publisher> "ML Anthology (ICLR 2023)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s6> <http://purl.org/dc/terms/title> "Decomposed Prompting: A Modular Approach for Solving Complex Tasks (publication record)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s6> <https://schema.org/url> "https://mlanthology.org/iclr/2023/khot2023iclr-decomposed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s1> <http://purl.org/dc/terms/publisher> "arXiv 2306.05685, NeurIPS 2023 Datasets and Benchmarks Track (Zheng, Chiang, Sheng et al.)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s1> <http://purl.org/dc/terms/title> "Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

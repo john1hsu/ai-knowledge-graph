@@ -146,6 +146,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:commonsense-reasoning` | `kt:commonsenseqa` |
 | `kt:commonsenseqa-2-0` | `kt:commonsenseqa` |
 | `kt:commonsenseqa-a-question-answering-challenge-targeting-commonsense-knowledge` | `kt:commonsenseqa` |
+| `kt:compositional-generalization` | `kt:least-to-most-prompting` |
 | `kt:computer-graphics` | `kt:computer-vision` |
 | `kt:computer-science` | `kt:artificial-intelligence` |
 | `kt:computing-machinery-and-intelligence` | `kt:turing-test` |
@@ -162,6 +163,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:datasheets-for-datasets` | `kt:model-cards` |
 | `kt:decision-tree` | `kt:ensemble-methods` |
 | `kt:decoding-strategy` | `kt:beam-search` |
+| `kt:decomposed-prompting` | `kt:least-to-most-prompting` |
 | `kt:deep-blue` | `kt:alphazero` |
 | `kt:deep-residual-learning-for-image-recognition` | `kt:residual-connection` |
 | `kt:deep-unsupervised-learning-using-nonequilibrium-thermodynamics` | `kt:diffusion-model` |
@@ -265,6 +267,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:learning-to-rank` | `kt:reranking` |
 | `kt:learning-to-reason-with-llms` | `kt:reasoning-models` |
 | `kt:learning-transferable-visual-models-from-natural-language-supervision` | `kt:clip` |
+| `kt:least-to-most-prompting-enables-complex-reasoning-in-large-language-models` | `kt:least-to-most-prompting` |
 | `kt:lenet` | `kt:imagenet-and-alexnet` |
 | `kt:librispeech` | `kt:automatic-speech-recognition` |
 | `kt:lighthill-report` | `kt:ai-winter` |
