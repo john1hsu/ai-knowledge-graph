@@ -10368,6 +10368,83 @@
       ]
     },
     {
+      "@id": "kt:generative-model",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Generative model",
+      "skos:definition": "A model that learns the probability distribution of the data itself, p(x) or the joint p(x, y), so that it can score how likely an example is and sample new examples, in contrast to a discriminative model, which learns only p(y | x).",
+      "kto:domain": "ml-foundations",
+      "dcterms:created": "2026-11-15",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "CS 236: Deep Generative Models, Lecture 1 (Introduction)",
+          "dcterms:publisher": "Stanford University (Stefano Ermon and Aditya Grover), 2018",
+          "schema:url": "https://deepgenerativemodels.github.io/2018/assets/slides/cs236_lecture1.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "On Discriminative vs. Generative Classifiers: A comparison of logistic regression and naive Bayes",
+          "dcterms:publisher": "NeurIPS 2001 (Andrew Y. Ng and Michael I. Jordan)",
+          "schema:url": "https://papers.nips.cc/paper/2001/hash/7b7a53e239400a13bd6be6c91c4f6c4e-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Background: What is a Generative Model?",
+          "dcterms:publisher": "Google for Developers, Machine Learning course on GANs",
+          "schema:url": "https://developers.google.com/machine-learning/gan/generative",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Deep Generative Modelling: A Comparative Review of VAEs, GANs, Normalizing Flows, Energy-Based and Autoregressive Models",
+          "dcterms:publisher": "Bond-Taylor, Leach, Long and Willcocks, arXiv:2103.04922 (authors' version; DOI 10.1109/TPAMI.2021.3116668)",
+          "schema:url": "https://arxiv.org/abs/2103.04922",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "A Note on the Evaluation of Generative Models",
+          "dcterms:publisher": "ICLR 2016 (Lucas Theis, Aäron van den Oord and Matthias Bethge)",
+          "schema:url": "https://mlanthology.org/iclr/2016/theis2016iclr-note",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/ml-foundations/generative-model.md",
+      "skos:altLabel": [
+        "generative modeling",
+        "generative modelling",
+        "statistical generative model",
+        "deep generative model"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:machine-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:unsupervised-learning"
+        },
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:discriminative-model"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:variational-autoencoder"
+        },
+        {
+          "@id": "kt:generative-adversarial-network"
+        },
+        {
+          "@id": "kt:diffusion-model"
+        }
+      ]
+    },
+    {
       "@id": "kt:hidden-markov-model",
       "@type": "kto:Concept",
       "skos:prefLabel": "Hidden Markov model",

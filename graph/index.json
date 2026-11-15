@@ -1648,6 +1648,28 @@
     ]
   },
   {
+    "id": "kt:generative-model",
+    "title": "Generative model",
+    "aliases": [
+      "generative modeling",
+      "generative modelling",
+      "statistical generative model",
+      "deep generative model"
+    ],
+    "type": "Concept",
+    "domain": "ml-foundations",
+    "file": "articles/ml-foundations/generative-model.md",
+    "created": "2026-11-15",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://deepgenerativemodels.github.io/2018/assets/slides/cs236_lecture1.pdf",
+      "https://papers.nips.cc/paper/2001/hash/7b7a53e239400a13bd6be6c91c4f6c4e-Abstract.html",
+      "https://developers.google.com/machine-learning/gan/generative",
+      "https://arxiv.org/abs/2103.04922",
+      "https://mlanthology.org/iclr/2016/theis2016iclr-note"
+    ]
+  },
+  {
     "id": "kt:geoffrey-hinton",
     "title": "Geoffrey Hinton",
     "aliases": [
