@@ -14,7 +14,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:openai` | `kt:clip`, `kt:gsm8k`, `kt:proximal-policy-optimization`, `kt:concrete-problems-in-ai-safety` |
 | `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
 | `kt:positional-encoding` | `kt:attention-is-all-you-need`, `kt:context-window`, `kt:self-attention`, `kt:transformer-architecture` |
-| `kt:transfer-learning` | `kt:representation-learning`, `kt:fine-tuning`, `kt:parameter-efficient-fine-tuning`, `kt:pretraining` |
 | `kt:unsupervised-learning` | `kt:dimensionality-reduction`, `kt:machine-learning`, `kt:principal-component-analysis`, `kt:supervised-learning` |
 | `kt:adagrad` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:glove` |
 | `kt:ai-hardware` | `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
@@ -53,6 +52,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fairness-accountability-and-transparency` | `kt:algorithmic-bias-and-fairness`, `kt:model-cards` |
 | `kt:faiss` | `kt:approximate-nearest-neighbor-search`, `kt:vector-database` |
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
+| `kt:foundation-model` | `kt:transfer-learning`, `kt:large-language-model` |
 | `kt:highway-network` | `kt:residual-connection`, `kt:residual-connection` |
 | `kt:hugging-face` | `kt:hugging-face-transformers`, `kt:hugging-face-trl` |
 | `kt:hugging-face-peft` | `kt:parameter-efficient-fine-tuning`, `kt:qlora` |
@@ -176,6 +176,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:distilling-the-knowledge-in-a-neural-network` | `kt:knowledge-distillation` |
 | `kt:distributional-shift` | `kt:concrete-problems-in-ai-safety` |
 | `kt:diverse-beam-search` | `kt:beam-search` |
+| `kt:domain-adaptation` | `kt:transfer-learning` |
 | `kt:dram` | `kt:high-bandwidth-memory` |
 | `kt:dropout-a-simple-way-to-prevent-neural-networks-from-overfitting` | `kt:dropout` |
 | `kt:early-stopping` | `kt:regularization` |
@@ -199,7 +200,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:feature-store` | `kt:mlops` |
 | `kt:finetuned-language-models-are-zero-shot-learners` | `kt:instruction-tuning` |
 | `kt:flamingo-a-visual-language-model-for-few-shot-learning` | `kt:vision-language-model` |
-| `kt:foundation-model` | `kt:large-language-model` |
 | `kt:frank-rosenblatt` | `kt:perceptron` |
 | `kt:function-calling` | `kt:structured-output` |
 | `kt:gated-recurrent-unit` | `kt:recurrent-neural-network` |
@@ -309,8 +309,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ms-marco` | `kt:reranking` |
 | `kt:mteb` | `kt:beir` |
 | `kt:multi-query-attention` | `kt:kv-cache` |
+| `kt:multi-task-learning` | `kt:transfer-learning` |
 | `kt:multimodal-learning` | `kt:vision-language-model` |
 | `kt:mycin` | `kt:expert-systems` |
+| `kt:negative-transfer` | `kt:transfer-learning` |
 | `kt:neocognitron` | `kt:convolutional-neural-network` |
 | `kt:neuro-symbolic-ai` | `kt:symbolic-ai` |
 | `kt:new-legislative-framework` | `kt:eu-ai-act` |

@@ -3856,6 +3856,27 @@
     ]
   },
   {
+    "id": "kt:transfer-learning",
+    "title": "Transfer learning",
+    "aliases": [
+      "inductive transfer",
+      "knowledge transfer (machine learning)"
+    ],
+    "type": "Paradigm",
+    "domain": "training-and-adaptation",
+    "file": "articles/training-and-adaptation/transfer-learning.md",
+    "created": "2026-11-15",
+    "maturity": "established",
+    "source_urls": [
+      "https://www.cse.ust.hk/%7eqyang/Docs/2009/tkde_transfer_learning.pdf",
+      "https://proceedings.nips.cc/paper_files/paper/2014/file/375c71349b295fbe2dcdca9206f20a06-Paper.pdf",
+      "https://research.google/pubs/a-theory-of-learning-from-different-domains/",
+      "https://d2l.ai/chapter_computer-vision/fine-tuning.html",
+      "https://www.jmlr.org/papers/v21/20-074.html",
+      "https://arxiv.org/abs/1911.02685v1"
+    ]
+  },
+  {
     "id": "kt:transformer-architecture",
     "title": "Transformer architecture",
     "aliases": [
