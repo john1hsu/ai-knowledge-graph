@@ -1628,6 +1628,113 @@
       ]
     },
     {
+      "@id": "kt:deep-blue",
+      "@type": "kto:Model",
+      "skos:prefLabel": "Deep Blue",
+      "skos:definition": "IBM's purpose-built chess system that combined a parallel supercomputer with hundreds of custom chess chips running massively parallel alpha-beta search and a hand-tuned evaluation function; in May 1997 it beat world champion Garry Kasparov 3.5–2.5, the first match loss by a reigning world champion to a computer under standard tournament time controls.",
+      "kto:domain": "ai-history",
+      "dcterms:created": "2026-11-15",
+      "kto:maturity": "historical",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Deep Blue (authors' manuscript of Artificial Intelligence 134(1–2):57–83, 2002)",
+          "dcterms:publisher": "M. Campbell, A. J. Hoane Jr. and F.-h. Hsu; copy hosted by Northern Arizona University course readings",
+          "schema:url": "https://www.cefns.nau.edu/~edo/Classes/CS470-570_WWW/Readings/Campbell2002.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "IBM's Deep Blue Chess Grandmaster Chips",
+          "dcterms:publisher": "F.-h. Hsu, IEEE Micro 19(2):70–81, March–April 1999 (Computer History Museum archive copy)",
+          "schema:url": "https://archive.computerhistory.org/projects/chess/related_materials/text/5-4.IBM's_deep_blue_chess_grandmaster_chips/5-4.IBM's_deep_blue_chess_grandmaster_chips.hsu-fh.1999.IEEE.062303055.sm.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Deep Blue",
+          "dcterms:publisher": "IBM History",
+          "schema:url": "https://ibm.com/history/deep-blue",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Deep Blue",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/Deep-Blue",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "AIJ Classic Paper Award 2023",
+          "dcterms:publisher": "Artificial Intelligence journal (Elsevier / IJCAI), 2023",
+          "schema:url": "https://aij.ijcai.org/wp-content/uploads/2023/09/AIJ-Classic-Paper-Award-2023.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "20 Years after Deep Blue: How AI Has Advanced Since Conquering Chess",
+          "dcterms:publisher": "Scientific American (interview with Murray Campbell)",
+          "schema:url": "https://www.scientificamerican.com/article/20-years-after-deep-blue-how-ai-has-advanced-since-conquering-chess/",
+          "kto:sourceType": "news"
+        }
+      ],
+      "kto:file": "articles/ai-history/deep-blue.md",
+      "skos:altLabel": [
+        "IBM Deep Blue",
+        "Deep Blue II",
+        "Deeper Blue",
+        "Deep Blue chess computer"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:symbolic-ai"
+        },
+        {
+          "@id": "kt:heuristic-search"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:alphazero"
+        },
+        {
+          "@id": "kt:alphago"
+        },
+        {
+          "@id": "kt:expert-systems"
+        },
+        {
+          "@id": "kt:artificial-intelligence"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:ibm-research"
+        },
+        {
+          "@id": "kt:feng-hsiung-hsu"
+        },
+        {
+          "@id": "kt:murray-campbell"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:alpha-beta-pruning"
+        }
+      ],
+      "kto:runsOn": [
+        {
+          "@id": "kt:application-specific-integrated-circuit"
+        }
+      ],
+      "kto:precededBy": [
+        {
+          "@id": "kt:deep-thought-chess-computer"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:alphazero"
+        }
+      ]
+    },
+    {
       "@id": "kt:eliza",
       "@type": "kto:Model",
       "skos:prefLabel": "ELIZA",

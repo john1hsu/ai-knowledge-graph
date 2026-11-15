@@ -11,6 +11,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:bradley-terry-model` | `kt:chatbot-arena`, `kt:human-evaluation`, `kt:reward-model`, `kt:direct-preference-optimization` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:hidden-markov-model`, `kt:unsupervised-learning` |
 | `kt:google-deepmind` | `kt:google`, `kt:alphago`, `kt:alphazero`, `kt:deep-q-network` |
+| `kt:heuristic-search` | `kt:deep-blue`, `kt:logic-theorist`, `kt:beam-search`, `kt:tree-of-thoughts` |
 | `kt:layer-normalization` | `kt:batch-normalization`, `kt:batch-normalization`, `kt:residual-connection`, `kt:transformer-architecture` |
 | `kt:openai` | `kt:clip`, `kt:gsm8k`, `kt:proximal-policy-optimization`, `kt:concrete-problems-in-ai-safety` |
 | `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
@@ -20,7 +21,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ai-risk-management` | `kt:iso-iec-42001`, `kt:nist-ai-risk-management-framework`, `kt:oecd-ai-principles` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
 | `kt:gradient-descent` | `kt:adam-optimizer`, `kt:backpropagation`, `kt:deep-learning` |
-| `kt:heuristic-search` | `kt:logic-theorist`, `kt:beam-search`, `kt:tree-of-thoughts` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
 | `kt:ms-coco` | `kt:faster-r-cnn`, `kt:object-detection`, `kt:yolo` |
 | `kt:orca-serving-system` | `kt:model-serving`, `kt:batching-and-paged-attention`, `kt:tensorrt-llm` |
@@ -29,9 +29,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
 | `kt:alfworld` | `kt:autogen`, `kt:react-prompting` |
 | `kt:all-reduce` | `kt:data-parallelism`, `kt:distributed-training` |
+| `kt:alpha-beta-pruning` | `kt:deep-blue`, `kt:monte-carlo-tree-search` |
 | `kt:alphago-zero` | `kt:alphago`, `kt:alphazero` |
 | `kt:anthropic` | `kt:model-context-protocol`, `kt:constitutional-ai` |
 | `kt:apache-lucene` | `kt:bm25`, `kt:tf-idf` |
+| `kt:application-specific-integrated-circuit` | `kt:deep-blue`, `kt:tpu` |
 | `kt:autoencoder` | `kt:representation-learning`, `kt:dimensionality-reduction` |
 | `kt:automatic-differentiation` | `kt:pytorch`, `kt:backpropagation` |
 | `kt:bert` | `kt:reranking`, `kt:transformer-architecture` |
@@ -107,10 +109,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alex-graves` | `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
 | `kt:allen-institute-for-ai` | `kt:commonsenseqa` |
 | `kt:allen-newell` | `kt:logic-theorist` |
-| `kt:alpha-beta-pruning` | `kt:monte-carlo-tree-search` |
 | `kt:alphabet-inc` | `kt:google` |
 | `kt:ann-benchmarks` | `kt:approximate-nearest-neighbor-search` |
-| `kt:application-specific-integrated-circuit` | `kt:tpu` |
 | `kt:approximation-by-superpositions-of-a-sigmoidal-function` | `kt:universal-approximation-theorem` |
 | `kt:aqua-rat` | `kt:program-induction-by-rationale-generation` |
 | `kt:arcade-learning-environment` | `kt:deep-q-network` |
@@ -164,8 +164,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:decision-tree` | `kt:ensemble-methods` |
 | `kt:decoding-strategy` | `kt:beam-search` |
 | `kt:decomposed-prompting` | `kt:least-to-most-prompting` |
-| `kt:deep-blue` | `kt:alphazero` |
 | `kt:deep-residual-learning-for-image-recognition` | `kt:residual-connection` |
+| `kt:deep-thought-chess-computer` | `kt:deep-blue` |
 | `kt:deep-unsupervised-learning-using-nonequilibrium-thermodynamics` | `kt:diffusion-model` |
 | `kt:dendral` | `kt:expert-systems` |
 | `kt:dense-passage-retrieval` | `kt:hybrid-search` |
@@ -199,6 +199,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fasttext` | `kt:word2vec` |
 | `kt:feature-engineering` | `kt:representation-learning` |
 | `kt:feature-store` | `kt:mlops` |
+| `kt:feng-hsiung-hsu` | `kt:deep-blue` |
 | `kt:finetuned-language-models-are-zero-shot-learners` | `kt:instruction-tuning` |
 | `kt:flamingo-a-visual-language-model-for-few-shot-learning` | `kt:vision-language-model` |
 | `kt:frank-rosenblatt` | `kt:perceptron` |
@@ -227,6 +228,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hugging-face-diffusers` | `kt:diffusion-model` |
 | `kt:hugging-face-hub` | `kt:model-cards` |
 | `kt:ian-goodfellow` | `kt:generative-adversarial-network` |
+| `kt:ibm-research` | `kt:deep-blue` |
 | `kt:if-beam-search-is-the-answer-what-was-the-question` | `kt:beam-search` |
 | `kt:ilsvrc` | `kt:image-classification` |
 | `kt:image-captioning` | `kt:attention-mechanism` |
@@ -318,6 +320,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:multi-query-attention` | `kt:kv-cache` |
 | `kt:multi-task-learning` | `kt:transfer-learning` |
 | `kt:multimodal-learning` | `kt:vision-language-model` |
+| `kt:murray-campbell` | `kt:deep-blue` |
 | `kt:mycin` | `kt:expert-systems` |
 | `kt:negative-transfer` | `kt:transfer-learning` |
 | `kt:neocognitron` | `kt:convolutional-neural-network` |

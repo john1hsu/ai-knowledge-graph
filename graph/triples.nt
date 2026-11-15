@@ -1335,6 +1335,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/data-parallelism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-infrastructure-and-mlops" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/data-parallelism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/data-parallelism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <http://www.w3.org/2000/01/rdf-schema#label> "Deep Blue" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <http://www.w3.org/2004/02/skos/core#altLabel> "Deep Blue II" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <http://www.w3.org/2004/02/skos/core#altLabel> "Deep Blue chess computer" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <http://www.w3.org/2004/02/skos/core#altLabel> "Deeper Blue" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <http://www.w3.org/2004/02/skos/core#altLabel> "IBM Deep Blue" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/heuristic-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <http://www.w3.org/2004/02/skos/core#definition> "IBM's purpose-built chess system that combined a parallel supercomputer with hundreds of custom chess chips running massively parallel alpha-beta search and a hand-tuned evaluation function; in May 1997 it beat world champion Garry Kasparov 3.5–2.5, the first match loss by a reigning world champion to a computer under standard tournament time controls." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <http://www.w3.org/2004/02/skos/core#prefLabel> "Deep Blue" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/alphago> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/alphazero> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/expert-systems> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/alpha-beta-pruning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/alphazero> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/feng-hsiung-hsu> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/ibm-research> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/murray-campbell> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-history" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "historical" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <https://github.com/john1hsu/ai-knowledge-graph/ontology#precededBy> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-thought-chess-computer> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <https://github.com/john1hsu/ai-knowledge-graph/ontology#runsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/application-specific-integrated-circuit> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Field> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> <http://www.w3.org/2000/01/rdf-schema#label> "Deep learning" .
@@ -5714,6 +5744,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/data-parallelism/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/data-parallelism/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/data-parallelism/s6> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/1910.02054" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s1> <http://purl.org/dc/terms/publisher> "M. Campbell, A. J. Hoane Jr. and F.-h. Hsu; copy hosted by Northern Arizona University course readings" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s1> <http://purl.org/dc/terms/title> "Deep Blue (authors' manuscript of Artificial Intelligence 134(1–2):57–83, 2002)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s1> <https://schema.org/url> "https://www.cefns.nau.edu/~edo/Classes/CS470-570_WWW/Readings/Campbell2002.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s2> <http://purl.org/dc/terms/publisher> "F.-h. Hsu, IEEE Micro 19(2):70–81, March–April 1999 (Computer History Museum archive copy)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s2> <http://purl.org/dc/terms/title> "IBM's Deep Blue Chess Grandmaster Chips" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s2> <https://schema.org/url> "https://archive.computerhistory.org/projects/chess/related_materials/text/5-4.IBM's_deep_blue_chess_grandmaster_chips/5-4.IBM's_deep_blue_chess_grandmaster_chips.hsu-fh.1999.IEEE.062303055.sm.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s3> <http://purl.org/dc/terms/publisher> "IBM History" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s3> <http://purl.org/dc/terms/title> "Deep Blue" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s3> <https://schema.org/url> "https://ibm.com/history/deep-blue" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s4> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s4> <http://purl.org/dc/terms/title> "Deep Blue" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s4> <https://schema.org/url> "https://www.britannica.com/topic/Deep-Blue" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s5> <http://purl.org/dc/terms/publisher> "Artificial Intelligence journal (Elsevier / IJCAI), 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s5> <http://purl.org/dc/terms/title> "AIJ Classic Paper Award 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s5> <https://schema.org/url> "https://aij.ijcai.org/wp-content/uploads/2023/09/AIJ-Classic-Paper-Award-2023.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s6> <http://purl.org/dc/terms/publisher> "Scientific American (interview with Murray Campbell)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s6> <http://purl.org/dc/terms/title> "20 Years after Deep Blue: How AI Has Advanced Since Conquering Chess" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s6> <https://schema.org/url> "https://www.scientificamerican.com/article/20-years-after-deep-blue-how-ai-has-advanced-since-conquering-chess/" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s1> <http://purl.org/dc/terms/publisher> "Nature 521(7553), 436–444 (2015) (LeCun, Bengio and Hinton), RePEc/IDEAS record, doi:10.1038/nature14539" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s1> <http://purl.org/dc/terms/title> "Deep learning" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-learning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

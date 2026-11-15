@@ -1126,6 +1126,29 @@
     ]
   },
   {
+    "id": "kt:deep-blue",
+    "title": "Deep Blue",
+    "aliases": [
+      "IBM Deep Blue",
+      "Deep Blue II",
+      "Deeper Blue",
+      "Deep Blue chess computer"
+    ],
+    "type": "Model",
+    "domain": "ai-history",
+    "file": "articles/ai-history/deep-blue.md",
+    "created": "2026-11-15",
+    "maturity": "historical",
+    "source_urls": [
+      "https://www.cefns.nau.edu/~edo/Classes/CS470-570_WWW/Readings/Campbell2002.pdf",
+      "https://archive.computerhistory.org/projects/chess/related_materials/text/5-4.IBM's_deep_blue_chess_grandmaster_chips/5-4.IBM's_deep_blue_chess_grandmaster_chips.hsu-fh.1999.IEEE.062303055.sm.pdf",
+      "https://ibm.com/history/deep-blue",
+      "https://www.britannica.com/topic/Deep-Blue",
+      "https://aij.ijcai.org/wp-content/uploads/2023/09/AIJ-Classic-Paper-Award-2023.pdf",
+      "https://www.scientificamerican.com/article/20-years-after-deep-blue-how-ai-has-advanced-since-conquering-chess/"
+    ]
+  },
+  {
     "id": "kt:deep-learning",
     "title": "Deep learning",
     "aliases": [
