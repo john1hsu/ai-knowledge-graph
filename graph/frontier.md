@@ -5,7 +5,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:artificial-intelligence`, `kt:geoffrey-hinton`, `kt:perceptron`, `kt:symbolic-ai` |
-| `kt:vanishing-gradient-problem` | `kt:activation-function`, `kt:batch-normalization`, `kt:long-short-term-memory`, `kt:recurrent-neural-network`, `kt:residual-connection` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:ai-hardware` | `kt:ai-accelerator`, `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
 | `kt:bradley-terry-model` | `kt:chatbot-arena`, `kt:human-evaluation`, `kt:reward-model`, `kt:direct-preference-optimization` |
@@ -221,6 +220,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:gpt-j` | `kt:toolformer` |
 | `kt:gptq-accurate-post-training-quantization-for-generative-pre-trained-transformers` | `kt:gptq` |
 | `kt:gradient-based-learning-applied-to-document-recognition` | `kt:convolutional-neural-network` |
+| `kt:gradient-clipping` | `kt:vanishing-gradient-problem` |
 | `kt:graph-of-thoughts` | `kt:tree-of-thoughts` |
 | `kt:grouped-query-attention` | `kt:kv-cache` |
 | `kt:harold-hotelling` | `kt:principal-component-analysis` |
@@ -269,6 +269,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:language-server-protocol` | `kt:model-context-protocol` |
 | `kt:large-language-monkeys` | `kt:self-consistency` |
 | `kt:lasso` | `kt:regularization` |
+| `kt:learning-long-term-dependencies-with-gradient-descent-is-difficult` | `kt:vanishing-gradient-problem` |
 | `kt:learning-representations-by-back-propagating-errors` | `kt:backpropagation` |
 | `kt:learning-to-predict-by-the-methods-of-temporal-differences` | `kt:temporal-difference-learning` |
 | `kt:learning-to-rank` | `kt:reranking` |
@@ -441,6 +442,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:warren-mcculloch` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:wasserstein-gan` | `kt:generative-adversarial-network` |
 | `kt:weak-to-strong-generalization` | `kt:scalable-oversight` |
+| `kt:weight-initialization` | `kt:vanishing-gradient-problem` |
 | `kt:whisper` | `kt:automatic-speech-recognition` |
 | `kt:yann-lecun` | `kt:convolutional-neural-network` |
 | `kt:yoshua-bengio` | `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |

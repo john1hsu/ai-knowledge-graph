@@ -4205,6 +4205,27 @@
     ]
   },
   {
+    "id": "kt:vanishing-gradient-problem",
+    "title": "Vanishing gradient problem",
+    "aliases": [
+      "vanishing gradients",
+      "vanishing and exploding gradients",
+      "exploding gradient problem"
+    ],
+    "type": "Concept",
+    "domain": "deep-learning",
+    "file": "articles/deep-learning/vanishing-gradient-problem.md",
+    "created": "2026-11-15",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://proceedings.mlr.press/v28/pascanu13.html",
+      "https://ar5iv.arxiv.org/html/1211.5063",
+      "https://proceedings.mlr.press/v9/glorot10a.html",
+      "https://d2l.ai/chapter_multilayer-perceptrons/numerical-stability-and-init.html",
+      "https://ar5iv.labs.arxiv.org/html/1512.03385v1"
+    ]
+  },
+  {
     "id": "kt:vector-database",
     "title": "Vector database",
     "aliases": [

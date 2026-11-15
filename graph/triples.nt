@@ -9678,6 +9678,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s6> <https://schema.org/url> "https://cs.brown.edu/courses/csci1820/spring-2022/resources/Dempster_Laird_Rubin_1977.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vanishing-gradient-problem/s1> <http://purl.org/dc/terms/publisher> "ICML 2013, PMLR 28(3):1310–1318 (Pascanu, Mikolov and Bengio)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vanishing-gradient-problem/s1> <http://purl.org/dc/terms/title> "On the difficulty of training recurrent neural networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vanishing-gradient-problem/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vanishing-gradient-problem/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vanishing-gradient-problem/s1> <https://schema.org/url> "https://proceedings.mlr.press/v28/pascanu13.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vanishing-gradient-problem/s2> <http://purl.org/dc/terms/publisher> "arXiv / ar5iv (Pascanu, Mikolov and Bengio)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vanishing-gradient-problem/s2> <http://purl.org/dc/terms/title> "On the difficulty of training Recurrent Neural Networks (arXiv 1211.5063, full text)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vanishing-gradient-problem/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vanishing-gradient-problem/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vanishing-gradient-problem/s2> <https://schema.org/url> "https://ar5iv.arxiv.org/html/1211.5063" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vanishing-gradient-problem/s3> <http://purl.org/dc/terms/publisher> "AISTATS 2010, PMLR 9:249–256 (Glorot and Bengio)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vanishing-gradient-problem/s3> <http://purl.org/dc/terms/title> "Understanding the difficulty of training deep feedforward neural networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vanishing-gradient-problem/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vanishing-gradient-problem/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vanishing-gradient-problem/s3> <https://schema.org/url> "https://proceedings.mlr.press/v9/glorot10a.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vanishing-gradient-problem/s4> <http://purl.org/dc/terms/publisher> "d2l.ai (Zhang, Lipton, Li and Smola)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vanishing-gradient-problem/s4> <http://purl.org/dc/terms/title> "Dive into Deep Learning, §5.4 Numerical Stability and Initialization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vanishing-gradient-problem/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vanishing-gradient-problem/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vanishing-gradient-problem/s4> <https://schema.org/url> "https://d2l.ai/chapter_multilayer-perceptrons/numerical-stability-and-init.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vanishing-gradient-problem/s5> <http://purl.org/dc/terms/publisher> "arXiv / ar5iv (He, Zhang, Ren and Sun, Microsoft Research)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vanishing-gradient-problem/s5> <http://purl.org/dc/terms/title> "Deep Residual Learning for Image Recognition (arXiv 1512.03385v1, full text)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vanishing-gradient-problem/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vanishing-gradient-problem/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/vanishing-gradient-problem/s5> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/1512.03385v1" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/vector-database/s1> <http://purl.org/dc/terms/publisher> "The VLDB Journal 33, pp. 1591-1615, 2024 (Pan, Wang and Li)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/vector-database/s1> <http://purl.org/dc/terms/title> "Survey of vector database management systems" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/vector-database/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -10473,6 +10498,29 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/k-means-clustering> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> <http://www.w3.org/2000/01/rdf-schema#label> "Vanishing gradient problem" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> <http://www.w3.org/2004/02/skos/core#altLabel> "exploding gradient problem" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> <http://www.w3.org/2004/02/skos/core#altLabel> "vanishing and exploding gradients" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> <http://www.w3.org/2004/02/skos/core#altLabel> "vanishing gradients" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> <http://www.w3.org/2004/02/skos/core#definition> "The tendency of error gradients to shrink exponentially as backpropagation carries them through many layers or time steps, so that early layers of deep or recurrent networks learn very slowly or not at all; its mirror image, exploding gradients, makes updates blow up instead." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vanishing gradient problem" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/gradient-clipping> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/vanishing-gradient-problem/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/vanishing-gradient-problem/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/vanishing-gradient-problem/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/vanishing-gradient-problem/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/vanishing-gradient-problem/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "deep-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/learning-long-term-dependencies-with-gradient-descent-is-difficult> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/vector-database> <http://purl.org/dc/terms/created> "2026-11-14" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/vector-database> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Tool> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/vector-database> <http://www.w3.org/2000/01/rdf-schema#label> "Vector database" .

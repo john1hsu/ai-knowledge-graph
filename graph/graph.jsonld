@@ -6359,6 +6359,83 @@
       ]
     },
     {
+      "@id": "kt:vanishing-gradient-problem",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Vanishing gradient problem",
+      "skos:definition": "The tendency of error gradients to shrink exponentially as backpropagation carries them through many layers or time steps, so that early layers of deep or recurrent networks learn very slowly or not at all; its mirror image, exploding gradients, makes updates blow up instead.",
+      "kto:domain": "deep-learning",
+      "dcterms:created": "2026-11-15",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "On the difficulty of training recurrent neural networks",
+          "dcterms:publisher": "ICML 2013, PMLR 28(3):1310–1318 (Pascanu, Mikolov and Bengio)",
+          "schema:url": "https://proceedings.mlr.press/v28/pascanu13.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "On the difficulty of training Recurrent Neural Networks (arXiv 1211.5063, full text)",
+          "dcterms:publisher": "arXiv / ar5iv (Pascanu, Mikolov and Bengio)",
+          "schema:url": "https://ar5iv.arxiv.org/html/1211.5063",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Understanding the difficulty of training deep feedforward neural networks",
+          "dcterms:publisher": "AISTATS 2010, PMLR 9:249–256 (Glorot and Bengio)",
+          "schema:url": "https://proceedings.mlr.press/v9/glorot10a.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Dive into Deep Learning, §5.4 Numerical Stability and Initialization",
+          "dcterms:publisher": "d2l.ai (Zhang, Lipton, Li and Smola)",
+          "schema:url": "https://d2l.ai/chapter_multilayer-perceptrons/numerical-stability-and-init.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Deep Residual Learning for Image Recognition (arXiv 1512.03385v1, full text)",
+          "dcterms:publisher": "arXiv / ar5iv (He, Zhang, Ren and Sun, Microsoft Research)",
+          "schema:url": "https://ar5iv.labs.arxiv.org/html/1512.03385v1",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/deep-learning/vanishing-gradient-problem.md",
+      "skos:altLabel": [
+        "vanishing gradients",
+        "vanishing and exploding gradients",
+        "exploding gradient problem"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:backpropagation"
+        },
+        {
+          "@id": "kt:deep-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:recurrent-neural-network"
+        },
+        {
+          "@id": "kt:long-short-term-memory"
+        },
+        {
+          "@id": "kt:activation-function"
+        },
+        {
+          "@id": "kt:weight-initialization"
+        },
+        {
+          "@id": "kt:gradient-clipping"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:learning-long-term-dependencies-with-gradient-descent-is-difficult"
+        }
+      ]
+    },
+    {
       "@id": "kt:ai-evaluation",
       "@type": "kto:Field",
       "skos:prefLabel": "Evaluation of AI systems",
