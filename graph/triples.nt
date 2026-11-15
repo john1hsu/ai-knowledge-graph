@@ -3293,6 +3293,30 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/perplexity> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "evaluation-and-benchmarks" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/perplexity> <https://github.com/john1hsu/ai-knowledge-graph/ontology#extends> <https://github.com/john1hsu/ai-knowledge-graph/id/information-theory> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/perplexity> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> <http://www.w3.org/2000/01/rdf-schema#label> "Planning in LLMs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> <http://www.w3.org/2004/02/skos/core#altLabel> "LLM agent planning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> <http://www.w3.org/2004/02/skos/core#altLabel> "LLM planning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> <http://www.w3.org/2004/02/skos/core#altLabel> "LLM-based planning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> <http://www.w3.org/2004/02/skos/core#altLabel> "planning with large language models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> <http://www.w3.org/2004/02/skos/core#definition> "The use of large language models to turn a goal into an ordered sequence of subgoals or actions, either by generating plans directly (task decomposition, plan-then-execute prompting) or by working alongside classical planners and external verifiers that check and repair what the model proposes." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> <http://www.w3.org/2004/02/skos/core#prefLabel> "Planning in LLMs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/agent-memory> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/react-prompting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/tree-of-thoughts> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "agents-and-tool-use" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/automated-planning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <http://www.w3.org/2000/01/rdf-schema#label> "Policy gradient methods" .
@@ -7750,6 +7774,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s5> <https://schema.org/url> "https://arxiv.org/html/2410.23771v5" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s1> <http://purl.org/dc/terms/publisher> "arXiv 2402.02716 (Huang et al., authors' version, Feb 2024)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s1> <http://purl.org/dc/terms/title> "Understanding the planning of LLM agents: A survey" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s1> <https://schema.org/url> "https://arxiv.org/abs/2402.02716v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s2> <http://purl.org/dc/terms/publisher> "ICML 2022 (Huang, Abbeel, Pathak, Mordatch; authors' arXiv version 2201.07207v2)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s2> <http://purl.org/dc/terms/title> "Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s2> <https://schema.org/url> "https://arxiv.org/abs/2201.07207v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s3> <http://purl.org/dc/terms/publisher> "ACL 2023, Proceedings of the 61st Annual Meeting, pp. 2609–2634 (Wang et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s3> <http://purl.org/dc/terms/title> "Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s3> <https://schema.org/url> "https://aclanthology.org/2023.acl-long.147.xml" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s4> <http://purl.org/dc/terms/publisher> "NeurIPS 2023 (Valmeekam, Marquez, Sreedharan, Kambhampati)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s4> <http://purl.org/dc/terms/title> "On the Planning Abilities of Large Language Models – A Critical Investigation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s4> <https://schema.org/url> "https://proceedings.neurips.cc/paper_files/paper/2023/hash/efb2072a358cefb75886a315a6fcf880-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s5> <http://purl.org/dc/terms/publisher> "arXiv 2304.11477v3 (Liu, Jiang, Zhang, Liu, Zhang, Biswas, Stone; authors' version)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s5> <http://purl.org/dc/terms/title> "LLM+P: Empowering Large Language Models with Optimal Planning Proficiency" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s5> <https://schema.org/url> "https://arxiv.org/abs/2304.11477v3" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s6> <http://purl.org/dc/terms/publisher> "ICML 2024, PMLR 235 (Kambhampati et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s6> <http://purl.org/dc/terms/title> "Position: LLMs Can't Plan, But Can Help Planning in LLM-Modulo Frameworks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s6> <https://schema.org/url> "https://proceedings.mlr.press/v235/kambhampati24a.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s1> <http://purl.org/dc/terms/publisher> "Advances in Neural Information Processing Systems 12 (NIPS 1999) (Sutton, McAllester, Singh and Mansour)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s1> <http://purl.org/dc/terms/title> "Policy Gradient Methods for Reinforcement Learning with Function Approximation" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

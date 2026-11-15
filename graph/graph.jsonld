@@ -792,6 +792,89 @@
       ]
     },
     {
+      "@id": "kt:planning-in-llms",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Planning in LLMs",
+      "skos:definition": "The use of large language models to turn a goal into an ordered sequence of subgoals or actions, either by generating plans directly (task decomposition, plan-then-execute prompting) or by working alongside classical planners and external verifiers that check and repair what the model proposes.",
+      "kto:domain": "agents-and-tool-use",
+      "dcterms:created": "2026-11-15",
+      "kto:maturity": "emerging",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Understanding the planning of LLM agents: A survey",
+          "dcterms:publisher": "arXiv 2402.02716 (Huang et al., authors' version, Feb 2024)",
+          "schema:url": "https://arxiv.org/abs/2402.02716v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents",
+          "dcterms:publisher": "ICML 2022 (Huang, Abbeel, Pathak, Mordatch; authors' arXiv version 2201.07207v2)",
+          "schema:url": "https://arxiv.org/abs/2201.07207v2",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models",
+          "dcterms:publisher": "ACL 2023, Proceedings of the 61st Annual Meeting, pp. 2609–2634 (Wang et al.)",
+          "schema:url": "https://aclanthology.org/2023.acl-long.147.xml",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "On the Planning Abilities of Large Language Models – A Critical Investigation",
+          "dcterms:publisher": "NeurIPS 2023 (Valmeekam, Marquez, Sreedharan, Kambhampati)",
+          "schema:url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/efb2072a358cefb75886a315a6fcf880-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "LLM+P: Empowering Large Language Models with Optimal Planning Proficiency",
+          "dcterms:publisher": "arXiv 2304.11477v3 (Liu, Jiang, Zhang, Liu, Zhang, Biswas, Stone; authors' version)",
+          "schema:url": "https://arxiv.org/abs/2304.11477v3",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Position: LLMs Can't Plan, But Can Help Planning in LLM-Modulo Frameworks",
+          "dcterms:publisher": "ICML 2024, PMLR 235 (Kambhampati et al.)",
+          "schema:url": "https://proceedings.mlr.press/v235/kambhampati24a.html",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/agents-and-tool-use/planning-in-llms.md",
+      "skos:altLabel": [
+        "LLM planning",
+        "planning with large language models",
+        "LLM-based planning",
+        "LLM agent planning"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-agent"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:react-prompting"
+        },
+        {
+          "@id": "kt:tree-of-thoughts"
+        },
+        {
+          "@id": "kt:least-to-most-prompting"
+        },
+        {
+          "@id": "kt:agent-memory"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:automated-planning"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:chain-of-thought"
+        }
+      ]
+    },
+    {
       "@id": "kt:react-prompting",
       "@type": "kto:Technique",
       "skos:prefLabel": "ReAct prompting",

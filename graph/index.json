@@ -2774,6 +2774,29 @@
     ]
   },
   {
+    "id": "kt:planning-in-llms",
+    "title": "Planning in LLMs",
+    "aliases": [
+      "LLM planning",
+      "planning with large language models",
+      "LLM-based planning",
+      "LLM agent planning"
+    ],
+    "type": "Concept",
+    "domain": "agents-and-tool-use",
+    "file": "articles/agents-and-tool-use/planning-in-llms.md",
+    "created": "2026-11-15",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://arxiv.org/abs/2402.02716v1",
+      "https://arxiv.org/abs/2201.07207v2",
+      "https://aclanthology.org/2023.acl-long.147.xml",
+      "https://proceedings.neurips.cc/paper_files/paper/2023/hash/efb2072a358cefb75886a315a6fcf880-Abstract.html",
+      "https://arxiv.org/abs/2304.11477v3",
+      "https://proceedings.mlr.press/v235/kambhampati24a.html"
+    ]
+  },
+  {
     "id": "kt:policy-gradient",
     "title": "Policy gradient methods",
     "aliases": [
