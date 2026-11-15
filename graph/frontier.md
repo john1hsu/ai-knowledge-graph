@@ -9,7 +9,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent`, `kt:generative-agents-interactive-simulacra-of-human-behavior`, `kt:voyager`, `kt:tree-of-thoughts` |
 | `kt:vanishing-gradient-problem` | `kt:activation-function`, `kt:batch-normalization`, `kt:long-short-term-memory`, `kt:recurrent-neural-network`, `kt:residual-connection` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
-| `kt:chatbot-arena` | `kt:human-evaluation`, `kt:human-evaluation`, `kt:llm-as-a-judge`, `kt:vllm` |
 | `kt:google-deepmind` | `kt:google`, `kt:alphago`, `kt:alphazero`, `kt:deep-q-network` |
 | `kt:layer-normalization` | `kt:batch-normalization`, `kt:batch-normalization`, `kt:residual-connection`, `kt:transformer-architecture` |
 | `kt:natural-language-processing` | `kt:artificial-intelligence`, `kt:eliza`, `kt:prompt-engineering`, `kt:information-retrieval` |
@@ -21,6 +20,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:adagrad` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:glove` |
 | `kt:ai-hardware` | `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
+| `kt:bradley-terry-model` | `kt:chatbot-arena`, `kt:human-evaluation`, `kt:direct-preference-optimization` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:hidden-markov-model` |
 | `kt:gradient-descent` | `kt:adam-optimizer`, `kt:backpropagation`, `kt:deep-learning` |
 | `kt:heuristic-search` | `kt:logic-theorist`, `kt:beam-search`, `kt:tree-of-thoughts` |
@@ -39,7 +39,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:autoencoder` | `kt:representation-learning`, `kt:dimensionality-reduction` |
 | `kt:automatic-differentiation` | `kt:pytorch`, `kt:backpropagation` |
 | `kt:bert` | `kt:reranking`, `kt:transformer-architecture` |
-| `kt:bradley-terry-model` | `kt:human-evaluation`, `kt:direct-preference-optimization` |
 | `kt:catastrophic-forgetting` | `kt:fine-tuning`, `kt:parameter-efficient-fine-tuning` |
 | `kt:computing-power-and-the-governance-of-artificial-intelligence` | `kt:compute-governance`, `kt:compute-governance` |
 | `kt:contrastive-learning` | `kt:clip`, `kt:representation-learning` |
@@ -71,6 +70,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:microsoft-research` | `kt:autogen`, `kt:residual-connection` |
 | `kt:model-compression-caruana-2006` | `kt:model-compression`, `kt:knowledge-distillation` |
 | `kt:monte-carlo-methods` | `kt:monte-carlo-tree-search`, `kt:temporal-difference-learning` |
+| `kt:mt-bench` | `kt:chatbot-arena`, `kt:llm-as-a-judge` |
 | `kt:multi-armed-bandit` | `kt:exploration-exploitation`, `kt:monte-carlo-tree-search` |
 | `kt:muzero` | `kt:alphazero`, `kt:monte-carlo-tree-search` |
 | `kt:named-entity-recognition` | `kt:conditional-random-field`, `kt:glove` |
@@ -136,6 +136,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chain-of-thought-prompting-elicits-reasoning-in-large-language-models` | `kt:chain-of-thought` |
 | `kt:charles-goodhart` | `kt:goodharts-law` |
 | `kt:chatbot` | `kt:eliza` |
+| `kt:chatbot-arena-an-open-platform-for-evaluating-llms-by-human-preference` | `kt:chatbot-arena` |
 | `kt:christopher-watkins` | `kt:q-learning` |
 | `kt:cifar-10` | `kt:image-classification` |
 | `kt:cityscapes` | `kt:semantic-segmentation` |
@@ -272,6 +273,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:linear-probing` | `kt:fine-tuning` |
 | `kt:livebench` | `kt:benchmark-contamination` |
 | `kt:llmops` | `kt:mlops` |
+| `kt:lmsys` | `kt:chatbot-arena` |
 | `kt:loftq` | `kt:qlora` |
 | `kt:logistic-regression` | `kt:conditional-random-field` |
 | `kt:long-short-term-memory-1997` | `kt:long-short-term-memory` |
@@ -305,7 +307,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:monte-carlo-dropout` | `kt:dropout` |
 | `kt:mrkl-systems` | `kt:tool-use` |
 | `kt:ms-marco` | `kt:reranking` |
-| `kt:mt-bench` | `kt:llm-as-a-judge` |
 | `kt:mteb` | `kt:beir` |
 | `kt:multi-query-attention` | `kt:kv-cache` |
 | `kt:multimodal-learning` | `kt:vision-language-model` |
@@ -391,6 +392,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tensorflow` | `kt:google` |
 | `kt:tensorflow-serving` | `kt:model-serving` |
 | `kt:text-to-image-generation` | `kt:diffusion-model` |
+| `kt:the-leaderboard-illusion` | `kt:chatbot-arena` |
 | `kt:the-logic-theory-machine-a-complex-information-processing-system` | `kt:logic-theorist` |
 | `kt:the-perceptron-a-probabilistic-model-for-information-storage-and-organization-in-the-brain` | `kt:perceptron` |
 | `kt:thompson-sampling` | `kt:exploration-exploitation` |

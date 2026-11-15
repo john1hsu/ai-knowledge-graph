@@ -827,6 +827,29 @@
     ]
   },
   {
+    "id": "kt:chatbot-arena",
+    "title": "Chatbot Arena",
+    "aliases": [
+      "LMArena",
+      "LMSYS Chatbot Arena",
+      "Arena (AI evaluation platform)",
+      "LM Arena"
+    ],
+    "type": "Benchmark",
+    "domain": "evaluation-and-benchmarks",
+    "file": "articles/evaluation-and-benchmarks/chatbot-arena.md",
+    "created": "2026-11-15",
+    "maturity": "established",
+    "source_urls": [
+      "https://proceedings.mlr.press/v235/chiang24b.html",
+      "https://arxiv.org/html/2403.04132v1",
+      "https://proceedings.neurips.cc/paper_files/paper/2023/hash/91f18a1287b398d378ef22505bf41832-Abstract.html",
+      "https://arxiv.org/abs/2504.20879",
+      "https://arena.ai/blog/lmarena-is-now-arena/",
+      "https://news.bloomberglaw.com/private-equity/lmarena-goes-from-academic-project-to-600-million-startup"
+    ]
+  },
+  {
     "id": "kt:chinese-room-argument",
     "title": "Chinese room argument",
     "aliases": [

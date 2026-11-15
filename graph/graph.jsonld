@@ -6242,6 +6242,110 @@
       ]
     },
     {
+      "@id": "kt:chatbot-arena",
+      "@type": "kto:Benchmark",
+      "skos:prefLabel": "Chatbot Arena",
+      "skos:definition": "A crowdsourced, live evaluation platform, started at UC Berkeley in 2023 and later run as the company LMArena (renamed Arena in 2026), that ranks language models from anonymous pairwise human preference votes using a Bradley-Terry model.",
+      "kto:domain": "evaluation-and-benchmarks",
+      "dcterms:created": "2026-11-15",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference",
+          "dcterms:publisher": "Proceedings of ICML 2024, PMLR 235:8359-8388 (Chiang, Zheng, Sheng, Angelopoulos et al.)",
+          "schema:url": "https://proceedings.mlr.press/v235/chiang24b.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference (arXiv 2403.04132v1, full text)",
+          "dcterms:publisher": "arXiv (Chiang et al., 2024)",
+          "schema:url": "https://arxiv.org/html/2403.04132v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena",
+          "dcterms:publisher": "NeurIPS 2023 Datasets and Benchmarks Track (Zheng, Chiang, Sheng et al.)",
+          "schema:url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/91f18a1287b398d378ef22505bf41832-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Leaderboard Illusion",
+          "dcterms:publisher": "arXiv 2504.20879 (Singh, Nan, Wang et al., 2025)",
+          "schema:url": "https://arxiv.org/abs/2504.20879",
+          "kto:sourceType": "preprint"
+        },
+        {
+          "dcterms:title": "LMArena is now Arena",
+          "dcterms:publisher": "Arena (company blog), January 2026",
+          "schema:url": "https://arena.ai/blog/lmarena-is-now-arena/",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Chatbot Arena Group Goes From Academic Project to $600 Million Startup",
+          "dcterms:publisher": "Bloomberg Law, 21 May 2025",
+          "schema:url": "https://news.bloomberglaw.com/private-equity/lmarena-goes-from-academic-project-to-600-million-startup",
+          "kto:sourceType": "news"
+        }
+      ],
+      "kto:file": "articles/evaluation-and-benchmarks/chatbot-arena.md",
+      "skos:altLabel": [
+        "LMArena",
+        "LMSYS Chatbot Arena",
+        "Arena (AI evaluation platform)",
+        "LM Arena"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-evaluation"
+        },
+        {
+          "@id": "kt:human-evaluation"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:llm-as-a-judge"
+        },
+        {
+          "@id": "kt:mt-bench"
+        },
+        {
+          "@id": "kt:benchmark-contamination"
+        },
+        {
+          "@id": "kt:goodharts-law"
+        },
+        {
+          "@id": "kt:rlhf"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:chatbot-arena-an-open-platform-for-evaluating-llms-by-human-preference"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:bradley-terry-model"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:lmsys"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:the-leaderboard-illusion"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:mmlu"
+        }
+      ]
+    },
+    {
       "@id": "kt:commonsenseqa",
       "@type": "kto:Benchmark",
       "skos:prefLabel": "CommonsenseQA",

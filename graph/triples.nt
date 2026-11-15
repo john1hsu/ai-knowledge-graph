@@ -977,6 +977,35 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought-prompting-elicits-reasoning-in-large-language-models> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Benchmark> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> <http://www.w3.org/2000/01/rdf-schema#label> "Chatbot Arena" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> <http://www.w3.org/2004/02/skos/core#altLabel> "Arena (AI evaluation platform)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> <http://www.w3.org/2004/02/skos/core#altLabel> "LM Arena" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> <http://www.w3.org/2004/02/skos/core#altLabel> "LMArena" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> <http://www.w3.org/2004/02/skos/core#altLabel> "LMSYS Chatbot Arena" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> <http://www.w3.org/2004/02/skos/core#definition> "A crowdsourced, live evaluation platform, started at UC Berkeley in 2023 and later run as the company LMArena (renamed Arena in 2026), that ranks language models from anonymous pairwise human preference votes using a Bradley-Terry model." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chatbot Arena" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/goodharts-law> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/mt-bench> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/bradley-terry-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/lmsys> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "evaluation-and-benchmarks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena-an-open-platform-for-evaluating-llms-by-human-preference> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/the-leaderboard-illusion> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chinese-room-argument> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chinese-room-argument> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chinese-room-argument> <http://www.w3.org/2000/01/rdf-schema#label> "Chinese room argument" .
@@ -5128,6 +5157,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s5> <https://schema.org/url> "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/chain-of-thought" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s1> <http://purl.org/dc/terms/publisher> "Proceedings of ICML 2024, PMLR 235:8359-8388 (Chiang, Zheng, Sheng, Angelopoulos et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s1> <http://purl.org/dc/terms/title> "Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s1> <https://schema.org/url> "https://proceedings.mlr.press/v235/chiang24b.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s2> <http://purl.org/dc/terms/publisher> "arXiv (Chiang et al., 2024)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s2> <http://purl.org/dc/terms/title> "Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference (arXiv 2403.04132v1, full text)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s2> <https://schema.org/url> "https://arxiv.org/html/2403.04132v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s3> <http://purl.org/dc/terms/publisher> "NeurIPS 2023 Datasets and Benchmarks Track (Zheng, Chiang, Sheng et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s3> <http://purl.org/dc/terms/title> "Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s3> <https://schema.org/url> "https://proceedings.neurips.cc/paper_files/paper/2023/hash/91f18a1287b398d378ef22505bf41832-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s4> <http://purl.org/dc/terms/publisher> "arXiv 2504.20879 (Singh, Nan, Wang et al., 2025)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s4> <http://purl.org/dc/terms/title> "The Leaderboard Illusion" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "preprint" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s4> <https://schema.org/url> "https://arxiv.org/abs/2504.20879" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s5> <http://purl.org/dc/terms/publisher> "Arena (company blog), January 2026" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s5> <http://purl.org/dc/terms/title> "LMArena is now Arena" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s5> <https://schema.org/url> "https://arena.ai/blog/lmarena-is-now-arena/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s6> <http://purl.org/dc/terms/publisher> "Bloomberg Law, 21 May 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s6> <http://purl.org/dc/terms/title> "Chatbot Arena Group Goes From Academic Project to $600 Million Startup" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/chatbot-arena/s6> <https://schema.org/url> "https://news.bloomberglaw.com/private-equity/lmarena-goes-from-academic-project-to-600-million-startup" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/chinese-room-argument/s1> <http://purl.org/dc/terms/publisher> "J. R. Searle, The Behavioral and Brain Sciences 3 (1980) 417–457 (copy hosted for Yale CPSC 458)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/chinese-room-argument/s1> <http://purl.org/dc/terms/title> "Minds, brains, and programs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/chinese-room-argument/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
