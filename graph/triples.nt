@@ -3997,6 +3997,34 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/beir> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-segmentation> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-segmentation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Application> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-segmentation> <http://www.w3.org/2000/01/rdf-schema#label> "Semantic segmentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-segmentation> <http://www.w3.org/2004/02/skos/core#altLabel> "dense semantic labeling" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-segmentation> <http://www.w3.org/2004/02/skos/core#altLabel> "pixel-wise classification" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-segmentation> <http://www.w3.org/2004/02/skos/core#altLabel> "scene parsing" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-segmentation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-segmentation> <http://www.w3.org/2004/02/skos/core#definition> "The dense-prediction computer vision task of assigning a semantic class label to every pixel of an image, producing a label map the same size as the input; it refines object detection's bounding boxes into exact region boundaries but does not separate individual object instances." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-segmentation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Semantic segmentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-segmentation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-segmentation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-segmentation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/object-detection> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-segmentation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/u-net> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-segmentation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-segmentation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-segmentation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-segmentation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-segmentation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-segmentation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-segmentation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-segmentation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/instance-segmentation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-segmentation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "computer-vision-and-multimodal" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-segmentation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/cityscapes> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-segmentation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/pascal-voc> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-segmentation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/transposed-convolution> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-segmentation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-segmentation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/autonomous-driving> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/semantic-segmentation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/medical-image-analysis> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Paradigm> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> <http://www.w3.org/2000/01/rdf-schema#label> "Sequence-to-sequence learning" .
@@ -8226,6 +8254,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s6> <https://schema.org/url> "https://arxiv.org/abs/2104.08663" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s1> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (d2l.ai)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s1> <http://purl.org/dc/terms/title> "14.9. Semantic Segmentation and the Dataset" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s1> <https://schema.org/url> "https://www.d2l.ai/chapter_computer-vision/semantic-segmentation-and-dataset.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s2> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (d2l.ai)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s2> <http://purl.org/dc/terms/title> "14.11. Fully Convolutional Networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s2> <https://schema.org/url> "https://d2l.ai/chapter_computer-vision/fcn.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s3> <http://purl.org/dc/terms/publisher> "CVPR 2015 (Long, Shelhamer and Darrell), CVF Open Access" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s3> <http://purl.org/dc/terms/title> "Fully Convolutional Networks for Semantic Segmentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s3> <https://schema.org/url> "https://openaccess.thecvf.com/content_cvpr_2015/html/Long_Fully_Convolutional_Networks_2015_CVPR_paper.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s4> <http://purl.org/dc/terms/publisher> "Ronneberger, Fischer and Brox, arXiv:1505.04597 (authors' version)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s4> <http://purl.org/dc/terms/title> "U-Net: Convolutional Networks for Biomedical Image Segmentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s4> <https://schema.org/url> "https://arxiv.org/abs/1505.04597" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s5> <http://purl.org/dc/terms/publisher> "Chen, Papandreou, Kokkinos, Murphy and Yuille, arXiv:1606.00915v2 (authors' version)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s5> <http://purl.org/dc/terms/title> "DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s5> <https://schema.org/url> "https://arxiv.org/abs/1606.00915v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s6> <http://purl.org/dc/terms/publisher> "CVPR 2019 (Kirillov, He, Girshick, Rother and Dollár), CVF Open Access" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s6> <http://purl.org/dc/terms/title> "Panoptic Segmentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-segmentation/s6> <https://schema.org/url> "https://openaccess.thecvf.com/content_CVPR_2019/papers/Kirillov_Panoptic_Segmentation_CVPR_2019_paper.pdf" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s1> <http://purl.org/dc/terms/publisher> "Sutskever, Vinyals and Le (Google), NIPS 2014; authors' arXiv version 1409.3215v3" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s1> <http://purl.org/dc/terms/title> "Sequence to Sequence Learning with Neural Networks" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/sequence-to-sequence-learning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

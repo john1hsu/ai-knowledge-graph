@@ -3354,6 +3354,28 @@
     ]
   },
   {
+    "id": "kt:semantic-segmentation",
+    "title": "Semantic segmentation",
+    "aliases": [
+      "pixel-wise classification",
+      "dense semantic labeling",
+      "scene parsing"
+    ],
+    "type": "Application",
+    "domain": "computer-vision-and-multimodal",
+    "file": "articles/computer-vision-and-multimodal/semantic-segmentation.md",
+    "created": "2026-11-15",
+    "maturity": "established",
+    "source_urls": [
+      "https://www.d2l.ai/chapter_computer-vision/semantic-segmentation-and-dataset.html",
+      "https://d2l.ai/chapter_computer-vision/fcn.html",
+      "https://openaccess.thecvf.com/content_cvpr_2015/html/Long_Fully_Convolutional_Networks_2015_CVPR_paper.html",
+      "https://arxiv.org/abs/1505.04597",
+      "https://arxiv.org/abs/1606.00915v2",
+      "https://openaccess.thecvf.com/content_CVPR_2019/papers/Kirillov_Panoptic_Segmentation_CVPR_2019_paper.pdf"
+    ]
+  },
+  {
     "id": "kt:sequence-to-sequence-learning",
     "title": "Sequence-to-sequence learning",
     "aliases": [

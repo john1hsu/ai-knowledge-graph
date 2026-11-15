@@ -20,6 +20,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:unsupervised-learning` | `kt:dimensionality-reduction`, `kt:machine-learning`, `kt:principal-component-analysis`, `kt:supervised-learning` |
 | `kt:adagrad` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:glove` |
 | `kt:ai-hardware` | `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
+| `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:hidden-markov-model` |
 | `kt:gradient-descent` | `kt:adam-optimizer`, `kt:backpropagation`, `kt:deep-learning` |
 | `kt:heuristic-search` | `kt:logic-theorist`, `kt:beam-search`, `kt:tree-of-thoughts` |
@@ -37,7 +38,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:anthropic` | `kt:model-context-protocol`, `kt:constitutional-ai` |
 | `kt:apache-lucene` | `kt:bm25`, `kt:tf-idf` |
 | `kt:automatic-differentiation` | `kt:pytorch`, `kt:backpropagation` |
-| `kt:autonomous-driving` | `kt:object-detection`, `kt:yolo` |
 | `kt:bert` | `kt:reranking`, `kt:transformer-architecture` |
 | `kt:bradley-terry-model` | `kt:human-evaluation`, `kt:direct-preference-optimization` |
 | `kt:catastrophic-forgetting` | `kt:fine-tuning`, `kt:parameter-efficient-fine-tuning` |
@@ -73,6 +73,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:multi-armed-bandit` | `kt:exploration-exploitation`, `kt:monte-carlo-tree-search` |
 | `kt:muzero` | `kt:alphazero`, `kt:monte-carlo-tree-search` |
 | `kt:named-entity-recognition` | `kt:conditional-random-field`, `kt:glove` |
+| `kt:pascal-voc` | `kt:object-detection`, `kt:semantic-segmentation` |
 | `kt:post-training` | `kt:hugging-face-trl`, `kt:instruction-tuning` |
 | `kt:post-training-quantization` | `kt:awq`, `kt:gptq` |
 | `kt:probabilistic-relevance-framework` | `kt:bm25`, `kt:bm25` |
@@ -136,6 +137,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chatbot` | `kt:eliza` |
 | `kt:christopher-watkins` | `kt:q-learning` |
 | `kt:cifar-10` | `kt:image-classification` |
+| `kt:cityscapes` | `kt:semantic-segmentation` |
 | `kt:claude` | `kt:constitutional-ai` |
 | `kt:cliff-shaw` | `kt:logic-theorist` |
 | `kt:clipper-prediction-serving-system` | `kt:model-serving` |
@@ -233,6 +235,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:information-science` | `kt:information-retrieval` |
 | `kt:information-theory` | `kt:perplexity` |
 | `kt:inspect-ai` | `kt:ai-evaluation` |
+| `kt:instance-segmentation` | `kt:semantic-segmentation` |
 | `kt:instruction-hierarchy` | `kt:prompt-injection` |
 | `kt:inter-annotator-agreement` | `kt:human-evaluation` |
 | `kt:interpretability` | `kt:mechanistic-interpretability` |
@@ -282,6 +285,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mastering-the-game-of-go-with-deep-neural-networks-and-tree-search` | `kt:alphago` |
 | `kt:mathematical-reasoning` | `kt:program-induction-by-rationale-generation` |
 | `kt:maximum-entropy-markov-model` | `kt:conditional-random-field` |
+| `kt:medical-image-analysis` | `kt:semantic-segmentation` |
 | `kt:membership-inference-attack` | `kt:benchmark-contamination` |
 | `kt:memgpt` | `kt:agent-memory` |
 | `kt:memory-wall` | `kt:high-bandwidth-memory` |
@@ -319,7 +323,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pac-learning` | `kt:statistical-learning-theory` |
 | `kt:parameter-efficient-transfer-learning-for-nlp` | `kt:parameter-efficient-fine-tuning` |
 | `kt:partially-observable-markov-decision-process` | `kt:markov-decision-process` |
-| `kt:pascal-voc` | `kt:object-detection` |
 | `kt:pattern-recognition` | `kt:computer-vision` |
 | `kt:penetration-testing` | `kt:red-teaming` |
 | `kt:philosophy-of-artificial-intelligence` | `kt:chinese-room-argument` |
@@ -360,7 +363,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:self-correction` | `kt:self-refine-iterative-refinement-with-self-feedback` |
 | `kt:self-play` | `kt:alphazero` |
 | `kt:self-supervised-learning` | `kt:pretraining` |
-| `kt:semantic-segmentation` | `kt:computer-vision` |
 | `kt:sepp-hochreiter` | `kt:long-short-term-memory` |
 | `kt:show-your-work-scratchpads-for-intermediate-computation-with-language-models` | `kt:scratchpad` |
 | `kt:singular-value-decomposition` | `kt:principal-component-analysis` |
@@ -397,12 +399,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:training-verifiers-to-solve-math-word-problems` | `kt:gsm8k` |
 | `kt:transformer-engine` | `kt:tensor-cores` |
 | `kt:transformers-state-of-the-art-natural-language-processing` | `kt:hugging-face-transformers` |
+| `kt:transposed-convolution` | `kt:semantic-segmentation` |
 | `kt:trec` | `kt:information-retrieval` |
 | `kt:tree-of-thoughts-deliberate-problem-solving-with-large-language-models` | `kt:tree-of-thoughts` |
 | `kt:tri-dao` | `kt:flash-attention` |
 | `kt:trust-region-policy-optimization` | `kt:proximal-policy-optimization` |
 | `kt:truthfulqa-measuring-how-models-mimic-human-falsehoods` | `kt:truthfulqa` |
 | `kt:turing-machine` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
+| `kt:u-net` | `kt:semantic-segmentation` |
 | `kt:uc-berkeley` | `kt:vllm` |
 | `kt:uk-ai-security-institute` | `kt:ai-safety-institutes` |
 | `kt:umap` | `kt:dimensionality-reduction` |
