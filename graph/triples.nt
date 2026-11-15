@@ -3088,6 +3088,27 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/object-detection> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/non-maximum-suppression> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/object-detection> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/object-detection> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/autonomous-driving> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/oecd-ai-principles> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/oecd-ai-principles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Policy> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/oecd-ai-principles> <http://www.w3.org/2000/01/rdf-schema#label> "OECD AI Principles" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/oecd-ai-principles> <http://www.w3.org/2004/02/skos/core#altLabel> "OECD Recommendation on Artificial Intelligence" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/oecd-ai-principles> <http://www.w3.org/2004/02/skos/core#altLabel> "OECD/LEGAL/0449" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/oecd-ai-principles> <http://www.w3.org/2004/02/skos/core#altLabel> "Recommendation of the Council on Artificial Intelligence" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/oecd-ai-principles> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/oecd-ai-principles> <http://www.w3.org/2004/02/skos/core#definition> "The OECD Council's Recommendation on Artificial Intelligence, adopted in May 2019 and revised in 2023 and 2024: a non-binding intergovernmental standard setting five values-based principles for trustworthy AI and five recommendations for national policy, plus a widely reused definition of an \"AI system\"." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/oecd-ai-principles> <http://www.w3.org/2004/02/skos/core#prefLabel> "OECD AI Principles" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/oecd-ai-principles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/oecd-ai-principles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/oecd-ai-principles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/oecd-ai-principles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/oecd-ai-principles> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/oecd-ai-principles/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/oecd-ai-principles> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/oecd-ai-principles/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/oecd-ai-principles> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/oecd-ai-principles/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/oecd-ai-principles> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/oecd-ai-principles/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/oecd-ai-principles> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/oecd-ai-principles/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/oecd-ai-principles> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/oecd> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/oecd-ai-principles> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "governance-and-policy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/oecd-ai-principles> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Policy> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <http://www.w3.org/2000/01/rdf-schema#label> "OMB AI memoranda" .
@@ -7392,6 +7413,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/object-detection/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/object-detection/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/object-detection/s6> <https://schema.org/url> "https://arxiv.org/abs/2005.12872" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/oecd-ai-principles/s1> <http://purl.org/dc/terms/publisher> "OECD Legal Instruments (adopted 22 May 2019, amended 8 November 2023 and 3 May 2024)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/oecd-ai-principles/s1> <http://purl.org/dc/terms/title> "Recommendation of the Council on Artificial Intelligence (OECD/LEGAL/0449)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/oecd-ai-principles/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/oecd-ai-principles/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "intergovernmental" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/oecd-ai-principles/s1> <https://schema.org/url> "https://legalinstruments.oecd.org/public/doc/648/648.en.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/oecd-ai-principles/s2> <http://purl.org/dc/terms/publisher> "OECD press release, 3 May 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/oecd-ai-principles/s2> <http://purl.org/dc/terms/title> "OECD updates AI Principles to stay abreast of rapid technological developments" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/oecd-ai-principles/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/oecd-ai-principles/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "intergovernmental" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/oecd-ai-principles/s2> <https://schema.org/url> "https://www.oecd.org/en/about/news/press-releases/2024/05/oecd-updates-ai-principles-to-stay-abreast-of-rapid-technological-developments.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/oecd-ai-principles/s3> <http://purl.org/dc/terms/publisher> "OECD.AI Policy Observatory" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/oecd-ai-principles/s3> <http://purl.org/dc/terms/title> "OECD AI Principles overview" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/oecd-ai-principles/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/oecd-ai-principles/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "intergovernmental" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/oecd-ai-principles/s3> <https://schema.org/url> "https://oecd.ai/en/ai-principles" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/oecd-ai-principles/s4> <http://purl.org/dc/terms/publisher> "OECD.AI Wonk blog (Russell, Perset & Grobelnik), 29 November 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/oecd-ai-principles/s4> <http://purl.org/dc/terms/title> "AI system definition update" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/oecd-ai-principles/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/oecd-ai-principles/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "intergovernmental" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/oecd-ai-principles/s4> <https://schema.org/url> "https://oecd.ai/en/wonk/ai-system-definition-update" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/oecd-ai-principles/s5> <http://purl.org/dc/terms/publisher> "Nextgov, May 2019" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/oecd-ai-principles/s5> <http://purl.org/dc/terms/title> "42 Countries Agree to International Principles for Artificial Intelligence" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/oecd-ai-principles/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/oecd-ai-principles/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/oecd-ai-principles/s5> <https://schema.org/url> "https://www.nextgov.com/artificial-intelligence/2019/05/42-countries-agree-international-principles-artificial-intelligence/157189/" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s1> <http://purl.org/dc/terms/publisher> "Office of Management and Budget (Young), 28 March 2024" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s1> <http://purl.org/dc/terms/title> "M-24-10: Advancing Governance, Innovation, and Risk Management for Agency Use of Artificial Intelligence" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

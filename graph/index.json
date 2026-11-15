@@ -2597,6 +2597,27 @@
     ]
   },
   {
+    "id": "kt:oecd-ai-principles",
+    "title": "OECD AI Principles",
+    "aliases": [
+      "OECD Recommendation on Artificial Intelligence",
+      "Recommendation of the Council on Artificial Intelligence",
+      "OECD/LEGAL/0449"
+    ],
+    "type": "Policy",
+    "domain": "governance-and-policy",
+    "file": "articles/governance-and-policy/oecd-ai-principles.md",
+    "created": "2026-11-15",
+    "maturity": "established",
+    "source_urls": [
+      "https://legalinstruments.oecd.org/public/doc/648/648.en.pdf",
+      "https://www.oecd.org/en/about/news/press-releases/2024/05/oecd-updates-ai-principles-to-stay-abreast-of-rapid-technological-developments.html",
+      "https://oecd.ai/en/ai-principles",
+      "https://oecd.ai/en/wonk/ai-system-definition-update",
+      "https://www.nextgov.com/artificial-intelligence/2019/05/42-countries-agree-international-principles-artificial-intelligence/157189/"
+    ]
+  },
+  {
     "id": "kt:omb-ai-memoranda",
     "title": "OMB AI memoranda",
     "aliases": [

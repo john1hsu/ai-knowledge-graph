@@ -18,6 +18,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:unsupervised-learning` | `kt:dimensionality-reduction`, `kt:machine-learning`, `kt:principal-component-analysis`, `kt:supervised-learning` |
 | `kt:adagrad` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:glove` |
 | `kt:ai-hardware` | `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
+| `kt:ai-risk-management` | `kt:iso-iec-42001`, `kt:nist-ai-risk-management-framework`, `kt:oecd-ai-principles` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
 | `kt:bradley-terry-model` | `kt:chatbot-arena`, `kt:human-evaluation`, `kt:direct-preference-optimization` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:hidden-markov-model` |
@@ -30,7 +31,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:reward-model` | `kt:goodharts-law`, `kt:reward-hacking`, `kt:hugging-face-trl` |
 | `kt:wmt-2014` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
-| `kt:ai-risk-management` | `kt:iso-iec-42001`, `kt:nist-ai-risk-management-framework` |
 | `kt:alfworld` | `kt:autogen`, `kt:react-prompting` |
 | `kt:all-reduce` | `kt:data-parallelism`, `kt:distributed-training` |
 | `kt:alphago-zero` | `kt:alphago`, `kt:alphazero` |
@@ -317,7 +317,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:nist` | `kt:nist-ai-risk-management-framework` |
 | `kt:nist-generative-ai-profile` | `kt:nist-ai-risk-management-framework` |
 | `kt:non-maximum-suppression` | `kt:object-detection` |
-| `kt:oecd-ai-principles` | `kt:ai-governance` |
+| `kt:oecd` | `kt:oecd-ai-principles` |
 | `kt:office-of-management-and-budget` | `kt:omb-ai-memoranda` |
 | `kt:optimal-brain-compression` | `kt:gptq` |
 | `kt:optimal-brain-damage` | `kt:model-pruning` |

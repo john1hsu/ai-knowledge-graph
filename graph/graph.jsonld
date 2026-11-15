@@ -8134,6 +8134,77 @@
       ]
     },
     {
+      "@id": "kt:oecd-ai-principles",
+      "@type": "kto:Policy",
+      "skos:prefLabel": "OECD AI Principles",
+      "skos:definition": "The OECD Council's Recommendation on Artificial Intelligence, adopted in May 2019 and revised in 2023 and 2024: a non-binding intergovernmental standard setting five values-based principles for trustworthy AI and five recommendations for national policy, plus a widely reused definition of an \"AI system\".",
+      "kto:domain": "governance-and-policy",
+      "dcterms:created": "2026-11-15",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Recommendation of the Council on Artificial Intelligence (OECD/LEGAL/0449)",
+          "dcterms:publisher": "OECD Legal Instruments (adopted 22 May 2019, amended 8 November 2023 and 3 May 2024)",
+          "schema:url": "https://legalinstruments.oecd.org/public/doc/648/648.en.pdf",
+          "kto:sourceType": "intergovernmental"
+        },
+        {
+          "dcterms:title": "OECD updates AI Principles to stay abreast of rapid technological developments",
+          "dcterms:publisher": "OECD press release, 3 May 2024",
+          "schema:url": "https://www.oecd.org/en/about/news/press-releases/2024/05/oecd-updates-ai-principles-to-stay-abreast-of-rapid-technological-developments.html",
+          "kto:sourceType": "intergovernmental"
+        },
+        {
+          "dcterms:title": "OECD AI Principles overview",
+          "dcterms:publisher": "OECD.AI Policy Observatory",
+          "schema:url": "https://oecd.ai/en/ai-principles",
+          "kto:sourceType": "intergovernmental"
+        },
+        {
+          "dcterms:title": "AI system definition update",
+          "dcterms:publisher": "OECD.AI Wonk blog (Russell, Perset & Grobelnik), 29 November 2023",
+          "schema:url": "https://oecd.ai/en/wonk/ai-system-definition-update",
+          "kto:sourceType": "intergovernmental"
+        },
+        {
+          "dcterms:title": "42 Countries Agree to International Principles for Artificial Intelligence",
+          "dcterms:publisher": "Nextgov, May 2019",
+          "schema:url": "https://www.nextgov.com/artificial-intelligence/2019/05/42-countries-agree-international-principles-artificial-intelligence/157189/",
+          "kto:sourceType": "news"
+        }
+      ],
+      "kto:file": "articles/governance-and-policy/oecd-ai-principles.md",
+      "skos:altLabel": [
+        "OECD Recommendation on Artificial Intelligence",
+        "Recommendation of the Council on Artificial Intelligence",
+        "OECD/LEGAL/0449"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-governance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:eu-ai-act"
+        },
+        {
+          "@id": "kt:nist-ai-risk-management-framework"
+        },
+        {
+          "@id": "kt:ai-risk-management"
+        },
+        {
+          "@id": "kt:algorithmic-bias-and-fairness"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:oecd"
+        }
+      ]
+    },
+    {
       "@id": "kt:omb-ai-memoranda",
       "@type": "kto:Policy",
       "skos:prefLabel": "OMB AI memoranda",
