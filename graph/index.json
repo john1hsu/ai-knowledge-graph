@@ -2362,6 +2362,27 @@
     ]
   },
   {
+    "id": "kt:monte-carlo-tree-search",
+    "title": "Monte Carlo tree search",
+    "aliases": [
+      "MCTS",
+      "UCT",
+      "Upper Confidence bounds applied to Trees"
+    ],
+    "type": "Algorithm",
+    "domain": "reinforcement-learning",
+    "file": "articles/reinforcement-learning/monte-carlo-tree-search.md",
+    "created": "2026-11-15",
+    "maturity": "established",
+    "source_urls": [
+      "https://www.remi-coulom.fr/CG2006/CG2006.pdf",
+      "https://cs.nyu.edu/~shasha/papers/uct.pdf",
+      "https://turing.iimas.unam.mx/~luis/cursos/IA2022-1/lecturas/SurveyMCTS.pdf",
+      "https://papers.baulab.info/papers/Silver-2016.pdf",
+      "https://arxiv.org/abs/1911.08265v2"
+    ]
+  },
+  {
     "id": "kt:multi-agent-systems",
     "title": "Multi-agent systems",
     "aliases": [

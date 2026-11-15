@@ -11472,6 +11472,101 @@
       ]
     },
     {
+      "@id": "kt:monte-carlo-tree-search",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "Monte Carlo tree search",
+      "skos:definition": "A best-first planning algorithm that grows a search tree incrementally from repeated simulations, using bandit-style selection to balance trying promising moves against exploring uncertain ones, and backing up simulated outcomes to estimate the value of each action.",
+      "kto:domain": "reinforcement-learning",
+      "dcterms:created": "2026-11-15",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Efficient Selectivity and Backup Operators in Monte-Carlo Tree Search",
+          "dcterms:publisher": "Computers and Games 2006 (Coulom), author's version",
+          "schema:url": "https://www.remi-coulom.fr/CG2006/CG2006.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Bandit Based Monte-Carlo Planning",
+          "dcterms:publisher": "ECML 2006, pp. 282-293 (Kocsis and Szepesvári)",
+          "schema:url": "https://cs.nyu.edu/~shasha/papers/uct.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "A Survey of Monte Carlo Tree Search Methods",
+          "dcterms:publisher": "IEEE Transactions on Computational Intelligence and AI in Games 4(1), March 2012 (Browne et al.)",
+          "schema:url": "https://turing.iimas.unam.mx/~luis/cursos/IA2022-1/lecturas/SurveyMCTS.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Mastering the game of Go with deep neural networks and tree search",
+          "dcterms:publisher": "Nature 529, 484-489, 2016 (Silver et al.)",
+          "schema:url": "https://papers.baulab.info/papers/Silver-2016.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model",
+          "dcterms:publisher": "arXiv 1911.08265 (Schrittwieser et al., DeepMind)",
+          "schema:url": "https://arxiv.org/abs/1911.08265v2",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/reinforcement-learning/monte-carlo-tree-search.md",
+      "skos:altLabel": [
+        "MCTS",
+        "UCT",
+        "Upper Confidence bounds applied to Trees"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:reinforcement-learning"
+        },
+        {
+          "@id": "kt:monte-carlo-methods"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:exploration-exploitation"
+        },
+        {
+          "@id": "kt:multi-armed-bandit"
+        },
+        {
+          "@id": "kt:markov-decision-process"
+        },
+        {
+          "@id": "kt:alphazero"
+        },
+        {
+          "@id": "kt:tree-of-thoughts"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:efficient-selectivity-and-backup-operators-in-monte-carlo-tree-search"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:upper-confidence-bound"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:alphago"
+        },
+        {
+          "@id": "kt:muzero"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:alpha-beta-pruning"
+        }
+      ]
+    },
+    {
       "@id": "kt:policy-gradient",
       "@type": "kto:Technique",
       "skos:prefLabel": "Policy gradient methods",

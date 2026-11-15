@@ -2799,6 +2799,33 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <https://github.com/john1hsu/ai-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/ai-knowledge-graph/id/mlops> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> <https://github.com/john1hsu/ai-knowledge-graph/ontology#runsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> <http://www.w3.org/2000/01/rdf-schema#label> "Monte Carlo tree search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> <http://www.w3.org/2004/02/skos/core#altLabel> "MCTS" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> <http://www.w3.org/2004/02/skos/core#altLabel> "UCT" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> <http://www.w3.org/2004/02/skos/core#altLabel> "Upper Confidence bounds applied to Trees" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-methods> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> <http://www.w3.org/2004/02/skos/core#definition> "A best-first planning algorithm that grows a search tree incrementally from repeated simulations, using bandit-style selection to balance trying promising moves against exploring uncertain ones, and backing up simulated outcomes to estimate the value of each action." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> <http://www.w3.org/2004/02/skos/core#prefLabel> "Monte Carlo tree search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/alphazero> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/markov-decision-process> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/multi-armed-bandit> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/tree-of-thoughts> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/alpha-beta-pruning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/upper-confidence-bound> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "reinforcement-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/efficient-selectivity-and-backup-operators-in-monte-carlo-tree-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/alphago> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/muzero> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Paradigm> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <http://www.w3.org/2000/01/rdf-schema#label> "Multi-agent systems" .
@@ -6848,6 +6875,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-serving/s5> <https://schema.org/url> "https://www.usenix.org/conference/osdi22/presentation/yu" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s1> <http://purl.org/dc/terms/publisher> "Computers and Games 2006 (Coulom), author's version" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s1> <http://purl.org/dc/terms/title> "Efficient Selectivity and Backup Operators in Monte-Carlo Tree Search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s1> <https://schema.org/url> "https://www.remi-coulom.fr/CG2006/CG2006.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s2> <http://purl.org/dc/terms/publisher> "ECML 2006, pp. 282-293 (Kocsis and Szepesvári)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s2> <http://purl.org/dc/terms/title> "Bandit Based Monte-Carlo Planning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s2> <https://schema.org/url> "https://cs.nyu.edu/~shasha/papers/uct.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s3> <http://purl.org/dc/terms/publisher> "IEEE Transactions on Computational Intelligence and AI in Games 4(1), March 2012 (Browne et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s3> <http://purl.org/dc/terms/title> "A Survey of Monte Carlo Tree Search Methods" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s3> <https://schema.org/url> "https://turing.iimas.unam.mx/~luis/cursos/IA2022-1/lecturas/SurveyMCTS.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s4> <http://purl.org/dc/terms/publisher> "Nature 529, 484-489, 2016 (Silver et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s4> <http://purl.org/dc/terms/title> "Mastering the game of Go with deep neural networks and tree search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s4> <https://schema.org/url> "https://papers.baulab.info/papers/Silver-2016.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s5> <http://purl.org/dc/terms/publisher> "arXiv 1911.08265 (Schrittwieser et al., DeepMind)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s5> <http://purl.org/dc/terms/title> "Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s5> <https://schema.org/url> "https://arxiv.org/abs/1911.08265v2" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s1> <http://purl.org/dc/terms/publisher> "Michael Wooldridge; Hebrew University of Jerusalem course \"Intelligent Multi-Agent Systems\" (2003)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s1> <http://purl.org/dc/terms/title> "An Introduction to MultiAgent Systems — Lecture 1: Introduction (lecture slides)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

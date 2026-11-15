@@ -66,7 +66,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:meta-ai` | `kt:toolformer`, `kt:pytorch` |
 | `kt:microsoft-research` | `kt:autogen`, `kt:residual-connection` |
 | `kt:model-context-protocol` | `kt:agent2agent-protocol`, `kt:tool-use` |
-| `kt:monte-carlo-tree-search` | `kt:alphago`, `kt:alphazero` |
+| `kt:monte-carlo-methods` | `kt:monte-carlo-tree-search`, `kt:temporal-difference-learning` |
+| `kt:multi-armed-bandit` | `kt:exploration-exploitation`, `kt:monte-carlo-tree-search` |
+| `kt:muzero` | `kt:alphazero`, `kt:monte-carlo-tree-search` |
 | `kt:named-entity-recognition` | `kt:conditional-random-field`, `kt:glove` |
 | `kt:post-training` | `kt:hugging-face-trl`, `kt:instruction-tuning` |
 | `kt:post-training-quantization` | `kt:awq`, `kt:gptq` |
@@ -83,6 +85,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tokenization` | `kt:perplexity`, `kt:structured-output` |
 | `kt:transfer-learning` | `kt:fine-tuning`, `kt:pretraining` |
 | `kt:triton-inference-server` | `kt:model-serving`, `kt:tensorrt-llm` |
+| `kt:upper-confidence-bound` | `kt:exploration-exploitation`, `kt:monte-carlo-tree-search` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:vector-space-model` | `kt:information-retrieval`, `kt:tf-idf` |
 | `kt:weight-decay` | `kt:dropout`, `kt:regularization` |
@@ -101,6 +104,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alex-graves` | `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
 | `kt:allen-institute-for-ai` | `kt:commonsenseqa` |
 | `kt:allen-newell` | `kt:logic-theorist` |
+| `kt:alpha-beta-pruning` | `kt:monte-carlo-tree-search` |
 | `kt:alphabet-inc` | `kt:google` |
 | `kt:ann-benchmarks` | `kt:approximate-nearest-neighbor-search` |
 | `kt:anthropic` | `kt:constitutional-ai` |
@@ -172,6 +176,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:early-stopping` | `kt:regularization` |
 | `kt:edward-feigenbaum` | `kt:expert-systems` |
 | `kt:efficient-estimation-of-word-representations-in-vector-space` | `kt:word2vec` |
+| `kt:efficient-selectivity-and-backup-operators-in-monte-carlo-tree-search` | `kt:monte-carlo-tree-search` |
 | `kt:eliza-a-computer-program-for-the-study-of-natural-language-communication-between-man-and-machine` | `kt:eliza` |
 | `kt:eliza-effect` | `kt:eliza` |
 | `kt:emergent-abilities-of-large-language-models` | `kt:emergent-abilities` |
@@ -292,15 +297,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:model-parallelism` | `kt:data-parallelism` |
 | `kt:model-registry` | `kt:mlops` |
 | `kt:monte-carlo-dropout` | `kt:dropout` |
-| `kt:monte-carlo-methods` | `kt:temporal-difference-learning` |
 | `kt:mrkl-systems` | `kt:tool-use` |
 | `kt:ms-marco` | `kt:reranking` |
 | `kt:mt-bench` | `kt:llm-as-a-judge` |
 | `kt:mteb` | `kt:beir` |
-| `kt:multi-armed-bandit` | `kt:exploration-exploitation` |
 | `kt:multi-query-attention` | `kt:kv-cache` |
 | `kt:multimodal-learning` | `kt:vision-language-model` |
-| `kt:muzero` | `kt:alphazero` |
 | `kt:mycin` | `kt:expert-systems` |
 | `kt:neocognitron` | `kt:convolutional-neural-network` |
 | `kt:neuro-symbolic-ai` | `kt:symbolic-ai` |
@@ -402,7 +404,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:underfitting` | `kt:overfitting` |
 | `kt:universal-language-model-fine-tuning-for-text-classification` | `kt:fine-tuning` |
 | `kt:universal-self-consistency` | `kt:self-consistency` |
-| `kt:upper-confidence-bound` | `kt:exploration-exploitation` |
 | `kt:us-department-of-commerce` | `kt:bureau-of-industry-and-security` |
 | `kt:value-iteration` | `kt:markov-decision-process` |
 | `kt:vc-dimension` | `kt:statistical-learning-theory` |
