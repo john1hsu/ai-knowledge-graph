@@ -12888,6 +12888,105 @@
       ]
     },
     {
+      "@id": "kt:sarsa",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "SARSA",
+      "skos:definition": "An on-policy temporal-difference control algorithm that learns action values by updating each state-action estimate toward the reward plus the discounted value of the next action the agent actually takes, so the values it learns reflect the agent's own exploratory behaviour.",
+      "kto:domain": "reinforcement-learning",
+      "dcterms:created": "2026-11-15",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Reinforcement Learning: An Introduction (2nd ed.), sections 6.4-6.6 and bibliographical remarks",
+          "dcterms:publisher": "MIT Press, 2018 (Sutton and Barto), course copy hosted by Texas A&M CSCE 421",
+          "schema:url": "https://people.engr.tamu.edu/guni/csce421/files/RLbook2018.pdf",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "On-line Q-learning using connectionist systems (CUED/F-INFENG/TR166), abstract",
+          "dcterms:publisher": "Cambridge University Engineering Department, 1994 (Rummery and Niranjan)",
+          "schema:url": "https://mi.eng.cam.ac.uk/reports/abstracts/rummery_tr166.html",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Generalization in Reinforcement Learning: Successful Examples Using Sparse Coarse Coding",
+          "dcterms:publisher": "Advances in Neural Information Processing Systems 8 (NIPS 1995), Sutton",
+          "schema:url": "https://papers.neurips.cc/paper_files/paper/1995/file/8f1d43620bc6bb580df6e80b0dc05c48-Paper.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Convergence Results for Single-Step On-Policy Reinforcement-Learning Algorithms",
+          "dcterms:publisher": "Machine Learning 39:287-308, 2000 (Singh, Jaakkola, Littman and Szepesvari), author copy",
+          "schema:url": "https://sites.ualberta.ca/~szepesva/papers/singh98convergence.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "A Theoretical and Empirical Analysis of Expected Sarsa",
+          "dcterms:publisher": "IEEE ADPRL 2009, pp. 177-184 (van Seijen, van Hasselt, Whiteson and Wiering), Utrecht University research portal",
+          "schema:url": "https://research-portal.uu.nl/en/publications/a-theoretical-and-empirical-analysis-of-expected-sarsa/",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/reinforcement-learning/sarsa.md",
+      "skos:altLabel": [
+        "Sarsa",
+        "State-Action-Reward-State-Action",
+        "Modified Connectionist Q-Learning",
+        "MCQ-L",
+        "on-policy TD control"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:temporal-difference-learning"
+        },
+        {
+          "@id": "kt:reinforcement-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:exploration-exploitation"
+        },
+        {
+          "@id": "kt:markov-decision-process"
+        },
+        {
+          "@id": "kt:actor-critic"
+        },
+        {
+          "@id": "kt:expected-sarsa"
+        },
+        {
+          "@id": "kt:function-approximation"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:q-learning"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:markov-decision-process"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:on-line-q-learning-using-connectionist-systems"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:q-learning"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:expected-sarsa"
+        }
+      ]
+    },
+    {
       "@id": "kt:temporal-difference-learning",
       "@type": "kto:Algorithm",
       "skos:prefLabel": "Temporal-difference learning",

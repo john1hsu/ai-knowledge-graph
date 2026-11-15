@@ -4002,6 +4002,35 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/the-curious-case-of-neural-text-degeneration> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sarsa> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sarsa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sarsa> <http://www.w3.org/2000/01/rdf-schema#label> "SARSA" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sarsa> <http://www.w3.org/2004/02/skos/core#altLabel> "MCQ-L" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sarsa> <http://www.w3.org/2004/02/skos/core#altLabel> "Modified Connectionist Q-Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sarsa> <http://www.w3.org/2004/02/skos/core#altLabel> "Sarsa" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sarsa> <http://www.w3.org/2004/02/skos/core#altLabel> "State-Action-Reward-State-Action" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sarsa> <http://www.w3.org/2004/02/skos/core#altLabel> "on-policy TD control" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sarsa> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sarsa> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sarsa> <http://www.w3.org/2004/02/skos/core#definition> "An on-policy temporal-difference control algorithm that learns action values by updating each state-action estimate toward the reward plus the discounted value of the next action the agent actually takes, so the values it learns reflect the agent's own exploratory behaviour." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sarsa> <http://www.w3.org/2004/02/skos/core#prefLabel> "SARSA" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sarsa> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sarsa> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/expected-sarsa> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sarsa> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sarsa> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/function-approximation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sarsa> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/markov-decision-process> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sarsa> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/sarsa/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sarsa> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/sarsa/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sarsa> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/sarsa/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sarsa> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/sarsa/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sarsa> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/sarsa/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sarsa> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sarsa> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/markov-decision-process> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sarsa> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "reinforcement-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sarsa> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/expected-sarsa> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sarsa> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sarsa> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/on-line-q-learning-using-connectionist-systems> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/sarsa> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> <http://www.w3.org/2000/01/rdf-schema#label> "Scalable oversight" .
@@ -8446,6 +8475,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s5> <https://schema.org/url> "https://platform.claude.com/docs/en/models/opus-5-5/migration-guide" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sarsa/s1> <http://purl.org/dc/terms/publisher> "MIT Press, 2018 (Sutton and Barto), course copy hosted by Texas A&M CSCE 421" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sarsa/s1> <http://purl.org/dc/terms/title> "Reinforcement Learning: An Introduction (2nd ed.), sections 6.4-6.6 and bibliographical remarks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sarsa/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sarsa/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sarsa/s1> <https://schema.org/url> "https://people.engr.tamu.edu/guni/csce421/files/RLbook2018.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sarsa/s2> <http://purl.org/dc/terms/publisher> "Cambridge University Engineering Department, 1994 (Rummery and Niranjan)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sarsa/s2> <http://purl.org/dc/terms/title> "On-line Q-learning using connectionist systems (CUED/F-INFENG/TR166), abstract" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sarsa/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sarsa/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sarsa/s2> <https://schema.org/url> "https://mi.eng.cam.ac.uk/reports/abstracts/rummery_tr166.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sarsa/s3> <http://purl.org/dc/terms/publisher> "Advances in Neural Information Processing Systems 8 (NIPS 1995), Sutton" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sarsa/s3> <http://purl.org/dc/terms/title> "Generalization in Reinforcement Learning: Successful Examples Using Sparse Coarse Coding" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sarsa/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sarsa/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sarsa/s3> <https://schema.org/url> "https://papers.neurips.cc/paper_files/paper/1995/file/8f1d43620bc6bb580df6e80b0dc05c48-Paper.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sarsa/s4> <http://purl.org/dc/terms/publisher> "Machine Learning 39:287-308, 2000 (Singh, Jaakkola, Littman and Szepesvari), author copy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sarsa/s4> <http://purl.org/dc/terms/title> "Convergence Results for Single-Step On-Policy Reinforcement-Learning Algorithms" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sarsa/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sarsa/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sarsa/s4> <https://schema.org/url> "https://sites.ualberta.ca/~szepesva/papers/singh98convergence.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sarsa/s5> <http://purl.org/dc/terms/publisher> "IEEE ADPRL 2009, pp. 177-184 (van Seijen, van Hasselt, Whiteson and Wiering), Utrecht University research portal" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sarsa/s5> <http://purl.org/dc/terms/title> "A Theoretical and Empirical Analysis of Expected Sarsa" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sarsa/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sarsa/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/sarsa/s5> <https://schema.org/url> "https://research-portal.uu.nl/en/publications/a-theoretical-and-empirical-analysis-of-expected-sarsa/" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s1> <http://purl.org/dc/terms/publisher> "arXiv:1606.06565 (Amodei, Olah, Steinhardt, Christiano, Schulman, Mané), v2 July 2016" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s1> <http://purl.org/dc/terms/title> "Concrete Problems in AI Safety" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

@@ -48,6 +48,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:double-q-learning` | `kt:deep-q-network`, `kt:q-learning` |
 | `kt:efficient-memory-management-for-large-language-model-serving-with-pagedattention` | `kt:batching-and-paged-attention`, `kt:vllm` |
 | `kt:expectation-maximization` | `kt:hidden-markov-model`, `kt:unsupervised-learning` |
+| `kt:expected-sarsa` | `kt:sarsa`, `kt:sarsa` |
 | `kt:export-control-reform-act` | `kt:ai-chip-export-controls`, `kt:bureau-of-industry-and-security` |
 | `kt:fairness-accountability-and-transparency` | `kt:algorithmic-bias-and-fairness`, `kt:model-cards` |
 | `kt:faiss` | `kt:approximate-nearest-neighbor-search`, `kt:vector-database` |
@@ -80,7 +81,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:r-cnn` | `kt:faster-r-cnn`, `kt:yolo` |
 | `kt:reflexion` | `kt:react-prompting`, `kt:self-refine-iterative-refinement-with-self-feedback` |
 | `kt:rmsprop` | `kt:adam-optimizer`, `kt:adam-optimizer` |
-| `kt:sarsa` | `kt:q-learning`, `kt:temporal-difference-learning` |
 | `kt:scikit-learn` | `kt:dimensionality-reduction`, `kt:principal-component-analysis` |
 | `kt:self-refine` | `kt:agentic-workflow`, `kt:voyager` |
 | `kt:stochastic-gradient-descent` | `kt:data-parallelism`, `kt:adam-optimizer` |
@@ -202,6 +202,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:finetuned-language-models-are-zero-shot-learners` | `kt:instruction-tuning` |
 | `kt:flamingo-a-visual-language-model-for-few-shot-learning` | `kt:vision-language-model` |
 | `kt:frank-rosenblatt` | `kt:perceptron` |
+| `kt:function-approximation` | `kt:sarsa` |
 | `kt:function-calling` | `kt:structured-output` |
 | `kt:gated-recurrent-unit` | `kt:recurrent-neural-network` |
 | `kt:gddr-memory` | `kt:high-bandwidth-memory` |
@@ -327,6 +328,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:non-maximum-suppression` | `kt:object-detection` |
 | `kt:oecd` | `kt:oecd-ai-principles` |
 | `kt:office-of-management-and-budget` | `kt:omb-ai-memoranda` |
+| `kt:on-line-q-learning-using-connectionist-systems` | `kt:sarsa` |
 | `kt:optimal-brain-compression` | `kt:gptq` |
 | `kt:optimal-brain-damage` | `kt:model-pruning` |
 | `kt:outlines` | `kt:structured-output` |

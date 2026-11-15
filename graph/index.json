@@ -3355,6 +3355,29 @@
     ]
   },
   {
+    "id": "kt:sarsa",
+    "title": "SARSA",
+    "aliases": [
+      "Sarsa",
+      "State-Action-Reward-State-Action",
+      "Modified Connectionist Q-Learning",
+      "MCQ-L",
+      "on-policy TD control"
+    ],
+    "type": "Algorithm",
+    "domain": "reinforcement-learning",
+    "file": "articles/reinforcement-learning/sarsa.md",
+    "created": "2026-11-15",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://people.engr.tamu.edu/guni/csce421/files/RLbook2018.pdf",
+      "https://mi.eng.cam.ac.uk/reports/abstracts/rummery_tr166.html",
+      "https://papers.neurips.cc/paper_files/paper/1995/file/8f1d43620bc6bb580df6e80b0dc05c48-Paper.pdf",
+      "https://sites.ualberta.ca/~szepesva/papers/singh98convergence.pdf",
+      "https://research-portal.uu.nl/en/publications/a-theoretical-and-empirical-analysis-of-expected-sarsa/"
+    ]
+  },
+  {
     "id": "kt:scalable-oversight",
     "title": "Scalable oversight",
     "aliases": [
