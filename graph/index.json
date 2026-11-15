@@ -2316,6 +2316,26 @@
     ]
   },
   {
+    "id": "kt:model-context-protocol",
+    "title": "Model Context Protocol",
+    "aliases": [
+      "MCP",
+      "MCP protocol"
+    ],
+    "type": "Tool",
+    "domain": "agents-and-tool-use",
+    "file": "articles/agents-and-tool-use/model-context-protocol.md",
+    "created": "2026-11-15",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://www.anthropic.com/news/model-context-protocol?so=1",
+      "https://modelcontextprotocol.io/specification/latest",
+      "https://modelcontextprotocol.io/docs/2026-07-28/learn/architecture",
+      "https://blog.modelcontextprotocol.io/posts/2025-12-09-mcp-joins-agentic-ai-foundation/",
+      "https://arxiv.org/html/2503.23278v3"
+    ]
+  },
+  {
     "id": "kt:model-pruning",
     "title": "Model pruning",
     "aliases": [

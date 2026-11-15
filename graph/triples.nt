@@ -2741,6 +2741,27 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/model-cards-for-model-reporting> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-context-protocol> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-context-protocol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Tool> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-context-protocol> <http://www.w3.org/2000/01/rdf-schema#label> "Model Context Protocol" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-context-protocol> <http://www.w3.org/2004/02/skos/core#altLabel> "MCP protocol" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-context-protocol> <http://www.w3.org/2004/02/skos/core#altLabel> "MCP" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-context-protocol> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-context-protocol> <http://www.w3.org/2004/02/skos/core#definition> "An open protocol, introduced by Anthropic in November 2024 and donated to the Linux Foundation's Agentic AI Foundation in December 2025, that standardizes how LLM applications connect to external tools, data and prompt templates through JSON-RPC 2.0 messages exchanged between host-side clients and MCP servers." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-context-protocol> <http://www.w3.org/2004/02/skos/core#prefLabel> "Model Context Protocol" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-context-protocol> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-context-protocol> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-injection> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-context-protocol> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-context-protocol> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-context-protocol> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-context-protocol> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-context-protocol> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-context-protocol> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-context-protocol> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/agent2agent-protocol> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-context-protocol> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/anthropic> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-context-protocol> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "agents-and-tool-use" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-context-protocol> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/language-server-protocol> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-context-protocol> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <http://www.w3.org/2000/01/rdf-schema#label> "Model pruning" .
@@ -6850,6 +6871,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "preprint" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s5> <https://schema.org/url> "https://arxiv.org/abs/2402.05160v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s1> <http://purl.org/dc/terms/publisher> "Anthropic, 25 November 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s1> <http://purl.org/dc/terms/title> "Introducing the Model Context Protocol" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s1> <https://schema.org/url> "https://www.anthropic.com/news/model-context-protocol?so=1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s2> <http://purl.org/dc/terms/publisher> "Model Context Protocol project" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s2> <http://purl.org/dc/terms/title> "Specification (Model Context Protocol), latest revision 2026-07-28" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s2> <https://schema.org/url> "https://modelcontextprotocol.io/specification/latest" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s3> <http://purl.org/dc/terms/publisher> "Model Context Protocol documentation (protocol version 2026-07-28)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s3> <http://purl.org/dc/terms/title> "Architecture overview" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s3> <https://schema.org/url> "https://modelcontextprotocol.io/docs/2026-07-28/learn/architecture" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s4> <http://purl.org/dc/terms/publisher> "Model Context Protocol blog, 9 December 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s4> <http://purl.org/dc/terms/title> "MCP joins the Agentic AI Foundation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s4> <https://schema.org/url> "https://blog.modelcontextprotocol.io/posts/2025-12-09-mcp-joins-agentic-ai-foundation/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s5> <http://purl.org/dc/terms/publisher> "arXiv 2503.23278v3 (Hou, Zhao, Wang and Wang), 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s5> <http://purl.org/dc/terms/title> "Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "preprint" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s5> <https://schema.org/url> "https://arxiv.org/html/2503.23278v3" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 1989 (Advances in Neural Information Processing Systems 2; LeCun, Denker and Solla)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s1> <http://purl.org/dc/terms/title> "Optimal Brain Damage" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

@@ -620,6 +620,83 @@
       ]
     },
     {
+      "@id": "kt:model-context-protocol",
+      "@type": "kto:Tool",
+      "skos:prefLabel": "Model Context Protocol",
+      "skos:definition": "An open protocol, introduced by Anthropic in November 2024 and donated to the Linux Foundation's Agentic AI Foundation in December 2025, that standardizes how LLM applications connect to external tools, data and prompt templates through JSON-RPC 2.0 messages exchanged between host-side clients and MCP servers.",
+      "kto:domain": "agents-and-tool-use",
+      "dcterms:created": "2026-11-15",
+      "kto:maturity": "emerging",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Introducing the Model Context Protocol",
+          "dcterms:publisher": "Anthropic, 25 November 2024",
+          "schema:url": "https://www.anthropic.com/news/model-context-protocol?so=1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Specification (Model Context Protocol), latest revision 2026-07-28",
+          "dcterms:publisher": "Model Context Protocol project",
+          "schema:url": "https://modelcontextprotocol.io/specification/latest",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Architecture overview",
+          "dcterms:publisher": "Model Context Protocol documentation (protocol version 2026-07-28)",
+          "schema:url": "https://modelcontextprotocol.io/docs/2026-07-28/learn/architecture",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "MCP joins the Agentic AI Foundation",
+          "dcterms:publisher": "Model Context Protocol blog, 9 December 2025",
+          "schema:url": "https://blog.modelcontextprotocol.io/posts/2025-12-09-mcp-joins-agentic-ai-foundation/",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions",
+          "dcterms:publisher": "arXiv 2503.23278v3 (Hou, Zhao, Wang and Wang), 2025",
+          "schema:url": "https://arxiv.org/html/2503.23278v3",
+          "kto:sourceType": "preprint"
+        }
+      ],
+      "kto:file": "articles/agents-and-tool-use/model-context-protocol.md",
+      "skos:altLabel": [
+        "MCP",
+        "MCP protocol"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:tool-use"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:ai-agent"
+        },
+        {
+          "@id": "kt:retrieval-augmented-generation"
+        },
+        {
+          "@id": "kt:prompt-injection"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:anthropic"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:language-server-protocol"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:agent2agent-protocol"
+        }
+      ]
+    },
+    {
       "@id": "kt:multi-agent-systems",
       "@type": "kto:Paradigm",
       "skos:prefLabel": "Multi-agent systems",

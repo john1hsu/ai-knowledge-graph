@@ -37,6 +37,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alfworld` | `kt:autogen`, `kt:react-prompting` |
 | `kt:all-reduce` | `kt:data-parallelism`, `kt:distributed-training` |
 | `kt:alphago-zero` | `kt:alphago`, `kt:alphazero` |
+| `kt:anthropic` | `kt:model-context-protocol`, `kt:constitutional-ai` |
 | `kt:apache-lucene` | `kt:bm25`, `kt:tf-idf` |
 | `kt:automatic-differentiation` | `kt:pytorch`, `kt:backpropagation` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:yolo` |
@@ -68,7 +69,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:marvin-minsky` | `kt:dartmouth-workshop`, `kt:perceptron` |
 | `kt:meta-ai` | `kt:toolformer`, `kt:pytorch` |
 | `kt:microsoft-research` | `kt:autogen`, `kt:residual-connection` |
-| `kt:model-context-protocol` | `kt:agent2agent-protocol`, `kt:tool-use` |
 | `kt:monte-carlo-methods` | `kt:monte-carlo-tree-search`, `kt:temporal-difference-learning` |
 | `kt:multi-armed-bandit` | `kt:exploration-exploitation`, `kt:monte-carlo-tree-search` |
 | `kt:muzero` | `kt:alphazero`, `kt:monte-carlo-tree-search` |
@@ -110,7 +110,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alpha-beta-pruning` | `kt:monte-carlo-tree-search` |
 | `kt:alphabet-inc` | `kt:google` |
 | `kt:ann-benchmarks` | `kt:approximate-nearest-neighbor-search` |
-| `kt:anthropic` | `kt:constitutional-ai` |
 | `kt:application-specific-integrated-circuit` | `kt:tpu` |
 | `kt:approximation-by-superpositions-of-a-sigmoidal-function` | `kt:universal-approximation-theorem` |
 | `kt:aqua-rat` | `kt:program-induction-by-rationale-generation` |
@@ -253,6 +252,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:kernel-pca` | `kt:principal-component-analysis` |
 | `kt:knowledge-base` | `kt:expert-systems` |
 | `kt:langchain` | `kt:langgraph` |
+| `kt:language-server-protocol` | `kt:model-context-protocol` |
 | `kt:large-language-monkeys` | `kt:self-consistency` |
 | `kt:lasso` | `kt:regularization` |
 | `kt:latent-diffusion-model` | `kt:diffusion-model` |
