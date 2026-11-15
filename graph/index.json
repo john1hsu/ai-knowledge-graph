@@ -2193,6 +2193,27 @@
     ]
   },
   {
+    "id": "kt:latent-diffusion-model",
+    "title": "Latent diffusion model",
+    "aliases": [
+      "LDM",
+      "latent diffusion"
+    ],
+    "type": "Architecture",
+    "domain": "computer-vision-and-multimodal",
+    "file": "articles/computer-vision-and-multimodal/latent-diffusion-model.md",
+    "created": "2026-11-15",
+    "maturity": "established",
+    "source_urls": [
+      "https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html",
+      "https://arxiv.org/pdf/2112.10752",
+      "https://huggingface.co/docs/diffusers/api/pipelines/stable_diffusion/text2img",
+      "https://lmu.de/en/newsroom/news-overview/news/revolutionizing-image-generation-by-ai-turning-text-into-images.html",
+      "https://proceedings.iclr.cc/paper_files/paper/2024/hash/081b08068e4733ae3e7ad019fe8d172f-Abstract-Conference.html",
+      "https://openaccess.thecvf.com/content/ICCV2023/papers/Peebles_Scalable_Diffusion_Models_with_Transformers_ICCV_2023_paper.pdf"
+    ]
+  },
+  {
     "id": "kt:least-to-most-prompting",
     "title": "Least-to-most prompting",
     "aliases": [

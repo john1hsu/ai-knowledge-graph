@@ -2597,6 +2597,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/latent-diffusion-model> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/latent-diffusion-model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/latent-diffusion-model> <http://www.w3.org/2000/01/rdf-schema#label> "Latent diffusion model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/latent-diffusion-model> <http://www.w3.org/2004/02/skos/core#altLabel> "LDM" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/latent-diffusion-model> <http://www.w3.org/2004/02/skos/core#altLabel> "latent diffusion" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/latent-diffusion-model> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/diffusion-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/latent-diffusion-model> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/generative-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/latent-diffusion-model> <http://www.w3.org/2004/02/skos/core#definition> "A diffusion model that runs its noising and denoising process in the compressed latent space of a pretrained autoencoder rather than on raw pixels, with cross-attention layers for conditioning on text or other inputs; it is the architecture behind Stable Diffusion." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/latent-diffusion-model> <http://www.w3.org/2004/02/skos/core#prefLabel> "Latent diffusion model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/latent-diffusion-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/latent-diffusion-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/clip> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/latent-diffusion-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/variational-autoencoder> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/latent-diffusion-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/latent-diffusion-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/latent-diffusion-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/latent-diffusion-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/latent-diffusion-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/latent-diffusion-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/latent-diffusion-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/latent-diffusion-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/u-net> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/latent-diffusion-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "computer-vision-and-multimodal" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/latent-diffusion-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#extends> <https://github.com/john1hsu/ai-knowledge-graph/id/diffusion-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/latent-diffusion-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-diffusers> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/latent-diffusion-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/high-resolution-image-synthesis-with-latent-diffusion-models> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/latent-diffusion-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/latent-diffusion-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/text-to-image-generation> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> <http://purl.org/dc/terms/created> "2026-11-15" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> <http://www.w3.org/2000/01/rdf-schema#label> "Least-to-most prompting" .
@@ -7104,6 +7130,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s5> <https://schema.org/url> "https://arxiv.org/abs/2108.07258" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s1> <http://purl.org/dc/terms/publisher> "Rombach, Blattmann, Lorenz, Esser and Ommer, Proceedings of IEEE/CVF CVPR 2022, pp. 10684–10695" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s1> <http://purl.org/dc/terms/title> "High-Resolution Image Synthesis With Latent Diffusion Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s1> <https://schema.org/url> "https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s2> <http://purl.org/dc/terms/publisher> "Rombach et al., authors' arXiv version (v1 December 2021, v2 April 2022)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s2> <http://purl.org/dc/terms/title> "High-Resolution Image Synthesis with Latent Diffusion Models (arXiv:2112.10752v2)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s2> <https://schema.org/url> "https://arxiv.org/pdf/2112.10752" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s3> <http://purl.org/dc/terms/publisher> "Hugging Face Diffusers documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s3> <http://purl.org/dc/terms/title> "Text-to-image (Stable Diffusion pipeline)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s3> <https://schema.org/url> "https://huggingface.co/docs/diffusers/api/pipelines/stable_diffusion/text2img" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s4> <http://purl.org/dc/terms/publisher> "LMU Munich newsroom (1 September 2022)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s4> <http://purl.org/dc/terms/title> "Revolutionizing image generation by AI: Turning text into images" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s4> <https://schema.org/url> "https://lmu.de/en/newsroom/news-overview/news/revolutionizing-image-generation-by-ai-turning-text-into-images.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s5> <http://purl.org/dc/terms/publisher> "Podell et al., ICLR 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s5> <http://purl.org/dc/terms/title> "SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s5> <https://schema.org/url> "https://proceedings.iclr.cc/paper_files/paper/2024/hash/081b08068e4733ae3e7ad019fe8d172f-Abstract-Conference.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s6> <http://purl.org/dc/terms/publisher> "Peebles and Xie, ICCV 2023 (CVF open access)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s6> <http://purl.org/dc/terms/title> "Scalable Diffusion Models with Transformers" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s6> <https://schema.org/url> "https://openaccess.thecvf.com/content/ICCV2023/papers/Peebles_Scalable_Diffusion_Models_with_Transformers_ICCV_2023_paper.pdf" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s1> <http://purl.org/dc/terms/publisher> "arXiv 2205.10625v3 (Zhou, Schärli, Hou, Wei, Scales, Wang, Schuurmans, Cui, Bousquet, Le, Chi)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s1> <http://purl.org/dc/terms/title> "Least-to-Most Prompting Enables Complex Reasoning in Large Language Models" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

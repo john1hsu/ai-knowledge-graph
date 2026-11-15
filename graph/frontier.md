@@ -5,11 +5,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:artificial-intelligence`, `kt:geoffrey-hinton`, `kt:perceptron`, `kt:symbolic-ai` |
+| `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:latent-diffusion-model`, `kt:hidden-markov-model`, `kt:unsupervised-learning` |
 | `kt:vanishing-gradient-problem` | `kt:activation-function`, `kt:batch-normalization`, `kt:long-short-term-memory`, `kt:recurrent-neural-network`, `kt:residual-connection` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:ai-hardware` | `kt:ai-accelerator`, `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
 | `kt:bradley-terry-model` | `kt:chatbot-arena`, `kt:human-evaluation`, `kt:reward-model`, `kt:direct-preference-optimization` |
-| `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:hidden-markov-model`, `kt:unsupervised-learning` |
 | `kt:google-deepmind` | `kt:google`, `kt:alphago`, `kt:alphazero`, `kt:deep-q-network` |
 | `kt:heuristic-search` | `kt:deep-blue`, `kt:logic-theorist`, `kt:beam-search`, `kt:tree-of-thoughts` |
 | `kt:layer-normalization` | `kt:batch-normalization`, `kt:batch-normalization`, `kt:residual-connection`, `kt:transformer-architecture` |
@@ -25,6 +25,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ms-coco` | `kt:faster-r-cnn`, `kt:object-detection`, `kt:yolo` |
 | `kt:orca-serving-system` | `kt:model-serving`, `kt:batching-and-paged-attention`, `kt:tensorrt-llm` |
 | `kt:self-supervised-learning` | `kt:representation-learning`, `kt:unsupervised-learning`, `kt:pretraining` |
+| `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:latent-diffusion-model` |
 | `kt:wmt-2014` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
 | `kt:alfworld` | `kt:autogen`, `kt:react-prompting` |
@@ -56,6 +57,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:foundation-model` | `kt:transfer-learning`, `kt:large-language-model` |
 | `kt:highway-network` | `kt:residual-connection`, `kt:residual-connection` |
 | `kt:hugging-face` | `kt:hugging-face-transformers`, `kt:hugging-face-trl` |
+| `kt:hugging-face-diffusers` | `kt:diffusion-model`, `kt:latent-diffusion-model` |
 | `kt:hugging-face-peft` | `kt:parameter-efficient-fine-tuning`, `kt:qlora` |
 | `kt:induction-head` | `kt:mechanistic-interpretability`, `kt:in-context-learning` |
 | `kt:iso-iec-27001` | `kt:iso-iec-42001`, `kt:iso-iec-42001` |
@@ -85,11 +87,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:self-refine` | `kt:agentic-workflow`, `kt:voyager` |
 | `kt:stochastic-gradient-descent` | `kt:data-parallelism`, `kt:adam-optimizer` |
 | `kt:support-vector-machine` | `kt:perceptron`, `kt:statistical-learning-theory` |
+| `kt:text-to-image-generation` | `kt:diffusion-model`, `kt:latent-diffusion-model` |
 | `kt:the-curious-case-of-neural-text-degeneration` | `kt:beam-search`, `kt:sampling-temperature-and-top-p` |
 | `kt:tokenization` | `kt:perplexity`, `kt:structured-output` |
 | `kt:triton-inference-server` | `kt:model-serving`, `kt:tensorrt-llm` |
+| `kt:u-net` | `kt:latent-diffusion-model`, `kt:semantic-segmentation` |
 | `kt:upper-confidence-bound` | `kt:exploration-exploitation`, `kt:monte-carlo-tree-search` |
-| `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
 | `kt:vector-space-model` | `kt:information-retrieval`, `kt:tf-idf` |
 | `kt:weight-decay` | `kt:dropout`, `kt:regularization` |
 | `kt:zero-redundancy-optimizer` | `kt:data-parallelism`, `kt:distributed-training` |
@@ -223,8 +226,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:harold-hotelling` | `kt:principal-component-analysis` |
 | `kt:herbert-a-simon` | `kt:logic-theorist` |
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
+| `kt:high-resolution-image-synthesis-with-latent-diffusion-models` | `kt:latent-diffusion-model` |
 | `kt:hotpotqa` | `kt:react-prompting` |
-| `kt:hugging-face-diffusers` | `kt:diffusion-model` |
 | `kt:hugging-face-hub` | `kt:model-cards` |
 | `kt:ian-goodfellow` | `kt:generative-adversarial-network` |
 | `kt:ibm-research` | `kt:deep-blue` |
@@ -266,7 +269,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:language-server-protocol` | `kt:model-context-protocol` |
 | `kt:large-language-monkeys` | `kt:self-consistency` |
 | `kt:lasso` | `kt:regularization` |
-| `kt:latent-diffusion-model` | `kt:diffusion-model` |
 | `kt:learning-representations-by-back-propagating-errors` | `kt:backpropagation` |
 | `kt:learning-to-predict-by-the-methods-of-temporal-differences` | `kt:temporal-difference-learning` |
 | `kt:learning-to-rank` | `kt:reranking` |
@@ -406,7 +408,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tensor-parallelism` | `kt:distributed-training` |
 | `kt:tensorflow` | `kt:google` |
 | `kt:tensorflow-serving` | `kt:model-serving` |
-| `kt:text-to-image-generation` | `kt:diffusion-model` |
 | `kt:the-leaderboard-illusion` | `kt:chatbot-arena` |
 | `kt:the-logic-theory-machine-a-complex-information-processing-system` | `kt:logic-theorist` |
 | `kt:the-perceptron-a-probabilistic-model-for-information-storage-and-organization-in-the-brain` | `kt:perceptron` |
@@ -424,7 +425,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:trust-region-policy-optimization` | `kt:proximal-policy-optimization` |
 | `kt:truthfulqa-measuring-how-models-mimic-human-falsehoods` | `kt:truthfulqa` |
 | `kt:turing-machine` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
-| `kt:u-net` | `kt:semantic-segmentation` |
 | `kt:uc-berkeley` | `kt:vllm` |
 | `kt:uk-ai-security-institute` | `kt:ai-safety-institutes` |
 | `kt:umap` | `kt:dimensionality-reduction` |
