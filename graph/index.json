@@ -2536,6 +2536,28 @@
     ]
   },
   {
+    "id": "kt:parameter-efficient-fine-tuning",
+    "title": "Parameter-efficient fine-tuning",
+    "aliases": [
+      "PEFT",
+      "delta tuning",
+      "parameter-efficient transfer learning"
+    ],
+    "type": "Paradigm",
+    "domain": "training-and-adaptation",
+    "file": "articles/training-and-adaptation/parameter-efficient-fine-tuning.md",
+    "created": "2026-11-15",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/abs/1902.00751v2",
+      "https://aclanthology.org/2021.acl-long.353",
+      "https://aclanthology.org/2021.emnlp-main.243",
+      "https://arxiv.org/html/2106.09685v1",
+      "https://arxiv.org/abs/2203.06904",
+      "https://huggingface.co/docs/peft/main/en/index"
+    ]
+  },
+  {
     "id": "kt:perceptron",
     "title": "Perceptron",
     "aliases": [

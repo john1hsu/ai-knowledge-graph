@@ -14838,6 +14838,111 @@
       ]
     },
     {
+      "@id": "kt:parameter-efficient-fine-tuning",
+      "@type": "kto:Paradigm",
+      "skos:prefLabel": "Parameter-efficient fine-tuning",
+      "skos:definition": "A family of methods that adapt a pretrained model to a new task by training only a small set of added or selected parameters (adapters, soft prompts, low-rank updates) while keeping most or all of the original weights frozen, cutting the compute, memory and storage cost of fine-tuning.",
+      "kto:domain": "training-and-adaptation",
+      "dcterms:created": "2026-11-15",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Parameter-Efficient Transfer Learning for NLP",
+          "dcterms:publisher": "arXiv 1902.00751 (ICML 2019), Google Research (Houlsby et al.)",
+          "schema:url": "https://arxiv.org/abs/1902.00751v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Prefix-Tuning: Optimizing Continuous Prompts for Generation",
+          "dcterms:publisher": "ACL-IJCNLP 2021, Proceedings of the 59th Annual Meeting of the ACL (Li and Liang)",
+          "schema:url": "https://aclanthology.org/2021.acl-long.353",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Power of Scale for Parameter-Efficient Prompt Tuning",
+          "dcterms:publisher": "EMNLP 2021 (Lester, Al-Rfou and Constant)",
+          "schema:url": "https://aclanthology.org/2021.emnlp-main.243",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "LoRA: Low-Rank Adaptation of Large Language Models",
+          "dcterms:publisher": "arXiv 2106.09685, Microsoft; ICLR 2022 (Hu et al.)",
+          "schema:url": "https://arxiv.org/html/2106.09685v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Delta Tuning: A Comprehensive Study of Parameter Efficient Methods for Pre-trained Language Models",
+          "dcterms:publisher": "arXiv 2203.06904, Tsinghua University and collaborators (Ding et al.)",
+          "schema:url": "https://arxiv.org/abs/2203.06904",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "PEFT",
+          "dcterms:publisher": "Hugging Face PEFT documentation (main branch; stable release v0.20.0)",
+          "schema:url": "https://huggingface.co/docs/peft/main/en/index",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/training-and-adaptation/parameter-efficient-fine-tuning.md",
+      "skos:altLabel": [
+        "PEFT",
+        "delta tuning",
+        "parameter-efficient transfer learning"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:fine-tuning"
+        },
+        {
+          "@id": "kt:transfer-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:qlora"
+        },
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:instruction-tuning"
+        },
+        {
+          "@id": "kt:hugging-face-trl"
+        },
+        {
+          "@id": "kt:prompt-engineering"
+        },
+        {
+          "@id": "kt:catastrophic-forgetting"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:lora"
+        },
+        {
+          "@id": "kt:adapter-modules"
+        },
+        {
+          "@id": "kt:prefix-tuning"
+        },
+        {
+          "@id": "kt:prompt-tuning"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:parameter-efficient-transfer-learning-for-nlp"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:hugging-face-peft"
+        }
+      ]
+    },
+    {
       "@id": "kt:pretraining",
       "@type": "kto:Technique",
       "skos:prefLabel": "Pretraining: learning general-purpose representations before task adaptation",

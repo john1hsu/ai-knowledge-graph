@@ -29,8 +29,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ms-coco` | `kt:faster-r-cnn`, `kt:object-detection`, `kt:yolo` |
 | `kt:natural-language-processing` | `kt:eliza`, `kt:prompt-engineering`, `kt:information-retrieval` |
 | `kt:orca-serving-system` | `kt:model-serving`, `kt:batching-and-paged-attention`, `kt:tensorrt-llm` |
-| `kt:parameter-efficient-fine-tuning` | `kt:fine-tuning`, `kt:hugging-face-trl`, `kt:qlora` |
 | `kt:reward-model` | `kt:goodharts-law`, `kt:reward-hacking`, `kt:hugging-face-trl` |
+| `kt:transfer-learning` | `kt:fine-tuning`, `kt:parameter-efficient-fine-tuning`, `kt:pretraining` |
 | `kt:wmt-2014` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
 | `kt:ai-risk-management` | `kt:iso-iec-42001`, `kt:nist-ai-risk-management-framework` |
@@ -42,6 +42,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:yolo` |
 | `kt:bert` | `kt:reranking`, `kt:transformer-architecture` |
 | `kt:bradley-terry-model` | `kt:human-evaluation`, `kt:direct-preference-optimization` |
+| `kt:catastrophic-forgetting` | `kt:fine-tuning`, `kt:parameter-efficient-fine-tuning` |
 | `kt:computing-power-and-the-governance-of-artificial-intelligence` | `kt:compute-governance`, `kt:compute-governance` |
 | `kt:cross-validation` | `kt:bias-variance-tradeoff`, `kt:overfitting` |
 | `kt:curse-of-dimensionality` | `kt:universal-approximation-theorem`, `kt:dimensionality-reduction` |
@@ -56,12 +57,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
 | `kt:highway-network` | `kt:residual-connection`, `kt:residual-connection` |
 | `kt:hugging-face` | `kt:hugging-face-transformers`, `kt:hugging-face-trl` |
+| `kt:hugging-face-peft` | `kt:parameter-efficient-fine-tuning`, `kt:qlora` |
 | `kt:induction-head` | `kt:mechanistic-interpretability`, `kt:in-context-learning` |
 | `kt:iso-iec-27001` | `kt:iso-iec-42001`, `kt:iso-iec-42001` |
 | `kt:knowledge-representation` | `kt:expert-systems`, `kt:symbolic-ai` |
 | `kt:language-model` | `kt:perplexity`, `kt:large-language-model` |
 | `kt:language-models-are-few-shot-learners` | `kt:few-shot-prompting`, `kt:in-context-learning` |
 | `kt:latent-semantic-analysis` | `kt:glove`, `kt:semantic-search` |
+| `kt:lora` | `kt:parameter-efficient-fine-tuning`, `kt:qlora` |
 | `kt:marvin-minsky` | `kt:dartmouth-workshop`, `kt:perceptron` |
 | `kt:meta-ai` | `kt:toolformer`, `kt:pytorch` |
 | `kt:microsoft-research` | `kt:autogen`, `kt:residual-connection` |
@@ -83,7 +86,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:support-vector-machine` | `kt:perceptron`, `kt:statistical-learning-theory` |
 | `kt:the-curious-case-of-neural-text-degeneration` | `kt:beam-search`, `kt:sampling-temperature-and-top-p` |
 | `kt:tokenization` | `kt:perplexity`, `kt:structured-output` |
-| `kt:transfer-learning` | `kt:fine-tuning`, `kt:pretraining` |
 | `kt:triton-inference-server` | `kt:model-serving`, `kt:tensorrt-llm` |
 | `kt:upper-confidence-bound` | `kt:exploration-exploitation`, `kt:monte-carlo-tree-search` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network` |
@@ -93,6 +95,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:zero-shot-learning` | `kt:clip`, `kt:instruction-tuning` |
 | `kt:adam-a-method-for-stochastic-optimization` | `kt:adam-optimizer` |
 | `kt:adamw` | `kt:adam-optimizer` |
+| `kt:adapter-modules` | `kt:parameter-efficient-fine-tuning` |
 | `kt:adversarial-example` | `kt:adversarial-machine-learning` |
 | `kt:adversarial-training` | `kt:adversarial-machine-learning` |
 | `kt:ai-ethics` | `kt:algorithmic-bias-and-fairness` |
@@ -127,7 +130,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:boltzmann-machine` | `kt:geoffrey-hinton` |
 | `kt:boosting` | `kt:ensemble-methods` |
 | `kt:campbells-law` | `kt:goodharts-law` |
-| `kt:catastrophic-forgetting` | `kt:fine-tuning` |
 | `kt:center-for-ai-standards-and-innovation` | `kt:ai-safety-institutes` |
 | `kt:chain-of-thought-faithfulness` | `kt:reasoning-models` |
 | `kt:chain-of-thought-prompting-elicits-reasoning-in-large-language-models` | `kt:chain-of-thought` |
@@ -218,7 +220,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hotpotqa` | `kt:react-prompting` |
 | `kt:hugging-face-diffusers` | `kt:diffusion-model` |
 | `kt:hugging-face-hub` | `kt:model-cards` |
-| `kt:hugging-face-peft` | `kt:qlora` |
 | `kt:ian-goodfellow` | `kt:generative-adversarial-network` |
 | `kt:if-beam-search-is-the-answer-what-was-the-question` | `kt:beam-search` |
 | `kt:ilsvrc` | `kt:image-classification` |
@@ -270,7 +271,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:logistic-regression` | `kt:conditional-random-field` |
 | `kt:long-short-term-memory-1997` | `kt:long-short-term-memory` |
 | `kt:long-short-term-memory-networks-for-machine-reading` | `kt:self-attention` |
-| `kt:lora` | `kt:qlora` |
 | `kt:loss-function` | `kt:supervised-learning` |
 | `kt:lottery-ticket-hypothesis` | `kt:model-pruning` |
 | `kt:machine-learning-systems` | `kt:llm-inference-optimization` |
@@ -316,6 +316,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:optimal-brain-damage` | `kt:model-pruning` |
 | `kt:outlines` | `kt:structured-output` |
 | `kt:pac-learning` | `kt:statistical-learning-theory` |
+| `kt:parameter-efficient-transfer-learning-for-nlp` | `kt:parameter-efficient-fine-tuning` |
 | `kt:partially-observable-markov-decision-process` | `kt:markov-decision-process` |
 | `kt:pascal-voc` | `kt:object-detection` |
 | `kt:pattern-recognition` | `kt:computer-vision` |
@@ -327,11 +328,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:policy-gradient-methods-for-reinforcement-learning-with-function-approximation` | `kt:policy-gradient` |
 | `kt:policy-iteration` | `kt:markov-decision-process` |
 | `kt:prefix-caching` | `kt:kv-cache` |
+| `kt:prefix-tuning` | `kt:parameter-efficient-fine-tuning` |
 | `kt:pregel` | `kt:langgraph` |
 | `kt:princeton-university` | `kt:swe-bench` |
 | `kt:probabilistic-graphical-model` | `kt:conditional-random-field` |
 | `kt:process-reward-model` | `kt:test-time-compute` |
 | `kt:program-induction` | `kt:program-induction-by-rationale-generation` |
+| `kt:prompt-tuning` | `kt:parameter-efficient-fine-tuning` |
 | `kt:proximal-policy-optimization-algorithms` | `kt:proximal-policy-optimization` |
 | `kt:pytorch-an-imperative-style-high-performance-deep-learning-library` | `kt:pytorch` |
 | `kt:qlora-efficient-finetuning-of-quantized-llms` | `kt:qlora` |

@@ -3010,6 +3010,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ml-foundations" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Paradigm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> <http://www.w3.org/2000/01/rdf-schema#label> "Parameter-efficient fine-tuning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> <http://www.w3.org/2004/02/skos/core#altLabel> "PEFT" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> <http://www.w3.org/2004/02/skos/core#altLabel> "delta tuning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> <http://www.w3.org/2004/02/skos/core#altLabel> "parameter-efficient transfer learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/transfer-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> <http://www.w3.org/2004/02/skos/core#definition> "A family of methods that adapt a pretrained model to a new task by training only a small set of added or selected parameters (adapters, soft prompts, low-rank updates) while keeping most or all of the original weights frozen, cutting the compute, memory and storage cost of fine-tuning." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> <http://www.w3.org/2004/02/skos/core#prefLabel> "Parameter-efficient fine-tuning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/catastrophic-forgetting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/qlora> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "training-and-adaptation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/adapter-modules> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/lora> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/prefix-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-peft> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-transfer-learning-for-nlp> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> <http://www.w3.org/2000/01/rdf-schema#label> "Perceptron" .
@@ -7095,6 +7125,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s6> <https://schema.org/url> "https://d2l.ai/chapter_multilayer-perceptrons/generalization-deep.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s1> <http://purl.org/dc/terms/publisher> "arXiv 1902.00751 (ICML 2019), Google Research (Houlsby et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s1> <http://purl.org/dc/terms/title> "Parameter-Efficient Transfer Learning for NLP" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s1> <https://schema.org/url> "https://arxiv.org/abs/1902.00751v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s2> <http://purl.org/dc/terms/publisher> "ACL-IJCNLP 2021, Proceedings of the 59th Annual Meeting of the ACL (Li and Liang)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s2> <http://purl.org/dc/terms/title> "Prefix-Tuning: Optimizing Continuous Prompts for Generation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s2> <https://schema.org/url> "https://aclanthology.org/2021.acl-long.353" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s3> <http://purl.org/dc/terms/publisher> "EMNLP 2021 (Lester, Al-Rfou and Constant)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s3> <http://purl.org/dc/terms/title> "The Power of Scale for Parameter-Efficient Prompt Tuning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s3> <https://schema.org/url> "https://aclanthology.org/2021.emnlp-main.243" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s4> <http://purl.org/dc/terms/publisher> "arXiv 2106.09685, Microsoft; ICLR 2022 (Hu et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s4> <http://purl.org/dc/terms/title> "LoRA: Low-Rank Adaptation of Large Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s4> <https://schema.org/url> "https://arxiv.org/html/2106.09685v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s5> <http://purl.org/dc/terms/publisher> "arXiv 2203.06904, Tsinghua University and collaborators (Ding et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s5> <http://purl.org/dc/terms/title> "Delta Tuning: A Comprehensive Study of Parameter Efficient Methods for Pre-trained Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s5> <https://schema.org/url> "https://arxiv.org/abs/2203.06904" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s6> <http://purl.org/dc/terms/publisher> "Hugging Face PEFT documentation (main branch; stable release v0.20.0)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s6> <http://purl.org/dc/terms/title> "PEFT" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s6> <https://schema.org/url> "https://huggingface.co/docs/peft/main/en/index" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s1> <http://purl.org/dc/terms/publisher> "F. Rosenblatt, Cornell Aeronautical Laboratory; Psychological Review 65(6), 1958" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s1> <http://purl.org/dc/terms/title> "The perceptron: A probabilistic model for information storage and organization in the brain" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/perceptron/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
