@@ -3981,6 +3981,27 @@
     ]
   },
   {
+    "id": "kt:unsupervised-learning",
+    "title": "Unsupervised learning",
+    "aliases": [
+      "learning from unlabeled data",
+      "learning without a teacher"
+    ],
+    "type": "Paradigm",
+    "domain": "ml-foundations",
+    "file": "articles/ml-foundations/unsupervised-learning.md",
+    "created": "2026-11-15",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://export.arxiv.org/pdf/2106.11342v3.pdf",
+      "https://papers.cnl.salk.edu/PDFs/Unsupervised%20Learning_%20Foundations%20of%20Neural%20Computation%201999-3514.pdf",
+      "https://mlanthology.org/neco/1989/barlow1989neco-unsupervised",
+      "https://web.iitd.ac.in/~sumeet/cs229-notes7b.pdf",
+      "https://www.stat.cmu.edu/~rnugent/PCMI2016/papers/LloydKMeans.pdf",
+      "https://cs.brown.edu/courses/csci1820/spring-2022/resources/Dempster_Laird_Rubin_1977.pdf"
+    ]
+  },
+  {
     "id": "kt:vector-database",
     "title": "Vector database",
     "aliases": [

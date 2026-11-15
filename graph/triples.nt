@@ -9153,6 +9153,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s5> <https://schema.org/url> "https://www.cs.ubc.ca/~dsuth/532D/25w1/notes/9-universal.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s1> <http://purl.org/dc/terms/publisher> "Zhang, Lipton, Li and Smola, arXiv:2106.11342 (book, d2l.ai)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s1> <http://purl.org/dc/terms/title> "Dive into Deep Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s1> <https://schema.org/url> "https://export.arxiv.org/pdf/2106.11342v3.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s2> <http://purl.org/dc/terms/publisher> "MIT Press, 1999 (G. E. Hinton and T. J. Sejnowski, eds.), Salk Institute CNL copy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s2> <http://purl.org/dc/terms/title> "Introduction to Unsupervised Learning: Foundations of Neural Computation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s2> <https://schema.org/url> "https://papers.cnl.salk.edu/PDFs/Unsupervised%20Learning_%20Foundations%20of%20Neural%20Computation%201999-3514.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s3> <http://purl.org/dc/terms/publisher> "Neural Computation 1(3):295–311, 1989 (H. B. Barlow)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s3> <http://purl.org/dc/terms/title> "Unsupervised Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s3> <https://schema.org/url> "https://mlanthology.org/neco/1989/barlow1989neco-unsupervised" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s4> <http://purl.org/dc/terms/publisher> "Stanford University CS229 (Andrew Ng), course copy hosted at IIT Delhi" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s4> <http://purl.org/dc/terms/title> "CS229 Lecture Notes: Mixtures of Gaussians and the EM Algorithm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s4> <https://schema.org/url> "https://web.iitd.ac.in/~sumeet/cs229-notes7b.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s5> <http://purl.org/dc/terms/publisher> "IEEE Transactions on Information Theory IT-28(2):129–137, 1982 (S. P. Lloyd), CMU course copy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s5> <http://purl.org/dc/terms/title> "Least Squares Quantization in PCM" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s5> <https://schema.org/url> "https://www.stat.cmu.edu/~rnugent/PCMI2016/papers/LloydKMeans.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s6> <http://purl.org/dc/terms/publisher> "Journal of the Royal Statistical Society, Series B 39(1):1–38, 1977 (Dempster, Laird and Rubin), Brown course copy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s6> <http://purl.org/dc/terms/title> "Maximum Likelihood from Incomplete Data via the EM Algorithm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s6> <https://schema.org/url> "https://cs.brown.edu/courses/csci1820/spring-2022/resources/Dempster_Laird_Rubin_1977.pdf" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/vector-database/s1> <http://purl.org/dc/terms/publisher> "The VLDB Journal 33, pp. 1591-1615, 2024 (Pan, Wang and Li)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/vector-database/s1> <http://purl.org/dc/terms/title> "Survey of vector database management systems" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/vector-database/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -9923,6 +9953,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <https://github.com/john1hsu/ai-knowledge-graph/ontology#extends> <https://github.com/john1hsu/ai-knowledge-graph/id/stone-weierstrass-theorem> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/approximation-by-superpositions-of-a-sigmoidal-function> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Paradigm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> <http://www.w3.org/2000/01/rdf-schema#label> "Unsupervised learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "learning from unlabeled data" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "learning without a teacher" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> <http://www.w3.org/2004/02/skos/core#definition> "The machine learning paradigm in which a model is fitted to unlabeled data to discover its structure, such as clusters, low-dimensional subspaces, useful representations or the data density itself." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> <http://www.w3.org/2004/02/skos/core#prefLabel> "Unsupervised learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/dimensionality-reduction> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/generative-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ml-foundations" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/expectation-maximization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/k-means-clustering> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/vector-database> <http://purl.org/dc/terms/created> "2026-11-14" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/vector-database> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Tool> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/vector-database> <http://www.w3.org/2000/01/rdf-schema#label> "Vector database" .
