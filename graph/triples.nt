@@ -529,6 +529,33 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/faiss> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Field> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> <http://www.w3.org/2000/01/rdf-schema#label> "Artificial intelligence" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> <http://www.w3.org/2004/02/skos/core#altLabel> "AI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> <http://www.w3.org/2004/02/skos/core#altLabel> "machine intelligence" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/computer-science> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> <http://www.w3.org/2004/02/skos/core#definition> "The field of computer science that builds machines, especially computer programs, able to perform tasks associated with intelligent beings, such as learning, reasoning, problem solving, perception and language; the term was coined by John McCarthy in 1955." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> <http://www.w3.org/2004/02/skos/core#prefLabel> "Artificial intelligence" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/connectionism> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/dartmouth-workshop> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s7> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-history" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/john-mccarthy> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> <http://www.w3.org/2000/01/rdf-schema#label> "Artificial neural network" .
@@ -4551,6 +4578,41 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s6> <https://schema.org/url> "https://arxiv.org/pdf/1807.05614" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s1> <http://purl.org/dc/terms/publisher> "John McCarthy, Stanford University (revised 2007-11-12)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s1> <http://purl.org/dc/terms/title> "What is Artificial Intelligence? — Basic Questions" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s1> <https://schema.org/url> "https://www-formal.stanford.edu/jmc/whatisai/node1.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s2> <http://purl.org/dc/terms/title> "Artificial intelligence" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s2> <https://schema.org/url> "https://www.britannica.com/technology/Artificial-intelligence" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s3> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s3> <http://purl.org/dc/terms/title> "Artificial intelligence — Methods and goals in AI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s3> <https://schema.org/url> "https://www.britannica.com/technology/artificial-intelligence/Methods-and-goals-in-AI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s4> <http://purl.org/dc/terms/publisher> "S. Russell, K. Perset, M. Grobelnik, OECD.AI (2023-11-29)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s4> <http://purl.org/dc/terms/title> "Updates to the OECD's definition of an AI system explained" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "intergovernmental" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s4> <https://schema.org/url> "https://oecd.ai/en/wonk/ai-system-definition-update" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s5> <http://purl.org/dc/terms/publisher> "Stuart Russell and Peter Norvig, UC Berkeley" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s5> <http://purl.org/dc/terms/title> "Artificial Intelligence: A Modern Approach (3rd ed.) — Preface" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s5> <https://schema.org/url> "https://aima.cs.berkeley.edu/3rd-ed/preface.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s6> <http://purl.org/dc/terms/publisher> "Stanford Institute for Human-Centered AI (HAI)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s6> <http://purl.org/dc/terms/title> "AI Index 2025: State of AI in 10 Charts" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s6> <https://schema.org/url> "https://hai.stanford.edu/news/ai-index-2025-state-of-ai-in-10-charts" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s7> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s7> <http://purl.org/dc/terms/title> "John McCarthy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s7> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-intelligence/s7> <https://schema.org/url> "https://britannica.com/biography/John-McCarthy" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s1> <http://purl.org/dc/terms/publisher> "The Bulletin of Mathematical Biophysics 5, 115–133 (1943) (McCulloch and Pitts)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s1> <http://purl.org/dc/terms/title> "A logical calculus of the ideas immanent in nervous activity" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/artificial-neural-network/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

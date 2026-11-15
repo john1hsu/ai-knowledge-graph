@@ -1296,6 +1296,105 @@
       ]
     },
     {
+      "@id": "kt:artificial-intelligence",
+      "@type": "kto:Field",
+      "skos:prefLabel": "Artificial intelligence",
+      "skos:definition": "The field of computer science that builds machines, especially computer programs, able to perform tasks associated with intelligent beings, such as learning, reasoning, problem solving, perception and language; the term was coined by John McCarthy in 1955.",
+      "kto:domain": "ai-history",
+      "dcterms:created": "2026-11-15",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "What is Artificial Intelligence? — Basic Questions",
+          "dcterms:publisher": "John McCarthy, Stanford University (revised 2007-11-12)",
+          "schema:url": "https://www-formal.stanford.edu/jmc/whatisai/node1.html",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Artificial intelligence",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/technology/Artificial-intelligence",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Artificial intelligence — Methods and goals in AI",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/technology/artificial-intelligence/Methods-and-goals-in-AI",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Updates to the OECD's definition of an AI system explained",
+          "dcterms:publisher": "S. Russell, K. Perset, M. Grobelnik, OECD.AI (2023-11-29)",
+          "schema:url": "https://oecd.ai/en/wonk/ai-system-definition-update",
+          "kto:sourceType": "intergovernmental"
+        },
+        {
+          "dcterms:title": "Artificial Intelligence: A Modern Approach (3rd ed.) — Preface",
+          "dcterms:publisher": "Stuart Russell and Peter Norvig, UC Berkeley",
+          "schema:url": "https://aima.cs.berkeley.edu/3rd-ed/preface.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "AI Index 2025: State of AI in 10 Charts",
+          "dcterms:publisher": "Stanford Institute for Human-Centered AI (HAI)",
+          "schema:url": "https://hai.stanford.edu/news/ai-index-2025-state-of-ai-in-10-charts",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "John McCarthy",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://britannica.com/biography/John-McCarthy",
+          "kto:sourceType": "encyclopedia"
+        }
+      ],
+      "kto:file": "articles/ai-history/artificial-intelligence.md",
+      "skos:altLabel": [
+        "AI",
+        "machine intelligence"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:computer-science"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:symbolic-ai"
+        },
+        {
+          "@id": "kt:connectionism"
+        },
+        {
+          "@id": "kt:dartmouth-workshop"
+        },
+        {
+          "@id": "kt:turing-test"
+        },
+        {
+          "@id": "kt:ai-agent"
+        },
+        {
+          "@id": "kt:ai-governance"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:machine-learning"
+        },
+        {
+          "@id": "kt:computer-vision"
+        },
+        {
+          "@id": "kt:natural-language-processing"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:john-mccarthy"
+        }
+      ]
+    },
+    {
       "@id": "kt:chinese-room-argument",
       "@type": "kto:Concept",
       "skos:prefLabel": "Chinese room argument",

@@ -4,17 +4,17 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:artificial-intelligence` | `kt:ai-agent`, `kt:ai-winter`, `kt:dartmouth-workshop`, `kt:symbolic-ai`, `kt:turing-test`, `kt:google`, `kt:computer-vision`, `kt:ai-governance`, `kt:machine-learning`, `kt:ai-safety` |
 | `kt:ai-accelerator` | `kt:high-bandwidth-memory`, `kt:model-serving`, `kt:tpu`, `kt:ai-chip-export-controls`, `kt:compute-governance` |
+| `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:artificial-intelligence`, `kt:geoffrey-hinton`, `kt:perceptron`, `kt:symbolic-ai` |
 | `kt:model-compression` | `kt:gptq`, `kt:llm-inference-optimization`, `kt:model-pruning`, `kt:quantization`, `kt:knowledge-distillation` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent`, `kt:generative-agents-interactive-simulacra-of-human-behavior`, `kt:voyager`, `kt:tree-of-thoughts` |
 | `kt:representation-learning` | `kt:clip`, `kt:deep-learning`, `kt:embeddings`, `kt:glove`, `kt:word2vec` |
 | `kt:vanishing-gradient-problem` | `kt:activation-function`, `kt:batch-normalization`, `kt:long-short-term-memory`, `kt:recurrent-neural-network`, `kt:residual-connection` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:chatbot-arena` | `kt:human-evaluation`, `kt:human-evaluation`, `kt:llm-as-a-judge`, `kt:vllm` |
-| `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:geoffrey-hinton`, `kt:perceptron`, `kt:symbolic-ai` |
 | `kt:google-deepmind` | `kt:google`, `kt:alphago`, `kt:alphazero`, `kt:deep-q-network` |
 | `kt:layer-normalization` | `kt:batch-normalization`, `kt:batch-normalization`, `kt:residual-connection`, `kt:transformer-architecture` |
+| `kt:natural-language-processing` | `kt:artificial-intelligence`, `kt:eliza`, `kt:prompt-engineering`, `kt:information-retrieval` |
 | `kt:openai` | `kt:clip`, `kt:gsm8k`, `kt:proximal-policy-optimization`, `kt:concrete-problems-in-ai-safety` |
 | `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
 | `kt:positional-encoding` | `kt:attention-is-all-you-need`, `kt:context-window`, `kt:self-attention`, `kt:transformer-architecture` |
@@ -27,7 +27,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:heuristic-search` | `kt:logic-theorist`, `kt:beam-search`, `kt:tree-of-thoughts` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
 | `kt:ms-coco` | `kt:faster-r-cnn`, `kt:object-detection`, `kt:yolo` |
-| `kt:natural-language-processing` | `kt:eliza`, `kt:prompt-engineering`, `kt:information-retrieval` |
 | `kt:orca-serving-system` | `kt:model-serving`, `kt:batching-and-paged-attention`, `kt:tensorrt-llm` |
 | `kt:reward-model` | `kt:goodharts-law`, `kt:reward-hacking`, `kt:hugging-face-trl` |
 | `kt:transfer-learning` | `kt:fine-tuning`, `kt:parameter-efficient-fine-tuning`, `kt:pretraining` |
@@ -61,6 +60,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hugging-face-peft` | `kt:parameter-efficient-fine-tuning`, `kt:qlora` |
 | `kt:induction-head` | `kt:mechanistic-interpretability`, `kt:in-context-learning` |
 | `kt:iso-iec-27001` | `kt:iso-iec-42001`, `kt:iso-iec-42001` |
+| `kt:john-mccarthy` | `kt:artificial-intelligence`, `kt:dartmouth-workshop` |
 | `kt:knowledge-representation` | `kt:expert-systems`, `kt:symbolic-ai` |
 | `kt:language-model` | `kt:perplexity`, `kt:large-language-model` |
 | `kt:language-models-are-few-shot-learners` | `kt:few-shot-prompting`, `kt:in-context-learning` |
@@ -144,6 +144,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:commonsenseqa-2-0` | `kt:commonsenseqa` |
 | `kt:commonsenseqa-a-question-answering-challenge-targeting-commonsense-knowledge` | `kt:commonsenseqa` |
 | `kt:computer-graphics` | `kt:computer-vision` |
+| `kt:computer-science` | `kt:artificial-intelligence` |
 | `kt:computing-machinery-and-intelligence` | `kt:turing-test` |
 | `kt:conceptnet` | `kt:commonsenseqa` |
 | `kt:conditional-random-fields-probabilistic-models-for-segmenting-and-labeling-sequence-data` | `kt:conditional-random-field` |
@@ -240,7 +241,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:iso-iec-jtc-1-sc-42` | `kt:iso-iec-42001` |
 | `kt:iterated-amplification` | `kt:scalable-oversight` |
 | `kt:jedec` | `kt:high-bandwidth-memory` |
-| `kt:john-mccarthy` | `kt:dartmouth-workshop` |
 | `kt:john-searle` | `kt:chinese-room-argument` |
 | `kt:joseph-redmon` | `kt:yolo` |
 | `kt:joseph-weizenbaum` | `kt:eliza` |
