@@ -3059,6 +3059,28 @@
     ]
   },
   {
+    "id": "kt:representation-learning",
+    "title": "Representation learning",
+    "aliases": [
+      "feature learning",
+      "learned representations",
+      "unsupervised feature learning"
+    ],
+    "type": "Paradigm",
+    "domain": "deep-learning",
+    "file": "articles/deep-learning/representation-learning.md",
+    "created": "2026-11-15",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://arxiv.org/pdf/1206.5538",
+      "https://bibbase.org/network/publication/bengio-courville-vincent-representationlearningareviewandnewperspectives-2013",
+      "https://icml.cc/virtual/2020/poster/6762",
+      "https://openaccess.thecvf.com/content/CVPR2022/html/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper",
+      "https://arxiv.org/abs/1811.12359",
+      "https://icml.cc/virtual/2019/poster/4085"
+    ]
+  },
+  {
     "id": "kt:reranking",
     "title": "Reranking",
     "aliases": [

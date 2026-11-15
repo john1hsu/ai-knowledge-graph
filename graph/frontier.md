@@ -7,7 +7,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ai-accelerator` | `kt:high-bandwidth-memory`, `kt:model-serving`, `kt:tensor-cores`, `kt:tpu`, `kt:ai-chip-export-controls`, `kt:compute-governance` |
 | `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:artificial-intelligence`, `kt:geoffrey-hinton`, `kt:perceptron`, `kt:symbolic-ai` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent`, `kt:generative-agents-interactive-simulacra-of-human-behavior`, `kt:voyager`, `kt:tree-of-thoughts` |
-| `kt:representation-learning` | `kt:clip`, `kt:deep-learning`, `kt:embeddings`, `kt:glove`, `kt:word2vec` |
 | `kt:vanishing-gradient-problem` | `kt:activation-function`, `kt:batch-normalization`, `kt:long-short-term-memory`, `kt:recurrent-neural-network`, `kt:residual-connection` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:chatbot-arena` | `kt:human-evaluation`, `kt:human-evaluation`, `kt:llm-as-a-judge`, `kt:vllm` |
@@ -17,6 +16,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:openai` | `kt:clip`, `kt:gsm8k`, `kt:proximal-policy-optimization`, `kt:concrete-problems-in-ai-safety` |
 | `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
 | `kt:positional-encoding` | `kt:attention-is-all-you-need`, `kt:context-window`, `kt:self-attention`, `kt:transformer-architecture` |
+| `kt:transfer-learning` | `kt:representation-learning`, `kt:fine-tuning`, `kt:parameter-efficient-fine-tuning`, `kt:pretraining` |
 | `kt:unsupervised-learning` | `kt:dimensionality-reduction`, `kt:machine-learning`, `kt:principal-component-analysis`, `kt:supervised-learning` |
 | `kt:adagrad` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:glove` |
 | `kt:ai-hardware` | `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
@@ -28,7 +28,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ms-coco` | `kt:faster-r-cnn`, `kt:object-detection`, `kt:yolo` |
 | `kt:orca-serving-system` | `kt:model-serving`, `kt:batching-and-paged-attention`, `kt:tensorrt-llm` |
 | `kt:reward-model` | `kt:goodharts-law`, `kt:reward-hacking`, `kt:hugging-face-trl` |
-| `kt:transfer-learning` | `kt:fine-tuning`, `kt:parameter-efficient-fine-tuning`, `kt:pretraining` |
 | `kt:wmt-2014` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
 | `kt:ai-risk-management` | `kt:iso-iec-42001`, `kt:nist-ai-risk-management-framework` |
@@ -37,11 +36,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alphago-zero` | `kt:alphago`, `kt:alphazero` |
 | `kt:anthropic` | `kt:model-context-protocol`, `kt:constitutional-ai` |
 | `kt:apache-lucene` | `kt:bm25`, `kt:tf-idf` |
+| `kt:autoencoder` | `kt:representation-learning`, `kt:dimensionality-reduction` |
 | `kt:automatic-differentiation` | `kt:pytorch`, `kt:backpropagation` |
 | `kt:bert` | `kt:reranking`, `kt:transformer-architecture` |
 | `kt:bradley-terry-model` | `kt:human-evaluation`, `kt:direct-preference-optimization` |
 | `kt:catastrophic-forgetting` | `kt:fine-tuning`, `kt:parameter-efficient-fine-tuning` |
 | `kt:computing-power-and-the-governance-of-artificial-intelligence` | `kt:compute-governance`, `kt:compute-governance` |
+| `kt:contrastive-learning` | `kt:clip`, `kt:representation-learning` |
 | `kt:cross-validation` | `kt:bias-variance-tradeoff`, `kt:overfitting` |
 | `kt:curse-of-dimensionality` | `kt:universal-approximation-theorem`, `kt:dimensionality-reduction` |
 | `kt:data-poisoning` | `kt:benchmark-contamination`, `kt:adversarial-machine-learning` |
@@ -83,6 +84,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sarsa` | `kt:q-learning`, `kt:temporal-difference-learning` |
 | `kt:scikit-learn` | `kt:dimensionality-reduction`, `kt:principal-component-analysis` |
 | `kt:self-refine` | `kt:agentic-workflow`, `kt:voyager` |
+| `kt:self-supervised-learning` | `kt:representation-learning`, `kt:pretraining` |
 | `kt:stochastic-gradient-descent` | `kt:data-parallelism`, `kt:adam-optimizer` |
 | `kt:support-vector-machine` | `kt:perceptron`, `kt:statistical-learning-theory` |
 | `kt:the-curious-case-of-neural-text-degeneration` | `kt:beam-search`, `kt:sampling-temperature-and-top-p` |
@@ -118,7 +120,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:arithmetic-intensity` | `kt:gpu-computing` |
 | `kt:arthur-samuel` | `kt:machine-learning` |
 | `kt:asynchronous-advantage-actor-critic` | `kt:actor-critic` |
-| `kt:autoencoder` | `kt:dimensionality-reduction` |
 | `kt:automated-theorem-proving` | `kt:logic-theorist` |
 | `kt:awq-activation-aware-weight-quantization-for-llm-compression-and-acceleration` | `kt:awq` |
 | `kt:backpropagation-through-time` | `kt:recurrent-neural-network` |
@@ -153,7 +154,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:constitutional-ai-harmlessness-from-ai-feedback` | `kt:constitutional-ai` |
 | `kt:constrained-decoding` | `kt:structured-output` |
 | `kt:contextual-calibration` | `kt:prompt-sensitivity` |
-| `kt:contrastive-learning` | `kt:clip` |
 | `kt:cross-entropy` | `kt:perplexity` |
 | `kt:cudnn` | `kt:cuda` |
 | `kt:cutlass` | `kt:tensor-cores` |
@@ -195,6 +195,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fast-r-cnn` | `kt:faster-r-cnn` |
 | `kt:faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks` | `kt:faster-r-cnn` |
 | `kt:fasttext` | `kt:word2vec` |
+| `kt:feature-engineering` | `kt:representation-learning` |
 | `kt:feature-store` | `kt:mlops` |
 | `kt:finetuned-language-models-are-zero-shot-learners` | `kt:instruction-tuning` |
 | `kt:flamingo-a-visual-language-model-for-few-shot-learning` | `kt:vision-language-model` |
@@ -350,6 +351,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:rectified-linear-unit` | `kt:activation-function` |
 | `kt:reinforce-algorithm` | `kt:policy-gradient` |
 | `kt:reinforcement-learning-from-ai-feedback` | `kt:constitutional-ai` |
+| `kt:representation-learning-a-review-and-new-perspectives` | `kt:representation-learning` |
 | `kt:retrieval-augmented-generation-for-knowledge-intensive-nlp-tasks` | `kt:retrieval-augmented-generation` |
 | `kt:richard-bellman` | `kt:markov-decision-process` |
 | `kt:richard-sutton` | `kt:temporal-difference-learning` |
@@ -362,7 +364,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:self-consistency-improves-chain-of-thought-reasoning-in-language-models` | `kt:self-consistency` |
 | `kt:self-correction` | `kt:self-refine-iterative-refinement-with-self-feedback` |
 | `kt:self-play` | `kt:alphazero` |
-| `kt:self-supervised-learning` | `kt:pretraining` |
 | `kt:sepp-hochreiter` | `kt:long-short-term-memory` |
 | `kt:show-your-work-scratchpads-for-intermediate-computation-with-language-models` | `kt:scratchpad` |
 | `kt:singular-value-decomposition` | `kt:principal-component-analysis` |

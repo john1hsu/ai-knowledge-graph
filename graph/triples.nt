@@ -3638,6 +3638,35 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Paradigm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> <http://www.w3.org/2000/01/rdf-schema#label> "Representation learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "feature learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "learned representations" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "unsupervised feature learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> <http://www.w3.org/2004/02/skos/core#definition> "The approach of having a model learn, from data, the transformations that turn raw inputs into features (representations) that make later prediction or analysis easier, instead of relying on features designed by hand." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> <http://www.w3.org/2004/02/skos/core#prefLabel> "Representation learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/clip> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/dimensionality-reduction> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/autoencoder> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/feature-engineering> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "deep-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/transfer-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/contrastive-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning-a-review-and-new-perspectives> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/reranking> <http://www.w3.org/2000/01/rdf-schema#label> "Reranking" .
@@ -7879,6 +7908,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/reinforcement-learning/s5> <https://schema.org/url> "https://research.google/pubs/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s1> <http://purl.org/dc/terms/publisher> "arXiv:1206.5538 (v3, April 2014; Bengio, Courville and Vincent)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s1> <http://purl.org/dc/terms/title> "Representation Learning: A Review and New Perspectives" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s1> <https://schema.org/url> "https://arxiv.org/pdf/1206.5538" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s2> <http://purl.org/dc/terms/publisher> "IEEE Transactions on Pattern Analysis and Machine Intelligence 35(8), 1798–1828 (2013), via BibBase" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s2> <http://purl.org/dc/terms/title> "Representation Learning: A Review and New Perspectives (bibliographic record)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s2> <https://schema.org/url> "https://bibbase.org/network/publication/bengio-courville-vincent-representationlearningareviewandnewperspectives-2013" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s3> <http://purl.org/dc/terms/publisher> "ICML 2020 (Chen, Kornblith, Norouzi and Hinton)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s3> <http://purl.org/dc/terms/title> "A Simple Framework for Contrastive Learning of Visual Representations" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s3> <https://schema.org/url> "https://icml.cc/virtual/2020/poster/6762" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s4> <http://purl.org/dc/terms/publisher> "CVPR 2022, CVF Open Access (He, Chen, Xie, Li, Dollár and Girshick)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s4> <http://purl.org/dc/terms/title> "Masked Autoencoders Are Scalable Vision Learners" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s4> <https://schema.org/url> "https://openaccess.thecvf.com/content/CVPR2022/html/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s5> <http://purl.org/dc/terms/publisher> "arXiv:1811.12359 (Locatello et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s5> <http://purl.org/dc/terms/title> "Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s5> <https://schema.org/url> "https://arxiv.org/abs/1811.12359" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s6> <http://purl.org/dc/terms/publisher> "ICML 2019 (Locatello, Bauer, Lucic, Rätsch, Gelly, Schölkopf and Bachem)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s6> <http://purl.org/dc/terms/title> "Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations (ICML 2019 poster page)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/representation-learning/s6> <https://schema.org/url> "https://icml.cc/virtual/2019/poster/4085" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s1> <http://purl.org/dc/terms/publisher> "arXiv:1901.04085 (Nogueira and Cho), v5, April 2020" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s1> <http://purl.org/dc/terms/title> "Passage Re-ranking with BERT" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/reranking/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

@@ -5671,6 +5671,112 @@
       ]
     },
     {
+      "@id": "kt:representation-learning",
+      "@type": "kto:Paradigm",
+      "skos:prefLabel": "Representation learning",
+      "skos:definition": "The approach of having a model learn, from data, the transformations that turn raw inputs into features (representations) that make later prediction or analysis easier, instead of relying on features designed by hand.",
+      "kto:domain": "deep-learning",
+      "dcterms:created": "2026-11-15",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Representation Learning: A Review and New Perspectives",
+          "dcterms:publisher": "arXiv:1206.5538 (v3, April 2014; Bengio, Courville and Vincent)",
+          "schema:url": "https://arxiv.org/pdf/1206.5538",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Representation Learning: A Review and New Perspectives (bibliographic record)",
+          "dcterms:publisher": "IEEE Transactions on Pattern Analysis and Machine Intelligence 35(8), 1798–1828 (2013), via BibBase",
+          "schema:url": "https://bibbase.org/network/publication/bengio-courville-vincent-representationlearningareviewandnewperspectives-2013",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "A Simple Framework for Contrastive Learning of Visual Representations",
+          "dcterms:publisher": "ICML 2020 (Chen, Kornblith, Norouzi and Hinton)",
+          "schema:url": "https://icml.cc/virtual/2020/poster/6762",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Masked Autoencoders Are Scalable Vision Learners",
+          "dcterms:publisher": "CVPR 2022, CVF Open Access (He, Chen, Xie, Li, Dollár and Girshick)",
+          "schema:url": "https://openaccess.thecvf.com/content/CVPR2022/html/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations",
+          "dcterms:publisher": "arXiv:1811.12359 (Locatello et al.)",
+          "schema:url": "https://arxiv.org/abs/1811.12359",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations (ICML 2019 poster page)",
+          "dcterms:publisher": "ICML 2019 (Locatello, Bauer, Lucic, Rätsch, Gelly, Schölkopf and Bachem)",
+          "schema:url": "https://icml.cc/virtual/2019/poster/4085",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/deep-learning/representation-learning.md",
+      "skos:altLabel": [
+        "feature learning",
+        "learned representations",
+        "unsupervised feature learning"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:deep-learning"
+        },
+        {
+          "@id": "kt:machine-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:embeddings"
+        },
+        {
+          "@id": "kt:pretraining"
+        },
+        {
+          "@id": "kt:dimensionality-reduction"
+        },
+        {
+          "@id": "kt:clip"
+        },
+        {
+          "@id": "kt:word2vec"
+        },
+        {
+          "@id": "kt:self-supervised-learning"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:representation-learning-a-review-and-new-perspectives"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:contrastive-learning"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:transfer-learning"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:feature-engineering"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:autoencoder"
+        }
+      ]
+    },
+    {
       "@id": "kt:residual-connection",
       "@type": "kto:Technique",
       "skos:prefLabel": "Residual connection",
