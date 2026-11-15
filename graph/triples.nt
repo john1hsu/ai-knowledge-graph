@@ -3863,6 +3863,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> <https://github.com/john1hsu/ai-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/concrete-problems-in-ai-safety> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-model> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-model> <http://www.w3.org/2000/01/rdf-schema#label> "Reward model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-model> <http://www.w3.org/2004/02/skos/core#altLabel> "RM" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-model> <http://www.w3.org/2004/02/skos/core#altLabel> "learned reward model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-model> <http://www.w3.org/2004/02/skos/core#altLabel> "preference model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-model> <http://www.w3.org/2004/02/skos/core#altLabel> "reward modeling" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-model> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-model> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-model> <http://www.w3.org/2004/02/skos/core#definition> "A learned function, usually a neural network trained on human comparisons between outputs, that assigns a scalar score standing in for human judgement, so that a policy can be optimized against it with reinforcement learning or used to rank and filter candidate outputs." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-model> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reward model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/goodharts-law> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/test-time-compute> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/direct-preference-optimization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/bradley-terry-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "safety-alignment-and-security" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/rewardbench> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-reinforcement-learning-from-human-preferences> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reward-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/proximal-policy-optimization> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <http://www.w3.org/2000/01/rdf-schema#label> "Reinforcement learning from human feedback" .
@@ -8218,6 +8248,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s7> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-hacking/s7> <https://schema.org/url> "https://www.anthropic.com/research/emergent-misalignment-reward-hacking" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 2017 (Christiano, Leike, Brown, Martic, Legg, Amodei)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s1> <http://purl.org/dc/terms/title> "Deep Reinforcement Learning from Human Preferences" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s1> <https://schema.org/url> "https://proceedings.neurips.cc/paper/2017/file/d5e2c0adad503c91f91df240d0cd4e49-Paper.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s2> <http://purl.org/dc/terms/publisher> "NeurIPS 2022 (Ouyang et al., OpenAI)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s2> <http://purl.org/dc/terms/title> "Training language models to follow instructions with human feedback" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s2> <https://schema.org/url> "https://papers.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s3> <http://purl.org/dc/terms/publisher> "arXiv:1811.07871v1 (Leike, Krueger, Everitt, Martic, Maini, Legg), November 2018" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s3> <http://purl.org/dc/terms/title> "Scalable agent alignment via reward modeling: a research direction" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s3> <https://schema.org/url> "https://arxiv.org/abs/1811.07871v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s4> <http://purl.org/dc/terms/publisher> "ICML 2023, PMLR 202 (Gao, Schulman, Hilton)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s4> <http://purl.org/dc/terms/title> "Scaling Laws for Reward Model Overoptimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s4> <https://schema.org/url> "https://proceedings.mlr.press/v202/gao23h.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s5> <http://purl.org/dc/terms/publisher> "arXiv:2403.13787 (Lambert et al., Allen Institute for AI and University of Washington), March 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s5> <http://purl.org/dc/terms/title> "RewardBench: Evaluating Reward Models for Language Modeling" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s5> <https://schema.org/url> "https://arxiv.org/abs/2403.13787" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s6> <http://purl.org/dc/terms/publisher> "ICLR 2024 (Lightman et al., OpenAI)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s6> <http://purl.org/dc/terms/title> "Let's Verify Step by Step" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reward-model/s6> <https://schema.org/url> "https://proceedings.iclr.cc/paper_files/paper/2024/hash/aca97732e30bcf1303bc22ac3924fd16-Abstract-Conference.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 2017, Advances in Neural Information Processing Systems 30 (Christiano, Leike, Brown, Martic, Legg and Amodei)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s1> <http://purl.org/dc/terms/title> "Deep Reinforcement Learning from Human Preferences" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

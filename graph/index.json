@@ -3240,6 +3240,29 @@
     ]
   },
   {
+    "id": "kt:reward-model",
+    "title": "Reward model",
+    "aliases": [
+      "reward modeling",
+      "learned reward model",
+      "preference model",
+      "RM"
+    ],
+    "type": "Technique",
+    "domain": "safety-alignment-and-security",
+    "file": "articles/safety-alignment-and-security/reward-model.md",
+    "created": "2026-11-15",
+    "maturity": "established",
+    "source_urls": [
+      "https://proceedings.neurips.cc/paper/2017/file/d5e2c0adad503c91f91df240d0cd4e49-Paper.pdf",
+      "https://papers.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf",
+      "https://arxiv.org/abs/1811.07871v1",
+      "https://proceedings.mlr.press/v202/gao23h.html",
+      "https://arxiv.org/abs/2403.13787",
+      "https://proceedings.iclr.cc/paper_files/paper/2024/hash/aca97732e30bcf1303bc22ac3924fd16-Abstract-Conference.html"
+    ]
+  },
+  {
     "id": "kt:rlhf",
     "title": "Reinforcement learning from human feedback",
     "aliases": [

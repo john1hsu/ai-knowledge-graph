@@ -9,6 +9,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent`, `kt:generative-agents-interactive-simulacra-of-human-behavior`, `kt:voyager`, `kt:tree-of-thoughts` |
 | `kt:vanishing-gradient-problem` | `kt:activation-function`, `kt:batch-normalization`, `kt:long-short-term-memory`, `kt:recurrent-neural-network`, `kt:residual-connection` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
+| `kt:bradley-terry-model` | `kt:chatbot-arena`, `kt:human-evaluation`, `kt:reward-model`, `kt:direct-preference-optimization` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:hidden-markov-model`, `kt:unsupervised-learning` |
 | `kt:google-deepmind` | `kt:google`, `kt:alphago`, `kt:alphazero`, `kt:deep-q-network` |
 | `kt:layer-normalization` | `kt:batch-normalization`, `kt:batch-normalization`, `kt:residual-connection`, `kt:transformer-architecture` |
@@ -19,14 +20,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ai-hardware` | `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
 | `kt:ai-risk-management` | `kt:iso-iec-42001`, `kt:nist-ai-risk-management-framework`, `kt:oecd-ai-principles` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
-| `kt:bradley-terry-model` | `kt:chatbot-arena`, `kt:human-evaluation`, `kt:direct-preference-optimization` |
 | `kt:gradient-descent` | `kt:adam-optimizer`, `kt:backpropagation`, `kt:deep-learning` |
 | `kt:heuristic-search` | `kt:logic-theorist`, `kt:beam-search`, `kt:tree-of-thoughts` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
 | `kt:ms-coco` | `kt:faster-r-cnn`, `kt:object-detection`, `kt:yolo` |
 | `kt:named-entity-recognition` | `kt:conditional-random-field`, `kt:glove`, `kt:natural-language-processing` |
 | `kt:orca-serving-system` | `kt:model-serving`, `kt:batching-and-paged-attention`, `kt:tensorrt-llm` |
-| `kt:reward-model` | `kt:goodharts-law`, `kt:reward-hacking`, `kt:hugging-face-trl` |
 | `kt:self-supervised-learning` | `kt:representation-learning`, `kt:unsupervised-learning`, `kt:pretraining` |
 | `kt:wmt-2014` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
@@ -46,6 +45,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:data-poisoning` | `kt:benchmark-contamination`, `kt:adversarial-machine-learning` |
 | `kt:deep-belief-network` | `kt:geoffrey-hinton`, `kt:deep-learning` |
 | `kt:deep-learning-framework` | `kt:hugging-face-transformers`, `kt:pytorch` |
+| `kt:deep-reinforcement-learning-from-human-preferences` | `kt:reward-model`, `kt:rlhf` |
 | `kt:double-q-learning` | `kt:deep-q-network`, `kt:q-learning` |
 | `kt:efficient-memory-management-for-large-language-model-serving-with-pagedattention` | `kt:batching-and-paged-attention`, `kt:vllm` |
 | `kt:expectation-maximization` | `kt:hidden-markov-model`, `kt:unsupervised-learning` |
@@ -163,7 +163,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:decision-tree` | `kt:ensemble-methods` |
 | `kt:decoding-strategy` | `kt:beam-search` |
 | `kt:deep-blue` | `kt:alphazero` |
-| `kt:deep-reinforcement-learning-from-human-preferences` | `kt:rlhf` |
 | `kt:deep-residual-learning-for-image-recognition` | `kt:residual-connection` |
 | `kt:deep-unsupervised-learning-using-nonequilibrium-thermodynamics` | `kt:diffusion-model` |
 | `kt:dendral` | `kt:expert-systems` |
@@ -356,6 +355,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:reinforcement-learning-from-ai-feedback` | `kt:constitutional-ai` |
 | `kt:representation-learning-a-review-and-new-perspectives` | `kt:representation-learning` |
 | `kt:retrieval-augmented-generation-for-knowledge-intensive-nlp-tasks` | `kt:retrieval-augmented-generation` |
+| `kt:rewardbench` | `kt:reward-model` |
 | `kt:richard-bellman` | `kt:markov-decision-process` |
 | `kt:richard-sutton` | `kt:temporal-difference-learning` |
 | `kt:roofline-model` | `kt:gpu-computing` |

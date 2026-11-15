@@ -14924,6 +14924,115 @@
       ]
     },
     {
+      "@id": "kt:reward-model",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Reward model",
+      "skos:definition": "A learned function, usually a neural network trained on human comparisons between outputs, that assigns a scalar score standing in for human judgement, so that a policy can be optimized against it with reinforcement learning or used to rank and filter candidate outputs.",
+      "kto:domain": "safety-alignment-and-security",
+      "dcterms:created": "2026-11-15",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Deep Reinforcement Learning from Human Preferences",
+          "dcterms:publisher": "NeurIPS 2017 (Christiano, Leike, Brown, Martic, Legg, Amodei)",
+          "schema:url": "https://proceedings.neurips.cc/paper/2017/file/d5e2c0adad503c91f91df240d0cd4e49-Paper.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Training language models to follow instructions with human feedback",
+          "dcterms:publisher": "NeurIPS 2022 (Ouyang et al., OpenAI)",
+          "schema:url": "https://papers.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Scalable agent alignment via reward modeling: a research direction",
+          "dcterms:publisher": "arXiv:1811.07871v1 (Leike, Krueger, Everitt, Martic, Maini, Legg), November 2018",
+          "schema:url": "https://arxiv.org/abs/1811.07871v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Scaling Laws for Reward Model Overoptimization",
+          "dcterms:publisher": "ICML 2023, PMLR 202 (Gao, Schulman, Hilton)",
+          "schema:url": "https://proceedings.mlr.press/v202/gao23h.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "RewardBench: Evaluating Reward Models for Language Modeling",
+          "dcterms:publisher": "arXiv:2403.13787 (Lambert et al., Allen Institute for AI and University of Washington), March 2024",
+          "schema:url": "https://arxiv.org/abs/2403.13787",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Let's Verify Step by Step",
+          "dcterms:publisher": "ICLR 2024 (Lightman et al., OpenAI)",
+          "schema:url": "https://proceedings.iclr.cc/paper_files/paper/2024/hash/aca97732e30bcf1303bc22ac3924fd16-Abstract-Conference.html",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/safety-alignment-and-security/reward-model.md",
+      "skos:altLabel": [
+        "reward modeling",
+        "learned reward model",
+        "preference model",
+        "RM"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-alignment"
+        },
+        {
+          "@id": "kt:reinforcement-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:reward-hacking"
+        },
+        {
+          "@id": "kt:goodharts-law"
+        },
+        {
+          "@id": "kt:scalable-oversight"
+        },
+        {
+          "@id": "kt:test-time-compute"
+        },
+        {
+          "@id": "kt:hugging-face-trl"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:rlhf"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:deep-reinforcement-learning-from-human-preferences"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:bradley-terry-model"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:proximal-policy-optimization"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:direct-preference-optimization"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:rewardbench"
+        }
+      ]
+    },
+    {
       "@id": "kt:scalable-oversight",
       "@type": "kto:Concept",
       "skos:prefLabel": "Scalable oversight",
