@@ -8469,6 +8469,107 @@
       ]
     },
     {
+      "@id": "kt:model-compression",
+      "@type": "kto:Paradigm",
+      "skos:prefLabel": "Model compression",
+      "skos:definition": "The family of techniques that shrink a trained machine-learning model's memory footprint and inference cost, chiefly quantization, pruning, knowledge distillation and low-rank factorization, while trying to keep its accuracy close to the original.",
+      "kto:domain": "inference-and-optimization",
+      "dcterms:created": "2026-11-15",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Model Compression",
+          "dcterms:publisher": "KDD 2006 (Bucilă, Caruana and Niculescu-Mizil), authors' copy at Cornell",
+          "schema:url": "https://cs.cornell.edu/~caruana/compression.kdd06.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding",
+          "dcterms:publisher": "Han, Mao and Dally, authors' arXiv version 1510.00149 (2015; ICLR 2016)",
+          "schema:url": "https://arxiv.org/abs/1510.00149v3",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation",
+          "dcterms:publisher": "NeurIPS 2014 (Denton, Zaremba, Bruna, LeCun and Fergus)",
+          "schema:url": "https://proceedings.neurips.cc/paper/2014/hash/2afe4567e1bf64d32a5527244d104cea-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "A Survey on Model Compression for Large Language Models",
+          "dcterms:publisher": "Transactions of the Association for Computational Linguistics 12 (2024), Zhu, Li, Liu, Ma and Wang",
+          "schema:url": "https://aclanthology.org/2024.tacl-1.85",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "A Survey on Model Compression for Large Language Models (arXiv HTML version)",
+          "dcterms:publisher": "Zhu et al., authors' arXiv version 2308.07633v4",
+          "schema:url": "https://arxiv.org/html/2308.07633v4",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Compressing LLMs: The Truth is Rarely Pure and Never Simple",
+          "dcterms:publisher": "ICLR 2024 (Jaiswal, Gan, Du, Zhang, Wang and Yang)",
+          "schema:url": "https://proceedings.iclr.cc/paper_files/paper/2024/hash/9f09f316a3eaf59d9ced5ffaefe97e0f-Abstract-Conference.html",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/inference-and-optimization/model-compression.md",
+      "skos:altLabel": [
+        "neural network compression",
+        "deep model compression",
+        "LLM compression"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:deep-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:llm-inference-optimization"
+        },
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:gptq"
+        },
+        {
+          "@id": "kt:lottery-ticket-hypothesis"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:model-compression-caruana-2006"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:quantization"
+        },
+        {
+          "@id": "kt:model-pruning"
+        },
+        {
+          "@id": "kt:knowledge-distillation"
+        },
+        {
+          "@id": "kt:low-rank-factorization"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:model-serving"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:perplexity"
+        }
+      ]
+    },
+    {
       "@id": "kt:model-pruning",
       "@type": "kto:Technique",
       "skos:prefLabel": "Model pruning",

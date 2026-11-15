@@ -2338,6 +2338,28 @@
     ]
   },
   {
+    "id": "kt:model-compression",
+    "title": "Model compression",
+    "aliases": [
+      "neural network compression",
+      "deep model compression",
+      "LLM compression"
+    ],
+    "type": "Paradigm",
+    "domain": "inference-and-optimization",
+    "file": "articles/inference-and-optimization/model-compression.md",
+    "created": "2026-11-15",
+    "maturity": "established",
+    "source_urls": [
+      "https://cs.cornell.edu/~caruana/compression.kdd06.pdf",
+      "https://arxiv.org/abs/1510.00149v3",
+      "https://proceedings.neurips.cc/paper/2014/hash/2afe4567e1bf64d32a5527244d104cea-Abstract.html",
+      "https://aclanthology.org/2024.tacl-1.85",
+      "https://arxiv.org/html/2308.07633v4",
+      "https://proceedings.iclr.cc/paper_files/paper/2024/hash/9f09f316a3eaf59d9ced5ffaefe97e0f-Abstract-Conference.html"
+    ]
+  },
+  {
     "id": "kt:model-context-protocol",
     "title": "Model Context Protocol",
     "aliases": [

@@ -2768,6 +2768,34 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/model-cards-for-model-reporting> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Paradigm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> <http://www.w3.org/2000/01/rdf-schema#label> "Model compression" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> <http://www.w3.org/2004/02/skos/core#altLabel> "LLM compression" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> <http://www.w3.org/2004/02/skos/core#altLabel> "deep model compression" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> <http://www.w3.org/2004/02/skos/core#altLabel> "neural network compression" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> <http://www.w3.org/2004/02/skos/core#definition> "The family of techniques that shrink a trained machine-learning model's memory footprint and inference cost, chiefly quantization, pruning, knowledge distillation and low-rank factorization, while trying to keep its accuracy close to the original." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> <http://www.w3.org/2004/02/skos/core#prefLabel> "Model compression" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/gptq> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/llm-inference-optimization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/lottery-ticket-hypothesis> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "inference-and-optimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/perplexity> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/low-rank-factorization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/model-compression-caruana-2006> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-compression> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/model-context-protocol> <http://purl.org/dc/terms/created> "2026-11-15" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/model-context-protocol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Tool> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/model-context-protocol> <http://www.w3.org/2000/01/rdf-schema#label> "Model Context Protocol" .
@@ -6933,6 +6961,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "preprint" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-cards/s5> <https://schema.org/url> "https://arxiv.org/abs/2402.05160v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s1> <http://purl.org/dc/terms/publisher> "KDD 2006 (Bucilă, Caruana and Niculescu-Mizil), authors' copy at Cornell" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s1> <http://purl.org/dc/terms/title> "Model Compression" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s1> <https://schema.org/url> "https://cs.cornell.edu/~caruana/compression.kdd06.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s2> <http://purl.org/dc/terms/publisher> "Han, Mao and Dally, authors' arXiv version 1510.00149 (2015; ICLR 2016)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s2> <http://purl.org/dc/terms/title> "Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s2> <https://schema.org/url> "https://arxiv.org/abs/1510.00149v3" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s3> <http://purl.org/dc/terms/publisher> "NeurIPS 2014 (Denton, Zaremba, Bruna, LeCun and Fergus)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s3> <http://purl.org/dc/terms/title> "Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s3> <https://schema.org/url> "https://proceedings.neurips.cc/paper/2014/hash/2afe4567e1bf64d32a5527244d104cea-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s4> <http://purl.org/dc/terms/publisher> "Transactions of the Association for Computational Linguistics 12 (2024), Zhu, Li, Liu, Ma and Wang" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s4> <http://purl.org/dc/terms/title> "A Survey on Model Compression for Large Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s4> <https://schema.org/url> "https://aclanthology.org/2024.tacl-1.85" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s5> <http://purl.org/dc/terms/publisher> "Zhu et al., authors' arXiv version 2308.07633v4" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s5> <http://purl.org/dc/terms/title> "A Survey on Model Compression for Large Language Models (arXiv HTML version)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s5> <https://schema.org/url> "https://arxiv.org/html/2308.07633v4" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s6> <http://purl.org/dc/terms/publisher> "ICLR 2024 (Jaiswal, Gan, Du, Zhang, Wang and Yang)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s6> <http://purl.org/dc/terms/title> "Compressing LLMs: The Truth is Rarely Pure and Never Simple" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-compression/s6> <https://schema.org/url> "https://proceedings.iclr.cc/paper_files/paper/2024/hash/9f09f316a3eaf59d9ced5ffaefe97e0f-Abstract-Conference.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s1> <http://purl.org/dc/terms/publisher> "Anthropic, 25 November 2024" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s1> <http://purl.org/dc/terms/title> "Introducing the Model Context Protocol" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

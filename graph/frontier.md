@@ -6,7 +6,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:ai-accelerator` | `kt:high-bandwidth-memory`, `kt:model-serving`, `kt:tensor-cores`, `kt:tpu`, `kt:ai-chip-export-controls`, `kt:compute-governance` |
 | `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:artificial-intelligence`, `kt:geoffrey-hinton`, `kt:perceptron`, `kt:symbolic-ai` |
-| `kt:model-compression` | `kt:gptq`, `kt:llm-inference-optimization`, `kt:model-pruning`, `kt:quantization`, `kt:knowledge-distillation` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent`, `kt:generative-agents-interactive-simulacra-of-human-behavior`, `kt:voyager`, `kt:tree-of-thoughts` |
 | `kt:representation-learning` | `kt:clip`, `kt:deep-learning`, `kt:embeddings`, `kt:glove`, `kt:word2vec` |
 | `kt:vanishing-gradient-problem` | `kt:activation-function`, `kt:batch-normalization`, `kt:long-short-term-memory`, `kt:recurrent-neural-network`, `kt:residual-connection` |
@@ -65,9 +64,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:language-models-are-few-shot-learners` | `kt:few-shot-prompting`, `kt:in-context-learning` |
 | `kt:latent-semantic-analysis` | `kt:glove`, `kt:semantic-search` |
 | `kt:lora` | `kt:parameter-efficient-fine-tuning`, `kt:qlora` |
+| `kt:lottery-ticket-hypothesis` | `kt:model-compression`, `kt:model-pruning` |
 | `kt:marvin-minsky` | `kt:dartmouth-workshop`, `kt:perceptron` |
 | `kt:meta-ai` | `kt:toolformer`, `kt:pytorch` |
 | `kt:microsoft-research` | `kt:autogen`, `kt:residual-connection` |
+| `kt:model-compression-caruana-2006` | `kt:model-compression`, `kt:knowledge-distillation` |
 | `kt:monte-carlo-methods` | `kt:monte-carlo-tree-search`, `kt:temporal-difference-learning` |
 | `kt:multi-armed-bandit` | `kt:exploration-exploitation`, `kt:monte-carlo-tree-search` |
 | `kt:muzero` | `kt:alphazero`, `kt:monte-carlo-tree-search` |
@@ -272,7 +273,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:long-short-term-memory-1997` | `kt:long-short-term-memory` |
 | `kt:long-short-term-memory-networks-for-machine-reading` | `kt:self-attention` |
 | `kt:loss-function` | `kt:supervised-learning` |
-| `kt:lottery-ticket-hypothesis` | `kt:model-pruning` |
+| `kt:low-rank-factorization` | `kt:model-compression` |
 | `kt:machine-learning-systems` | `kt:llm-inference-optimization` |
 | `kt:margaret-mitchell` | `kt:model-cards` |
 | `kt:mask-r-cnn` | `kt:faster-r-cnn` |
@@ -293,7 +294,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mmlu-pro` | `kt:mmlu` |
 | `kt:model-cards-for-model-reporting` | `kt:model-cards` |
 | `kt:model-collapse` | `kt:synthetic-data` |
-| `kt:model-compression-caruana-2006` | `kt:knowledge-distillation` |
 | `kt:model-extraction` | `kt:adversarial-machine-learning` |
 | `kt:model-parallelism` | `kt:data-parallelism` |
 | `kt:model-registry` | `kt:mlops` |
