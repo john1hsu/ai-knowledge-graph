@@ -4,7 +4,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:ai-accelerator` | `kt:high-bandwidth-memory`, `kt:model-serving`, `kt:tpu`, `kt:ai-chip-export-controls`, `kt:compute-governance` |
+| `kt:ai-accelerator` | `kt:high-bandwidth-memory`, `kt:model-serving`, `kt:tensor-cores`, `kt:tpu`, `kt:ai-chip-export-controls`, `kt:compute-governance` |
 | `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:artificial-intelligence`, `kt:geoffrey-hinton`, `kt:perceptron`, `kt:symbolic-ai` |
 | `kt:model-compression` | `kt:gptq`, `kt:llm-inference-optimization`, `kt:model-pruning`, `kt:quantization`, `kt:knowledge-distillation` |
 | `kt:planning-in-llms` | `kt:agentic-workflow`, `kt:ai-agent`, `kt:generative-agents-interactive-simulacra-of-human-behavior`, `kt:voyager`, `kt:tree-of-thoughts` |
@@ -18,7 +18,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:openai` | `kt:clip`, `kt:gsm8k`, `kt:proximal-policy-optimization`, `kt:concrete-problems-in-ai-safety` |
 | `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
 | `kt:positional-encoding` | `kt:attention-is-all-you-need`, `kt:context-window`, `kt:self-attention`, `kt:transformer-architecture` |
-| `kt:tensor-cores` | `kt:gpu-computing`, `kt:nvidia`, `kt:model-pruning`, `kt:tensorrt-llm` |
 | `kt:unsupervised-learning` | `kt:dimensionality-reduction`, `kt:machine-learning`, `kt:principal-component-analysis`, `kt:supervised-learning` |
 | `kt:adagrad` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:glove` |
 | `kt:ai-hardware` | `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
@@ -154,6 +153,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:contrastive-learning` | `kt:clip` |
 | `kt:cross-entropy` | `kt:perplexity` |
 | `kt:cudnn` | `kt:cuda` |
+| `kt:cutlass` | `kt:tensor-cores` |
 | `kt:dan-hendrycks` | `kt:mmlu` |
 | `kt:data-drift` | `kt:mlops` |
 | `kt:datasheets-for-datasets` | `kt:model-cards` |
@@ -288,6 +288,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:microsoft-agent-framework` | `kt:autogen` |
 | `kt:min-p-sampling` | `kt:sampling-temperature-and-top-p` |
 | `kt:minds-brains-and-programs` | `kt:chinese-room-argument` |
+| `kt:mixed-precision-training` | `kt:tensor-cores` |
 | `kt:mlflow` | `kt:mlops` |
 | `kt:mmlu-pro` | `kt:mmlu` |
 | `kt:model-cards-for-model-reporting` | `kt:model-cards` |
@@ -394,6 +395,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tim-dettmers` | `kt:qlora` |
 | `kt:time-sharing` | `kt:eliza` |
 | `kt:training-verifiers-to-solve-math-word-problems` | `kt:gsm8k` |
+| `kt:transformer-engine` | `kt:tensor-cores` |
 | `kt:transformers-state-of-the-art-natural-language-processing` | `kt:hugging-face-transformers` |
 | `kt:trec` | `kt:information-retrieval` |
 | `kt:tree-of-thoughts-deliberate-problem-solving-with-large-language-models` | `kt:tree-of-thoughts` |

@@ -3578,6 +3578,27 @@
     ]
   },
   {
+    "id": "kt:tensor-cores",
+    "title": "Tensor Cores",
+    "aliases": [
+      "Tensor Core",
+      "NVIDIA Tensor Cores",
+      "sparse Tensor Cores"
+    ],
+    "type": "Hardware",
+    "domain": "ai-infrastructure-and-mlops",
+    "file": "articles/ai-infrastructure-and-mlops/tensor-cores.md",
+    "created": "2026-11-15",
+    "maturity": "established",
+    "source_urls": [
+      "https://docs.nvidia.com/cuda/archive/12.3.2/volta-tuning-guide/index.html",
+      "https://arxiv.org/abs/1803.04014v1",
+      "https://arxiv.org/abs/1710.03740",
+      "https://developer.nvidia.com/blog/nvidia-ampere-architecture-in-depth",
+      "https://arxiv.org/html/2501.12084v2"
+    ]
+  },
+  {
     "id": "kt:tensorrt-llm",
     "title": "TensorRT-LLM",
     "aliases": [

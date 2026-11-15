@@ -3225,6 +3225,101 @@
       ]
     },
     {
+      "@id": "kt:tensor-cores",
+      "@type": "kto:Hardware",
+      "skos:prefLabel": "Tensor Cores",
+      "skos:definition": "Specialized matrix multiply-accumulate units inside NVIDIA GPU streaming multiprocessors, introduced with the Volta architecture in 2017, that compute small fused matrix products (D = A×B + C) in reduced precision and supply most of a modern data-centre GPU's deep-learning throughput.",
+      "kto:domain": "ai-infrastructure-and-mlops",
+      "dcterms:created": "2026-11-15",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Tuning CUDA Applications for Volta (Volta Tuning Guide)",
+          "dcterms:publisher": "NVIDIA CUDA Toolkit documentation (archive 12.3.2)",
+          "schema:url": "https://docs.nvidia.com/cuda/archive/12.3.2/volta-tuning-guide/index.html",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "NVIDIA Tensor Core Programmability, Performance & Precision",
+          "dcterms:publisher": "Markidis, Chien, Laure, Peng, Vetter; IPDPS Workshops 2018, authors' arXiv version 1803.04014",
+          "schema:url": "https://arxiv.org/abs/1803.04014v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Mixed Precision Training",
+          "dcterms:publisher": "Micikevicius et al. (NVIDIA, Baidu Research), ICLR 2018, authors' arXiv version 1710.03740",
+          "schema:url": "https://arxiv.org/abs/1710.03740",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "NVIDIA Ampere Architecture In-Depth",
+          "dcterms:publisher": "NVIDIA Technical Blog (Krashinsky, Giroux, Jones, Stam, Ramaswamy), 14 May 2020",
+          "schema:url": "https://developer.nvidia.com/blog/nvidia-ampere-architecture-in-depth",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Dissecting the NVIDIA Hopper Architecture through Microbenchmarking and Multiple Level Analysis",
+          "dcterms:publisher": "Luo, Fan, Li, Du, Liu, Wang, Chu; extended version of IPDPS 2024 paper, authors' arXiv version 2501.12084v2",
+          "schema:url": "https://arxiv.org/html/2501.12084v2",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/ai-infrastructure-and-mlops/tensor-cores.md",
+      "skos:altLabel": [
+        "Tensor Core",
+        "NVIDIA Tensor Cores",
+        "sparse Tensor Cores"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-accelerator"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:cuda"
+        },
+        {
+          "@id": "kt:quantization"
+        },
+        {
+          "@id": "kt:model-pruning"
+        },
+        {
+          "@id": "kt:high-bandwidth-memory"
+        },
+        {
+          "@id": "kt:tpu"
+        },
+        {
+          "@id": "kt:tensorrt-llm"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:gpu-computing"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:nvidia"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:mixed-precision-training"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:cutlass"
+        },
+        {
+          "@id": "kt:transformer-engine"
+        }
+      ]
+    },
+    {
       "@id": "kt:tpu",
       "@type": "kto:Hardware",
       "skos:prefLabel": "Tensor Processing Unit",
