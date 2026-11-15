@@ -1078,6 +1078,29 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-segmentation> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/concrete-problems-in-ai-safety> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/concrete-problems-in-ai-safety> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Work> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/concrete-problems-in-ai-safety> <http://www.w3.org/2000/01/rdf-schema#label> "Concrete Problems in AI Safety" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/concrete-problems-in-ai-safety> <http://www.w3.org/2004/02/skos/core#altLabel> "Amodei et al. 2016" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/concrete-problems-in-ai-safety> <http://www.w3.org/2004/02/skos/core#altLabel> "arXiv:1606.06565" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/concrete-problems-in-ai-safety> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/concrete-problems-in-ai-safety> <http://www.w3.org/2004/02/skos/core#definition> "A 2016 research-agenda paper by Amodei, Olah, Steinhardt, Christiano, Schulman and Mané (Google Brain, Stanford, UC Berkeley, OpenAI) that framed AI safety as the study of machine-learning \"accidents\" and named five practical problems: negative side effects, reward hacking, scalable oversight, safe exploration and robustness to distributional shift." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/concrete-problems-in-ai-safety> <http://www.w3.org/2004/02/skos/core#prefLabel> "Concrete Problems in AI Safety" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/concrete-problems-in-ai-safety> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/concrete-problems-in-ai-safety> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-gridworlds> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/concrete-problems-in-ai-safety> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/distributional-shift> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/concrete-problems-in-ai-safety> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/concrete-problems-in-ai-safety> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/concrete-problems-in-ai-safety> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/concrete-problems-in-ai-safety> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/concrete-problems-in-ai-safety/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/concrete-problems-in-ai-safety> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/concrete-problems-in-ai-safety/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/concrete-problems-in-ai-safety> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/concrete-problems-in-ai-safety/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/concrete-problems-in-ai-safety> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/concrete-problems-in-ai-safety/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/concrete-problems-in-ai-safety> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/google-brain> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/concrete-problems-in-ai-safety> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/openai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/concrete-problems-in-ai-safety> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "safety-alignment-and-security" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/concrete-problems-in-ai-safety> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/goodharts-law> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/concrete-problems-in-ai-safety> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "historical" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> <http://www.w3.org/2000/01/rdf-schema#label> "Conditional random field" .
@@ -5015,6 +5038,26 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/computer-vision/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/computer-vision/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/computer-vision/s5> <https://schema.org/url> "https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/concrete-problems-in-ai-safety/s1> <http://purl.org/dc/terms/publisher> "arXiv:1606.06565 (Amodei, Olah, Steinhardt, Christiano, Schulman, Mané), 2016, ar5iv HTML rendering" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/concrete-problems-in-ai-safety/s1> <http://purl.org/dc/terms/title> "Concrete Problems in AI Safety" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/concrete-problems-in-ai-safety/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/concrete-problems-in-ai-safety/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/concrete-problems-in-ai-safety/s1> <https://schema.org/url> "https://ar5iv.arxiv.org/html/1606.06565" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/concrete-problems-in-ai-safety/s2> <http://purl.org/dc/terms/publisher> "Google Research blog (Chris Olah), 22 June 2016" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/concrete-problems-in-ai-safety/s2> <http://purl.org/dc/terms/title> "Bringing Precision to the AI Safety Discussion" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/concrete-problems-in-ai-safety/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/concrete-problems-in-ai-safety/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/concrete-problems-in-ai-safety/s2> <https://schema.org/url> "https://research.google/blog/bringing-precision-to-the-ai-safety-discussion/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/concrete-problems-in-ai-safety/s3> <http://purl.org/dc/terms/publisher> "OpenAI (Paul Christiano, Greg Brockman), 21 June 2016" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/concrete-problems-in-ai-safety/s3> <http://purl.org/dc/terms/title> "Concrete AI safety problems" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/concrete-problems-in-ai-safety/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/concrete-problems-in-ai-safety/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/concrete-problems-in-ai-safety/s3> <https://schema.org/url> "https://openai.com/index/concrete-ai-safety-problems" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/concrete-problems-in-ai-safety/s4> <http://purl.org/dc/terms/publisher> "arXiv:1711.09883 (Leike, Martic, Krakovna, Ortega, Everitt, Lefrancq, Orseau, Legg; DeepMind), 2017" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/concrete-problems-in-ai-safety/s4> <http://purl.org/dc/terms/title> "AI Safety Gridworlds" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/concrete-problems-in-ai-safety/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/concrete-problems-in-ai-safety/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/concrete-problems-in-ai-safety/s4> <https://schema.org/url> "https://arxiv.org/pdf/1711.09883" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s1> <http://purl.org/dc/terms/publisher> "ICML 2001 (Lafferty, McCallum, Pereira); author copy hosted on a University of Colorado course page" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s1> <http://purl.org/dc/terms/title> "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/conditional-random-field/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

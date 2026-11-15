@@ -911,6 +911,25 @@
     ]
   },
   {
+    "id": "kt:concrete-problems-in-ai-safety",
+    "title": "Concrete Problems in AI Safety",
+    "aliases": [
+      "Amodei et al. 2016",
+      "arXiv:1606.06565"
+    ],
+    "type": "Work",
+    "domain": "safety-alignment-and-security",
+    "file": "articles/safety-alignment-and-security/concrete-problems-in-ai-safety.md",
+    "created": "2026-11-15",
+    "maturity": "historical",
+    "source_urls": [
+      "https://ar5iv.arxiv.org/html/1606.06565",
+      "https://research.google/blog/bringing-precision-to-the-ai-safety-discussion/",
+      "https://openai.com/index/concrete-ai-safety-problems",
+      "https://arxiv.org/pdf/1711.09883"
+    ]
+  },
+  {
     "id": "kt:conditional-random-field",
     "title": "Conditional random field",
     "aliases": [

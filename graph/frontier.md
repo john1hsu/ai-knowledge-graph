@@ -15,20 +15,19 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:geoffrey-hinton`, `kt:perceptron`, `kt:symbolic-ai` |
 | `kt:google-deepmind` | `kt:google`, `kt:alphago`, `kt:alphazero`, `kt:deep-q-network` |
 | `kt:layer-normalization` | `kt:batch-normalization`, `kt:batch-normalization`, `kt:residual-connection`, `kt:transformer-architecture` |
+| `kt:openai` | `kt:clip`, `kt:gsm8k`, `kt:proximal-policy-optimization`, `kt:concrete-problems-in-ai-safety` |
 | `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
 | `kt:positional-encoding` | `kt:attention-is-all-you-need`, `kt:context-window`, `kt:self-attention`, `kt:transformer-architecture` |
 | `kt:tensor-cores` | `kt:gpu-computing`, `kt:nvidia`, `kt:model-pruning`, `kt:tensorrt-llm` |
 | `kt:unsupervised-learning` | `kt:dimensionality-reduction`, `kt:machine-learning`, `kt:principal-component-analysis`, `kt:supervised-learning` |
 | `kt:adagrad` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:glove` |
 | `kt:ai-hardware` | `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
-| `kt:concrete-problems-in-ai-safety` | `kt:ai-safety`, `kt:reward-hacking`, `kt:scalable-oversight` |
 | `kt:generative-model` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:hidden-markov-model` |
 | `kt:gradient-descent` | `kt:adam-optimizer`, `kt:backpropagation`, `kt:deep-learning` |
 | `kt:heuristic-search` | `kt:logic-theorist`, `kt:beam-search`, `kt:tree-of-thoughts` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
 | `kt:ms-coco` | `kt:faster-r-cnn`, `kt:object-detection`, `kt:yolo` |
 | `kt:natural-language-processing` | `kt:eliza`, `kt:prompt-engineering`, `kt:information-retrieval` |
-| `kt:openai` | `kt:clip`, `kt:gsm8k`, `kt:proximal-policy-optimization` |
 | `kt:orca-serving-system` | `kt:model-serving`, `kt:batching-and-paged-attention`, `kt:tensorrt-llm` |
 | `kt:parameter-efficient-fine-tuning` | `kt:fine-tuning`, `kt:hugging-face-trl`, `kt:qlora` |
 | `kt:reward-model` | `kt:goodharts-law`, `kt:reward-hacking`, `kt:hugging-face-trl` |
@@ -95,6 +94,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:adversarial-training` | `kt:adversarial-machine-learning` |
 | `kt:ai-ethics` | `kt:algorithmic-bias-and-fairness` |
 | `kt:ai-governance-a-research-agenda` | `kt:ai-governance` |
+| `kt:ai-safety-gridworlds` | `kt:concrete-problems-in-ai-safety` |
 | `kt:ai-safety-summit` | `kt:ai-safety-institutes` |
 | `kt:ai-safety-via-debate` | `kt:scalable-oversight` |
 | `kt:alan-turing` | `kt:turing-test` |
@@ -165,6 +165,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:digital-omnibus-on-ai` | `kt:eu-ai-act` |
 | `kt:distilbert` | `kt:knowledge-distillation` |
 | `kt:distilling-the-knowledge-in-a-neural-network` | `kt:knowledge-distillation` |
+| `kt:distributional-shift` | `kt:concrete-problems-in-ai-safety` |
 | `kt:diverse-beam-search` | `kt:beam-search` |
 | `kt:dram` | `kt:high-bandwidth-memory` |
 | `kt:dropout-a-simple-way-to-prevent-neural-networks-from-overfitting` | `kt:dropout` |
@@ -199,6 +200,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:generative-adversarial-nets` | `kt:generative-adversarial-network` |
 | `kt:george-cybenko` | `kt:universal-approximation-theorem` |
 | `kt:glove-global-vectors-for-word-representation` | `kt:glove` |
+| `kt:google-brain` | `kt:concrete-problems-in-ai-safety` |
 | `kt:gpqa` | `kt:reasoning-models` |
 | `kt:gpt-j` | `kt:toolformer` |
 | `kt:gptq-accurate-post-training-quantization-for-generative-pre-trained-transformers` | `kt:gptq` |
