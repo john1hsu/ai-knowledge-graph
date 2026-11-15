@@ -2493,6 +2493,25 @@
     ]
   },
   {
+    "id": "kt:natural-language-processing",
+    "title": "Natural language processing",
+    "aliases": [
+      "NLP",
+      "computational linguistics"
+    ],
+    "type": "Field",
+    "domain": "transformers-and-llms",
+    "file": "articles/transformers-and-llms/natural-language-processing.md",
+    "created": "2026-11-15",
+    "maturity": "established",
+    "source_urls": [
+      "https://nlp.cs.princeton.edu/cos484-sp22/readings/advances_in_nlp.pdf",
+      "https://www.britannica.com/technology/natural-language-processing-computer-science",
+      "https://jmlr.org/papers/v12/collobert11a.html",
+      "https://web.stanford.edu/~jurafsky/slp3/"
+    ]
+  },
+  {
     "id": "kt:neural-machine-translation-by-jointly-learning-to-align-and-translate",
     "title": "Neural Machine Translation by Jointly Learning to Align and Translate",
     "aliases": [

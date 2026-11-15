@@ -2959,6 +2959,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/autogen> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Field> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> <http://www.w3.org/2000/01/rdf-schema#label> "Natural language processing" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> <http://www.w3.org/2004/02/skos/core#altLabel> "NLP" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> <http://www.w3.org/2004/02/skos/core#altLabel> "computational linguistics" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> <http://www.w3.org/2004/02/skos/core#definition> "The subfield of artificial intelligence and computer science that uses computational methods to analyze, understand and generate human language, which moved from hand-written rules to statistical corpus-based models and then to neural networks and large language models." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> <http://www.w3.org/2004/02/skos/core#prefLabel> "Natural language processing" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/eliza> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/natural-language-processing/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/natural-language-processing/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/natural-language-processing/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/natural-language-processing/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "transformers-and-llms" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-translation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/sentiment-analysis> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/neural-machine-translation-by-jointly-learning-to-align-and-translate> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/neural-machine-translation-by-jointly-learning-to-align-and-translate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Work> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/neural-machine-translation-by-jointly-learning-to-align-and-translate> <http://www.w3.org/2000/01/rdf-schema#label> "Neural Machine Translation by Jointly Learning to Align and Translate" .
@@ -7242,6 +7267,26 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "preprint" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s6> <https://schema.org/url> "https://arxiv.org/abs/2503.13657v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/natural-language-processing/s1> <http://purl.org/dc/terms/publisher> "J. Hirschberg and C. D. Manning, Science 349(6245):261–266, 2015 (copy hosted by Princeton COS 484)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/natural-language-processing/s1> <http://purl.org/dc/terms/title> "Advances in natural language processing" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/natural-language-processing/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/natural-language-processing/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/natural-language-processing/s1> <https://schema.org/url> "https://nlp.cs.princeton.edu/cos484-sp22/readings/advances_in_nlp.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/natural-language-processing/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/natural-language-processing/s2> <http://purl.org/dc/terms/title> "Natural language processing" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/natural-language-processing/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/natural-language-processing/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/natural-language-processing/s2> <https://schema.org/url> "https://www.britannica.com/technology/natural-language-processing-computer-science" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/natural-language-processing/s3> <http://purl.org/dc/terms/publisher> "R. Collobert, J. Weston, L. Bottou, M. Karlen, K. Kavukcuoglu, P. Kuksa, JMLR 12:2493–2537, 2011" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/natural-language-processing/s3> <http://purl.org/dc/terms/title> "Natural Language Processing (Almost) from Scratch" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/natural-language-processing/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/natural-language-processing/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/natural-language-processing/s3> <https://schema.org/url> "https://jmlr.org/papers/v12/collobert11a.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/natural-language-processing/s4> <http://purl.org/dc/terms/publisher> "D. Jurafsky and J. H. Martin, Stanford University" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/natural-language-processing/s4> <http://purl.org/dc/terms/title> "Speech and Language Processing (3rd ed. draft)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/natural-language-processing/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/natural-language-processing/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/natural-language-processing/s4> <https://schema.org/url> "https://web.stanford.edu/~jurafsky/slp3/" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/neural-machine-translation-by-jointly-learning-to-align-and-translate/s1> <http://purl.org/dc/terms/publisher> "Bahdanau, Cho and Bengio, ICLR 2015 conference paper (authors' arXiv version 1409.0473v7, 19 May 2016)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/neural-machine-translation-by-jointly-learning-to-align-and-translate/s1> <http://purl.org/dc/terms/title> "Neural Machine Translation by Jointly Learning to Align and Translate" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/neural-machine-translation-by-jointly-learning-to-align-and-translate/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
