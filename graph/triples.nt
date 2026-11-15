@@ -2983,6 +2983,35 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/autogen> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Application> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> <http://www.w3.org/2000/01/rdf-schema#label> "Named-entity recognition" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> <http://www.w3.org/2004/02/skos/core#altLabel> "NER" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> <http://www.w3.org/2004/02/skos/core#altLabel> "entity extraction" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> <http://www.w3.org/2004/02/skos/core#altLabel> "entity tagging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> <http://www.w3.org/2004/02/skos/core#altLabel> "named entity recognition and classification" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> <http://www.w3.org/2004/02/skos/core#altLabel> "named entity recognition" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/information-extraction> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> <http://www.w3.org/2004/02/skos/core#definition> "The information-extraction task of finding the spans of text that name people, organizations, locations and other entity types and labelling each span with its type; defined as an evaluation task at MUC-6 in 1995 and usually framed today as token-level sequence labelling scored by entity-level F1." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> <http://www.w3.org/2004/02/skos/core#prefLabel> "Named-entity recognition" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/conditional-random-field> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/glove> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "retrieval-and-knowledge" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/entity-linking> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/relation-extraction> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/conll-2003> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/message-understanding-conference-6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> <http://purl.org/dc/terms/created> "2026-11-15" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Field> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> <http://www.w3.org/2000/01/rdf-schema#label> "Natural language processing" .
@@ -7372,6 +7401,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "preprint" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s6> <https://schema.org/url> "https://arxiv.org/abs/2503.13657v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s1> <http://purl.org/dc/terms/publisher> "Proceedings of COLING 1996, ACL Anthology C96-1079 (Grishman and Sundheim)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s1> <http://purl.org/dc/terms/title> "Message Understanding Conference-6: A Brief History" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s1> <https://schema.org/url> "https://aclanthology.org/C96-1079.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s2> <http://purl.org/dc/terms/publisher> "Proceedings of CoNLL-2003, ACL Anthology W03-0419 (Tjong Kim Sang and De Meulder)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s2> <http://purl.org/dc/terms/title> "Introduction to the CoNLL-2003 Shared Task: Language-Independent Named Entity Recognition" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s2> <https://schema.org/url> "https://aclanthology.org/W03-0419.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s3> <http://purl.org/dc/terms/publisher> "Stanford University (Jurafsky and Martin), draft of January 2026" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s3> <http://purl.org/dc/terms/title> "Sequence Labeling for Parts of Speech and Named Entities (Speech and Language Processing, 3rd ed. draft, ch. 17)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s3> <https://schema.org/url> "https://web.stanford.edu/%7Ejurafsky/slp3/17.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s4> <http://purl.org/dc/terms/publisher> "Proceedings of NAACL-HLT 2016, ACL Anthology N16-1030 (Lample, Ballesteros, Subramanian, Kawakami and Dyer), pp. 260–270" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s4> <http://purl.org/dc/terms/title> "Neural Architectures for Named Entity Recognition" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s4> <https://schema.org/url> "https://aclanthology.org/N16-1030.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s5> <http://purl.org/dc/terms/publisher> "ICLR 2024 proceedings (Zhou, Zhang, Gu, Chen and Poon)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s5> <http://purl.org/dc/terms/title> "UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s5> <https://schema.org/url> "https://proceedings.iclr.cc/paper_files/paper/2024/hash/34678d08b36076de986df95c5bbba92f-Abstract-Conference.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s6> <http://purl.org/dc/terms/publisher> "arXiv 2308.03279 (authors' version)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s6> <http://purl.org/dc/terms/title> "UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition (arXiv v2)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s6> <https://schema.org/url> "https://arxiv.org/abs/2308.03279" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/natural-language-processing/s1> <http://purl.org/dc/terms/publisher> "J. Hirschberg and C. D. Manning, Science 349(6245):261–266, 2015 (copy hosted by Princeton COS 484)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/natural-language-processing/s1> <http://purl.org/dc/terms/title> "Advances in natural language processing" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/natural-language-processing/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

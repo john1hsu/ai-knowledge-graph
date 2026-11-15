@@ -24,7 +24,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:heuristic-search` | `kt:logic-theorist`, `kt:beam-search`, `kt:tree-of-thoughts` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
 | `kt:ms-coco` | `kt:faster-r-cnn`, `kt:object-detection`, `kt:yolo` |
-| `kt:named-entity-recognition` | `kt:conditional-random-field`, `kt:glove`, `kt:natural-language-processing` |
 | `kt:orca-serving-system` | `kt:model-serving`, `kt:batching-and-paged-attention`, `kt:tensorrt-llm` |
 | `kt:self-supervised-learning` | `kt:representation-learning`, `kt:unsupervised-learning`, `kt:pretraining` |
 | `kt:wmt-2014` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
@@ -152,6 +151,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:computing-machinery-and-intelligence` | `kt:turing-test` |
 | `kt:conceptnet` | `kt:commonsenseqa` |
 | `kt:conditional-random-fields-probabilistic-models-for-segmenting-and-labeling-sequence-data` | `kt:conditional-random-field` |
+| `kt:conll-2003` | `kt:named-entity-recognition` |
 | `kt:constitutional-ai-harmlessness-from-ai-feedback` | `kt:constitutional-ai` |
 | `kt:constrained-decoding` | `kt:structured-output` |
 | `kt:contextual-calibration` | `kt:prompt-sensitivity` |
@@ -188,6 +188,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:eliza-effect` | `kt:eliza` |
 | `kt:emergent-abilities-of-large-language-models` | `kt:emergent-abilities` |
 | `kt:empirical-risk-minimization` | `kt:supervised-learning` |
+| `kt:entity-linking` | `kt:named-entity-recognition` |
 | `kt:european-union` | `kt:eu-ai-act` |
 | `kt:expert-iteration` | `kt:star-self-taught-reasoner` |
 | `kt:facial-recognition` | `kt:algorithmic-bias-and-fairness` |
@@ -232,6 +233,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:imagenet-large-scale-visual-recognition-challenge` | `kt:imagenet-and-alexnet` |
 | `kt:in-datacenter-performance-analysis-of-a-tensor-processing-unit` | `kt:tpu` |
 | `kt:inference-engine` | `kt:expert-systems` |
+| `kt:information-extraction` | `kt:named-entity-recognition` |
 | `kt:information-processing-language` | `kt:logic-theorist` |
 | `kt:information-science` | `kt:information-retrieval` |
 | `kt:information-theory` | `kt:perplexity` |
@@ -257,6 +259,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:karl-pearson` | `kt:principal-component-analysis` |
 | `kt:kernel-pca` | `kt:principal-component-analysis` |
 | `kt:knowledge-base` | `kt:expert-systems` |
+| `kt:knowledge-graph` | `kt:named-entity-recognition` |
 | `kt:langchain` | `kt:langgraph` |
 | `kt:language-server-protocol` | `kt:model-context-protocol` |
 | `kt:large-language-monkeys` | `kt:self-consistency` |
@@ -294,6 +297,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:membership-inference-attack` | `kt:benchmark-contamination` |
 | `kt:memgpt` | `kt:agent-memory` |
 | `kt:memory-wall` | `kt:high-bandwidth-memory` |
+| `kt:message-understanding-conference-6` | `kt:named-entity-recognition` |
 | `kt:michael-wooldridge` | `kt:multi-agent-systems` |
 | `kt:microsoft-agent-framework` | `kt:autogen` |
 | `kt:min-p-sampling` | `kt:sampling-temperature-and-top-p` |
@@ -356,6 +360,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:rectified-linear-unit` | `kt:activation-function` |
 | `kt:reinforce-algorithm` | `kt:policy-gradient` |
 | `kt:reinforcement-learning-from-ai-feedback` | `kt:constitutional-ai` |
+| `kt:relation-extraction` | `kt:named-entity-recognition` |
 | `kt:representation-learning-a-review-and-new-perspectives` | `kt:representation-learning` |
 | `kt:retrieval-augmented-generation-for-knowledge-intensive-nlp-tasks` | `kt:retrieval-augmented-generation` |
 | `kt:rewardbench` | `kt:reward-model` |

@@ -2515,6 +2515,30 @@
     ]
   },
   {
+    "id": "kt:named-entity-recognition",
+    "title": "Named-entity recognition",
+    "aliases": [
+      "NER",
+      "named entity recognition",
+      "named entity recognition and classification",
+      "entity extraction",
+      "entity tagging"
+    ],
+    "type": "Application",
+    "domain": "retrieval-and-knowledge",
+    "file": "articles/retrieval-and-knowledge/named-entity-recognition.md",
+    "created": "2026-11-15",
+    "maturity": "established",
+    "source_urls": [
+      "https://aclanthology.org/C96-1079.pdf",
+      "https://aclanthology.org/W03-0419.pdf",
+      "https://web.stanford.edu/%7Ejurafsky/slp3/17.pdf",
+      "https://aclanthology.org/N16-1030.pdf",
+      "https://proceedings.iclr.cc/paper_files/paper/2024/hash/34678d08b36076de986df95c5bbba92f-Abstract-Conference.html",
+      "https://arxiv.org/abs/2308.03279"
+    ]
+  },
+  {
     "id": "kt:natural-language-processing",
     "title": "Natural language processing",
     "aliases": [

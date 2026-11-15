@@ -13561,6 +13561,106 @@
       ]
     },
     {
+      "@id": "kt:named-entity-recognition",
+      "@type": "kto:Application",
+      "skos:prefLabel": "Named-entity recognition",
+      "skos:definition": "The information-extraction task of finding the spans of text that name people, organizations, locations and other entity types and labelling each span with its type; defined as an evaluation task at MUC-6 in 1995 and usually framed today as token-level sequence labelling scored by entity-level F1.",
+      "kto:domain": "retrieval-and-knowledge",
+      "dcterms:created": "2026-11-15",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Message Understanding Conference-6: A Brief History",
+          "dcterms:publisher": "Proceedings of COLING 1996, ACL Anthology C96-1079 (Grishman and Sundheim)",
+          "schema:url": "https://aclanthology.org/C96-1079.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Introduction to the CoNLL-2003 Shared Task: Language-Independent Named Entity Recognition",
+          "dcterms:publisher": "Proceedings of CoNLL-2003, ACL Anthology W03-0419 (Tjong Kim Sang and De Meulder)",
+          "schema:url": "https://aclanthology.org/W03-0419.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Sequence Labeling for Parts of Speech and Named Entities (Speech and Language Processing, 3rd ed. draft, ch. 17)",
+          "dcterms:publisher": "Stanford University (Jurafsky and Martin), draft of January 2026",
+          "schema:url": "https://web.stanford.edu/%7Ejurafsky/slp3/17.pdf",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Neural Architectures for Named Entity Recognition",
+          "dcterms:publisher": "Proceedings of NAACL-HLT 2016, ACL Anthology N16-1030 (Lample, Ballesteros, Subramanian, Kawakami and Dyer), pp. 260–270",
+          "schema:url": "https://aclanthology.org/N16-1030.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition",
+          "dcterms:publisher": "ICLR 2024 proceedings (Zhou, Zhang, Gu, Chen and Poon)",
+          "schema:url": "https://proceedings.iclr.cc/paper_files/paper/2024/hash/34678d08b36076de986df95c5bbba92f-Abstract-Conference.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition (arXiv v2)",
+          "dcterms:publisher": "arXiv 2308.03279 (authors' version)",
+          "schema:url": "https://arxiv.org/abs/2308.03279",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/retrieval-and-knowledge/named-entity-recognition.md",
+      "skos:altLabel": [
+        "NER",
+        "named entity recognition",
+        "named entity recognition and classification",
+        "entity extraction",
+        "entity tagging"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:information-extraction"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:conditional-random-field"
+        },
+        {
+          "@id": "kt:hidden-markov-model"
+        },
+        {
+          "@id": "kt:glove"
+        },
+        {
+          "@id": "kt:knowledge-graph"
+        },
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:natural-language-processing"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:message-understanding-conference-6"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:conll-2003"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:entity-linking"
+        },
+        {
+          "@id": "kt:relation-extraction"
+        }
+      ]
+    },
+    {
       "@id": "kt:reranking",
       "@type": "kto:Technique",
       "skos:prefLabel": "Reranking",
