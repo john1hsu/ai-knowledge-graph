@@ -173,6 +173,28 @@
     ]
   },
   {
+    "id": "kt:ai-accelerator",
+    "title": "AI accelerator",
+    "aliases": [
+      "AI chip",
+      "machine learning accelerator",
+      "deep learning accelerator",
+      "DNN accelerator"
+    ],
+    "type": "Hardware",
+    "domain": "ai-infrastructure-and-mlops",
+    "file": "articles/ai-infrastructure-and-mlops/ai-accelerator.md",
+    "created": "2026-11-15",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/abs/1703.09039v2",
+      "https://www.doc.ic.ac.uk/~wl/teachlocal/arch/papers/cacm20dsa.pdf",
+      "https://cset.georgetown.edu/publication/ai-chips-what-they-are-and-why-they-matter/",
+      "https://arxiv.org/pdf/2310.09145.pdf",
+      "https://mlsysbook.ai/contents/hw_acceleration/hw_acceleration.html"
+    ]
+  },
+  {
     "id": "kt:ai-agent",
     "title": "AI agent",
     "aliases": [

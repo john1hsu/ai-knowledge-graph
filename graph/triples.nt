@@ -201,6 +201,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "agents-and-tool-use" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Hardware> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> <http://www.w3.org/2000/01/rdf-schema#label> "AI accelerator" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> <http://www.w3.org/2004/02/skos/core#altLabel> "AI chip" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> <http://www.w3.org/2004/02/skos/core#altLabel> "DNN accelerator" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> <http://www.w3.org/2004/02/skos/core#altLabel> "deep learning accelerator" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> <http://www.w3.org/2004/02/skos/core#altLabel> "machine learning accelerator" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-hardware> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> <http://www.w3.org/2004/02/skos/core#definition> "A processor specialized for neural-network workloads, such as a GPU, an AI-specific ASIC like the TPU, or an FPGA, that gains speed and energy efficiency over general-purpose CPUs through massive parallelism, low-precision arithmetic, local memory and reduced instruction overhead." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> <http://www.w3.org/2004/02/skos/core#prefLabel> "AI accelerator" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/application-specific-integrated-circuit> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/quantization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/tpu> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-accelerator/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-accelerator/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-accelerator/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-accelerator/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-accelerator/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-infrastructure-and-mlops" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> <https://github.com/john1hsu/ai-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> <http://www.w3.org/2000/01/rdf-schema#label> "AI agent" .
@@ -4544,6 +4569,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "news" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/agentic-workflow/s5> <https://schema.org/url> "https://www.deeplearning.ai/the-batch/check-out-our-course-on-how-to-build-ai-agents" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-accelerator/s1> <http://purl.org/dc/terms/publisher> "Proceedings of the IEEE, December 2017 (Sze, Chen, Yang, Emer); authors' arXiv version 1703.09039" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-accelerator/s1> <http://purl.org/dc/terms/title> "Efficient Processing of Deep Neural Networks: A Tutorial and Survey" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-accelerator/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-accelerator/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-accelerator/s1> <https://schema.org/url> "https://arxiv.org/abs/1703.09039v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-accelerator/s2> <http://purl.org/dc/terms/publisher> "Communications of the ACM 63(7), 2020 (Dally, Turakhia, Han; DOI 10.1145/3361682), copy hosted for Imperial College London course reading" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-accelerator/s2> <http://purl.org/dc/terms/title> "Domain-Specific Hardware Accelerators" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-accelerator/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-accelerator/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-accelerator/s2> <https://schema.org/url> "https://www.doc.ic.ac.uk/~wl/teachlocal/arch/papers/cacm20dsa.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-accelerator/s3> <http://purl.org/dc/terms/publisher> "Georgetown University Center for Security and Emerging Technology (Khan and Mann), April 2020" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-accelerator/s3> <http://purl.org/dc/terms/title> "AI Chips: What They Are and Why They Matter" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-accelerator/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-accelerator/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-accelerator/s3> <https://schema.org/url> "https://cset.georgetown.edu/publication/ai-chips-what-they-are-and-why-they-matter/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-accelerator/s4> <http://purl.org/dc/terms/publisher> "MIT Lincoln Laboratory Supercomputing Center (Reuther et al.), 2023; arXiv 2310.09145" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-accelerator/s4> <http://purl.org/dc/terms/title> "Lincoln AI Computing Survey (LAICS) Update" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-accelerator/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-accelerator/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-accelerator/s4> <https://schema.org/url> "https://arxiv.org/pdf/2310.09145.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-accelerator/s5> <http://purl.org/dc/terms/publisher> "Machine Learning Systems (open textbook, mlsysbook.ai)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-accelerator/s5> <http://purl.org/dc/terms/title> "AI Acceleration" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-accelerator/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-accelerator/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-accelerator/s5> <https://schema.org/url> "https://mlsysbook.ai/contents/hw_acceleration/hw_acceleration.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s1> <http://purl.org/dc/terms/publisher> "University of Maryland, Department of Computer Science" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s1> <http://purl.org/dc/terms/title> "Chapter 2: Intelligent Agents (CMSC 421 lecture slides, after Russell & Norvig, AIMA)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-agent/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

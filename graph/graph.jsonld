@@ -2435,6 +2435,91 @@
       ]
     },
     {
+      "@id": "kt:ai-accelerator",
+      "@type": "kto:Hardware",
+      "skos:prefLabel": "AI accelerator",
+      "skos:definition": "A processor specialized for neural-network workloads, such as a GPU, an AI-specific ASIC like the TPU, or an FPGA, that gains speed and energy efficiency over general-purpose CPUs through massive parallelism, low-precision arithmetic, local memory and reduced instruction overhead.",
+      "kto:domain": "ai-infrastructure-and-mlops",
+      "dcterms:created": "2026-11-15",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Efficient Processing of Deep Neural Networks: A Tutorial and Survey",
+          "dcterms:publisher": "Proceedings of the IEEE, December 2017 (Sze, Chen, Yang, Emer); authors' arXiv version 1703.09039",
+          "schema:url": "https://arxiv.org/abs/1703.09039v2",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Domain-Specific Hardware Accelerators",
+          "dcterms:publisher": "Communications of the ACM 63(7), 2020 (Dally, Turakhia, Han; DOI 10.1145/3361682), copy hosted for Imperial College London course reading",
+          "schema:url": "https://www.doc.ic.ac.uk/~wl/teachlocal/arch/papers/cacm20dsa.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "AI Chips: What They Are and Why They Matter",
+          "dcterms:publisher": "Georgetown University Center for Security and Emerging Technology (Khan and Mann), April 2020",
+          "schema:url": "https://cset.georgetown.edu/publication/ai-chips-what-they-are-and-why-they-matter/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Lincoln AI Computing Survey (LAICS) Update",
+          "dcterms:publisher": "MIT Lincoln Laboratory Supercomputing Center (Reuther et al.), 2023; arXiv 2310.09145",
+          "schema:url": "https://arxiv.org/pdf/2310.09145.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "AI Acceleration",
+          "dcterms:publisher": "Machine Learning Systems (open textbook, mlsysbook.ai)",
+          "schema:url": "https://mlsysbook.ai/contents/hw_acceleration/hw_acceleration.html",
+          "kto:sourceType": "textbook"
+        }
+      ],
+      "kto:file": "articles/ai-infrastructure-and-mlops/ai-accelerator.md",
+      "skos:altLabel": [
+        "AI chip",
+        "machine learning accelerator",
+        "deep learning accelerator",
+        "DNN accelerator"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-hardware"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:gpu-computing"
+        },
+        {
+          "@id": "kt:tpu"
+        },
+        {
+          "@id": "kt:application-specific-integrated-circuit"
+        },
+        {
+          "@id": "kt:quantization"
+        },
+        {
+          "@id": "kt:compute-governance"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:high-bandwidth-memory"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:deep-learning"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:ai-chip-export-controls"
+        }
+      ]
+    },
+    {
       "@id": "kt:cuda",
       "@type": "kto:Tool",
       "skos:prefLabel": "CUDA",
