@@ -27,6 +27,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:self-supervised-learning` | `kt:representation-learning`, `kt:unsupervised-learning`, `kt:pretraining` |
 | `kt:zero-shot-learning` | `kt:clip`, `kt:zero-shot-prompting`, `kt:instruction-tuning` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
+| `kt:adversarial-example` | `kt:adversarial-machine-learning`, `kt:data-poisoning` |
 | `kt:alfworld` | `kt:autogen`, `kt:react-prompting` |
 | `kt:all-reduce` | `kt:data-parallelism`, `kt:distributed-training` |
 | `kt:alpha-beta-pruning` | `kt:deep-blue`, `kt:monte-carlo-tree-search` |
@@ -40,7 +41,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:contrastive-learning` | `kt:clip`, `kt:representation-learning` |
 | `kt:cross-validation` | `kt:bias-variance-tradeoff`, `kt:overfitting` |
 | `kt:curse-of-dimensionality` | `kt:universal-approximation-theorem`, `kt:dimensionality-reduction` |
-| `kt:data-poisoning` | `kt:benchmark-contamination`, `kt:adversarial-machine-learning` |
 | `kt:deep-belief-network` | `kt:geoffrey-hinton`, `kt:deep-learning` |
 | `kt:deep-learning-framework` | `kt:hugging-face-transformers`, `kt:pytorch` |
 | `kt:deep-reinforcement-learning-from-human-preferences` | `kt:reward-model`, `kt:rlhf` |
@@ -72,6 +72,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:marvin-minsky` | `kt:dartmouth-workshop`, `kt:perceptron` |
 | `kt:meta-ai` | `kt:toolformer`, `kt:pytorch` |
 | `kt:model-compression-caruana-2006` | `kt:model-compression`, `kt:knowledge-distillation` |
+| `kt:model-extraction` | `kt:adversarial-machine-learning`, `kt:data-poisoning` |
 | `kt:monte-carlo-methods` | `kt:monte-carlo-tree-search`, `kt:temporal-difference-learning` |
 | `kt:mt-bench` | `kt:chatbot-arena`, `kt:llm-as-a-judge` |
 | `kt:multi-armed-bandit` | `kt:exploration-exploitation`, `kt:monte-carlo-tree-search` |
@@ -102,7 +103,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:adam-a-method-for-stochastic-optimization` | `kt:adam-optimizer` |
 | `kt:adamw` | `kt:adam-optimizer` |
 | `kt:adapter-modules` | `kt:parameter-efficient-fine-tuning` |
-| `kt:adversarial-example` | `kt:adversarial-machine-learning` |
 | `kt:adversarial-training` | `kt:adversarial-machine-learning` |
 | `kt:ai-ethics` | `kt:algorithmic-bias-and-fairness` |
 | `kt:ai-governance-a-research-agenda` | `kt:ai-governance` |
@@ -125,6 +125,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:automated-planning` | `kt:planning-in-llms` |
 | `kt:automated-theorem-proving` | `kt:logic-theorist` |
 | `kt:awq-activation-aware-weight-quantization-for-llm-compression-and-acceleration` | `kt:awq` |
+| `kt:backdoor-attack` | `kt:data-poisoning` |
 | `kt:backpropagation-through-time` | `kt:recurrent-neural-network` |
 | `kt:bagging` | `kt:ensemble-methods` |
 | `kt:batch-normalization-accelerating-deep-network-training` | `kt:batch-normalization` |
@@ -210,6 +211,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fasttext` | `kt:word2vec` |
 | `kt:feature-engineering` | `kt:representation-learning` |
 | `kt:feature-store` | `kt:mlops` |
+| `kt:federated-learning` | `kt:data-poisoning` |
 | `kt:feng-hsiung-hsu` | `kt:deep-blue` |
 | `kt:flamingo-a-visual-language-model-for-few-shot-learning` | `kt:vision-language-model` |
 | `kt:frank-rosenblatt` | `kt:perceptron` |
@@ -323,7 +325,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mmlu-pro` | `kt:mmlu` |
 | `kt:model-cards-for-model-reporting` | `kt:model-cards` |
 | `kt:model-collapse` | `kt:synthetic-data` |
-| `kt:model-extraction` | `kt:adversarial-machine-learning` |
 | `kt:model-parallelism` | `kt:data-parallelism` |
 | `kt:model-registry` | `kt:mlops` |
 | `kt:monte-carlo-dropout` | `kt:dropout` |

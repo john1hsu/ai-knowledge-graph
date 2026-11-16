@@ -1210,6 +1210,27 @@
     ]
   },
   {
+    "id": "kt:data-poisoning",
+    "title": "Data poisoning",
+    "aliases": [
+      "poisoning attack",
+      "training data poisoning",
+      "dataset poisoning"
+    ],
+    "type": "Risk",
+    "domain": "safety-alignment-and-security",
+    "file": "articles/safety-alignment-and-security/data-poisoning.md",
+    "created": "2026-11-16",
+    "maturity": "established",
+    "source_urls": [
+      "https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-2e2025.pdf",
+      "https://arxiv.org/abs/1206.6389",
+      "https://arxiv.org/abs/1708.06733",
+      "https://arxiv.org/abs/2302.10149v2",
+      "https://www.anthropic.com/research/small-samples-poison?from_blog=true"
+    ]
+  },
+  {
     "id": "kt:datasheets-for-datasets",
     "title": "Datasheets for datasets",
     "aliases": [

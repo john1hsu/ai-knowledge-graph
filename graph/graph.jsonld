@@ -15767,6 +15767,87 @@
       ]
     },
     {
+      "@id": "kt:data-poisoning",
+      "@type": "kto:Risk",
+      "skos:prefLabel": "Data poisoning",
+      "skos:definition": "A training-time attack in which an adversary inserts or modifies training examples so that the resulting model performs worse overall, misbehaves on chosen inputs, or carries a hidden backdoor that a trigger activates.",
+      "kto:domain": "safety-alignment-and-security",
+      "dcterms:created": "2026-11-16",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations (NIST AI 100-2 E2025)",
+          "dcterms:publisher": "NIST (Vassilev, Oprea, Fordyce, Anderson, Davies, Hamin), March 2025",
+          "schema:url": "https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-2e2025.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Poisoning Attacks against Support Vector Machines",
+          "dcterms:publisher": "arXiv:1206.6389 (Biggio, Nelson, Laskov), 2012",
+          "schema:url": "https://arxiv.org/abs/1206.6389",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain",
+          "dcterms:publisher": "arXiv:1708.06733 (Gu, Dolan-Gavitt, Garg), 2017",
+          "schema:url": "https://arxiv.org/abs/1708.06733",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Poisoning Web-Scale Training Datasets is Practical",
+          "dcterms:publisher": "arXiv:2302.10149 (Carlini, Jagielski, Choquette-Choo, Paleka, Pearce, Anderson, Terzis, Thomas, Tramèr), 2023",
+          "schema:url": "https://arxiv.org/abs/2302.10149v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "A small number of samples can poison LLMs of any size",
+          "dcterms:publisher": "Anthropic, with the UK AI Security Institute and The Alan Turing Institute, October 2025",
+          "schema:url": "https://www.anthropic.com/research/small-samples-poison?from_blog=true",
+          "kto:sourceType": "lab-research"
+        }
+      ],
+      "kto:file": "articles/safety-alignment-and-security/data-poisoning.md",
+      "skos:altLabel": [
+        "poisoning attack",
+        "training data poisoning",
+        "dataset poisoning"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:adversarial-machine-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:benchmark-contamination"
+        },
+        {
+          "@id": "kt:red-teaming"
+        },
+        {
+          "@id": "kt:model-extraction"
+        },
+        {
+          "@id": "kt:federated-learning"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:backdoor-attack"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:adversarial-example"
+        }
+      ],
+      "kto:exploits": [
+        {
+          "@id": "kt:pretraining"
+        }
+      ]
+    },
+    {
       "@id": "kt:goodharts-law",
       "@type": "kto:Concept",
       "skos:prefLabel": "Goodhart's law",

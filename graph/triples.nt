@@ -1437,6 +1437,29 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/data-parallelism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-infrastructure-and-mlops" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/data-parallelism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/data-parallelism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/data-poisoning> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/data-poisoning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Risk> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/data-poisoning> <http://www.w3.org/2000/01/rdf-schema#label> "Data poisoning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/data-poisoning> <http://www.w3.org/2004/02/skos/core#altLabel> "dataset poisoning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/data-poisoning> <http://www.w3.org/2004/02/skos/core#altLabel> "poisoning attack" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/data-poisoning> <http://www.w3.org/2004/02/skos/core#altLabel> "training data poisoning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/data-poisoning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/data-poisoning> <http://www.w3.org/2004/02/skos/core#definition> "A training-time attack in which an adversary inserts or modifies training examples so that the resulting model performs worse overall, misbehaves on chosen inputs, or carries a hidden backdoor that a trigger activates." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/data-poisoning> <http://www.w3.org/2004/02/skos/core#prefLabel> "Data poisoning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/data-poisoning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/data-poisoning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/federated-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/data-poisoning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/model-extraction> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/data-poisoning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/data-poisoning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/data-poisoning/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/data-poisoning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/data-poisoning/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/data-poisoning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/data-poisoning/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/data-poisoning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/data-poisoning/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/data-poisoning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/data-poisoning/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/data-poisoning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-example> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/data-poisoning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "safety-alignment-and-security" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/data-poisoning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#exploits> <https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/data-poisoning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/backdoor-attack> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/data-poisoning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets> <http://purl.org/dc/terms/created> "2026-11-16" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets> <http://www.w3.org/2000/01/rdf-schema#label> "Datasheets for datasets" .
@@ -6100,6 +6123,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/data-parallelism/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/data-parallelism/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/data-parallelism/s6> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/1910.02054" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/data-poisoning/s1> <http://purl.org/dc/terms/publisher> "NIST (Vassilev, Oprea, Fordyce, Anderson, Davies, Hamin), March 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/data-poisoning/s1> <http://purl.org/dc/terms/title> "Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations (NIST AI 100-2 E2025)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/data-poisoning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/data-poisoning/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/data-poisoning/s1> <https://schema.org/url> "https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-2e2025.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/data-poisoning/s2> <http://purl.org/dc/terms/publisher> "arXiv:1206.6389 (Biggio, Nelson, Laskov), 2012" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/data-poisoning/s2> <http://purl.org/dc/terms/title> "Poisoning Attacks against Support Vector Machines" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/data-poisoning/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/data-poisoning/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/data-poisoning/s2> <https://schema.org/url> "https://arxiv.org/abs/1206.6389" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/data-poisoning/s3> <http://purl.org/dc/terms/publisher> "arXiv:1708.06733 (Gu, Dolan-Gavitt, Garg), 2017" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/data-poisoning/s3> <http://purl.org/dc/terms/title> "BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/data-poisoning/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/data-poisoning/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/data-poisoning/s3> <https://schema.org/url> "https://arxiv.org/abs/1708.06733" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/data-poisoning/s4> <http://purl.org/dc/terms/publisher> "arXiv:2302.10149 (Carlini, Jagielski, Choquette-Choo, Paleka, Pearce, Anderson, Terzis, Thomas, Tramèr), 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/data-poisoning/s4> <http://purl.org/dc/terms/title> "Poisoning Web-Scale Training Datasets is Practical" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/data-poisoning/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/data-poisoning/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/data-poisoning/s4> <https://schema.org/url> "https://arxiv.org/abs/2302.10149v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/data-poisoning/s5> <http://purl.org/dc/terms/publisher> "Anthropic, with the UK AI Security Institute and The Alan Turing Institute, October 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/data-poisoning/s5> <http://purl.org/dc/terms/title> "A small number of samples can poison LLMs of any size" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/data-poisoning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/data-poisoning/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/data-poisoning/s5> <https://schema.org/url> "https://www.anthropic.com/research/small-samples-poison?from_blog=true" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s1> <http://purl.org/dc/terms/publisher> "arXiv (Gebru, Morgenstern, Vecchione, Wortman Vaughan, Wallach, Daumé III, Crawford)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s1> <http://purl.org/dc/terms/title> "Datasheets for Datasets (arXiv:1803.09010v5)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
