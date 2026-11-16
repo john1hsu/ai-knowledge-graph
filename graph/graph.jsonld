@@ -14464,6 +14464,97 @@
       ]
     },
     {
+      "@id": "kt:graphrag",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "GraphRAG",
+      "skos:definition": "A retrieval-augmented generation approach from Microsoft Research that uses an LLM to extract an entity knowledge graph from a corpus, partitions it into a hierarchy of communities with pre-written summaries, and answers corpus-wide \"sensemaking\" questions by map-reducing over those summaries.",
+      "kto:domain": "retrieval-and-knowledge",
+      "dcterms:created": "2026-11-16",
+      "kto:maturity": "emerging",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "From Local to Global: A GraphRAG Approach to Query-Focused Summarization",
+          "dcterms:publisher": "arXiv:2404.16130 v2 (Edge, Trinh, Cheng, Bradley, Chao, Mody, Truitt, Metropolitansky, Ness and Larson; Microsoft)",
+          "schema:url": "https://arxiv.org/html/2404.16130v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Query Engine",
+          "dcterms:publisher": "Microsoft GraphRAG official documentation",
+          "schema:url": "https://microsoft.github.io/graphrag/query/overview",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "LazyGraphRAG: Setting a new standard for quality and cost",
+          "dcterms:publisher": "Microsoft Research Blog (Edge, Trinh and Larson), 25 November 2024, updated 6 June 2025",
+          "schema:url": "https://microsoft.com/en-us/research/blog/lazygraphrag-setting-a-new-standard-for-quality-and-cost",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "From Louvain to Leiden: guaranteeing well-connected communities",
+          "dcterms:publisher": "Scientific Reports 9, 5233 (2019) (Traag, Waltman and van Eck); PubMed Central",
+          "schema:url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6435756",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/retrieval-and-knowledge/graphrag.md",
+      "skos:altLabel": [
+        "Graph RAG",
+        "graph-based retrieval-augmented generation",
+        "Microsoft GraphRAG"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:retrieval-augmented-generation"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:knowledge-graph"
+        },
+        {
+          "@id": "kt:semantic-search"
+        },
+        {
+          "@id": "kt:vector-database"
+        },
+        {
+          "@id": "kt:context-window"
+        },
+        {
+          "@id": "kt:hallucination"
+        },
+        {
+          "@id": "kt:llm-as-a-judge"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:microsoft-research"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:from-local-to-global-a-graphrag-approach-to-query-focused-summarization"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:leiden-algorithm"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:lazygraphrag"
+        }
+      ]
+    },
+    {
       "@id": "kt:hybrid-search",
       "@type": "kto:Technique",
       "skos:prefLabel": "Hybrid search",
@@ -14931,6 +15022,9 @@
         },
         {
           "@id": "kt:toolformer"
+        },
+        {
+          "@id": "kt:graphrag"
         }
       ],
       "kto:introducedIn": [

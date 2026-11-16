@@ -22,6 +22,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:gradient-descent` | `kt:adam-optimizer`, `kt:backpropagation`, `kt:deep-learning` |
 | `kt:language-models-are-few-shot-learners` | `kt:few-shot-prompting`, `kt:zero-shot-prompting`, `kt:in-context-learning` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
+| `kt:microsoft-research` | `kt:autogen`, `kt:residual-connection`, `kt:graphrag` |
 | `kt:ms-coco` | `kt:faster-r-cnn`, `kt:object-detection`, `kt:yolo` |
 | `kt:self-supervised-learning` | `kt:representation-learning`, `kt:unsupervised-learning`, `kt:pretraining` |
 | `kt:zero-shot-learning` | `kt:clip`, `kt:zero-shot-prompting`, `kt:instruction-tuning` |
@@ -60,6 +61,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:induction-head` | `kt:mechanistic-interpretability`, `kt:in-context-learning` |
 | `kt:iso-iec-27001` | `kt:iso-iec-42001`, `kt:iso-iec-42001` |
 | `kt:john-mccarthy` | `kt:artificial-intelligence`, `kt:dartmouth-workshop` |
+| `kt:knowledge-graph` | `kt:graphrag`, `kt:named-entity-recognition` |
 | `kt:knowledge-representation` | `kt:expert-systems`, `kt:symbolic-ai` |
 | `kt:language-model` | `kt:perplexity`, `kt:large-language-model` |
 | `kt:latent-semantic-analysis` | `kt:glove`, `kt:semantic-search` |
@@ -69,7 +71,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:machine-translation` | `kt:bleu`, `kt:natural-language-processing` |
 | `kt:marvin-minsky` | `kt:dartmouth-workshop`, `kt:perceptron` |
 | `kt:meta-ai` | `kt:toolformer`, `kt:pytorch` |
-| `kt:microsoft-research` | `kt:autogen`, `kt:residual-connection` |
 | `kt:model-compression-caruana-2006` | `kt:model-compression`, `kt:knowledge-distillation` |
 | `kt:monte-carlo-methods` | `kt:monte-carlo-tree-search`, `kt:temporal-difference-learning` |
 | `kt:mt-bench` | `kt:chatbot-arena`, `kt:llm-as-a-judge` |
@@ -212,6 +213,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:feng-hsiung-hsu` | `kt:deep-blue` |
 | `kt:flamingo-a-visual-language-model-for-few-shot-learning` | `kt:vision-language-model` |
 | `kt:frank-rosenblatt` | `kt:perceptron` |
+| `kt:from-local-to-global-a-graphrag-approach-to-query-focused-summarization` | `kt:graphrag` |
 | `kt:function-approximation` | `kt:sarsa` |
 | `kt:function-calling` | `kt:structured-output` |
 | `kt:gated-recurrent-unit` | `kt:recurrent-neural-network` |
@@ -272,11 +274,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:karl-pearson` | `kt:principal-component-analysis` |
 | `kt:kernel-pca` | `kt:principal-component-analysis` |
 | `kt:knowledge-base` | `kt:expert-systems` |
-| `kt:knowledge-graph` | `kt:named-entity-recognition` |
 | `kt:langchain` | `kt:langgraph` |
 | `kt:language-server-protocol` | `kt:model-context-protocol` |
 | `kt:large-language-monkeys` | `kt:self-consistency` |
 | `kt:lasso` | `kt:regularization` |
+| `kt:lazygraphrag` | `kt:graphrag` |
 | `kt:learning-long-term-dependencies-with-gradient-descent-is-difficult` | `kt:vanishing-gradient-problem` |
 | `kt:learning-representations-by-back-propagating-errors` | `kt:backpropagation` |
 | `kt:learning-to-predict-by-the-methods-of-temporal-differences` | `kt:temporal-difference-learning` |
@@ -284,6 +286,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:learning-to-reason-with-llms` | `kt:reasoning-models` |
 | `kt:learning-transferable-visual-models-from-natural-language-supervision` | `kt:clip` |
 | `kt:least-to-most-prompting-enables-complex-reasoning-in-large-language-models` | `kt:least-to-most-prompting` |
+| `kt:leiden-algorithm` | `kt:graphrag` |
 | `kt:lenet` | `kt:imagenet-and-alexnet` |
 | `kt:librispeech` | `kt:automatic-speech-recognition` |
 | `kt:lighthill-report` | `kt:ai-winter` |

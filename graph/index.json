@@ -1879,6 +1879,26 @@
     ]
   },
   {
+    "id": "kt:graphrag",
+    "title": "GraphRAG",
+    "aliases": [
+      "Graph RAG",
+      "graph-based retrieval-augmented generation",
+      "Microsoft GraphRAG"
+    ],
+    "type": "Technique",
+    "domain": "retrieval-and-knowledge",
+    "file": "articles/retrieval-and-knowledge/graphrag.md",
+    "created": "2026-11-16",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://arxiv.org/html/2404.16130v2",
+      "https://microsoft.github.io/graphrag/query/overview",
+      "https://microsoft.com/en-us/research/blog/lazygraphrag-setting-a-new-standard-for-quality-and-cost",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6435756"
+    ]
+  },
+  {
     "id": "kt:gsm8k",
     "title": "GSM8K",
     "aliases": [

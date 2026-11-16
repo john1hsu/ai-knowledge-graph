@@ -2223,6 +2223,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/tensor-cores> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/graphrag> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/graphrag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/graphrag> <http://www.w3.org/2000/01/rdf-schema#label> "GraphRAG" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/graphrag> <http://www.w3.org/2004/02/skos/core#altLabel> "Graph RAG" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/graphrag> <http://www.w3.org/2004/02/skos/core#altLabel> "Microsoft GraphRAG" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/graphrag> <http://www.w3.org/2004/02/skos/core#altLabel> "graph-based retrieval-augmented generation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/graphrag> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/graphrag> <http://www.w3.org/2004/02/skos/core#definition> "A retrieval-augmented generation approach from Microsoft Research that uses an LLM to extract an entity knowledge graph from a corpus, partitions it into a hierarchy of communities with pre-written summaries, and answers corpus-wide \"sensemaking\" questions by map-reducing over those summaries." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/graphrag> <http://www.w3.org/2004/02/skos/core#prefLabel> "GraphRAG" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/graphrag> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/graphrag> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/graphrag> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/graphrag> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/graphrag> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/graphrag> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/vector-database> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/graphrag> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/graphrag/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/graphrag> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/graphrag/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/graphrag> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/graphrag/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/graphrag> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/graphrag/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/graphrag> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/lazygraphrag> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/graphrag> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/graphrag> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/microsoft-research> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/graphrag> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/leiden-algorithm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/graphrag> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "retrieval-and-knowledge" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/graphrag> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/from-local-to-global-a-graphrag-approach-to-query-focused-summarization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/graphrag> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Benchmark> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <http://www.w3.org/2000/01/rdf-schema#label> "GSM8K" .
@@ -4153,6 +4179,7 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> <http://www.w3.org/2004/02/skos/core#definition> "A technique that couples a text generator with a retriever, so that documents fetched from an external corpus at inference time condition the model's output; the \"parametric\" knowledge in the model's weights is supplemented by \"non-parametric\" knowledge held in an updatable index." .
 <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Retrieval-augmented generation for knowledge-intensive tasks" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/graphrag> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/reranking> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/toolformer> .
@@ -6903,6 +6930,26 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gpu-computing/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gpu-computing/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gpu-computing/s5> <https://schema.org/url> "https://rocm.docs.amd.com/projects/HIP/en/latest/understand/performance_optimization.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/graphrag/s1> <http://purl.org/dc/terms/publisher> "arXiv:2404.16130 v2 (Edge, Trinh, Cheng, Bradley, Chao, Mody, Truitt, Metropolitansky, Ness and Larson; Microsoft)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/graphrag/s1> <http://purl.org/dc/terms/title> "From Local to Global: A GraphRAG Approach to Query-Focused Summarization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/graphrag/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/graphrag/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/graphrag/s1> <https://schema.org/url> "https://arxiv.org/html/2404.16130v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/graphrag/s2> <http://purl.org/dc/terms/publisher> "Microsoft GraphRAG official documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/graphrag/s2> <http://purl.org/dc/terms/title> "Query Engine" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/graphrag/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/graphrag/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/graphrag/s2> <https://schema.org/url> "https://microsoft.github.io/graphrag/query/overview" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/graphrag/s3> <http://purl.org/dc/terms/publisher> "Microsoft Research Blog (Edge, Trinh and Larson), 25 November 2024, updated 6 June 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/graphrag/s3> <http://purl.org/dc/terms/title> "LazyGraphRAG: Setting a new standard for quality and cost" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/graphrag/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/graphrag/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/graphrag/s3> <https://schema.org/url> "https://microsoft.com/en-us/research/blog/lazygraphrag-setting-a-new-standard-for-quality-and-cost" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/graphrag/s4> <http://purl.org/dc/terms/publisher> "Scientific Reports 9, 5233 (2019) (Traag, Waltman and van Eck); PubMed Central" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/graphrag/s4> <http://purl.org/dc/terms/title> "From Louvain to Leiden: guaranteeing well-connected communities" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/graphrag/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/graphrag/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/graphrag/s4> <https://schema.org/url> "https://pmc.ncbi.nlm.nih.gov/articles/PMC6435756" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s1> <http://purl.org/dc/terms/publisher> "arXiv:2110.14168 (Cobbe, Kosaraju, Bavarian, Chen, Jun, Kaiser, Plappert, Tworek, Hilton, Nakano, Hesse, Schulman; OpenAI), October 2021" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s1> <http://purl.org/dc/terms/title> "Training Verifiers to Solve Math Word Problems" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

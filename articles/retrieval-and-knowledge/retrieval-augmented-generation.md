@@ -10,7 +10,7 @@ summary: >-
   is supplemented by "non-parametric" knowledge held in an updatable index.
 maturity: established
 broader: [kt:information-retrieval, kt:large-language-model]
-related: [kt:semantic-search, kt:vector-database, kt:context-window, kt:reranking, kt:toolformer]
+related: [kt:semantic-search, kt:vector-database, kt:context-window, kt:reranking, kt:toolformer, kt:graphrag]
 relations:
   - {predicate: introducedIn, object: kt:retrieval-augmented-generation-for-knowledge-intensive-nlp-tasks}
   - {predicate: influencedBy, object: kt:realm}
