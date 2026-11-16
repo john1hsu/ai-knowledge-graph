@@ -10818,6 +10818,104 @@
       ]
     },
     {
+      "@id": "kt:triton-inference-server",
+      "@type": "kto:Tool",
+      "skos:prefLabel": "Triton Inference Server",
+      "skos:definition": "NVIDIA's open-source, framework-agnostic inference server, which loads models from a model repository and serves them over HTTP/REST, gRPC or an in-process C API, with server-side dynamic and sequence batching, concurrent model execution, and pipelines built from ensembles or Business Logic Scripting; renamed NVIDIA Dynamo-Triton in 2025.",
+      "kto:domain": "inference-and-optimization",
+      "dcterms:created": "2026-11-16",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "NVIDIA Triton Inference Server (user guide overview)",
+          "dcterms:publisher": "NVIDIA Triton Inference Server documentation",
+          "schema:url": "https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Batchers",
+          "dcterms:publisher": "NVIDIA Triton Inference Server documentation (user guide, 2670 archive)",
+          "schema:url": "https://docs.nvidia.com/deeplearning/triton-inference-server/archives/triton-inference-server-2670/user-guide/docs/user_guide/batcher.html",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Business Logic Scripting",
+          "dcterms:publisher": "NVIDIA Triton Inference Server documentation (user guide, 2670 archive)",
+          "schema:url": "https://docs.nvidia.com/deeplearning/triton-inference-server/archives/triton-inference-server-2670/user-guide/docs/user_guide/bls.html",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Triton Inference Server Release 20.03",
+          "dcterms:publisher": "NVIDIA Triton Inference Server release notes",
+          "schema:url": "https://docs.nvidia.com/deeplearning/triton-inference-server/release-notes/rel_20-03.html",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Orca: A Distributed Serving System for Transformer-Based Generative Models",
+          "dcterms:publisher": "USENIX OSDI 2022 (Yu, Jeong, Kim, Kim and Chun)",
+          "schema:url": "https://www.usenix.org/system/files/osdi22-yu.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Optimize AI Inference Performance with NVIDIA Full-Stack Solutions",
+          "dcterms:publisher": "NVIDIA Technical Blog (Comly and Eassa), 24 January 2025, updated 2025",
+          "schema:url": "https://developer.nvidia.com/blog/optimize-ai-inference-performance-with-nvidia-full-stack-solutions",
+          "kto:sourceType": "lab-research"
+        }
+      ],
+      "kto:file": "articles/inference-and-optimization/triton-inference-server.md",
+      "skos:altLabel": [
+        "NVIDIA Triton Inference Server",
+        "NVIDIA Dynamo-Triton",
+        "NVIDIA Dynamo Triton",
+        "TensorRT Inference Server"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:model-serving"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:tensorrt-llm"
+        },
+        {
+          "@id": "kt:vllm"
+        },
+        {
+          "@id": "kt:batching-and-paged-attention"
+        },
+        {
+          "@id": "kt:mlops"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:nvidia"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:nvidia-dynamo"
+        }
+      ],
+      "kto:runsOn": [
+        {
+          "@id": "kt:gpu-computing"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:tensorflow-serving"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:orca-serving-system"
+        }
+      ]
+    },
+    {
       "@id": "kt:vllm",
       "@type": "kto:Tool",
       "skos:prefLabel": "vLLM",

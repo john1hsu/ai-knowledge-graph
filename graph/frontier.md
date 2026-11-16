@@ -90,11 +90,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:self-play` | `kt:alphago-zero`, `kt:alphazero` |
 | `kt:self-refine` | `kt:agentic-workflow`, `kt:voyager` |
 | `kt:support-vector-machine` | `kt:perceptron`, `kt:statistical-learning-theory` |
+| `kt:tensorflow-serving` | `kt:model-serving`, `kt:triton-inference-server` |
 | `kt:text-to-image-generation` | `kt:diffusion-model`, `kt:latent-diffusion-model` |
 | `kt:the-curious-case-of-neural-text-degeneration` | `kt:beam-search`, `kt:sampling-temperature-and-top-p` |
 | `kt:tokenization` | `kt:perplexity`, `kt:structured-output` |
 | `kt:transposed-convolution` | `kt:semantic-segmentation`, `kt:u-net` |
-| `kt:triton-inference-server` | `kt:model-serving`, `kt:tensorrt-llm` |
 | `kt:upper-confidence-bound` | `kt:exploration-exploitation`, `kt:monte-carlo-tree-search` |
 | `kt:vector-space-model` | `kt:information-retrieval`, `kt:tf-idf` |
 | `kt:weight-decay` | `kt:dropout`, `kt:regularization` |
@@ -349,6 +349,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:nist` | `kt:nist-ai-risk-management-framework` |
 | `kt:nist-generative-ai-profile` | `kt:nist-ai-risk-management-framework` |
 | `kt:non-maximum-suppression` | `kt:object-detection` |
+| `kt:nvidia-dynamo` | `kt:triton-inference-server` |
 | `kt:oecd` | `kt:oecd-ai-principles` |
 | `kt:office-of-management-and-budget` | `kt:omb-ai-memoranda` |
 | `kt:olaf-ronneberger` | `kt:u-net` |
@@ -433,7 +434,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:t-sne` | `kt:dimensionality-reduction` |
 | `kt:td-gammon` | `kt:temporal-difference-learning` |
 | `kt:tensorflow` | `kt:google` |
-| `kt:tensorflow-serving` | `kt:model-serving` |
 | `kt:the-leaderboard-illusion` | `kt:chatbot-arena` |
 | `kt:the-logic-theory-machine-a-complex-information-processing-system` | `kt:logic-theorist` |
 | `kt:the-perceptron-a-probabilistic-model-for-information-storage-and-organization-in-the-brain` | `kt:perceptron` |

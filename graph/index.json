@@ -4422,6 +4422,29 @@
     ]
   },
   {
+    "id": "kt:triton-inference-server",
+    "title": "Triton Inference Server",
+    "aliases": [
+      "NVIDIA Triton Inference Server",
+      "NVIDIA Dynamo-Triton",
+      "NVIDIA Dynamo Triton",
+      "TensorRT Inference Server"
+    ],
+    "type": "Tool",
+    "domain": "inference-and-optimization",
+    "file": "articles/inference-and-optimization/triton-inference-server.md",
+    "created": "2026-11-16",
+    "maturity": "established",
+    "source_urls": [
+      "https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs",
+      "https://docs.nvidia.com/deeplearning/triton-inference-server/archives/triton-inference-server-2670/user-guide/docs/user_guide/batcher.html",
+      "https://docs.nvidia.com/deeplearning/triton-inference-server/archives/triton-inference-server-2670/user-guide/docs/user_guide/bls.html",
+      "https://docs.nvidia.com/deeplearning/triton-inference-server/release-notes/rel_20-03.html",
+      "https://www.usenix.org/system/files/osdi22-yu.pdf",
+      "https://developer.nvidia.com/blog/optimize-ai-inference-performance-with-nvidia-full-stack-solutions"
+    ]
+  },
+  {
     "id": "kt:truthfulqa",
     "title": "TruthfulQA",
     "aliases": [
