@@ -9689,6 +9689,96 @@
       ]
     },
     {
+      "@id": "kt:orca-serving-system",
+      "@type": "kto:Tool",
+      "skos:prefLabel": "Orca (LLM serving system)",
+      "skos:definition": "A distributed serving system for transformer-based generative models, presented by Yu et al. (Seoul National University and FriendliAI) at OSDI 2022, that pairs an iteration-level scheduler with selective batching and a multi-GPU engine, and became the reference design and baseline for later LLM serving engines.",
+      "kto:domain": "inference-and-optimization",
+      "dcterms:created": "2026-11-16",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Orca: A Distributed Serving System for Transformer-Based Generative Models (full paper)",
+          "dcterms:publisher": "USENIX OSDI 2022, pp. 521–538 (Yu, Jeong, Kim, Kim and Chun)",
+          "schema:url": "https://www.usenix.org/system/files/osdi22-yu.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Orca: A Distributed Serving System for Transformer-Based Generative Models (presentation page)",
+          "dcterms:publisher": "USENIX OSDI 2022",
+          "schema:url": "https://www.usenix.org/conference/osdi22/presentation/yu",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+          "dcterms:publisher": "Kwon et al., SOSP 2023, arXiv 2309.06180",
+          "schema:url": "https://arxiv.org/pdf/2309.06180",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Batch Manager in TensorRT-LLM",
+          "dcterms:publisher": "NVIDIA TensorRT-LLM documentation",
+          "schema:url": "https://nvidia.github.io/TensorRT-LLM/advanced/batch-manager.html",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve",
+          "dcterms:publisher": "USENIX OSDI 2024 (Agrawal et al., Georgia Tech and Microsoft Research India)",
+          "schema:url": "https://www.usenix.org/conference/osdi24/presentation/agrawal",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/inference-and-optimization/orca-serving-system.md",
+      "skos:altLabel": [
+        "ORCA",
+        "Orca serving system",
+        "Orca inference engine"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:model-serving"
+        },
+        {
+          "@id": "kt:llm-inference-optimization"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:batching-and-paged-attention"
+        },
+        {
+          "@id": "kt:vllm"
+        },
+        {
+          "@id": "kt:tensorrt-llm"
+        },
+        {
+          "@id": "kt:sarathi-serve"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:orca-a-distributed-serving-system-for-transformer-based-generative-models"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:kv-cache"
+        },
+        {
+          "@id": "kt:tensor-parallelism"
+        },
+        {
+          "@id": "kt:pipeline-parallelism"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:fastertransformer"
+        }
+      ]
+    },
+    {
       "@id": "kt:quantization",
       "@type": "kto:Technique",
       "skos:prefLabel": "Quantization",

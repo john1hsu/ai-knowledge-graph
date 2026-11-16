@@ -22,7 +22,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:gradient-descent` | `kt:adam-optimizer`, `kt:backpropagation`, `kt:deep-learning` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
 | `kt:ms-coco` | `kt:faster-r-cnn`, `kt:object-detection`, `kt:yolo` |
-| `kt:orca-serving-system` | `kt:model-serving`, `kt:batching-and-paged-attention`, `kt:tensorrt-llm` |
 | `kt:self-supervised-learning` | `kt:representation-learning`, `kt:unsupervised-learning`, `kt:pretraining` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
 | `kt:alfworld` | `kt:autogen`, `kt:react-prompting` |
@@ -76,6 +75,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:multi-armed-bandit` | `kt:exploration-exploitation`, `kt:monte-carlo-tree-search` |
 | `kt:muzero` | `kt:alphazero`, `kt:monte-carlo-tree-search` |
 | `kt:pascal-voc` | `kt:object-detection`, `kt:semantic-segmentation` |
+| `kt:pipeline-parallelism` | `kt:distributed-training`, `kt:orca-serving-system` |
 | `kt:post-training` | `kt:hugging-face-trl`, `kt:instruction-tuning` |
 | `kt:post-training-quantization` | `kt:awq`, `kt:gptq` |
 | `kt:probabilistic-relevance-framework` | `kt:bm25`, `kt:bm25` |
@@ -86,6 +86,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:self-refine` | `kt:agentic-workflow`, `kt:voyager` |
 | `kt:stochastic-gradient-descent` | `kt:data-parallelism`, `kt:adam-optimizer` |
 | `kt:support-vector-machine` | `kt:perceptron`, `kt:statistical-learning-theory` |
+| `kt:tensor-parallelism` | `kt:distributed-training`, `kt:orca-serving-system` |
 | `kt:text-to-image-generation` | `kt:diffusion-model`, `kt:latent-diffusion-model` |
 | `kt:the-curious-case-of-neural-text-degeneration` | `kt:beam-search`, `kt:sampling-temperature-and-top-p` |
 | `kt:tokenization` | `kt:perplexity`, `kt:structured-output` |
@@ -203,6 +204,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fast-inference-from-transformers-via-speculative-decoding` | `kt:speculative-decoding` |
 | `kt:fast-r-cnn` | `kt:faster-r-cnn` |
 | `kt:faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks` | `kt:faster-r-cnn` |
+| `kt:fastertransformer` | `kt:orca-serving-system` |
 | `kt:fasttext` | `kt:word2vec` |
 | `kt:feature-engineering` | `kt:representation-learning` |
 | `kt:feature-store` | `kt:mlops` |
@@ -340,6 +342,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:on-line-q-learning-using-connectionist-systems` | `kt:sarsa` |
 | `kt:optimal-brain-compression` | `kt:gptq` |
 | `kt:optimal-brain-damage` | `kt:model-pruning` |
+| `kt:orca-a-distributed-serving-system-for-transformer-based-generative-models` | `kt:orca-serving-system` |
 | `kt:outlines` | `kt:structured-output` |
 | `kt:pac-learning` | `kt:statistical-learning-theory` |
 | `kt:paired-comparison` | `kt:bradley-terry-model` |
@@ -349,7 +352,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:penetration-testing` | `kt:red-teaming` |
 | `kt:philosophy-of-artificial-intelligence` | `kt:chinese-room-argument` |
 | `kt:physical-symbol-system-hypothesis` | `kt:symbolic-ai` |
-| `kt:pipeline-parallelism` | `kt:distributed-training` |
 | `kt:plackett-luce-model` | `kt:bradley-terry-model` |
 | `kt:playing-atari-with-deep-reinforcement-learning` | `kt:deep-q-network` |
 | `kt:policy-gradient-methods-for-reinforcement-learning-with-function-approximation` | `kt:policy-gradient` |
@@ -385,6 +387,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:rule-based-system` | `kt:eliza` |
 | `kt:ruler` | `kt:context-window` |
 | `kt:sacrebleu` | `kt:bleu` |
+| `kt:sarathi-serve` | `kt:orca-serving-system` |
 | `kt:scalable-parallel-programming-with-cuda` | `kt:cuda` |
 | `kt:scaling-laws-for-neural-language-models` | `kt:scaling-laws` |
 | `kt:score-matching` | `kt:diffusion-model` |
@@ -415,7 +418,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:systolic-array` | `kt:tpu` |
 | `kt:t-sne` | `kt:dimensionality-reduction` |
 | `kt:td-gammon` | `kt:temporal-difference-learning` |
-| `kt:tensor-parallelism` | `kt:distributed-training` |
 | `kt:tensorflow` | `kt:google` |
 | `kt:tensorflow-serving` | `kt:model-serving` |
 | `kt:the-leaderboard-illusion` | `kt:chatbot-arena` |

@@ -3370,6 +3370,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/office-of-management-and-budget> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "governance-and-policy" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Tool> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> <http://www.w3.org/2000/01/rdf-schema#label> "Orca (LLM serving system)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> <http://www.w3.org/2004/02/skos/core#altLabel> "ORCA" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> <http://www.w3.org/2004/02/skos/core#altLabel> "Orca inference engine" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> <http://www.w3.org/2004/02/skos/core#altLabel> "Orca serving system" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/llm-inference-optimization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/model-serving> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> <http://www.w3.org/2004/02/skos/core#definition> "A distributed serving system for transformer-based generative models, presented by Yu et al. (Seoul National University and FriendliAI) at OSDI 2022, that pairs an iteration-level scheduler with selective batching and a multi-GPU engine, and became the reference design and baseline for later LLM serving engines." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> <http://www.w3.org/2004/02/skos/core#prefLabel> "Orca (LLM serving system)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/batching-and-paged-attention> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/sarathi-serve> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/vllm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/fastertransformer> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/pipeline-parallelism> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/tensor-parallelism> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "inference-and-optimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/orca-a-distributed-serving-system-for-transformer-based-generative-models> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <http://www.w3.org/2000/01/rdf-schema#label> "Overfitting" .
@@ -8061,6 +8087,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s6> <https://schema.org/url> "https://www.whitehouse.gov/wp-content/uploads/2025/12/M-26-04-Increasing-Public-Trust-in-Artificial-Intelligence-Through-Unbiased-AI-Principles-1.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s1> <http://purl.org/dc/terms/publisher> "USENIX OSDI 2022, pp. 521–538 (Yu, Jeong, Kim, Kim and Chun)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s1> <http://purl.org/dc/terms/title> "Orca: A Distributed Serving System for Transformer-Based Generative Models (full paper)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s1> <https://schema.org/url> "https://www.usenix.org/system/files/osdi22-yu.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s2> <http://purl.org/dc/terms/publisher> "USENIX OSDI 2022" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s2> <http://purl.org/dc/terms/title> "Orca: A Distributed Serving System for Transformer-Based Generative Models (presentation page)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s2> <https://schema.org/url> "https://www.usenix.org/conference/osdi22/presentation/yu" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s3> <http://purl.org/dc/terms/publisher> "Kwon et al., SOSP 2023, arXiv 2309.06180" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s3> <http://purl.org/dc/terms/title> "Efficient Memory Management for Large Language Model Serving with PagedAttention" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s3> <https://schema.org/url> "https://arxiv.org/pdf/2309.06180" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s4> <http://purl.org/dc/terms/publisher> "NVIDIA TensorRT-LLM documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s4> <http://purl.org/dc/terms/title> "The Batch Manager in TensorRT-LLM" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s4> <https://schema.org/url> "https://nvidia.github.io/TensorRT-LLM/advanced/batch-manager.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s5> <http://purl.org/dc/terms/publisher> "USENIX OSDI 2024 (Agrawal et al., Georgia Tech and Microsoft Research India)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s5> <http://purl.org/dc/terms/title> "Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s5> <https://schema.org/url> "https://www.usenix.org/conference/osdi24/presentation/agrawal" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s1> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (Zhang, Lipton, Li and Smola), d2l.ai" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s1> <http://purl.org/dc/terms/title> "3.6. Generalization" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

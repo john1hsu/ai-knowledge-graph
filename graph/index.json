@@ -2841,6 +2841,27 @@
     ]
   },
   {
+    "id": "kt:orca-serving-system",
+    "title": "Orca (LLM serving system)",
+    "aliases": [
+      "ORCA",
+      "Orca serving system",
+      "Orca inference engine"
+    ],
+    "type": "Tool",
+    "domain": "inference-and-optimization",
+    "file": "articles/inference-and-optimization/orca-serving-system.md",
+    "created": "2026-11-16",
+    "maturity": "established",
+    "source_urls": [
+      "https://www.usenix.org/system/files/osdi22-yu.pdf",
+      "https://www.usenix.org/conference/osdi22/presentation/yu",
+      "https://arxiv.org/pdf/2309.06180",
+      "https://nvidia.github.io/TensorRT-LLM/advanced/batch-manager.html",
+      "https://www.usenix.org/conference/osdi24/presentation/agrawal"
+    ]
+  },
+  {
     "id": "kt:overfitting",
     "title": "Overfitting",
     "aliases": [
