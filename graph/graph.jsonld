@@ -11437,6 +11437,99 @@
       ]
     },
     {
+      "@id": "kt:gradient-descent",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "Gradient descent",
+      "skos:definition": "An iterative first-order optimization algorithm that minimizes a differentiable function by repeatedly moving the parameters a small step in the direction of the negative gradient, scaled by a step size (learning rate); it and its stochastic variants are the workhorse for training machine-learning models.",
+      "kto:domain": "ml-foundations",
+      "dcterms:created": "2026-11-16",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "12.3. Gradient Descent",
+          "dcterms:publisher": "Dive into Deep Learning (Zhang, Lipton, Li and Smola), d2l.ai",
+          "schema:url": "https://d2l.ai/chapter_optimization/gd.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "General method for the solution of systems of simultaneous equations (Méthode générale pour la résolution des systèmes d'équations simultanées)",
+          "dcterms:publisher": "Comptes Rendus de l'Académie des Sciences 25, 536–538 (1847) (Cauchy); English translation by R. J. Pulskamp, hosted at Royal Holloway, University of London",
+          "schema:url": "https://gtfp.cs.rhul.ac.uk/pulskamp/Cauchy/Orbits/1847%20CR%20536%28383%29.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "A Stochastic Approximation Method",
+          "dcterms:publisher": "The Annals of Mathematical Statistics 22(3), 400–407 (1951) (Robbins and Monro); copy hosted by Columbia University",
+          "schema:url": "https://www.columbia.edu/~ww2040/8100F16/RM51.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Lecture 1: Gradient Descent (10-725/36-725 Convex Optimization, Fall 2016, scribed notes)",
+          "dcterms:publisher": "Carnegie Mellon University (Ryan Tibshirani)",
+          "schema:url": "https://www.stat.cmu.edu/~ryantibs/convexopt-F16/scribes/grad-descent-scribed.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Optimization Methods for Large-Scale Machine Learning",
+          "dcterms:publisher": "Bottou, Curtis and Nocedal, arXiv:1606.04838",
+          "schema:url": "https://arxiv.org/abs/1606.04838v2",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/ml-foundations/gradient-descent.md",
+      "skos:altLabel": [
+        "steepest descent",
+        "method of steepest descent",
+        "batch gradient descent",
+        "full-batch gradient descent"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:mathematical-optimization"
+        },
+        {
+          "@id": "kt:machine-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:stochastic-gradient-descent"
+        },
+        {
+          "@id": "kt:backpropagation"
+        },
+        {
+          "@id": "kt:adam-optimizer"
+        },
+        {
+          "@id": "kt:supervised-learning"
+        },
+        {
+          "@id": "kt:regularization"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:augustin-louis-cauchy"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:loss-function"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:newtons-method"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:deep-learning"
+        }
+      ]
+    },
+    {
       "@id": "kt:hidden-markov-model",
       "@type": "kto:Concept",
       "skos:prefLabel": "Hidden Markov model",

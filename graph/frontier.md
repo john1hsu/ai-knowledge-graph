@@ -16,13 +16,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:application-specific-integrated-circuit` | `kt:deep-blue`, `kt:ai-accelerator`, `kt:tpu` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
 | `kt:fairness-accountability-and-transparency` | `kt:algorithmic-bias-and-fairness`, `kt:datasheets-for-datasets`, `kt:model-cards` |
-| `kt:gradient-descent` | `kt:adam-optimizer`, `kt:backpropagation`, `kt:deep-learning` |
 | `kt:language-models-are-few-shot-learners` | `kt:few-shot-prompting`, `kt:zero-shot-prompting`, `kt:in-context-learning` |
 | `kt:machine-translation` | `kt:bleu`, `kt:wmt-2014`, `kt:natural-language-processing` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
 | `kt:microsoft-research` | `kt:autogen`, `kt:residual-connection`, `kt:graphrag` |
 | `kt:ms-coco` | `kt:faster-r-cnn`, `kt:object-detection`, `kt:yolo` |
 | `kt:self-supervised-learning` | `kt:representation-learning`, `kt:unsupervised-learning`, `kt:pretraining` |
+| `kt:stochastic-gradient-descent` | `kt:data-parallelism`, `kt:adam-optimizer`, `kt:gradient-descent` |
 | `kt:tensor-parallelism` | `kt:distributed-training`, `kt:pipeline-parallelism`, `kt:orca-serving-system` |
 | `kt:zero-redundancy-optimizer` | `kt:data-parallelism`, `kt:distributed-training`, `kt:pipeline-parallelism` |
 | `kt:zero-shot-learning` | `kt:clip`, `kt:zero-shot-prompting`, `kt:instruction-tuning` |
@@ -67,6 +67,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:latent-semantic-analysis` | `kt:glove`, `kt:semantic-search` |
 | `kt:logistic-regression` | `kt:conditional-random-field`, `kt:bradley-terry-model` |
 | `kt:lora` | `kt:parameter-efficient-fine-tuning`, `kt:qlora` |
+| `kt:loss-function` | `kt:gradient-descent`, `kt:supervised-learning` |
 | `kt:lottery-ticket-hypothesis` | `kt:model-compression`, `kt:model-pruning` |
 | `kt:marvin-minsky` | `kt:dartmouth-workshop`, `kt:perceptron` |
 | `kt:medical-image-analysis` | `kt:semantic-segmentation`, `kt:u-net` |
@@ -88,7 +89,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:scikit-learn` | `kt:dimensionality-reduction`, `kt:principal-component-analysis` |
 | `kt:self-play` | `kt:alphago-zero`, `kt:alphazero` |
 | `kt:self-refine` | `kt:agentic-workflow`, `kt:voyager` |
-| `kt:stochastic-gradient-descent` | `kt:data-parallelism`, `kt:adam-optimizer` |
 | `kt:support-vector-machine` | `kt:perceptron`, `kt:statistical-learning-theory` |
 | `kt:text-to-image-generation` | `kt:diffusion-model`, `kt:latent-diffusion-model` |
 | `kt:the-curious-case-of-neural-text-degeneration` | `kt:beam-search`, `kt:sampling-temperature-and-top-p` |
@@ -121,6 +121,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:arithmetic-intensity` | `kt:gpu-computing` |
 | `kt:arthur-samuel` | `kt:machine-learning` |
 | `kt:asynchronous-advantage-actor-critic` | `kt:actor-critic` |
+| `kt:augustin-louis-cauchy` | `kt:gradient-descent` |
 | `kt:automated-planning` | `kt:planning-in-llms` |
 | `kt:automated-theorem-proving` | `kt:logic-theorist` |
 | `kt:awq-activation-aware-weight-quantization-for-llm-compression-and-acceleration` | `kt:awq` |
@@ -305,7 +306,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:loftq` | `kt:qlora` |
 | `kt:long-short-term-memory-1997` | `kt:long-short-term-memory` |
 | `kt:long-short-term-memory-networks-for-machine-reading` | `kt:self-attention` |
-| `kt:loss-function` | `kt:supervised-learning` |
 | `kt:low-rank-factorization` | `kt:model-compression` |
 | `kt:machine-learning-systems` | `kt:llm-inference-optimization` |
 | `kt:margaret-mitchell` | `kt:model-cards` |
@@ -314,6 +314,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mastering-chess-and-shogi-by-self-play-with-a-general-reinforcement-learning-algorithm` | `kt:alphazero` |
 | `kt:mastering-the-game-of-go-with-deep-neural-networks-and-tree-search` | `kt:alphago` |
 | `kt:mastering-the-game-of-go-without-human-knowledge` | `kt:alphago-zero` |
+| `kt:mathematical-optimization` | `kt:gradient-descent` |
 | `kt:mathematical-reasoning` | `kt:program-induction-by-rationale-generation` |
 | `kt:maximum-entropy-markov-model` | `kt:conditional-random-field` |
 | `kt:membership-inference-attack` | `kt:benchmark-contamination` |
@@ -344,6 +345,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:neocognitron` | `kt:convolutional-neural-network` |
 | `kt:neuro-symbolic-ai` | `kt:symbolic-ai` |
 | `kt:new-legislative-framework` | `kt:eu-ai-act` |
+| `kt:newtons-method` | `kt:gradient-descent` |
 | `kt:nist` | `kt:nist-ai-risk-management-framework` |
 | `kt:nist-generative-ai-profile` | `kt:nist-ai-risk-management-framework` |
 | `kt:non-maximum-suppression` | `kt:object-detection` |

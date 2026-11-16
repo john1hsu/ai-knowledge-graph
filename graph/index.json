@@ -1967,6 +1967,28 @@
     ]
   },
   {
+    "id": "kt:gradient-descent",
+    "title": "Gradient descent",
+    "aliases": [
+      "steepest descent",
+      "method of steepest descent",
+      "batch gradient descent",
+      "full-batch gradient descent"
+    ],
+    "type": "Algorithm",
+    "domain": "ml-foundations",
+    "file": "articles/ml-foundations/gradient-descent.md",
+    "created": "2026-11-16",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://d2l.ai/chapter_optimization/gd.html",
+      "https://gtfp.cs.rhul.ac.uk/pulskamp/Cauchy/Orbits/1847%20CR%20536%28383%29.pdf",
+      "https://www.columbia.edu/~ww2040/8100F16/RM51.pdf",
+      "https://www.stat.cmu.edu/~ryantibs/convexopt-F16/scribes/grad-descent-scribed.pdf",
+      "https://arxiv.org/abs/1606.04838v2"
+    ]
+  },
+  {
     "id": "kt:graphrag",
     "title": "GraphRAG",
     "aliases": [
