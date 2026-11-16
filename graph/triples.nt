@@ -10235,6 +10235,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/turing-test/s4> <https://schema.org/url> "https://arxiv.org/abs/2503.23674v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/u-net/s1> <http://purl.org/dc/terms/publisher> "Ronneberger, Fischer and Brox, arXiv:1505.04597 (authors' version, ar5iv rendering)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/u-net/s1> <http://purl.org/dc/terms/title> "U-Net: Convolutional Networks for Biomedical Image Segmentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/u-net/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/u-net/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/u-net/s1> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/1505.04597" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/u-net/s2> <http://purl.org/dc/terms/publisher> "Computer Vision Group, University of Freiburg" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/u-net/s2> <http://purl.org/dc/terms/title> "U-Net: Convolutional Networks for Biomedical Image Segmentation (project page)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/u-net/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/u-net/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/u-net/s2> <https://schema.org/url> "https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/u-net/s3> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (d2l.ai)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/u-net/s3> <http://purl.org/dc/terms/title> "14.11. Fully Convolutional Networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/u-net/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/u-net/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/u-net/s3> <https://schema.org/url> "https://d2l.ai/chapter_computer-vision/fcn.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/u-net/s4> <http://purl.org/dc/terms/publisher> "Isensee et al., German Cancer Research Center (DKFZ), arXiv:1809.10486" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/u-net/s4> <http://purl.org/dc/terms/title> "nnU-Net: Self-adapting Framework for U-Net-Based Medical Image Segmentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/u-net/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/u-net/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/u-net/s4> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/1809.10486" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/u-net/s5> <http://purl.org/dc/terms/publisher> "Rombach, Blattmann, Lorenz, Esser and Ommer, arXiv:2112.10752 (CVPR 2022)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/u-net/s5> <http://purl.org/dc/terms/title> "High-Resolution Image Synthesis with Latent Diffusion Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/u-net/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/u-net/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/u-net/s5> <https://schema.org/url> "https://arxiv.org/pdf/2112.10752" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s1> <http://purl.org/dc/terms/publisher> "Mathematics of Control, Signals, and Systems 2, 303–314 (1989) (G. Cybenko); PDF hosted by the Bau Lab paper archive" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s1> <http://purl.org/dc/terms/title> "Approximation by Superpositions of a Sigmoidal Function" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/universal-approximation-theorem/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -11084,6 +11109,33 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-history" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/computing-machinery-and-intelligence> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/u-net> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/u-net> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/u-net> <http://www.w3.org/2000/01/rdf-schema#label> "U-Net" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/u-net> <http://www.w3.org/2004/02/skos/core#altLabel> "U-Net architecture" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/u-net> <http://www.w3.org/2004/02/skos/core#altLabel> "U-shaped encoder-decoder network" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/u-net> <http://www.w3.org/2004/02/skos/core#altLabel> "UNet" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/u-net> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/u-net> <http://www.w3.org/2004/02/skos/core#definition> "A fully convolutional encoder-decoder architecture, introduced by Ronneberger, Fischer and Brox at MICCAI 2015 for biomedical image segmentation, whose contracting path captures context and whose symmetric expanding path recovers resolution by concatenating same-scale encoder features through skip connections." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/u-net> <http://www.w3.org/2004/02/skos/core#prefLabel> "U-Net" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/u-net> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/data-augmentation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/u-net> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/diffusion-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/u-net> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/dropout> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/u-net> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/u-net> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-segmentation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/u-net> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/u-net/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/u-net> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/u-net/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/u-net> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/u-net/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/u-net> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/u-net/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/u-net> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/u-net/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/u-net> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/olaf-ronneberger> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/u-net> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "computer-vision-and-multimodal" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/u-net> <https://github.com/john1hsu/ai-knowledge-graph/ontology#extends> <https://github.com/john1hsu/ai-knowledge-graph/id/fully-convolutional-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/u-net> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/transposed-convolution> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/u-net> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/u-net-convolutional-networks-for-biomedical-image-segmentation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/u-net> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/u-net> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/latent-diffusion-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/u-net> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/medical-image-analysis> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/universal-approximation-theorem> <http://www.w3.org/2000/01/rdf-schema#label> "Universal approximation theorem" .

@@ -5004,6 +5004,103 @@
       ]
     },
     {
+      "@id": "kt:u-net",
+      "@type": "kto:Architecture",
+      "skos:prefLabel": "U-Net",
+      "skos:definition": "A fully convolutional encoder-decoder architecture, introduced by Ronneberger, Fischer and Brox at MICCAI 2015 for biomedical image segmentation, whose contracting path captures context and whose symmetric expanding path recovers resolution by concatenating same-scale encoder features through skip connections.",
+      "kto:domain": "computer-vision-and-multimodal",
+      "dcterms:created": "2026-11-16",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "U-Net: Convolutional Networks for Biomedical Image Segmentation",
+          "dcterms:publisher": "Ronneberger, Fischer and Brox, arXiv:1505.04597 (authors' version, ar5iv rendering)",
+          "schema:url": "https://ar5iv.labs.arxiv.org/html/1505.04597",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "U-Net: Convolutional Networks for Biomedical Image Segmentation (project page)",
+          "dcterms:publisher": "Computer Vision Group, University of Freiburg",
+          "schema:url": "https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "14.11. Fully Convolutional Networks",
+          "dcterms:publisher": "Dive into Deep Learning (d2l.ai)",
+          "schema:url": "https://d2l.ai/chapter_computer-vision/fcn.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "nnU-Net: Self-adapting Framework for U-Net-Based Medical Image Segmentation",
+          "dcterms:publisher": "Isensee et al., German Cancer Research Center (DKFZ), arXiv:1809.10486",
+          "schema:url": "https://ar5iv.labs.arxiv.org/html/1809.10486",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+          "dcterms:publisher": "Rombach, Blattmann, Lorenz, Esser and Ommer, arXiv:2112.10752 (CVPR 2022)",
+          "schema:url": "https://arxiv.org/pdf/2112.10752",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/computer-vision-and-multimodal/u-net.md",
+      "skos:altLabel": [
+        "UNet",
+        "U-Net architecture",
+        "U-shaped encoder-decoder network"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:convolutional-neural-network"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:semantic-segmentation"
+        },
+        {
+          "@id": "kt:diffusion-model"
+        },
+        {
+          "@id": "kt:data-augmentation"
+        },
+        {
+          "@id": "kt:residual-connection"
+        },
+        {
+          "@id": "kt:dropout"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:u-net-convolutional-networks-for-biomedical-image-segmentation"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:olaf-ronneberger"
+        }
+      ],
+      "kto:extends": [
+        {
+          "@id": "kt:fully-convolutional-network"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:transposed-convolution"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:medical-image-analysis"
+        },
+        {
+          "@id": "kt:latent-diffusion-model"
+        }
+      ]
+    },
+    {
       "@id": "kt:vision-language-model",
       "@type": "kto:Architecture",
       "skos:prefLabel": "Vision-language model: LLMs with visual input",

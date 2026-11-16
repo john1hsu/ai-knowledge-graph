@@ -70,6 +70,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:lottery-ticket-hypothesis` | `kt:model-compression`, `kt:model-pruning` |
 | `kt:machine-translation` | `kt:bleu`, `kt:natural-language-processing` |
 | `kt:marvin-minsky` | `kt:dartmouth-workshop`, `kt:perceptron` |
+| `kt:medical-image-analysis` | `kt:semantic-segmentation`, `kt:u-net` |
 | `kt:meta-ai` | `kt:toolformer`, `kt:pytorch` |
 | `kt:model-compression-caruana-2006` | `kt:model-compression`, `kt:knowledge-distillation` |
 | `kt:model-extraction` | `kt:adversarial-machine-learning`, `kt:data-poisoning` |
@@ -93,8 +94,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:text-to-image-generation` | `kt:diffusion-model`, `kt:latent-diffusion-model` |
 | `kt:the-curious-case-of-neural-text-degeneration` | `kt:beam-search`, `kt:sampling-temperature-and-top-p` |
 | `kt:tokenization` | `kt:perplexity`, `kt:structured-output` |
+| `kt:transposed-convolution` | `kt:semantic-segmentation`, `kt:u-net` |
 | `kt:triton-inference-server` | `kt:model-serving`, `kt:tensorrt-llm` |
-| `kt:u-net` | `kt:latent-diffusion-model`, `kt:semantic-segmentation` |
 | `kt:upper-confidence-bound` | `kt:exploration-exploitation`, `kt:monte-carlo-tree-search` |
 | `kt:vector-space-model` | `kt:information-retrieval`, `kt:tf-idf` |
 | `kt:weight-decay` | `kt:dropout`, `kt:regularization` |
@@ -166,6 +167,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cudnn` | `kt:cuda` |
 | `kt:cutlass` | `kt:tensor-cores` |
 | `kt:dan-hendrycks` | `kt:mmlu` |
+| `kt:data-augmentation` | `kt:u-net` |
 | `kt:data-cards` | `kt:datasheets-for-datasets` |
 | `kt:data-drift` | `kt:mlops` |
 | `kt:dataset-cards` | `kt:datasheets-for-datasets` |
@@ -216,6 +218,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:flamingo-a-visual-language-model-for-few-shot-learning` | `kt:vision-language-model` |
 | `kt:frank-rosenblatt` | `kt:perceptron` |
 | `kt:from-local-to-global-a-graphrag-approach-to-query-focused-summarization` | `kt:graphrag` |
+| `kt:fully-convolutional-network` | `kt:u-net` |
 | `kt:function-approximation` | `kt:sarsa` |
 | `kt:function-calling` | `kt:structured-output` |
 | `kt:gated-recurrent-unit` | `kt:recurrent-neural-network` |
@@ -311,7 +314,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mastering-the-game-of-go-without-human-knowledge` | `kt:alphago-zero` |
 | `kt:mathematical-reasoning` | `kt:program-induction-by-rationale-generation` |
 | `kt:maximum-entropy-markov-model` | `kt:conditional-random-field` |
-| `kt:medical-image-analysis` | `kt:semantic-segmentation` |
 | `kt:membership-inference-attack` | `kt:benchmark-contamination` |
 | `kt:memgpt` | `kt:agent-memory` |
 | `kt:memory-wall` | `kt:high-bandwidth-memory` |
@@ -345,6 +347,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:non-maximum-suppression` | `kt:object-detection` |
 | `kt:oecd` | `kt:oecd-ai-principles` |
 | `kt:office-of-management-and-budget` | `kt:omb-ai-memoranda` |
+| `kt:olaf-ronneberger` | `kt:u-net` |
 | `kt:on-line-q-learning-using-connectionist-systems` | `kt:sarsa` |
 | `kt:optimal-brain-compression` | `kt:gptq` |
 | `kt:optimal-brain-damage` | `kt:model-pruning` |
@@ -439,13 +442,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:training-verifiers-to-solve-math-word-problems` | `kt:gsm8k` |
 | `kt:transformer-engine` | `kt:tensor-cores` |
 | `kt:transformers-state-of-the-art-natural-language-processing` | `kt:hugging-face-transformers` |
-| `kt:transposed-convolution` | `kt:semantic-segmentation` |
 | `kt:trec` | `kt:information-retrieval` |
 | `kt:tree-of-thoughts-deliberate-problem-solving-with-large-language-models` | `kt:tree-of-thoughts` |
 | `kt:tri-dao` | `kt:flash-attention` |
 | `kt:trust-region-policy-optimization` | `kt:proximal-policy-optimization` |
 | `kt:truthfulqa-measuring-how-models-mimic-human-falsehoods` | `kt:truthfulqa` |
 | `kt:turing-machine` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
+| `kt:u-net-convolutional-networks-for-biomedical-image-segmentation` | `kt:u-net` |
 | `kt:uc-berkeley` | `kt:vllm` |
 | `kt:uk-ai-security-institute` | `kt:ai-safety-institutes` |
 | `kt:umap` | `kt:dimensionality-reduction` |

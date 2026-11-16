@@ -4418,6 +4418,27 @@
     ]
   },
   {
+    "id": "kt:u-net",
+    "title": "U-Net",
+    "aliases": [
+      "UNet",
+      "U-Net architecture",
+      "U-shaped encoder-decoder network"
+    ],
+    "type": "Architecture",
+    "domain": "computer-vision-and-multimodal",
+    "file": "articles/computer-vision-and-multimodal/u-net.md",
+    "created": "2026-11-16",
+    "maturity": "established",
+    "source_urls": [
+      "https://ar5iv.labs.arxiv.org/html/1505.04597",
+      "https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/",
+      "https://d2l.ai/chapter_computer-vision/fcn.html",
+      "https://ar5iv.labs.arxiv.org/html/1809.10486",
+      "https://arxiv.org/pdf/2112.10752"
+    ]
+  },
+  {
     "id": "kt:universal-approximation-theorem",
     "title": "Universal approximation theorem",
     "aliases": [
