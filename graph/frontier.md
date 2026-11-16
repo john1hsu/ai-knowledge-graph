@@ -13,6 +13,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:latent-diffusion-model`, `kt:generative-model` |
 | `kt:adagrad` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:glove` |
+| `kt:alfworld` | `kt:autogen`, `kt:react-prompting`, `kt:reflexion` |
 | `kt:application-specific-integrated-circuit` | `kt:deep-blue`, `kt:ai-accelerator`, `kt:tpu` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
 | `kt:fairness-accountability-and-transparency` | `kt:algorithmic-bias-and-fairness`, `kt:datasheets-for-datasets`, `kt:model-cards` |
@@ -27,7 +28,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:zero-shot-learning` | `kt:clip`, `kt:zero-shot-prompting`, `kt:instruction-tuning` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
 | `kt:adversarial-example` | `kt:adversarial-machine-learning`, `kt:data-poisoning` |
-| `kt:alfworld` | `kt:autogen`, `kt:react-prompting` |
 | `kt:all-reduce` | `kt:data-parallelism`, `kt:distributed-training` |
 | `kt:alpha-beta-pruning` | `kt:deep-blue`, `kt:monte-carlo-tree-search` |
 | `kt:anthropic` | `kt:model-context-protocol`, `kt:constitutional-ai` |
@@ -53,6 +53,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
 | `kt:foundation-model` | `kt:transfer-learning`, `kt:large-language-model` |
 | `kt:highway-network` | `kt:residual-connection`, `kt:residual-connection` |
+| `kt:hotpotqa` | `kt:react-prompting`, `kt:reflexion` |
 | `kt:hugging-face` | `kt:hugging-face-transformers`, `kt:hugging-face-trl` |
 | `kt:hugging-face-diffusers` | `kt:diffusion-model`, `kt:latent-diffusion-model` |
 | `kt:hugging-face-hub` | `kt:datasheets-for-datasets`, `kt:model-cards` |
@@ -83,9 +84,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:post-training-quantization` | `kt:awq`, `kt:gptq` |
 | `kt:probabilistic-relevance-framework` | `kt:bm25`, `kt:bm25` |
 | `kt:r-cnn` | `kt:faster-r-cnn`, `kt:yolo` |
-| `kt:reflexion` | `kt:react-prompting`, `kt:self-refine-iterative-refinement-with-self-feedback` |
 | `kt:rmsprop` | `kt:adam-optimizer`, `kt:adam-optimizer` |
 | `kt:scikit-learn` | `kt:dimensionality-reduction`, `kt:principal-component-analysis` |
+| `kt:self-correction` | `kt:reflexion`, `kt:self-refine-iterative-refinement-with-self-feedback` |
 | `kt:self-play` | `kt:alphago-zero`, `kt:alphazero` |
 | `kt:self-refine` | `kt:agentic-workflow`, `kt:voyager` |
 | `kt:support-vector-machine` | `kt:perceptron`, `kt:statistical-learning-theory` |
@@ -245,7 +246,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:herbert-a-simon` | `kt:logic-theorist` |
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
 | `kt:high-resolution-image-synthesis-with-latent-diffusion-models` | `kt:latent-diffusion-model` |
-| `kt:hotpotqa` | `kt:react-prompting` |
+| `kt:humaneval` | `kt:reflexion` |
 | `kt:ian-goodfellow` | `kt:generative-adversarial-network` |
 | `kt:ibm-research` | `kt:deep-blue` |
 | `kt:if-beam-search-is-the-answer-what-was-the-question` | `kt:beam-search` |
@@ -407,7 +408,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:scaling-laws-for-neural-language-models` | `kt:scaling-laws` |
 | `kt:score-matching` | `kt:diffusion-model` |
 | `kt:self-consistency-improves-chain-of-thought-reasoning-in-language-models` | `kt:self-consistency` |
-| `kt:self-correction` | `kt:self-refine-iterative-refinement-with-self-feedback` |
 | `kt:sentiment-analysis` | `kt:natural-language-processing` |
 | `kt:sepp-hochreiter` | `kt:long-short-term-memory` |
 | `kt:show-your-work-scratchpads-for-intermediate-computation-with-language-models` | `kt:scratchpad` |

@@ -4229,6 +4229,34 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "evaluation-and-benchmarks" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> <https://github.com/john1hsu/ai-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reflexion> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reflexion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reflexion> <http://www.w3.org/2000/01/rdf-schema#label> "Reflexion" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reflexion> <http://www.w3.org/2004/02/skos/core#altLabel> "Reflexion: Language Agents with Verbal Reinforcement Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reflexion> <http://www.w3.org/2004/02/skos/core#altLabel> "Shinn et al. 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reflexion> <http://www.w3.org/2004/02/skos/core#altLabel> "verbal reinforcement learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reflexion> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reflexion> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/self-correction> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reflexion> <http://www.w3.org/2004/02/skos/core#definition> "A framework introduced by Shinn et al. (NeurIPS 2023) in which a language-model agent improves across repeated attempts at a task by writing natural-language reflections on its failures into an episodic memory that conditions later attempts, instead of updating model weights." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reflexion> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reflexion" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reflexion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/agent-memory> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reflexion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reflexion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/react-prompting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reflexion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/self-refine-iterative-refinement-with-self-feedback> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reflexion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/test-time-compute> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reflexion> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reflexion> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reflexion> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reflexion> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reflexion> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reflexion> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reflexion> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reflexion> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "prompting-and-reasoning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reflexion> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/alfworld> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reflexion> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/hotpotqa> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reflexion> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/humaneval> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reflexion> <https://github.com/john1hsu/ai-knowledge-graph/ontology#extends> <https://github.com/john1hsu/ai-knowledge-graph/id/react-prompting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/reflexion> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/regularization> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/regularization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/regularization> <http://www.w3.org/2000/01/rdf-schema#label> "Regularization" .
@@ -9213,6 +9241,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/red-teaming/s5> <https://schema.org/url> "https://www.govinfo.gov/content/pkg/DCPD-202500115/html/DCPD-202500115.htm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 2023, Advances in Neural Information Processing Systems 36, pp. 8634-8652 (Shinn, Cassano, Gopinath, Narasimhan, Yao)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s1> <http://purl.org/dc/terms/title> "Reflexion: Language Agents with Verbal Reinforcement Learning (abstract page)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s1> <https://schema.org/url> "https://proceedings.neurips.cc/paper_files/paper/2023/hash/1b44b878bb782e6954cd888628510e90-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s2> <http://purl.org/dc/terms/publisher> "NeurIPS 2023 proceedings (Shinn et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s2> <http://purl.org/dc/terms/title> "Reflexion: Language Agents with Verbal Reinforcement Learning (full paper PDF)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s2> <https://schema.org/url> "https://proceedings.neurips.cc/paper_files/paper/2023/file/1b44b878bb782e6954cd888628510e90-Paper-Conference.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s3> <http://purl.org/dc/terms/publisher> "arXiv 2303.11366v4 (Shinn, Cassano, Berman, Gopinath, Narasimhan, Yao)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s3> <http://purl.org/dc/terms/title> "Reflexion: Language Agents with Verbal Reinforcement Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s3> <https://schema.org/url> "https://arxiv.org/abs/2303.11366v4" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s4> <http://purl.org/dc/terms/publisher> "arXiv 2310.01798v2 (Huang, Chen, Mishra, Zheng, Yu, Song, Zhou; Google DeepMind and UIUC)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s4> <http://purl.org/dc/terms/title> "Large Language Models Cannot Self-Correct Reasoning Yet" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s4> <https://schema.org/url> "https://arxiv.org/html/2310.01798v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s5> <http://purl.org/dc/terms/publisher> "TACL vol. 12, pp. 1417-1440, 2024 (Kamoi, Zhang, Zhang, Han, Zhang)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s5> <http://purl.org/dc/terms/title> "When Can LLMs Actually Correct Their Own Mistakes? A Critical Survey of Self-Correction of LLMs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s5> <https://schema.org/url> "https://aclanthology.org/2024.tacl-1.78" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s6> <http://purl.org/dc/terms/publisher> "arXiv 2406.01297v2 (Kamoi et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s6> <http://purl.org/dc/terms/title> "When Can LLMs Actually Correct Their Own Mistakes? (arXiv HTML version)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/reflexion/s6> <https://schema.org/url> "https://arxiv.org/html/2406.01297v2" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/regularization/s1> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (Zhang, Lipton, Li and Smola), d2l.ai" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/regularization/s1> <http://purl.org/dc/terms/title> "3.7. Weight Decay" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/regularization/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

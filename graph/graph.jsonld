@@ -12936,6 +12936,105 @@
       ]
     },
     {
+      "@id": "kt:reflexion",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Reflexion",
+      "skos:definition": "A framework introduced by Shinn et al. (NeurIPS 2023) in which a language-model agent improves across repeated attempts at a task by writing natural-language reflections on its failures into an episodic memory that conditions later attempts, instead of updating model weights.",
+      "kto:domain": "prompting-and-reasoning",
+      "dcterms:created": "2026-11-16",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Reflexion: Language Agents with Verbal Reinforcement Learning (abstract page)",
+          "dcterms:publisher": "NeurIPS 2023, Advances in Neural Information Processing Systems 36, pp. 8634-8652 (Shinn, Cassano, Gopinath, Narasimhan, Yao)",
+          "schema:url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/1b44b878bb782e6954cd888628510e90-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Reflexion: Language Agents with Verbal Reinforcement Learning (full paper PDF)",
+          "dcterms:publisher": "NeurIPS 2023 proceedings (Shinn et al.)",
+          "schema:url": "https://proceedings.neurips.cc/paper_files/paper/2023/file/1b44b878bb782e6954cd888628510e90-Paper-Conference.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Reflexion: Language Agents with Verbal Reinforcement Learning",
+          "dcterms:publisher": "arXiv 2303.11366v4 (Shinn, Cassano, Berman, Gopinath, Narasimhan, Yao)",
+          "schema:url": "https://arxiv.org/abs/2303.11366v4",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Large Language Models Cannot Self-Correct Reasoning Yet",
+          "dcterms:publisher": "arXiv 2310.01798v2 (Huang, Chen, Mishra, Zheng, Yu, Song, Zhou; Google DeepMind and UIUC)",
+          "schema:url": "https://arxiv.org/html/2310.01798v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "When Can LLMs Actually Correct Their Own Mistakes? A Critical Survey of Self-Correction of LLMs",
+          "dcterms:publisher": "TACL vol. 12, pp. 1417-1440, 2024 (Kamoi, Zhang, Zhang, Han, Zhang)",
+          "schema:url": "https://aclanthology.org/2024.tacl-1.78",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "When Can LLMs Actually Correct Their Own Mistakes? (arXiv HTML version)",
+          "dcterms:publisher": "arXiv 2406.01297v2 (Kamoi et al.)",
+          "schema:url": "https://arxiv.org/html/2406.01297v2",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/prompting-and-reasoning/reflexion.md",
+      "skos:altLabel": [
+        "verbal reinforcement learning",
+        "Reflexion: Language Agents with Verbal Reinforcement Learning",
+        "Shinn et al. 2023"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:self-correction"
+        },
+        {
+          "@id": "kt:ai-agent"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:react-prompting"
+        },
+        {
+          "@id": "kt:chain-of-thought"
+        },
+        {
+          "@id": "kt:agent-memory"
+        },
+        {
+          "@id": "kt:test-time-compute"
+        },
+        {
+          "@id": "kt:self-refine-iterative-refinement-with-self-feedback"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:reinforcement-learning"
+        }
+      ],
+      "kto:extends": [
+        {
+          "@id": "kt:react-prompting"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:humaneval"
+        },
+        {
+          "@id": "kt:alfworld"
+        },
+        {
+          "@id": "kt:hotpotqa"
+        }
+      ]
+    },
+    {
       "@id": "kt:scratchpad",
       "@type": "kto:Technique",
       "skos:prefLabel": "Scratchpad",
