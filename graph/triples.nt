@@ -2852,6 +2852,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/latent-diffusion-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/high-resolution-image-synthesis-with-latent-diffusion-models> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/latent-diffusion-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/latent-diffusion-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/text-to-image-generation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/layer-normalization> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/layer-normalization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/layer-normalization> <http://www.w3.org/2000/01/rdf-schema#label> "Layer normalization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/layer-normalization> <http://www.w3.org/2004/02/skos/core#altLabel> "LN" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/layer-normalization> <http://www.w3.org/2004/02/skos/core#altLabel> "LayerNorm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/layer-normalization> <http://www.w3.org/2004/02/skos/core#altLabel> "layer norm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/layer-normalization> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/layer-normalization> <http://www.w3.org/2004/02/skos/core#definition> "A neural-network normalization layer that standardizes the summed inputs of a layer using the mean and variance computed across that layer's features for each individual example, then applies a learned per-feature gain and bias; introduced by Ba, Kiros and Hinton in 2016, it is independent of batch size and is a standard component of transformers." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/layer-normalization> <http://www.w3.org/2004/02/skos/core#prefLabel> "Layer normalization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/layer-normalization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/layer-normalization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/layer-normalization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/layer-normalization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/vision-transformer> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/layer-normalization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/layer-normalization/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/layer-normalization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/layer-normalization/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/layer-normalization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/layer-normalization/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/layer-normalization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/layer-normalization/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/layer-normalization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/layer-normalization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/rmsnorm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/layer-normalization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/layer-normalization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "deep-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/layer-normalization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/layer-normalization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/layer-normalization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/layer-normalization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> <http://purl.org/dc/terms/created> "2026-11-15" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> <http://www.w3.org/2000/01/rdf-schema#label> "Least-to-most prompting" .
@@ -7695,6 +7720,26 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/latent-diffusion-model/s6> <https://schema.org/url> "https://openaccess.thecvf.com/content/ICCV2023/papers/Peebles_Scalable_Diffusion_Models_with_Transformers_ICCV_2023_paper.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/layer-normalization/s1> <http://purl.org/dc/terms/publisher> "arXiv:1607.06450 (Ba, Kiros and Hinton, 2016)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/layer-normalization/s1> <http://purl.org/dc/terms/title> "Layer Normalization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/layer-normalization/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/layer-normalization/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/layer-normalization/s1> <https://schema.org/url> "https://arxiv.org/abs/1607.06450v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/layer-normalization/s2> <http://purl.org/dc/terms/publisher> "Proceedings of the 37th ICML, PMLR 119:10524–10533 (2020) (Xiong et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/layer-normalization/s2> <http://purl.org/dc/terms/title> "On Layer Normalization in the Transformer Architecture" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/layer-normalization/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/layer-normalization/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/layer-normalization/s2> <https://schema.org/url> "https://proceedings.mlr.press/v119/xiong20b.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/layer-normalization/s3> <http://purl.org/dc/terms/publisher> "NeurIPS 2019 (Zhang and Sennrich)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/layer-normalization/s3> <http://purl.org/dc/terms/title> "Root Mean Square Layer Normalization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/layer-normalization/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/layer-normalization/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/layer-normalization/s3> <https://schema.org/url> "https://nips.cc/virtual/2019/poster/14195" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/layer-normalization/s4> <http://purl.org/dc/terms/publisher> "PyTorch documentation (v2.3)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/layer-normalization/s4> <http://purl.org/dc/terms/title> "LayerNorm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/layer-normalization/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/layer-normalization/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/layer-normalization/s4> <https://schema.org/url> "https://docs.pytorch.org/docs/2.3/generated/torch.nn.LayerNorm.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s1> <http://purl.org/dc/terms/publisher> "arXiv 2205.10625v3 (Zhou, Schärli, Hou, Wei, Scales, Wang, Schuurmans, Cui, Bousquet, Le, Chi)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s1> <http://purl.org/dc/terms/title> "Least-to-Most Prompting Enables Complex Reasoning in Large Language Models" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

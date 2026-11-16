@@ -6120,6 +6120,92 @@
       ]
     },
     {
+      "@id": "kt:layer-normalization",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Layer normalization",
+      "skos:definition": "A neural-network normalization layer that standardizes the summed inputs of a layer using the mean and variance computed across that layer's features for each individual example, then applies a learned per-feature gain and bias; introduced by Ba, Kiros and Hinton in 2016, it is independent of batch size and is a standard component of transformers.",
+      "kto:domain": "deep-learning",
+      "dcterms:created": "2026-11-16",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Layer Normalization",
+          "dcterms:publisher": "arXiv:1607.06450 (Ba, Kiros and Hinton, 2016)",
+          "schema:url": "https://arxiv.org/abs/1607.06450v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "On Layer Normalization in the Transformer Architecture",
+          "dcterms:publisher": "Proceedings of the 37th ICML, PMLR 119:10524–10533 (2020) (Xiong et al.)",
+          "schema:url": "https://proceedings.mlr.press/v119/xiong20b.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Root Mean Square Layer Normalization",
+          "dcterms:publisher": "NeurIPS 2019 (Zhang and Sennrich)",
+          "schema:url": "https://nips.cc/virtual/2019/poster/14195",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "LayerNorm",
+          "dcterms:publisher": "PyTorch documentation (v2.3)",
+          "schema:url": "https://docs.pytorch.org/docs/2.3/generated/torch.nn.LayerNorm.html",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/deep-learning/layer-normalization.md",
+      "skos:altLabel": [
+        "LayerNorm",
+        "layer norm",
+        "LN"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:deep-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:batch-normalization"
+        },
+        {
+          "@id": "kt:residual-connection"
+        },
+        {
+          "@id": "kt:attention-is-all-you-need"
+        },
+        {
+          "@id": "kt:vision-transformer"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:geoffrey-hinton"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:batch-normalization"
+        },
+        {
+          "@id": "kt:rmsnorm"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:transformer-architecture"
+        },
+        {
+          "@id": "kt:recurrent-neural-network"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:pytorch"
+        }
+      ]
+    },
+    {
       "@id": "kt:long-short-term-memory",
       "@type": "kto:Architecture",
       "skos:prefLabel": "Long short-term memory",

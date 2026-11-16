@@ -8,7 +8,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:ai-hardware` | `kt:ai-accelerator`, `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
 | `kt:heuristic-search` | `kt:deep-blue`, `kt:logic-theorist`, `kt:beam-search`, `kt:tree-of-thoughts` |
-| `kt:layer-normalization` | `kt:batch-normalization`, `kt:batch-normalization`, `kt:residual-connection`, `kt:transformer-architecture` |
 | `kt:openai` | `kt:clip`, `kt:gsm8k`, `kt:proximal-policy-optimization`, `kt:concrete-problems-in-ai-safety` |
 | `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:latent-diffusion-model`, `kt:generative-model` |
@@ -390,6 +389,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:rewardbench` | `kt:reward-model` |
 | `kt:richard-bellman` | `kt:markov-decision-process` |
 | `kt:richard-sutton` | `kt:temporal-difference-learning` |
+| `kt:rmsnorm` | `kt:layer-normalization` |
 | `kt:roofline-model` | `kt:gpu-computing` |
 | `kt:rotary-position-embedding` | `kt:positional-encoding` |
 | `kt:rule-based-system` | `kt:eliza` |
