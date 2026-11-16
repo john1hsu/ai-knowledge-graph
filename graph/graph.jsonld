@@ -16450,6 +16450,87 @@
       ]
     },
     {
+      "@id": "kt:adversarial-example",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Adversarial example",
+      "skos:definition": "An input that has been deliberately and usually imperceptibly perturbed so that a trained model assigns it a wrong output, often with high confidence, while a human would still label it correctly.",
+      "kto:domain": "safety-alignment-and-security",
+      "dcterms:created": "2026-11-16",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Intriguing properties of neural networks",
+          "dcterms:publisher": "arXiv:1312.6199 (Szegedy, Zaremba, Sutskever, Bruna, Erhan, Goodfellow, Fergus), ICLR 2014",
+          "schema:url": "https://ar5iv.labs.arxiv.org/html/1312.6199",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Explaining and Harnessing Adversarial Examples",
+          "dcterms:publisher": "arXiv:1412.6572 (Goodfellow, Shlens, Szegedy), ICLR 2015",
+          "schema:url": "https://ar5iv.arxiv.org/html/1412.6572",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Adversarial examples in the physical world",
+          "dcterms:publisher": "arXiv:1607.02533 (Kurakin, Goodfellow, Bengio), 2016",
+          "schema:url": "https://ar5iv.labs.arxiv.org/html/1607.02533",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Towards Evaluating the Robustness of Neural Networks",
+          "dcterms:publisher": "arXiv:1608.04644 (Carlini, Wagner), 2016–2017",
+          "schema:url": "https://arxiv.org/abs/1608.04644v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Adversarial Examples Are Not Bugs, They Are Features",
+          "dcterms:publisher": "NeurIPS 2019 proceedings (Ilyas, Santurkar, Tsipras, Engstrom, Tran, Madry)",
+          "schema:url": "https://proceedings.neurips.cc/paper/2019/hash/e2c420d928d4bf8ce0ff2ec19b371514-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/safety-alignment-and-security/adversarial-example.md",
+      "skos:altLabel": [
+        "adversarial examples",
+        "adversarial input",
+        "adversarial perturbation"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:adversarial-machine-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:adversarial-training"
+        },
+        {
+          "@id": "kt:image-classification"
+        },
+        {
+          "@id": "kt:convolutional-neural-network"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:intriguing-properties-of-neural-networks"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:christian-szegedy"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:data-poisoning"
+        },
+        {
+          "@id": "kt:generative-adversarial-network"
+        }
+      ]
+    },
+    {
       "@id": "kt:adversarial-machine-learning",
       "@type": "kto:Field",
       "skos:prefLabel": "Adversarial machine learning",

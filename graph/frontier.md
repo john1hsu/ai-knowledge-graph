@@ -30,7 +30,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:zero-redundancy-optimizer` | `kt:data-parallelism`, `kt:distributed-training`, `kt:pipeline-parallelism` |
 | `kt:zero-shot-learning` | `kt:clip`, `kt:zero-shot-prompting`, `kt:instruction-tuning` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
-| `kt:adversarial-example` | `kt:adversarial-machine-learning`, `kt:data-poisoning` |
+| `kt:adversarial-training` | `kt:adversarial-example`, `kt:adversarial-machine-learning` |
 | `kt:all-reduce` | `kt:data-parallelism`, `kt:distributed-training` |
 | `kt:alpha-beta-pruning` | `kt:deep-blue`, `kt:monte-carlo-tree-search` |
 | `kt:anthropic` | `kt:model-context-protocol`, `kt:constitutional-ai` |
@@ -101,7 +101,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:adam-a-method-for-stochastic-optimization` | `kt:adam-optimizer` |
 | `kt:adamw` | `kt:adam-optimizer` |
 | `kt:adapter-modules` | `kt:parameter-efficient-fine-tuning` |
-| `kt:adversarial-training` | `kt:adversarial-machine-learning` |
 | `kt:ai-ethics` | `kt:algorithmic-bias-and-fairness` |
 | `kt:ai-governance-a-research-agenda` | `kt:ai-governance` |
 | `kt:ai-safety-gridworlds` | `kt:concrete-problems-in-ai-safety` |
@@ -141,6 +140,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:charles-goodhart` | `kt:goodharts-law` |
 | `kt:chatbot` | `kt:eliza` |
 | `kt:chatbot-arena-an-open-platform-for-evaluating-llms-by-human-preference` | `kt:chatbot-arena` |
+| `kt:christian-szegedy` | `kt:adversarial-example` |
 | `kt:christopher-watkins` | `kt:q-learning` |
 | `kt:cifar-10` | `kt:image-classification` |
 | `kt:cityscapes` | `kt:semantic-segmentation` |
@@ -266,6 +266,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:instruction-hierarchy` | `kt:prompt-injection` |
 | `kt:inter-annotator-agreement` | `kt:human-evaluation` |
 | `kt:interpretability` | `kt:mechanistic-interpretability` |
+| `kt:intriguing-properties-of-neural-networks` | `kt:adversarial-example` |
 | `kt:intrinsic-motivation` | `kt:exploration-exploitation` |
 | `kt:inverted-index` | `kt:information-retrieval` |
 | `kt:iso-iec-42006` | `kt:iso-iec-42001` |

@@ -86,6 +86,27 @@
     ]
   },
   {
+    "id": "kt:adversarial-example",
+    "title": "Adversarial example",
+    "aliases": [
+      "adversarial examples",
+      "adversarial input",
+      "adversarial perturbation"
+    ],
+    "type": "Concept",
+    "domain": "safety-alignment-and-security",
+    "file": "articles/safety-alignment-and-security/adversarial-example.md",
+    "created": "2026-11-16",
+    "maturity": "established",
+    "source_urls": [
+      "https://ar5iv.labs.arxiv.org/html/1312.6199",
+      "https://ar5iv.arxiv.org/html/1412.6572",
+      "https://ar5iv.labs.arxiv.org/html/1607.02533",
+      "https://arxiv.org/abs/1608.04644v2",
+      "https://proceedings.neurips.cc/paper/2019/hash/e2c420d928d4bf8ce0ff2ec19b371514-Abstract.html"
+    ]
+  },
+  {
     "id": "kt:adversarial-machine-learning",
     "title": "Adversarial machine learning",
     "aliases": [

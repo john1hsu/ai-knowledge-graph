@@ -104,6 +104,29 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/adam-a-method-for-stochastic-optimization> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-example> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-example> <http://www.w3.org/2000/01/rdf-schema#label> "Adversarial example" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-example> <http://www.w3.org/2004/02/skos/core#altLabel> "adversarial examples" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-example> <http://www.w3.org/2004/02/skos/core#altLabel> "adversarial input" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-example> <http://www.w3.org/2004/02/skos/core#altLabel> "adversarial perturbation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-example> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-example> <http://www.w3.org/2004/02/skos/core#definition> "An input that has been deliberately and usually imperceptibly perturbed so that a trained model assigns it a wrong output, often with high confidence, while a human would still label it correctly." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-example> <http://www.w3.org/2004/02/skos/core#prefLabel> "Adversarial example" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-example> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-training> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-example> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-example> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-example> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-example/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-example> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-example/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-example> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-example/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-example> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-example/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-example> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-example/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-example> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/data-poisoning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-example> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-example> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/christian-szegedy> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-example> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "safety-alignment-and-security" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-example> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/intriguing-properties-of-neural-networks> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-example> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <http://purl.org/dc/terms/created> "2026-11-14" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Field> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <http://www.w3.org/2000/01/rdf-schema#label> "Adversarial machine learning" .
@@ -4977,6 +5000,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s6> <https://schema.org/url> "https://arxiv.org/pdf/2307.09288" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-example/s1> <http://purl.org/dc/terms/publisher> "arXiv:1312.6199 (Szegedy, Zaremba, Sutskever, Bruna, Erhan, Goodfellow, Fergus), ICLR 2014" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-example/s1> <http://purl.org/dc/terms/title> "Intriguing properties of neural networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-example/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-example/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-example/s1> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/1312.6199" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-example/s2> <http://purl.org/dc/terms/publisher> "arXiv:1412.6572 (Goodfellow, Shlens, Szegedy), ICLR 2015" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-example/s2> <http://purl.org/dc/terms/title> "Explaining and Harnessing Adversarial Examples" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-example/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-example/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-example/s2> <https://schema.org/url> "https://ar5iv.arxiv.org/html/1412.6572" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-example/s3> <http://purl.org/dc/terms/publisher> "arXiv:1607.02533 (Kurakin, Goodfellow, Bengio), 2016" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-example/s3> <http://purl.org/dc/terms/title> "Adversarial examples in the physical world" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-example/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-example/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-example/s3> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/1607.02533" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-example/s4> <http://purl.org/dc/terms/publisher> "arXiv:1608.04644 (Carlini, Wagner), 2016–2017" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-example/s4> <http://purl.org/dc/terms/title> "Towards Evaluating the Robustness of Neural Networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-example/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-example/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-example/s4> <https://schema.org/url> "https://arxiv.org/abs/1608.04644v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-example/s5> <http://purl.org/dc/terms/publisher> "NeurIPS 2019 proceedings (Ilyas, Santurkar, Tsipras, Engstrom, Tran, Madry)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-example/s5> <http://purl.org/dc/terms/title> "Adversarial Examples Are Not Bugs, They Are Features" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-example/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-example/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-example/s5> <https://schema.org/url> "https://proceedings.neurips.cc/paper/2019/hash/e2c420d928d4bf8ce0ff2ec19b371514-Abstract.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s1> <http://purl.org/dc/terms/publisher> "NIST CSRC publication page (Vassilev, Oprea, Fordyce, Anderson, Davies, Hamin), March 2025" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s1> <http://purl.org/dc/terms/title> "Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations (NIST AI 100-2 E2025)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
