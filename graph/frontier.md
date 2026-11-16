@@ -24,6 +24,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:microsoft-research` | `kt:autogen`, `kt:residual-connection`, `kt:graphrag` |
 | `kt:ms-coco` | `kt:faster-r-cnn`, `kt:object-detection`, `kt:yolo` |
 | `kt:self-supervised-learning` | `kt:representation-learning`, `kt:unsupervised-learning`, `kt:pretraining` |
+| `kt:tensor-parallelism` | `kt:distributed-training`, `kt:pipeline-parallelism`, `kt:orca-serving-system` |
+| `kt:zero-redundancy-optimizer` | `kt:data-parallelism`, `kt:distributed-training`, `kt:pipeline-parallelism` |
 | `kt:zero-shot-learning` | `kt:clip`, `kt:zero-shot-prompting`, `kt:instruction-tuning` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
 | `kt:adversarial-example` | `kt:adversarial-machine-learning`, `kt:data-poisoning` |
@@ -72,12 +74,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:meta-ai` | `kt:toolformer`, `kt:pytorch` |
 | `kt:model-compression-caruana-2006` | `kt:model-compression`, `kt:knowledge-distillation` |
 | `kt:model-extraction` | `kt:adversarial-machine-learning`, `kt:data-poisoning` |
+| `kt:model-parallelism` | `kt:data-parallelism`, `kt:pipeline-parallelism` |
 | `kt:monte-carlo-methods` | `kt:monte-carlo-tree-search`, `kt:temporal-difference-learning` |
 | `kt:mt-bench` | `kt:chatbot-arena`, `kt:llm-as-a-judge` |
 | `kt:multi-armed-bandit` | `kt:exploration-exploitation`, `kt:monte-carlo-tree-search` |
 | `kt:muzero` | `kt:alphazero`, `kt:monte-carlo-tree-search` |
 | `kt:pascal-voc` | `kt:object-detection`, `kt:semantic-segmentation` |
-| `kt:pipeline-parallelism` | `kt:distributed-training`, `kt:orca-serving-system` |
 | `kt:post-training` | `kt:hugging-face-trl`, `kt:instruction-tuning` |
 | `kt:post-training-quantization` | `kt:awq`, `kt:gptq` |
 | `kt:probabilistic-relevance-framework` | `kt:bm25`, `kt:bm25` |
@@ -89,7 +91,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:self-refine` | `kt:agentic-workflow`, `kt:voyager` |
 | `kt:stochastic-gradient-descent` | `kt:data-parallelism`, `kt:adam-optimizer` |
 | `kt:support-vector-machine` | `kt:perceptron`, `kt:statistical-learning-theory` |
-| `kt:tensor-parallelism` | `kt:distributed-training`, `kt:orca-serving-system` |
 | `kt:text-to-image-generation` | `kt:diffusion-model`, `kt:latent-diffusion-model` |
 | `kt:the-curious-case-of-neural-text-degeneration` | `kt:beam-search`, `kt:sampling-temperature-and-top-p` |
 | `kt:tokenization` | `kt:perplexity`, `kt:structured-output` |
@@ -98,7 +99,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:upper-confidence-bound` | `kt:exploration-exploitation`, `kt:monte-carlo-tree-search` |
 | `kt:vector-space-model` | `kt:information-retrieval`, `kt:tf-idf` |
 | `kt:weight-decay` | `kt:dropout`, `kt:regularization` |
-| `kt:zero-redundancy-optimizer` | `kt:data-parallelism`, `kt:distributed-training` |
+| `kt:activation-checkpointing` | `kt:pipeline-parallelism` |
 | `kt:adam-a-method-for-stochastic-optimization` | `kt:adam-optimizer` |
 | `kt:adamw` | `kt:adam-optimizer` |
 | `kt:adapter-modules` | `kt:parameter-efficient-fine-tuning` |
@@ -228,6 +229,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:george-cybenko` | `kt:universal-approximation-theorem` |
 | `kt:glove-global-vectors-for-word-representation` | `kt:glove` |
 | `kt:google-brain` | `kt:concrete-problems-in-ai-safety` |
+| `kt:gpipe` | `kt:pipeline-parallelism` |
 | `kt:gpqa` | `kt:reasoning-models` |
 | `kt:gpt-j` | `kt:toolformer` |
 | `kt:gptq-accurate-post-training-quantization-for-generative-pre-trained-transformers` | `kt:gptq` |
@@ -325,7 +327,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mmlu-pro` | `kt:mmlu` |
 | `kt:model-cards-for-model-reporting` | `kt:model-cards` |
 | `kt:model-collapse` | `kt:synthetic-data` |
-| `kt:model-parallelism` | `kt:data-parallelism` |
 | `kt:model-registry` | `kt:mlops` |
 | `kt:monte-carlo-dropout` | `kt:dropout` |
 | `kt:mrkl-systems` | `kt:tool-use` |

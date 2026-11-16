@@ -3629,6 +3629,33 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/perplexity> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "evaluation-and-benchmarks" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/perplexity> <https://github.com/john1hsu/ai-knowledge-graph/ontology#extends> <https://github.com/john1hsu/ai-knowledge-graph/id/information-theory> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/perplexity> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pipeline-parallelism> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pipeline-parallelism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pipeline-parallelism> <http://www.w3.org/2000/01/rdf-schema#label> "Pipeline parallelism" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pipeline-parallelism> <http://www.w3.org/2004/02/skos/core#altLabel> "inter-layer parallelism" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pipeline-parallelism> <http://www.w3.org/2004/02/skos/core#altLabel> "pipeline model parallelism" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pipeline-parallelism> <http://www.w3.org/2004/02/skos/core#altLabel> "pipelined model parallelism" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pipeline-parallelism> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pipeline-parallelism> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/model-parallelism> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pipeline-parallelism> <http://www.w3.org/2004/02/skos/core#definition> "A form of model parallelism that partitions a network's layers into sequential stages on different accelerators and streams micro-batches through them, so every stage works on a different slice of the batch at once and only boundary activations travel between devices." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pipeline-parallelism> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pipeline parallelism" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pipeline-parallelism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/activation-checkpointing> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pipeline-parallelism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pipeline-parallelism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/tensor-parallelism> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pipeline-parallelism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/zero-redundancy-optimizer> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pipeline-parallelism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/pipeline-parallelism/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pipeline-parallelism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/pipeline-parallelism/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pipeline-parallelism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/pipeline-parallelism/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pipeline-parallelism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/pipeline-parallelism/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pipeline-parallelism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/pipeline-parallelism/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pipeline-parallelism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/data-parallelism> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pipeline-parallelism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pipeline-parallelism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-infrastructure-and-mlops" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pipeline-parallelism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pipeline-parallelism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pipeline-parallelism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/gpipe> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pipeline-parallelism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/pipeline-parallelism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> <http://purl.org/dc/terms/created> "2026-11-15" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> <http://www.w3.org/2000/01/rdf-schema#label> "Planning in LLMs" .
@@ -8473,6 +8500,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/perplexity/s5> <https://schema.org/url> "https://arxiv.org/html/2410.23771v5" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pipeline-parallelism/s1> <http://purl.org/dc/terms/publisher> "arXiv:1811.06965v5 (Huang, Cheng, Bapna, Firat, Chen, Chen, Lee, Ngiam, Le, Wu, Chen), Google, 2019" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pipeline-parallelism/s1> <http://purl.org/dc/terms/title> "GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pipeline-parallelism/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pipeline-parallelism/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pipeline-parallelism/s1> <https://schema.org/url> "https://arxiv.org/abs/1811.06965v5" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pipeline-parallelism/s2> <http://purl.org/dc/terms/publisher> "SOSP 2019 (Narayanan, Harlap, Phanishayee, Seshadri, Devanur, Ganger, Gibbons, Zaharia); copy hosted by UW CSE 550" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pipeline-parallelism/s2> <http://purl.org/dc/terms/title> "PipeDream: Generalized Pipeline Parallelism for DNN Training" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pipeline-parallelism/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pipeline-parallelism/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pipeline-parallelism/s2> <https://schema.org/url> "https://courses.cs.washington.edu/courses/cse550/21au/papers/CSE550.pipedream.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pipeline-parallelism/s3> <http://purl.org/dc/terms/publisher> "SC '21 (Narayanan, Shoeybi, Casper, LeGresley, Patwary, Korthikanti, Vainbrand, Kashinkunti, Bernauer, Catanzaro, Phanishayee, Zaharia)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pipeline-parallelism/s3> <http://purl.org/dc/terms/title> "Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pipeline-parallelism/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pipeline-parallelism/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pipeline-parallelism/s3> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/2104.04473" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pipeline-parallelism/s4> <http://purl.org/dc/terms/publisher> "ICLR 2024 (Qi, Wan, Huang, Lin)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pipeline-parallelism/s4> <http://purl.org/dc/terms/title> "Zero Bubble (Almost) Pipeline Parallelism" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pipeline-parallelism/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pipeline-parallelism/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pipeline-parallelism/s4> <https://schema.org/url> "https://proceedings.iclr.cc/paper_files/paper/2024/hash/d5a8e37f38a08c68162452dcba89ae9c-Abstract-Conference.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pipeline-parallelism/s5> <http://purl.org/dc/terms/publisher> "PyTorch documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pipeline-parallelism/s5> <http://purl.org/dc/terms/title> "Pipeline Parallelism (torch.distributed.pipelining), PyTorch 2.8" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pipeline-parallelism/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pipeline-parallelism/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/pipeline-parallelism/s5> <https://schema.org/url> "https://docs.pytorch.org/docs/2.8/_sources/distributed.pipelining.md.txt" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s1> <http://purl.org/dc/terms/publisher> "arXiv 2402.02716 (Huang et al., authors' version, Feb 2024)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s1> <http://purl.org/dc/terms/title> "Understanding the planning of LLM agents: A survey" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/planning-in-llms/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

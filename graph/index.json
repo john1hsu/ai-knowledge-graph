@@ -3053,6 +3053,27 @@
     ]
   },
   {
+    "id": "kt:pipeline-parallelism",
+    "title": "Pipeline parallelism",
+    "aliases": [
+      "inter-layer parallelism",
+      "pipeline model parallelism",
+      "pipelined model parallelism"
+    ],
+    "type": "Technique",
+    "domain": "ai-infrastructure-and-mlops",
+    "file": "articles/ai-infrastructure-and-mlops/pipeline-parallelism.md",
+    "created": "2026-11-16",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/abs/1811.06965v5",
+      "https://courses.cs.washington.edu/courses/cse550/21au/papers/CSE550.pipedream.pdf",
+      "https://ar5iv.labs.arxiv.org/html/2104.04473",
+      "https://proceedings.iclr.cc/paper_files/paper/2024/hash/d5a8e37f38a08c68162452dcba89ae9c-Abstract-Conference.html",
+      "https://docs.pytorch.org/docs/2.8/_sources/distributed.pipelining.md.txt"
+    ]
+  },
+  {
     "id": "kt:planning-in-llms",
     "title": "Planning in LLMs",
     "aliases": [

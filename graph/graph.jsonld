@@ -3596,6 +3596,105 @@
       ]
     },
     {
+      "@id": "kt:pipeline-parallelism",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Pipeline parallelism",
+      "skos:definition": "A form of model parallelism that partitions a network's layers into sequential stages on different accelerators and streams micro-batches through them, so every stage works on a different slice of the batch at once and only boundary activations travel between devices.",
+      "kto:domain": "ai-infrastructure-and-mlops",
+      "dcterms:created": "2026-11-16",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism",
+          "dcterms:publisher": "arXiv:1811.06965v5 (Huang, Cheng, Bapna, Firat, Chen, Chen, Lee, Ngiam, Le, Wu, Chen), Google, 2019",
+          "schema:url": "https://arxiv.org/abs/1811.06965v5",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "PipeDream: Generalized Pipeline Parallelism for DNN Training",
+          "dcterms:publisher": "SOSP 2019 (Narayanan, Harlap, Phanishayee, Seshadri, Devanur, Ganger, Gibbons, Zaharia); copy hosted by UW CSE 550",
+          "schema:url": "https://courses.cs.washington.edu/courses/cse550/21au/papers/CSE550.pipedream.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM",
+          "dcterms:publisher": "SC '21 (Narayanan, Shoeybi, Casper, LeGresley, Patwary, Korthikanti, Vainbrand, Kashinkunti, Bernauer, Catanzaro, Phanishayee, Zaharia)",
+          "schema:url": "https://ar5iv.labs.arxiv.org/html/2104.04473",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Zero Bubble (Almost) Pipeline Parallelism",
+          "dcterms:publisher": "ICLR 2024 (Qi, Wan, Huang, Lin)",
+          "schema:url": "https://proceedings.iclr.cc/paper_files/paper/2024/hash/d5a8e37f38a08c68162452dcba89ae9c-Abstract-Conference.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Pipeline Parallelism (torch.distributed.pipelining), PyTorch 2.8",
+          "dcterms:publisher": "PyTorch documentation",
+          "schema:url": "https://docs.pytorch.org/docs/2.8/_sources/distributed.pipelining.md.txt",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/ai-infrastructure-and-mlops/pipeline-parallelism.md",
+      "skos:altLabel": [
+        "inter-layer parallelism",
+        "pipeline model parallelism",
+        "pipelined model parallelism"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:model-parallelism"
+        },
+        {
+          "@id": "kt:distributed-training"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:tensor-parallelism"
+        },
+        {
+          "@id": "kt:zero-redundancy-optimizer"
+        },
+        {
+          "@id": "kt:activation-checkpointing"
+        },
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:distributed-training"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:gpipe"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:data-parallelism"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:backpropagation"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:pytorch"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:large-language-model"
+        }
+      ]
+    },
+    {
       "@id": "kt:pytorch",
       "@type": "kto:Tool",
       "skos:prefLabel": "PyTorch",
