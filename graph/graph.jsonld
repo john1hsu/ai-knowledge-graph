@@ -12822,6 +12822,106 @@
       ]
     },
     {
+      "@id": "kt:alphago-zero",
+      "@type": "kto:Model",
+      "skos:prefLabel": "AlphaGo Zero",
+      "skos:definition": "DeepMind's 2017 Go program that learned purely by self-play reinforcement learning from random play, with no human game records or hand-crafted features, using a single residual network with policy and value heads to guide Monte Carlo tree search; it beat the earlier AlphaGo that defeated Lee Sedol 100-0.",
+      "kto:domain": "reinforcement-learning",
+      "dcterms:created": "2026-11-16",
+      "kto:maturity": "historical",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Mastering the game of Go without human knowledge",
+          "dcterms:publisher": "Nature 550(7676), 354-359, October 2017 (Silver et al., DeepMind), DOI 10.1038/nature24270; RePEc/IDEAS bibliographic record",
+          "schema:url": "https://ideas.repec.org/a/nat/nature/v550y2017i7676d10.1038_nature24270.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Mastering the game of Go without human knowledge (full text)",
+          "dcterms:publisher": "Silver et al., Nature 2017; manuscript text hosted on a University of Athens course page (eClass DI437)",
+          "schema:url": "https://eclass.uoa.gr/modules/document/file.php/DI437/agz_unformatted_nature.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "AlphaGo Zero: Starting from scratch",
+          "dcterms:publisher": "Google DeepMind blog (David Silver and Demis Hassabis), 18 October 2017",
+          "schema:url": "https://deepmind.google/blog/alphago-zero-starting-from-scratch/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "News & Views commentary on AlphaGo Zero (Singh; Okun and Jackson)",
+          "dcterms:publisher": "Satinder Singh (University of Michigan), Andy Okun and Andrew Jackson, Nature 550, 336-337, 19 October 2017; hosted on Singh's university page",
+          "schema:url": "https://web.eecs.umich.edu/~baveja/Papers/NatureNV2017.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Innateness, AlphaZero, and Artificial Intelligence",
+          "dcterms:publisher": "arXiv:1801.05667 (Gary Marcus), January 2018",
+          "schema:url": "https://arxiv.org/abs/1801.05667",
+          "kto:sourceType": "preprint"
+        }
+      ],
+      "kto:file": "articles/reinforcement-learning/alphago-zero.md",
+      "skos:altLabel": [
+        "AlphaGo Zero (2017)"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:reinforcement-learning"
+        },
+        {
+          "@id": "kt:deep-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:alphago"
+        },
+        {
+          "@id": "kt:residual-connection"
+        },
+        {
+          "@id": "kt:supervised-learning"
+        },
+        {
+          "@id": "kt:exploration-exploitation"
+        },
+        {
+          "@id": "kt:inductive-bias"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:mastering-the-game-of-go-without-human-knowledge"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:google-deepmind"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:monte-carlo-tree-search"
+        }
+      ],
+      "kto:trainedWith": [
+        {
+          "@id": "kt:self-play"
+        }
+      ],
+      "kto:supersedes": [
+        {
+          "@id": "kt:alphago"
+        }
+      ],
+      "kto:followedBy": [
+        {
+          "@id": "kt:alphazero"
+        }
+      ]
+    },
+    {
       "@id": "kt:alphago",
       "@type": "kto:Model",
       "skos:prefLabel": "AlphaGo",

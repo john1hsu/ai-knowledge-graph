@@ -5,9 +5,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:artificial-intelligence`, `kt:geoffrey-hinton`, `kt:perceptron`, `kt:symbolic-ai` |
+| `kt:google-deepmind` | `kt:google`, `kt:alphago-zero`, `kt:alphago`, `kt:alphazero`, `kt:deep-q-network` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:ai-hardware` | `kt:ai-accelerator`, `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
-| `kt:google-deepmind` | `kt:google`, `kt:alphago`, `kt:alphazero`, `kt:deep-q-network` |
 | `kt:heuristic-search` | `kt:deep-blue`, `kt:logic-theorist`, `kt:beam-search`, `kt:tree-of-thoughts` |
 | `kt:layer-normalization` | `kt:batch-normalization`, `kt:batch-normalization`, `kt:residual-connection`, `kt:transformer-architecture` |
 | `kt:openai` | `kt:clip`, `kt:gsm8k`, `kt:proximal-policy-optimization`, `kt:concrete-problems-in-ai-safety` |
@@ -29,7 +29,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alfworld` | `kt:autogen`, `kt:react-prompting` |
 | `kt:all-reduce` | `kt:data-parallelism`, `kt:distributed-training` |
 | `kt:alpha-beta-pruning` | `kt:deep-blue`, `kt:monte-carlo-tree-search` |
-| `kt:alphago-zero` | `kt:alphago`, `kt:alphazero` |
 | `kt:anthropic` | `kt:model-context-protocol`, `kt:constitutional-ai` |
 | `kt:apache-lucene` | `kt:bm25`, `kt:tf-idf` |
 | `kt:autoencoder` | `kt:representation-learning`, `kt:dimensionality-reduction` |
@@ -85,6 +84,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:reflexion` | `kt:react-prompting`, `kt:self-refine-iterative-refinement-with-self-feedback` |
 | `kt:rmsprop` | `kt:adam-optimizer`, `kt:adam-optimizer` |
 | `kt:scikit-learn` | `kt:dimensionality-reduction`, `kt:principal-component-analysis` |
+| `kt:self-play` | `kt:alphago-zero`, `kt:alphazero` |
 | `kt:self-refine` | `kt:agentic-workflow`, `kt:voyager` |
 | `kt:stochastic-gradient-descent` | `kt:data-parallelism`, `kt:adam-optimizer` |
 | `kt:support-vector-machine` | `kt:perceptron`, `kt:statistical-learning-theory` |
@@ -244,6 +244,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:imagenet-classification-with-deep-convolutional-neural-networks` | `kt:imagenet-and-alexnet` |
 | `kt:imagenet-large-scale-visual-recognition-challenge` | `kt:imagenet-and-alexnet` |
 | `kt:in-datacenter-performance-analysis-of-a-tensor-processing-unit` | `kt:tpu` |
+| `kt:inductive-bias` | `kt:alphago-zero` |
 | `kt:inference-engine` | `kt:expert-systems` |
 | `kt:information-extraction` | `kt:named-entity-recognition` |
 | `kt:information-processing-language` | `kt:logic-theorist` |
@@ -301,6 +302,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:masked-autoencoder` | `kt:vision-transformer` |
 | `kt:mastering-chess-and-shogi-by-self-play-with-a-general-reinforcement-learning-algorithm` | `kt:alphazero` |
 | `kt:mastering-the-game-of-go-with-deep-neural-networks-and-tree-search` | `kt:alphago` |
+| `kt:mastering-the-game-of-go-without-human-knowledge` | `kt:alphago-zero` |
 | `kt:mathematical-reasoning` | `kt:program-induction-by-rationale-generation` |
 | `kt:maximum-entropy-markov-model` | `kt:conditional-random-field` |
 | `kt:medical-image-analysis` | `kt:semantic-segmentation` |
@@ -393,7 +395,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:score-matching` | `kt:diffusion-model` |
 | `kt:self-consistency-improves-chain-of-thought-reasoning-in-language-models` | `kt:self-consistency` |
 | `kt:self-correction` | `kt:self-refine-iterative-refinement-with-self-feedback` |
-| `kt:self-play` | `kt:alphazero` |
 | `kt:sentiment-analysis` | `kt:natural-language-processing` |
 | `kt:sepp-hochreiter` | `kt:long-short-term-memory` |
 | `kt:show-your-work-scratchpads-for-intermediate-computation-with-language-models` | `kt:scratchpad` |

@@ -417,6 +417,25 @@
     ]
   },
   {
+    "id": "kt:alphago-zero",
+    "title": "AlphaGo Zero",
+    "aliases": [
+      "AlphaGo Zero (2017)"
+    ],
+    "type": "Model",
+    "domain": "reinforcement-learning",
+    "file": "articles/reinforcement-learning/alphago-zero.md",
+    "created": "2026-11-16",
+    "maturity": "historical",
+    "source_urls": [
+      "https://ideas.repec.org/a/nat/nature/v550y2017i7676d10.1038_nature24270.html",
+      "https://eclass.uoa.gr/modules/document/file.php/DI437/agz_unformatted_nature.pdf",
+      "https://deepmind.google/blog/alphago-zero-starting-from-scratch/",
+      "https://web.eecs.umich.edu/~baveja/Papers/NatureNV2017.pdf",
+      "https://arxiv.org/abs/1801.05667"
+    ]
+  },
+  {
     "id": "kt:alphazero",
     "title": "AlphaZero",
     "aliases": [
