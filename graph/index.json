@@ -2857,6 +2857,29 @@
     ]
   },
   {
+    "id": "kt:multi-armed-bandit",
+    "title": "Multi-armed bandit",
+    "aliases": [
+      "multi-armed bandit problem",
+      "multiarmed bandit",
+      "MAB",
+      "bandit problem",
+      "k-armed bandit"
+    ],
+    "type": "Concept",
+    "domain": "reinforcement-learning",
+    "file": "articles/reinforcement-learning/multi-armed-bandit.md",
+    "created": "2026-11-16",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://ece.iisc.ac.in/~aditya/E1245_Online_Prediction_Learning_F2018/lattimore-szepesvari18bandit-algorithms.pdf",
+      "https://www.cambridge.org/9781108486828",
+      "https://community.ams.org/journals/bull/1952-58-05/S0002-9904-1952-09620-8/S0002-9904-1952-09620-8.pdf",
+      "https://homepages.math.uic.edu/~lreyzin/papers/auer02.pdf",
+      "https://arxiv.org/pdf/1003.0146"
+    ]
+  },
+  {
     "id": "kt:named-entity-recognition",
     "title": "Named-entity recognition",
     "aliases": [

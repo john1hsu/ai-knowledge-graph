@@ -3395,6 +3395,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/autogen> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-armed-bandit> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-armed-bandit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-armed-bandit> <http://www.w3.org/2000/01/rdf-schema#label> "Multi-armed bandit" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-armed-bandit> <http://www.w3.org/2004/02/skos/core#altLabel> "MAB" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-armed-bandit> <http://www.w3.org/2004/02/skos/core#altLabel> "bandit problem" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-armed-bandit> <http://www.w3.org/2004/02/skos/core#altLabel> "k-armed bandit" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-armed-bandit> <http://www.w3.org/2004/02/skos/core#altLabel> "multi-armed bandit problem" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-armed-bandit> <http://www.w3.org/2004/02/skos/core#altLabel> "multiarmed bandit" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-armed-bandit> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-armed-bandit> <http://www.w3.org/2004/02/skos/core#definition> "A sequential decision problem in which a learner repeatedly picks one of several actions (\"arms\"), observes only the reward of the arm it picked, and tries to maximize cumulative reward, measured by regret against the best arm or policy in hindsight." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-armed-bandit> <http://www.w3.org/2004/02/skos/core#prefLabel> "Multi-armed bandit" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-armed-bandit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/contextual-bandit> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-armed-bandit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-armed-bandit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/recommender-system> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-armed-bandit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/thompson-sampling> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-armed-bandit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/upper-confidence-bound> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-armed-bandit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-armed-bandit/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-armed-bandit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-armed-bandit/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-armed-bandit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-armed-bandit/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-armed-bandit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-armed-bandit/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-armed-bandit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-armed-bandit/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-armed-bandit> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/markov-decision-process> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-armed-bandit> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "reinforcement-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-armed-bandit> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/multi-armed-bandit> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> <http://purl.org/dc/terms/created> "2026-11-15" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Application> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> <http://www.w3.org/2000/01/rdf-schema#label> "Named-entity recognition" .
@@ -8407,6 +8432,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "preprint" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s6> <https://schema.org/url> "https://arxiv.org/abs/2503.13657v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-armed-bandit/s1> <http://purl.org/dc/terms/publisher> "Lattimore and Szepesvári, course copy hosted by IISc E1 245 Online Prediction and Learning, 2018" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-armed-bandit/s1> <http://purl.org/dc/terms/title> "Bandit Algorithms (draft text)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-armed-bandit/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-armed-bandit/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-armed-bandit/s1> <https://schema.org/url> "https://ece.iisc.ac.in/~aditya/E1245_Online_Prediction_Learning_F2018/lattimore-szepesvari18bandit-algorithms.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-armed-bandit/s2> <http://purl.org/dc/terms/publisher> "Cambridge University Press, 2020 (Lattimore and Szepesvári)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-armed-bandit/s2> <http://purl.org/dc/terms/title> "Bandit Algorithms" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-armed-bandit/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-armed-bandit/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-armed-bandit/s2> <https://schema.org/url> "https://www.cambridge.org/9781108486828" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-armed-bandit/s3> <http://purl.org/dc/terms/publisher> "Bulletin of the American Mathematical Society 58:527-535, 1952 (Robbins)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-armed-bandit/s3> <http://purl.org/dc/terms/title> "Some aspects of the sequential design of experiments" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-armed-bandit/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-armed-bandit/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-armed-bandit/s3> <https://schema.org/url> "https://community.ams.org/journals/bull/1952-58-05/S0002-9904-1952-09620-8/S0002-9904-1952-09620-8.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-armed-bandit/s4> <http://purl.org/dc/terms/publisher> "SIAM Journal on Computing 32(1):48-77, 2002 (Auer, Cesa-Bianchi, Freund and Schapire)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-armed-bandit/s4> <http://purl.org/dc/terms/title> "The Nonstochastic Multiarmed Bandit Problem" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-armed-bandit/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-armed-bandit/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-armed-bandit/s4> <https://schema.org/url> "https://homepages.math.uic.edu/~lreyzin/papers/auer02.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-armed-bandit/s5> <http://purl.org/dc/terms/publisher> "arXiv 1003.0146; version in WWW 2010 (Li, Chu, Langford and Schapire)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-armed-bandit/s5> <http://purl.org/dc/terms/title> "A Contextual-Bandit Approach to Personalized News Article Recommendation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-armed-bandit/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-armed-bandit/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-armed-bandit/s5> <https://schema.org/url> "https://arxiv.org/pdf/1003.0146" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s1> <http://purl.org/dc/terms/publisher> "Proceedings of COLING 1996, ACL Anthology C96-1079 (Grishman and Sundheim)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s1> <http://purl.org/dc/terms/title> "Message Understanding Conference-6: A Brief History" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/named-entity-recognition/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

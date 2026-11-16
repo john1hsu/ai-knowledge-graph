@@ -26,6 +26,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ms-coco` | `kt:faster-r-cnn`, `kt:object-detection`, `kt:yolo` |
 | `kt:stochastic-gradient-descent` | `kt:data-parallelism`, `kt:adam-optimizer`, `kt:gradient-descent` |
 | `kt:tensor-parallelism` | `kt:distributed-training`, `kt:pipeline-parallelism`, `kt:orca-serving-system` |
+| `kt:upper-confidence-bound` | `kt:exploration-exploitation`, `kt:monte-carlo-tree-search`, `kt:multi-armed-bandit` |
 | `kt:zero-redundancy-optimizer` | `kt:data-parallelism`, `kt:distributed-training`, `kt:pipeline-parallelism` |
 | `kt:zero-shot-learning` | `kt:clip`, `kt:zero-shot-prompting`, `kt:instruction-tuning` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
@@ -76,7 +77,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:model-parallelism` | `kt:data-parallelism`, `kt:pipeline-parallelism` |
 | `kt:monte-carlo-methods` | `kt:monte-carlo-tree-search`, `kt:temporal-difference-learning` |
 | `kt:mt-bench` | `kt:chatbot-arena`, `kt:llm-as-a-judge` |
-| `kt:multi-armed-bandit` | `kt:exploration-exploitation`, `kt:monte-carlo-tree-search` |
 | `kt:muzero` | `kt:alphazero`, `kt:monte-carlo-tree-search` |
 | `kt:pascal-voc` | `kt:object-detection`, `kt:semantic-segmentation` |
 | `kt:post-training` | `kt:hugging-face-trl`, `kt:instruction-tuning` |
@@ -92,9 +92,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tensorflow-serving` | `kt:model-serving`, `kt:triton-inference-server` |
 | `kt:text-to-image-generation` | `kt:diffusion-model`, `kt:latent-diffusion-model` |
 | `kt:the-curious-case-of-neural-text-degeneration` | `kt:beam-search`, `kt:sampling-temperature-and-top-p` |
+| `kt:thompson-sampling` | `kt:exploration-exploitation`, `kt:multi-armed-bandit` |
 | `kt:tokenization` | `kt:perplexity`, `kt:structured-output` |
 | `kt:transposed-convolution` | `kt:semantic-segmentation`, `kt:u-net` |
-| `kt:upper-confidence-bound` | `kt:exploration-exploitation`, `kt:monte-carlo-tree-search` |
 | `kt:vector-space-model` | `kt:information-retrieval`, `kt:tf-idf` |
 | `kt:weight-decay` | `kt:dropout`, `kt:regularization` |
 | `kt:activation-checkpointing` | `kt:pipeline-parallelism` |
@@ -162,6 +162,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:conll-2003` | `kt:named-entity-recognition` |
 | `kt:constitutional-ai-harmlessness-from-ai-feedback` | `kt:constitutional-ai` |
 | `kt:constrained-decoding` | `kt:structured-output` |
+| `kt:contextual-bandit` | `kt:multi-armed-bandit` |
 | `kt:contextual-calibration` | `kt:prompt-sensitivity` |
 | `kt:council-of-europe` | `kt:council-of-europe-framework-convention-on-ai` |
 | `kt:cross-entropy` | `kt:perplexity` |
@@ -386,6 +387,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:random-forest` | `kt:ensemble-methods` |
 | `kt:realm` | `kt:retrieval-augmented-generation` |
 | `kt:reciprocal-rank-fusion` | `kt:hybrid-search` |
+| `kt:recommender-system` | `kt:multi-armed-bandit` |
 | `kt:reconciling-modern-machine-learning-practice-and-the-bias-variance-trade-off` | `kt:double-descent` |
 | `kt:rectified-linear-unit` | `kt:activation-function` |
 | `kt:reinforce-algorithm` | `kt:policy-gradient` |
@@ -437,7 +439,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:the-leaderboard-illusion` | `kt:chatbot-arena` |
 | `kt:the-logic-theory-machine-a-complex-information-processing-system` | `kt:logic-theorist` |
 | `kt:the-perceptron-a-probabilistic-model-for-information-storage-and-organization-in-the-brain` | `kt:perceptron` |
-| `kt:thompson-sampling` | `kt:exploration-exploitation` |
 | `kt:through-silicon-via` | `kt:high-bandwidth-memory` |
 | `kt:thurstone-mosteller-model` | `kt:bradley-terry-model` |
 | `kt:tim-dettmers` | `kt:qlora` |

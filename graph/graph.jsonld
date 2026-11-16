@@ -14422,6 +14422,87 @@
       ]
     },
     {
+      "@id": "kt:multi-armed-bandit",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Multi-armed bandit",
+      "skos:definition": "A sequential decision problem in which a learner repeatedly picks one of several actions (\"arms\"), observes only the reward of the arm it picked, and tries to maximize cumulative reward, measured by regret against the best arm or policy in hindsight.",
+      "kto:domain": "reinforcement-learning",
+      "dcterms:created": "2026-11-16",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Bandit Algorithms (draft text)",
+          "dcterms:publisher": "Lattimore and Szepesvári, course copy hosted by IISc E1 245 Online Prediction and Learning, 2018",
+          "schema:url": "https://ece.iisc.ac.in/~aditya/E1245_Online_Prediction_Learning_F2018/lattimore-szepesvari18bandit-algorithms.pdf",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Bandit Algorithms",
+          "dcterms:publisher": "Cambridge University Press, 2020 (Lattimore and Szepesvári)",
+          "schema:url": "https://www.cambridge.org/9781108486828",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Some aspects of the sequential design of experiments",
+          "dcterms:publisher": "Bulletin of the American Mathematical Society 58:527-535, 1952 (Robbins)",
+          "schema:url": "https://community.ams.org/journals/bull/1952-58-05/S0002-9904-1952-09620-8/S0002-9904-1952-09620-8.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Nonstochastic Multiarmed Bandit Problem",
+          "dcterms:publisher": "SIAM Journal on Computing 32(1):48-77, 2002 (Auer, Cesa-Bianchi, Freund and Schapire)",
+          "schema:url": "https://homepages.math.uic.edu/~lreyzin/papers/auer02.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "A Contextual-Bandit Approach to Personalized News Article Recommendation",
+          "dcterms:publisher": "arXiv 1003.0146; version in WWW 2010 (Li, Chu, Langford and Schapire)",
+          "schema:url": "https://arxiv.org/pdf/1003.0146",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/reinforcement-learning/multi-armed-bandit.md",
+      "skos:altLabel": [
+        "multi-armed bandit problem",
+        "multiarmed bandit",
+        "MAB",
+        "bandit problem",
+        "k-armed bandit"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:reinforcement-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:exploration-exploitation"
+        },
+        {
+          "@id": "kt:upper-confidence-bound"
+        },
+        {
+          "@id": "kt:thompson-sampling"
+        },
+        {
+          "@id": "kt:contextual-bandit"
+        },
+        {
+          "@id": "kt:recommender-system"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:monte-carlo-tree-search"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:markov-decision-process"
+        }
+      ]
+    },
+    {
       "@id": "kt:policy-gradient",
       "@type": "kto:Technique",
       "skos:prefLabel": "Policy gradient methods",
