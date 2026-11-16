@@ -4489,5 +4489,26 @@
       "https://arxiv.org/pdf/2406.19407",
       "https://docs.ultralytics.com/models/yolo26/"
     ]
+  },
+  {
+    "id": "kt:zero-shot-prompting",
+    "title": "Zero-shot prompting",
+    "aliases": [
+      "zero-shot prompt",
+      "instruction-only prompting",
+      "zero-shot in-context learning"
+    ],
+    "type": "Technique",
+    "domain": "prompting-and-reasoning",
+    "file": "articles/prompting-and-reasoning/zero-shot-prompting.md",
+    "created": "2026-11-16",
+    "maturity": "established",
+    "source_urls": [
+      "https://ar5iv.arxiv.org/html/2005.14165",
+      "https://arxiv.org/pdf/2109.01652",
+      "https://arxiv.org/pdf/2110.08207",
+      "https://proceedings.neurips.cc/paper/2022/hash/8bb0d291acd4acf06ef112099c16f326-Abstract-Conference.html",
+      "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/be-clear-and-direct"
+    ]
   }
 ]

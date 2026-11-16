@@ -20,9 +20,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
 | `kt:fairness-accountability-and-transparency` | `kt:algorithmic-bias-and-fairness`, `kt:datasheets-for-datasets`, `kt:model-cards` |
 | `kt:gradient-descent` | `kt:adam-optimizer`, `kt:backpropagation`, `kt:deep-learning` |
+| `kt:language-models-are-few-shot-learners` | `kt:few-shot-prompting`, `kt:zero-shot-prompting`, `kt:in-context-learning` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
 | `kt:ms-coco` | `kt:faster-r-cnn`, `kt:object-detection`, `kt:yolo` |
 | `kt:self-supervised-learning` | `kt:representation-learning`, `kt:unsupervised-learning`, `kt:pretraining` |
+| `kt:zero-shot-learning` | `kt:clip`, `kt:zero-shot-prompting`, `kt:instruction-tuning` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
 | `kt:alfworld` | `kt:autogen`, `kt:react-prompting` |
 | `kt:all-reduce` | `kt:data-parallelism`, `kt:distributed-training` |
@@ -48,6 +50,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:expected-sarsa` | `kt:sarsa`, `kt:sarsa` |
 | `kt:export-control-reform-act` | `kt:ai-chip-export-controls`, `kt:bureau-of-industry-and-security` |
 | `kt:faiss` | `kt:approximate-nearest-neighbor-search`, `kt:vector-database` |
+| `kt:finetuned-language-models-are-zero-shot-learners` | `kt:zero-shot-prompting`, `kt:instruction-tuning` |
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
 | `kt:foundation-model` | `kt:transfer-learning`, `kt:large-language-model` |
 | `kt:highway-network` | `kt:residual-connection`, `kt:residual-connection` |
@@ -60,7 +63,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:john-mccarthy` | `kt:artificial-intelligence`, `kt:dartmouth-workshop` |
 | `kt:knowledge-representation` | `kt:expert-systems`, `kt:symbolic-ai` |
 | `kt:language-model` | `kt:perplexity`, `kt:large-language-model` |
-| `kt:language-models-are-few-shot-learners` | `kt:few-shot-prompting`, `kt:in-context-learning` |
 | `kt:latent-semantic-analysis` | `kt:glove`, `kt:semantic-search` |
 | `kt:logistic-regression` | `kt:conditional-random-field`, `kt:bradley-terry-model` |
 | `kt:lora` | `kt:parameter-efficient-fine-tuning`, `kt:qlora` |
@@ -96,7 +98,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:vector-space-model` | `kt:information-retrieval`, `kt:tf-idf` |
 | `kt:weight-decay` | `kt:dropout`, `kt:regularization` |
 | `kt:zero-redundancy-optimizer` | `kt:data-parallelism`, `kt:distributed-training` |
-| `kt:zero-shot-learning` | `kt:clip`, `kt:instruction-tuning` |
 | `kt:adam-a-method-for-stochastic-optimization` | `kt:adam-optimizer` |
 | `kt:adamw` | `kt:adam-optimizer` |
 | `kt:adapter-modules` | `kt:parameter-efficient-fine-tuning` |
@@ -209,7 +210,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:feature-engineering` | `kt:representation-learning` |
 | `kt:feature-store` | `kt:mlops` |
 | `kt:feng-hsiung-hsu` | `kt:deep-blue` |
-| `kt:finetuned-language-models-are-zero-shot-learners` | `kt:instruction-tuning` |
 | `kt:flamingo-a-visual-language-model-for-few-shot-learning` | `kt:vision-language-model` |
 | `kt:frank-rosenblatt` | `kt:perceptron` |
 | `kt:function-approximation` | `kt:sarsa` |
@@ -460,4 +460,3 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:yann-lecun` | `kt:convolutional-neural-network` |
 | `kt:yoshua-bengio` | `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
 | `kt:you-only-look-once-unified-real-time-object-detection` | `kt:yolo` |
-| `kt:zero-shot-prompting` | `kt:few-shot-prompting` |

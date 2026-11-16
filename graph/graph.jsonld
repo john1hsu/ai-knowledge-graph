@@ -12650,6 +12650,95 @@
       ]
     },
     {
+      "@id": "kt:zero-shot-prompting",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Zero-shot prompting",
+      "skos:definition": "Prompting a language model to carry out a task from a natural-language instruction (and the input) alone, with no worked demonstrations in the prompt and no weight updates, relying on what the model learned in pretraining and instruction tuning.",
+      "kto:domain": "prompting-and-reasoning",
+      "dcterms:created": "2026-11-16",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Language Models are Few-Shot Learners",
+          "dcterms:publisher": "arXiv 2005.14165 via ar5iv (Brown, Mann, Ryder, Subbiah, Kaplan, Dhariwal, et al.; NeurIPS 2020)",
+          "schema:url": "https://ar5iv.arxiv.org/html/2005.14165",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Finetuned Language Models Are Zero-Shot Learners",
+          "dcterms:publisher": "arXiv 2109.01652, authors' version of the ICLR 2022 paper (Wei, Bosma, Zhao, Guu, Yu, Lester, Du, Dai, Le)",
+          "schema:url": "https://arxiv.org/pdf/2109.01652",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Multitask Prompted Training Enables Zero-Shot Task Generalization",
+          "dcterms:publisher": "arXiv 2110.08207, authors' version of the ICLR 2022 paper (Sanh, Webson, Raffel, Bach, et al.; BigScience)",
+          "schema:url": "https://arxiv.org/pdf/2110.08207",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Large Language Models are Zero-Shot Reasoners",
+          "dcterms:publisher": "NeurIPS 2022, Advances in Neural Information Processing Systems 35 (Kojima, Gu, Reid, Matsuo, Iwasawa)",
+          "schema:url": "https://proceedings.neurips.cc/paper/2022/hash/8bb0d291acd4acf06ef112099c16f326-Abstract-Conference.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Prompting best practices: be clear and direct",
+          "dcterms:publisher": "Anthropic, Claude Platform documentation",
+          "schema:url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/be-clear-and-direct",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/prompting-and-reasoning/zero-shot-prompting.md",
+      "skos:altLabel": [
+        "zero-shot prompt",
+        "instruction-only prompting",
+        "zero-shot in-context learning"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:prompt-engineering"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:instruction-tuning"
+        },
+        {
+          "@id": "kt:chain-of-thought"
+        },
+        {
+          "@id": "kt:prompt-sensitivity"
+        },
+        {
+          "@id": "kt:zero-shot-learning"
+        },
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:language-models-are-few-shot-learners"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:few-shot-prompting"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:in-context-learning"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:finetuned-language-models-are-zero-shot-learners"
+        }
+      ]
+    },
+    {
       "@id": "kt:actor-critic",
       "@type": "kto:Technique",
       "skos:prefLabel": "Actor-critic",
