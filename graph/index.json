@@ -2952,6 +2952,29 @@
     ]
   },
   {
+    "id": "kt:positional-encoding",
+    "title": "Positional encoding",
+    "aliases": [
+      "position encoding",
+      "positional embedding",
+      "position embedding",
+      "sinusoidal positional encoding"
+    ],
+    "type": "Technique",
+    "domain": "transformers-and-llms",
+    "file": "articles/transformers-and-llms/positional-encoding.md",
+    "created": "2026-11-16",
+    "maturity": "established",
+    "source_urls": [
+      "https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf",
+      "https://aclanthology.org/N18-2074/",
+      "https://arxiv.org/abs/2104.09864v5",
+      "https://arxiv.org/pdf/2108.12409",
+      "https://arxiv.org/html/2306.15595v2",
+      "https://d2l.ai/chapter_attention-mechanisms-and-transformers/self-attention-and-positional-encoding.html"
+    ]
+  },
+  {
     "id": "kt:pretraining",
     "title": "Pretraining: learning general-purpose representations before task adaptation",
     "aliases": [

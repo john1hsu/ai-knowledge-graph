@@ -3501,6 +3501,33 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient-methods-for-reinforcement-learning-with-function-approximation> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/policy-gradient> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/positional-encoding> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/positional-encoding> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/positional-encoding> <http://www.w3.org/2000/01/rdf-schema#label> "Positional encoding" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/positional-encoding> <http://www.w3.org/2004/02/skos/core#altLabel> "position embedding" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/positional-encoding> <http://www.w3.org/2004/02/skos/core#altLabel> "position encoding" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/positional-encoding> <http://www.w3.org/2004/02/skos/core#altLabel> "positional embedding" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/positional-encoding> <http://www.w3.org/2004/02/skos/core#altLabel> "sinusoidal positional encoding" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/positional-encoding> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/positional-encoding> <http://www.w3.org/2004/02/skos/core#definition> "A technique for giving a transformer information about token order, which self-attention cannot see on its own, either by adding absolute position vectors (sinusoidal or learned) to the input embeddings or by building relative offsets into the attention computation, as in relative position representations, rotary embeddings (RoPE) and ALiBi." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/positional-encoding> <http://www.w3.org/2004/02/skos/core#prefLabel> "Positional encoding" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/positional-encoding> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/positional-encoding> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/positional-encoding> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/positional-encoding> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/self-attention> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/positional-encoding> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/positional-encoding> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/positional-encoding> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/positional-encoding> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/positional-encoding> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/positional-encoding> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/positional-encoding> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "transformers-and-llms" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/positional-encoding> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/positional-encoding> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/alibi> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/positional-encoding> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/relative-position-representations> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/positional-encoding> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/rotary-position-embedding> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/positional-encoding> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/positional-encoding> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> <http://www.w3.org/2000/01/rdf-schema#label> "Pretraining: learning general-purpose representations before task adaptation" .
@@ -8149,6 +8176,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/policy-gradient/s6> <https://schema.org/url> "https://arxiv.org/abs/1707.06347" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 2017, Advances in Neural Information Processing Systems 30 (Vaswani, Shazeer, Parmar, Uszkoreit, Jones, Gomez, Kaiser, Polosukhin)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s1> <http://purl.org/dc/terms/title> "Attention is All you Need" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s1> <https://schema.org/url> "https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s2> <http://purl.org/dc/terms/publisher> "NAACL-HLT 2018, Volume 2 (Short Papers), pp. 464–468 (Shaw, Uszkoreit, Vaswani)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s2> <http://purl.org/dc/terms/title> "Self-Attention with Relative Position Representations" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s2> <https://schema.org/url> "https://aclanthology.org/N18-2074/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s3> <http://purl.org/dc/terms/publisher> "arXiv:2104.09864 (Su, Lu, Pan, Murtadha, Wen, Liu), 2021, revised 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s3> <http://purl.org/dc/terms/title> "RoFormer: Enhanced Transformer with Rotary Position Embedding" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s3> <https://schema.org/url> "https://arxiv.org/abs/2104.09864v5" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s4> <http://purl.org/dc/terms/publisher> "ICLR 2022, authors' arXiv version 2108.12409 (Press, Smith, Lewis)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s4> <http://purl.org/dc/terms/title> "Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s4> <https://schema.org/url> "https://arxiv.org/pdf/2108.12409" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s5> <http://purl.org/dc/terms/publisher> "arXiv:2306.15595v2 (Chen, Wong, Chen, Tian; Meta), 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s5> <http://purl.org/dc/terms/title> "Extending Context Window of Large Language Models via Positional Interpolation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s5> <https://schema.org/url> "https://arxiv.org/html/2306.15595v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s6> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (d2l.ai), version 1.0.3" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s6> <http://purl.org/dc/terms/title> "11.6. Self-Attention and Positional Encoding" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/positional-encoding/s6> <https://schema.org/url> "https://d2l.ai/chapter_attention-mechanisms-and-transformers/self-attention-and-positional-encoding.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/pretraining/s1> <http://purl.org/dc/terms/publisher> "Journal of Machine Learning Research 11:625-660, 2010 (Erhan, Bengio, Courville, Manzagol, Vincent, Bengio)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/pretraining/s1> <http://purl.org/dc/terms/title> "Why Does Unsupervised Pre-training Help Deep Learning?" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/pretraining/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
