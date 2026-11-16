@@ -10465,6 +10465,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s4> <https://schema.org/url> "https://github.com/minedojo/voyager" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s1> <http://purl.org/dc/terms/publisher> "Proceedings of the Ninth Workshop on Statistical Machine Translation, ACL (Bojar, Buck, Federmann, Haddow, Koehn et al.), 2014" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s1> <http://purl.org/dc/terms/title> "Findings of the 2014 Workshop on Statistical Machine Translation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s1> <https://schema.org/url> "https://aclanthology.org/W14-3302.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s2> <http://purl.org/dc/terms/publisher> "ACL 2014 Ninth Workshop on Statistical Machine Translation, statmt.org" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s2> <http://purl.org/dc/terms/title> "Shared Task: Machine Translation (WMT14 translation task page)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s2> <https://schema.org/url> "https://www.statmt.org/wmt14/translation-task.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s3> <http://purl.org/dc/terms/publisher> "NIPS 2014 (Sutskever, Vinyals, Le; Google Research publication page)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s3> <http://purl.org/dc/terms/title> "Sequence to Sequence Learning with Neural Networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s3> <https://schema.org/url> "https://research.google/pubs/sequence-to-sequence-learning-with-neural-networks/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s4> <http://purl.org/dc/terms/publisher> "ICLR 2015 (Bahdanau, Cho, Bengio), arXiv:1409.0473" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s4> <http://purl.org/dc/terms/title> "Neural Machine Translation by Jointly Learning to Align and Translate" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s4> <https://schema.org/url> "https://arxiv.org/pdf/1409.0473" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s5> <http://purl.org/dc/terms/publisher> "NeurIPS 2017 (Vaswani et al.), arXiv:1706.03762" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s5> <http://purl.org/dc/terms/title> "Attention Is All You Need" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s5> <https://schema.org/url> "https://arxiv.org/pdf/1706.03762" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s6> <http://purl.org/dc/terms/publisher> "Proceedings of the Third Conference on Machine Translation (WMT 2018), ACL (Matt Post)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s6> <http://purl.org/dc/terms/title> "A Call for Clarity in Reporting BLEU Scores" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s6> <https://schema.org/url> "https://aclanthology.org/W18-6319/" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s1> <http://purl.org/dc/terms/publisher> "arXiv 1301.3781v3 (Mikolov, Chen, Corrado and Dean, Google), submitted 16 Jan 2013" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s1> <http://purl.org/dc/terms/title> "Efficient Estimation of Word Representations in Vector Space" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/word2vec/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -11344,6 +11374,34 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "agents-and-tool-use" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/voyager-an-open-ended-embodied-agent-with-large-language-models> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Benchmark> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> <http://www.w3.org/2000/01/rdf-schema#label> "WMT 2014" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> <http://www.w3.org/2004/02/skos/core#altLabel> "Ninth Workshop on Statistical Machine Translation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> <http://www.w3.org/2004/02/skos/core#altLabel> "WMT 2014 translation task" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> <http://www.w3.org/2004/02/skos/core#altLabel> "WMT'14" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> <http://www.w3.org/2004/02/skos/core#altLabel> "WMT14" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> <http://www.w3.org/2004/02/skos/core#altLabel> "newstest2014" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-translation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> <http://www.w3.org/2004/02/skos/core#definition> "The shared tasks of the Ninth Workshop on Statistical Machine Translation (ACL 2014), whose news translation data and newstest2014 test sets, especially English-German and English-French, became the standard benchmark for early neural machine translation and the original Transformer." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> <http://www.w3.org/2004/02/skos/core#prefLabel> "WMT 2014" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/bleu> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "evaluation-and-benchmarks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/findings-of-the-2014-workshop-on-statistical-machine-translation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "historical" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> <https://github.com/john1hsu/ai-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/ai-knowledge-graph/id/conference-on-machine-translation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/neural-machine-translation-by-jointly-learning-to-align-and-translate> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> <http://www.w3.org/2000/01/rdf-schema#label> "Word2vec" .

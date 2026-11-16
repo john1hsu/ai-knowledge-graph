@@ -11,7 +11,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:openai` | `kt:clip`, `kt:gsm8k`, `kt:proximal-policy-optimization`, `kt:concrete-problems-in-ai-safety` |
 | `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:latent-diffusion-model`, `kt:generative-model` |
-| `kt:wmt-2014` | `kt:bleu`, `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
 | `kt:adagrad` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:glove` |
 | `kt:ai-risk-management` | `kt:iso-iec-42001`, `kt:nist-ai-risk-management-framework`, `kt:oecd-ai-principles` |
 | `kt:application-specific-integrated-circuit` | `kt:deep-blue`, `kt:ai-accelerator`, `kt:tpu` |
@@ -19,6 +18,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fairness-accountability-and-transparency` | `kt:algorithmic-bias-and-fairness`, `kt:datasheets-for-datasets`, `kt:model-cards` |
 | `kt:gradient-descent` | `kt:adam-optimizer`, `kt:backpropagation`, `kt:deep-learning` |
 | `kt:language-models-are-few-shot-learners` | `kt:few-shot-prompting`, `kt:zero-shot-prompting`, `kt:in-context-learning` |
+| `kt:machine-translation` | `kt:bleu`, `kt:wmt-2014`, `kt:natural-language-processing` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
 | `kt:microsoft-research` | `kt:autogen`, `kt:residual-connection`, `kt:graphrag` |
 | `kt:ms-coco` | `kt:faster-r-cnn`, `kt:object-detection`, `kt:yolo` |
@@ -68,7 +68,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:logistic-regression` | `kt:conditional-random-field`, `kt:bradley-terry-model` |
 | `kt:lora` | `kt:parameter-efficient-fine-tuning`, `kt:qlora` |
 | `kt:lottery-ticket-hypothesis` | `kt:model-compression`, `kt:model-pruning` |
-| `kt:machine-translation` | `kt:bleu`, `kt:natural-language-processing` |
 | `kt:marvin-minsky` | `kt:dartmouth-workshop`, `kt:perceptron` |
 | `kt:medical-image-analysis` | `kt:semantic-segmentation`, `kt:u-net` |
 | `kt:meta-ai` | `kt:toolformer`, `kt:pytorch` |
@@ -159,6 +158,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:computing-machinery-and-intelligence` | `kt:turing-test` |
 | `kt:conceptnet` | `kt:commonsenseqa` |
 | `kt:conditional-random-fields-probabilistic-models-for-segmenting-and-labeling-sequence-data` | `kt:conditional-random-field` |
+| `kt:conference-on-machine-translation` | `kt:wmt-2014` |
 | `kt:conll-2003` | `kt:named-entity-recognition` |
 | `kt:constitutional-ai-harmlessness-from-ai-feedback` | `kt:constitutional-ai` |
 | `kt:constrained-decoding` | `kt:structured-output` |
@@ -215,6 +215,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:feature-store` | `kt:mlops` |
 | `kt:federated-learning` | `kt:data-poisoning` |
 | `kt:feng-hsiung-hsu` | `kt:deep-blue` |
+| `kt:findings-of-the-2014-workshop-on-statistical-machine-translation` | `kt:wmt-2014` |
 | `kt:flamingo-a-visual-language-model-for-few-shot-learning` | `kt:vision-language-model` |
 | `kt:frank-rosenblatt` | `kt:perceptron` |
 | `kt:from-local-to-global-a-graphrag-approach-to-query-focused-summarization` | `kt:graphrag` |

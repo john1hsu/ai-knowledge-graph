@@ -4612,6 +4612,30 @@
     ]
   },
   {
+    "id": "kt:wmt-2014",
+    "title": "WMT 2014",
+    "aliases": [
+      "WMT14",
+      "WMT'14",
+      "newstest2014",
+      "Ninth Workshop on Statistical Machine Translation",
+      "WMT 2014 translation task"
+    ],
+    "type": "Benchmark",
+    "domain": "evaluation-and-benchmarks",
+    "file": "articles/evaluation-and-benchmarks/wmt-2014.md",
+    "created": "2026-11-16",
+    "maturity": "historical",
+    "source_urls": [
+      "https://aclanthology.org/W14-3302.pdf",
+      "https://www.statmt.org/wmt14/translation-task.html",
+      "https://research.google/pubs/sequence-to-sequence-learning-with-neural-networks/",
+      "https://arxiv.org/pdf/1409.0473",
+      "https://arxiv.org/pdf/1706.03762",
+      "https://aclanthology.org/W18-6319/"
+    ]
+  },
+  {
     "id": "kt:word2vec",
     "title": "Word2vec",
     "aliases": [

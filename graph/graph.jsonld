@@ -8139,6 +8139,101 @@
       ]
     },
     {
+      "@id": "kt:wmt-2014",
+      "@type": "kto:Benchmark",
+      "skos:prefLabel": "WMT 2014",
+      "skos:definition": "The shared tasks of the Ninth Workshop on Statistical Machine Translation (ACL 2014), whose news translation data and newstest2014 test sets, especially English-German and English-French, became the standard benchmark for early neural machine translation and the original Transformer.",
+      "kto:domain": "evaluation-and-benchmarks",
+      "dcterms:created": "2026-11-16",
+      "kto:maturity": "historical",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Findings of the 2014 Workshop on Statistical Machine Translation",
+          "dcterms:publisher": "Proceedings of the Ninth Workshop on Statistical Machine Translation, ACL (Bojar, Buck, Federmann, Haddow, Koehn et al.), 2014",
+          "schema:url": "https://aclanthology.org/W14-3302.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Shared Task: Machine Translation (WMT14 translation task page)",
+          "dcterms:publisher": "ACL 2014 Ninth Workshop on Statistical Machine Translation, statmt.org",
+          "schema:url": "https://www.statmt.org/wmt14/translation-task.html",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Sequence to Sequence Learning with Neural Networks",
+          "dcterms:publisher": "NIPS 2014 (Sutskever, Vinyals, Le; Google Research publication page)",
+          "schema:url": "https://research.google/pubs/sequence-to-sequence-learning-with-neural-networks/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Neural Machine Translation by Jointly Learning to Align and Translate",
+          "dcterms:publisher": "ICLR 2015 (Bahdanau, Cho, Bengio), arXiv:1409.0473",
+          "schema:url": "https://arxiv.org/pdf/1409.0473",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Attention Is All You Need",
+          "dcterms:publisher": "NeurIPS 2017 (Vaswani et al.), arXiv:1706.03762",
+          "schema:url": "https://arxiv.org/pdf/1706.03762",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "A Call for Clarity in Reporting BLEU Scores",
+          "dcterms:publisher": "Proceedings of the Third Conference on Machine Translation (WMT 2018), ACL (Matt Post)",
+          "schema:url": "https://aclanthology.org/W18-6319/",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/evaluation-and-benchmarks/wmt-2014.md",
+      "skos:altLabel": [
+        "WMT14",
+        "WMT'14",
+        "newstest2014",
+        "Ninth Workshop on Statistical Machine Translation",
+        "WMT 2014 translation task"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-evaluation"
+        },
+        {
+          "@id": "kt:machine-translation"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:bleu"
+        },
+        {
+          "@id": "kt:human-evaluation"
+        },
+        {
+          "@id": "kt:sequence-to-sequence-learning"
+        },
+        {
+          "@id": "kt:transformer-architecture"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:findings-of-the-2014-workshop-on-statistical-machine-translation"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:conference-on-machine-translation"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:attention-is-all-you-need"
+        },
+        {
+          "@id": "kt:neural-machine-translation-by-jointly-learning-to-align-and-translate"
+        }
+      ]
+    },
+    {
       "@id": "kt:ai-chip-export-controls",
       "@type": "kto:Policy",
       "skos:prefLabel": "AI chip export controls",
