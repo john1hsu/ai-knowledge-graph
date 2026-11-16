@@ -1411,6 +1411,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/data-parallelism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-infrastructure-and-mlops" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/data-parallelism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/data-parallelism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets> <http://www.w3.org/2000/01/rdf-schema#label> "Datasheets for datasets" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets> <http://www.w3.org/2004/02/skos/core#altLabel> "dataset datasheet" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets> <http://www.w3.org/2004/02/skos/core#altLabel> "dataset documentation datasheets" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets> <http://www.w3.org/2004/02/skos/core#altLabel> "datasheet for datasets" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets> <http://www.w3.org/2004/02/skos/core#definition> "A dataset-documentation framework proposed by Gebru et al. (arXiv 2018; Communications of the ACM 2021) in which every machine learning dataset ships with a datasheet answering structured questions about its motivation, composition, collection process, preprocessing, uses, distribution and maintenance." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets> <http://www.w3.org/2004/02/skos/core#prefLabel> "Datasheets for datasets" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/data-cards> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/dataset-cards> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/timnit-gebru> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "governance-and-policy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-hub> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets-paper> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets> <https://github.com/john1hsu/ai-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <http://purl.org/dc/terms/created> "2026-11-15" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Model> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <http://www.w3.org/2000/01/rdf-schema#label> "Deep Blue" .
@@ -5971,6 +5996,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/data-parallelism/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/data-parallelism/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/data-parallelism/s6> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/1910.02054" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s1> <http://purl.org/dc/terms/publisher> "arXiv (Gebru, Morgenstern, Vecchione, Wortman Vaughan, Wallach, Daumé III, Crawford)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s1> <http://purl.org/dc/terms/title> "Datasheets for Datasets (arXiv:1803.09010v5)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s1> <https://schema.org/url> "https://arxiv.org/pdf/1803.09010v5" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s2> <http://purl.org/dc/terms/publisher> "Microsoft Research publication page" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s2> <http://purl.org/dc/terms/title> "Datasheets for Datasets — Communications of the ACM 64(12):86–92" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s2> <https://schema.org/url> "https://www.microsoft.com/en-us/research/publication/datasheets-for-datasets/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s3> <http://purl.org/dc/terms/publisher> "arXiv:2204.01075 (Pushkarna, Zaldivar, Kjartansson; Google Research)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s3> <http://purl.org/dc/terms/title> "Data Cards: Purposeful and Transparent Dataset Documentation for Responsible AI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s3> <https://schema.org/url> "https://arxiv.org/pdf/2204.01075.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s4> <http://purl.org/dc/terms/publisher> "Hugging Face" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s4> <http://purl.org/dc/terms/title> "Dataset Cards — Hub documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s4> <https://schema.org/url> "https://huggingface.co/docs/hub/en/datasets-cards" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s5> <http://purl.org/dc/terms/publisher> "ICLR 2024 poster (Yang, Liang, Zou)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s5> <http://purl.org/dc/terms/title> "Navigating Dataset Documentations in AI: A Large-Scale Analysis of Dataset Cards on HuggingFace" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s5> <https://schema.org/url> "https://iclr.cc/virtual/2024/poster/17463" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s6> <http://purl.org/dc/terms/publisher> "arXiv (Yang, Liang, Zou)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s6> <http://purl.org/dc/terms/title> "Navigating Dataset Documentations in AI (arXiv:2401.13822v1, full text)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s6> <https://schema.org/url> "https://arxiv.org/html/2401.13822v1" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s1> <http://purl.org/dc/terms/publisher> "M. Campbell, A. J. Hoane Jr. and F.-h. Hsu; copy hosted by Northern Arizona University course readings" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s1> <http://purl.org/dc/terms/title> "Deep Blue (authors' manuscript of Artificial Intelligence 134(1–2):57–83, 2002)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

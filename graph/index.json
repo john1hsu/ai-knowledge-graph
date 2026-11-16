@@ -1191,6 +1191,28 @@
     ]
   },
   {
+    "id": "kt:datasheets-for-datasets",
+    "title": "Datasheets for datasets",
+    "aliases": [
+      "datasheet for datasets",
+      "dataset datasheet",
+      "dataset documentation datasheets"
+    ],
+    "type": "Technique",
+    "domain": "governance-and-policy",
+    "file": "articles/governance-and-policy/datasheets-for-datasets.md",
+    "created": "2026-11-16",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/pdf/1803.09010v5",
+      "https://www.microsoft.com/en-us/research/publication/datasheets-for-datasets/",
+      "https://arxiv.org/pdf/2204.01075.pdf",
+      "https://huggingface.co/docs/hub/en/datasets-cards",
+      "https://iclr.cc/virtual/2024/poster/17463",
+      "https://arxiv.org/html/2401.13822v1"
+    ]
+  },
+  {
     "id": "kt:deep-blue",
     "title": "Deep Blue",
     "aliases": [

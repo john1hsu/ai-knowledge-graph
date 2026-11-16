@@ -18,6 +18,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ai-risk-management` | `kt:iso-iec-42001`, `kt:nist-ai-risk-management-framework`, `kt:oecd-ai-principles` |
 | `kt:application-specific-integrated-circuit` | `kt:deep-blue`, `kt:ai-accelerator`, `kt:tpu` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
+| `kt:fairness-accountability-and-transparency` | `kt:algorithmic-bias-and-fairness`, `kt:datasheets-for-datasets`, `kt:model-cards` |
 | `kt:gradient-descent` | `kt:adam-optimizer`, `kt:backpropagation`, `kt:deep-learning` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
 | `kt:ms-coco` | `kt:faster-r-cnn`, `kt:object-detection`, `kt:yolo` |
@@ -47,13 +48,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:expectation-maximization` | `kt:hidden-markov-model`, `kt:unsupervised-learning` |
 | `kt:expected-sarsa` | `kt:sarsa`, `kt:sarsa` |
 | `kt:export-control-reform-act` | `kt:ai-chip-export-controls`, `kt:bureau-of-industry-and-security` |
-| `kt:fairness-accountability-and-transparency` | `kt:algorithmic-bias-and-fairness`, `kt:model-cards` |
 | `kt:faiss` | `kt:approximate-nearest-neighbor-search`, `kt:vector-database` |
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
 | `kt:foundation-model` | `kt:transfer-learning`, `kt:large-language-model` |
 | `kt:highway-network` | `kt:residual-connection`, `kt:residual-connection` |
 | `kt:hugging-face` | `kt:hugging-face-transformers`, `kt:hugging-face-trl` |
 | `kt:hugging-face-diffusers` | `kt:diffusion-model`, `kt:latent-diffusion-model` |
+| `kt:hugging-face-hub` | `kt:datasheets-for-datasets`, `kt:model-cards` |
 | `kt:hugging-face-peft` | `kt:parameter-efficient-fine-tuning`, `kt:qlora` |
 | `kt:induction-head` | `kt:mechanistic-interpretability`, `kt:in-context-learning` |
 | `kt:iso-iec-27001` | `kt:iso-iec-42001`, `kt:iso-iec-42001` |
@@ -161,8 +162,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cudnn` | `kt:cuda` |
 | `kt:cutlass` | `kt:tensor-cores` |
 | `kt:dan-hendrycks` | `kt:mmlu` |
+| `kt:data-cards` | `kt:datasheets-for-datasets` |
 | `kt:data-drift` | `kt:mlops` |
-| `kt:datasheets-for-datasets` | `kt:model-cards` |
+| `kt:dataset-cards` | `kt:datasheets-for-datasets` |
+| `kt:datasheets-for-datasets-paper` | `kt:datasheets-for-datasets` |
 | `kt:decision-tree` | `kt:ensemble-methods` |
 | `kt:decoding-strategy` | `kt:beam-search` |
 | `kt:decomposed-prompting` | `kt:least-to-most-prompting` |
@@ -231,7 +234,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
 | `kt:high-resolution-image-synthesis-with-latent-diffusion-models` | `kt:latent-diffusion-model` |
 | `kt:hotpotqa` | `kt:react-prompting` |
-| `kt:hugging-face-hub` | `kt:model-cards` |
 | `kt:ian-goodfellow` | `kt:generative-adversarial-network` |
 | `kt:ibm-research` | `kt:deep-blue` |
 | `kt:if-beam-search-is-the-answer-what-was-the-question` | `kt:beam-search` |
@@ -424,6 +426,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:thurstone-mosteller-model` | `kt:bradley-terry-model` |
 | `kt:tim-dettmers` | `kt:qlora` |
 | `kt:time-sharing` | `kt:eliza` |
+| `kt:timnit-gebru` | `kt:datasheets-for-datasets` |
 | `kt:training-verifiers-to-solve-math-word-problems` | `kt:gsm8k` |
 | `kt:transformer-engine` | `kt:tensor-cores` |
 | `kt:transformers-state-of-the-art-natural-language-processing` | `kt:hugging-face-transformers` |
