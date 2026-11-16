@@ -804,6 +804,28 @@
     ]
   },
   {
+    "id": "kt:bradley-terry-model",
+    "title": "Bradley-Terry model",
+    "aliases": [
+      "Bradley–Terry model",
+      "BT model",
+      "Bradley-Terry-Luce model",
+      "BTL model"
+    ],
+    "type": "Concept",
+    "domain": "training-and-adaptation",
+    "file": "articles/training-and-adaptation/bradley-terry-model.md",
+    "created": "2026-11-16",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://pure.psu.edu/en/publications/mm-algorithms-for-generalized-bradley-terry-models/",
+      "https://arxiv.org/pdf/2312.13619",
+      "https://www.stat.berkeley.edu/~aldous/157/Lectures/lecture_3.pdf",
+      "https://arxiv.org/html/2305.18290v2",
+      "https://arxiv.org/html/2403.04132v1"
+    ]
+  },
+  {
     "id": "kt:bureau-of-industry-and-security",
     "title": "Bureau of Industry and Security",
     "aliases": [

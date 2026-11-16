@@ -948,6 +948,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hybrid-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bradley-terry-model> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bradley-terry-model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bradley-terry-model> <http://www.w3.org/2000/01/rdf-schema#label> "Bradley-Terry model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bradley-terry-model> <http://www.w3.org/2004/02/skos/core#altLabel> "BT model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bradley-terry-model> <http://www.w3.org/2004/02/skos/core#altLabel> "BTL model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bradley-terry-model> <http://www.w3.org/2004/02/skos/core#altLabel> "Bradley-Terry-Luce model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bradley-terry-model> <http://www.w3.org/2004/02/skos/core#altLabel> "Bradley–Terry model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bradley-terry-model> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/logistic-regression> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bradley-terry-model> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/paired-comparison> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bradley-terry-model> <http://www.w3.org/2004/02/skos/core#definition> "A statistical model of paired comparisons in which the probability that one item beats another is a logistic function of the difference between their latent strength scores; it underlies reward-model training in RLHF, the DPO loss and preference-vote leaderboards such as Chatbot Arena." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bradley-terry-model> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bradley-Terry model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bradley-terry-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bradley-terry-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/plackett-luce-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bradley-terry-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bradley-terry-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/thurstone-mosteller-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bradley-terry-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/bradley-terry-model/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bradley-terry-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/bradley-terry-model/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bradley-terry-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/bradley-terry-model/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bradley-terry-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/bradley-terry-model/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bradley-terry-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/bradley-terry-model/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bradley-terry-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/elo-rating-system> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bradley-terry-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "training-and-adaptation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bradley-terry-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bradley-terry-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bradley-terry-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/direct-preference-optimization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bradley-terry-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/reward-model> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Organization> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> <http://www.w3.org/2000/01/rdf-schema#label> "Bureau of Industry and Security" .
@@ -5413,6 +5439,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s5> <https://schema.org/url> "https://issues.apache.org/jira/browse/SOLR-8057" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bradley-terry-model/s1> <http://purl.org/dc/terms/publisher> "Annals of Statistics 32(1):384–406, 2004 (David R. Hunter); Penn State research portal record" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bradley-terry-model/s1> <http://purl.org/dc/terms/title> "MM algorithms for generalized Bradley-Terry models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bradley-terry-model/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bradley-terry-model/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bradley-terry-model/s1> <https://schema.org/url> "https://pure.psu.edu/en/publications/mm-algorithms-for-generalized-bradley-terry-models/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bradley-terry-model/s2> <http://purl.org/dc/terms/publisher> "arXiv 2312.13619 (Hamilton, Tawn and Firth, University of Warwick)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bradley-terry-model/s2> <http://purl.org/dc/terms/title> "The many routes to the ubiquitous Bradley-Terry model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bradley-terry-model/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bradley-terry-model/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "preprint" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bradley-terry-model/s2> <https://schema.org/url> "https://arxiv.org/pdf/2312.13619" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bradley-terry-model/s3> <http://purl.org/dc/terms/publisher> "University of California, Berkeley, Department of Statistics (David Aldous, 2017)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bradley-terry-model/s3> <http://purl.org/dc/terms/title> "Lecture 3: Sports rating models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bradley-terry-model/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bradley-terry-model/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bradley-terry-model/s3> <https://schema.org/url> "https://www.stat.berkeley.edu/~aldous/157/Lectures/lecture_3.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bradley-terry-model/s4> <http://purl.org/dc/terms/publisher> "arXiv 2305.18290v2 (Rafailov, Sharma, Mitchell, Manning, Ermon and Finn); NeurIPS 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bradley-terry-model/s4> <http://purl.org/dc/terms/title> "Direct Preference Optimization: Your Language Model is Secretly a Reward Model (arXiv full text)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bradley-terry-model/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bradley-terry-model/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bradley-terry-model/s4> <https://schema.org/url> "https://arxiv.org/html/2305.18290v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bradley-terry-model/s5> <http://purl.org/dc/terms/publisher> "arXiv 2403.04132v1 (Chiang, Zheng, Sheng, Angelopoulos et al., 2024)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bradley-terry-model/s5> <http://purl.org/dc/terms/title> "Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference (arXiv full text)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bradley-terry-model/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bradley-terry-model/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bradley-terry-model/s5> <https://schema.org/url> "https://arxiv.org/html/2403.04132v1" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s1> <http://purl.org/dc/terms/publisher> "Congressional Research Service (Fergusson, Kerr and Casey), updated 7 June 2021" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s1> <http://purl.org/dc/terms/title> "The U.S. Export Control System and the Export Control Reform Act of 2018 (R46814)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

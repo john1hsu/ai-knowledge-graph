@@ -16010,6 +16010,92 @@
       ]
     },
     {
+      "@id": "kt:bradley-terry-model",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Bradley-Terry model",
+      "skos:definition": "A statistical model of paired comparisons in which the probability that one item beats another is a logistic function of the difference between their latent strength scores; it underlies reward-model training in RLHF, the DPO loss and preference-vote leaderboards such as Chatbot Arena.",
+      "kto:domain": "training-and-adaptation",
+      "dcterms:created": "2026-11-16",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "MM algorithms for generalized Bradley-Terry models",
+          "dcterms:publisher": "Annals of Statistics 32(1):384–406, 2004 (David R. Hunter); Penn State research portal record",
+          "schema:url": "https://pure.psu.edu/en/publications/mm-algorithms-for-generalized-bradley-terry-models/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The many routes to the ubiquitous Bradley-Terry model",
+          "dcterms:publisher": "arXiv 2312.13619 (Hamilton, Tawn and Firth, University of Warwick)",
+          "schema:url": "https://arxiv.org/pdf/2312.13619",
+          "kto:sourceType": "preprint"
+        },
+        {
+          "dcterms:title": "Lecture 3: Sports rating models",
+          "dcterms:publisher": "University of California, Berkeley, Department of Statistics (David Aldous, 2017)",
+          "schema:url": "https://www.stat.berkeley.edu/~aldous/157/Lectures/lecture_3.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model (arXiv full text)",
+          "dcterms:publisher": "arXiv 2305.18290v2 (Rafailov, Sharma, Mitchell, Manning, Ermon and Finn); NeurIPS 2023",
+          "schema:url": "https://arxiv.org/html/2305.18290v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference (arXiv full text)",
+          "dcterms:publisher": "arXiv 2403.04132v1 (Chiang, Zheng, Sheng, Angelopoulos et al., 2024)",
+          "schema:url": "https://arxiv.org/html/2403.04132v1",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/training-and-adaptation/bradley-terry-model.md",
+      "skos:altLabel": [
+        "Bradley–Terry model",
+        "BT model",
+        "Bradley-Terry-Luce model",
+        "BTL model"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:logistic-regression"
+        },
+        {
+          "@id": "kt:paired-comparison"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:rlhf"
+        },
+        {
+          "@id": "kt:human-evaluation"
+        },
+        {
+          "@id": "kt:plackett-luce-model"
+        },
+        {
+          "@id": "kt:thurstone-mosteller-model"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:reward-model"
+        },
+        {
+          "@id": "kt:chatbot-arena"
+        },
+        {
+          "@id": "kt:direct-preference-optimization"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:elo-rating-system"
+        }
+      ]
+    },
+    {
       "@id": "kt:constitutional-ai",
       "@type": "kto:Technique",
       "skos:prefLabel": "Constitutional AI",

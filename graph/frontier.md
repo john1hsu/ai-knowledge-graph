@@ -7,7 +7,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:artificial-intelligence`, `kt:geoffrey-hinton`, `kt:perceptron`, `kt:symbolic-ai` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:ai-hardware` | `kt:ai-accelerator`, `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
-| `kt:bradley-terry-model` | `kt:chatbot-arena`, `kt:human-evaluation`, `kt:reward-model`, `kt:direct-preference-optimization` |
 | `kt:google-deepmind` | `kt:google`, `kt:alphago`, `kt:alphazero`, `kt:deep-q-network` |
 | `kt:heuristic-search` | `kt:deep-blue`, `kt:logic-theorist`, `kt:beam-search`, `kt:tree-of-thoughts` |
 | `kt:layer-normalization` | `kt:batch-normalization`, `kt:batch-normalization`, `kt:residual-connection`, `kt:transformer-architecture` |
@@ -64,6 +63,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:language-model` | `kt:perplexity`, `kt:large-language-model` |
 | `kt:language-models-are-few-shot-learners` | `kt:few-shot-prompting`, `kt:in-context-learning` |
 | `kt:latent-semantic-analysis` | `kt:glove`, `kt:semantic-search` |
+| `kt:logistic-regression` | `kt:conditional-random-field`, `kt:bradley-terry-model` |
 | `kt:lora` | `kt:parameter-efficient-fine-tuning`, `kt:qlora` |
 | `kt:lottery-ticket-hypothesis` | `kt:model-compression`, `kt:model-pruning` |
 | `kt:marvin-minsky` | `kt:dartmouth-workshop`, `kt:perceptron` |
@@ -187,6 +187,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:efficient-selectivity-and-backup-operators-in-monte-carlo-tree-search` | `kt:monte-carlo-tree-search` |
 | `kt:eliza-a-computer-program-for-the-study-of-natural-language-communication-between-man-and-machine` | `kt:eliza` |
 | `kt:eliza-effect` | `kt:eliza` |
+| `kt:elo-rating-system` | `kt:bradley-terry-model` |
 | `kt:emergent-abilities-of-large-language-models` | `kt:emergent-abilities` |
 | `kt:empirical-risk-minimization` | `kt:supervised-learning` |
 | `kt:entity-linking` | `kt:named-entity-recognition` |
@@ -284,7 +285,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:llmops` | `kt:mlops` |
 | `kt:lmsys` | `kt:chatbot-arena` |
 | `kt:loftq` | `kt:qlora` |
-| `kt:logistic-regression` | `kt:conditional-random-field` |
 | `kt:long-short-term-memory-1997` | `kt:long-short-term-memory` |
 | `kt:long-short-term-memory-networks-for-machine-reading` | `kt:self-attention` |
 | `kt:loss-function` | `kt:supervised-learning` |
@@ -338,6 +338,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:optimal-brain-damage` | `kt:model-pruning` |
 | `kt:outlines` | `kt:structured-output` |
 | `kt:pac-learning` | `kt:statistical-learning-theory` |
+| `kt:paired-comparison` | `kt:bradley-terry-model` |
 | `kt:parameter-efficient-transfer-learning-for-nlp` | `kt:parameter-efficient-fine-tuning` |
 | `kt:partially-observable-markov-decision-process` | `kt:markov-decision-process` |
 | `kt:pattern-recognition` | `kt:computer-vision` |
@@ -345,6 +346,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:philosophy-of-artificial-intelligence` | `kt:chinese-room-argument` |
 | `kt:physical-symbol-system-hypothesis` | `kt:symbolic-ai` |
 | `kt:pipeline-parallelism` | `kt:distributed-training` |
+| `kt:plackett-luce-model` | `kt:bradley-terry-model` |
 | `kt:playing-atari-with-deep-reinforcement-learning` | `kt:deep-q-network` |
 | `kt:policy-gradient-methods-for-reinforcement-learning-with-function-approximation` | `kt:policy-gradient` |
 | `kt:policy-iteration` | `kt:markov-decision-process` |
@@ -414,6 +416,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:the-perceptron-a-probabilistic-model-for-information-storage-and-organization-in-the-brain` | `kt:perceptron` |
 | `kt:thompson-sampling` | `kt:exploration-exploitation` |
 | `kt:through-silicon-via` | `kt:high-bandwidth-memory` |
+| `kt:thurstone-mosteller-model` | `kt:bradley-terry-model` |
 | `kt:tim-dettmers` | `kt:qlora` |
 | `kt:time-sharing` | `kt:eliza` |
 | `kt:training-verifiers-to-solve-math-word-problems` | `kt:gsm8k` |
