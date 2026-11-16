@@ -323,6 +323,9 @@
         },
         {
           "@id": "kt:agent2agent-protocol"
+        },
+        {
+          "@id": "kt:computer-use-agents"
         }
       ],
       "kto:basedOn": [
@@ -446,6 +449,94 @@
       "kto:supersededBy": [
         {
           "@id": "kt:microsoft-agent-framework"
+        }
+      ]
+    },
+    {
+      "@id": "kt:computer-use-agents",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Computer-use agents",
+      "skos:definition": "AI agents that operate a computer's graphical interface the way a person does: a multimodal model reads screenshots, decides on the next step, and issues mouse and keyboard actions in a loop until a task in ordinary desktop or web software is done.",
+      "kto:domain": "agents-and-tool-use",
+      "dcterms:created": "2026-11-16",
+      "kto:maturity": "emerging",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+          "dcterms:publisher": "NeurIPS 2024 Datasets and Benchmarks (Xie et al.)",
+          "schema:url": "https://neurips.cc/virtual/2024/poster/97468",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+          "dcterms:publisher": "ICLR 2024 (Zhou et al.)",
+          "schema:url": "https://iclr.cc/virtual/2024/poster/17826",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Developing a computer use model",
+          "dcterms:publisher": "Anthropic",
+          "schema:url": "https://anthropic.com/news/developing-computer-use",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Computer-Using Agent",
+          "dcterms:publisher": "OpenAI",
+          "schema:url": "https://openai.com/index/computer-using-agent/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Computer use tool",
+          "dcterms:publisher": "Anthropic, Claude Platform documentation",
+          "schema:url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/computer-use-tool",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/agents-and-tool-use/computer-use-agents.md",
+      "skos:altLabel": [
+        "computer use",
+        "computer-using agent",
+        "GUI agents",
+        "OS agents"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-agent"
+        },
+        {
+          "@id": "kt:tool-use"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:vision-language-model"
+        },
+        {
+          "@id": "kt:prompt-injection"
+        },
+        {
+          "@id": "kt:react-prompting"
+        },
+        {
+          "@id": "kt:ai-evaluation"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:vision-language-model"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:osworld"
+        },
+        {
+          "@id": "kt:webarena"
+        }
+      ],
+      "kto:trainedWith": [
+        {
+          "@id": "kt:reinforcement-learning"
         }
       ]
     },

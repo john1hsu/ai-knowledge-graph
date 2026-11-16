@@ -1019,6 +1019,28 @@
     ]
   },
   {
+    "id": "kt:computer-use-agents",
+    "title": "Computer-use agents",
+    "aliases": [
+      "computer use",
+      "computer-using agent",
+      "GUI agents",
+      "OS agents"
+    ],
+    "type": "Technique",
+    "domain": "agents-and-tool-use",
+    "file": "articles/agents-and-tool-use/computer-use-agents.md",
+    "created": "2026-11-16",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://neurips.cc/virtual/2024/poster/97468",
+      "https://iclr.cc/virtual/2024/poster/17826",
+      "https://anthropic.com/news/developing-computer-use",
+      "https://openai.com/index/computer-using-agent/",
+      "https://platform.claude.com/docs/en/agents-and-tools/tool-use/computer-use-tool"
+    ]
+  },
+  {
     "id": "kt:computer-vision",
     "title": "Computer vision",
     "aliases": [

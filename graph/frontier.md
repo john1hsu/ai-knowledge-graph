@@ -349,6 +349,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:optimal-brain-compression` | `kt:gptq` |
 | `kt:optimal-brain-damage` | `kt:model-pruning` |
 | `kt:orca-a-distributed-serving-system-for-transformer-based-generative-models` | `kt:orca-serving-system` |
+| `kt:osworld` | `kt:computer-use-agents` |
 | `kt:outlines` | `kt:structured-output` |
 | `kt:pac-learning` | `kt:statistical-learning-theory` |
 | `kt:paired-comparison` | `kt:bradley-terry-model` |
@@ -460,6 +461,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:warren-mcculloch` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:wasserstein-gan` | `kt:generative-adversarial-network` |
 | `kt:weak-to-strong-generalization` | `kt:scalable-oversight` |
+| `kt:webarena` | `kt:computer-use-agents` |
 | `kt:weight-initialization` | `kt:vanishing-gradient-problem` |
 | `kt:whisper` | `kt:automatic-speech-recognition` |
 | `kt:yann-lecun` | `kt:convolutional-neural-network` |
