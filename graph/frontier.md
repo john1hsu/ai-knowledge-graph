@@ -14,6 +14,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
 | `kt:positional-encoding` | `kt:attention-is-all-you-need`, `kt:context-window`, `kt:self-attention`, `kt:transformer-architecture` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:latent-diffusion-model`, `kt:generative-model` |
+| `kt:wmt-2014` | `kt:bleu`, `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
 | `kt:adagrad` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:glove` |
 | `kt:ai-risk-management` | `kt:iso-iec-42001`, `kt:nist-ai-risk-management-framework`, `kt:oecd-ai-principles` |
 | `kt:application-specific-integrated-circuit` | `kt:deep-blue`, `kt:ai-accelerator`, `kt:tpu` |
@@ -23,7 +24,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ms-coco` | `kt:faster-r-cnn`, `kt:object-detection`, `kt:yolo` |
 | `kt:orca-serving-system` | `kt:model-serving`, `kt:batching-and-paged-attention`, `kt:tensorrt-llm` |
 | `kt:self-supervised-learning` | `kt:representation-learning`, `kt:unsupervised-learning`, `kt:pretraining` |
-| `kt:wmt-2014` | `kt:attention-is-all-you-need`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate`, `kt:sequence-to-sequence-learning` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
 | `kt:alfworld` | `kt:autogen`, `kt:react-prompting` |
 | `kt:all-reduce` | `kt:data-parallelism`, `kt:distributed-training` |
@@ -66,6 +66,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:logistic-regression` | `kt:conditional-random-field`, `kt:bradley-terry-model` |
 | `kt:lora` | `kt:parameter-efficient-fine-tuning`, `kt:qlora` |
 | `kt:lottery-ticket-hypothesis` | `kt:model-compression`, `kt:model-pruning` |
+| `kt:machine-translation` | `kt:bleu`, `kt:natural-language-processing` |
 | `kt:marvin-minsky` | `kt:dartmouth-workshop`, `kt:perceptron` |
 | `kt:meta-ai` | `kt:toolformer`, `kt:pytorch` |
 | `kt:microsoft-research` | `kt:autogen`, `kt:residual-connection` |
@@ -126,6 +127,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:beir-a-heterogeneous-benchmark-for-zero-shot-evaluation-of-information-retrieval-models` | `kt:beir` |
 | `kt:berkeley-function-calling-leaderboard` | `kt:tool-use` |
 | `kt:big-bench` | `kt:emergent-abilities` |
+| `kt:bleu-a-method-for-automatic-evaluation-of-machine-translation` | `kt:bleu` |
 | `kt:boltzmann-machine` | `kt:geoffrey-hinton` |
 | `kt:boosting` | `kt:ensemble-methods` |
 | `kt:campbells-law` | `kt:goodharts-law` |
@@ -290,7 +292,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:loss-function` | `kt:supervised-learning` |
 | `kt:low-rank-factorization` | `kt:model-compression` |
 | `kt:machine-learning-systems` | `kt:llm-inference-optimization` |
-| `kt:machine-translation` | `kt:natural-language-processing` |
 | `kt:margaret-mitchell` | `kt:model-cards` |
 | `kt:mask-r-cnn` | `kt:faster-r-cnn` |
 | `kt:masked-autoencoder` | `kt:vision-transformer` |
@@ -303,6 +304,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:memgpt` | `kt:agent-memory` |
 | `kt:memory-wall` | `kt:high-bandwidth-memory` |
 | `kt:message-understanding-conference-6` | `kt:named-entity-recognition` |
+| `kt:meteor` | `kt:bleu` |
 | `kt:michael-wooldridge` | `kt:multi-agent-systems` |
 | `kt:microsoft-agent-framework` | `kt:autogen` |
 | `kt:min-p-sampling` | `kt:sampling-temperature-and-top-p` |
@@ -378,6 +380,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:roofline-model` | `kt:gpu-computing` |
 | `kt:rule-based-system` | `kt:eliza` |
 | `kt:ruler` | `kt:context-window` |
+| `kt:sacrebleu` | `kt:bleu` |
 | `kt:scalable-parallel-programming-with-cuda` | `kt:cuda` |
 | `kt:scaling-laws-for-neural-language-models` | `kt:scaling-laws` |
 | `kt:score-matching` | `kt:diffusion-model` |

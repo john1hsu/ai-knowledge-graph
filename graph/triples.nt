@@ -919,6 +919,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ml-foundations" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bleu> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bleu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bleu> <http://www.w3.org/2000/01/rdf-schema#label> "BLEU" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bleu> <http://www.w3.org/2004/02/skos/core#altLabel> "BLEU score" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bleu> <http://www.w3.org/2004/02/skos/core#altLabel> "Bleu" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bleu> <http://www.w3.org/2004/02/skos/core#altLabel> "bilingual evaluation understudy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bleu> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bleu> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-translation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bleu> <http://www.w3.org/2004/02/skos/core#definition> "An automatic metric for machine translation and other text generation that scores a candidate against one or more human reference translations by combining clipped n-gram precisions (usually up to 4-grams) in a geometric mean and multiplying by a brevity penalty." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bleu> <http://www.w3.org/2004/02/skos/core#prefLabel> "BLEU" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bleu> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bleu> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/perplexity> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bleu> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bleu> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bleu> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/bleu/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bleu> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/bleu/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bleu> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/bleu/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bleu> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/bleu/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bleu> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/bleu/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bleu> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bleu> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/meteor> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bleu> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "evaluation-and-benchmarks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bleu> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/sacrebleu> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bleu> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/bleu-a-method-for-automatic-evaluation-of-machine-translation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bleu> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bm25> <http://www.w3.org/2000/01/rdf-schema#label> "BM25" .
@@ -5414,6 +5439,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s5> <https://schema.org/url> "https://iclr.cc/virtual/2020/poster/1489" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bleu/s1> <http://purl.org/dc/terms/publisher> "ACL 2002 (Papineni, Roukos, Ward, Zhu; IBM T. J. Watson Research Center)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bleu/s1> <http://purl.org/dc/terms/title> "Bleu: a Method for Automatic Evaluation of Machine Translation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bleu/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bleu/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bleu/s1> <https://schema.org/url> "https://aclanthology.org/P02-1040.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bleu/s2> <http://purl.org/dc/terms/publisher> "EACL 2006 (Callison-Burch, Osborne, Koehn)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bleu/s2> <http://purl.org/dc/terms/title> "Re-evaluating the Role of Bleu in Machine Translation Research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bleu/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bleu/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bleu/s2> <https://schema.org/url> "https://www.cis.upenn.edu/~ccb/publications/re-evaluating-the-role-of-bleu-in-mt-research.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bleu/s3> <http://purl.org/dc/terms/publisher> "arXiv 1804.08771 (Matt Post, Amazon Research), 2018" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bleu/s3> <http://purl.org/dc/terms/title> "A Call for Clarity in Reporting BLEU Scores" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bleu/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bleu/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bleu/s3> <https://schema.org/url> "https://arxiv.org/pdf/1804.08771" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bleu/s4> <http://purl.org/dc/terms/publisher> "ACL 2020 (Mathur, Baldwin, Cohn)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bleu/s4> <http://purl.org/dc/terms/title> "Tangled up in BLEU: Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bleu/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bleu/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bleu/s4> <https://schema.org/url> "https://aclanthology.org/2020.acl-main.448" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bleu/s5> <http://purl.org/dc/terms/publisher> "Hugging Face Evaluate" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bleu/s5> <http://purl.org/dc/terms/title> "Metric: bleu (README)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bleu/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bleu/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bleu/s5> <https://schema.org/url> "https://huggingface.co/spaces/evaluate-metric/bleu/blob/main/README.md" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s1> <http://purl.org/dc/terms/publisher> "Foundations and Trends in Information Retrieval 3(4), 333-389, 2009 (Robertson and Zaragoza); author copy hosted by City, University of London" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s1> <http://purl.org/dc/terms/title> "The Probabilistic Relevance Framework: BM25 and Beyond" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bm25/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

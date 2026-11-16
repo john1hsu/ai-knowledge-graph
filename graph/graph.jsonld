@@ -6695,6 +6695,93 @@
       ]
     },
     {
+      "@id": "kt:bleu",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "BLEU",
+      "skos:definition": "An automatic metric for machine translation and other text generation that scores a candidate against one or more human reference translations by combining clipped n-gram precisions (usually up to 4-grams) in a geometric mean and multiplying by a brevity penalty.",
+      "kto:domain": "evaluation-and-benchmarks",
+      "dcterms:created": "2026-11-16",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Bleu: a Method for Automatic Evaluation of Machine Translation",
+          "dcterms:publisher": "ACL 2002 (Papineni, Roukos, Ward, Zhu; IBM T. J. Watson Research Center)",
+          "schema:url": "https://aclanthology.org/P02-1040.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Re-evaluating the Role of Bleu in Machine Translation Research",
+          "dcterms:publisher": "EACL 2006 (Callison-Burch, Osborne, Koehn)",
+          "schema:url": "https://www.cis.upenn.edu/~ccb/publications/re-evaluating-the-role-of-bleu-in-mt-research.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "A Call for Clarity in Reporting BLEU Scores",
+          "dcterms:publisher": "arXiv 1804.08771 (Matt Post, Amazon Research), 2018",
+          "schema:url": "https://arxiv.org/pdf/1804.08771",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Tangled up in BLEU: Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics",
+          "dcterms:publisher": "ACL 2020 (Mathur, Baldwin, Cohn)",
+          "schema:url": "https://aclanthology.org/2020.acl-main.448",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Metric: bleu (README)",
+          "dcterms:publisher": "Hugging Face Evaluate",
+          "schema:url": "https://huggingface.co/spaces/evaluate-metric/bleu/blob/main/README.md",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/evaluation-and-benchmarks/bleu.md",
+      "skos:altLabel": [
+        "bilingual evaluation understudy",
+        "BLEU score",
+        "Bleu"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-evaluation"
+        },
+        {
+          "@id": "kt:machine-translation"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:perplexity"
+        },
+        {
+          "@id": "kt:wmt-2014"
+        },
+        {
+          "@id": "kt:sequence-to-sequence-learning"
+        },
+        {
+          "@id": "kt:llm-as-a-judge"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:bleu-a-method-for-automatic-evaluation-of-machine-translation"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:human-evaluation"
+        },
+        {
+          "@id": "kt:meteor"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:sacrebleu"
+        }
+      ]
+    },
+    {
       "@id": "kt:chatbot-arena",
       "@type": "kto:Benchmark",
       "skos:prefLabel": "Chatbot Arena",
