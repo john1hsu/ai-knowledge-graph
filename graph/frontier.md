@@ -16,12 +16,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alfworld` | `kt:autogen`, `kt:react-prompting`, `kt:reflexion` |
 | `kt:application-specific-integrated-circuit` | `kt:deep-blue`, `kt:ai-accelerator`, `kt:tpu` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
+| `kt:bert` | `kt:reranking`, `kt:self-supervised-learning`, `kt:transformer-architecture` |
+| `kt:contrastive-learning` | `kt:clip`, `kt:representation-learning`, `kt:self-supervised-learning` |
 | `kt:fairness-accountability-and-transparency` | `kt:algorithmic-bias-and-fairness`, `kt:datasheets-for-datasets`, `kt:model-cards` |
+| `kt:foundation-model` | `kt:self-supervised-learning`, `kt:transfer-learning`, `kt:large-language-model` |
 | `kt:machine-translation` | `kt:bleu`, `kt:wmt-2014`, `kt:natural-language-processing` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
 | `kt:microsoft-research` | `kt:autogen`, `kt:residual-connection`, `kt:graphrag` |
 | `kt:ms-coco` | `kt:faster-r-cnn`, `kt:object-detection`, `kt:yolo` |
-| `kt:self-supervised-learning` | `kt:representation-learning`, `kt:unsupervised-learning`, `kt:pretraining` |
 | `kt:stochastic-gradient-descent` | `kt:data-parallelism`, `kt:adam-optimizer`, `kt:gradient-descent` |
 | `kt:tensor-parallelism` | `kt:distributed-training`, `kt:pipeline-parallelism`, `kt:orca-serving-system` |
 | `kt:zero-redundancy-optimizer` | `kt:data-parallelism`, `kt:distributed-training`, `kt:pipeline-parallelism` |
@@ -34,10 +36,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:apache-lucene` | `kt:bm25`, `kt:tf-idf` |
 | `kt:autoencoder` | `kt:representation-learning`, `kt:dimensionality-reduction` |
 | `kt:automatic-differentiation` | `kt:pytorch`, `kt:backpropagation` |
-| `kt:bert` | `kt:reranking`, `kt:transformer-architecture` |
 | `kt:catastrophic-forgetting` | `kt:fine-tuning`, `kt:parameter-efficient-fine-tuning` |
 | `kt:computing-power-and-the-governance-of-artificial-intelligence` | `kt:compute-governance`, `kt:compute-governance` |
-| `kt:contrastive-learning` | `kt:clip`, `kt:representation-learning` |
 | `kt:cross-validation` | `kt:bias-variance-tradeoff`, `kt:overfitting` |
 | `kt:curse-of-dimensionality` | `kt:universal-approximation-theorem`, `kt:dimensionality-reduction` |
 | `kt:deep-belief-network` | `kt:geoffrey-hinton`, `kt:deep-learning` |
@@ -51,7 +51,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:faiss` | `kt:approximate-nearest-neighbor-search`, `kt:vector-database` |
 | `kt:finetuned-language-models-are-zero-shot-learners` | `kt:zero-shot-prompting`, `kt:instruction-tuning` |
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
-| `kt:foundation-model` | `kt:transfer-learning`, `kt:large-language-model` |
 | `kt:highway-network` | `kt:residual-connection`, `kt:residual-connection` |
 | `kt:hotpotqa` | `kt:react-prompting`, `kt:reflexion` |
 | `kt:hugging-face` | `kt:hugging-face-transformers`, `kt:hugging-face-trl` |
@@ -311,6 +310,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:margaret-mitchell` | `kt:model-cards` |
 | `kt:mask-r-cnn` | `kt:faster-r-cnn` |
 | `kt:masked-autoencoder` | `kt:vision-transformer` |
+| `kt:masked-language-modeling` | `kt:self-supervised-learning` |
 | `kt:mastering-chess-and-shogi-by-self-play-with-a-general-reinforcement-learning-algorithm` | `kt:alphazero` |
 | `kt:mastering-the-game-of-go-with-deep-neural-networks-and-tree-search` | `kt:alphago` |
 | `kt:mastering-the-game-of-go-without-human-knowledge` | `kt:alphago-zero` |

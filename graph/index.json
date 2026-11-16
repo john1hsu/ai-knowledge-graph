@@ -3960,6 +3960,27 @@
     ]
   },
   {
+    "id": "kt:self-supervised-learning",
+    "title": "Self-supervised learning",
+    "aliases": [
+      "SSL (self-supervised learning)",
+      "self-supervision",
+      "self-supervised representation learning"
+    ],
+    "type": "Paradigm",
+    "domain": "training-and-adaptation",
+    "file": "articles/training-and-adaptation/self-supervised-learning.md",
+    "created": "2026-11-16",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/abs/2304.12210",
+      "https://ai.meta.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/",
+      "https://aclanthology.org/N19-1423/",
+      "https://openaccess.thecvf.com/content_iccv_2015/html/Doersch_Unsupervised_Visual_Representation_ICCV_2015_paper.html",
+      "https://ar5iv.labs.arxiv.org/html/2304.12210"
+    ]
+  },
+  {
     "id": "kt:semantic-search",
     "title": "Semantic search",
     "aliases": [

@@ -4729,6 +4729,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/self-refine-iterative-refinement-with-self-feedback> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "prompting-and-reasoning" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/self-refine-iterative-refinement-with-self-feedback> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/self-refine-iterative-refinement-with-self-feedback> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Paradigm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> <http://www.w3.org/2000/01/rdf-schema#label> "Self-supervised learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "SSL (self-supervised learning)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "self-supervised representation learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "self-supervision" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> <http://www.w3.org/2004/02/skos/core#definition> "A learning paradigm in which a model is trained on unlabeled data with a pretext task whose targets are derived automatically from the data itself, such as predicting masked tokens or matching augmented views, so that it learns representations that transfer to downstream tasks." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> <http://www.w3.org/2004/02/skos/core#prefLabel> "Self-supervised learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/bert> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/transfer-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/self-supervised-learning/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/self-supervised-learning/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/self-supervised-learning/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/self-supervised-learning/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/self-supervised-learning/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "training-and-adaptation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/foundation-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/contrastive-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/masked-language-modeling> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> <http://www.w3.org/2000/01/rdf-schema#label> "Semantic search" .
@@ -9751,6 +9777,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/self-refine-iterative-refinement-with-self-feedback/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/self-refine-iterative-refinement-with-self-feedback/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/self-refine-iterative-refinement-with-self-feedback/s5> <https://schema.org/url> "https://aclanthology.org/2024.tacl-1.78" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-supervised-learning/s1> <http://purl.org/dc/terms/publisher> "arXiv 2304.12210 (Balestriero, Ibrahim, Sobal, Morcos, ..., LeCun, Goldblum), 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-supervised-learning/s1> <http://purl.org/dc/terms/title> "A Cookbook of Self-Supervised Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-supervised-learning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-supervised-learning/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-supervised-learning/s1> <https://schema.org/url> "https://arxiv.org/abs/2304.12210" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-supervised-learning/s2> <http://purl.org/dc/terms/publisher> "Meta AI blog (Yann LeCun and Ishan Misra), 4 March 2021" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-supervised-learning/s2> <http://purl.org/dc/terms/title> "Self-supervised learning: The dark matter of intelligence" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-supervised-learning/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-supervised-learning/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-supervised-learning/s2> <https://schema.org/url> "https://ai.meta.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-supervised-learning/s3> <http://purl.org/dc/terms/publisher> "NAACL-HLT 2019, pp. 4171–4186 (Devlin, Chang, Lee and Toutanova), ACL Anthology N19-1423" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-supervised-learning/s3> <http://purl.org/dc/terms/title> "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-supervised-learning/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-supervised-learning/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-supervised-learning/s3> <https://schema.org/url> "https://aclanthology.org/N19-1423/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-supervised-learning/s4> <http://purl.org/dc/terms/publisher> "ICCV 2015 (Doersch, Gupta and Efros), CVF Open Access" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-supervised-learning/s4> <http://purl.org/dc/terms/title> "Unsupervised Visual Representation Learning by Context Prediction" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-supervised-learning/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-supervised-learning/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-supervised-learning/s4> <https://schema.org/url> "https://openaccess.thecvf.com/content_iccv_2015/html/Doersch_Unsupervised_Visual_Representation_ICCV_2015_paper.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-supervised-learning/s5> <http://purl.org/dc/terms/publisher> "ar5iv, arXiv Labs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-supervised-learning/s5> <http://purl.org/dc/terms/title> "A Cookbook of Self-Supervised Learning (HTML rendering of arXiv 2304.12210)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-supervised-learning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-supervised-learning/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/self-supervised-learning/s5> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/2304.12210" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s1> <http://purl.org/dc/terms/publisher> "Journal of the American Society for Information Science 41(6), 391-407, 1990 (Deerwester, Dumais, Furnas, Landauer and Harshman); author copy hosted by Microsoft Research" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s1> <http://purl.org/dc/terms/title> "Indexing by Latent Semantic Analysis" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/semantic-search/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
