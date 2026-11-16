@@ -8788,6 +8788,83 @@
       ]
     },
     {
+      "@id": "kt:council-of-europe-framework-convention-on-ai",
+      "@type": "kto:Policy",
+      "skos:prefLabel": "Council of Europe Framework Convention on Artificial Intelligence",
+      "skos:definition": "An international treaty (CETS No. 225) adopted by the Council of Europe's Committee of Ministers on 17 May 2024 and opened for signature in Vilnius on 5 September 2024, described by the Council as the first legally binding international treaty on AI; it obliges parties to keep AI activities consistent with human rights, democracy and the rule of law across the AI lifecycle.",
+      "kto:domain": "governance-and-policy",
+      "dcterms:created": "2026-11-16",
+      "kto:maturity": "emerging",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law (CETS No. 225), treaty text",
+          "dcterms:publisher": "Council of Europe Treaty Series, Vilnius, 5 September 2024",
+          "schema:url": "https://rm.coe.int/1680b680bc",
+          "kto:sourceType": "intergovernmental"
+        },
+        {
+          "dcterms:title": "Council of Europe adopts first international treaty on artificial intelligence",
+          "dcterms:publisher": "Council of Europe newsroom, 17 May 2024",
+          "schema:url": "https://www.coe.int/en/web/portal/-/council-of-europe-adopts-first-international-treaty-on-artificial-intelligence",
+          "kto:sourceType": "intergovernmental"
+        },
+        {
+          "dcterms:title": "Council of Europe opens first ever global treaty on AI for signature",
+          "dcterms:publisher": "Council of Europe newsroom, 5 September 2024",
+          "schema:url": "https://www.coe.int/en/web/portal/-/council-of-europe-opens-first-ever-global-treaty-on-ai-for-signature",
+          "kto:sourceType": "intergovernmental"
+        },
+        {
+          "dcterms:title": "Committee on Artificial Intelligence (CAI)",
+          "dcterms:publisher": "Council of Europe, Artificial Intelligence portal",
+          "schema:url": "https://coe.int/web/artificial-intelligence/cai",
+          "kto:sourceType": "intergovernmental"
+        },
+        {
+          "dcterms:title": "Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law (Council Eur.), introductory note by Marc Rotenberg",
+          "dcterms:publisher": "International Legal Materials 64(3), 859–902, Cambridge University Press for ASIL, 2025",
+          "schema:url": "https://www.cambridge.org/core/journals/international-legal-materials/article/framework-convention-on-artificial-intelligence-and-human-rights-democracy-and-the-rule-of-law-council-eur/0CCDA03299BF85537031F1CA26CF2CBD",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/governance-and-policy/council-of-europe-framework-convention-on-ai.md",
+      "skos:altLabel": [
+        "Framework Convention on Artificial Intelligence and Human Rights",
+        "Democracy and the Rule of Law",
+        "CETS No. 225",
+        "Council of Europe AI Convention"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-governance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:eu-ai-act"
+        },
+        {
+          "@id": "kt:oecd-ai-principles"
+        },
+        {
+          "@id": "kt:algorithmic-bias-and-fairness"
+        },
+        {
+          "@id": "kt:ai-risk-management"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:council-of-europe"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:oecd-ai-principles"
+        }
+      ]
+    },
+    {
       "@id": "kt:datasheets-for-datasets",
       "@type": "kto:Technique",
       "skos:prefLabel": "Datasheets for datasets",
@@ -9394,6 +9471,9 @@
         },
         {
           "@id": "kt:algorithmic-bias-and-fairness"
+        },
+        {
+          "@id": "kt:council-of-europe-framework-convention-on-ai"
         }
       ],
       "kto:createdBy": [

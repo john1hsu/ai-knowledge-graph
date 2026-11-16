@@ -1190,6 +1190,28 @@
     ]
   },
   {
+    "id": "kt:council-of-europe-framework-convention-on-ai",
+    "title": "Council of Europe Framework Convention on Artificial Intelligence",
+    "aliases": [
+      "Framework Convention on Artificial Intelligence and Human Rights",
+      "Democracy and the Rule of Law",
+      "CETS No. 225",
+      "Council of Europe AI Convention"
+    ],
+    "type": "Policy",
+    "domain": "governance-and-policy",
+    "file": "articles/governance-and-policy/council-of-europe-framework-convention-on-ai.md",
+    "created": "2026-11-16",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://rm.coe.int/1680b680bc",
+      "https://www.coe.int/en/web/portal/-/council-of-europe-adopts-first-international-treaty-on-artificial-intelligence",
+      "https://www.coe.int/en/web/portal/-/council-of-europe-opens-first-ever-global-treaty-on-ai-for-signature",
+      "https://coe.int/web/artificial-intelligence/cai",
+      "https://www.cambridge.org/core/journals/international-legal-materials/article/framework-convention-on-artificial-intelligence-and-human-rights-democracy-and-the-rule-of-law-council-eur/0CCDA03299BF85537031F1CA26CF2CBD"
+    ]
+  },
+  {
     "id": "kt:cuda",
     "title": "CUDA",
     "aliases": [

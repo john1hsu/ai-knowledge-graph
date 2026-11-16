@@ -7,12 +7,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:google-deepmind` | `kt:google`, `kt:alphago-zero`, `kt:alphago`, `kt:alphazero`, `kt:deep-q-network` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:ai-hardware` | `kt:ai-accelerator`, `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
+| `kt:ai-risk-management` | `kt:council-of-europe-framework-convention-on-ai`, `kt:iso-iec-42001`, `kt:nist-ai-risk-management-framework`, `kt:oecd-ai-principles` |
 | `kt:heuristic-search` | `kt:deep-blue`, `kt:logic-theorist`, `kt:beam-search`, `kt:tree-of-thoughts` |
 | `kt:openai` | `kt:clip`, `kt:gsm8k`, `kt:proximal-policy-optimization`, `kt:concrete-problems-in-ai-safety` |
 | `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:latent-diffusion-model`, `kt:generative-model` |
 | `kt:adagrad` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:glove` |
-| `kt:ai-risk-management` | `kt:iso-iec-42001`, `kt:nist-ai-risk-management-framework`, `kt:oecd-ai-principles` |
 | `kt:application-specific-integrated-circuit` | `kt:deep-blue`, `kt:ai-accelerator`, `kt:tpu` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
 | `kt:fairness-accountability-and-transparency` | `kt:algorithmic-bias-and-fairness`, `kt:datasheets-for-datasets`, `kt:model-cards` |
@@ -163,6 +163,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:constitutional-ai-harmlessness-from-ai-feedback` | `kt:constitutional-ai` |
 | `kt:constrained-decoding` | `kt:structured-output` |
 | `kt:contextual-calibration` | `kt:prompt-sensitivity` |
+| `kt:council-of-europe` | `kt:council-of-europe-framework-convention-on-ai` |
 | `kt:cross-entropy` | `kt:perplexity` |
 | `kt:cudnn` | `kt:cuda` |
 | `kt:cutlass` | `kt:tensor-cores` |
