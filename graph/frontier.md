@@ -20,6 +20,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:contrastive-learning` | `kt:clip`, `kt:representation-learning`, `kt:self-supervised-learning` |
 | `kt:fairness-accountability-and-transparency` | `kt:algorithmic-bias-and-fairness`, `kt:datasheets-for-datasets`, `kt:model-cards` |
 | `kt:foundation-model` | `kt:self-supervised-learning`, `kt:transfer-learning`, `kt:large-language-model` |
+| `kt:knowledge-representation` | `kt:expert-systems`, `kt:symbolic-ai`, `kt:knowledge-graph` |
 | `kt:machine-translation` | `kt:bleu`, `kt:wmt-2014`, `kt:natural-language-processing` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
 | `kt:microsoft-research` | `kt:autogen`, `kt:residual-connection`, `kt:graphrag` |
@@ -61,8 +62,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:induction-head` | `kt:mechanistic-interpretability`, `kt:in-context-learning` |
 | `kt:iso-iec-27001` | `kt:iso-iec-42001`, `kt:iso-iec-42001` |
 | `kt:john-mccarthy` | `kt:artificial-intelligence`, `kt:dartmouth-workshop` |
-| `kt:knowledge-graph` | `kt:graphrag`, `kt:named-entity-recognition` |
-| `kt:knowledge-representation` | `kt:expert-systems`, `kt:symbolic-ai` |
 | `kt:language-model` | `kt:perplexity`, `kt:large-language-model` |
 | `kt:latent-semantic-analysis` | `kt:glove`, `kt:semantic-search` |
 | `kt:logistic-regression` | `kt:conditional-random-field`, `kt:bradley-terry-model` |
@@ -284,6 +283,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:karl-pearson` | `kt:principal-component-analysis` |
 | `kt:kernel-pca` | `kt:principal-component-analysis` |
 | `kt:knowledge-base` | `kt:expert-systems` |
+| `kt:knowledge-graph-embedding` | `kt:knowledge-graph` |
 | `kt:langchain` | `kt:langgraph` |
 | `kt:language-server-protocol` | `kt:model-context-protocol` |
 | `kt:large-language-monkeys` | `kt:self-consistency` |
@@ -396,6 +396,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:relation-extraction` | `kt:named-entity-recognition` |
 | `kt:relative-position-representations` | `kt:positional-encoding` |
 | `kt:representation-learning-a-review-and-new-perspectives` | `kt:representation-learning` |
+| `kt:resource-description-framework` | `kt:knowledge-graph` |
 | `kt:retrieval-augmented-generation-for-knowledge-intensive-nlp-tasks` | `kt:retrieval-augmented-generation` |
 | `kt:rewardbench` | `kt:reward-model` |
 | `kt:richard-bellman` | `kt:markov-decision-process` |

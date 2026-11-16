@@ -2822,6 +2822,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/distilling-the-knowledge-in-a-neural-network> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/distilbert> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph> <http://www.w3.org/2000/01/rdf-schema#label> "Knowledge graph" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph> <http://www.w3.org/2004/02/skos/core#altLabel> "KG" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph> <http://www.w3.org/2004/02/skos/core#altLabel> "entity graph" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph> <http://www.w3.org/2004/02/skos/core#altLabel> "knowledge graphs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-representation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph> <http://www.w3.org/2004/02/skos/core#definition> "A graph of data meant to accumulate and convey knowledge of the real world, in which nodes stand for entities and labelled edges for the relations between them, often paired with an ontology or schema that fixes what the labels mean." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph> <http://www.w3.org/2004/02/skos/core#prefLabel> "Knowledge graph" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/named-entity-recognition> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/resource-description-framework> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/vector-database> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "retrieval-and-knowledge" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/graphrag> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph-embedding> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <http://purl.org/dc/terms/created> "2026-11-14" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <http://www.w3.org/2000/01/rdf-schema#label> "KV cache" .
@@ -7860,6 +7886,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-distillation/s6> <https://schema.org/url> "https://arxiv.org/pdf/2006.05525v6" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s1> <http://purl.org/dc/terms/publisher> "ACM Computing Surveys 54(4), Article 71, 2021 (Hogan, Blomqvist, Cochez, d'Amato, de Melo, Gutierrez et al.), DOI 10.1145/3447772; university repository copy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s1> <http://purl.org/dc/terms/title> "Knowledge Graphs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s1> <https://schema.org/url> "https://iris.unibs.it/bitstream/11379/551223/2/3447772.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s2> <http://purl.org/dc/terms/publisher> "Google (Amit Singhal), The Keyword blog, 16 May 2012" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s2> <http://purl.org/dc/terms/title> "Introducing the Knowledge Graph: things, not strings" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s2> <https://schema.org/url> "https://blog.google/products/search/introducing-knowledge-graph-things-not/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s3> <http://purl.org/dc/terms/publisher> "W3C Recommendation, 25 February 2014" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s3> <http://purl.org/dc/terms/title> "RDF 1.1 Concepts and Abstract Syntax" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "standards-body" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s3> <https://schema.org/url> "https://w3.org/TR/rdf11-concepts/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s4> <http://purl.org/dc/terms/publisher> "NeurIPS 2013 (Bordes, Usunier, Garcia-Duran, Weston and Yakhnenko)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s4> <http://purl.org/dc/terms/title> "Translating Embeddings for Modeling Multi-relational Data" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s4> <https://schema.org/url> "https://proceedings.neurips.cc/paper/5071-translating-embeddings-for-modeling-multi-rela" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s5> <http://purl.org/dc/terms/publisher> "Communications of the ACM 57, 2014 (Vrandečić and Krötzsch); Google Research publication page" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s5> <http://purl.org/dc/terms/title> "Wikidata: A Free Collaborative Knowledge Base" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s5> <https://schema.org/url> "https://research.google/pubs/wikidata-a-free-collaborative-knowledge-base/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s6> <http://purl.org/dc/terms/publisher> "arXiv:2306.08302 v3, Jan 2024 (Pan, Luo, Wang, Chen, Wang and Wu); DOI 10.1109/TKDE.2024.3352100" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s6> <http://purl.org/dc/terms/title> "Unifying Large Language Models and Knowledge Graphs: A Roadmap" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s6> <https://schema.org/url> "https://arxiv.org/abs/2306.08302" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s1> <http://purl.org/dc/terms/publisher> "Hugging Face Transformers documentation" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s1> <http://purl.org/dc/terms/title> "Cache strategies (KV cache)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

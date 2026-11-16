@@ -15756,6 +15756,99 @@
       ]
     },
     {
+      "@id": "kt:knowledge-graph",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Knowledge graph",
+      "skos:definition": "A graph of data meant to accumulate and convey knowledge of the real world, in which nodes stand for entities and labelled edges for the relations between them, often paired with an ontology or schema that fixes what the labels mean.",
+      "kto:domain": "retrieval-and-knowledge",
+      "dcterms:created": "2026-11-16",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Knowledge Graphs",
+          "dcterms:publisher": "ACM Computing Surveys 54(4), Article 71, 2021 (Hogan, Blomqvist, Cochez, d'Amato, de Melo, Gutierrez et al.), DOI 10.1145/3447772; university repository copy",
+          "schema:url": "https://iris.unibs.it/bitstream/11379/551223/2/3447772.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Introducing the Knowledge Graph: things, not strings",
+          "dcterms:publisher": "Google (Amit Singhal), The Keyword blog, 16 May 2012",
+          "schema:url": "https://blog.google/products/search/introducing-knowledge-graph-things-not/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "RDF 1.1 Concepts and Abstract Syntax",
+          "dcterms:publisher": "W3C Recommendation, 25 February 2014",
+          "schema:url": "https://w3.org/TR/rdf11-concepts/",
+          "kto:sourceType": "standards-body"
+        },
+        {
+          "dcterms:title": "Translating Embeddings for Modeling Multi-relational Data",
+          "dcterms:publisher": "NeurIPS 2013 (Bordes, Usunier, Garcia-Duran, Weston and Yakhnenko)",
+          "schema:url": "https://proceedings.neurips.cc/paper/5071-translating-embeddings-for-modeling-multi-rela",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Wikidata: A Free Collaborative Knowledge Base",
+          "dcterms:publisher": "Communications of the ACM 57, 2014 (Vrandečić and Krötzsch); Google Research publication page",
+          "schema:url": "https://research.google/pubs/wikidata-a-free-collaborative-knowledge-base/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Unifying Large Language Models and Knowledge Graphs: A Roadmap",
+          "dcterms:publisher": "arXiv:2306.08302 v3, Jan 2024 (Pan, Luo, Wang, Chen, Wang and Wu); DOI 10.1109/TKDE.2024.3352100",
+          "schema:url": "https://arxiv.org/abs/2306.08302",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/retrieval-and-knowledge/knowledge-graph.md",
+      "skos:altLabel": [
+        "KG",
+        "knowledge graphs",
+        "entity graph"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:knowledge-representation"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:named-entity-recognition"
+        },
+        {
+          "@id": "kt:retrieval-augmented-generation"
+        },
+        {
+          "@id": "kt:semantic-search"
+        },
+        {
+          "@id": "kt:embeddings"
+        },
+        {
+          "@id": "kt:symbolic-ai"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:graphrag"
+        },
+        {
+          "@id": "kt:knowledge-graph-embedding"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:vector-database"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:resource-description-framework"
+        }
+      ]
+    },
+    {
       "@id": "kt:named-entity-recognition",
       "@type": "kto:Application",
       "skos:prefLabel": "Named-entity recognition",

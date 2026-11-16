@@ -2385,6 +2385,28 @@
     ]
   },
   {
+    "id": "kt:knowledge-graph",
+    "title": "Knowledge graph",
+    "aliases": [
+      "KG",
+      "knowledge graphs",
+      "entity graph"
+    ],
+    "type": "Concept",
+    "domain": "retrieval-and-knowledge",
+    "file": "articles/retrieval-and-knowledge/knowledge-graph.md",
+    "created": "2026-11-16",
+    "maturity": "established",
+    "source_urls": [
+      "https://iris.unibs.it/bitstream/11379/551223/2/3447772.pdf",
+      "https://blog.google/products/search/introducing-knowledge-graph-things-not/",
+      "https://w3.org/TR/rdf11-concepts/",
+      "https://proceedings.neurips.cc/paper/5071-translating-embeddings-for-modeling-multi-rela",
+      "https://research.google/pubs/wikidata-a-free-collaborative-knowledge-base/",
+      "https://arxiv.org/abs/2306.08302"
+    ]
+  },
+  {
     "id": "kt:kv-cache",
     "title": "KV cache",
     "aliases": [
