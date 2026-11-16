@@ -2853,6 +2853,33 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "agents-and-tool-use" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/pregel> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/langgraph> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Work> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> <http://www.w3.org/2000/01/rdf-schema#label> "Language Models are Few-Shot Learners" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> <http://www.w3.org/2004/02/skos/core#altLabel> "Brown et al. 2020" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> <http://www.w3.org/2004/02/skos/core#altLabel> "the GPT-3 paper" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> <http://www.w3.org/2004/02/skos/core#definition> "The 2020 NeurIPS paper by Brown and 30 OpenAI colleagues that introduced GPT-3, a 175-billion-parameter autoregressive Transformer, and showed that a large enough language model can perform many tasks from a text prompt and a handful of examples, with no gradient updates or fine-tuning." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> <http://www.w3.org/2004/02/skos/core#prefLabel> "Language Models are Few-Shot Learners" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-prompting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/language-models-are-few-shot-learners/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/language-models-are-few-shot-learners/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/language-models-are-few-shot-learners/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/language-models-are-few-shot-learners/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/language-models-are-few-shot-learners/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/openai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "transformers-and-llms" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/triviaqa> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/sparse-transformer> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> <http://www.w3.org/2000/01/rdf-schema#label> "Large language model" .
@@ -7766,6 +7793,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s7> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/langgraph/s7> <https://schema.org/url> "https://www.microsoft.com/en-us/research/publication/autogen-enabling-next-gen-llm-applications-via-multi-agent-conversation-framework" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/language-models-are-few-shot-learners/s1> <http://purl.org/dc/terms/publisher> "Brown et al., Advances in Neural Information Processing Systems 33 (NeurIPS 2020), pp. 1877–1901, proceedings abstract page" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/language-models-are-few-shot-learners/s1> <http://purl.org/dc/terms/title> "Language Models are Few-Shot Learners" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/language-models-are-few-shot-learners/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/language-models-are-few-shot-learners/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/language-models-are-few-shot-learners/s1> <https://schema.org/url> "https://papers.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/language-models-are-few-shot-learners/s2> <http://purl.org/dc/terms/publisher> "Brown et al., OpenAI, authors' arXiv version (v1 28 May 2020; v4 22 July 2020)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/language-models-are-few-shot-learners/s2> <http://purl.org/dc/terms/title> "Language Models are Few-Shot Learners (arXiv 2005.14165, v4)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/language-models-are-few-shot-learners/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/language-models-are-few-shot-learners/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/language-models-are-few-shot-learners/s2> <https://schema.org/url> "https://arxiv.org/pdf/2005.14165" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/language-models-are-few-shot-learners/s3> <http://purl.org/dc/terms/publisher> "Zhang, Lipton, Li and Smola, d2l.ai" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/language-models-are-few-shot-learners/s3> <http://purl.org/dc/terms/title> "Dive into Deep Learning, 11.9: Large-Scale Pretraining with Transformers" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/language-models-are-few-shot-learners/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/language-models-are-few-shot-learners/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/language-models-are-few-shot-learners/s3> <https://schema.org/url> "https://d2l.ai/chapter_attention-mechanisms-and-transformers/large-pretraining-transformers.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/language-models-are-few-shot-learners/s4> <http://purl.org/dc/terms/publisher> "Stanford University, CS324 lecture notes (Winter 2022)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/language-models-are-few-shot-learners/s4> <http://purl.org/dc/terms/title> "CS324 Large Language Models: Capabilities" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/language-models-are-few-shot-learners/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/language-models-are-few-shot-learners/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/language-models-are-few-shot-learners/s4> <https://schema.org/url> "https://stanford-cs324.github.io/winter2022/lectures/capabilities" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/language-models-are-few-shot-learners/s5> <http://purl.org/dc/terms/publisher> "OpenAI blog, 11 June 2020 (updated 18 September 2020)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/language-models-are-few-shot-learners/s5> <http://purl.org/dc/terms/title> "OpenAI API" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/language-models-are-few-shot-learners/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/language-models-are-few-shot-learners/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/language-models-are-few-shot-learners/s5> <https://schema.org/url> "https://openai.com/index/openai-api/" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s1> <http://purl.org/dc/terms/publisher> "D. Jurafsky and J. H. Martin, Stanford University (draft of August 2026)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s1> <http://purl.org/dc/terms/title> "Speech and Language Processing (3rd ed. draft), Chapter 7: Transformers and Pretraining" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/large-language-model/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

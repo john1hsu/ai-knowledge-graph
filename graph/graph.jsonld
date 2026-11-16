@@ -19426,6 +19426,105 @@
       ]
     },
     {
+      "@id": "kt:language-models-are-few-shot-learners",
+      "@type": "kto:Work",
+      "skos:prefLabel": "Language Models are Few-Shot Learners",
+      "skos:definition": "The 2020 NeurIPS paper by Brown and 30 OpenAI colleagues that introduced GPT-3, a 175-billion-parameter autoregressive Transformer, and showed that a large enough language model can perform many tasks from a text prompt and a handful of examples, with no gradient updates or fine-tuning.",
+      "kto:domain": "transformers-and-llms",
+      "dcterms:created": "2026-11-16",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Language Models are Few-Shot Learners",
+          "dcterms:publisher": "Brown et al., Advances in Neural Information Processing Systems 33 (NeurIPS 2020), pp. 1877–1901, proceedings abstract page",
+          "schema:url": "https://papers.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Language Models are Few-Shot Learners (arXiv 2005.14165, v4)",
+          "dcterms:publisher": "Brown et al., OpenAI, authors' arXiv version (v1 28 May 2020; v4 22 July 2020)",
+          "schema:url": "https://arxiv.org/pdf/2005.14165",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Dive into Deep Learning, 11.9: Large-Scale Pretraining with Transformers",
+          "dcterms:publisher": "Zhang, Lipton, Li and Smola, d2l.ai",
+          "schema:url": "https://d2l.ai/chapter_attention-mechanisms-and-transformers/large-pretraining-transformers.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "CS324 Large Language Models: Capabilities",
+          "dcterms:publisher": "Stanford University, CS324 lecture notes (Winter 2022)",
+          "schema:url": "https://stanford-cs324.github.io/winter2022/lectures/capabilities",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "OpenAI API",
+          "dcterms:publisher": "OpenAI blog, 11 June 2020 (updated 18 September 2020)",
+          "schema:url": "https://openai.com/index/openai-api/",
+          "kto:sourceType": "lab-research"
+        }
+      ],
+      "kto:file": "articles/transformers-and-llms/language-models-are-few-shot-learners.md",
+      "skos:altLabel": [
+        "Brown et al. 2020",
+        "the GPT-3 paper"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:pretraining"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:in-context-learning"
+        },
+        {
+          "@id": "kt:few-shot-prompting"
+        },
+        {
+          "@id": "kt:zero-shot-prompting"
+        },
+        {
+          "@id": "kt:scaling-laws"
+        },
+        {
+          "@id": "kt:benchmark-contamination"
+        },
+        {
+          "@id": "kt:attention-is-all-you-need"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:openai"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:transformer-architecture"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:sparse-transformer"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:in-context-learning"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:triviaqa"
+        }
+      ]
+    },
+    {
       "@id": "kt:large-language-model",
       "@type": "kto:Concept",
       "skos:prefLabel": "Large language model",

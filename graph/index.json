@@ -2408,6 +2408,26 @@
     ]
   },
   {
+    "id": "kt:language-models-are-few-shot-learners",
+    "title": "Language Models are Few-Shot Learners",
+    "aliases": [
+      "Brown et al. 2020",
+      "the GPT-3 paper"
+    ],
+    "type": "Work",
+    "domain": "transformers-and-llms",
+    "file": "articles/transformers-and-llms/language-models-are-few-shot-learners.md",
+    "created": "2026-11-16",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://papers.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html",
+      "https://arxiv.org/pdf/2005.14165",
+      "https://d2l.ai/chapter_attention-mechanisms-and-transformers/large-pretraining-transformers.html",
+      "https://stanford-cs324.github.io/winter2022/lectures/capabilities",
+      "https://openai.com/index/openai-api/"
+    ]
+  },
+  {
     "id": "kt:large-language-model",
     "title": "Large language model",
     "aliases": [
