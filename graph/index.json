@@ -1103,6 +1103,29 @@
     ]
   },
   {
+    "id": "kt:connectionism",
+    "title": "Connectionism",
+    "aliases": [
+      "connectionist AI",
+      "parallel distributed processing",
+      "PDP",
+      "neuronlike computing",
+      "connectionist models of cognition"
+    ],
+    "type": "Paradigm",
+    "domain": "ai-history",
+    "file": "articles/ai-history/connectionism.md",
+    "created": "2026-11-16",
+    "maturity": "historical",
+    "source_urls": [
+      "https://plato.stanford.edu/entries/connectionism/",
+      "https://stanford.edu/%7Ejlmcc/papers/ThomasMcCIPCambEncy.pdf",
+      "https://www.britannica.com/technology/artificial-intelligence/Connectionism",
+      "https://ui.adsabs.harvard.edu/abs/1986Natur.323..533R/abstract",
+      "https://pages.ucsd.edu/~msereno/_170_2003/fodor-pylyshyn.pdf"
+    ]
+  },
+  {
     "id": "kt:constitutional-ai",
     "title": "Constitutional AI",
     "aliases": [

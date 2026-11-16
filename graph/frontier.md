@@ -4,7 +4,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:connectionism` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:artificial-intelligence`, `kt:geoffrey-hinton`, `kt:perceptron`, `kt:symbolic-ai` |
 | `kt:google-deepmind` | `kt:google`, `kt:alphago-zero`, `kt:alphago`, `kt:alphazero`, `kt:deep-q-network` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:ai-hardware` | `kt:ai-accelerator`, `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
@@ -148,6 +147,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:claude` | `kt:constitutional-ai` |
 | `kt:cliff-shaw` | `kt:logic-theorist` |
 | `kt:clipper-prediction-serving-system` | `kt:model-serving` |
+| `kt:cognitive-science` | `kt:connectionism` |
 | `kt:colbert` | `kt:reranking` |
 | `kt:commonsense-reasoning` | `kt:commonsenseqa` |
 | `kt:commonsenseqa-2-0` | `kt:commonsenseqa` |
