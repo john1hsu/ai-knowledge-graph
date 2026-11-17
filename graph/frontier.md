@@ -134,6 +134,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:beir-a-heterogeneous-benchmark-for-zero-shot-evaluation-of-information-retrieval-models` | `kt:beir` |
 | `kt:berkeley-function-calling-leaderboard` | `kt:tool-use` |
 | `kt:big-bench` | `kt:emergent-abilities` |
+| `kt:big-bench-hard` | `kt:program-aided-language-models` |
 | `kt:bleu-a-method-for-automatic-evaluation-of-machine-translation` | `kt:bleu` |
 | `kt:boltzmann-machine` | `kt:geoffrey-hinton` |
 | `kt:boosting` | `kt:ensemble-methods` |
@@ -368,6 +369,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:outlines` | `kt:structured-output` |
 | `kt:pac-learning` | `kt:statistical-learning-theory` |
 | `kt:paired-comparison` | `kt:bradley-terry-model` |
+| `kt:pal-program-aided-language-models` | `kt:program-aided-language-models` |
 | `kt:parameter-efficient-transfer-learning-for-nlp` | `kt:parameter-efficient-fine-tuning` |
 | `kt:partially-observable-markov-decision-process` | `kt:markov-decision-process` |
 | `kt:pattern-recognition` | `kt:computer-vision` |
@@ -384,6 +386,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:probabilistic-graphical-model` | `kt:conditional-random-field` |
 | `kt:process-reward-model` | `kt:test-time-compute` |
 | `kt:program-induction` | `kt:program-induction-by-rationale-generation` |
+| `kt:program-of-thoughts` | `kt:program-aided-language-models` |
 | `kt:prompt-tuning` | `kt:parameter-efficient-fine-tuning` |
 | `kt:proximal-policy-optimization-algorithms` | `kt:proximal-policy-optimization` |
 | `kt:pytorch-an-imperative-style-high-performance-deep-learning-library` | `kt:pytorch` |

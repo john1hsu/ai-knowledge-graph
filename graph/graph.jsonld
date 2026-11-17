@@ -13452,6 +13452,87 @@
       ]
     },
     {
+      "@id": "kt:program-aided-language-models",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Program-aided language models",
+      "skos:definition": "A few-shot prompting technique in which a language model writes its intermediate reasoning as a short program, and an external interpreter (typically Python) executes that program to produce the final answer, so the model only has to decompose the problem while the runtime does the computation.",
+      "kto:domain": "prompting-and-reasoning",
+      "dcterms:created": "2026-11-17",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "PAL: Program-aided Language Models",
+          "dcterms:publisher": "arXiv 2211.10435 (Gao, Madaan, Zhou, Alon, Liu, Yang, Callan, Neubig)",
+          "schema:url": "https://arxiv.org/pdf/2211.10435",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "PAL: Program-aided Language Models (ICML 2023, PMLR 202:10764-10799)",
+          "dcterms:publisher": "Proceedings of Machine Learning Research",
+          "schema:url": "https://proceedings.mlr.press/v202/gao23f.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks",
+          "dcterms:publisher": "arXiv 2211.12588 (Chen, Ma, Wang, Cohen; TMLR 2023)",
+          "schema:url": "https://arxiv.org/abs/2211.12588",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Augmented Language Models: a Survey",
+          "dcterms:publisher": "arXiv 2302.07842 (Mialon et al., Meta AI; TMLR 2023)",
+          "schema:url": "https://arxiv.org/pdf/2302.07842v1.pdf",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/prompting-and-reasoning/program-aided-language-models.md",
+      "skos:altLabel": [
+        "PAL",
+        "PAL prompting",
+        "program-aided language model prompting"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:prompt-engineering"
+        },
+        {
+          "@id": "kt:tool-use"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:program-of-thoughts"
+        },
+        {
+          "@id": "kt:scratchpad"
+        },
+        {
+          "@id": "kt:self-consistency"
+        },
+        {
+          "@id": "kt:toolformer"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:pal-program-aided-language-models"
+        }
+      ],
+      "kto:extends": [
+        {
+          "@id": "kt:chain-of-thought"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:gsm8k"
+        },
+        {
+          "@id": "kt:big-bench-hard"
+        }
+      ]
+    },
+    {
       "@id": "kt:program-induction-by-rationale-generation",
       "@type": "kto:Work",
       "skos:prefLabel": "Program Induction by Rationale Generation: Learning to Solve and Explain Algebraic Word Problems",

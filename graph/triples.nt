@@ -4261,6 +4261,30 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ml-foundations" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/scikit-learn> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/program-aided-language-models> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/program-aided-language-models> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/program-aided-language-models> <http://www.w3.org/2000/01/rdf-schema#label> "Program-aided language models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/program-aided-language-models> <http://www.w3.org/2004/02/skos/core#altLabel> "PAL prompting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/program-aided-language-models> <http://www.w3.org/2004/02/skos/core#altLabel> "PAL" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/program-aided-language-models> <http://www.w3.org/2004/02/skos/core#altLabel> "program-aided language model prompting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/program-aided-language-models> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/program-aided-language-models> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/program-aided-language-models> <http://www.w3.org/2004/02/skos/core#definition> "A few-shot prompting technique in which a language model writes its intermediate reasoning as a short program, and an external interpreter (typically Python) executes that program to produce the final answer, so the model only has to decompose the problem while the runtime does the computation." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/program-aided-language-models> <http://www.w3.org/2004/02/skos/core#prefLabel> "Program-aided language models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/program-aided-language-models> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/program-of-thoughts> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/program-aided-language-models> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/scratchpad> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/program-aided-language-models> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/self-consistency> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/program-aided-language-models> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/toolformer> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/program-aided-language-models> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/program-aided-language-models/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/program-aided-language-models> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/program-aided-language-models/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/program-aided-language-models> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/program-aided-language-models/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/program-aided-language-models> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/program-aided-language-models/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/program-aided-language-models> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "prompting-and-reasoning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/program-aided-language-models> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/big-bench-hard> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/program-aided-language-models> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/program-aided-language-models> <https://github.com/john1hsu/ai-knowledge-graph/ontology#extends> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/program-aided-language-models> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/pal-program-aided-language-models> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/program-aided-language-models> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/program-induction-by-rationale-generation> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/program-induction-by-rationale-generation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Work> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/program-induction-by-rationale-generation> <http://www.w3.org/2000/01/rdf-schema#label> "Program Induction by Rationale Generation: Learning to Solve and Explain Algebraic Word Problems" .
@@ -9668,6 +9692,26 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/principal-component-analysis/s6> <https://schema.org/url> "https://scikit-learn.org/1.8/modules/generated/sklearn.decomposition.PCA.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/program-aided-language-models/s1> <http://purl.org/dc/terms/publisher> "arXiv 2211.10435 (Gao, Madaan, Zhou, Alon, Liu, Yang, Callan, Neubig)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/program-aided-language-models/s1> <http://purl.org/dc/terms/title> "PAL: Program-aided Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/program-aided-language-models/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/program-aided-language-models/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/program-aided-language-models/s1> <https://schema.org/url> "https://arxiv.org/pdf/2211.10435" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/program-aided-language-models/s2> <http://purl.org/dc/terms/publisher> "Proceedings of Machine Learning Research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/program-aided-language-models/s2> <http://purl.org/dc/terms/title> "PAL: Program-aided Language Models (ICML 2023, PMLR 202:10764-10799)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/program-aided-language-models/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/program-aided-language-models/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/program-aided-language-models/s2> <https://schema.org/url> "https://proceedings.mlr.press/v202/gao23f.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/program-aided-language-models/s3> <http://purl.org/dc/terms/publisher> "arXiv 2211.12588 (Chen, Ma, Wang, Cohen; TMLR 2023)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/program-aided-language-models/s3> <http://purl.org/dc/terms/title> "Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/program-aided-language-models/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/program-aided-language-models/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/program-aided-language-models/s3> <https://schema.org/url> "https://arxiv.org/abs/2211.12588" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/program-aided-language-models/s4> <http://purl.org/dc/terms/publisher> "arXiv 2302.07842 (Mialon et al., Meta AI; TMLR 2023)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/program-aided-language-models/s4> <http://purl.org/dc/terms/title> "Augmented Language Models: a Survey" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/program-aided-language-models/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/program-aided-language-models/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/program-aided-language-models/s4> <https://schema.org/url> "https://arxiv.org/pdf/2302.07842v1.pdf" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/program-induction-by-rationale-generation/s1> <http://purl.org/dc/terms/publisher> "Proceedings of ACL 2017 (Volume 1, Long Papers), pp. 158-167, DOI 10.18653/v1/P17-1015" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/program-induction-by-rationale-generation/s1> <http://purl.org/dc/terms/title> "Program Induction by Rationale Generation: Learning to Solve and Explain Algebraic Word Problems" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/program-induction-by-rationale-generation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
