@@ -6096,6 +6096,106 @@
       ]
     },
     {
+      "@id": "kt:autoencoder",
+      "@type": "kto:Architecture",
+      "skos:prefLabel": "Autoencoder",
+      "skos:definition": "A neural network trained to reproduce its own input, made of an encoder that maps the input to a constrained internal code and a decoder that reconstructs the input from that code, so that the code becomes a learned representation of the data.",
+      "kto:domain": "deep-learning",
+      "dcterms:created": "2026-11-17",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chapter: Autoencoders (6.390 Introduction to Machine Learning lecture notes, Fall 2024)",
+          "dcterms:publisher": "MIT EECS",
+          "schema:url": "https://introml.mit.edu/_static/fall24/LectureNotes/chapter_Autoencoders.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Reducing the Dimensionality of Data with Neural Networks",
+          "dcterms:publisher": "Science 313(5786), 504–507, 2006 (Hinton and Salakhutdinov); author copy hosted by UC Irvine",
+          "schema:url": "https://sites.socsci.uci.edu/~lpearl/courses/readings/HintonSalakhudinov2006_DeepBeliefScience.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Extracting and Composing Robust Features with Denoising Autoencoders",
+          "dcterms:publisher": "ICML 2008 (Vincent, Larochelle, Bengio and Manzagol)",
+          "schema:url": "https://icml.cc/imls/conferences/2008/papers/592.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Auto-Encoding Variational Bayes",
+          "dcterms:publisher": "arXiv:1312.6114 (v11, December 2022; Kingma and Welling)",
+          "schema:url": "https://arxiv.org/abs/1312.6114v11",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Towards Monosemanticity: Decomposing Language Models With Dictionary Learning",
+          "dcterms:publisher": "Anthropic, Transformer Circuits Thread (Bricken et al., October 2023)",
+          "schema:url": "https://transformer-circuits.pub/2023/monosemantic-features/",
+          "kto:sourceType": "lab-research"
+        }
+      ],
+      "kto:file": "articles/deep-learning/autoencoder.md",
+      "skos:altLabel": [
+        "auto-encoder",
+        "autoassociative neural network",
+        "denoising autoencoder"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:artificial-neural-network"
+        },
+        {
+          "@id": "kt:unsupervised-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:representation-learning"
+        },
+        {
+          "@id": "kt:dimensionality-reduction"
+        },
+        {
+          "@id": "kt:principal-component-analysis"
+        },
+        {
+          "@id": "kt:self-supervised-learning"
+        },
+        {
+          "@id": "kt:mechanistic-interpretability"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:reducing-the-dimensionality-of-data-with-neural-networks"
+        }
+      ],
+      "kto:trainedWith": [
+        {
+          "@id": "kt:backpropagation"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:variational-autoencoder"
+        },
+        {
+          "@id": "kt:sparse-autoencoder"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:principal-component-analysis"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:latent-diffusion-model"
+        }
+      ]
+    },
+    {
       "@id": "kt:backpropagation",
       "@type": "kto:Algorithm",
       "skos:prefLabel": "Backpropagation algorithm",

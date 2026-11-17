@@ -763,6 +763,34 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/image-captioning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autoencoder> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autoencoder> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autoencoder> <http://www.w3.org/2000/01/rdf-schema#label> "Autoencoder" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autoencoder> <http://www.w3.org/2004/02/skos/core#altLabel> "auto-encoder" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autoencoder> <http://www.w3.org/2004/02/skos/core#altLabel> "autoassociative neural network" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autoencoder> <http://www.w3.org/2004/02/skos/core#altLabel> "denoising autoencoder" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autoencoder> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autoencoder> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autoencoder> <http://www.w3.org/2004/02/skos/core#definition> "A neural network trained to reproduce its own input, made of an encoder that maps the input to a constrained internal code and a decoder that reconstructs the input from that code, so that the code becomes a learned representation of the data." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autoencoder> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autoencoder" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autoencoder> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/dimensionality-reduction> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autoencoder> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autoencoder> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autoencoder> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autoencoder> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autoencoder> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/autoencoder/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autoencoder> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/autoencoder/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autoencoder> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/autoencoder/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autoencoder> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/autoencoder/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autoencoder> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/autoencoder/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autoencoder> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/principal-component-analysis> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autoencoder> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "deep-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autoencoder> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/sparse-autoencoder> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autoencoder> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/variational-autoencoder> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autoencoder> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/reducing-the-dimensionality-of-data-with-neural-networks> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autoencoder> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autoencoder> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/autoencoder> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/latent-diffusion-model> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Tool> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <http://www.w3.org/2000/01/rdf-schema#label> "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation" .
@@ -5883,6 +5911,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-mechanism/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-mechanism/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/attention-mechanism/s5> <https://schema.org/url> "https://aclanthology.org/D19-1002/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autoencoder/s1> <http://purl.org/dc/terms/publisher> "MIT EECS" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autoencoder/s1> <http://purl.org/dc/terms/title> "Chapter: Autoencoders (6.390 Introduction to Machine Learning lecture notes, Fall 2024)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autoencoder/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autoencoder/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autoencoder/s1> <https://schema.org/url> "https://introml.mit.edu/_static/fall24/LectureNotes/chapter_Autoencoders.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autoencoder/s2> <http://purl.org/dc/terms/publisher> "Science 313(5786), 504–507, 2006 (Hinton and Salakhutdinov); author copy hosted by UC Irvine" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autoencoder/s2> <http://purl.org/dc/terms/title> "Reducing the Dimensionality of Data with Neural Networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autoencoder/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autoencoder/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autoencoder/s2> <https://schema.org/url> "https://sites.socsci.uci.edu/~lpearl/courses/readings/HintonSalakhudinov2006_DeepBeliefScience.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autoencoder/s3> <http://purl.org/dc/terms/publisher> "ICML 2008 (Vincent, Larochelle, Bengio and Manzagol)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autoencoder/s3> <http://purl.org/dc/terms/title> "Extracting and Composing Robust Features with Denoising Autoencoders" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autoencoder/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autoencoder/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autoencoder/s3> <https://schema.org/url> "https://icml.cc/imls/conferences/2008/papers/592.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autoencoder/s4> <http://purl.org/dc/terms/publisher> "arXiv:1312.6114 (v11, December 2022; Kingma and Welling)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autoencoder/s4> <http://purl.org/dc/terms/title> "Auto-Encoding Variational Bayes" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autoencoder/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autoencoder/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autoencoder/s4> <https://schema.org/url> "https://arxiv.org/abs/1312.6114v11" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autoencoder/s5> <http://purl.org/dc/terms/publisher> "Anthropic, Transformer Circuits Thread (Bricken et al., October 2023)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autoencoder/s5> <http://purl.org/dc/terms/title> "Towards Monosemanticity: Decomposing Language Models With Dictionary Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autoencoder/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autoencoder/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/autoencoder/s5> <https://schema.org/url> "https://transformer-circuits.pub/2023/monosemantic-features/" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s1> <http://purl.org/dc/terms/publisher> "arXiv 2308.08155v2 (Wu et al., Microsoft Research, Penn State, University of Washington, Xidian University; authors' version)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s1> <http://purl.org/dc/terms/title> "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

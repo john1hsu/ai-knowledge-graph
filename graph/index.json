@@ -649,6 +649,27 @@
     ]
   },
   {
+    "id": "kt:autoencoder",
+    "title": "Autoencoder",
+    "aliases": [
+      "auto-encoder",
+      "autoassociative neural network",
+      "denoising autoencoder"
+    ],
+    "type": "Architecture",
+    "domain": "deep-learning",
+    "file": "articles/deep-learning/autoencoder.md",
+    "created": "2026-11-17",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://introml.mit.edu/_static/fall24/LectureNotes/chapter_Autoencoders.pdf",
+      "https://sites.socsci.uci.edu/~lpearl/courses/readings/HintonSalakhudinov2006_DeepBeliefScience.pdf",
+      "https://icml.cc/imls/conferences/2008/papers/592.pdf",
+      "https://arxiv.org/abs/1312.6114v11",
+      "https://transformer-circuits.pub/2023/monosemantic-features/"
+    ]
+  },
+  {
     "id": "kt:autogen",
     "title": "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation",
     "aliases": [

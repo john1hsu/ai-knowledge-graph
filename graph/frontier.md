@@ -6,11 +6,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:openai` | `kt:google-deepmind`, `kt:clip`, `kt:gsm8k`, `kt:proximal-policy-optimization`, `kt:concrete-problems-in-ai-safety`, `kt:language-models-are-few-shot-learners` |
 | `kt:heuristic-search` | `kt:deep-blue`, `kt:general-problem-solver`, `kt:logic-theorist`, `kt:beam-search`, `kt:tree-of-thoughts` |
+| `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:latent-diffusion-model`, `kt:autoencoder`, `kt:generative-model` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:ai-hardware` | `kt:ai-accelerator`, `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
 | `kt:microsoft-research` | `kt:alfworld`, `kt:autogen`, `kt:residual-connection`, `kt:graphrag` |
 | `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
-| `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:latent-diffusion-model`, `kt:generative-model` |
 | `kt:adagrad` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:glove` |
 | `kt:application-specific-integrated-circuit` | `kt:deep-blue`, `kt:ai-accelerator`, `kt:tpu` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
@@ -35,7 +35,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alphabet-inc` | `kt:google-deepmind`, `kt:google` |
 | `kt:anthropic` | `kt:model-context-protocol`, `kt:constitutional-ai` |
 | `kt:apache-lucene` | `kt:bm25`, `kt:tf-idf` |
-| `kt:autoencoder` | `kt:representation-learning`, `kt:dimensionality-reduction` |
 | `kt:automated-planning` | `kt:planning-in-llms`, `kt:general-problem-solver` |
 | `kt:automatic-differentiation` | `kt:pytorch`, `kt:backpropagation` |
 | `kt:catastrophic-forgetting` | `kt:fine-tuning`, `kt:parameter-efficient-fine-tuning` |
@@ -89,6 +88,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:self-correction` | `kt:reflexion`, `kt:self-refine-iterative-refinement-with-self-feedback` |
 | `kt:self-play` | `kt:alphago-zero`, `kt:alphazero` |
 | `kt:self-refine` | `kt:agentic-workflow`, `kt:voyager` |
+| `kt:sparse-autoencoder` | `kt:autoencoder`, `kt:mechanistic-interpretability` |
 | `kt:support-vector-machine` | `kt:perceptron`, `kt:statistical-learning-theory` |
 | `kt:tensorflow-serving` | `kt:model-serving`, `kt:triton-inference-server` |
 | `kt:text-to-image-generation` | `kt:diffusion-model`, `kt:latent-diffusion-model` |
@@ -396,6 +396,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:recommender-system` | `kt:multi-armed-bandit` |
 | `kt:reconciling-modern-machine-learning-practice-and-the-bias-variance-trade-off` | `kt:double-descent` |
 | `kt:rectified-linear-unit` | `kt:activation-function` |
+| `kt:reducing-the-dimensionality-of-data-with-neural-networks` | `kt:autoencoder` |
 | `kt:reinforce-algorithm` | `kt:policy-gradient` |
 | `kt:reinforcement-learning-from-ai-feedback` | `kt:constitutional-ai` |
 | `kt:relation-extraction` | `kt:named-entity-recognition` |
@@ -427,7 +428,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:soft-actor-critic` | `kt:actor-critic` |
 | `kt:softmax-function` | `kt:attention-mechanism` |
 | `kt:softmax-regression` | `kt:image-classification` |
-| `kt:sparse-autoencoder` | `kt:mechanistic-interpretability` |
 | `kt:sparse-transformer` | `kt:language-models-are-few-shot-learners` |
 | `kt:speech-processing` | `kt:automatic-speech-recognition` |
 | `kt:stanford-nlp-group` | `kt:glove` |
