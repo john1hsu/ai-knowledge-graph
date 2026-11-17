@@ -394,6 +394,27 @@
     ]
   },
   {
+    "id": "kt:alfworld",
+    "title": "ALFWorld",
+    "aliases": [
+      "ALFWorld benchmark",
+      "ALFWorld environment"
+    ],
+    "type": "Benchmark",
+    "domain": "agents-and-tool-use",
+    "file": "articles/agents-and-tool-use/alfworld.md",
+    "created": "2026-11-17",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/pdf/2010.03768v2.pdf",
+      "https://iclr.cc/virtual/2021/poster/2973",
+      "https://openaccess.thecvf.com/content_CVPR_2020/html/Shridhar_ALFRED_A_Benchmark_for_Interpreting_Grounded_Instructions_for_Everyday_Tasks_CVPR_2020_paper.html",
+      "https://arxiv.org/pdf/2210.03629",
+      "https://arxiv.org/pdf/2303.11366",
+      "https://arxiv.org/pdf/2308.03688"
+    ]
+  },
+  {
     "id": "kt:algorithmic-bias-and-fairness",
     "title": "Algorithmic bias and fairness",
     "aliases": [

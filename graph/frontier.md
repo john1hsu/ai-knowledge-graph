@@ -10,10 +10,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ai-hardware` | `kt:ai-accelerator`, `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
 | `kt:ai-risk-management` | `kt:council-of-europe-framework-convention-on-ai`, `kt:iso-iec-42001`, `kt:nist-ai-risk-management-framework`, `kt:oecd-ai-principles` |
 | `kt:heuristic-search` | `kt:deep-blue`, `kt:logic-theorist`, `kt:beam-search`, `kt:tree-of-thoughts` |
+| `kt:microsoft-research` | `kt:alfworld`, `kt:autogen`, `kt:residual-connection`, `kt:graphrag` |
 | `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:latent-diffusion-model`, `kt:generative-model` |
 | `kt:adagrad` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:glove` |
-| `kt:alfworld` | `kt:autogen`, `kt:react-prompting`, `kt:reflexion` |
 | `kt:application-specific-integrated-circuit` | `kt:deep-blue`, `kt:ai-accelerator`, `kt:tpu` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
 | `kt:bert` | `kt:reranking`, `kt:self-supervised-learning`, `kt:transformer-architecture` |
@@ -23,7 +23,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:knowledge-representation` | `kt:expert-systems`, `kt:symbolic-ai`, `kt:knowledge-graph` |
 | `kt:machine-translation` | `kt:bleu`, `kt:wmt-2014`, `kt:natural-language-processing` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
-| `kt:microsoft-research` | `kt:autogen`, `kt:residual-connection`, `kt:graphrag` |
 | `kt:ms-coco` | `kt:faster-r-cnn`, `kt:object-detection`, `kt:yolo` |
 | `kt:stochastic-gradient-descent` | `kt:data-parallelism`, `kt:adam-optimizer`, `kt:gradient-descent` |
 | `kt:tensor-parallelism` | `kt:distributed-training`, `kt:pipeline-parallelism`, `kt:orca-serving-system` |
@@ -100,6 +99,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:adam-a-method-for-stochastic-optimization` | `kt:adam-optimizer` |
 | `kt:adamw` | `kt:adam-optimizer` |
 | `kt:adapter-modules` | `kt:parameter-efficient-fine-tuning` |
+| `kt:agentbench` | `kt:alfworld` |
 | `kt:ai-ethics` | `kt:algorithmic-bias-and-fairness` |
 | `kt:ai-governance-a-research-agenda` | `kt:ai-governance` |
 | `kt:ai-safety-gridworlds` | `kt:concrete-problems-in-ai-safety` |
@@ -107,6 +107,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ai-safety-via-debate` | `kt:scalable-oversight` |
 | `kt:alan-turing` | `kt:turing-test` |
 | `kt:alex-graves` | `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
+| `kt:alfred-benchmark` | `kt:alfworld` |
+| `kt:alfworld-aligning-text-and-embodied-environments-for-interactive-learning` | `kt:alfworld` |
 | `kt:alibi` | `kt:positional-encoding` |
 | `kt:allen-institute-for-ai` | `kt:commonsenseqa` |
 | `kt:allen-newell` | `kt:logic-theorist` |
@@ -200,6 +202,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:eliza-a-computer-program-for-the-study-of-natural-language-communication-between-man-and-machine` | `kt:eliza` |
 | `kt:eliza-effect` | `kt:eliza` |
 | `kt:elo-rating-system` | `kt:bradley-terry-model` |
+| `kt:embodied-ai` | `kt:alfworld` |
 | `kt:emergent-abilities-of-large-language-models` | `kt:emergent-abilities` |
 | `kt:empirical-risk-minimization` | `kt:supervised-learning` |
 | `kt:entity-linking` | `kt:named-entity-recognition` |
@@ -438,6 +441,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:t-sne` | `kt:dimensionality-reduction` |
 | `kt:td-gammon` | `kt:temporal-difference-learning` |
 | `kt:tensorflow` | `kt:google` |
+| `kt:textworld` | `kt:alfworld` |
 | `kt:the-leaderboard-illusion` | `kt:chatbot-arena` |
 | `kt:the-logic-theory-machine-a-complex-information-processing-system` | `kt:logic-theorist` |
 | `kt:the-perceptron-a-probabilistic-model-for-information-storage-and-organization-in-the-brain` | `kt:perceptron` |

@@ -451,6 +451,33 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-winter> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/lighthill-report> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-winter> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/strategic-computing-initiative> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-winter> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "historical" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alfworld> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alfworld> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Benchmark> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alfworld> <http://www.w3.org/2000/01/rdf-schema#label> "ALFWorld" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alfworld> <http://www.w3.org/2004/02/skos/core#altLabel> "ALFWorld benchmark" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alfworld> <http://www.w3.org/2004/02/skos/core#altLabel> "ALFWorld environment" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alfworld> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alfworld> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alfworld> <http://www.w3.org/2004/02/skos/core#definition> "An interactive simulator, introduced at ICLR 2021 by researchers from the University of Washington, Microsoft Research and Carnegie Mellon, that pairs text-adventure versions of household tasks with their visually embodied counterparts from the ALFRED benchmark; its text games became a standard testbed for LLM agents such as ReAct and Reflexion." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alfworld> <http://www.w3.org/2004/02/skos/core#prefLabel> "ALFWorld" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alfworld> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/embodied-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alfworld> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alfworld> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alfworld> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alfworld> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alfworld> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alfworld> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alfworld> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alfworld> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alfworld> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/alfred-benchmark> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alfworld> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/textworld> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alfworld> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/microsoft-research> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alfworld> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "agents-and-tool-use" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alfworld> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/alfworld-aligning-text-and-embodied-environments-for-interactive-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alfworld> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alfworld> <https://github.com/john1hsu/ai-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/ai-knowledge-graph/id/agentbench> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alfworld> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/react-prompting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/alfworld> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/reflexion> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Risk> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <http://www.w3.org/2000/01/rdf-schema#label> "Algorithmic bias and fairness" .
@@ -5411,6 +5438,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-winter/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-winter/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-winter/s5> <https://schema.org/url> "https://www.cambridge.org/core/books/quest-for-artificial-intelligence/darpas-strategic-computing-program/2DED975CB010E48E9D3E1850A75C7AE4" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s1> <http://purl.org/dc/terms/publisher> "arXiv 2010.03768 (Shridhar, Yuan, Côté, Bisk, Trischler, Hausknecht; authors' version)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s1> <http://purl.org/dc/terms/title> "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning (v2)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s1> <https://schema.org/url> "https://arxiv.org/pdf/2010.03768v2.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s2> <http://purl.org/dc/terms/publisher> "ICLR 2021" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s2> <http://purl.org/dc/terms/title> "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning (poster)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s2> <https://schema.org/url> "https://iclr.cc/virtual/2021/poster/2973" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s3> <http://purl.org/dc/terms/publisher> "CVPR 2020 (Shridhar et al.), CVF Open Access" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s3> <http://purl.org/dc/terms/title> "ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s3> <https://schema.org/url> "https://openaccess.thecvf.com/content_CVPR_2020/html/Shridhar_ALFRED_A_Benchmark_for_Interpreting_Grounded_Instructions_for_Everyday_Tasks_CVPR_2020_paper.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s4> <http://purl.org/dc/terms/publisher> "arXiv 2210.03629 (Yao et al.; authors' version, ICLR 2023)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s4> <http://purl.org/dc/terms/title> "ReAct: Synergizing Reasoning and Acting in Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s4> <https://schema.org/url> "https://arxiv.org/pdf/2210.03629" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s5> <http://purl.org/dc/terms/publisher> "arXiv 2303.11366 (Shinn et al.; authors' version, NeurIPS 2023)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s5> <http://purl.org/dc/terms/title> "Reflexion: Language Agents with Verbal Reinforcement Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s5> <https://schema.org/url> "https://arxiv.org/pdf/2303.11366" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s6> <http://purl.org/dc/terms/publisher> "arXiv 2308.03688 (Liu et al.; authors' version, ICLR 2024)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s6> <http://purl.org/dc/terms/title> "AgentBench: Evaluating LLMs as Agents" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/alfworld/s6> <https://schema.org/url> "https://arxiv.org/pdf/2308.03688" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s1> <http://purl.org/dc/terms/publisher> "MIT Press, 2023 (Barocas, Hardt, Narayanan); online edition at fairmlbook.org" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s1> <http://purl.org/dc/terms/title> "Fairness and Machine Learning: Limitations and Opportunities — Chapter 3, Classification" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
