@@ -22,7 +22,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:loss-function` | `kt:gradient-descent`, `kt:stochastic-gradient-descent`, `kt:supervised-learning` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
 | `kt:mathematical-optimization` | `kt:adagrad`, `kt:gradient-descent`, `kt:stochastic-gradient-descent` |
-| `kt:pascal-voc` | `kt:ms-coco`, `kt:object-detection`, `kt:semantic-segmentation` |
+| `kt:r-cnn` | `kt:faster-r-cnn`, `kt:pascal-voc`, `kt:yolo` |
 | `kt:rmsprop` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:adagrad` |
 | `kt:tensor-parallelism` | `kt:distributed-training`, `kt:pipeline-parallelism`, `kt:orca-serving-system` |
 | `kt:zero-redundancy-optimizer` | `kt:data-parallelism`, `kt:distributed-training`, `kt:pipeline-parallelism` |
@@ -84,7 +84,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:post-training-quantization` | `kt:awq`, `kt:gptq` |
 | `kt:princeton-university` | `kt:swe-agent`, `kt:swe-bench` |
 | `kt:probabilistic-relevance-framework` | `kt:bm25`, `kt:bm25` |
-| `kt:r-cnn` | `kt:faster-r-cnn`, `kt:yolo` |
 | `kt:recommender-system` | `kt:multi-armed-bandit`, `kt:upper-confidence-bound` |
 | `kt:scikit-learn` | `kt:dimensionality-reduction`, `kt:principal-component-analysis` |
 | `kt:self-correction` | `kt:reflexion`, `kt:self-refine-iterative-refinement-with-self-feedback` |
@@ -186,6 +185,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:deep-residual-learning-for-image-recognition` | `kt:residual-connection` |
 | `kt:deep-thought-chess-computer` | `kt:deep-blue` |
 | `kt:deep-unsupervised-learning-using-nonequilibrium-thermodynamics` | `kt:diffusion-model` |
+| `kt:deformable-part-model` | `kt:pascal-voc` |
 | `kt:dense-passage-retrieval` | `kt:hybrid-search` |
 | `kt:description-logic` | `kt:knowledge-representation` |
 | `kt:devops` | `kt:mlops` |
@@ -462,6 +462,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:textworld` | `kt:alfworld` |
 | `kt:the-leaderboard-illusion` | `kt:chatbot-arena` |
 | `kt:the-logic-theory-machine-a-complex-information-processing-system` | `kt:logic-theorist` |
+| `kt:the-pascal-visual-object-classes-voc-challenge` | `kt:pascal-voc` |
 | `kt:the-perceptron-a-probabilistic-model-for-information-storage-and-organization-in-the-brain` | `kt:perceptron` |
 | `kt:through-silicon-via` | `kt:high-bandwidth-memory` |
 | `kt:thurstone-mosteller-model` | `kt:bradley-terry-model` |

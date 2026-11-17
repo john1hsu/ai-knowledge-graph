@@ -3459,6 +3459,29 @@
     ]
   },
   {
+    "id": "kt:pascal-voc",
+    "title": "PASCAL VOC",
+    "aliases": [
+      "PASCAL Visual Object Classes",
+      "PASCAL VOC Challenge",
+      "Visual Object Classes Challenge",
+      "VOC2007",
+      "VOC2012"
+    ],
+    "type": "Benchmark",
+    "domain": "computer-vision-and-multimodal",
+    "file": "articles/computer-vision-and-multimodal/pascal-voc.md",
+    "created": "2026-11-17",
+    "maturity": "historical",
+    "source_urls": [
+      "https://homepages.inf.ed.ac.uk/ckiw/postscript/ijcv_voc09.pdf",
+      "https://www.microsoft.com/en-us/research/publication/the-pascal-visual-object-classes-voc-challenge/",
+      "https://homepages.inf.ed.ac.uk/ckiw/postscript/ijcv_voc14.pdf",
+      "https://link.springer.com/doi/10.1007/S11263-014-0733-5",
+      "https://arxiv.org/abs/1311.2524.pdf"
+    ]
+  },
+  {
     "id": "kt:perceptron",
     "title": "Perceptron",
     "aliases": [

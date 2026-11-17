@@ -5556,6 +5556,98 @@
       ]
     },
     {
+      "@id": "kt:pascal-voc",
+      "@type": "kto:Benchmark",
+      "skos:prefLabel": "PASCAL VOC",
+      "skos:definition": "An annotated image dataset and annual competition (2005–2012) for recognising 20 everyday object classes, organised by Everingham, Van Gool, Williams, Winn and Zisserman, whose classification, detection and segmentation tasks and IoU-based average-precision scoring became the standard object-detection benchmark before MS COCO.",
+      "kto:domain": "computer-vision-and-multimodal",
+      "dcterms:created": "2026-11-17",
+      "kto:maturity": "historical",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The PASCAL Visual Object Classes (VOC) Challenge",
+          "dcterms:publisher": "Everingham, Van Gool, Williams, Winn and Zisserman; authors' copy hosted at the University of Edinburgh",
+          "schema:url": "https://homepages.inf.ed.ac.uk/ckiw/postscript/ijcv_voc09.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Pascal Visual Object Classes (VOC) Challenge (publication record)",
+          "dcterms:publisher": "Microsoft Research; International Journal of Computer Vision vol. 88",
+          "schema:url": "https://www.microsoft.com/en-us/research/publication/the-pascal-visual-object-classes-voc-challenge/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Pascal Visual Object Classes Challenge: A Retrospective",
+          "dcterms:publisher": "Everingham, Eslami, Van Gool, Williams, Winn and Zisserman; authors' copy hosted at the University of Edinburgh",
+          "schema:url": "https://homepages.inf.ed.ac.uk/ckiw/postscript/ijcv_voc14.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Pascal Visual Object Classes Challenge: A Retrospective",
+          "dcterms:publisher": "International Journal of Computer Vision 111(1), Springer, 2015",
+          "schema:url": "https://link.springer.com/doi/10.1007/S11263-014-0733-5",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Rich feature hierarchies for accurate object detection and semantic segmentation",
+          "dcterms:publisher": "Girshick, Donahue, Darrell and Malik; arXiv 1311.2524 (extended version of the CVPR 2014 paper)",
+          "schema:url": "https://arxiv.org/abs/1311.2524.pdf",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/computer-vision-and-multimodal/pascal-voc.md",
+      "skos:altLabel": [
+        "PASCAL Visual Object Classes",
+        "PASCAL VOC Challenge",
+        "Visual Object Classes Challenge",
+        "VOC2007",
+        "VOC2012"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-evaluation"
+        },
+        {
+          "@id": "kt:computer-vision"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:object-detection"
+        },
+        {
+          "@id": "kt:semantic-segmentation"
+        },
+        {
+          "@id": "kt:imagenet-and-alexnet"
+        },
+        {
+          "@id": "kt:faster-r-cnn"
+        },
+        {
+          "@id": "kt:transfer-learning"
+        },
+        {
+          "@id": "kt:deformable-part-model"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:the-pascal-visual-object-classes-voc-challenge"
+        }
+      ],
+      "kto:followedBy": [
+        {
+          "@id": "kt:ms-coco"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:r-cnn"
+        }
+      ]
+    },
+    {
       "@id": "kt:semantic-segmentation",
       "@type": "kto:Application",
       "skos:prefLabel": "Semantic segmentation",
