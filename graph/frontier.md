@@ -213,6 +213,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:empirical-risk-minimization` | `kt:supervised-learning` |
 | `kt:entity-linking` | `kt:named-entity-recognition` |
 | `kt:european-union` | `kt:eu-ai-act` |
+| `kt:evaluating-large-language-models-trained-on-code` | `kt:humaneval` |
 | `kt:expert-iteration` | `kt:star-self-taught-reasoner` |
 | `kt:facial-recognition` | `kt:algorithmic-bias-and-fairness` |
 | `kt:factor-analysis` | `kt:principal-component-analysis` |
@@ -254,7 +255,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:harold-hotelling` | `kt:principal-component-analysis` |
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
 | `kt:high-resolution-image-synthesis-with-latent-diffusion-models` | `kt:latent-diffusion-model` |
-| `kt:humaneval` | `kt:reflexion` |
 | `kt:humanevalfix` | `kt:swe-agent` |
 | `kt:ian-goodfellow` | `kt:generative-adversarial-network` |
 | `kt:ibm-research` | `kt:deep-blue` |
@@ -313,6 +313,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:librispeech` | `kt:automatic-speech-recognition` |
 | `kt:linear-probing` | `kt:fine-tuning` |
 | `kt:livebench` | `kt:benchmark-contamination` |
+| `kt:livecodebench` | `kt:humaneval` |
 | `kt:llmops` | `kt:mlops` |
 | `kt:loftq` | `kt:qlora` |
 | `kt:long-short-term-memory-1997` | `kt:long-short-term-memory` |
@@ -328,6 +329,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mastering-the-game-of-go-without-human-knowledge` | `kt:alphago-zero` |
 | `kt:mathematical-reasoning` | `kt:program-induction-by-rationale-generation` |
 | `kt:maximum-entropy-markov-model` | `kt:conditional-random-field` |
+| `kt:mbpp` | `kt:humaneval` |
 | `kt:membership-inference-attack` | `kt:benchmark-contamination` |
 | `kt:memgpt` | `kt:agent-memory` |
 | `kt:memory-wall` | `kt:high-bandwidth-memory` |

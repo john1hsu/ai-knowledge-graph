@@ -2377,6 +2377,26 @@
     ]
   },
   {
+    "id": "kt:humaneval",
+    "title": "HumanEval",
+    "aliases": [
+      "OpenAI HumanEval",
+      "HumanEval benchmark",
+      "Human-Eval"
+    ],
+    "type": "Benchmark",
+    "domain": "evaluation-and-benchmarks",
+    "file": "articles/evaluation-and-benchmarks/humaneval.md",
+    "created": "2026-11-17",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/pdf/2107.03374v2.pdf",
+      "https://www.github.com/openai/human-eval",
+      "https://neurips.cc/virtual/2023/poster/72990",
+      "https://proceedings.iclr.cc/paper_files/paper/2025/hash/94074dd5a072d28ff75a76dabed43767-Abstract-Conference.html"
+    ]
+  },
+  {
     "id": "kt:hybrid-search",
     "title": "Hybrid search",
     "aliases": [

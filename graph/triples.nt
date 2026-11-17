@@ -2822,6 +2822,29 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/humaneval> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/humaneval> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Benchmark> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/humaneval> <http://www.w3.org/2000/01/rdf-schema#label> "HumanEval" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/humaneval> <http://www.w3.org/2004/02/skos/core#altLabel> "Human-Eval" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/humaneval> <http://www.w3.org/2004/02/skos/core#altLabel> "HumanEval benchmark" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/humaneval> <http://www.w3.org/2004/02/skos/core#altLabel> "OpenAI HumanEval" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/humaneval> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/humaneval> <http://www.w3.org/2004/02/skos/core#definition> "A benchmark of 164 hand-written Python programming problems with unit tests, released by OpenAI in 2021 with the Codex paper, that measures the functional correctness of model-generated code using the pass@k metric." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/humaneval> <http://www.w3.org/2004/02/skos/core#prefLabel> "HumanEval" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/humaneval> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/humaneval> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/humaneval> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/livecodebench> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/humaneval> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/mbpp> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/humaneval> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/reflexion> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/humaneval> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/humaneval> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/humaneval/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/humaneval> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/humaneval/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/humaneval> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/humaneval/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/humaneval> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/humaneval/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/humaneval> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/openai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/humaneval> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "evaluation-and-benchmarks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/humaneval> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/evaluating-large-language-models-trained-on-code> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/humaneval> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hybrid-search> <http://purl.org/dc/terms/created> "2026-11-14" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hybrid-search> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hybrid-search> <http://www.w3.org/2000/01/rdf-schema#label> "Hybrid search" .
@@ -8323,6 +8346,26 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/human-evaluation/s6> <https://schema.org/url> "https://neurips.cc/virtual/2022/poster/52886" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/humaneval/s1> <http://purl.org/dc/terms/publisher> "arXiv:2107.03374 (Chen, Tworek, Jun, Yuan, Pinto et al.; OpenAI), July 2021" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/humaneval/s1> <http://purl.org/dc/terms/title> "Evaluating Large Language Models Trained on Code" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/humaneval/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/humaneval/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/humaneval/s1> <https://schema.org/url> "https://arxiv.org/pdf/2107.03374v2.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/humaneval/s2> <http://purl.org/dc/terms/publisher> "OpenAI on GitHub" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/humaneval/s2> <http://purl.org/dc/terms/title> "openai/human-eval (evaluation harness for the HumanEval problem-solving dataset)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/humaneval/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/humaneval/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/humaneval/s2> <https://schema.org/url> "https://www.github.com/openai/human-eval" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/humaneval/s3> <http://purl.org/dc/terms/publisher> "NeurIPS 2023 (Liu, Xia, Wang, Zhang; UIUC)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/humaneval/s3> <http://purl.org/dc/terms/title> "Is Your Code Generated by ChatGPT Really Correct? Rigorous Evaluation of Large Language Models for Code Generation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/humaneval/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/humaneval/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/humaneval/s3> <https://schema.org/url> "https://neurips.cc/virtual/2023/poster/72990" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/humaneval/s4> <http://purl.org/dc/terms/publisher> "ICLR 2025 (Jain, Han, Gu, Li, Yan, Zhang, Wang, Solar-Lezama, Sen, Stoica)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/humaneval/s4> <http://purl.org/dc/terms/title> "LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/humaneval/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/humaneval/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/humaneval/s4> <https://schema.org/url> "https://proceedings.iclr.cc/paper_files/paper/2025/hash/94074dd5a072d28ff75a76dabed43767-Abstract-Conference.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hybrid-search/s1> <http://purl.org/dc/terms/publisher> "arXiv:2004.04906 (Karpukhin, Oguz, Min, Lewis, Wu, Edunov, Chen and Yih); EMNLP 2020" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hybrid-search/s1> <http://purl.org/dc/terms/title> "Dense Passage Retrieval for Open-Domain Question Answering" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hybrid-search/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
