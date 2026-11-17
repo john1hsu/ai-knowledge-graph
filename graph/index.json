@@ -5130,6 +5130,29 @@
     ]
   },
   {
+    "id": "kt:variational-autoencoder",
+    "title": "Variational autoencoder",
+    "aliases": [
+      "VAE",
+      "variational auto-encoder",
+      "auto-encoding variational Bayes"
+    ],
+    "type": "Architecture",
+    "domain": "deep-learning",
+    "file": "articles/deep-learning/variational-autoencoder.md",
+    "created": "2026-11-17",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/abs/1312.6114v11",
+      "https://proceedings.mlr.press/v32/rezende14.html",
+      "https://ar5iv.arxiv.org/html/1906.02691",
+      "https://deepgenerativemodels.github.io/notes/vae",
+      "https://papers.nips.cc/paper/7210-neural-discrete-representation-learning",
+      "https://arxiv.org/pdf/2112.10752",
+      "https://mlanthology.org/iclr/2017/higgins2017iclr-beta"
+    ]
+  },
+  {
     "id": "kt:vector-database",
     "title": "Vector database",
     "aliases": [

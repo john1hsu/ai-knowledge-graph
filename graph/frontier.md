@@ -5,7 +5,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:heuristic-search` | `kt:deep-blue`, `kt:general-problem-solver`, `kt:logic-theorist`, `kt:beam-search`, `kt:tree-of-thoughts` |
-| `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:latent-diffusion-model`, `kt:autoencoder`, `kt:generative-model` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:ai-hardware` | `kt:ai-accelerator`, `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
 | `kt:machine-translation` | `kt:lighthill-report`, `kt:bleu`, `kt:wmt-2014`, `kt:natural-language-processing` |
@@ -44,6 +43,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:deep-learning-framework` | `kt:hugging-face-transformers`, `kt:pytorch` |
 | `kt:deep-reinforcement-learning-from-human-preferences` | `kt:reward-model`, `kt:rlhf` |
 | `kt:dendral` | `kt:expert-systems`, `kt:lighthill-report` |
+| `kt:diederik-kingma` | `kt:adam-optimizer`, `kt:variational-autoencoder` |
 | `kt:double-q-learning` | `kt:deep-q-network`, `kt:q-learning` |
 | `kt:efficient-memory-management-for-large-language-model-serving-with-pagedattention` | `kt:batching-and-paged-attention`, `kt:vllm` |
 | `kt:expectation-maximization` | `kt:hidden-markov-model`, `kt:unsupervised-learning` |
@@ -127,6 +127,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:asymptotically-efficient-adaptive-allocation-rules` | `kt:upper-confidence-bound` |
 | `kt:asynchronous-advantage-actor-critic` | `kt:actor-critic` |
 | `kt:augustin-louis-cauchy` | `kt:gradient-descent` |
+| `kt:auto-encoding-variational-bayes` | `kt:variational-autoencoder` |
 | `kt:automated-theorem-proving` | `kt:logic-theorist` |
 | `kt:awq-activation-aware-weight-quantization-for-llm-compression-and-acceleration` | `kt:awq` |
 | `kt:backdoor-attack` | `kt:data-poisoning` |
@@ -189,7 +190,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dense-passage-retrieval` | `kt:hybrid-search` |
 | `kt:description-logic` | `kt:knowledge-representation` |
 | `kt:devops` | `kt:mlops` |
-| `kt:diederik-kingma` | `kt:adam-optimizer` |
 | `kt:differential-privacy` | `kt:synthetic-data` |
 | `kt:digital-omnibus-on-ai` | `kt:eu-ai-act` |
 | `kt:discriminative-model` | `kt:generative-model` |
@@ -408,6 +408,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:reinforcement-learning-from-ai-feedback` | `kt:constitutional-ai` |
 | `kt:relation-extraction` | `kt:named-entity-recognition` |
 | `kt:relative-position-representations` | `kt:positional-encoding` |
+| `kt:reparameterization-trick` | `kt:variational-autoencoder` |
 | `kt:report-on-a-general-problem-solving-program` | `kt:general-problem-solver` |
 | `kt:representation-learning-a-review-and-new-perspectives` | `kt:representation-learning` |
 | `kt:resource-description-framework` | `kt:knowledge-graph` |
@@ -489,6 +490,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:universal-self-consistency` | `kt:self-consistency` |
 | `kt:us-department-of-commerce` | `kt:bureau-of-industry-and-security` |
 | `kt:value-iteration` | `kt:markov-decision-process` |
+| `kt:variational-inference` | `kt:variational-autoencoder` |
 | `kt:vc-dimension` | `kt:statistical-learning-theory` |
 | `kt:vladimir-vapnik` | `kt:statistical-learning-theory` |
 | `kt:voyager-an-open-ended-embodied-agent-with-large-language-models` | `kt:voyager` |

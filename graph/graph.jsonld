@@ -7750,6 +7750,117 @@
       ]
     },
     {
+      "@id": "kt:variational-autoencoder",
+      "@type": "kto:Architecture",
+      "skos:prefLabel": "Variational autoencoder",
+      "skos:definition": "A deep latent-variable generative model that pairs a neural encoder approximating the posterior over latent codes with a neural decoder that generates data from them, trained jointly by maximizing the evidence lower bound (ELBO) with the reparameterization trick.",
+      "kto:domain": "deep-learning",
+      "dcterms:created": "2026-11-17",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Auto-Encoding Variational Bayes",
+          "dcterms:publisher": "arXiv:1312.6114 (Kingma and Welling), authors' version v11",
+          "schema:url": "https://arxiv.org/abs/1312.6114v11",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Stochastic Backpropagation and Approximate Inference in Deep Generative Models",
+          "dcterms:publisher": "ICML 2014, PMLR 32 (Rezende, Mohamed and Wierstra)",
+          "schema:url": "https://proceedings.mlr.press/v32/rezende14.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "An Introduction to Variational Autoencoders",
+          "dcterms:publisher": "Foundations and Trends in Machine Learning 12(4), 2019 (Kingma and Welling), authors' arXiv version",
+          "schema:url": "https://ar5iv.arxiv.org/html/1906.02691",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Variational autoencoders (Deep Generative Models course notes)",
+          "dcterms:publisher": "Deep Generative Models course notes (Aditya Grover)",
+          "schema:url": "https://deepgenerativemodels.github.io/notes/vae",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Neural Discrete Representation Learning",
+          "dcterms:publisher": "NeurIPS 2017 (van den Oord, Vinyals and Kavukcuoglu)",
+          "schema:url": "https://papers.nips.cc/paper/7210-neural-discrete-representation-learning",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+          "dcterms:publisher": "arXiv:2112.10752 (Rombach et al.), CVPR 2022",
+          "schema:url": "https://arxiv.org/pdf/2112.10752",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework",
+          "dcterms:publisher": "ICLR 2017 (Higgins et al.), ML Anthology record",
+          "schema:url": "https://mlanthology.org/iclr/2017/higgins2017iclr-beta",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/deep-learning/variational-autoencoder.md",
+      "skos:altLabel": [
+        "VAE",
+        "variational auto-encoder",
+        "auto-encoding variational Bayes"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:autoencoder"
+        },
+        {
+          "@id": "kt:generative-model"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:generative-adversarial-network"
+        },
+        {
+          "@id": "kt:diffusion-model"
+        },
+        {
+          "@id": "kt:representation-learning"
+        },
+        {
+          "@id": "kt:variational-inference"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:auto-encoding-variational-bayes"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:diederik-kingma"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:reparameterization-trick"
+        }
+      ],
+      "kto:trainedWith": [
+        {
+          "@id": "kt:backpropagation"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:latent-diffusion-model"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:generative-adversarial-network"
+        }
+      ]
+    },
+    {
       "@id": "kt:ai-evaluation",
       "@type": "kto:Field",
       "skos:prefLabel": "Evaluation of AI systems",
