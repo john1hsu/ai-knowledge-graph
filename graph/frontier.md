@@ -8,7 +8,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:heuristic-search` | `kt:deep-blue`, `kt:general-problem-solver`, `kt:logic-theorist`, `kt:beam-search`, `kt:tree-of-thoughts` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:ai-hardware` | `kt:ai-accelerator`, `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
-| `kt:ai-risk-management` | `kt:council-of-europe-framework-convention-on-ai`, `kt:iso-iec-42001`, `kt:nist-ai-risk-management-framework`, `kt:oecd-ai-principles` |
 | `kt:microsoft-research` | `kt:alfworld`, `kt:autogen`, `kt:residual-connection`, `kt:graphrag` |
 | `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:latent-diffusion-model`, `kt:generative-model` |
@@ -270,6 +269,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:intriguing-properties-of-neural-networks` | `kt:adversarial-example` |
 | `kt:intrinsic-motivation` | `kt:exploration-exploitation` |
 | `kt:inverted-index` | `kt:information-retrieval` |
+| `kt:iso-31000` | `kt:ai-risk-management` |
+| `kt:iso-iec-23894` | `kt:ai-risk-management` |
 | `kt:iso-iec-42006` | `kt:iso-iec-42001` |
 | `kt:iso-iec-jtc-1-sc-42` | `kt:iso-iec-42001` |
 | `kt:iterated-amplification` | `kt:scalable-oversight` |
@@ -402,6 +403,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:report-on-a-general-problem-solving-program` | `kt:general-problem-solver` |
 | `kt:representation-learning-a-review-and-new-perspectives` | `kt:representation-learning` |
 | `kt:resource-description-framework` | `kt:knowledge-graph` |
+| `kt:responsible-scaling-policy` | `kt:ai-risk-management` |
 | `kt:retrieval-augmented-generation-for-knowledge-intensive-nlp-tasks` | `kt:retrieval-augmented-generation` |
 | `kt:rewardbench` | `kt:reward-model` |
 | `kt:richard-bellman` | `kt:markov-decision-process` |

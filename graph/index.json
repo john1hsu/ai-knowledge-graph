@@ -328,6 +328,27 @@
     ]
   },
   {
+    "id": "kt:ai-risk-management",
+    "title": "AI risk management",
+    "aliases": [
+      "artificial intelligence risk management",
+      "AI risk governance process"
+    ],
+    "type": "Concept",
+    "domain": "governance-and-policy",
+    "file": "articles/governance-and-policy/ai-risk-management.md",
+    "created": "2026-11-17",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://webstore.iec.ch/en/publication/82914",
+      "https://blog.ansi.org/ansi/iso-iec-23894-2023-ai-risk-management/",
+      "https://airc.nist.gov/airmf-resources/airmf/1-sec-risk/",
+      "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-9",
+      "https://oecd.ai/en/ai-publications/advancing-accountability",
+      "https://link.springer.com/content/pdf/10.1007/s00146-023-01811-0.pdf"
+    ]
+  },
+  {
     "id": "kt:ai-safety",
     "title": "AI safety",
     "aliases": [

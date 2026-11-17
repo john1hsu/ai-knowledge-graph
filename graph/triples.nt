@@ -378,6 +378,33 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/oecd-ai-principles> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance-a-research-agenda> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> <http://www.w3.org/2000/01/rdf-schema#label> "AI risk management" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> <http://www.w3.org/2004/02/skos/core#altLabel> "AI risk governance process" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> <http://www.w3.org/2004/02/skos/core#altLabel> "artificial intelligence risk management" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> <http://www.w3.org/2004/02/skos/core#definition> "The organizational discipline of identifying, analysing, evaluating, treating, monitoring and communicating the risks that AI systems pose across their lifecycle, usually built on general risk-management practice (ISO 31000) and codified for AI in standards, frameworks and laws such as ISO/IEC 23894, the NIST AI RMF and the EU AI Act." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> <http://www.w3.org/2004/02/skos/core#prefLabel> "AI risk management" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/responsible-scaling-policy> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/iso-31000> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "governance-and-policy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/iso-iec-23894> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/iso-iec-42001> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/oecd-ai-principles> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> <https://github.com/john1hsu/ai-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Organization> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> <http://www.w3.org/2000/01/rdf-schema#label> "AI safety institutes" .
@@ -5426,6 +5453,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s6> <https://schema.org/url> "https://arxiv.org/pdf/1906.06668" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s1> <http://purl.org/dc/terms/publisher> "IEC Webstore (ISO/IEC JTC 1/SC 42), edition 1.0, 2023-02-06" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s1> <http://purl.org/dc/terms/title> "ISO/IEC 23894:2023 — Information technology — Artificial intelligence — Guidance on risk management" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "standards-body" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s1> <https://schema.org/url> "https://webstore.iec.ch/en/publication/82914" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s2> <http://purl.org/dc/terms/publisher> "American National Standards Institute (ANSI) Standards Blog" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s2> <http://purl.org/dc/terms/title> "ISO/IEC 23894:2023 — Guidance on Risk Management for AI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "standards-body" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s2> <https://schema.org/url> "https://blog.ansi.org/ansi/iso-iec-23894-2023-ai-risk-management/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s3> <http://purl.org/dc/terms/publisher> "NIST Trustworthy and Responsible AI Resource Center (AIRC)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s3> <http://purl.org/dc/terms/title> "AI RMF 1.0, Section 1: Framing Risk" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s3> <https://schema.org/url> "https://airc.nist.gov/airmf-resources/airmf/1-sec-risk/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s4> <http://purl.org/dc/terms/publisher> "European Commission, AI Act Service Desk" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s4> <http://purl.org/dc/terms/title> "AI Act, Article 9: Risk management system" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s4> <https://schema.org/url> "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-9" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s5> <http://purl.org/dc/terms/publisher> "OECD Digital Economy Papers, 23 February 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s5> <http://purl.org/dc/terms/title> "Advancing accountability in AI: Governing and managing risks throughout the lifecycle for trustworthy AI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "intergovernmental" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s5> <https://schema.org/url> "https://oecd.ai/en/ai-publications/advancing-accountability" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s6> <http://purl.org/dc/terms/publisher> "AI & Society 40:493–507 (Schuett), published online 2023-11-27" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s6> <http://purl.org/dc/terms/title> "Three lines of defense against risks from AI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s6> <https://schema.org/url> "https://link.springer.com/content/pdf/10.1007/s00146-023-01811-0.pdf" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s1> <http://purl.org/dc/terms/publisher> "UK Department for Science, Innovation and Technology, 2 November 2023" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s1> <http://purl.org/dc/terms/title> "Prime Minister launches new AI Safety Institute" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-safety-institutes/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

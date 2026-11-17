@@ -8792,6 +8792,106 @@
       ]
     },
     {
+      "@id": "kt:ai-risk-management",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "AI risk management",
+      "skos:definition": "The organizational discipline of identifying, analysing, evaluating, treating, monitoring and communicating the risks that AI systems pose across their lifecycle, usually built on general risk-management practice (ISO 31000) and codified for AI in standards, frameworks and laws such as ISO/IEC 23894, the NIST AI RMF and the EU AI Act.",
+      "kto:domain": "governance-and-policy",
+      "dcterms:created": "2026-11-17",
+      "kto:maturity": "emerging",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "ISO/IEC 23894:2023 — Information technology — Artificial intelligence — Guidance on risk management",
+          "dcterms:publisher": "IEC Webstore (ISO/IEC JTC 1/SC 42), edition 1.0, 2023-02-06",
+          "schema:url": "https://webstore.iec.ch/en/publication/82914",
+          "kto:sourceType": "standards-body"
+        },
+        {
+          "dcterms:title": "ISO/IEC 23894:2023 — Guidance on Risk Management for AI",
+          "dcterms:publisher": "American National Standards Institute (ANSI) Standards Blog",
+          "schema:url": "https://blog.ansi.org/ansi/iso-iec-23894-2023-ai-risk-management/",
+          "kto:sourceType": "standards-body"
+        },
+        {
+          "dcterms:title": "AI RMF 1.0, Section 1: Framing Risk",
+          "dcterms:publisher": "NIST Trustworthy and Responsible AI Resource Center (AIRC)",
+          "schema:url": "https://airc.nist.gov/airmf-resources/airmf/1-sec-risk/",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "AI Act, Article 9: Risk management system",
+          "dcterms:publisher": "European Commission, AI Act Service Desk",
+          "schema:url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-9",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Advancing accountability in AI: Governing and managing risks throughout the lifecycle for trustworthy AI",
+          "dcterms:publisher": "OECD Digital Economy Papers, 23 February 2023",
+          "schema:url": "https://oecd.ai/en/ai-publications/advancing-accountability",
+          "kto:sourceType": "intergovernmental"
+        },
+        {
+          "dcterms:title": "Three lines of defense against risks from AI",
+          "dcterms:publisher": "AI & Society 40:493–507 (Schuett), published online 2023-11-27",
+          "schema:url": "https://link.springer.com/content/pdf/10.1007/s00146-023-01811-0.pdf",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/governance-and-policy/ai-risk-management.md",
+      "skos:altLabel": [
+        "artificial intelligence risk management",
+        "AI risk governance process"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-governance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:ai-safety"
+        },
+        {
+          "@id": "kt:ai-evaluation"
+        },
+        {
+          "@id": "kt:red-teaming"
+        },
+        {
+          "@id": "kt:responsible-scaling-policy"
+        },
+        {
+          "@id": "kt:algorithmic-bias-and-fairness"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:iso-iec-23894"
+        },
+        {
+          "@id": "kt:nist-ai-risk-management-framework"
+        },
+        {
+          "@id": "kt:iso-iec-42001"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:iso-31000"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:eu-ai-act"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:oecd-ai-principles"
+        }
+      ]
+    },
+    {
       "@id": "kt:ai-safety-institutes",
       "@type": "kto:Organization",
       "skos:prefLabel": "AI safety institutes",
