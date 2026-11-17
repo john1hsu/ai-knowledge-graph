@@ -3169,6 +3169,91 @@
       ]
     },
     {
+      "@id": "kt:google-deepmind",
+      "@type": "kto:Organization",
+      "skos:prefLabel": "Google DeepMind",
+      "skos:definition": "Alphabet's central AI research laboratory, formed in April 2023 by combining the London-based lab DeepMind (launched 2010, acquired by Google in 2014) with the Brain team from Google Research; known for deep reinforcement learning, AlphaGo, AlphaFold and the Gemini model family.",
+      "kto:domain": "ai-infrastructure-and-mlops",
+      "dcterms:created": "2026-11-17",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Announcing Google DeepMind",
+          "dcterms:publisher": "Google DeepMind blog, April 20, 2023",
+          "schema:url": "https://deepmind.google/en/blog/announcing-google-deepmind/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Demis Hassabis",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/biography/Demis-Hassabis",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "For Google, a leg up in the artificial intelligence arms race",
+          "dcterms:publisher": "Fortune, February 5, 2014",
+          "schema:url": "https://fortune.com/2014/02/05/for-google-a-leg-up-in-the-artificial-intelligence-arms-race",
+          "kto:sourceType": "news"
+        },
+        {
+          "dcterms:title": "From Pixels to Actions: Human-level control through Deep Reinforcement Learning",
+          "dcterms:publisher": "Google Research blog (Kumaran and Hassabis), February 25, 2015",
+          "schema:url": "https://research.google/blog/from-pixels-to-actions-human-level-control-through-deep-reinforcement-learning/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Demis Hassabis & John Jumper awarded Nobel Prize in Chemistry",
+          "dcterms:publisher": "Google DeepMind blog, October 9, 2024",
+          "schema:url": "https://deepmind.google/blog/demis-hassabis-john-jumper-awarded-nobel-prize-in-chemistry/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Gemini: A Family of Highly Capable Multimodal Models",
+          "dcterms:publisher": "arXiv 2312.11805 (Gemini Team, Google)",
+          "schema:url": "https://arxiv.org/abs/2312.11805",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/ai-infrastructure-and-mlops/google-deepmind.md",
+      "skos:altLabel": [
+        "DeepMind",
+        "DeepMind Technologies"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:artificial-intelligence"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:deep-q-network"
+        },
+        {
+          "@id": "kt:alphago"
+        },
+        {
+          "@id": "kt:alphazero"
+        },
+        {
+          "@id": "kt:alphafold"
+        },
+        {
+          "@id": "kt:gemini"
+        },
+        {
+          "@id": "kt:openai"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:google"
+        },
+        {
+          "@id": "kt:alphabet-inc"
+        }
+      ]
+    },
+    {
       "@id": "kt:google",
       "@type": "kto:Organization",
       "skos:prefLabel": "Google",

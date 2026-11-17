@@ -1989,6 +1989,27 @@
     ]
   },
   {
+    "id": "kt:google-deepmind",
+    "title": "Google DeepMind",
+    "aliases": [
+      "DeepMind",
+      "DeepMind Technologies"
+    ],
+    "type": "Organization",
+    "domain": "ai-infrastructure-and-mlops",
+    "file": "articles/ai-infrastructure-and-mlops/google-deepmind.md",
+    "created": "2026-11-17",
+    "maturity": "established",
+    "source_urls": [
+      "https://deepmind.google/en/blog/announcing-google-deepmind/",
+      "https://www.britannica.com/biography/Demis-Hassabis",
+      "https://fortune.com/2014/02/05/for-google-a-leg-up-in-the-artificial-intelligence-arms-race",
+      "https://research.google/blog/from-pixels-to-actions-human-level-control-through-deep-reinforcement-learning/",
+      "https://deepmind.google/blog/demis-hassabis-john-jumper-awarded-nobel-prize-in-chemistry/",
+      "https://arxiv.org/abs/2312.11805"
+    ]
+  },
+  {
     "id": "kt:gptq",
     "title": "GPTQ",
     "aliases": [

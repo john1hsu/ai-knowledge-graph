@@ -2327,6 +2327,30 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/goodharts-law> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/charles-goodhart> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/goodharts-law> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "safety-alignment-and-security" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/goodharts-law> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google-deepmind> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google-deepmind> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Organization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google-deepmind> <http://www.w3.org/2000/01/rdf-schema#label> "Google DeepMind" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google-deepmind> <http://www.w3.org/2004/02/skos/core#altLabel> "DeepMind Technologies" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google-deepmind> <http://www.w3.org/2004/02/skos/core#altLabel> "DeepMind" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google-deepmind> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google-deepmind> <http://www.w3.org/2004/02/skos/core#definition> "Alphabet's central AI research laboratory, formed in April 2023 by combining the London-based lab DeepMind (launched 2010, acquired by Google in 2014) with the Brain team from Google Research; known for deep reinforcement learning, AlphaGo, AlphaFold and the Gemini model family." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google-deepmind> <http://www.w3.org/2004/02/skos/core#prefLabel> "Google DeepMind" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google-deepmind> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/alphafold> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google-deepmind> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/alphago> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google-deepmind> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/alphazero> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google-deepmind> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google-deepmind> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/gemini> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google-deepmind> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/openai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google-deepmind> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google-deepmind> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google-deepmind> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google-deepmind> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google-deepmind> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google-deepmind> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google-deepmind> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-infrastructure-and-mlops" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google-deepmind> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google-deepmind> <https://github.com/john1hsu/ai-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/ai-knowledge-graph/id/alphabet-inc> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/google-deepmind> <https://github.com/john1hsu/ai-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/ai-knowledge-graph/id/google> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/google> <http://purl.org/dc/terms/created> "2026-11-14" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/google> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Organization> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/google> <http://www.w3.org/2000/01/rdf-schema#label> "Google" .
@@ -7429,6 +7453,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/goodharts-law/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/goodharts-law/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/goodharts-law/s6> <https://schema.org/url> "https://www.cambridge.org/core/journals/european-review/article/improving-ratings-audit-inthe-british-university-system/FC2EE640C0C44E3DB87C29FB666E9AAB" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s1> <http://purl.org/dc/terms/publisher> "Google DeepMind blog, April 20, 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s1> <http://purl.org/dc/terms/title> "Announcing Google DeepMind" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s1> <https://schema.org/url> "https://deepmind.google/en/blog/announcing-google-deepmind/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s2> <http://purl.org/dc/terms/title> "Demis Hassabis" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s2> <https://schema.org/url> "https://www.britannica.com/biography/Demis-Hassabis" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s3> <http://purl.org/dc/terms/publisher> "Fortune, February 5, 2014" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s3> <http://purl.org/dc/terms/title> "For Google, a leg up in the artificial intelligence arms race" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s3> <https://schema.org/url> "https://fortune.com/2014/02/05/for-google-a-leg-up-in-the-artificial-intelligence-arms-race" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s4> <http://purl.org/dc/terms/publisher> "Google Research blog (Kumaran and Hassabis), February 25, 2015" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s4> <http://purl.org/dc/terms/title> "From Pixels to Actions: Human-level control through Deep Reinforcement Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s4> <https://schema.org/url> "https://research.google/blog/from-pixels-to-actions-human-level-control-through-deep-reinforcement-learning/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s5> <http://purl.org/dc/terms/publisher> "Google DeepMind blog, October 9, 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s5> <http://purl.org/dc/terms/title> "Demis Hassabis & John Jumper awarded Nobel Prize in Chemistry" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s5> <https://schema.org/url> "https://deepmind.google/blog/demis-hassabis-john-jumper-awarded-nobel-prize-in-chemistry/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s6> <http://purl.org/dc/terms/publisher> "arXiv 2312.11805 (Gemini Team, Google)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s6> <http://purl.org/dc/terms/title> "Gemini: A Family of Highly Capable Multimodal Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/google-deepmind/s6> <https://schema.org/url> "https://arxiv.org/abs/2312.11805" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica (Britannica Money)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s1> <http://purl.org/dc/terms/title> "Google Inc." .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

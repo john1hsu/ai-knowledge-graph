@@ -4,9 +4,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:google-deepmind` | `kt:google`, `kt:alphago-zero`, `kt:alphago`, `kt:alphazero`, `kt:deep-q-network` |
+| `kt:openai` | `kt:google-deepmind`, `kt:clip`, `kt:gsm8k`, `kt:proximal-policy-optimization`, `kt:concrete-problems-in-ai-safety`, `kt:language-models-are-few-shot-learners` |
 | `kt:heuristic-search` | `kt:deep-blue`, `kt:general-problem-solver`, `kt:logic-theorist`, `kt:beam-search`, `kt:tree-of-thoughts` |
-| `kt:openai` | `kt:clip`, `kt:gsm8k`, `kt:proximal-policy-optimization`, `kt:concrete-problems-in-ai-safety`, `kt:language-models-are-few-shot-learners` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:ai-hardware` | `kt:ai-accelerator`, `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
 | `kt:ai-risk-management` | `kt:council-of-europe-framework-convention-on-ai`, `kt:iso-iec-42001`, `kt:nist-ai-risk-management-framework`, `kt:oecd-ai-principles` |
@@ -34,6 +33,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:all-reduce` | `kt:data-parallelism`, `kt:distributed-training` |
 | `kt:allen-newell` | `kt:general-problem-solver`, `kt:logic-theorist` |
 | `kt:alpha-beta-pruning` | `kt:deep-blue`, `kt:monte-carlo-tree-search` |
+| `kt:alphabet-inc` | `kt:google-deepmind`, `kt:google` |
 | `kt:anthropic` | `kt:model-context-protocol`, `kt:constitutional-ai` |
 | `kt:apache-lucene` | `kt:bm25`, `kt:tf-idf` |
 | `kt:autoencoder` | `kt:representation-learning`, `kt:dimensionality-reduction` |
@@ -115,7 +115,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alfworld-aligning-text-and-embodied-environments-for-interactive-learning` | `kt:alfworld` |
 | `kt:alibi` | `kt:positional-encoding` |
 | `kt:allen-institute-for-ai` | `kt:commonsenseqa` |
-| `kt:alphabet-inc` | `kt:google` |
+| `kt:alphafold` | `kt:google-deepmind` |
 | `kt:ann-benchmarks` | `kt:approximate-nearest-neighbor-search` |
 | `kt:approximation-by-superpositions-of-a-sigmoidal-function` | `kt:universal-approximation-theorem` |
 | `kt:aqua-rat` | `kt:program-induction-by-rationale-generation` |
@@ -230,6 +230,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:gated-recurrent-unit` | `kt:recurrent-neural-network` |
 | `kt:gddr-memory` | `kt:high-bandwidth-memory` |
 | `kt:gelu` | `kt:activation-function` |
+| `kt:gemini` | `kt:google-deepmind` |
 | `kt:general-purpose-ai-model` | `kt:eu-ai-act` |
 | `kt:generalized-advantage-estimation` | `kt:proximal-policy-optimization` |
 | `kt:generative-adversarial-nets` | `kt:generative-adversarial-network` |
