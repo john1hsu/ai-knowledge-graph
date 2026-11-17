@@ -26,7 +26,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tensor-parallelism` | `kt:distributed-training`, `kt:pipeline-parallelism`, `kt:orca-serving-system` |
 | `kt:zero-redundancy-optimizer` | `kt:data-parallelism`, `kt:distributed-training`, `kt:pipeline-parallelism` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
-| `kt:adversarial-training` | `kt:adversarial-example`, `kt:adversarial-machine-learning` |
 | `kt:all-reduce` | `kt:data-parallelism`, `kt:distributed-training` |
 | `kt:allen-newell` | `kt:general-problem-solver`, `kt:logic-theorist` |
 | `kt:alpha-beta-pruning` | `kt:deep-blue`, `kt:monte-carlo-tree-search` |
@@ -35,6 +34,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:apache-lucene` | `kt:bm25`, `kt:tf-idf` |
 | `kt:automatic-differentiation` | `kt:pytorch`, `kt:backpropagation` |
 | `kt:catastrophic-forgetting` | `kt:fine-tuning`, `kt:parameter-efficient-fine-tuning` |
+| `kt:cifar-10` | `kt:image-classification`, `kt:adversarial-training` |
 | `kt:cliff-shaw` | `kt:general-problem-solver`, `kt:logic-theorist` |
 | `kt:computing-power-and-the-governance-of-artificial-intelligence` | `kt:compute-governance`, `kt:compute-governance` |
 | `kt:contextual-bandit` | `kt:multi-armed-bandit`, `kt:upper-confidence-bound` |
@@ -148,7 +148,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chatbot-arena-an-open-platform-for-evaluating-llms-by-human-preference` | `kt:chatbot-arena` |
 | `kt:christian-szegedy` | `kt:adversarial-example` |
 | `kt:christopher-watkins` | `kt:q-learning` |
-| `kt:cifar-10` | `kt:image-classification` |
 | `kt:cityscapes` | `kt:semantic-segmentation` |
 | `kt:claude` | `kt:constitutional-ai` |
 | `kt:clipper-prediction-serving-system` | `kt:model-serving` |
@@ -389,6 +388,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:process-reward-model` | `kt:test-time-compute` |
 | `kt:program-induction` | `kt:program-induction-by-rationale-generation` |
 | `kt:program-of-thoughts` | `kt:program-aided-language-models` |
+| `kt:projected-gradient-descent` | `kt:adversarial-training` |
 | `kt:prompt-tuning` | `kt:parameter-efficient-fine-tuning` |
 | `kt:proximal-policy-optimization-algorithms` | `kt:proximal-policy-optimization` |
 | `kt:pytorch-an-imperative-style-high-performance-deep-learning-library` | `kt:pytorch` |
@@ -414,6 +414,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:richard-sutton` | `kt:temporal-difference-learning` |
 | `kt:rmsnorm` | `kt:layer-normalization` |
 | `kt:roberta` | `kt:bert` |
+| `kt:robust-optimization` | `kt:adversarial-training` |
+| `kt:robustbench` | `kt:adversarial-training` |
 | `kt:roofline-model` | `kt:gpu-computing` |
 | `kt:rotary-position-embedding` | `kt:positional-encoding` |
 | `kt:rule-based-system` | `kt:eliza` |

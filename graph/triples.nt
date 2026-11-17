@@ -184,6 +184,28 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/model-extraction> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-injection> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-training> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-training> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-training> <http://www.w3.org/2000/01/rdf-schema#label> "Adversarial training" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-training> <http://www.w3.org/2004/02/skos/core#altLabel> "PGD adversarial training" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-training> <http://www.w3.org/2004/02/skos/core#altLabel> "robust training against adversarial examples" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-training> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-training> <http://www.w3.org/2004/02/skos/core#definition> "A defense against adversarial examples that trains a model on worst-case perturbed inputs generated on the fly, framed as a min-max (saddle-point) robust optimization problem over the model's parameters and a bounded attack." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-training> <http://www.w3.org/2004/02/skos/core#prefLabel> "Adversarial training" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-training> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/cifar-10> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-training> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-training> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/regularization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-training> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-training/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-training> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-training/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-training> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-training/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-training> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-training/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-training> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-training/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-training> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/robust-optimization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-training> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/projected-gradient-descent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-training> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "safety-alignment-and-security" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-training> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/robustbench> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-training> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-training> <https://github.com/john1hsu/ai-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-example> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/agent-memory> <http://purl.org/dc/terms/created> "2026-11-14" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/agent-memory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/agent-memory> <http://www.w3.org/2000/01/rdf-schema#label> "Agent memory" .
@@ -5459,6 +5481,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-machine-learning/s6> <https://schema.org/url> "https://arxiv.org/abs/1706.06083v4" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-training/s1> <http://purl.org/dc/terms/publisher> "arXiv:1706.06083 (Madry, Makelov, Schmidt, Tsipras, Vladu; MIT), ICLR 2018" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-training/s1> <http://purl.org/dc/terms/title> "Towards Deep Learning Models Resistant to Adversarial Attacks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-training/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-training/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-training/s1> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/1706.06083" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-training/s2> <http://purl.org/dc/terms/publisher> "Proceedings of ICML 2019, PMLR 97 (Zhang, Yu, Jiao, Xing, El Ghaoui, Jordan)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-training/s2> <http://purl.org/dc/terms/title> "Theoretically Principled Trade-off between Robustness and Accuracy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-training/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-training/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-training/s2> <https://schema.org/url> "https://proceedings.mlr.press/v97/zhang19p.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-training/s3> <http://purl.org/dc/terms/publisher> "ICLR 2019 (Tsipras, Santurkar, Engstrom, Turner, Madry)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-training/s3> <http://purl.org/dc/terms/title> "Robustness May Be at Odds with Accuracy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-training/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-training/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-training/s3> <https://schema.org/url> "https://iclr.cc/virtual/2019/poster/1032" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-training/s4> <http://purl.org/dc/terms/publisher> "ICLR 2020 (Wong, Rice, Kolter)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-training/s4> <http://purl.org/dc/terms/title> "Fast is better than free: Revisiting adversarial training" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-training/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-training/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-training/s4> <https://schema.org/url> "https://iclr.cc/virtual_2020/poster_BJx040EFvH.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-training/s5> <http://purl.org/dc/terms/publisher> "arXiv:2010.09670 (Croce, Andriushchenko, Sehwag, Debenedetti, Flammarion, Chiang, Mittal, Hein), NeurIPS 2021 Datasets and Benchmarks Track" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-training/s5> <http://purl.org/dc/terms/title> "RobustBench: a standardized adversarial robustness benchmark" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-training/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-training/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adversarial-training/s5> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/2010.09670" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/agent-memory/s1> <http://purl.org/dc/terms/publisher> "Transactions on Machine Learning Research, 2024 (Sumers, Yao, Narasimhan, Griffiths; authors' arXiv version 2309.02427)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/agent-memory/s1> <http://purl.org/dc/terms/title> "Cognitive Architectures for Language Agents" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/agent-memory/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

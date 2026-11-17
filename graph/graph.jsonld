@@ -17825,6 +17825,88 @@
       ]
     },
     {
+      "@id": "kt:adversarial-training",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Adversarial training",
+      "skos:definition": "A defense against adversarial examples that trains a model on worst-case perturbed inputs generated on the fly, framed as a min-max (saddle-point) robust optimization problem over the model's parameters and a bounded attack.",
+      "kto:domain": "safety-alignment-and-security",
+      "dcterms:created": "2026-11-17",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Towards Deep Learning Models Resistant to Adversarial Attacks",
+          "dcterms:publisher": "arXiv:1706.06083 (Madry, Makelov, Schmidt, Tsipras, Vladu; MIT), ICLR 2018",
+          "schema:url": "https://ar5iv.labs.arxiv.org/html/1706.06083",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Theoretically Principled Trade-off between Robustness and Accuracy",
+          "dcterms:publisher": "Proceedings of ICML 2019, PMLR 97 (Zhang, Yu, Jiao, Xing, El Ghaoui, Jordan)",
+          "schema:url": "https://proceedings.mlr.press/v97/zhang19p.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Robustness May Be at Odds with Accuracy",
+          "dcterms:publisher": "ICLR 2019 (Tsipras, Santurkar, Engstrom, Turner, Madry)",
+          "schema:url": "https://iclr.cc/virtual/2019/poster/1032",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Fast is better than free: Revisiting adversarial training",
+          "dcterms:publisher": "ICLR 2020 (Wong, Rice, Kolter)",
+          "schema:url": "https://iclr.cc/virtual_2020/poster_BJx040EFvH.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "RobustBench: a standardized adversarial robustness benchmark",
+          "dcterms:publisher": "arXiv:2010.09670 (Croce, Andriushchenko, Sehwag, Debenedetti, Flammarion, Chiang, Mittal, Hein), NeurIPS 2021 Datasets and Benchmarks Track",
+          "schema:url": "https://ar5iv.labs.arxiv.org/html/2010.09670",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/safety-alignment-and-security/adversarial-training.md",
+      "skos:altLabel": [
+        "PGD adversarial training",
+        "robust training against adversarial examples"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:adversarial-machine-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:regularization"
+        },
+        {
+          "@id": "kt:image-classification"
+        },
+        {
+          "@id": "kt:cifar-10"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:adversarial-example"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:robust-optimization"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:projected-gradient-descent"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:robustbench"
+        }
+      ]
+    },
+    {
       "@id": "kt:ai-alignment",
       "@type": "kto:Field",
       "skos:prefLabel": "AI alignment",

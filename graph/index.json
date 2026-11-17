@@ -153,6 +153,26 @@
     ]
   },
   {
+    "id": "kt:adversarial-training",
+    "title": "Adversarial training",
+    "aliases": [
+      "PGD adversarial training",
+      "robust training against adversarial examples"
+    ],
+    "type": "Technique",
+    "domain": "safety-alignment-and-security",
+    "file": "articles/safety-alignment-and-security/adversarial-training.md",
+    "created": "2026-11-17",
+    "maturity": "established",
+    "source_urls": [
+      "https://ar5iv.labs.arxiv.org/html/1706.06083",
+      "https://proceedings.mlr.press/v97/zhang19p.html",
+      "https://iclr.cc/virtual/2019/poster/1032",
+      "https://iclr.cc/virtual_2020/poster_BJx040EFvH.html",
+      "https://ar5iv.labs.arxiv.org/html/2010.09670"
+    ]
+  },
+  {
     "id": "kt:agent-memory",
     "title": "Agent memory",
     "aliases": [
