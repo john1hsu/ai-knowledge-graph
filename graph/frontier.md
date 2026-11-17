@@ -12,9 +12,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ai-hardware` | `kt:ai-accelerator`, `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
 | `kt:microsoft-research` | `kt:alfworld`, `kt:autogen`, `kt:residual-connection`, `kt:graphrag` |
 | `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
+| `kt:zero-shot-learning` | `kt:clip`, `kt:zero-shot-prompting`, `kt:contrastive-learning`, `kt:instruction-tuning` |
 | `kt:application-specific-integrated-circuit` | `kt:deep-blue`, `kt:ai-accelerator`, `kt:tpu` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
-| `kt:contrastive-learning` | `kt:clip`, `kt:representation-learning`, `kt:self-supervised-learning` |
 | `kt:fairness-accountability-and-transparency` | `kt:algorithmic-bias-and-fairness`, `kt:datasheets-for-datasets`, `kt:model-cards` |
 | `kt:foundation-model` | `kt:self-supervised-learning`, `kt:transfer-learning`, `kt:large-language-model` |
 | `kt:knowledge-representation` | `kt:expert-systems`, `kt:symbolic-ai`, `kt:knowledge-graph` |
@@ -25,7 +25,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tensor-parallelism` | `kt:distributed-training`, `kt:pipeline-parallelism`, `kt:orca-serving-system` |
 | `kt:upper-confidence-bound` | `kt:exploration-exploitation`, `kt:monte-carlo-tree-search`, `kt:multi-armed-bandit` |
 | `kt:zero-redundancy-optimizer` | `kt:data-parallelism`, `kt:distributed-training`, `kt:pipeline-parallelism` |
-| `kt:zero-shot-learning` | `kt:clip`, `kt:zero-shot-prompting`, `kt:instruction-tuning` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
 | `kt:adversarial-training` | `kt:adversarial-example`, `kt:adversarial-machine-learning` |
 | `kt:all-reduce` | `kt:data-parallelism`, `kt:distributed-training` |

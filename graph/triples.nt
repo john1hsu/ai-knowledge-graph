@@ -1558,6 +1558,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/ruler> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contrastive-learning> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contrastive-learning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contrastive-learning> <http://www.w3.org/2000/01/rdf-schema#label> "Contrastive learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contrastive-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "InfoNCE loss" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contrastive-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "NT-Xent loss" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contrastive-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "contrastive loss" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contrastive-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "contrastive representation learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contrastive-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "contrastive self-supervised learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contrastive-learning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contrastive-learning> <http://www.w3.org/2004/02/skos/core#definition> "A representation learning technique that trains an encoder by pulling the embeddings of related (\"positive\") pairs of inputs together and pushing unrelated (\"negative\") pairs apart, typically with a pairwise margin loss or a softmax-based InfoNCE objective." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contrastive-learning> <http://www.w3.org/2004/02/skos/core#prefLabel> "Contrastive learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contrastive-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contrastive-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contrastive-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contrastive-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contrastive-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contrastive-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contrastive-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contrastive-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contrastive-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contrastive-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contrastive-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "training-and-adaptation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contrastive-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contrastive-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contrastive-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contrastive-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/clip> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> <http://www.w3.org/2000/01/rdf-schema#label> "Convolutional neural network" .
@@ -6812,6 +6838,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s6> <https://schema.org/url> "https://platform.claude.com/docs/es/build-with-claude/context-windows" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s1> <http://purl.org/dc/terms/publisher> "CVPR 2006 (Hadsell, Chopra and LeCun), author copy hosted at NYU" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s1> <http://purl.org/dc/terms/title> "Dimensionality Reduction by Learning an Invariant Mapping" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s1> <https://schema.org/url> "https://cs.nyu.edu/~sumit/publications/assets/cvpr06.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s2> <http://purl.org/dc/terms/publisher> "arXiv 1807.03748 (van den Oord, Li and Vinyals, DeepMind), 2018, via ar5iv" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s2> <http://purl.org/dc/terms/title> "Representation Learning with Contrastive Predictive Coding" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s2> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/1807.03748" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s3> <http://purl.org/dc/terms/publisher> "ICML 2020, PMLR 119:1597–1607 (Chen, Kornblith, Norouzi and Hinton)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s3> <http://purl.org/dc/terms/title> "A Simple Framework for Contrastive Learning of Visual Representations" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s3> <https://schema.org/url> "https://proceedings.mlr.press/v119/chen20j.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s4> <http://purl.org/dc/terms/publisher> "arXiv 2002.05709 (Chen, Kornblith, Norouzi and Hinton)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s4> <http://purl.org/dc/terms/title> "A Simple Framework for Contrastive Learning of Visual Representations (full text)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s4> <https://schema.org/url> "https://arxiv.org/pdf/2002.05709" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s5> <http://purl.org/dc/terms/publisher> "CVPR 2020 (He, Fan, Wu, Xie and Girshick), CVF Open Access" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s5> <http://purl.org/dc/terms/title> "Momentum Contrast for Unsupervised Visual Representation Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s5> <https://schema.org/url> "https://openaccess.thecvf.com/content_CVPR_2020/html/He_Momentum_Contrast_for_Unsupervised_Visual_Representation_Learning_CVPR_2020_paper.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s6> <http://purl.org/dc/terms/publisher> "ICML 2021, PMLR 139:8748–8763 (Radford et al., OpenAI)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s6> <http://purl.org/dc/terms/title> "Learning Transferable Visual Models From Natural Language Supervision" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s6> <https://schema.org/url> "https://proceedings.mlr.press/v139/radford21a.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s1> <http://purl.org/dc/terms/publisher> "Biological Cybernetics 36(4):193–202 (1980) (Fukushima), via ML Anthology" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s1> <http://purl.org/dc/terms/title> "Neocognitron: A Self-Organizing Neural Network Model for a Mechanism of Pattern Recognition Unaffected by Shift in Position" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/convolutional-neural-network/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

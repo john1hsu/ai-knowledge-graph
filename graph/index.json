@@ -1297,6 +1297,30 @@
     ]
   },
   {
+    "id": "kt:contrastive-learning",
+    "title": "Contrastive learning",
+    "aliases": [
+      "contrastive representation learning",
+      "contrastive self-supervised learning",
+      "InfoNCE loss",
+      "NT-Xent loss",
+      "contrastive loss"
+    ],
+    "type": "Technique",
+    "domain": "training-and-adaptation",
+    "file": "articles/training-and-adaptation/contrastive-learning.md",
+    "created": "2026-11-17",
+    "maturity": "established",
+    "source_urls": [
+      "https://cs.nyu.edu/~sumit/publications/assets/cvpr06.pdf",
+      "https://ar5iv.labs.arxiv.org/html/1807.03748",
+      "https://proceedings.mlr.press/v119/chen20j.html",
+      "https://arxiv.org/pdf/2002.05709",
+      "https://openaccess.thecvf.com/content_CVPR_2020/html/He_Momentum_Contrast_for_Unsupervised_Visual_Representation_Learning_CVPR_2020_paper.html",
+      "https://proceedings.mlr.press/v139/radford21a.html"
+    ]
+  },
+  {
     "id": "kt:convolutional-neural-network",
     "title": "Convolutional neural network",
     "aliases": [
