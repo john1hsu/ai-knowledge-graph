@@ -12,6 +12,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ai-hardware` | `kt:ai-accelerator`, `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
 | `kt:microsoft-research` | `kt:alfworld`, `kt:autogen`, `kt:residual-connection`, `kt:graphrag` |
 | `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
+| `kt:thompson-sampling` | `kt:exploration-exploitation`, `kt:multi-armed-bandit`, `kt:upper-confidence-bound`, `kt:upper-confidence-bound` |
 | `kt:zero-shot-learning` | `kt:clip`, `kt:zero-shot-prompting`, `kt:contrastive-learning`, `kt:instruction-tuning` |
 | `kt:application-specific-integrated-circuit` | `kt:deep-blue`, `kt:ai-accelerator`, `kt:tpu` |
 | `kt:automated-planning` | `kt:planning-in-llms`, `kt:general-problem-solver`, `kt:knowledge-representation` |
@@ -23,7 +24,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pascal-voc` | `kt:ms-coco`, `kt:object-detection`, `kt:semantic-segmentation` |
 | `kt:rmsprop` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:adagrad` |
 | `kt:tensor-parallelism` | `kt:distributed-training`, `kt:pipeline-parallelism`, `kt:orca-serving-system` |
-| `kt:upper-confidence-bound` | `kt:exploration-exploitation`, `kt:monte-carlo-tree-search`, `kt:multi-armed-bandit` |
 | `kt:zero-redundancy-optimizer` | `kt:data-parallelism`, `kt:distributed-training`, `kt:pipeline-parallelism` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
 | `kt:adversarial-training` | `kt:adversarial-example`, `kt:adversarial-machine-learning` |
@@ -37,6 +37,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:catastrophic-forgetting` | `kt:fine-tuning`, `kt:parameter-efficient-fine-tuning` |
 | `kt:cliff-shaw` | `kt:general-problem-solver`, `kt:logic-theorist` |
 | `kt:computing-power-and-the-governance-of-artificial-intelligence` | `kt:compute-governance`, `kt:compute-governance` |
+| `kt:contextual-bandit` | `kt:multi-armed-bandit`, `kt:upper-confidence-bound` |
 | `kt:cross-validation` | `kt:bias-variance-tradeoff`, `kt:overfitting` |
 | `kt:curse-of-dimensionality` | `kt:universal-approximation-theorem`, `kt:dimensionality-reduction` |
 | `kt:deep-belief-network` | `kt:geoffrey-hinton`, `kt:deep-learning` |
@@ -83,6 +84,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:post-training-quantization` | `kt:awq`, `kt:gptq` |
 | `kt:probabilistic-relevance-framework` | `kt:bm25`, `kt:bm25` |
 | `kt:r-cnn` | `kt:faster-r-cnn`, `kt:yolo` |
+| `kt:recommender-system` | `kt:multi-armed-bandit`, `kt:upper-confidence-bound` |
 | `kt:scikit-learn` | `kt:dimensionality-reduction`, `kt:principal-component-analysis` |
 | `kt:self-correction` | `kt:reflexion`, `kt:self-refine-iterative-refinement-with-self-feedback` |
 | `kt:self-play` | `kt:alphago-zero`, `kt:alphazero` |
@@ -92,7 +94,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tensorflow-serving` | `kt:model-serving`, `kt:triton-inference-server` |
 | `kt:text-to-image-generation` | `kt:diffusion-model`, `kt:latent-diffusion-model` |
 | `kt:the-curious-case-of-neural-text-degeneration` | `kt:beam-search`, `kt:sampling-temperature-and-top-p` |
-| `kt:thompson-sampling` | `kt:exploration-exploitation`, `kt:multi-armed-bandit` |
 | `kt:tokenization` | `kt:perplexity`, `kt:structured-output` |
 | `kt:transposed-convolution` | `kt:semantic-segmentation`, `kt:u-net` |
 | `kt:vector-space-model` | `kt:information-retrieval`, `kt:tf-idf` |
@@ -122,6 +123,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:arena-hard` | `kt:mt-bench` |
 | `kt:arithmetic-intensity` | `kt:gpu-computing` |
 | `kt:arthur-samuel` | `kt:machine-learning` |
+| `kt:asymptotically-efficient-adaptive-allocation-rules` | `kt:upper-confidence-bound` |
 | `kt:asynchronous-advantage-actor-critic` | `kt:actor-critic` |
 | `kt:augustin-louis-cauchy` | `kt:gradient-descent` |
 | `kt:automated-theorem-proving` | `kt:logic-theorist` |
@@ -165,7 +167,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:conll-2003` | `kt:named-entity-recognition` |
 | `kt:constitutional-ai-harmlessness-from-ai-feedback` | `kt:constitutional-ai` |
 | `kt:constrained-decoding` | `kt:structured-output` |
-| `kt:contextual-bandit` | `kt:multi-armed-bandit` |
 | `kt:contextual-calibration` | `kt:prompt-sensitivity` |
 | `kt:council-of-europe` | `kt:council-of-europe-framework-convention-on-ai` |
 | `kt:cross-entropy` | `kt:perplexity` |
@@ -223,6 +224,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:federated-learning` | `kt:data-poisoning` |
 | `kt:feng-hsiung-hsu` | `kt:deep-blue` |
 | `kt:findings-of-the-2014-workshop-on-statistical-machine-translation` | `kt:wmt-2014` |
+| `kt:finite-time-analysis-of-the-multiarmed-bandit-problem` | `kt:upper-confidence-bound` |
 | `kt:flamingo-a-visual-language-model-for-few-shot-learning` | `kt:vision-language-model` |
 | `kt:frank-rosenblatt` | `kt:perceptron` |
 | `kt:from-local-to-global-a-graphrag-approach-to-query-focused-summarization` | `kt:graphrag` |
@@ -395,7 +397,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:random-forest` | `kt:ensemble-methods` |
 | `kt:realm` | `kt:retrieval-augmented-generation` |
 | `kt:reciprocal-rank-fusion` | `kt:hybrid-search` |
-| `kt:recommender-system` | `kt:multi-armed-bandit` |
 | `kt:reconciling-modern-machine-learning-practice-and-the-bias-variance-trade-off` | `kt:double-descent` |
 | `kt:rectified-linear-unit` | `kt:activation-function` |
 | `kt:reducing-the-dimensionality-of-data-with-neural-networks` | `kt:autoencoder` |

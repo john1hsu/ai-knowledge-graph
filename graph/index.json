@@ -4955,6 +4955,28 @@
     ]
   },
   {
+    "id": "kt:upper-confidence-bound",
+    "title": "Upper confidence bound",
+    "aliases": [
+      "UCB",
+      "UCB1",
+      "UCB algorithm",
+      "upper confidence bound algorithm"
+    ],
+    "type": "Algorithm",
+    "domain": "reinforcement-learning",
+    "file": "articles/reinforcement-learning/upper-confidence-bound.md",
+    "created": "2026-11-17",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://homes.di.unimi.it/%7Ecesabian/Pubblicazioni/ml-02.pdf",
+      "https://ece.iisc.ac.in/~aditya/E1245_Online_Prediction_Learning_F2018/lattimore-szepesvari18bandit-algorithms.pdf",
+      "https://cs.nyu.edu/~shasha/papers/uct.pdf",
+      "https://proceedings.mlr.press/v19/garivier11a.html",
+      "https://microsoft.com/en-us/research/wp-content/uploads/2016/02/p661.pdf"
+    ]
+  },
+  {
     "id": "kt:vanishing-gradient-problem",
     "title": "Vanishing gradient problem",
     "aliases": [

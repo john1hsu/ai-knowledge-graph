@@ -16038,6 +16038,96 @@
       ]
     },
     {
+      "@id": "kt:upper-confidence-bound",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "Upper confidence bound",
+      "skos:definition": "A family of bandit algorithms built on optimism in the face of uncertainty: each round the learner picks the action whose empirical mean reward plus a confidence bonus is largest, with the bonus shrinking as the action is tried more, which yields logarithmic regret.",
+      "kto:domain": "reinforcement-learning",
+      "dcterms:created": "2026-11-17",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Finite-time Analysis of the Multiarmed Bandit Problem",
+          "dcterms:publisher": "Machine Learning 47:235-256, 2002 (Auer, Cesa-Bianchi and Fischer), author's copy",
+          "schema:url": "https://homes.di.unimi.it/%7Ecesabian/Pubblicazioni/ml-02.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Bandit Algorithms (draft text), ch. 7 The Upper Confidence Bound Algorithm",
+          "dcterms:publisher": "Lattimore and Szepesvári, course copy hosted by IISc E1 245 Online Prediction and Learning, 2018",
+          "schema:url": "https://ece.iisc.ac.in/~aditya/E1245_Online_Prediction_Learning_F2018/lattimore-szepesvari18bandit-algorithms.pdf",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Bandit Based Monte-Carlo Planning",
+          "dcterms:publisher": "ECML 2006, LNAI 4212 (Kocsis and Szepesvári), author's copy",
+          "schema:url": "https://cs.nyu.edu/~shasha/papers/uct.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The KL-UCB Algorithm for Bounded Stochastic Bandits and Beyond",
+          "dcterms:publisher": "COLT 2011, PMLR 19:359-376 (Garivier and Cappé)",
+          "schema:url": "https://proceedings.mlr.press/v19/garivier11a.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "A Contextual-Bandit Approach to Personalized News Article Recommendation",
+          "dcterms:publisher": "WWW 2010 (Li, Chu, Langford and Schapire), Microsoft Research copy",
+          "schema:url": "https://microsoft.com/en-us/research/wp-content/uploads/2016/02/p661.pdf",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/reinforcement-learning/upper-confidence-bound.md",
+      "skos:altLabel": [
+        "UCB",
+        "UCB1",
+        "UCB algorithm",
+        "upper confidence bound algorithm"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:multi-armed-bandit"
+        },
+        {
+          "@id": "kt:exploration-exploitation"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:thompson-sampling"
+        },
+        {
+          "@id": "kt:contextual-bandit"
+        },
+        {
+          "@id": "kt:reinforcement-learning"
+        },
+        {
+          "@id": "kt:recommender-system"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:finite-time-analysis-of-the-multiarmed-bandit-problem"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:monte-carlo-tree-search"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:thompson-sampling"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:asymptotically-efficient-adaptive-allocation-rules"
+        }
+      ]
+    },
+    {
       "@id": "kt:approximate-nearest-neighbor-search",
       "@type": "kto:Technique",
       "skos:prefLabel": "Approximate nearest neighbor search",

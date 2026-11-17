@@ -11444,6 +11444,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/unsupervised-learning/s6> <https://schema.org/url> "https://cs.brown.edu/courses/csci1820/spring-2022/resources/Dempster_Laird_Rubin_1977.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/upper-confidence-bound/s1> <http://purl.org/dc/terms/publisher> "Machine Learning 47:235-256, 2002 (Auer, Cesa-Bianchi and Fischer), author's copy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/upper-confidence-bound/s1> <http://purl.org/dc/terms/title> "Finite-time Analysis of the Multiarmed Bandit Problem" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/upper-confidence-bound/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/upper-confidence-bound/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/upper-confidence-bound/s1> <https://schema.org/url> "https://homes.di.unimi.it/%7Ecesabian/Pubblicazioni/ml-02.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/upper-confidence-bound/s2> <http://purl.org/dc/terms/publisher> "Lattimore and Szepesvári, course copy hosted by IISc E1 245 Online Prediction and Learning, 2018" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/upper-confidence-bound/s2> <http://purl.org/dc/terms/title> "Bandit Algorithms (draft text), ch. 7 The Upper Confidence Bound Algorithm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/upper-confidence-bound/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/upper-confidence-bound/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/upper-confidence-bound/s2> <https://schema.org/url> "https://ece.iisc.ac.in/~aditya/E1245_Online_Prediction_Learning_F2018/lattimore-szepesvari18bandit-algorithms.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/upper-confidence-bound/s3> <http://purl.org/dc/terms/publisher> "ECML 2006, LNAI 4212 (Kocsis and Szepesvári), author's copy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/upper-confidence-bound/s3> <http://purl.org/dc/terms/title> "Bandit Based Monte-Carlo Planning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/upper-confidence-bound/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/upper-confidence-bound/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/upper-confidence-bound/s3> <https://schema.org/url> "https://cs.nyu.edu/~shasha/papers/uct.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/upper-confidence-bound/s4> <http://purl.org/dc/terms/publisher> "COLT 2011, PMLR 19:359-376 (Garivier and Cappé)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/upper-confidence-bound/s4> <http://purl.org/dc/terms/title> "The KL-UCB Algorithm for Bounded Stochastic Bandits and Beyond" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/upper-confidence-bound/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/upper-confidence-bound/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/upper-confidence-bound/s4> <https://schema.org/url> "https://proceedings.mlr.press/v19/garivier11a.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/upper-confidence-bound/s5> <http://purl.org/dc/terms/publisher> "WWW 2010 (Li, Chu, Langford and Schapire), Microsoft Research copy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/upper-confidence-bound/s5> <http://purl.org/dc/terms/title> "A Contextual-Bandit Approach to Personalized News Article Recommendation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/upper-confidence-bound/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/upper-confidence-bound/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/upper-confidence-bound/s5> <https://schema.org/url> "https://microsoft.com/en-us/research/wp-content/uploads/2016/02/p661.pdf" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/vanishing-gradient-problem/s1> <http://purl.org/dc/terms/publisher> "ICML 2013, PMLR 28(3):1310–1318 (Pascanu, Mikolov and Bengio)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/vanishing-gradient-problem/s1> <http://purl.org/dc/terms/title> "On the difficulty of training recurrent neural networks" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/vanishing-gradient-problem/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -12373,6 +12398,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/k-means-clustering> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/upper-confidence-bound> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/upper-confidence-bound> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/upper-confidence-bound> <http://www.w3.org/2000/01/rdf-schema#label> "Upper confidence bound" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/upper-confidence-bound> <http://www.w3.org/2004/02/skos/core#altLabel> "UCB algorithm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/upper-confidence-bound> <http://www.w3.org/2004/02/skos/core#altLabel> "UCB" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/upper-confidence-bound> <http://www.w3.org/2004/02/skos/core#altLabel> "UCB1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/upper-confidence-bound> <http://www.w3.org/2004/02/skos/core#altLabel> "upper confidence bound algorithm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/upper-confidence-bound> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/upper-confidence-bound> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/multi-armed-bandit> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/upper-confidence-bound> <http://www.w3.org/2004/02/skos/core#definition> "A family of bandit algorithms built on optimism in the face of uncertainty: each round the learner picks the action whose empirical mean reward plus a confidence bonus is largest, with the bonus shrinking as the action is tried more, which yields logarithmic regret." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/upper-confidence-bound> <http://www.w3.org/2004/02/skos/core#prefLabel> "Upper confidence bound" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/upper-confidence-bound> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/contextual-bandit> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/upper-confidence-bound> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/recommender-system> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/upper-confidence-bound> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/upper-confidence-bound> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/thompson-sampling> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/upper-confidence-bound> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/upper-confidence-bound/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/upper-confidence-bound> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/upper-confidence-bound/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/upper-confidence-bound> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/upper-confidence-bound/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/upper-confidence-bound> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/upper-confidence-bound/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/upper-confidence-bound> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/upper-confidence-bound/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/upper-confidence-bound> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/thompson-sampling> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/upper-confidence-bound> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "reinforcement-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/upper-confidence-bound> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/asymptotically-efficient-adaptive-allocation-rules> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/upper-confidence-bound> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/finite-time-analysis-of-the-multiarmed-bandit-problem> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/upper-confidence-bound> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/upper-confidence-bound> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> <http://purl.org/dc/terms/created> "2026-11-15" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> <http://www.w3.org/2000/01/rdf-schema#label> "Vanishing gradient problem" .
