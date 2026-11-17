@@ -10970,6 +10970,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/statistical-learning-theory/s6> <https://schema.org/url> "https://www.ocw.mit.edu/courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/pages/lecture-notes" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s1> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (Zhang, Lipton, Li and Smola), d2l.ai" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s1> <http://purl.org/dc/terms/title> "12.4. Stochastic Gradient Descent" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s1> <https://schema.org/url> "https://d2l.ai/chapter_optimization/sgd.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s2> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (Zhang, Lipton, Li and Smola), d2l.ai" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s2> <http://purl.org/dc/terms/title> "12.5. Minibatch Stochastic Gradient Descent" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s2> <https://schema.org/url> "https://d2l.ai/chapter_optimization/minibatch-sgd.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s3> <http://purl.org/dc/terms/publisher> "SIAM Review 60(2), 223–311 (2018) (Bottou, Curtis and Nocedal); authors' copy hosted at leon.bottou.org" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s3> <http://purl.org/dc/terms/title> "Optimization Methods for Large-Scale Machine Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s3> <https://schema.org/url> "https://leon.bottou.org/publications/pdf/sirev-2018.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s4> <http://purl.org/dc/terms/publisher> "Proceedings of COMPSTAT'2010, Springer, pp. 177–187 (Bottou); author's paper page" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s4> <http://purl.org/dc/terms/title> "Large-Scale Machine Learning with Stochastic Gradient Descent" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s4> <https://schema.org/url> "https://leon.bottou.org/papers/bottou-2010" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s5> <http://purl.org/dc/terms/publisher> "Proceedings of the 30th ICML, PMLR 28(3), 1139–1147 (2013) (Sutskever, Martens, Dahl and Hinton)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s5> <http://purl.org/dc/terms/title> "On the importance of initialization and momentum in deep learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s5> <https://schema.org/url> "https://proceedings.mlr.press/v28/sutskever13.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s6> <http://purl.org/dc/terms/publisher> "Keskar, Mudigere, Nocedal, Smelyanskiy and Tang, arXiv:1609.04836 (ICLR 2017)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s6> <http://purl.org/dc/terms/title> "On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s6> <https://schema.org/url> "https://arxiv.org/abs/1609.04836v2" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s1> <http://purl.org/dc/terms/publisher> "arXiv 2307.09702v4 (Willard and Louf, Normal Computing)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s1> <http://purl.org/dc/terms/title> "Efficient Guided Generation for Large Language Models" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/structured-output/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -11993,6 +12023,37 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/pac-learning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/vc-dimension> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> <http://www.w3.org/2000/01/rdf-schema#label> "Stochastic gradient descent" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> <http://www.w3.org/2004/02/skos/core#altLabel> "SGD" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> <http://www.w3.org/2004/02/skos/core#altLabel> "mini-batch SGD" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> <http://www.w3.org/2004/02/skos/core#altLabel> "minibatch SGD" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> <http://www.w3.org/2004/02/skos/core#altLabel> "minibatch stochastic gradient descent" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> <http://www.w3.org/2004/02/skos/core#altLabel> "stochastic gradient method" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/gradient-descent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/mathematical-optimization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> <http://www.w3.org/2004/02/skos/core#definition> "An iterative optimization method that updates model parameters using a gradient estimated from one randomly chosen training example or a small random minibatch rather than the whole dataset, trading noisy steps for a per-step cost that does not grow with dataset size; with its momentum and adaptive descendants it is the standard way to train neural networks." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stochastic gradient descent" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/data-parallelism> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/stochastic-gradient-descent/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-approximation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/loss-function> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ml-foundations" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/momentum> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/a-stochastic-approximation-method> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> <http://purl.org/dc/terms/created> "2026-11-14" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/structured-output> <http://www.w3.org/2000/01/rdf-schema#label> "Structured output" .

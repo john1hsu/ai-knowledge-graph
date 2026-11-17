@@ -13297,6 +13297,114 @@
       ]
     },
     {
+      "@id": "kt:stochastic-gradient-descent",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "Stochastic gradient descent",
+      "skos:definition": "An iterative optimization method that updates model parameters using a gradient estimated from one randomly chosen training example or a small random minibatch rather than the whole dataset, trading noisy steps for a per-step cost that does not grow with dataset size; with its momentum and adaptive descendants it is the standard way to train neural networks.",
+      "kto:domain": "ml-foundations",
+      "dcterms:created": "2026-11-17",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "12.4. Stochastic Gradient Descent",
+          "dcterms:publisher": "Dive into Deep Learning (Zhang, Lipton, Li and Smola), d2l.ai",
+          "schema:url": "https://d2l.ai/chapter_optimization/sgd.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "12.5. Minibatch Stochastic Gradient Descent",
+          "dcterms:publisher": "Dive into Deep Learning (Zhang, Lipton, Li and Smola), d2l.ai",
+          "schema:url": "https://d2l.ai/chapter_optimization/minibatch-sgd.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Optimization Methods for Large-Scale Machine Learning",
+          "dcterms:publisher": "SIAM Review 60(2), 223–311 (2018) (Bottou, Curtis and Nocedal); authors' copy hosted at leon.bottou.org",
+          "schema:url": "https://leon.bottou.org/publications/pdf/sirev-2018.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Large-Scale Machine Learning with Stochastic Gradient Descent",
+          "dcterms:publisher": "Proceedings of COMPSTAT'2010, Springer, pp. 177–187 (Bottou); author's paper page",
+          "schema:url": "https://leon.bottou.org/papers/bottou-2010",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "On the importance of initialization and momentum in deep learning",
+          "dcterms:publisher": "Proceedings of the 30th ICML, PMLR 28(3), 1139–1147 (2013) (Sutskever, Martens, Dahl and Hinton)",
+          "schema:url": "https://proceedings.mlr.press/v28/sutskever13.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima",
+          "dcterms:publisher": "Keskar, Mudigere, Nocedal, Smelyanskiy and Tang, arXiv:1609.04836 (ICLR 2017)",
+          "schema:url": "https://arxiv.org/abs/1609.04836v2",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/ml-foundations/stochastic-gradient-descent.md",
+      "skos:altLabel": [
+        "SGD",
+        "stochastic gradient method",
+        "minibatch stochastic gradient descent",
+        "mini-batch SGD",
+        "minibatch SGD"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:gradient-descent"
+        },
+        {
+          "@id": "kt:mathematical-optimization"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:backpropagation"
+        },
+        {
+          "@id": "kt:adam-optimizer"
+        },
+        {
+          "@id": "kt:adagrad"
+        },
+        {
+          "@id": "kt:data-parallelism"
+        },
+        {
+          "@id": "kt:batch-normalization"
+        },
+        {
+          "@id": "kt:overfitting"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:stochastic-approximation"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:a-stochastic-approximation-method"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:loss-function"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:momentum"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:deep-learning"
+        }
+      ]
+    },
+    {
       "@id": "kt:supervised-learning",
       "@type": "kto:Paradigm",
       "skos:prefLabel": "Supervised learning",

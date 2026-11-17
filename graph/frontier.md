@@ -5,7 +5,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:heuristic-search` | `kt:deep-blue`, `kt:general-problem-solver`, `kt:logic-theorist`, `kt:beam-search`, `kt:tree-of-thoughts` |
-| `kt:stochastic-gradient-descent` | `kt:data-parallelism`, `kt:adam-optimizer`, `kt:adagrad`, `kt:adagrad`, `kt:gradient-descent` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:latent-diffusion-model`, `kt:autoencoder`, `kt:generative-model` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:ai-hardware` | `kt:ai-accelerator`, `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
@@ -20,7 +19,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
 | `kt:fairness-accountability-and-transparency` | `kt:algorithmic-bias-and-fairness`, `kt:datasheets-for-datasets`, `kt:model-cards` |
 | `kt:foundation-model` | `kt:self-supervised-learning`, `kt:transfer-learning`, `kt:large-language-model` |
+| `kt:loss-function` | `kt:gradient-descent`, `kt:stochastic-gradient-descent`, `kt:supervised-learning` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
+| `kt:mathematical-optimization` | `kt:adagrad`, `kt:gradient-descent`, `kt:stochastic-gradient-descent` |
 | `kt:pascal-voc` | `kt:ms-coco`, `kt:object-detection`, `kt:semantic-segmentation` |
 | `kt:rmsprop` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:adagrad` |
 | `kt:tensor-parallelism` | `kt:distributed-training`, `kt:pipeline-parallelism`, `kt:orca-serving-system` |
@@ -68,11 +69,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:lmsys` | `kt:chatbot-arena`, `kt:mt-bench` |
 | `kt:logistic-regression` | `kt:conditional-random-field`, `kt:bradley-terry-model` |
 | `kt:lora` | `kt:parameter-efficient-fine-tuning`, `kt:qlora` |
-| `kt:loss-function` | `kt:gradient-descent`, `kt:supervised-learning` |
 | `kt:lottery-ticket-hypothesis` | `kt:model-compression`, `kt:model-pruning` |
 | `kt:marvin-minsky` | `kt:dartmouth-workshop`, `kt:perceptron` |
 | `kt:masked-language-modeling` | `kt:self-supervised-learning`, `kt:bert` |
-| `kt:mathematical-optimization` | `kt:adagrad`, `kt:gradient-descent` |
 | `kt:medical-image-analysis` | `kt:semantic-segmentation`, `kt:u-net` |
 | `kt:meta-ai` | `kt:toolformer`, `kt:pytorch` |
 | `kt:mini-swe-agent` | `kt:swe-agent`, `kt:swe-agent` |
@@ -100,6 +99,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:transposed-convolution` | `kt:semantic-segmentation`, `kt:u-net` |
 | `kt:vector-space-model` | `kt:information-retrieval`, `kt:tf-idf` |
 | `kt:weight-decay` | `kt:dropout`, `kt:regularization` |
+| `kt:a-stochastic-approximation-method` | `kt:stochastic-gradient-descent` |
 | `kt:activation-checkpointing` | `kt:pipeline-parallelism` |
 | `kt:adam-a-method-for-stochastic-optimization` | `kt:adam-optimizer` |
 | `kt:adamw` | `kt:adam-optimizer` |
@@ -344,6 +344,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:model-cards-for-model-reporting` | `kt:model-cards` |
 | `kt:model-collapse` | `kt:synthetic-data` |
 | `kt:model-registry` | `kt:mlops` |
+| `kt:momentum` | `kt:stochastic-gradient-descent` |
 | `kt:monte-carlo-dropout` | `kt:dropout` |
 | `kt:mrkl-systems` | `kt:tool-use` |
 | `kt:ms-marco` | `kt:reranking` |
@@ -443,6 +444,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:speech-processing` | `kt:automatic-speech-recognition` |
 | `kt:stanford-nlp-group` | `kt:glove` |
 | `kt:star-bootstrapping-reasoning-with-reasoning` | `kt:star-self-taught-reasoner` |
+| `kt:stochastic-approximation` | `kt:stochastic-gradient-descent` |
 | `kt:stone-weierstrass-theorem` | `kt:universal-approximation-theorem` |
 | `kt:strategic-computing-initiative` | `kt:ai-winter` |
 | `kt:strong-ai` | `kt:chinese-room-argument` |

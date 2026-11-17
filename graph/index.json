@@ -4523,6 +4523,30 @@
     ]
   },
   {
+    "id": "kt:stochastic-gradient-descent",
+    "title": "Stochastic gradient descent",
+    "aliases": [
+      "SGD",
+      "stochastic gradient method",
+      "minibatch stochastic gradient descent",
+      "mini-batch SGD",
+      "minibatch SGD"
+    ],
+    "type": "Algorithm",
+    "domain": "ml-foundations",
+    "file": "articles/ml-foundations/stochastic-gradient-descent.md",
+    "created": "2026-11-17",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://d2l.ai/chapter_optimization/sgd.html",
+      "https://d2l.ai/chapter_optimization/minibatch-sgd.html",
+      "https://leon.bottou.org/publications/pdf/sirev-2018.pdf",
+      "https://leon.bottou.org/papers/bottou-2010",
+      "https://proceedings.mlr.press/v28/sutskever13.html",
+      "https://arxiv.org/abs/1609.04836v2"
+    ]
+  },
+  {
     "id": "kt:structured-output",
     "title": "Structured output",
     "aliases": [
