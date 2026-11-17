@@ -379,7 +379,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:playing-atari-with-deep-reinforcement-learning` | `kt:deep-q-network` |
 | `kt:policy-gradient-methods-for-reinforcement-learning-with-function-approximation` | `kt:policy-gradient` |
 | `kt:policy-iteration` | `kt:markov-decision-process` |
-| `kt:prefix-caching` | `kt:kv-cache` |
 | `kt:prefix-tuning` | `kt:parameter-efficient-fine-tuning` |
 | `kt:pregel` | `kt:langgraph` |
 | `kt:princeton-university` | `kt:swe-bench` |
@@ -424,6 +423,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:self-consistency-improves-chain-of-thought-reasoning-in-language-models` | `kt:self-consistency` |
 | `kt:sentiment-analysis` | `kt:natural-language-processing` |
 | `kt:sepp-hochreiter` | `kt:long-short-term-memory` |
+| `kt:sglang` | `kt:prefix-caching` |
+| `kt:sglang-efficient-execution-of-structured-language-model-programs` | `kt:prefix-caching` |
 | `kt:show-your-work-scratchpads-for-intermediate-computation-with-language-models` | `kt:scratchpad` |
 | `kt:singular-value-decomposition` | `kt:principal-component-analysis` |
 | `kt:soar` | `kt:general-problem-solver` |
@@ -456,6 +457,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:thurstone-mosteller-model` | `kt:bradley-terry-model` |
 | `kt:tim-dettmers` | `kt:qlora` |
 | `kt:time-sharing` | `kt:eliza` |
+| `kt:timing-side-channel` | `kt:prefix-caching` |
 | `kt:timnit-gebru` | `kt:datasheets-for-datasets` |
 | `kt:training-verifiers-to-solve-math-word-problems` | `kt:gsm8k` |
 | `kt:transformer-engine` | `kt:tensor-cores` |

@@ -11078,6 +11078,96 @@
       ]
     },
     {
+      "@id": "kt:prefix-caching",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Prefix caching",
+      "skos:definition": "An LLM inference optimization that keeps the key-value (KV) cache computed for a prompt prefix after a request finishes and reuses it for later requests that begin with the identical token sequence, so the shared prefix is not recomputed during prefill.",
+      "kto:domain": "inference-and-optimization",
+      "dcterms:created": "2026-11-17",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "SGLang: Efficient Execution of Structured Language Model Programs",
+          "dcterms:publisher": "Zheng et al., NeurIPS 2024 (proceedings)",
+          "schema:url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/724be4472168f31ba1c9ac630f15dec8-Paper-Conference.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Automatic Prefix Caching (design document)",
+          "dcterms:publisher": "vLLM documentation",
+          "schema:url": "https://docs.vllm.ai/design/prefix_caching.html",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Prompt Cache: Modular Attention Reuse for Low-Latency Inference",
+          "dcterms:publisher": "Gim et al., arXiv 2311.04934 (v2, 2024)",
+          "schema:url": "https://arxiv.org/abs/2311.04934",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Prompt caching",
+          "dcterms:publisher": "Anthropic, Claude Platform documentation",
+          "schema:url": "https://platform.claude.com/en/docs/build-with-claude/prompt-caching",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Auditing Prompt Caching in Language Model APIs",
+          "dcterms:publisher": "Gu et al., ICML 2025, PMLR 267",
+          "schema:url": "https://proceedings.mlr.press/v267/gu25b.html",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/inference-and-optimization/prefix-caching.md",
+      "skos:altLabel": [
+        "prompt caching",
+        "automatic prefix caching",
+        "KV cache reuse",
+        "RadixAttention"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:llm-inference-optimization"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:batching-and-paged-attention"
+        },
+        {
+          "@id": "kt:retrieval-augmented-generation"
+        },
+        {
+          "@id": "kt:ai-agent"
+        },
+        {
+          "@id": "kt:chatbot-arena"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:kv-cache"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:vllm"
+        },
+        {
+          "@id": "kt:sglang"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:sglang-efficient-execution-of-structured-language-model-programs"
+        }
+      ],
+      "kto:causes": [
+        {
+          "@id": "kt:timing-side-channel"
+        }
+      ]
+    },
+    {
       "@id": "kt:quantization",
       "@type": "kto:Technique",
       "skos:prefLabel": "Quantization",

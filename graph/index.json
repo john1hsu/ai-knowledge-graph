@@ -3485,6 +3485,28 @@
     ]
   },
   {
+    "id": "kt:prefix-caching",
+    "title": "Prefix caching",
+    "aliases": [
+      "prompt caching",
+      "automatic prefix caching",
+      "KV cache reuse",
+      "RadixAttention"
+    ],
+    "type": "Technique",
+    "domain": "inference-and-optimization",
+    "file": "articles/inference-and-optimization/prefix-caching.md",
+    "created": "2026-11-17",
+    "maturity": "established",
+    "source_urls": [
+      "https://proceedings.neurips.cc/paper_files/paper/2024/file/724be4472168f31ba1c9ac630f15dec8-Paper-Conference.pdf",
+      "https://docs.vllm.ai/design/prefix_caching.html",
+      "https://arxiv.org/abs/2311.04934",
+      "https://platform.claude.com/en/docs/build-with-claude/prompt-caching",
+      "https://proceedings.mlr.press/v267/gu25b.html"
+    ]
+  },
+  {
     "id": "kt:pretraining",
     "title": "Pretraining: learning general-purpose representations before task adaptation",
     "aliases": [
