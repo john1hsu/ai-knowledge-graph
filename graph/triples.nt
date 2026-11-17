@@ -10911,6 +10911,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/supervised-learning/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/supervised-learning/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/supervised-learning/s4> <https://schema.org/url> "https://www.cs.princeton.edu/courses/archive/spring13/cos511/handouts/valiant.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s1> <http://purl.org/dc/terms/publisher> "Advances in Neural Information Processing Systems 37 (NeurIPS 2024), Yang et al." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s1> <http://purl.org/dc/terms/title> "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s1> <https://schema.org/url> "https://papers.neurips.cc/paper_files/paper/2024/hash/5a7c947568c1b1328ccc5230172e1e7c-Abstract-Conference.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s2> <http://purl.org/dc/terms/publisher> "arXiv 2405.15793 (Yang, Jimenez, Wettig, Lieret, Yao, Narasimhan, Press; authors' version)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s2> <http://purl.org/dc/terms/title> "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering (full paper)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s2> <https://schema.org/url> "https://arxiv.org/pdf/2405.15793.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s3> <http://purl.org/dc/terms/publisher> "SWE-agent project (Princeton University and Stanford University), GitHub" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s3> <http://purl.org/dc/terms/title> "SWE-agent repository and README" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s3> <https://schema.org/url> "https://github.com/SWE-agent/SWE-agent" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s4> <http://purl.org/dc/terms/publisher> "SWE-agent project (Princeton University and Stanford University), GitHub" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s4> <http://purl.org/dc/terms/title> "mini-swe-agent repository and README" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s4> <https://schema.org/url> "https://github.com/SWE-agent/mini-swe-agent" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s5> <http://purl.org/dc/terms/publisher> "arXiv 2409.16165 (Abramovich et al.; v3, June 2025)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s5> <http://purl.org/dc/terms/title> "EnIGMA: Interactive Tools Substantially Assist LM Agents in Finding Security Vulnerabilities" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "preprint" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s5> <https://schema.org/url> "https://arxiv.org/abs/2409.16165" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s6> <http://purl.org/dc/terms/publisher> "Anthropic (Erik S. and Barry Zhang), 19 December 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s6> <http://purl.org/dc/terms/title> "Building effective agents" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s6> <https://schema.org/url> "https://www.anthropic.com/research/building-effective-agents" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s1> <http://purl.org/dc/terms/publisher> "arXiv:2310.06770 (Jimenez, Yang, Wettig, Yao, Pei, Press, Narasimhan), v2 April 2024" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s1> <http://purl.org/dc/terms/title> "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-bench/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -11909,6 +11939,35 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/empirical-risk-minimization> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-agent> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-agent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Tool> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-agent> <http://www.w3.org/2000/01/rdf-schema#label> "SWE-agent" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-agent> <http://www.w3.org/2004/02/skos/core#altLabel> "SWE-agent (Princeton)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-agent> <http://www.w3.org/2004/02/skos/core#altLabel> "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-agent> <http://www.w3.org/2004/02/skos/core#altLabel> "agent-computer interface for software engineering" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-agent> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-agent> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-agent> <http://www.w3.org/2004/02/skos/core#definition> "An open-source language-model agent from Princeton and Stanford researchers (NeurIPS 2024) that resolves GitHub issues by working inside a repository through a purpose-built agent-computer interface (ACI) of search, file-viewing and linted editing commands, showing that interface design for LM agents strongly affects their performance." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-agent> <http://www.w3.org/2004/02/skos/core#prefLabel> "SWE-agent" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-agent> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-agent> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/computer-use-agents> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-agent> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-agent> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/mini-swe-agent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-agent> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/react-prompting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-agent> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-agent> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-agent> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-agent> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-agent> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-agent> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/swe-agent/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-agent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-agent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/princeton-university> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-agent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "agents-and-tool-use" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-agent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/humanevalfix> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-agent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-agent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/swe-agent-agent-computer-interfaces-enable-automated-software-engineering> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-agent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/swe-agent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#supersededBy> <https://github.com/john1hsu/ai-knowledge-graph/id/mini-swe-agent> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Benchmark> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> <http://www.w3.org/2000/01/rdf-schema#label> "SWE-bench" .

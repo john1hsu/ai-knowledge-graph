@@ -1163,6 +1163,112 @@
       ]
     },
     {
+      "@id": "kt:swe-agent",
+      "@type": "kto:Tool",
+      "skos:prefLabel": "SWE-agent",
+      "skos:definition": "An open-source language-model agent from Princeton and Stanford researchers (NeurIPS 2024) that resolves GitHub issues by working inside a repository through a purpose-built agent-computer interface (ACI) of search, file-viewing and linted editing commands, showing that interface design for LM agents strongly affects their performance.",
+      "kto:domain": "agents-and-tool-use",
+      "dcterms:created": "2026-11-17",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+          "dcterms:publisher": "Advances in Neural Information Processing Systems 37 (NeurIPS 2024), Yang et al.",
+          "schema:url": "https://papers.neurips.cc/paper_files/paper/2024/hash/5a7c947568c1b1328ccc5230172e1e7c-Abstract-Conference.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering (full paper)",
+          "dcterms:publisher": "arXiv 2405.15793 (Yang, Jimenez, Wettig, Lieret, Yao, Narasimhan, Press; authors' version)",
+          "schema:url": "https://arxiv.org/pdf/2405.15793.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "SWE-agent repository and README",
+          "dcterms:publisher": "SWE-agent project (Princeton University and Stanford University), GitHub",
+          "schema:url": "https://github.com/SWE-agent/SWE-agent",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "mini-swe-agent repository and README",
+          "dcterms:publisher": "SWE-agent project (Princeton University and Stanford University), GitHub",
+          "schema:url": "https://github.com/SWE-agent/mini-swe-agent",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "EnIGMA: Interactive Tools Substantially Assist LM Agents in Finding Security Vulnerabilities",
+          "dcterms:publisher": "arXiv 2409.16165 (Abramovich et al.; v3, June 2025)",
+          "schema:url": "https://arxiv.org/abs/2409.16165",
+          "kto:sourceType": "preprint"
+        },
+        {
+          "dcterms:title": "Building effective agents",
+          "dcterms:publisher": "Anthropic (Erik S. and Barry Zhang), 19 December 2024",
+          "schema:url": "https://www.anthropic.com/research/building-effective-agents",
+          "kto:sourceType": "lab-research"
+        }
+      ],
+      "kto:file": "articles/agents-and-tool-use/swe-agent.md",
+      "skos:altLabel": [
+        "SWE-agent (Princeton)",
+        "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+        "agent-computer interface for software engineering"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-agent"
+        },
+        {
+          "@id": "kt:tool-use"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:computer-use-agents"
+        },
+        {
+          "@id": "kt:react-prompting"
+        },
+        {
+          "@id": "kt:context-window"
+        },
+        {
+          "@id": "kt:agentic-workflow"
+        },
+        {
+          "@id": "kt:mini-swe-agent"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:swe-agent-agent-computer-interfaces-enable-automated-software-engineering"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:princeton-university"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:swe-bench"
+        },
+        {
+          "@id": "kt:humanevalfix"
+        }
+      ],
+      "kto:supersededBy": [
+        {
+          "@id": "kt:mini-swe-agent"
+        }
+      ]
+    },
+    {
       "@id": "kt:tool-use",
       "@type": "kto:Technique",
       "skos:prefLabel": "Tool use",

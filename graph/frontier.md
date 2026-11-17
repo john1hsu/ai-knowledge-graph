@@ -75,6 +75,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mathematical-optimization` | `kt:adagrad`, `kt:gradient-descent` |
 | `kt:medical-image-analysis` | `kt:semantic-segmentation`, `kt:u-net` |
 | `kt:meta-ai` | `kt:toolformer`, `kt:pytorch` |
+| `kt:mini-swe-agent` | `kt:swe-agent`, `kt:swe-agent` |
 | `kt:model-compression-caruana-2006` | `kt:model-compression`, `kt:knowledge-distillation` |
 | `kt:model-extraction` | `kt:adversarial-machine-learning`, `kt:data-poisoning` |
 | `kt:model-parallelism` | `kt:data-parallelism`, `kt:pipeline-parallelism` |
@@ -82,6 +83,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:muzero` | `kt:alphazero`, `kt:monte-carlo-tree-search` |
 | `kt:post-training` | `kt:hugging-face-trl`, `kt:instruction-tuning` |
 | `kt:post-training-quantization` | `kt:awq`, `kt:gptq` |
+| `kt:princeton-university` | `kt:swe-agent`, `kt:swe-bench` |
 | `kt:probabilistic-relevance-framework` | `kt:bm25`, `kt:bm25` |
 | `kt:r-cnn` | `kt:faster-r-cnn`, `kt:yolo` |
 | `kt:recommender-system` | `kt:multi-armed-bandit`, `kt:upper-confidence-bound` |
@@ -252,6 +254,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
 | `kt:high-resolution-image-synthesis-with-latent-diffusion-models` | `kt:latent-diffusion-model` |
 | `kt:humaneval` | `kt:reflexion` |
+| `kt:humanevalfix` | `kt:swe-agent` |
 | `kt:ian-goodfellow` | `kt:generative-adversarial-network` |
 | `kt:ibm-research` | `kt:deep-blue` |
 | `kt:if-beam-search-is-the-answer-what-was-the-question` | `kt:beam-search` |
@@ -383,7 +386,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:policy-iteration` | `kt:markov-decision-process` |
 | `kt:prefix-tuning` | `kt:parameter-efficient-fine-tuning` |
 | `kt:pregel` | `kt:langgraph` |
-| `kt:princeton-university` | `kt:swe-bench` |
 | `kt:probabilistic-graphical-model` | `kt:conditional-random-field` |
 | `kt:process-reward-model` | `kt:test-time-compute` |
 | `kt:program-induction` | `kt:program-induction-by-rationale-generation` |
@@ -444,7 +446,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategic-computing-initiative` | `kt:ai-winter` |
 | `kt:strong-ai` | `kt:chinese-room-argument` |
 | `kt:stylegan` | `kt:generative-adversarial-network` |
-| `kt:swe-agent` | `kt:swe-bench` |
+| `kt:swe-agent-agent-computer-interfaces-enable-automated-software-engineering` | `kt:swe-agent` |
 | `kt:swe-bench-can-language-models-resolve-real-world-github-issues` | `kt:swe-bench` |
 | `kt:swiglu` | `kt:activation-function` |
 | `kt:swin-transformer` | `kt:vision-transformer` |
