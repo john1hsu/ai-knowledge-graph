@@ -2203,6 +2203,98 @@
       ]
     },
     {
+      "@id": "kt:general-problem-solver",
+      "@type": "kto:Model",
+      "skos:prefLabel": "General Problem Solver",
+      "skos:definition": "An early artificial intelligence program by Allen Newell, J. C. (Cliff) Shaw and Herbert A. Simon, first run in 1957, that separated a general problem-solving method — means-ends analysis over goals, operators and differences — from the knowledge of any particular task, and doubled as a theory of human problem solving.",
+      "kto:domain": "ai-history",
+      "dcterms:created": "2026-11-17",
+      "kto:maturity": "historical",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "General Problem Solver",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://britannica.com/science/General-Problem-Solver",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Report on a General Problem-Solving Program (archival copy, dated 30 December 1958)",
+          "dcterms:publisher": "A. Newell and H. A. Simon; Edward A. Feigenbaum papers, Stanford University Libraries Special Collections",
+          "schema:url": "https://purl.stanford.edu/cq467bm9495",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Computer Science as Empirical Inquiry: Symbols and Search (1975 ACM Turing Award Lecture)",
+          "dcterms:publisher": "A. Newell and H. A. Simon, Communications of the ACM 19(3):113–126, 1976 (course reading copy, CSU Long Beach)",
+          "schema:url": "https://home.csulb.edu/~cwallis/382/readings/482/Newell&Simonpssh.1976.html",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Paradigms of Artificial Intelligence Programming, Chapter 4: GPS: The General Problem Solver",
+          "dcterms:publisher": "P. Norvig, Morgan Kaufmann 1992 (author's open edition on GitHub)",
+          "schema:url": "https://github.com/norvig/paip-lisp/blob/main/docs/chapter4.md",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Allen Newell",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/biography/Allen-Newell",
+          "kto:sourceType": "encyclopedia"
+        }
+      ],
+      "kto:file": "articles/ai-history/general-problem-solver.md",
+      "skos:altLabel": [
+        "GPS",
+        "General Problem Solver program",
+        "Newell-Shaw-Simon GPS"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:symbolic-ai"
+        },
+        {
+          "@id": "kt:heuristic-search"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:automated-planning"
+        },
+        {
+          "@id": "kt:planning-in-llms"
+        },
+        {
+          "@id": "kt:ai-agent"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:allen-newell"
+        },
+        {
+          "@id": "kt:herbert-a-simon"
+        },
+        {
+          "@id": "kt:cliff-shaw"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:report-on-a-general-problem-solving-program"
+        }
+      ],
+      "kto:precededBy": [
+        {
+          "@id": "kt:logic-theorist"
+        }
+      ],
+      "kto:followedBy": [
+        {
+          "@id": "kt:soar"
+        }
+      ]
+    },
+    {
       "@id": "kt:geoffrey-hinton",
       "@type": "kto:Person",
       "skos:prefLabel": "Geoffrey Hinton",

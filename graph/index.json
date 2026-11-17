@@ -1821,6 +1821,27 @@
     ]
   },
   {
+    "id": "kt:general-problem-solver",
+    "title": "General Problem Solver",
+    "aliases": [
+      "GPS",
+      "General Problem Solver program",
+      "Newell-Shaw-Simon GPS"
+    ],
+    "type": "Model",
+    "domain": "ai-history",
+    "file": "articles/ai-history/general-problem-solver.md",
+    "created": "2026-11-17",
+    "maturity": "historical",
+    "source_urls": [
+      "https://britannica.com/science/General-Problem-Solver",
+      "https://purl.stanford.edu/cq467bm9495",
+      "https://home.csulb.edu/~cwallis/382/readings/482/Newell&Simonpssh.1976.html",
+      "https://github.com/norvig/paip-lisp/blob/main/docs/chapter4.md",
+      "https://www.britannica.com/biography/Allen-Newell"
+    ]
+  },
+  {
     "id": "kt:generative-adversarial-network",
     "title": "Generative adversarial network",
     "aliases": [

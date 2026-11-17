@@ -5,11 +5,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:google-deepmind` | `kt:google`, `kt:alphago-zero`, `kt:alphago`, `kt:alphazero`, `kt:deep-q-network` |
+| `kt:heuristic-search` | `kt:deep-blue`, `kt:general-problem-solver`, `kt:logic-theorist`, `kt:beam-search`, `kt:tree-of-thoughts` |
 | `kt:openai` | `kt:clip`, `kt:gsm8k`, `kt:proximal-policy-optimization`, `kt:concrete-problems-in-ai-safety`, `kt:language-models-are-few-shot-learners` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:ai-hardware` | `kt:ai-accelerator`, `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
 | `kt:ai-risk-management` | `kt:council-of-europe-framework-convention-on-ai`, `kt:iso-iec-42001`, `kt:nist-ai-risk-management-framework`, `kt:oecd-ai-principles` |
-| `kt:heuristic-search` | `kt:deep-blue`, `kt:logic-theorist`, `kt:beam-search`, `kt:tree-of-thoughts` |
 | `kt:microsoft-research` | `kt:alfworld`, `kt:autogen`, `kt:residual-connection`, `kt:graphrag` |
 | `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:latent-diffusion-model`, `kt:generative-model` |
@@ -32,12 +32,15 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
 | `kt:adversarial-training` | `kt:adversarial-example`, `kt:adversarial-machine-learning` |
 | `kt:all-reduce` | `kt:data-parallelism`, `kt:distributed-training` |
+| `kt:allen-newell` | `kt:general-problem-solver`, `kt:logic-theorist` |
 | `kt:alpha-beta-pruning` | `kt:deep-blue`, `kt:monte-carlo-tree-search` |
 | `kt:anthropic` | `kt:model-context-protocol`, `kt:constitutional-ai` |
 | `kt:apache-lucene` | `kt:bm25`, `kt:tf-idf` |
 | `kt:autoencoder` | `kt:representation-learning`, `kt:dimensionality-reduction` |
+| `kt:automated-planning` | `kt:planning-in-llms`, `kt:general-problem-solver` |
 | `kt:automatic-differentiation` | `kt:pytorch`, `kt:backpropagation` |
 | `kt:catastrophic-forgetting` | `kt:fine-tuning`, `kt:parameter-efficient-fine-tuning` |
+| `kt:cliff-shaw` | `kt:general-problem-solver`, `kt:logic-theorist` |
 | `kt:computing-power-and-the-governance-of-artificial-intelligence` | `kt:compute-governance`, `kt:compute-governance` |
 | `kt:cross-validation` | `kt:bias-variance-tradeoff`, `kt:overfitting` |
 | `kt:curse-of-dimensionality` | `kt:universal-approximation-theorem`, `kt:dimensionality-reduction` |
@@ -52,6 +55,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:faiss` | `kt:approximate-nearest-neighbor-search`, `kt:vector-database` |
 | `kt:finetuned-language-models-are-zero-shot-learners` | `kt:zero-shot-prompting`, `kt:instruction-tuning` |
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
+| `kt:herbert-a-simon` | `kt:general-problem-solver`, `kt:logic-theorist` |
 | `kt:highway-network` | `kt:residual-connection`, `kt:residual-connection` |
 | `kt:hotpotqa` | `kt:react-prompting`, `kt:reflexion` |
 | `kt:hugging-face` | `kt:hugging-face-transformers`, `kt:hugging-face-trl` |
@@ -111,7 +115,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alfworld-aligning-text-and-embodied-environments-for-interactive-learning` | `kt:alfworld` |
 | `kt:alibi` | `kt:positional-encoding` |
 | `kt:allen-institute-for-ai` | `kt:commonsenseqa` |
-| `kt:allen-newell` | `kt:logic-theorist` |
 | `kt:alphabet-inc` | `kt:google` |
 | `kt:ann-benchmarks` | `kt:approximate-nearest-neighbor-search` |
 | `kt:approximation-by-superpositions-of-a-sigmoidal-function` | `kt:universal-approximation-theorem` |
@@ -121,7 +124,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:arthur-samuel` | `kt:machine-learning` |
 | `kt:asynchronous-advantage-actor-critic` | `kt:actor-critic` |
 | `kt:augustin-louis-cauchy` | `kt:gradient-descent` |
-| `kt:automated-planning` | `kt:planning-in-llms` |
 | `kt:automated-theorem-proving` | `kt:logic-theorist` |
 | `kt:awq-activation-aware-weight-quantization-for-llm-compression-and-acceleration` | `kt:awq` |
 | `kt:backdoor-attack` | `kt:data-poisoning` |
@@ -146,7 +148,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cifar-10` | `kt:image-classification` |
 | `kt:cityscapes` | `kt:semantic-segmentation` |
 | `kt:claude` | `kt:constitutional-ai` |
-| `kt:cliff-shaw` | `kt:logic-theorist` |
 | `kt:clipper-prediction-serving-system` | `kt:model-serving` |
 | `kt:cognitive-science` | `kt:connectionism` |
 | `kt:colbert` | `kt:reranking` |
@@ -229,7 +230,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:gated-recurrent-unit` | `kt:recurrent-neural-network` |
 | `kt:gddr-memory` | `kt:high-bandwidth-memory` |
 | `kt:gelu` | `kt:activation-function` |
-| `kt:general-problem-solver` | `kt:logic-theorist` |
 | `kt:general-purpose-ai-model` | `kt:eu-ai-act` |
 | `kt:generalized-advantage-estimation` | `kt:proximal-policy-optimization` |
 | `kt:generative-adversarial-nets` | `kt:generative-adversarial-network` |
@@ -245,7 +245,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:graph-of-thoughts` | `kt:tree-of-thoughts` |
 | `kt:grouped-query-attention` | `kt:kv-cache` |
 | `kt:harold-hotelling` | `kt:principal-component-analysis` |
-| `kt:herbert-a-simon` | `kt:logic-theorist` |
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
 | `kt:high-resolution-image-synthesis-with-latent-diffusion-models` | `kt:latent-diffusion-model` |
 | `kt:humaneval` | `kt:reflexion` |
@@ -398,6 +397,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:reinforcement-learning-from-ai-feedback` | `kt:constitutional-ai` |
 | `kt:relation-extraction` | `kt:named-entity-recognition` |
 | `kt:relative-position-representations` | `kt:positional-encoding` |
+| `kt:report-on-a-general-problem-solving-program` | `kt:general-problem-solver` |
 | `kt:representation-learning-a-review-and-new-perspectives` | `kt:representation-learning` |
 | `kt:resource-description-framework` | `kt:knowledge-graph` |
 | `kt:retrieval-augmented-generation-for-knowledge-intensive-nlp-tasks` | `kt:retrieval-augmented-generation` |
@@ -419,6 +419,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sepp-hochreiter` | `kt:long-short-term-memory` |
 | `kt:show-your-work-scratchpads-for-intermediate-computation-with-language-models` | `kt:scratchpad` |
 | `kt:singular-value-decomposition` | `kt:principal-component-analysis` |
+| `kt:soar` | `kt:general-problem-solver` |
 | `kt:soft-actor-critic` | `kt:actor-critic` |
 | `kt:softmax-function` | `kt:attention-mechanism` |
 | `kt:softmax-regression` | `kt:image-classification` |

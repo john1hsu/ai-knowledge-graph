@@ -2159,6 +2159,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/general-problem-solver> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/general-problem-solver> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/general-problem-solver> <http://www.w3.org/2000/01/rdf-schema#label> "General Problem Solver" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/general-problem-solver> <http://www.w3.org/2004/02/skos/core#altLabel> "GPS" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/general-problem-solver> <http://www.w3.org/2004/02/skos/core#altLabel> "General Problem Solver program" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/general-problem-solver> <http://www.w3.org/2004/02/skos/core#altLabel> "Newell-Shaw-Simon GPS" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/general-problem-solver> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/heuristic-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/general-problem-solver> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/general-problem-solver> <http://www.w3.org/2004/02/skos/core#definition> "An early artificial intelligence program by Allen Newell, J. C. (Cliff) Shaw and Herbert A. Simon, first run in 1957, that separated a general problem-solving method — means-ends analysis over goals, operators and differences — from the knowledge of any particular task, and doubled as a theory of human problem solving." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/general-problem-solver> <http://www.w3.org/2004/02/skos/core#prefLabel> "General Problem Solver" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/general-problem-solver> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/general-problem-solver> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/automated-planning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/general-problem-solver> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/planning-in-llms> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/general-problem-solver> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/general-problem-solver/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/general-problem-solver> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/general-problem-solver/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/general-problem-solver> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/general-problem-solver/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/general-problem-solver> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/general-problem-solver/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/general-problem-solver> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/general-problem-solver/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/general-problem-solver> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/allen-newell> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/general-problem-solver> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/cliff-shaw> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/general-problem-solver> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/herbert-a-simon> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/general-problem-solver> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-history" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/general-problem-solver> <https://github.com/john1hsu/ai-knowledge-graph/ontology#followedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/soar> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/general-problem-solver> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/report-on-a-general-problem-solving-program> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/general-problem-solver> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "historical" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/general-problem-solver> <https://github.com/john1hsu/ai-knowledge-graph/ontology#precededBy> <https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/generative-adversarial-network> <http://www.w3.org/2000/01/rdf-schema#label> "Generative adversarial network" .
@@ -7223,6 +7249,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s6> <https://schema.org/url> "https://huggingface.co/docs/transformers/main/en/attention_interface" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/general-problem-solver/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/general-problem-solver/s1> <http://purl.org/dc/terms/title> "General Problem Solver" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/general-problem-solver/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/general-problem-solver/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/general-problem-solver/s1> <https://schema.org/url> "https://britannica.com/science/General-Problem-Solver" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/general-problem-solver/s2> <http://purl.org/dc/terms/publisher> "A. Newell and H. A. Simon; Edward A. Feigenbaum papers, Stanford University Libraries Special Collections" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/general-problem-solver/s2> <http://purl.org/dc/terms/title> "Report on a General Problem-Solving Program (archival copy, dated 30 December 1958)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/general-problem-solver/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/general-problem-solver/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/general-problem-solver/s2> <https://schema.org/url> "https://purl.stanford.edu/cq467bm9495" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/general-problem-solver/s3> <http://purl.org/dc/terms/publisher> "A. Newell and H. A. Simon, Communications of the ACM 19(3):113–126, 1976 (course reading copy, CSU Long Beach)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/general-problem-solver/s3> <http://purl.org/dc/terms/title> "Computer Science as Empirical Inquiry: Symbols and Search (1975 ACM Turing Award Lecture)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/general-problem-solver/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/general-problem-solver/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/general-problem-solver/s3> <https://schema.org/url> "https://home.csulb.edu/~cwallis/382/readings/482/Newell&Simonpssh.1976.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/general-problem-solver/s4> <http://purl.org/dc/terms/publisher> "P. Norvig, Morgan Kaufmann 1992 (author's open edition on GitHub)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/general-problem-solver/s4> <http://purl.org/dc/terms/title> "Paradigms of Artificial Intelligence Programming, Chapter 4: GPS: The General Problem Solver" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/general-problem-solver/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/general-problem-solver/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/general-problem-solver/s4> <https://schema.org/url> "https://github.com/norvig/paip-lisp/blob/main/docs/chapter4.md" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/general-problem-solver/s5> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/general-problem-solver/s5> <http://purl.org/dc/terms/title> "Allen Newell" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/general-problem-solver/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/general-problem-solver/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/general-problem-solver/s5> <https://schema.org/url> "https://www.britannica.com/biography/Allen-Newell" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 2014, Advances in Neural Information Processing Systems 27 (Goodfellow et al.)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s1> <http://purl.org/dc/terms/title> "Generative Adversarial Nets" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/generative-adversarial-network/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
