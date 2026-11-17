@@ -3352,6 +3352,29 @@
     ]
   },
   {
+    "id": "kt:openai",
+    "title": "OpenAI",
+    "aliases": [
+      "OpenAI Inc",
+      "OpenAI LP",
+      "OpenAI Group PBC",
+      "OpenAI Foundation"
+    ],
+    "type": "Organization",
+    "domain": "ai-infrastructure-and-mlops",
+    "file": "articles/ai-infrastructure-and-mlops/openai.md",
+    "created": "2026-11-17",
+    "maturity": "established",
+    "source_urls": [
+      "https://openai.com/index/introducing-openai/",
+      "https://britannica.com/topic/OpenAI",
+      "https://openai.com/index/openai-lp/",
+      "https://openai.com/index/built-to-benefit-everyone",
+      "https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf",
+      "https://neurips.cc/virtual/2022/poster/52886"
+    ]
+  },
+  {
     "id": "kt:orca-serving-system",
     "title": "Orca (LLM serving system)",
     "aliases": [

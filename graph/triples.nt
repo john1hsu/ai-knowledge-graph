@@ -3992,6 +3992,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/office-of-management-and-budget> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "governance-and-policy" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/omb-ai-memoranda> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/openai> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/openai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Organization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/openai> <http://www.w3.org/2000/01/rdf-schema#label> "OpenAI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/openai> <http://www.w3.org/2004/02/skos/core#altLabel> "OpenAI Foundation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/openai> <http://www.w3.org/2004/02/skos/core#altLabel> "OpenAI Group PBC" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/openai> <http://www.w3.org/2004/02/skos/core#altLabel> "OpenAI Inc" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/openai> <http://www.w3.org/2004/02/skos/core#altLabel> "OpenAI LP" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/openai> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/openai> <http://www.w3.org/2004/02/skos/core#definition> "An American AI research and deployment organization founded in December 2015 as a nonprofit, later restructured around a capped-profit subsidiary (2019) and then a public benefit corporation controlled by the OpenAI Foundation (2025); known for the GPT model series, InstructGPT, DALL-E, Codex and ChatGPT." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/openai> <http://www.w3.org/2004/02/skos/core#prefLabel> "OpenAI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/openai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/anthropic> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/openai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/google-deepmind> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/openai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/openai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/openai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/openai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/openai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/openai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/openai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/openai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/openai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/openai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/openai> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-infrastructure-and-mlops" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/openai> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/chatgpt> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/openai> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/openai> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> <http://purl.org/dc/terms/created> "2026-11-16" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Tool> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> <http://www.w3.org/2000/01/rdf-schema#label> "Orca (LLM serving system)" .
@@ -9456,6 +9482,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/omb-ai-memoranda/s6> <https://schema.org/url> "https://www.whitehouse.gov/wp-content/uploads/2025/12/M-26-04-Increasing-Public-Trust-in-Artificial-Intelligence-Through-Unbiased-AI-Principles-1.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s1> <http://purl.org/dc/terms/publisher> "OpenAI, December 11, 2015" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s1> <http://purl.org/dc/terms/title> "Introducing OpenAI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s1> <https://schema.org/url> "https://openai.com/index/introducing-openai/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica (Britannica Money)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s2> <http://purl.org/dc/terms/title> "OpenAI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s2> <https://schema.org/url> "https://britannica.com/topic/OpenAI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s3> <http://purl.org/dc/terms/publisher> "OpenAI, March 11, 2019" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s3> <http://purl.org/dc/terms/title> "OpenAI LP" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s3> <https://schema.org/url> "https://openai.com/index/openai-lp/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s4> <http://purl.org/dc/terms/publisher> "OpenAI, October 28, 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s4> <http://purl.org/dc/terms/title> "Built to benefit everyone" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s4> <https://schema.org/url> "https://openai.com/index/built-to-benefit-everyone" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s5> <http://purl.org/dc/terms/publisher> "OpenAI technical report, 2018 (Radford, Narasimhan, Salimans and Sutskever)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s5> <http://purl.org/dc/terms/title> "Improving Language Understanding by Generative Pre-Training" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s5> <https://schema.org/url> "https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s6> <http://purl.org/dc/terms/publisher> "NeurIPS 2022 (Ouyang et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s6> <http://purl.org/dc/terms/title> "Training language models to follow instructions with human feedback" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/openai/s6> <https://schema.org/url> "https://neurips.cc/virtual/2022/poster/52886" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s1> <http://purl.org/dc/terms/publisher> "USENIX OSDI 2022, pp. 521–538 (Yu, Jeong, Kim, Kim and Chun)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s1> <http://purl.org/dc/terms/title> "Orca: A Distributed Serving System for Transformer-Based Generative Models (full paper)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

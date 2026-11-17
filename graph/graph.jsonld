@@ -3981,6 +3981,95 @@
       ]
     },
     {
+      "@id": "kt:openai",
+      "@type": "kto:Organization",
+      "skos:prefLabel": "OpenAI",
+      "skos:definition": "An American AI research and deployment organization founded in December 2015 as a nonprofit, later restructured around a capped-profit subsidiary (2019) and then a public benefit corporation controlled by the OpenAI Foundation (2025); known for the GPT model series, InstructGPT, DALL-E, Codex and ChatGPT.",
+      "kto:domain": "ai-infrastructure-and-mlops",
+      "dcterms:created": "2026-11-17",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Introducing OpenAI",
+          "dcterms:publisher": "OpenAI, December 11, 2015",
+          "schema:url": "https://openai.com/index/introducing-openai/",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "OpenAI",
+          "dcterms:publisher": "Encyclopaedia Britannica (Britannica Money)",
+          "schema:url": "https://britannica.com/topic/OpenAI",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "OpenAI LP",
+          "dcterms:publisher": "OpenAI, March 11, 2019",
+          "schema:url": "https://openai.com/index/openai-lp/",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Built to benefit everyone",
+          "dcterms:publisher": "OpenAI, October 28, 2025",
+          "schema:url": "https://openai.com/index/built-to-benefit-everyone",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Improving Language Understanding by Generative Pre-Training",
+          "dcterms:publisher": "OpenAI technical report, 2018 (Radford, Narasimhan, Salimans and Sutskever)",
+          "schema:url": "https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Training language models to follow instructions with human feedback",
+          "dcterms:publisher": "NeurIPS 2022 (Ouyang et al.)",
+          "schema:url": "https://neurips.cc/virtual/2022/poster/52886",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/ai-infrastructure-and-mlops/openai.md",
+      "skos:altLabel": [
+        "OpenAI Inc",
+        "OpenAI LP",
+        "OpenAI Group PBC",
+        "OpenAI Foundation"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:artificial-intelligence"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:pretraining"
+        },
+        {
+          "@id": "kt:rlhf"
+        },
+        {
+          "@id": "kt:language-models-are-few-shot-learners"
+        },
+        {
+          "@id": "kt:google-deepmind"
+        },
+        {
+          "@id": "kt:anthropic"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:chatgpt"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:transformer-architecture"
+        }
+      ]
+    },
+    {
       "@id": "kt:pipeline-parallelism",
       "@type": "kto:Technique",
       "skos:prefLabel": "Pipeline parallelism",

@@ -4,7 +4,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:openai` | `kt:google-deepmind`, `kt:clip`, `kt:gsm8k`, `kt:proximal-policy-optimization`, `kt:concrete-problems-in-ai-safety`, `kt:language-models-are-few-shot-learners` |
 | `kt:heuristic-search` | `kt:deep-blue`, `kt:general-problem-solver`, `kt:logic-theorist`, `kt:beam-search`, `kt:tree-of-thoughts` |
 | `kt:stochastic-gradient-descent` | `kt:data-parallelism`, `kt:adam-optimizer`, `kt:adagrad`, `kt:adagrad`, `kt:gradient-descent` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:latent-diffusion-model`, `kt:autoencoder`, `kt:generative-model` |
@@ -14,6 +13,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
 | `kt:thompson-sampling` | `kt:exploration-exploitation`, `kt:multi-armed-bandit`, `kt:upper-confidence-bound`, `kt:upper-confidence-bound` |
 | `kt:zero-shot-learning` | `kt:clip`, `kt:zero-shot-prompting`, `kt:contrastive-learning`, `kt:instruction-tuning` |
+| `kt:anthropic` | `kt:model-context-protocol`, `kt:openai`, `kt:constitutional-ai` |
 | `kt:application-specific-integrated-circuit` | `kt:deep-blue`, `kt:ai-accelerator`, `kt:tpu` |
 | `kt:automated-planning` | `kt:planning-in-llms`, `kt:general-problem-solver`, `kt:knowledge-representation` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
@@ -30,7 +30,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:allen-newell` | `kt:general-problem-solver`, `kt:logic-theorist` |
 | `kt:alpha-beta-pruning` | `kt:deep-blue`, `kt:monte-carlo-tree-search` |
 | `kt:alphabet-inc` | `kt:google-deepmind`, `kt:google` |
-| `kt:anthropic` | `kt:model-context-protocol`, `kt:constitutional-ai` |
 | `kt:apache-lucene` | `kt:bm25`, `kt:tf-idf` |
 | `kt:automatic-differentiation` | `kt:pytorch`, `kt:backpropagation` |
 | `kt:catastrophic-forgetting` | `kt:fine-tuning`, `kt:parameter-efficient-fine-tuning` |
@@ -148,6 +147,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:charles-goodhart` | `kt:goodharts-law` |
 | `kt:chatbot` | `kt:eliza` |
 | `kt:chatbot-arena-an-open-platform-for-evaluating-llms-by-human-preference` | `kt:chatbot-arena` |
+| `kt:chatgpt` | `kt:openai` |
 | `kt:christian-szegedy` | `kt:adversarial-example` |
 | `kt:christopher-watkins` | `kt:q-learning` |
 | `kt:cityscapes` | `kt:semantic-segmentation` |
