@@ -2770,6 +2770,26 @@
     ]
   },
   {
+    "id": "kt:lighthill-report",
+    "title": "Lighthill report",
+    "aliases": [
+      "Artificial Intelligence: A General Survey",
+      "Lighthill survey of artificial intelligence"
+    ],
+    "type": "Work",
+    "domain": "ai-history",
+    "file": "articles/ai-history/lighthill-report.md",
+    "created": "2026-11-17",
+    "maturity": "historical",
+    "source_urls": [
+      "https://www.aiai.ed.ac.uk/events/lighthill1973/lighthill.pdf",
+      "https://discovery.ucl.ac.uk/10105726/3/Agar_What%20is%20science%20for,%20the%20Lighthill%20report%20and%20the%20purpose%20of%20artificial%20intelligence%20research,%20revised%20for%20BJHS.pdf",
+      "https://www.maxapress.com/data/article/ker/preview/pdf/S0269888900005506.pdf",
+      "https://www.aiai.ed.ac.uk/events/lighthill1973/",
+      "https://spectrum.ieee.org/freddy-robot-british-ai-winter"
+    ]
+  },
+  {
     "id": "kt:llm-as-a-judge",
     "title": "LLM-as-a-judge",
     "aliases": [

@@ -3289,6 +3289,29 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#extends> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting-enables-complex-reasoning-in-large-language-models> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/lighthill-report> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/lighthill-report> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Work> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/lighthill-report> <http://www.w3.org/2000/01/rdf-schema#label> "Lighthill report" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/lighthill-report> <http://www.w3.org/2004/02/skos/core#altLabel> "Artificial Intelligence: A General Survey" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/lighthill-report> <http://www.w3.org/2004/02/skos/core#altLabel> "Lighthill survey of artificial intelligence" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/lighthill-report> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/lighthill-report> <http://www.w3.org/2004/02/skos/core#definition> "A critical review of artificial intelligence research written by the applied mathematician Sir James Lighthill for the UK Science Research Council, submitted in 1972 and published in 1973, which sorted AI into three categories, blamed the combinatorial explosion for the field's disappointments, and led to cuts in British AI and robotics funding." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/lighthill-report> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lighthill report" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/lighthill-report> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/dendral> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/lighthill-report> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/donald-michie> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/lighthill-report> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/general-problem-solver> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/lighthill-report> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-translation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/lighthill-report> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/lighthill-report> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/lighthill-report/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/lighthill-report> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/lighthill-report/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/lighthill-report> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/lighthill-report/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/lighthill-report> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/lighthill-report/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/lighthill-report> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/lighthill-report/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/lighthill-report> <https://github.com/john1hsu/ai-knowledge-graph/ontology#causes> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-winter> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/lighthill-report> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/dartmouth-workshop> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/lighthill-report> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/james-lighthill> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/lighthill-report> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-history" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/lighthill-report> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "historical" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> <http://www.w3.org/2000/01/rdf-schema#label> "LLM-as-a-judge" .
@@ -8777,6 +8800,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/least-to-most-prompting/s6> <https://schema.org/url> "https://mlanthology.org/iclr/2023/khot2023iclr-decomposed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/lighthill-report/s1> <http://purl.org/dc/terms/publisher> "Sir James Lighthill, for the UK Science Research Council, 1972/1973 (hosted by AIAI, University of Edinburgh)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/lighthill-report/s1> <http://purl.org/dc/terms/title> "Artificial Intelligence: A General Survey" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/lighthill-report/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/lighthill-report/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/lighthill-report/s1> <https://schema.org/url> "https://www.aiai.ed.ac.uk/events/lighthill1973/lighthill.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/lighthill-report/s2> <http://purl.org/dc/terms/publisher> "Jon Agar, University College London (author's accepted manuscript for the British Journal for the History of Science, UCL Discovery)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/lighthill-report/s2> <http://purl.org/dc/terms/title> "What is science for? The Lighthill report and the purpose of artificial intelligence research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/lighthill-report/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/lighthill-report/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/lighthill-report/s2> <https://schema.org/url> "https://discovery.ucl.ac.uk/10105726/3/Agar_What%20is%20science%20for,%20the%20Lighthill%20report%20and%20the%20purpose%20of%20artificial%20intelligence%20research,%20revised%20for%20BJHS.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/lighthill-report/s3> <http://purl.org/dc/terms/publisher> "Donald Michie, The Knowledge Engineering Review 5(4), 277–293, 1990" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/lighthill-report/s3> <http://purl.org/dc/terms/title> "Lighthill 17 years on: end of a shotgun divorce" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/lighthill-report/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/lighthill-report/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/lighthill-report/s3> <https://schema.org/url> "https://www.maxapress.com/data/article/ker/preview/pdf/S0269888900005506.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/lighthill-report/s4> <http://purl.org/dc/terms/publisher> "Artificial Intelligence Applications Institute (AIAI), University of Edinburgh" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/lighthill-report/s4> <http://purl.org/dc/terms/title> "BBC TV - June 1973 - Lighthill Controversy Debate at the Royal Institution" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/lighthill-report/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/lighthill-report/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/lighthill-report/s4> <https://schema.org/url> "https://www.aiai.ed.ac.uk/events/lighthill1973/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/lighthill-report/s5> <http://purl.org/dc/terms/publisher> "Allison Marsh, IEEE Spectrum, 30 April 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/lighthill-report/s5> <http://purl.org/dc/terms/title> "Freddy the Robot Was the Fall Guy for British AI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/lighthill-report/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/lighthill-report/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/lighthill-report/s5> <https://schema.org/url> "https://spectrum.ieee.org/freddy-robot-british-ai-winter" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s1> <http://purl.org/dc/terms/publisher> "arXiv 2306.05685, NeurIPS 2023 Datasets and Benchmarks Track (Zheng, Chiang, Sheng et al.)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s1> <http://purl.org/dc/terms/title> "Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/llm-as-a-judge/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

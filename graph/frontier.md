@@ -9,6 +9,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:latent-diffusion-model`, `kt:autoencoder`, `kt:generative-model` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:ai-hardware` | `kt:ai-accelerator`, `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
+| `kt:machine-translation` | `kt:lighthill-report`, `kt:bleu`, `kt:wmt-2014`, `kt:natural-language-processing` |
 | `kt:microsoft-research` | `kt:alfworld`, `kt:autogen`, `kt:residual-connection`, `kt:graphrag` |
 | `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
 | `kt:thompson-sampling` | `kt:exploration-exploitation`, `kt:multi-armed-bandit`, `kt:upper-confidence-bound`, `kt:upper-confidence-bound` |
@@ -19,7 +20,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
 | `kt:fairness-accountability-and-transparency` | `kt:algorithmic-bias-and-fairness`, `kt:datasheets-for-datasets`, `kt:model-cards` |
 | `kt:foundation-model` | `kt:self-supervised-learning`, `kt:transfer-learning`, `kt:large-language-model` |
-| `kt:machine-translation` | `kt:bleu`, `kt:wmt-2014`, `kt:natural-language-processing` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
 | `kt:pascal-voc` | `kt:ms-coco`, `kt:object-detection`, `kt:semantic-segmentation` |
 | `kt:rmsprop` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:adagrad` |
@@ -42,6 +42,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:deep-belief-network` | `kt:geoffrey-hinton`, `kt:deep-learning` |
 | `kt:deep-learning-framework` | `kt:hugging-face-transformers`, `kt:pytorch` |
 | `kt:deep-reinforcement-learning-from-human-preferences` | `kt:reward-model`, `kt:rlhf` |
+| `kt:dendral` | `kt:expert-systems`, `kt:lighthill-report` |
 | `kt:double-q-learning` | `kt:deep-q-network`, `kt:q-learning` |
 | `kt:efficient-memory-management-for-large-language-model-serving-with-pagedattention` | `kt:batching-and-paged-attention`, `kt:vllm` |
 | `kt:expectation-maximization` | `kt:hidden-markov-model`, `kt:unsupervised-learning` |
@@ -185,7 +186,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:deep-residual-learning-for-image-recognition` | `kt:residual-connection` |
 | `kt:deep-thought-chess-computer` | `kt:deep-blue` |
 | `kt:deep-unsupervised-learning-using-nonequilibrium-thermodynamics` | `kt:diffusion-model` |
-| `kt:dendral` | `kt:expert-systems` |
 | `kt:dense-passage-retrieval` | `kt:hybrid-search` |
 | `kt:description-logic` | `kt:knowledge-representation` |
 | `kt:devops` | `kt:mlops` |
@@ -198,6 +198,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:distributional-shift` | `kt:concrete-problems-in-ai-safety` |
 | `kt:diverse-beam-search` | `kt:beam-search` |
 | `kt:domain-adaptation` | `kt:transfer-learning` |
+| `kt:donald-michie` | `kt:lighthill-report` |
 | `kt:dram` | `kt:high-bandwidth-memory` |
 | `kt:dropout-a-simple-way-to-prevent-neural-networks-from-overfitting` | `kt:dropout` |
 | `kt:early-stopping` | `kt:regularization` |
@@ -281,6 +282,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:iso-iec-42006` | `kt:iso-iec-42001` |
 | `kt:iso-iec-jtc-1-sc-42` | `kt:iso-iec-42001` |
 | `kt:iterated-amplification` | `kt:scalable-oversight` |
+| `kt:james-lighthill` | `kt:lighthill-report` |
 | `kt:jedec` | `kt:high-bandwidth-memory` |
 | `kt:john-duchi` | `kt:adagrad` |
 | `kt:john-searle` | `kt:chinese-room-argument` |
@@ -309,7 +311,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:leiden-algorithm` | `kt:graphrag` |
 | `kt:lenet` | `kt:imagenet-and-alexnet` |
 | `kt:librispeech` | `kt:automatic-speech-recognition` |
-| `kt:lighthill-report` | `kt:ai-winter` |
 | `kt:linear-probing` | `kt:fine-tuning` |
 | `kt:livebench` | `kt:benchmark-contamination` |
 | `kt:llmops` | `kt:mlops` |

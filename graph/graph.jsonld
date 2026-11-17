@@ -2588,6 +2588,89 @@
       ]
     },
     {
+      "@id": "kt:lighthill-report",
+      "@type": "kto:Work",
+      "skos:prefLabel": "Lighthill report",
+      "skos:definition": "A critical review of artificial intelligence research written by the applied mathematician Sir James Lighthill for the UK Science Research Council, submitted in 1972 and published in 1973, which sorted AI into three categories, blamed the combinatorial explosion for the field's disappointments, and led to cuts in British AI and robotics funding.",
+      "kto:domain": "ai-history",
+      "dcterms:created": "2026-11-17",
+      "kto:maturity": "historical",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Artificial Intelligence: A General Survey",
+          "dcterms:publisher": "Sir James Lighthill, for the UK Science Research Council, 1972/1973 (hosted by AIAI, University of Edinburgh)",
+          "schema:url": "https://www.aiai.ed.ac.uk/events/lighthill1973/lighthill.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "What is science for? The Lighthill report and the purpose of artificial intelligence research",
+          "dcterms:publisher": "Jon Agar, University College London (author's accepted manuscript for the British Journal for the History of Science, UCL Discovery)",
+          "schema:url": "https://discovery.ucl.ac.uk/10105726/3/Agar_What%20is%20science%20for,%20the%20Lighthill%20report%20and%20the%20purpose%20of%20artificial%20intelligence%20research,%20revised%20for%20BJHS.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Lighthill 17 years on: end of a shotgun divorce",
+          "dcterms:publisher": "Donald Michie, The Knowledge Engineering Review 5(4), 277–293, 1990",
+          "schema:url": "https://www.maxapress.com/data/article/ker/preview/pdf/S0269888900005506.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "BBC TV - June 1973 - Lighthill Controversy Debate at the Royal Institution",
+          "dcterms:publisher": "Artificial Intelligence Applications Institute (AIAI), University of Edinburgh",
+          "schema:url": "https://www.aiai.ed.ac.uk/events/lighthill1973/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Freddy the Robot Was the Fall Guy for British AI",
+          "dcterms:publisher": "Allison Marsh, IEEE Spectrum, 30 April 2025",
+          "schema:url": "https://spectrum.ieee.org/freddy-robot-british-ai-winter",
+          "kto:sourceType": "news"
+        }
+      ],
+      "kto:file": "articles/ai-history/lighthill-report.md",
+      "skos:altLabel": [
+        "Artificial Intelligence: A General Survey",
+        "Lighthill survey of artificial intelligence"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:artificial-intelligence"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:symbolic-ai"
+        },
+        {
+          "@id": "kt:general-problem-solver"
+        },
+        {
+          "@id": "kt:dendral"
+        },
+        {
+          "@id": "kt:machine-translation"
+        },
+        {
+          "@id": "kt:donald-michie"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:james-lighthill"
+        }
+      ],
+      "kto:causes": [
+        {
+          "@id": "kt:ai-winter"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:dartmouth-workshop"
+        }
+      ]
+    },
+    {
       "@id": "kt:logic-theorist",
       "@type": "kto:Model",
       "skos:prefLabel": "Logic Theorist",
