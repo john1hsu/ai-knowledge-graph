@@ -3025,6 +3025,25 @@
     ]
   },
   {
+    "id": "kt:mt-bench",
+    "title": "MT-Bench",
+    "aliases": [
+      "MT-bench",
+      "Multi-Turn Benchmark",
+      "MT Bench"
+    ],
+    "type": "Benchmark",
+    "domain": "evaluation-and-benchmarks",
+    "file": "articles/evaluation-and-benchmarks/mt-bench.md",
+    "created": "2026-11-17",
+    "maturity": "established",
+    "source_urls": [
+      "https://proceedings.neurips.cc/paper_files/paper/2023/hash/91f18a1287b398d378ef22505bf41832-Abstract.html",
+      "https://aclanthology.org/2024.acl-long.401",
+      "https://arxiv.org/html/2406.11939v2"
+    ]
+  },
+  {
     "id": "kt:multi-agent-systems",
     "title": "Multi-agent systems",
     "aliases": [

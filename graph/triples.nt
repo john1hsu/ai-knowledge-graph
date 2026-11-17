@@ -3605,6 +3605,30 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <https://github.com/john1hsu/ai-knowledge-graph/ontology#precededBy> <https://github.com/john1hsu/ai-knowledge-graph/id/pascal-voc> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/image-captioning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mt-bench> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mt-bench> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Benchmark> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mt-bench> <http://www.w3.org/2000/01/rdf-schema#label> "MT-Bench" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mt-bench> <http://www.w3.org/2004/02/skos/core#altLabel> "MT Bench" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mt-bench> <http://www.w3.org/2004/02/skos/core#altLabel> "MT-bench" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mt-bench> <http://www.w3.org/2004/02/skos/core#altLabel> "Multi-Turn Benchmark" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mt-bench> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mt-bench> <http://www.w3.org/2004/02/skos/core#definition> "A benchmark of 80 two-turn, open-ended questions across eight categories, introduced by the LMSYS team (Zheng et al., NeurIPS 2023), that scores chat assistants on a 1–10 scale using GPT-4 as an automated judge." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mt-bench> <http://www.w3.org/2004/02/skos/core#prefLabel> "MT-Bench" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mt-bench> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mt-bench> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/chatbot-arena> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mt-bench> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/human-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mt-bench> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mt-bench> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mt-bench> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mt-bench> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/mt-bench/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mt-bench> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/mt-bench/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mt-bench> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/mt-bench/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mt-bench> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/arena-hard> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mt-bench> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/lmsys> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mt-bench> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mt-bench> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "evaluation-and-benchmarks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mt-bench> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/judging-llm-as-a-judge-with-mt-bench-and-chatbot-arena> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mt-bench> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Paradigm> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <http://www.w3.org/2000/01/rdf-schema#label> "Multi-agent systems" .
@@ -8885,6 +8909,21 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s5> <https://schema.org/url> "https://docs.ultralytics.com/datasets/detect/coco" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mt-bench/s1> <http://purl.org/dc/terms/publisher> "Advances in Neural Information Processing Systems 36 (NeurIPS 2023), Datasets and Benchmarks Track, pp. 46595–46623 (Zheng, Chiang, Sheng et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mt-bench/s1> <http://purl.org/dc/terms/title> "Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mt-bench/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mt-bench/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mt-bench/s1> <https://schema.org/url> "https://proceedings.neurips.cc/paper_files/paper/2023/hash/91f18a1287b398d378ef22505bf41832-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mt-bench/s2> <http://purl.org/dc/terms/publisher> "Proceedings of ACL 2024 (Volume 1: Long Papers), pp. 7421–7454 (Bai, Liu, Bu et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mt-bench/s2> <http://purl.org/dc/terms/title> "MT-Bench-101: A Fine-Grained Benchmark for Evaluating Large Language Models in Multi-Turn Dialogues" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mt-bench/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mt-bench/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mt-bench/s2> <https://schema.org/url> "https://aclanthology.org/2024.acl-long.401" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mt-bench/s3> <http://purl.org/dc/terms/publisher> "arXiv 2406.11939v2 (Li, Chiang, Frick, Dunlap, Wu, Zhu, Gonzalez, Stoica); ICML 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mt-bench/s3> <http://purl.org/dc/terms/title> "From Crowdsourced Data to High-Quality Benchmarks: Arena-Hard and BenchBuilder Pipeline" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mt-bench/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mt-bench/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mt-bench/s3> <https://schema.org/url> "https://arxiv.org/html/2406.11939v2" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s1> <http://purl.org/dc/terms/publisher> "Michael Wooldridge; Hebrew University of Jerusalem course \"Intelligent Multi-Agent Systems\" (2003)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s1> <http://purl.org/dc/terms/title> "An Introduction to MultiAgent Systems — Lecture 1: Introduction (lecture slides)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

@@ -8279,6 +8279,86 @@
       ]
     },
     {
+      "@id": "kt:mt-bench",
+      "@type": "kto:Benchmark",
+      "skos:prefLabel": "MT-Bench",
+      "skos:definition": "A benchmark of 80 two-turn, open-ended questions across eight categories, introduced by the LMSYS team (Zheng et al., NeurIPS 2023), that scores chat assistants on a 1–10 scale using GPT-4 as an automated judge.",
+      "kto:domain": "evaluation-and-benchmarks",
+      "dcterms:created": "2026-11-17",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena",
+          "dcterms:publisher": "Advances in Neural Information Processing Systems 36 (NeurIPS 2023), Datasets and Benchmarks Track, pp. 46595–46623 (Zheng, Chiang, Sheng et al.)",
+          "schema:url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/91f18a1287b398d378ef22505bf41832-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "MT-Bench-101: A Fine-Grained Benchmark for Evaluating Large Language Models in Multi-Turn Dialogues",
+          "dcterms:publisher": "Proceedings of ACL 2024 (Volume 1: Long Papers), pp. 7421–7454 (Bai, Liu, Bu et al.)",
+          "schema:url": "https://aclanthology.org/2024.acl-long.401",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "From Crowdsourced Data to High-Quality Benchmarks: Arena-Hard and BenchBuilder Pipeline",
+          "dcterms:publisher": "arXiv 2406.11939v2 (Li, Chiang, Frick, Dunlap, Wu, Zhu, Gonzalez, Stoica); ICML 2025",
+          "schema:url": "https://arxiv.org/html/2406.11939v2",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/evaluation-and-benchmarks/mt-bench.md",
+      "skos:altLabel": [
+        "MT-bench",
+        "Multi-Turn Benchmark",
+        "MT Bench"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-evaluation"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:chatbot-arena"
+        },
+        {
+          "@id": "kt:mmlu"
+        },
+        {
+          "@id": "kt:truthfulqa"
+        },
+        {
+          "@id": "kt:human-evaluation"
+        },
+        {
+          "@id": "kt:benchmark-contamination"
+        },
+        {
+          "@id": "kt:instruction-tuning"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:judging-llm-as-a-judge-with-mt-bench-and-chatbot-arena"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:lmsys"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:llm-as-a-judge"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:arena-hard"
+        }
+      ]
+    },
+    {
       "@id": "kt:perplexity",
       "@type": "kto:Concept",
       "skos:prefLabel": "Perplexity",

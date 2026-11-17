@@ -63,8 +63,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:induction-head` | `kt:mechanistic-interpretability`, `kt:in-context-learning` |
 | `kt:iso-iec-27001` | `kt:iso-iec-42001`, `kt:iso-iec-42001` |
 | `kt:john-mccarthy` | `kt:artificial-intelligence`, `kt:dartmouth-workshop` |
+| `kt:judging-llm-as-a-judge-with-mt-bench-and-chatbot-arena` | `kt:llm-as-a-judge`, `kt:mt-bench` |
 | `kt:language-model` | `kt:perplexity`, `kt:large-language-model` |
 | `kt:latent-semantic-analysis` | `kt:glove`, `kt:semantic-search` |
+| `kt:lmsys` | `kt:chatbot-arena`, `kt:mt-bench` |
 | `kt:logistic-regression` | `kt:conditional-random-field`, `kt:bradley-terry-model` |
 | `kt:lora` | `kt:parameter-efficient-fine-tuning`, `kt:qlora` |
 | `kt:loss-function` | `kt:gradient-descent`, `kt:supervised-learning` |
@@ -77,7 +79,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:model-extraction` | `kt:adversarial-machine-learning`, `kt:data-poisoning` |
 | `kt:model-parallelism` | `kt:data-parallelism`, `kt:pipeline-parallelism` |
 | `kt:monte-carlo-methods` | `kt:monte-carlo-tree-search`, `kt:temporal-difference-learning` |
-| `kt:mt-bench` | `kt:chatbot-arena`, `kt:llm-as-a-judge` |
 | `kt:muzero` | `kt:alphazero`, `kt:monte-carlo-tree-search` |
 | `kt:post-training` | `kt:hugging-face-trl`, `kt:instruction-tuning` |
 | `kt:post-training-quantization` | `kt:awq`, `kt:gptq` |
@@ -119,6 +120,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:approximation-by-superpositions-of-a-sigmoidal-function` | `kt:universal-approximation-theorem` |
 | `kt:aqua-rat` | `kt:program-induction-by-rationale-generation` |
 | `kt:arcade-learning-environment` | `kt:deep-q-network` |
+| `kt:arena-hard` | `kt:mt-bench` |
 | `kt:arithmetic-intensity` | `kt:gpu-computing` |
 | `kt:arthur-samuel` | `kt:machine-learning` |
 | `kt:asynchronous-advantage-actor-critic` | `kt:actor-critic` |
@@ -279,7 +281,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:joseph-redmon` | `kt:yolo` |
 | `kt:joseph-weizenbaum` | `kt:eliza` |
 | `kt:jsonschemabench` | `kt:structured-output` |
-| `kt:judging-llm-as-a-judge-with-mt-bench-and-chatbot-arena` | `kt:llm-as-a-judge` |
 | `kt:juergen-schmidhuber` | `kt:long-short-term-memory` |
 | `kt:k-means-clustering` | `kt:unsupervised-learning` |
 | `kt:karen-sparck-jones` | `kt:tf-idf` |
@@ -306,7 +307,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:linear-probing` | `kt:fine-tuning` |
 | `kt:livebench` | `kt:benchmark-contamination` |
 | `kt:llmops` | `kt:mlops` |
-| `kt:lmsys` | `kt:chatbot-arena` |
 | `kt:loftq` | `kt:qlora` |
 | `kt:long-short-term-memory-1997` | `kt:long-short-term-memory` |
 | `kt:long-short-term-memory-networks-for-machine-reading` | `kt:self-attention` |
