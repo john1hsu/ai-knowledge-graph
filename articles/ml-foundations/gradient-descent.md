@@ -10,7 +10,7 @@ summary: >-
   stochastic variants are the workhorse for training machine-learning models.
 maturity: foundational
 broader: [kt:mathematical-optimization, kt:machine-learning]
-related: [kt:stochastic-gradient-descent, kt:backpropagation, kt:adam-optimizer, kt:supervised-learning, kt:regularization]
+related: [kt:stochastic-gradient-descent, kt:backpropagation, kt:adam-optimizer, kt:adagrad, kt:supervised-learning, kt:regularization]
 relations:
   - {predicate: createdBy, object: kt:augustin-louis-cauchy}
   - {predicate: dependsOn, object: kt:loss-function}

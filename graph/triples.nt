@@ -72,6 +72,37 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/asynchronous-advantage-actor-critic> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/soft-actor-critic> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> <http://www.w3.org/2000/01/rdf-schema#label> "AdaGrad" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> <http://www.w3.org/2004/02/skos/core#altLabel> "ADAGRAD" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> <http://www.w3.org/2004/02/skos/core#altLabel> "Adagrad" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> <http://www.w3.org/2004/02/skos/core#altLabel> "adaptive gradient algorithm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> <http://www.w3.org/2004/02/skos/core#altLabel> "adaptive subgradient method" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/gradient-descent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/mathematical-optimization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> <http://www.w3.org/2004/02/skos/core#definition> "An adaptive first-order optimization algorithm, introduced by Duchi, Hazan and Singer (COLT 2010; JMLR 2011), that gives each parameter its own learning rate by dividing the step by the square root of that parameter's accumulated squared gradients, so rarely updated (sparse) features take larger steps and frequently updated ones take smaller steps." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> <http://www.w3.org/2004/02/skos/core#prefLabel> "AdaGrad" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/online-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/rmsprop> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s7> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/john-duchi> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ml-foundations" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> <https://github.com/john1hsu/ai-knowledge-graph/ontology#extends> <https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/adaptive-subgradient-methods-for-online-learning-and-stochastic-optimization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/glove> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> <http://www.w3.org/2000/01/rdf-schema#label> "Adam optimizer" .
@@ -2519,6 +2550,7 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/gradient-descent> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/mathematical-optimization> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gradient-descent> <http://www.w3.org/2004/02/skos/core#definition> "An iterative first-order optimization algorithm that minimizes a differentiable function by repeatedly moving the parameters a small step in the direction of the negative gradient, scaled by a step size (learning rate); it and its stochastic variants are the workhorse for training machine-learning models." .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gradient-descent> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gradient descent" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gradient-descent> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gradient-descent> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gradient-descent> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gradient-descent> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/regularization> .
@@ -5209,6 +5241,41 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/actor-critic/s5> <https://schema.org/url> "https://spinningup.openai.com/en/latest/algorithms/sac.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s1> <http://purl.org/dc/terms/publisher> "Journal of Machine Learning Research 12(61), 2121–2159 (2011) (Duchi, Hazan and Singer)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s1> <http://purl.org/dc/terms/title> "Adaptive Subgradient Methods for Online Learning and Stochastic Optimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s1> <https://schema.org/url> "https://www.jmlr.org/papers/v12/duchi11a.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s2> <http://purl.org/dc/terms/publisher> "Conference on Learning Theory 2010 (Duchi, Hazan and Singer), learningtheory.org" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s2> <http://purl.org/dc/terms/title> "Adaptive Subgradient Methods for Online Learning and Stochastic Optimization (COLT 2010 version)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s2> <https://schema.org/url> "https://www.learningtheory.org/colt2010/papers/023Duchi.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s3> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (Zhang, Lipton, Li and Smola), d2l.ai" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s3> <http://purl.org/dc/terms/title> "12.7. Adagrad" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s3> <https://schema.org/url> "https://d2l.ai/chapter_optimization/adagrad.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s4> <http://purl.org/dc/terms/publisher> "NeurIPS 2012 (Dean, Corrado, Monga, Chen, Devin, Mao, Ranzato, Senior, Tucker, Yang, Le and Ng)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s4> <http://purl.org/dc/terms/title> "Large Scale Distributed Deep Networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s4> <https://schema.org/url> "https://papers.nips.cc/paper_files/paper/2012/file/6aca97005c68f1206823815f66102863-Paper.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s5> <http://purl.org/dc/terms/publisher> "ICLR 2015 (Kingma and Ba), arXiv:1412.6980" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s5> <http://purl.org/dc/terms/title> "Adam: A Method for Stochastic Optimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s5> <https://schema.org/url> "https://arxiv.org/pdf/1412.6980" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s6> <http://purl.org/dc/terms/publisher> "PyTorch documentation (main)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s6> <http://purl.org/dc/terms/title> "torch.optim.Adagrad" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s6> <https://schema.org/url> "https://docs.pytorch.org/docs/main/generated/torch.optim.Adagrad.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s7> <http://purl.org/dc/terms/publisher> "EMNLP 2014 (Pennington, Socher and Manning), ACL Anthology D14-1162" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s7> <http://purl.org/dc/terms/title> "GloVe: Global Vectors for Word Representation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s7> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/adagrad/s7> <https://schema.org/url> "https://aclanthology.org/D14-1162.pdf" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s1> <http://purl.org/dc/terms/publisher> "ICLR 2015 (Kingma and Ba), arXiv:1412.6980 v9" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s1> <http://purl.org/dc/terms/title> "Adam: A Method for Stochastic Optimization" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/adam-optimizer/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

@@ -6,12 +6,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:openai` | `kt:google-deepmind`, `kt:clip`, `kt:gsm8k`, `kt:proximal-policy-optimization`, `kt:concrete-problems-in-ai-safety`, `kt:language-models-are-few-shot-learners` |
 | `kt:heuristic-search` | `kt:deep-blue`, `kt:general-problem-solver`, `kt:logic-theorist`, `kt:beam-search`, `kt:tree-of-thoughts` |
+| `kt:stochastic-gradient-descent` | `kt:data-parallelism`, `kt:adam-optimizer`, `kt:adagrad`, `kt:adagrad`, `kt:gradient-descent` |
 | `kt:variational-autoencoder` | `kt:diffusion-model`, `kt:generative-adversarial-network`, `kt:latent-diffusion-model`, `kt:autoencoder`, `kt:generative-model` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:ai-hardware` | `kt:ai-accelerator`, `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
 | `kt:microsoft-research` | `kt:alfworld`, `kt:autogen`, `kt:residual-connection`, `kt:graphrag` |
 | `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
-| `kt:adagrad` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:glove` |
 | `kt:application-specific-integrated-circuit` | `kt:deep-blue`, `kt:ai-accelerator`, `kt:tpu` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
 | `kt:contrastive-learning` | `kt:clip`, `kt:representation-learning`, `kt:self-supervised-learning` |
@@ -21,7 +21,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:machine-translation` | `kt:bleu`, `kt:wmt-2014`, `kt:natural-language-processing` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
 | `kt:pascal-voc` | `kt:ms-coco`, `kt:object-detection`, `kt:semantic-segmentation` |
-| `kt:stochastic-gradient-descent` | `kt:data-parallelism`, `kt:adam-optimizer`, `kt:gradient-descent` |
+| `kt:rmsprop` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:adagrad` |
 | `kt:tensor-parallelism` | `kt:distributed-training`, `kt:pipeline-parallelism`, `kt:orca-serving-system` |
 | `kt:upper-confidence-bound` | `kt:exploration-exploitation`, `kt:monte-carlo-tree-search`, `kt:multi-armed-bandit` |
 | `kt:zero-redundancy-optimizer` | `kt:data-parallelism`, `kt:distributed-training`, `kt:pipeline-parallelism` |
@@ -73,6 +73,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:lottery-ticket-hypothesis` | `kt:model-compression`, `kt:model-pruning` |
 | `kt:marvin-minsky` | `kt:dartmouth-workshop`, `kt:perceptron` |
 | `kt:masked-language-modeling` | `kt:self-supervised-learning`, `kt:bert` |
+| `kt:mathematical-optimization` | `kt:adagrad`, `kt:gradient-descent` |
 | `kt:medical-image-analysis` | `kt:semantic-segmentation`, `kt:u-net` |
 | `kt:meta-ai` | `kt:toolformer`, `kt:pytorch` |
 | `kt:model-compression-caruana-2006` | `kt:model-compression`, `kt:knowledge-distillation` |
@@ -84,7 +85,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:post-training-quantization` | `kt:awq`, `kt:gptq` |
 | `kt:probabilistic-relevance-framework` | `kt:bm25`, `kt:bm25` |
 | `kt:r-cnn` | `kt:faster-r-cnn`, `kt:yolo` |
-| `kt:rmsprop` | `kt:adam-optimizer`, `kt:adam-optimizer` |
 | `kt:scikit-learn` | `kt:dimensionality-reduction`, `kt:principal-component-analysis` |
 | `kt:self-correction` | `kt:reflexion`, `kt:self-refine-iterative-refinement-with-self-feedback` |
 | `kt:self-play` | `kt:alphago-zero`, `kt:alphazero` |
@@ -103,6 +103,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:adam-a-method-for-stochastic-optimization` | `kt:adam-optimizer` |
 | `kt:adamw` | `kt:adam-optimizer` |
 | `kt:adapter-modules` | `kt:parameter-efficient-fine-tuning` |
+| `kt:adaptive-subgradient-methods-for-online-learning-and-stochastic-optimization` | `kt:adagrad` |
 | `kt:agentbench` | `kt:alfworld` |
 | `kt:ai-ethics` | `kt:algorithmic-bias-and-fairness` |
 | `kt:ai-governance-a-research-agenda` | `kt:ai-governance` |
@@ -277,6 +278,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:iso-iec-jtc-1-sc-42` | `kt:iso-iec-42001` |
 | `kt:iterated-amplification` | `kt:scalable-oversight` |
 | `kt:jedec` | `kt:high-bandwidth-memory` |
+| `kt:john-duchi` | `kt:adagrad` |
 | `kt:john-searle` | `kt:chinese-room-argument` |
 | `kt:joseph-redmon` | `kt:yolo` |
 | `kt:joseph-weizenbaum` | `kt:eliza` |
@@ -319,7 +321,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mastering-chess-and-shogi-by-self-play-with-a-general-reinforcement-learning-algorithm` | `kt:alphazero` |
 | `kt:mastering-the-game-of-go-with-deep-neural-networks-and-tree-search` | `kt:alphago` |
 | `kt:mastering-the-game-of-go-without-human-knowledge` | `kt:alphago-zero` |
-| `kt:mathematical-optimization` | `kt:gradient-descent` |
 | `kt:mathematical-reasoning` | `kt:program-induction-by-rationale-generation` |
 | `kt:maximum-entropy-markov-model` | `kt:conditional-random-field` |
 | `kt:membership-inference-attack` | `kt:benchmark-contamination` |
@@ -360,6 +361,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:office-of-management-and-budget` | `kt:omb-ai-memoranda` |
 | `kt:olaf-ronneberger` | `kt:u-net` |
 | `kt:on-line-q-learning-using-connectionist-systems` | `kt:sarsa` |
+| `kt:online-learning` | `kt:adagrad` |
 | `kt:optimal-brain-compression` | `kt:gptq` |
 | `kt:optimal-brain-damage` | `kt:model-pruning` |
 | `kt:orca-a-distributed-serving-system-for-transformer-based-generative-models` | `kt:orca-serving-system` |

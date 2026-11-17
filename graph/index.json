@@ -64,6 +64,30 @@
     ]
   },
   {
+    "id": "kt:adagrad",
+    "title": "AdaGrad",
+    "aliases": [
+      "Adagrad",
+      "adaptive gradient algorithm",
+      "adaptive subgradient method",
+      "ADAGRAD"
+    ],
+    "type": "Algorithm",
+    "domain": "ml-foundations",
+    "file": "articles/ml-foundations/adagrad.md",
+    "created": "2026-11-17",
+    "maturity": "established",
+    "source_urls": [
+      "https://www.jmlr.org/papers/v12/duchi11a.html",
+      "https://www.learningtheory.org/colt2010/papers/023Duchi.pdf",
+      "https://d2l.ai/chapter_optimization/adagrad.html",
+      "https://papers.nips.cc/paper_files/paper/2012/file/6aca97005c68f1206823815f66102863-Paper.pdf",
+      "https://arxiv.org/pdf/1412.6980",
+      "https://docs.pytorch.org/docs/main/generated/torch.optim.Adagrad.html",
+      "https://aclanthology.org/D14-1162.pdf"
+    ]
+  },
+  {
     "id": "kt:adam-optimizer",
     "title": "Adam optimizer",
     "aliases": [

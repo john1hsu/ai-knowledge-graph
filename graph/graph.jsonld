@@ -11678,6 +11678,119 @@
       ]
     },
     {
+      "@id": "kt:adagrad",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "AdaGrad",
+      "skos:definition": "An adaptive first-order optimization algorithm, introduced by Duchi, Hazan and Singer (COLT 2010; JMLR 2011), that gives each parameter its own learning rate by dividing the step by the square root of that parameter's accumulated squared gradients, so rarely updated (sparse) features take larger steps and frequently updated ones take smaller steps.",
+      "kto:domain": "ml-foundations",
+      "dcterms:created": "2026-11-17",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Adaptive Subgradient Methods for Online Learning and Stochastic Optimization",
+          "dcterms:publisher": "Journal of Machine Learning Research 12(61), 2121–2159 (2011) (Duchi, Hazan and Singer)",
+          "schema:url": "https://www.jmlr.org/papers/v12/duchi11a.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Adaptive Subgradient Methods for Online Learning and Stochastic Optimization (COLT 2010 version)",
+          "dcterms:publisher": "Conference on Learning Theory 2010 (Duchi, Hazan and Singer), learningtheory.org",
+          "schema:url": "https://www.learningtheory.org/colt2010/papers/023Duchi.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "12.7. Adagrad",
+          "dcterms:publisher": "Dive into Deep Learning (Zhang, Lipton, Li and Smola), d2l.ai",
+          "schema:url": "https://d2l.ai/chapter_optimization/adagrad.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Large Scale Distributed Deep Networks",
+          "dcterms:publisher": "NeurIPS 2012 (Dean, Corrado, Monga, Chen, Devin, Mao, Ranzato, Senior, Tucker, Yang, Le and Ng)",
+          "schema:url": "https://papers.nips.cc/paper_files/paper/2012/file/6aca97005c68f1206823815f66102863-Paper.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Adam: A Method for Stochastic Optimization",
+          "dcterms:publisher": "ICLR 2015 (Kingma and Ba), arXiv:1412.6980",
+          "schema:url": "https://arxiv.org/pdf/1412.6980",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "torch.optim.Adagrad",
+          "dcterms:publisher": "PyTorch documentation (main)",
+          "schema:url": "https://docs.pytorch.org/docs/main/generated/torch.optim.Adagrad.html",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "GloVe: Global Vectors for Word Representation",
+          "dcterms:publisher": "EMNLP 2014 (Pennington, Socher and Manning), ACL Anthology D14-1162",
+          "schema:url": "https://aclanthology.org/D14-1162.pdf",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/ml-foundations/adagrad.md",
+      "skos:altLabel": [
+        "Adagrad",
+        "adaptive gradient algorithm",
+        "adaptive subgradient method",
+        "ADAGRAD"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:gradient-descent"
+        },
+        {
+          "@id": "kt:mathematical-optimization"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:stochastic-gradient-descent"
+        },
+        {
+          "@id": "kt:rmsprop"
+        },
+        {
+          "@id": "kt:adam-optimizer"
+        },
+        {
+          "@id": "kt:online-learning"
+        },
+        {
+          "@id": "kt:distributed-training"
+        },
+        {
+          "@id": "kt:embeddings"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:adaptive-subgradient-methods-for-online-learning-and-stochastic-optimization"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:john-duchi"
+        }
+      ],
+      "kto:extends": [
+        {
+          "@id": "kt:stochastic-gradient-descent"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:pytorch"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:glove"
+        }
+      ]
+    },
+    {
       "@id": "kt:bias-variance-tradeoff",
       "@type": "kto:Concept",
       "skos:prefLabel": "Bias-variance tradeoff",
@@ -12253,6 +12366,9 @@
         },
         {
           "@id": "kt:adam-optimizer"
+        },
+        {
+          "@id": "kt:adagrad"
         },
         {
           "@id": "kt:supervised-learning"
