@@ -3463,6 +3463,34 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/unsupervised-learning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-translation> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-translation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Application> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-translation> <http://www.w3.org/2000/01/rdf-schema#label> "Machine translation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-translation> <http://www.w3.org/2004/02/skos/core#altLabel> "MT" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-translation> <http://www.w3.org/2004/02/skos/core#altLabel> "automatic translation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-translation> <http://www.w3.org/2004/02/skos/core#altLabel> "computer translation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-translation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-translation> <http://www.w3.org/2004/02/skos/core#definition> "The use of computers to translate text (or transcribed speech) from a source natural language into a target language, which evolved from hand-written rule systems in the 1950s through statistical word- and phrase-based models to neural encoder-decoder and Transformer models." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-translation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Machine translation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-translation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/beam-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-translation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/bleu> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-translation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/lighthill-report> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-translation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-translation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-translation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-translation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-translation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-translation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-translation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-translation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-translation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-translation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s7> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-translation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "transformers-and-llms" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-translation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-translation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/neural-machine-translation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-translation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/statistical-machine-translation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-translation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/georgetown-ibm-experiment> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/machine-translation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/markov-decision-process> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/markov-decision-process> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/markov-decision-process> <http://www.w3.org/2000/01/rdf-schema#label> "Markov decision process" .
@@ -9026,6 +9054,41 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "standards-body" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-learning/s6> <https://schema.org/url> "https://scc-ccn.ca/standardsdb/standards/2049844" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s1> <http://purl.org/dc/terms/publisher> "Proceedings of the 6th Conference of the Association for Machine Translation in the Americas (AMTA 2004), pp. 102-114 (W. John Hutchins)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s1> <http://purl.org/dc/terms/title> "The Georgetown-IBM experiment demonstrated in January 1954" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s1> <https://schema.org/url> "https://aclanthology.org/2004.amta-papers.12" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s2> <http://purl.org/dc/terms/publisher> "Automatic Language Processing Advisory Committee, National Academy of Sciences / National Research Council, 1966" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s2> <http://purl.org/dc/terms/title> "Language and Machines: Computers in Translation and Linguistics (ALPAC report)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s2> <https://schema.org/url> "https://aclanthology.org/www.mt-archive.info/ALPAC-1966-TOC.htm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s3> <http://purl.org/dc/terms/publisher> "Computational Linguistics 19(2), 1993, pp. 263-311 (Brown, Della Pietra, Della Pietra, Mercer)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s3> <http://purl.org/dc/terms/title> "The Mathematics of Statistical Machine Translation: Parameter Estimation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s3> <https://schema.org/url> "https://aclanthology.org/J93-2003.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s4> <http://purl.org/dc/terms/publisher> "Proceedings of HLT-NAACL 2003, pp. 127-133 (Koehn, Och, Marcu)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s4> <http://purl.org/dc/terms/title> "Statistical Phrase-Based Translation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s4> <https://schema.org/url> "https://aclanthology.org/N03-1017/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s5> <http://purl.org/dc/terms/publisher> "Google Research (Wu, Schuster, Chen, Le, Norouzi et al.), arXiv:1609.08144, 2016" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s5> <http://purl.org/dc/terms/title> "Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s5> <https://schema.org/url> "https://research.google/pubs/googles-neural-machine-translation-system-bridging-the-gap-between-human-and-machine-translation/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s6> <http://purl.org/dc/terms/publisher> "Vaswani et al., arXiv:1706.03762 (NeurIPS 2017)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s6> <http://purl.org/dc/terms/title> "Attention Is All You Need" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s6> <https://schema.org/url> "https://arxiv.org/abs/1706.03762" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s7> <http://purl.org/dc/terms/publisher> "Zhang, Lipton, Li, Smola, d2l.ai" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s7> <http://purl.org/dc/terms/title> "Machine Translation and the Dataset (Dive into Deep Learning, ch. 10.5)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s7> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/machine-translation/s7> <https://schema.org/url> "https://d2l.ai/chapter_recurrent-modern/machine-translation-and-dataset.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/markov-decision-process/s1> <http://purl.org/dc/terms/publisher> "RAND Corporation paper P-1066 (Richard E. Bellman), 1957" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/markov-decision-process/s1> <http://purl.org/dc/terms/title> "A Markovian Decision Process" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/markov-decision-process/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

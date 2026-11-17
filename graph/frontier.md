@@ -7,7 +7,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:heuristic-search` | `kt:deep-blue`, `kt:general-problem-solver`, `kt:logic-theorist`, `kt:beam-search`, `kt:tree-of-thoughts` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:ai-hardware` | `kt:ai-accelerator`, `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
-| `kt:machine-translation` | `kt:lighthill-report`, `kt:bleu`, `kt:wmt-2014`, `kt:natural-language-processing` |
 | `kt:microsoft-research` | `kt:alfworld`, `kt:autogen`, `kt:residual-connection`, `kt:graphrag` |
 | `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
 | `kt:thompson-sampling` | `kt:exploration-exploitation`, `kt:multi-armed-bandit`, `kt:upper-confidence-bound`, `kt:upper-confidence-bound` |
@@ -242,6 +241,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:generalized-advantage-estimation` | `kt:proximal-policy-optimization` |
 | `kt:generative-adversarial-nets` | `kt:generative-adversarial-network` |
 | `kt:george-cybenko` | `kt:universal-approximation-theorem` |
+| `kt:georgetown-ibm-experiment` | `kt:machine-translation` |
 | `kt:glove-global-vectors-for-word-representation` | `kt:glove` |
 | `kt:google-brain` | `kt:concrete-problems-in-ai-safety` |
 | `kt:gpipe` | `kt:pipeline-parallelism` |
@@ -358,6 +358,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mycin` | `kt:expert-systems` |
 | `kt:negative-transfer` | `kt:transfer-learning` |
 | `kt:neocognitron` | `kt:convolutional-neural-network` |
+| `kt:neural-machine-translation` | `kt:machine-translation` |
 | `kt:neuro-symbolic-ai` | `kt:symbolic-ai` |
 | `kt:new-legislative-framework` | `kt:eu-ai-act` |
 | `kt:newtons-method` | `kt:gradient-descent` |
@@ -447,6 +448,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:speech-processing` | `kt:automatic-speech-recognition` |
 | `kt:stanford-nlp-group` | `kt:glove` |
 | `kt:star-bootstrapping-reasoning-with-reasoning` | `kt:star-self-taught-reasoner` |
+| `kt:statistical-machine-translation` | `kt:machine-translation` |
 | `kt:stochastic-approximation` | `kt:stochastic-gradient-descent` |
 | `kt:stone-weierstrass-theorem` | `kt:universal-approximation-theorem` |
 | `kt:strategic-computing-initiative` | `kt:ai-winter` |

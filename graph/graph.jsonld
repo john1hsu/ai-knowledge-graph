@@ -22101,6 +22101,108 @@
       ]
     },
     {
+      "@id": "kt:machine-translation",
+      "@type": "kto:Application",
+      "skos:prefLabel": "Machine translation",
+      "skos:definition": "The use of computers to translate text (or transcribed speech) from a source natural language into a target language, which evolved from hand-written rule systems in the 1950s through statistical word- and phrase-based models to neural encoder-decoder and Transformer models.",
+      "kto:domain": "transformers-and-llms",
+      "dcterms:created": "2026-11-17",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Georgetown-IBM experiment demonstrated in January 1954",
+          "dcterms:publisher": "Proceedings of the 6th Conference of the Association for Machine Translation in the Americas (AMTA 2004), pp. 102-114 (W. John Hutchins)",
+          "schema:url": "https://aclanthology.org/2004.amta-papers.12",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Language and Machines: Computers in Translation and Linguistics (ALPAC report)",
+          "dcterms:publisher": "Automatic Language Processing Advisory Committee, National Academy of Sciences / National Research Council, 1966",
+          "schema:url": "https://aclanthology.org/www.mt-archive.info/ALPAC-1966-TOC.htm",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Mathematics of Statistical Machine Translation: Parameter Estimation",
+          "dcterms:publisher": "Computational Linguistics 19(2), 1993, pp. 263-311 (Brown, Della Pietra, Della Pietra, Mercer)",
+          "schema:url": "https://aclanthology.org/J93-2003.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Statistical Phrase-Based Translation",
+          "dcterms:publisher": "Proceedings of HLT-NAACL 2003, pp. 127-133 (Koehn, Och, Marcu)",
+          "schema:url": "https://aclanthology.org/N03-1017/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation",
+          "dcterms:publisher": "Google Research (Wu, Schuster, Chen, Le, Norouzi et al.), arXiv:1609.08144, 2016",
+          "schema:url": "https://research.google/pubs/googles-neural-machine-translation-system-bridging-the-gap-between-human-and-machine-translation/",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Attention Is All You Need",
+          "dcterms:publisher": "Vaswani et al., arXiv:1706.03762 (NeurIPS 2017)",
+          "schema:url": "https://arxiv.org/abs/1706.03762",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Machine Translation and the Dataset (Dive into Deep Learning, ch. 10.5)",
+          "dcterms:publisher": "Zhang, Lipton, Li, Smola, d2l.ai",
+          "schema:url": "https://d2l.ai/chapter_recurrent-modern/machine-translation-and-dataset.html",
+          "kto:sourceType": "textbook"
+        }
+      ],
+      "kto:file": "articles/transformers-and-llms/machine-translation.md",
+      "skos:altLabel": [
+        "MT",
+        "automatic translation",
+        "computer translation"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:natural-language-processing"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:sequence-to-sequence-learning"
+        },
+        {
+          "@id": "kt:bleu"
+        },
+        {
+          "@id": "kt:wmt-2014"
+        },
+        {
+          "@id": "kt:beam-search"
+        },
+        {
+          "@id": "kt:lighthill-report"
+        },
+        {
+          "@id": "kt:transformer-architecture"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:statistical-machine-translation"
+        },
+        {
+          "@id": "kt:neural-machine-translation"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:wmt-2014"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:georgetown-ibm-experiment"
+        }
+      ]
+    },
+    {
       "@id": "kt:natural-language-processing",
       "@type": "kto:Field",
       "skos:prefLabel": "Natural language processing",

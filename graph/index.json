@@ -2917,6 +2917,29 @@
     ]
   },
   {
+    "id": "kt:machine-translation",
+    "title": "Machine translation",
+    "aliases": [
+      "MT",
+      "automatic translation",
+      "computer translation"
+    ],
+    "type": "Application",
+    "domain": "transformers-and-llms",
+    "file": "articles/transformers-and-llms/machine-translation.md",
+    "created": "2026-11-17",
+    "maturity": "established",
+    "source_urls": [
+      "https://aclanthology.org/2004.amta-papers.12",
+      "https://aclanthology.org/www.mt-archive.info/ALPAC-1966-TOC.htm",
+      "https://aclanthology.org/J93-2003.pdf",
+      "https://aclanthology.org/N03-1017/",
+      "https://research.google/pubs/googles-neural-machine-translation-system-bridging-the-gap-between-human-and-machine-translation/",
+      "https://arxiv.org/abs/1706.03762",
+      "https://d2l.ai/chapter_recurrent-modern/machine-translation-and-dataset.html"
+    ]
+  },
+  {
     "id": "kt:markov-decision-process",
     "title": "Markov decision process",
     "aliases": [
