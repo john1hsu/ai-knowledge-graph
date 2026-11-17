@@ -16791,6 +16791,84 @@
       ]
     },
     {
+      "@id": "kt:knowledge-representation",
+      "@type": "kto:Field",
+      "skos:prefLabel": "Knowledge representation",
+      "skos:definition": "The area of AI concerned with encoding what an agent knows in explicit, usually symbolic structures (logic, rules, frames, ontologies) and with the automated reasoning that derives implicit conclusions from them.",
+      "kto:domain": "retrieval-and-knowledge",
+      "dcterms:created": "2026-11-17",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "What Is a Knowledge Representation?",
+          "dcterms:publisher": "AI Magazine 14(1), 1993, pp. 17-33 (Davis, Shrobe and Szolovits); UMBC course copy",
+          "schema:url": "https://courses.cs.umbc.edu/771/papers/davis.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Knowledge Representation and Reasoning",
+          "dcterms:publisher": "Morgan Kaufmann / Elsevier, 2004 (Ronald Brachman and Hector Levesque)",
+          "schema:url": "https://shop.elsevier.com/books/knowledge-representation-and-reasoning/brachman/978-1-55860-932-7",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "A Framework for Representing Knowledge",
+          "dcterms:publisher": "MIT AI Laboratory, AI Memo 306, June 1974 (Marvin Minsky); MIT DSpace",
+          "schema:url": "https://dspace.mit.edu/entities/publication/0eca0164-cb5f-42de-8c86-43f54b23306d",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "OWL 2 Web Ontology Language Document Overview (Second Edition)",
+          "dcterms:publisher": "W3C Recommendation, 11 December 2012",
+          "schema:url": "https://www.w3.org/TR/owl2-overview/",
+          "kto:sourceType": "standards-body"
+        },
+        {
+          "dcterms:title": "KR 2026: 23rd International Conference on Principles of Knowledge Representation and Reasoning",
+          "dcterms:publisher": "KR Inc. (Lisbon, 20-23 July 2026)",
+          "schema:url": "https://kr.org/KR2026/",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/retrieval-and-knowledge/knowledge-representation.md",
+      "skos:altLabel": [
+        "knowledge representation and reasoning",
+        "KR&R",
+        "KRR"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:artificial-intelligence"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:symbolic-ai"
+        },
+        {
+          "@id": "kt:knowledge-graph"
+        },
+        {
+          "@id": "kt:automated-planning"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:description-logic"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:expert-systems"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:representation-learning"
+        }
+      ]
+    },
+    {
       "@id": "kt:named-entity-recognition",
       "@type": "kto:Application",
       "skos:prefLabel": "Named-entity recognition",

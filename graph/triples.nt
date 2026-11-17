@@ -3067,6 +3067,28 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/graphrag> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph-embedding> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-representation> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-representation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Field> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-representation> <http://www.w3.org/2000/01/rdf-schema#label> "Knowledge representation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-representation> <http://www.w3.org/2004/02/skos/core#altLabel> "KR&R" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-representation> <http://www.w3.org/2004/02/skos/core#altLabel> "KRR" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-representation> <http://www.w3.org/2004/02/skos/core#altLabel> "knowledge representation and reasoning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-representation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-intelligence> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-representation> <http://www.w3.org/2004/02/skos/core#definition> "The area of AI concerned with encoding what an agent knows in explicit, usually symbolic structures (logic, rules, frames, ontologies) and with the automated reasoning that derives implicit conclusions from them." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-representation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Knowledge representation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-representation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/automated-planning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-representation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-graph> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-representation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-representation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-representation/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-representation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-representation/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-representation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-representation/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-representation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-representation/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-representation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-representation/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-representation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-representation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "retrieval-and-knowledge" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-representation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/expert-systems> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-representation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/description-logic> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-representation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <http://purl.org/dc/terms/created> "2026-11-14" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> <http://www.w3.org/2000/01/rdf-schema#label> "KV cache" .
@@ -8467,6 +8489,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-graph/s6> <https://schema.org/url> "https://arxiv.org/abs/2306.08302" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-representation/s1> <http://purl.org/dc/terms/publisher> "AI Magazine 14(1), 1993, pp. 17-33 (Davis, Shrobe and Szolovits); UMBC course copy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-representation/s1> <http://purl.org/dc/terms/title> "What Is a Knowledge Representation?" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-representation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-representation/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-representation/s1> <https://schema.org/url> "https://courses.cs.umbc.edu/771/papers/davis.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-representation/s2> <http://purl.org/dc/terms/publisher> "Morgan Kaufmann / Elsevier, 2004 (Ronald Brachman and Hector Levesque)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-representation/s2> <http://purl.org/dc/terms/title> "Knowledge Representation and Reasoning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-representation/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-representation/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-representation/s2> <https://schema.org/url> "https://shop.elsevier.com/books/knowledge-representation-and-reasoning/brachman/978-1-55860-932-7" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-representation/s3> <http://purl.org/dc/terms/publisher> "MIT AI Laboratory, AI Memo 306, June 1974 (Marvin Minsky); MIT DSpace" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-representation/s3> <http://purl.org/dc/terms/title> "A Framework for Representing Knowledge" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-representation/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-representation/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-representation/s3> <https://schema.org/url> "https://dspace.mit.edu/entities/publication/0eca0164-cb5f-42de-8c86-43f54b23306d" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-representation/s4> <http://purl.org/dc/terms/publisher> "W3C Recommendation, 11 December 2012" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-representation/s4> <http://purl.org/dc/terms/title> "OWL 2 Web Ontology Language Document Overview (Second Edition)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-representation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-representation/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "standards-body" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-representation/s4> <https://schema.org/url> "https://www.w3.org/TR/owl2-overview/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-representation/s5> <http://purl.org/dc/terms/publisher> "KR Inc. (Lisbon, 20-23 July 2026)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-representation/s5> <http://purl.org/dc/terms/title> "KR 2026: 23rd International Conference on Principles of Knowledge Representation and Reasoning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-representation/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-representation/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/knowledge-representation/s5> <https://schema.org/url> "https://kr.org/KR2026/" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s1> <http://purl.org/dc/terms/publisher> "Hugging Face Transformers documentation" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s1> <http://purl.org/dc/terms/title> "Cache strategies (KV cache)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/kv-cache/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

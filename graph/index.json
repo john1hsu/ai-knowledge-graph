@@ -2581,6 +2581,27 @@
     ]
   },
   {
+    "id": "kt:knowledge-representation",
+    "title": "Knowledge representation",
+    "aliases": [
+      "knowledge representation and reasoning",
+      "KR&R",
+      "KRR"
+    ],
+    "type": "Field",
+    "domain": "retrieval-and-knowledge",
+    "file": "articles/retrieval-and-knowledge/knowledge-representation.md",
+    "created": "2026-11-17",
+    "maturity": "established",
+    "source_urls": [
+      "https://courses.cs.umbc.edu/771/papers/davis.pdf",
+      "https://shop.elsevier.com/books/knowledge-representation-and-reasoning/brachman/978-1-55860-932-7",
+      "https://dspace.mit.edu/entities/publication/0eca0164-cb5f-42de-8c86-43f54b23306d",
+      "https://www.w3.org/TR/owl2-overview/",
+      "https://kr.org/KR2026/"
+    ]
+  },
+  {
     "id": "kt:kv-cache",
     "title": "KV cache",
     "aliases": [
