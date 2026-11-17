@@ -3493,6 +3493,34 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/alphago> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/muzero> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Benchmark> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <http://www.w3.org/2000/01/rdf-schema#label> "MS COCO" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <http://www.w3.org/2004/02/skos/core#altLabel> "COCO dataset" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <http://www.w3.org/2004/02/skos/core#altLabel> "Common Objects in Context" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <http://www.w3.org/2004/02/skos/core#altLabel> "Microsoft COCO" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <http://www.w3.org/2004/02/skos/core#altLabel> "Microsoft Common Objects in Context" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <http://www.w3.org/2004/02/skos/core#definition> "A large-scale image dataset and benchmark of everyday scenes with per-instance segmentation masks, introduced by Lin et al. in 2014, that became the standard yardstick for object detection, instance segmentation and image captioning, scored with IoU-averaged average precision." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <http://www.w3.org/2004/02/skos/core#prefLabel> "MS COCO" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/bleu> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/imagenet-and-alexnet> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/object-detection> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-segmentation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/yolo> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "computer-vision-and-multimodal" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <https://github.com/john1hsu/ai-knowledge-graph/ontology#followedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/lvis> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/microsoft-coco-common-objects-in-context> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <https://github.com/john1hsu/ai-knowledge-graph/ontology#precededBy> <https://github.com/john1hsu/ai-knowledge-graph/id/pascal-voc> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/image-captioning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Paradigm> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/multi-agent-systems> <http://www.w3.org/2000/01/rdf-schema#label> "Multi-agent systems" .
@@ -8668,6 +8696,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s5> <https://schema.org/url> "https://arxiv.org/abs/1911.08265v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s1> <http://purl.org/dc/terms/publisher> "Lin, Maire, Belongie, Bourdev, Girshick, Hays, Perona, Ramanan, Zitnick and Dollár; arXiv 1405.0312 (full version of the ECCV 2014 paper)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s1> <http://purl.org/dc/terms/title> "Microsoft COCO: Common Objects in Context" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s1> <https://schema.org/url> "https://arxiv.org/abs/1405.0312v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s2> <http://purl.org/dc/terms/publisher> "COCO Consortium (cocodataset.github.io, official COCO website source)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s2> <http://purl.org/dc/terms/title> "Detection Evaluation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s2> <https://schema.org/url> "https://raw.githubusercontent.com/cocodataset/cocodataset.github.io/master/dataset/detection-eval.htm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s3> <http://purl.org/dc/terms/publisher> "Chen, Fang, Lin, Vedantam, Gupta, Dollár and Zitnick; arXiv 1504.00325, 2015" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s3> <http://purl.org/dc/terms/title> "Microsoft COCO Captions: Data Collection and Evaluation Server" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s3> <https://schema.org/url> "https://arxiv.org/abs/1504.00325" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s4> <http://purl.org/dc/terms/publisher> "Gupta, Dollár and Girshick, CVPR 2019 (CVF Open Access)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s4> <http://purl.org/dc/terms/title> "LVIS: A Dataset for Large Vocabulary Instance Segmentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s4> <https://schema.org/url> "https://openaccess.thecvf.com/content_CVPR_2019/papers/Gupta_LVIS_A_Dataset_for_Large_Vocabulary_Instance_Segmentation_CVPR_2019_paper.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s5> <http://purl.org/dc/terms/publisher> "Ultralytics documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s5> <http://purl.org/dc/terms/title> "COCO Dataset" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s5> <https://schema.org/url> "https://docs.ultralytics.com/datasets/detect/coco" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s1> <http://purl.org/dc/terms/publisher> "Michael Wooldridge; Hebrew University of Jerusalem course \"Intelligent Multi-Agent Systems\" (2003)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s1> <http://purl.org/dc/terms/title> "An Introduction to MultiAgent Systems — Lecture 1: Introduction (lecture slides)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/multi-agent-systems/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

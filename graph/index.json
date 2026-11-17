@@ -2940,6 +2940,28 @@
     ]
   },
   {
+    "id": "kt:ms-coco",
+    "title": "MS COCO",
+    "aliases": [
+      "Microsoft COCO",
+      "COCO dataset",
+      "Common Objects in Context",
+      "Microsoft Common Objects in Context"
+    ],
+    "type": "Benchmark",
+    "domain": "computer-vision-and-multimodal",
+    "file": "articles/computer-vision-and-multimodal/ms-coco.md",
+    "created": "2026-11-17",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/abs/1405.0312v2",
+      "https://raw.githubusercontent.com/cocodataset/cocodataset.github.io/master/dataset/detection-eval.htm",
+      "https://arxiv.org/abs/1504.00325",
+      "https://openaccess.thecvf.com/content_CVPR_2019/papers/Gupta_LVIS_A_Dataset_for_Large_Vocabulary_Instance_Segmentation_CVPR_2019_paper.pdf",
+      "https://docs.ultralytics.com/datasets/detect/coco"
+    ]
+  },
+  {
     "id": "kt:multi-agent-systems",
     "title": "Multi-agent systems",
     "aliases": [

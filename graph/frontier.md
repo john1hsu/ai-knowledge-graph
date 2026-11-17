@@ -22,7 +22,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:knowledge-representation` | `kt:expert-systems`, `kt:symbolic-ai`, `kt:knowledge-graph` |
 | `kt:machine-translation` | `kt:bleu`, `kt:wmt-2014`, `kt:natural-language-processing` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
-| `kt:ms-coco` | `kt:faster-r-cnn`, `kt:object-detection`, `kt:yolo` |
+| `kt:pascal-voc` | `kt:ms-coco`, `kt:object-detection`, `kt:semantic-segmentation` |
 | `kt:stochastic-gradient-descent` | `kt:data-parallelism`, `kt:adam-optimizer`, `kt:gradient-descent` |
 | `kt:tensor-parallelism` | `kt:distributed-training`, `kt:pipeline-parallelism`, `kt:orca-serving-system` |
 | `kt:upper-confidence-bound` | `kt:exploration-exploitation`, `kt:monte-carlo-tree-search`, `kt:multi-armed-bandit` |
@@ -62,6 +62,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hugging-face-diffusers` | `kt:diffusion-model`, `kt:latent-diffusion-model` |
 | `kt:hugging-face-hub` | `kt:datasheets-for-datasets`, `kt:model-cards` |
 | `kt:hugging-face-peft` | `kt:parameter-efficient-fine-tuning`, `kt:qlora` |
+| `kt:image-captioning` | `kt:ms-coco`, `kt:attention-mechanism` |
 | `kt:induction-head` | `kt:mechanistic-interpretability`, `kt:in-context-learning` |
 | `kt:iso-iec-27001` | `kt:iso-iec-42001`, `kt:iso-iec-42001` |
 | `kt:john-mccarthy` | `kt:artificial-intelligence`, `kt:dartmouth-workshop` |
@@ -80,7 +81,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:monte-carlo-methods` | `kt:monte-carlo-tree-search`, `kt:temporal-difference-learning` |
 | `kt:mt-bench` | `kt:chatbot-arena`, `kt:llm-as-a-judge` |
 | `kt:muzero` | `kt:alphazero`, `kt:monte-carlo-tree-search` |
-| `kt:pascal-voc` | `kt:object-detection`, `kt:semantic-segmentation` |
 | `kt:post-training` | `kt:hugging-face-trl`, `kt:instruction-tuning` |
 | `kt:post-training-quantization` | `kt:awq`, `kt:gptq` |
 | `kt:probabilistic-relevance-framework` | `kt:bm25`, `kt:bm25` |
@@ -253,7 +253,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ibm-research` | `kt:deep-blue` |
 | `kt:if-beam-search-is-the-answer-what-was-the-question` | `kt:beam-search` |
 | `kt:ilsvrc` | `kt:image-classification` |
-| `kt:image-captioning` | `kt:attention-mechanism` |
 | `kt:imagenet-classification-with-deep-convolutional-neural-networks` | `kt:imagenet-and-alexnet` |
 | `kt:imagenet-large-scale-visual-recognition-challenge` | `kt:imagenet-and-alexnet` |
 | `kt:in-datacenter-performance-analysis-of-a-tensor-processing-unit` | `kt:tpu` |
@@ -311,6 +310,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:long-short-term-memory-1997` | `kt:long-short-term-memory` |
 | `kt:long-short-term-memory-networks-for-machine-reading` | `kt:self-attention` |
 | `kt:low-rank-factorization` | `kt:model-compression` |
+| `kt:lvis` | `kt:ms-coco` |
 | `kt:machine-learning-systems` | `kt:llm-inference-optimization` |
 | `kt:margaret-mitchell` | `kt:model-cards` |
 | `kt:mask-r-cnn` | `kt:faster-r-cnn` |
@@ -329,6 +329,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:meteor` | `kt:bleu` |
 | `kt:michael-wooldridge` | `kt:multi-agent-systems` |
 | `kt:microsoft-agent-framework` | `kt:autogen` |
+| `kt:microsoft-coco-common-objects-in-context` | `kt:ms-coco` |
 | `kt:min-p-sampling` | `kt:sampling-temperature-and-top-p` |
 | `kt:minds-brains-and-programs` | `kt:chinese-room-argument` |
 | `kt:mixed-precision-training` | `kt:tensor-cores` |
