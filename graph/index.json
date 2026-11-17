@@ -3329,6 +3329,28 @@
     ]
   },
   {
+    "id": "kt:nist-generative-ai-profile",
+    "title": "NIST Generative AI Profile",
+    "aliases": [
+      "NIST AI 600-1",
+      "Generative Artificial Intelligence Profile",
+      "GAI Profile",
+      "AI RMF Generative AI Profile"
+    ],
+    "type": "Policy",
+    "domain": "governance-and-policy",
+    "file": "articles/governance-and-policy/nist-generative-ai-profile.md",
+    "created": "2026-11-17",
+    "maturity": "established",
+    "source_urls": [
+      "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+      "https://www.nist.gov/node/1855536",
+      "https://www.nist.gov/news-events/news/2023/06/biden-harris-administration-announces-new-nist-public-working-group-ai",
+      "https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf",
+      "https://airc.nist.gov/documents/1/20250527-Crosswalk_NIST_600-1_IMDA_AI_Verify.pdf"
+    ]
+  },
+  {
     "id": "kt:nvidia",
     "title": "NVIDIA",
     "aliases": [

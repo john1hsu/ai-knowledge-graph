@@ -79,6 +79,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:model-parallelism` | `kt:data-parallelism`, `kt:pipeline-parallelism` |
 | `kt:monte-carlo-methods` | `kt:monte-carlo-tree-search`, `kt:temporal-difference-learning` |
 | `kt:muzero` | `kt:alphazero`, `kt:monte-carlo-tree-search` |
+| `kt:nist` | `kt:nist-ai-risk-management-framework`, `kt:nist-generative-ai-profile` |
 | `kt:post-training` | `kt:hugging-face-trl`, `kt:instruction-tuning` |
 | `kt:post-training-quantization` | `kt:awq`, `kt:gptq` |
 | `kt:princeton-university` | `kt:swe-agent`, `kt:swe-bench` |
@@ -168,6 +169,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:conll-2003` | `kt:named-entity-recognition` |
 | `kt:constitutional-ai-harmlessness-from-ai-feedback` | `kt:constitutional-ai` |
 | `kt:constrained-decoding` | `kt:structured-output` |
+| `kt:content-provenance` | `kt:nist-generative-ai-profile` |
 | `kt:contextual-calibration` | `kt:prompt-sensitivity` |
 | `kt:council-of-europe` | `kt:council-of-europe-framework-convention-on-ai` |
 | `kt:cross-entropy` | `kt:perplexity` |
@@ -362,8 +364,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:neuro-symbolic-ai` | `kt:symbolic-ai` |
 | `kt:new-legislative-framework` | `kt:eu-ai-act` |
 | `kt:newtons-method` | `kt:gradient-descent` |
-| `kt:nist` | `kt:nist-ai-risk-management-framework` |
-| `kt:nist-generative-ai-profile` | `kt:nist-ai-risk-management-framework` |
 | `kt:non-maximum-suppression` | `kt:object-detection` |
 | `kt:nvidia-dynamo` | `kt:triton-inference-server` |
 | `kt:oecd` | `kt:oecd-ai-principles` |

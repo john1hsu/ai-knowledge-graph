@@ -10621,6 +10621,89 @@
       ]
     },
     {
+      "@id": "kt:nist-generative-ai-profile",
+      "@type": "kto:Policy",
+      "skos:prefLabel": "NIST Generative AI Profile",
+      "skos:definition": "NIST AI 600-1, a voluntary July 2024 companion to the NIST AI Risk Management Framework that names twelve risks unique to or worsened by generative AI and maps suggested risk-management actions onto the framework's Govern, Map, Measure and Manage functions.",
+      "kto:domain": "governance-and-policy",
+      "dcterms:created": "2026-11-17",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile (NIST AI 600-1)",
+          "dcterms:publisher": "National Institute of Standards and Technology, July 2024",
+          "schema:url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile (publication record)",
+          "dcterms:publisher": "National Institute of Standards and Technology",
+          "schema:url": "https://www.nist.gov/node/1855536",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Biden-Harris Administration Announces New NIST Public Working Group on AI",
+          "dcterms:publisher": "National Institute of Standards and Technology, 22 June 2023",
+          "schema:url": "https://www.nist.gov/news-events/news/2023/06/biden-harris-administration-announces-new-nist-public-working-group-ai",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Winning the Race: America's AI Action Plan",
+          "dcterms:publisher": "The White House, July 2025",
+          "schema:url": "https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Crosswalk between NIST AI 600-1 and IMDA AI Verify",
+          "dcterms:publisher": "NIST AI Resource Center (AIRC), May 2025",
+          "schema:url": "https://airc.nist.gov/documents/1/20250527-Crosswalk_NIST_600-1_IMDA_AI_Verify.pdf",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/governance-and-policy/nist-generative-ai-profile.md",
+      "skos:altLabel": [
+        "NIST AI 600-1",
+        "Generative Artificial Intelligence Profile",
+        "GAI Profile",
+        "AI RMF Generative AI Profile"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:nist-ai-risk-management-framework"
+        },
+        {
+          "@id": "kt:ai-risk-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:executive-orders-on-ai"
+        },
+        {
+          "@id": "kt:red-teaming"
+        },
+        {
+          "@id": "kt:generative-model"
+        },
+        {
+          "@id": "kt:content-provenance"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:nist"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:hallucination"
+        },
+        {
+          "@id": "kt:prompt-injection"
+        }
+      ]
+    },
+    {
       "@id": "kt:oecd-ai-principles",
       "@type": "kto:Policy",
       "skos:prefLabel": "OECD AI Principles",

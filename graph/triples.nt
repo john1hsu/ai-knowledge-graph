@@ -3967,6 +3967,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "governance-and-policy" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/nist-generative-ai-profile> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-generative-ai-profile> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-generative-ai-profile> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Policy> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-generative-ai-profile> <http://www.w3.org/2000/01/rdf-schema#label> "NIST Generative AI Profile" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-generative-ai-profile> <http://www.w3.org/2004/02/skos/core#altLabel> "AI RMF Generative AI Profile" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-generative-ai-profile> <http://www.w3.org/2004/02/skos/core#altLabel> "GAI Profile" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-generative-ai-profile> <http://www.w3.org/2004/02/skos/core#altLabel> "Generative Artificial Intelligence Profile" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-generative-ai-profile> <http://www.w3.org/2004/02/skos/core#altLabel> "NIST AI 600-1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-generative-ai-profile> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-generative-ai-profile> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-generative-ai-profile> <http://www.w3.org/2004/02/skos/core#definition> "NIST AI 600-1, a voluntary July 2024 companion to the NIST AI Risk Management Framework that names twelve risks unique to or worsened by generative AI and maps suggested risk-management actions onto the framework's Govern, Map, Measure and Manage functions." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-generative-ai-profile> <http://www.w3.org/2004/02/skos/core#prefLabel> "NIST Generative AI Profile" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-generative-ai-profile> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/content-provenance> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-generative-ai-profile> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-generative-ai-profile> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/generative-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-generative-ai-profile> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-generative-ai-profile> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-generative-ai-profile/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-generative-ai-profile> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-generative-ai-profile/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-generative-ai-profile> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-generative-ai-profile/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-generative-ai-profile> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-generative-ai-profile/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-generative-ai-profile> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-generative-ai-profile/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-generative-ai-profile> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/nist> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-generative-ai-profile> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "governance-and-policy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-generative-ai-profile> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-generative-ai-profile> <https://github.com/john1hsu/ai-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/nist-generative-ai-profile> <https://github.com/john1hsu/ai-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-injection> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/nvidia> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/nvidia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Organization> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/nvidia> <http://www.w3.org/2000/01/rdf-schema#label> "NVIDIA" .
@@ -9559,6 +9584,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-ai-risk-management-framework/s6> <https://schema.org/url> "https://www.nist.gov/node/1855536" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-generative-ai-profile/s1> <http://purl.org/dc/terms/publisher> "National Institute of Standards and Technology, July 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-generative-ai-profile/s1> <http://purl.org/dc/terms/title> "Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile (NIST AI 600-1)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-generative-ai-profile/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-generative-ai-profile/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-generative-ai-profile/s1> <https://schema.org/url> "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-generative-ai-profile/s2> <http://purl.org/dc/terms/publisher> "National Institute of Standards and Technology" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-generative-ai-profile/s2> <http://purl.org/dc/terms/title> "Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile (publication record)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-generative-ai-profile/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-generative-ai-profile/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-generative-ai-profile/s2> <https://schema.org/url> "https://www.nist.gov/node/1855536" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-generative-ai-profile/s3> <http://purl.org/dc/terms/publisher> "National Institute of Standards and Technology, 22 June 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-generative-ai-profile/s3> <http://purl.org/dc/terms/title> "Biden-Harris Administration Announces New NIST Public Working Group on AI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-generative-ai-profile/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-generative-ai-profile/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-generative-ai-profile/s3> <https://schema.org/url> "https://www.nist.gov/news-events/news/2023/06/biden-harris-administration-announces-new-nist-public-working-group-ai" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-generative-ai-profile/s4> <http://purl.org/dc/terms/publisher> "The White House, July 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-generative-ai-profile/s4> <http://purl.org/dc/terms/title> "Winning the Race: America's AI Action Plan" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-generative-ai-profile/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-generative-ai-profile/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-generative-ai-profile/s4> <https://schema.org/url> "https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-generative-ai-profile/s5> <http://purl.org/dc/terms/publisher> "NIST AI Resource Center (AIRC), May 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-generative-ai-profile/s5> <http://purl.org/dc/terms/title> "Crosswalk between NIST AI 600-1 and IMDA AI Verify" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-generative-ai-profile/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-generative-ai-profile/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/nist-generative-ai-profile/s5> <https://schema.org/url> "https://airc.nist.gov/documents/1/20250527-Crosswalk_NIST_600-1_IMDA_AI_Verify.pdf" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/nvidia/s1> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission (EDGAR), filed February 2026" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/nvidia/s1> <http://purl.org/dc/terms/title> "NVIDIA Corporation Form 10-K for the fiscal year ended January 25, 2026" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/nvidia/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
