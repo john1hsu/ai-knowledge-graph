@@ -865,6 +865,27 @@
     ]
   },
   {
+    "id": "kt:bert",
+    "title": "BERT",
+    "aliases": [
+      "Bidirectional Encoder Representations from Transformers",
+      "BERT-base",
+      "BERT-large"
+    ],
+    "type": "Model",
+    "domain": "transformers-and-llms",
+    "file": "articles/transformers-and-llms/bert.md",
+    "created": "2026-11-17",
+    "maturity": "established",
+    "source_urls": [
+      "https://aclanthology.org/N19-1423.pdf",
+      "https://research.google/blog/open-sourcing-bert-state-of-the-art-pre-training-for-natural-language-processing/",
+      "https://d2l.ai/chapter_natural-language-processing-pretraining/bert.html",
+      "https://arxiv.org/abs/1907.11692",
+      "https://huggingface.co/docs/transformers/model_doc/bert"
+    ]
+  },
+  {
     "id": "kt:bias-variance-tradeoff",
     "title": "Bias-variance tradeoff",
     "aliases": [

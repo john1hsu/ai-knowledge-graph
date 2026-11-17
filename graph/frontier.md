@@ -14,7 +14,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:adagrad` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:glove` |
 | `kt:application-specific-integrated-circuit` | `kt:deep-blue`, `kt:ai-accelerator`, `kt:tpu` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
-| `kt:bert` | `kt:reranking`, `kt:self-supervised-learning`, `kt:transformer-architecture` |
 | `kt:contrastive-learning` | `kt:clip`, `kt:representation-learning`, `kt:self-supervised-learning` |
 | `kt:fairness-accountability-and-transparency` | `kt:algorithmic-bias-and-fairness`, `kt:datasheets-for-datasets`, `kt:model-cards` |
 | `kt:foundation-model` | `kt:self-supervised-learning`, `kt:transfer-learning`, `kt:large-language-model` |
@@ -71,6 +70,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:loss-function` | `kt:gradient-descent`, `kt:supervised-learning` |
 | `kt:lottery-ticket-hypothesis` | `kt:model-compression`, `kt:model-pruning` |
 | `kt:marvin-minsky` | `kt:dartmouth-workshop`, `kt:perceptron` |
+| `kt:masked-language-modeling` | `kt:self-supervised-learning`, `kt:bert` |
 | `kt:medical-image-analysis` | `kt:semantic-segmentation`, `kt:u-net` |
 | `kt:meta-ai` | `kt:toolformer`, `kt:pytorch` |
 | `kt:model-compression-caruana-2006` | `kt:model-compression`, `kt:knowledge-distillation` |
@@ -316,7 +316,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:margaret-mitchell` | `kt:model-cards` |
 | `kt:mask-r-cnn` | `kt:faster-r-cnn` |
 | `kt:masked-autoencoder` | `kt:vision-transformer` |
-| `kt:masked-language-modeling` | `kt:self-supervised-learning` |
 | `kt:mastering-chess-and-shogi-by-self-play-with-a-general-reinforcement-learning-algorithm` | `kt:alphazero` |
 | `kt:mastering-the-game-of-go-with-deep-neural-networks-and-tree-search` | `kt:alphago` |
 | `kt:mastering-the-game-of-go-without-human-knowledge` | `kt:alphago-zero` |
@@ -410,6 +409,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:richard-bellman` | `kt:markov-decision-process` |
 | `kt:richard-sutton` | `kt:temporal-difference-learning` |
 | `kt:rmsnorm` | `kt:layer-normalization` |
+| `kt:roberta` | `kt:bert` |
 | `kt:roofline-model` | `kt:gpu-computing` |
 | `kt:rotary-position-embedding` | `kt:positional-encoding` |
 | `kt:rule-based-system` | `kt:eliza` |

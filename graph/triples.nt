@@ -1027,6 +1027,35 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "evaluation-and-benchmarks" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bert> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bert> <http://www.w3.org/2000/01/rdf-schema#label> "BERT" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bert> <http://www.w3.org/2004/02/skos/core#altLabel> "BERT-base" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bert> <http://www.w3.org/2004/02/skos/core#altLabel> "BERT-large" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bert> <http://www.w3.org/2004/02/skos/core#altLabel> "Bidirectional Encoder Representations from Transformers" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bert> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bert> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bert> <http://www.w3.org/2004/02/skos/core#definition> "An encoder-only Transformer language model released by Google AI Language in 2018 that is pretrained on unlabeled text with masked language modeling and next sentence prediction, giving deeply bidirectional contextual representations that are then fine-tuned for downstream language-understanding tasks." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bert> <http://www.w3.org/2004/02/skos/core#prefLabel> "BERT" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bert> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bert> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bert> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bert> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/reranking> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bert> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bert> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/transfer-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bert> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/bert/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bert> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/bert/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bert> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/bert/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bert> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/bert/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bert> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/bert/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bert> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bert> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bert> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/google> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bert> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "transformers-and-llms" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bert> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bert> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bert> <https://github.com/john1hsu/ai-knowledge-graph/ontology#supersededBy> <https://github.com/john1hsu/ai-knowledge-graph/id/roberta> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/bert> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/masked-language-modeling> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <http://www.w3.org/2000/01/rdf-schema#label> "Bias-variance tradeoff" .
@@ -6176,6 +6205,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/benchmark-contamination/s6> <https://schema.org/url> "https://iclr.cc/virtual/2025/poster/28134" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bert/s1> <http://purl.org/dc/terms/publisher> "Devlin, Chang, Lee and Toutanova, Proceedings of NAACL-HLT 2019, Vol. 1, pp. 4171–4186, ACL Anthology (doi 10.18653/v1/N19-1423)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bert/s1> <http://purl.org/dc/terms/title> "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bert/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bert/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bert/s1> <https://schema.org/url> "https://aclanthology.org/N19-1423.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bert/s2> <http://purl.org/dc/terms/publisher> "Jacob Devlin and Ming-Wei Chang, Google Research blog, 2 November 2018" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bert/s2> <http://purl.org/dc/terms/title> "Open Sourcing BERT: State-of-the-Art Pre-training for Natural Language Processing" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bert/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bert/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bert/s2> <https://schema.org/url> "https://research.google/blog/open-sourcing-bert-state-of-the-art-pre-training-for-natural-language-processing/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bert/s3> <http://purl.org/dc/terms/publisher> "Zhang, Lipton, Li and Smola, d2l.ai" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bert/s3> <http://purl.org/dc/terms/title> "Dive into Deep Learning, 15.8: Bidirectional Encoder Representations from Transformers (BERT)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bert/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bert/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bert/s3> <https://schema.org/url> "https://d2l.ai/chapter_natural-language-processing-pretraining/bert.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bert/s4> <http://purl.org/dc/terms/publisher> "Liu, Ott, Goyal et al., authors' arXiv version, July 2019" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bert/s4> <http://purl.org/dc/terms/title> "RoBERTa: A Robustly Optimized BERT Pretraining Approach (arXiv 1907.11692)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bert/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bert/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bert/s4> <https://schema.org/url> "https://arxiv.org/abs/1907.11692" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bert/s5> <http://purl.org/dc/terms/publisher> "Hugging Face" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bert/s5> <http://purl.org/dc/terms/title> "Transformers documentation: BERT" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bert/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bert/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/bert/s5> <https://schema.org/url> "https://huggingface.co/docs/transformers/model_doc/bert" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s1> <http://purl.org/dc/terms/publisher> "Neural Computation 4, 1–58 (1992) (Geman, Bienenstock and Doursat), ML Anthology record" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s1> <http://purl.org/dc/terms/title> "Neural Networks and the Bias/Variance Dilemma" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
