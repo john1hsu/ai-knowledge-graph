@@ -372,6 +372,28 @@
     ]
   },
   {
+    "id": "kt:ai-hardware",
+    "title": "AI hardware",
+    "aliases": [
+      "machine learning hardware",
+      "ML hardware",
+      "deep learning hardware",
+      "AI compute hardware"
+    ],
+    "type": "Hardware",
+    "domain": "ai-infrastructure-and-mlops",
+    "file": "articles/ai-infrastructure-and-mlops/ai-hardware.md",
+    "created": "2026-11-18",
+    "maturity": "established",
+    "source_urls": [
+      "https://d2l.ai/chapter_computational-performance/hardware.html",
+      "https://arxiv.org/html/2403.14123v1",
+      "https://epoch.ai/blog/trends-in-machine-learning-hardware",
+      "https://arxiv.org/abs/2304.01433",
+      "https://www.acm.org/hennessy-patterson-turing-lecture"
+    ]
+  },
+  {
     "id": "kt:ai-risk-management",
     "title": "AI risk management",
     "aliases": [

@@ -5,10 +5,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:heuristic-search` | `kt:allen-newell`, `kt:deep-blue`, `kt:general-problem-solver`, `kt:logic-theorist`, `kt:beam-search`, `kt:tree-of-thoughts` |
+| `kt:parallel-computing` | `kt:ai-hardware`, `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
-| `kt:ai-hardware` | `kt:ai-accelerator`, `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
 | `kt:microsoft-research` | `kt:alfworld`, `kt:autogen`, `kt:residual-connection`, `kt:graphrag` |
-| `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
 | `kt:anthropic` | `kt:model-context-protocol`, `kt:openai`, `kt:constitutional-ai` |
 | `kt:application-specific-integrated-circuit` | `kt:deep-blue`, `kt:ai-accelerator`, `kt:tpu` |
 | `kt:automated-planning` | `kt:planning-in-llms`, `kt:general-problem-solver`, `kt:knowledge-representation` |
@@ -166,6 +165,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:commonsenseqa-2-0` | `kt:commonsenseqa` |
 | `kt:commonsenseqa-a-question-answering-challenge-targeting-commonsense-knowledge` | `kt:commonsenseqa` |
 | `kt:compositional-generalization` | `kt:least-to-most-prompting` |
+| `kt:computer-architecture` | `kt:ai-hardware` |
 | `kt:computer-graphics` | `kt:computer-vision` |
 | `kt:computer-science` | `kt:artificial-intelligence` |
 | `kt:computing-machinery-and-intelligence` | `kt:turing-test` |

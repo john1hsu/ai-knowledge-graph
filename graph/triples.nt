@@ -431,6 +431,30 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/oecd-ai-principles> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance-a-research-agenda> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-hardware> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-hardware> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Hardware> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-hardware> <http://www.w3.org/2000/01/rdf-schema#label> "AI hardware" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-hardware> <http://www.w3.org/2004/02/skos/core#altLabel> "AI compute hardware" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-hardware> <http://www.w3.org/2004/02/skos/core#altLabel> "ML hardware" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-hardware> <http://www.w3.org/2004/02/skos/core#altLabel> "deep learning hardware" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-hardware> <http://www.w3.org/2004/02/skos/core#altLabel> "machine learning hardware" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-hardware> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/computer-architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-hardware> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/parallel-computing> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-hardware> <http://www.w3.org/2004/02/skos/core#definition> "The full physical stack used to train and serve AI models: processors (CPUs, GPUs and other accelerators), the memory hierarchy, interconnects and networks, storage and the datacenter systems that tie them together, whose balance increasingly decides AI performance more than peak arithmetic does." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-hardware> <http://www.w3.org/2004/02/skos/core#prefLabel> "AI hardware" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-hardware> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/compute-governance> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-hardware> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-hardware> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/tpu> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-hardware> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-hardware/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-hardware> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-hardware/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-hardware> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-hardware/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-hardware> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-hardware/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-hardware> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-hardware/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-hardware> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-infrastructure-and-mlops" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-hardware> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-hardware> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-hardware> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-hardware> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> <http://purl.org/dc/terms/created> "2026-11-17" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> <http://www.w3.org/2000/01/rdf-schema#label> "AI risk management" .
@@ -6042,6 +6066,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-governance/s6> <https://schema.org/url> "https://arxiv.org/pdf/1906.06668" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-hardware/s1> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (Zhang, Lipton, Li, Smola), d2l.ai" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-hardware/s1> <http://purl.org/dc/terms/title> "13.4. Hardware" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-hardware/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-hardware/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-hardware/s1> <https://schema.org/url> "https://d2l.ai/chapter_computational-performance/hardware.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-hardware/s2> <http://purl.org/dc/terms/publisher> "Gholami, Yao, Kim, Hooper, Mahoney, Keutzer (UC Berkeley / ICSI / LBNL), arXiv:2403.14123, March 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-hardware/s2> <http://purl.org/dc/terms/title> "AI and Memory Wall" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-hardware/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-hardware/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-hardware/s2> <https://schema.org/url> "https://arxiv.org/html/2403.14123v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-hardware/s3> <http://purl.org/dc/terms/publisher> "Epoch AI (Hobbhahn, Heim, Aydos), November 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-hardware/s3> <http://purl.org/dc/terms/title> "Trends in Machine Learning Hardware" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-hardware/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-hardware/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-hardware/s3> <https://schema.org/url> "https://epoch.ai/blog/trends-in-machine-learning-hardware" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-hardware/s4> <http://purl.org/dc/terms/publisher> "Jouppi et al. (Google), ISCA 2023; authors' arXiv version 2304.01433" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-hardware/s4> <http://purl.org/dc/terms/title> "TPU v4: An Optically Reconfigurable Supercomputer for Machine Learning with Hardware Support for Embeddings" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-hardware/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-hardware/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-hardware/s4> <https://schema.org/url> "https://arxiv.org/abs/2304.01433" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-hardware/s5> <http://purl.org/dc/terms/publisher> "Association for Computing Machinery" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-hardware/s5> <http://purl.org/dc/terms/title> "A New Golden Age for Computer Architecture (Turing Lecture, ISCA 2018)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-hardware/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-hardware/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-hardware/s5> <https://schema.org/url> "https://www.acm.org/hennessy-patterson-turing-lecture" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s1> <http://purl.org/dc/terms/publisher> "IEC Webstore (ISO/IEC JTC 1/SC 42), edition 1.0, 2023-02-06" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s1> <http://purl.org/dc/terms/title> "ISO/IEC 23894:2023 — Information technology — Artificial intelligence — Guidance on risk management" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-risk-management/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

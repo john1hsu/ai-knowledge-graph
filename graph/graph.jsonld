@@ -3257,6 +3257,86 @@
       ]
     },
     {
+      "@id": "kt:ai-hardware",
+      "@type": "kto:Hardware",
+      "skos:prefLabel": "AI hardware",
+      "skos:definition": "The full physical stack used to train and serve AI models: processors (CPUs, GPUs and other accelerators), the memory hierarchy, interconnects and networks, storage and the datacenter systems that tie them together, whose balance increasingly decides AI performance more than peak arithmetic does.",
+      "kto:domain": "ai-infrastructure-and-mlops",
+      "dcterms:created": "2026-11-18",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "13.4. Hardware",
+          "dcterms:publisher": "Dive into Deep Learning (Zhang, Lipton, Li, Smola), d2l.ai",
+          "schema:url": "https://d2l.ai/chapter_computational-performance/hardware.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "AI and Memory Wall",
+          "dcterms:publisher": "Gholami, Yao, Kim, Hooper, Mahoney, Keutzer (UC Berkeley / ICSI / LBNL), arXiv:2403.14123, March 2024",
+          "schema:url": "https://arxiv.org/html/2403.14123v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Trends in Machine Learning Hardware",
+          "dcterms:publisher": "Epoch AI (Hobbhahn, Heim, Aydos), November 2023",
+          "schema:url": "https://epoch.ai/blog/trends-in-machine-learning-hardware",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "TPU v4: An Optically Reconfigurable Supercomputer for Machine Learning with Hardware Support for Embeddings",
+          "dcterms:publisher": "Jouppi et al. (Google), ISCA 2023; authors' arXiv version 2304.01433",
+          "schema:url": "https://arxiv.org/abs/2304.01433",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "A New Golden Age for Computer Architecture (Turing Lecture, ISCA 2018)",
+          "dcterms:publisher": "Association for Computing Machinery",
+          "schema:url": "https://www.acm.org/hennessy-patterson-turing-lecture",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/ai-infrastructure-and-mlops/ai-hardware.md",
+      "skos:altLabel": [
+        "machine learning hardware",
+        "ML hardware",
+        "deep learning hardware",
+        "AI compute hardware"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:computer-architecture"
+        },
+        {
+          "@id": "kt:parallel-computing"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:gpu-computing"
+        },
+        {
+          "@id": "kt:tpu"
+        },
+        {
+          "@id": "kt:compute-governance"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:ai-accelerator"
+        },
+        {
+          "@id": "kt:high-bandwidth-memory"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:distributed-training"
+        }
+      ]
+    },
+    {
       "@id": "kt:cuda",
       "@type": "kto:Tool",
       "skos:prefLabel": "CUDA",
