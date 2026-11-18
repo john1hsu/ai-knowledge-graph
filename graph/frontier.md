@@ -7,17 +7,18 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:heuristic-search` | `kt:allen-newell`, `kt:deep-blue`, `kt:general-problem-solver`, `kt:logic-theorist`, `kt:beam-search`, `kt:tree-of-thoughts` |
 | `kt:parallel-computing` | `kt:ai-hardware`, `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
+| `kt:mathematical-optimization` | `kt:adagrad`, `kt:gradient-descent`, `kt:loss-function`, `kt:stochastic-gradient-descent` |
 | `kt:microsoft-research` | `kt:alfworld`, `kt:autogen`, `kt:residual-connection`, `kt:graphrag` |
 | `kt:anthropic` | `kt:model-context-protocol`, `kt:openai`, `kt:constitutional-ai` |
 | `kt:application-specific-integrated-circuit` | `kt:deep-blue`, `kt:ai-accelerator`, `kt:tpu` |
 | `kt:automated-planning` | `kt:planning-in-llms`, `kt:general-problem-solver`, `kt:knowledge-representation` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
 | `kt:herbert-a-simon` | `kt:allen-newell`, `kt:general-problem-solver`, `kt:logic-theorist` |
-| `kt:loss-function` | `kt:gradient-descent`, `kt:stochastic-gradient-descent`, `kt:supervised-learning` |
+| `kt:logistic-regression` | `kt:conditional-random-field`, `kt:loss-function`, `kt:bradley-terry-model` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
-| `kt:mathematical-optimization` | `kt:adagrad`, `kt:gradient-descent`, `kt:stochastic-gradient-descent` |
 | `kt:r-cnn` | `kt:faster-r-cnn`, `kt:pascal-voc`, `kt:yolo` |
 | `kt:rmsprop` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:adagrad` |
+| `kt:support-vector-machine` | `kt:perceptron`, `kt:loss-function`, `kt:statistical-learning-theory` |
 | `kt:tensor-parallelism` | `kt:distributed-training`, `kt:pipeline-parallelism`, `kt:orca-serving-system` |
 | `kt:zero-redundancy-optimizer` | `kt:data-parallelism`, `kt:distributed-training`, `kt:pipeline-parallelism` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
@@ -31,6 +32,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cifar-10` | `kt:image-classification`, `kt:adversarial-training` |
 | `kt:cliff-shaw` | `kt:general-problem-solver`, `kt:logic-theorist` |
 | `kt:computing-power-and-the-governance-of-artificial-intelligence` | `kt:compute-governance`, `kt:compute-governance` |
+| `kt:cross-entropy` | `kt:perplexity`, `kt:loss-function` |
 | `kt:cross-validation` | `kt:bias-variance-tradeoff`, `kt:overfitting` |
 | `kt:curse-of-dimensionality` | `kt:universal-approximation-theorem`, `kt:dimensionality-reduction` |
 | `kt:deep-belief-network` | `kt:geoffrey-hinton`, `kt:deep-learning` |
@@ -40,6 +42,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:diederik-kingma` | `kt:adam-optimizer`, `kt:variational-autoencoder` |
 | `kt:double-q-learning` | `kt:deep-q-network`, `kt:q-learning` |
 | `kt:efficient-memory-management-for-large-language-model-serving-with-pagedattention` | `kt:batching-and-paged-attention`, `kt:vllm` |
+| `kt:empirical-risk-minimization` | `kt:loss-function`, `kt:supervised-learning` |
 | `kt:expectation-maximization` | `kt:hidden-markov-model`, `kt:unsupervised-learning` |
 | `kt:expected-sarsa` | `kt:sarsa`, `kt:sarsa` |
 | `kt:export-control-reform-act` | `kt:ai-chip-export-controls`, `kt:bureau-of-industry-and-security` |
@@ -58,7 +61,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:language-model` | `kt:perplexity`, `kt:large-language-model` |
 | `kt:latent-semantic-analysis` | `kt:glove`, `kt:semantic-search` |
 | `kt:lmsys` | `kt:chatbot-arena`, `kt:mt-bench` |
-| `kt:logistic-regression` | `kt:conditional-random-field`, `kt:bradley-terry-model` |
 | `kt:lora` | `kt:parameter-efficient-fine-tuning`, `kt:qlora` |
 | `kt:lottery-ticket-hypothesis` | `kt:model-compression`, `kt:model-pruning` |
 | `kt:marvin-minsky` | `kt:dartmouth-workshop`, `kt:perceptron` |
@@ -84,7 +86,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:self-refine` | `kt:agentic-workflow`, `kt:voyager` |
 | `kt:soar` | `kt:allen-newell`, `kt:general-problem-solver` |
 | `kt:sparse-autoencoder` | `kt:autoencoder`, `kt:mechanistic-interpretability` |
-| `kt:support-vector-machine` | `kt:perceptron`, `kt:statistical-learning-theory` |
 | `kt:tensorflow-serving` | `kt:model-serving`, `kt:triton-inference-server` |
 | `kt:text-to-image-generation` | `kt:diffusion-model`, `kt:latent-diffusion-model` |
 | `kt:the-curious-case-of-neural-text-degeneration` | `kt:beam-search`, `kt:sampling-temperature-and-top-p` |
@@ -174,7 +175,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:constrained-decoding` | `kt:structured-output` |
 | `kt:content-provenance` | `kt:nist-generative-ai-profile` |
 | `kt:council-of-europe` | `kt:council-of-europe-framework-convention-on-ai` |
-| `kt:cross-entropy` | `kt:perplexity` |
 | `kt:cudnn` | `kt:cuda` |
 | `kt:cutlass` | `kt:tensor-cores` |
 | `kt:dan-hendrycks` | `kt:mmlu` |
@@ -214,7 +214,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:elo-rating-system` | `kt:bradley-terry-model` |
 | `kt:embodied-ai` | `kt:alfworld` |
 | `kt:emergent-abilities-of-large-language-models` | `kt:emergent-abilities` |
-| `kt:empirical-risk-minimization` | `kt:supervised-learning` |
 | `kt:entity-linking` | `kt:named-entity-recognition` |
 | `kt:european-union` | `kt:eu-ai-act` |
 | `kt:evaluating-large-language-models-trained-on-code` | `kt:humaneval` |

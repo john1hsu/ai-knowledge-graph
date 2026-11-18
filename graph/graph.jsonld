@@ -14034,6 +14034,111 @@
       ]
     },
     {
+      "@id": "kt:loss-function",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Loss function",
+      "skos:definition": "A function that scores how far a model's prediction is from the true target, returning a non-negative penalty that is zero for a perfect prediction; training chooses parameters that minimize its average over the data, as with squared error for regression or cross-entropy (log loss) for classification.",
+      "kto:domain": "ml-foundations",
+      "dcterms:created": "2026-11-18",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "3.1. Linear Regression",
+          "dcterms:publisher": "Dive into Deep Learning (Zhang, Lipton, Li and Smola), d2l.ai",
+          "schema:url": "https://d2l.ai/chapter_linear-regression/linear-regression.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "3.4. Softmax Regression",
+          "dcterms:publisher": "Dive into Deep Learning (Zhang, Lipton, Li and Smola), classic.d2l.ai",
+          "schema:url": "https://classic.d2l.ai/chapter_linear-networks/softmax-regression.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Lecture 10: Empirical Risk Minimization",
+          "dcterms:publisher": "Cornell University CS 4780/5780 Machine Learning for Intelligent Systems, course notes",
+          "schema:url": "https://cs.cornell.edu/courses/cs4780/2022fa/lectures/lecturenote10.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Convexity, Classification, and Risk Bounds (Technical Report 638)",
+          "dcterms:publisher": "Department of Statistics, UC Berkeley (Bartlett, Jordan and McAuliffe), 2003",
+          "schema:url": "https://statistics.berkeley.edu/node/1593",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Are Loss Functions All the Same?",
+          "dcterms:publisher": "Neural Computation 16, 2004 (Rosasco, De Vito, Caponnetto, Piana and Verri), via ML Anthology",
+          "schema:url": "https://mlanthology.org/neco/2004/rosasco2004neco-loss",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "CrossEntropyLoss",
+          "dcterms:publisher": "PyTorch 2.12 documentation",
+          "schema:url": "https://docs.pytorch.org/docs/2.12/generated/torch.nn.CrossEntropyLoss.html",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/ml-foundations/loss-function.md",
+      "skos:altLabel": [
+        "cost function",
+        "objective function (training)",
+        "error function",
+        "training loss"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:machine-learning"
+        },
+        {
+          "@id": "kt:mathematical-optimization"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:supervised-learning"
+        },
+        {
+          "@id": "kt:regularization"
+        },
+        {
+          "@id": "kt:statistical-learning-theory"
+        },
+        {
+          "@id": "kt:overfitting"
+        },
+        {
+          "@id": "kt:support-vector-machine"
+        },
+        {
+          "@id": "kt:logistic-regression"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:empirical-risk-minimization"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:cross-entropy"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:gradient-descent"
+        },
+        {
+          "@id": "kt:backpropagation"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:pytorch"
+        }
+      ]
+    },
+    {
       "@id": "kt:machine-learning",
       "@type": "kto:Field",
       "skos:prefLabel": "Machine learning",
