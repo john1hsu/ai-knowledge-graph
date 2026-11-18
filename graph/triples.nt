@@ -2312,6 +2312,34 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "reinforcement-learning" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Field> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> <http://www.w3.org/2000/01/rdf-schema#label> "Fairness, accountability and transparency (FAccT)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> <http://www.w3.org/2004/02/skos/core#altLabel> "ACM Conference on Fairness" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> <http://www.w3.org/2004/02/skos/core#altLabel> "Accountability" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> <http://www.w3.org/2004/02/skos/core#altLabel> "FAT*" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> <http://www.w3.org/2004/02/skos/core#altLabel> "FAT/ML" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> <http://www.w3.org/2004/02/skos/core#altLabel> "FAccT" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> <http://www.w3.org/2004/02/skos/core#altLabel> "and Transparency" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> <http://www.w3.org/2004/02/skos/core#altLabel> "fairness accountability and transparency in machine learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-ethics> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> <http://www.w3.org/2004/02/skos/core#definition> "An interdisciplinary research field, anchored by the ACM FAccT conference (founded as FAT* in 2018 out of the FAT/ML workshops), that studies the social effects of algorithmic and AI systems through the values of fairness, accountability and transparency, combining computer science with law, social science and philosophy." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fairness, accountability and transparency (FAccT)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/explainable-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/model-cards> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "governance-and-policy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/science-and-technology-studies> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <http://www.w3.org/2000/01/rdf-schema#label> "Faster R-CNN" .
@@ -8097,6 +8125,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/exploration-exploitation/s5> <https://schema.org/url> "https://rail.eecs.berkeley.edu/deeprlcourse-fa20/static/slides/lec-13.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s1> <http://purl.org/dc/terms/publisher> "FAT* / ACM FAccT Conference, 30 January 2018" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s1> <http://purl.org/dc/terms/title> "Press release: 2018 Conference on Fairness, Accountability, and Transparency (FAT*)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s1> <https://schema.org/url> "https://facctconference.org/2018/press_release.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s2> <http://purl.org/dc/terms/publisher> "ACM FAccT Conference" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s2> <http://purl.org/dc/terms/title> "FAccT frequently asked questions" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s2> <https://schema.org/url> "https://facctconference.org/faq.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s3> <http://purl.org/dc/terms/publisher> "FAT* 2019 (Selbst, boyd, Friedler, Venkatasubramanian, Vertesi); NSF Public Access Repository" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s3> <http://purl.org/dc/terms/title> "Fairness and Abstraction in Sociotechnical Systems" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s3> <https://schema.org/url> "https://par.nsf.gov/servlets/purl/10121131" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s4> <http://purl.org/dc/terms/publisher> "FAccT 2022 (Laufer, Jain, Cooper, Kleinberg, Heidari); author copy, Cornell University" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s4> <http://purl.org/dc/terms/title> "Four Years of FAccT: A Reflexive, Mixed-Methods Analysis of Research Contributions, Shortcomings, and Future Prospects" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s4> <https://schema.org/url> "https://www.cs.cornell.edu/home/kleinber/facct22-4years.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s5> <http://purl.org/dc/terms/publisher> "ACM FAccT Conference" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s5> <http://purl.org/dc/terms/title> "ACM FAccT 2026 Call for Papers" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s5> <https://schema.org/url> "https://facctconference.org/2026/cfp.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s6> <http://purl.org/dc/terms/publisher> "FAccT conference blog, 22 June 2026" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s6> <http://purl.org/dc/terms/title> "Reflections on the FAccT 2026 Review Process" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s6> <https://schema.org/url> "https://facct-blog.github.io/2026-06-22/review-process" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s1> <http://purl.org/dc/terms/publisher> "Ren, He, Girshick and Sun, Advances in Neural Information Processing Systems 28 (NIPS 2015)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s1> <http://purl.org/dc/terms/title> "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

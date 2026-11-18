@@ -12,7 +12,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:application-specific-integrated-circuit` | `kt:deep-blue`, `kt:ai-accelerator`, `kt:tpu` |
 | `kt:automated-planning` | `kt:planning-in-llms`, `kt:general-problem-solver`, `kt:knowledge-representation` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
-| `kt:fairness-accountability-and-transparency` | `kt:algorithmic-bias-and-fairness`, `kt:datasheets-for-datasets`, `kt:model-cards` |
 | `kt:foundation-model` | `kt:self-supervised-learning`, `kt:transfer-learning`, `kt:large-language-model` |
 | `kt:herbert-a-simon` | `kt:allen-newell`, `kt:general-problem-solver`, `kt:logic-theorist` |
 | `kt:loss-function` | `kt:gradient-descent`, `kt:stochastic-gradient-descent`, `kt:supervised-learning` |
@@ -23,6 +22,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tensor-parallelism` | `kt:distributed-training`, `kt:pipeline-parallelism`, `kt:orca-serving-system` |
 | `kt:zero-redundancy-optimizer` | `kt:data-parallelism`, `kt:distributed-training`, `kt:pipeline-parallelism` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
+| `kt:ai-ethics` | `kt:algorithmic-bias-and-fairness`, `kt:fairness-accountability-and-transparency` |
 | `kt:all-reduce` | `kt:data-parallelism`, `kt:distributed-training` |
 | `kt:alpha-beta-pruning` | `kt:deep-blue`, `kt:monte-carlo-tree-search` |
 | `kt:alphabet-inc` | `kt:google-deepmind`, `kt:google` |
@@ -103,7 +103,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:adapter-modules` | `kt:parameter-efficient-fine-tuning` |
 | `kt:adaptive-subgradient-methods-for-online-learning-and-stochastic-optimization` | `kt:adagrad` |
 | `kt:agentbench` | `kt:alfworld` |
-| `kt:ai-ethics` | `kt:algorithmic-bias-and-fairness` |
 | `kt:ai-governance-a-research-agenda` | `kt:ai-governance` |
 | `kt:ai-safety-gridworlds` | `kt:concrete-problems-in-ai-safety` |
 | `kt:ai-safety-summit` | `kt:ai-safety-institutes` |
@@ -222,6 +221,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:european-union` | `kt:eu-ai-act` |
 | `kt:evaluating-large-language-models-trained-on-code` | `kt:humaneval` |
 | `kt:expert-iteration` | `kt:star-self-taught-reasoner` |
+| `kt:explainable-ai` | `kt:fairness-accountability-and-transparency` |
 | `kt:facial-recognition` | `kt:algorithmic-bias-and-fairness` |
 | `kt:factor-analysis` | `kt:principal-component-analysis` |
 | `kt:fast-inference-from-transformers-via-speculative-decoding` | `kt:speculative-decoding` |
@@ -443,6 +443,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sarathi-serve` | `kt:orca-serving-system` |
 | `kt:scalable-parallel-programming-with-cuda` | `kt:cuda` |
 | `kt:scaling-laws-for-neural-language-models` | `kt:scaling-laws` |
+| `kt:science-and-technology-studies` | `kt:fairness-accountability-and-transparency` |
 | `kt:score-matching` | `kt:diffusion-model` |
 | `kt:self-consistency-improves-chain-of-thought-reasoning-in-language-models` | `kt:self-consistency` |
 | `kt:sentiment-analysis` | `kt:natural-language-processing` |

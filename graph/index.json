@@ -1947,6 +1947,32 @@
     ]
   },
   {
+    "id": "kt:fairness-accountability-and-transparency",
+    "title": "Fairness, accountability and transparency (FAccT)",
+    "aliases": [
+      "FAccT",
+      "FAT*",
+      "FAT/ML",
+      "ACM Conference on Fairness",
+      "Accountability",
+      "and Transparency",
+      "fairness accountability and transparency in machine learning"
+    ],
+    "type": "Field",
+    "domain": "governance-and-policy",
+    "file": "articles/governance-and-policy/fairness-accountability-and-transparency.md",
+    "created": "2026-11-18",
+    "maturity": "established",
+    "source_urls": [
+      "https://facctconference.org/2018/press_release.html",
+      "https://facctconference.org/faq.html",
+      "https://par.nsf.gov/servlets/purl/10121131",
+      "https://www.cs.cornell.edu/home/kleinber/facct22-4years.pdf",
+      "https://facctconference.org/2026/cfp.html",
+      "https://facct-blog.github.io/2026-06-22/review-process"
+    ]
+  },
+  {
     "id": "kt:faster-r-cnn",
     "title": "Faster R-CNN",
     "aliases": [
