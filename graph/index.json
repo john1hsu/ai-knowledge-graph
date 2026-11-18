@@ -503,6 +503,25 @@
     ]
   },
   {
+    "id": "kt:allen-newell",
+    "title": "Allen Newell",
+    "aliases": [
+      "A. Newell"
+    ],
+    "type": "Person",
+    "domain": "ai-history",
+    "file": "articles/ai-history/allen-newell.md",
+    "created": "2026-11-18",
+    "maturity": "historical",
+    "source_urls": [
+      "https://amturing.acm.org/award_winners/newell_3167755.cfm",
+      "https://www.britannica.com/biography/Allen-Newell",
+      "https://home.csulb.edu/~cwallis/382/readings/482/Newell&Simonpssh.1976.html",
+      "https://apps.dtic.mil/sti/pdfs/ADA218926.pdf",
+      "https://laird.engin.umich.edu/professional-history"
+    ]
+  },
+  {
     "id": "kt:alphago",
     "title": "AlphaGo",
     "aliases": [

@@ -1770,6 +1770,81 @@
       ]
     },
     {
+      "@id": "kt:allen-newell",
+      "@type": "kto:Person",
+      "skos:prefLabel": "Allen Newell",
+      "skos:definition": "American computer scientist and cognitive psychologist (1927–1992) who, with Herbert A. Simon and Cliff Shaw, built the Logic Theorist, the General Problem Solver and the IPL list-processing languages, co-formulated the physical symbol system hypothesis, and later led the Soar cognitive architecture; co-recipient of the 1975 ACM Turing Award.",
+      "kto:domain": "ai-history",
+      "dcterms:created": "2026-11-18",
+      "kto:maturity": "historical",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Allen Newell — A.M. Turing Award Laureate",
+          "dcterms:publisher": "Association for Computing Machinery (amturing.acm.org)",
+          "schema:url": "https://amturing.acm.org/award_winners/newell_3167755.cfm",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Allen Newell",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/biography/Allen-Newell",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Computer Science as Empirical Inquiry: Symbols and Search (1975 ACM Turing Award Lecture)",
+          "dcterms:publisher": "A. Newell and H. A. Simon, Communications of the ACM 19(3), 113–126, March 1976 (course-reading copy, California State University Long Beach)",
+          "schema:url": "https://home.csulb.edu/~cwallis/382/readings/482/Newell&Simonpssh.1976.html",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Towards the Knowledge Level in Soar: The Role of the Architecture in the Use of Knowledge (Technical Report AIP-65)",
+          "dcterms:publisher": "P. S. Rosenbloom, A. Newell and J. E. Laird, 1989 (Defense Technical Information Center)",
+          "schema:url": "https://apps.dtic.mil/sti/pdfs/ADA218926.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Professional History — John E. Laird",
+          "dcterms:publisher": "University of Michigan, College of Engineering",
+          "schema:url": "https://laird.engin.umich.edu/professional-history",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/ai-history/allen-newell.md",
+      "skos:altLabel": [
+        "A. Newell"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:symbolic-ai"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:logic-theorist"
+        },
+        {
+          "@id": "kt:general-problem-solver"
+        },
+        {
+          "@id": "kt:herbert-a-simon"
+        },
+        {
+          "@id": "kt:soar"
+        },
+        {
+          "@id": "kt:physical-symbol-system-hypothesis"
+        },
+        {
+          "@id": "kt:heuristic-search"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:george-polya"
+        }
+      ]
+    },
+    {
       "@id": "kt:artificial-intelligence",
       "@type": "kto:Field",
       "skos:prefLabel": "Artificial intelligence",

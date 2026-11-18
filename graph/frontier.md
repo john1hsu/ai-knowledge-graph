@@ -4,7 +4,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:heuristic-search` | `kt:deep-blue`, `kt:general-problem-solver`, `kt:logic-theorist`, `kt:beam-search`, `kt:tree-of-thoughts` |
+| `kt:heuristic-search` | `kt:allen-newell`, `kt:deep-blue`, `kt:general-problem-solver`, `kt:logic-theorist`, `kt:beam-search`, `kt:tree-of-thoughts` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:ai-hardware` | `kt:ai-accelerator`, `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
 | `kt:microsoft-research` | `kt:alfworld`, `kt:autogen`, `kt:residual-connection`, `kt:graphrag` |
@@ -16,6 +16,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:contextual-bandit` | `kt:multi-armed-bandit`, `kt:thompson-sampling`, `kt:upper-confidence-bound` |
 | `kt:fairness-accountability-and-transparency` | `kt:algorithmic-bias-and-fairness`, `kt:datasheets-for-datasets`, `kt:model-cards` |
 | `kt:foundation-model` | `kt:self-supervised-learning`, `kt:transfer-learning`, `kt:large-language-model` |
+| `kt:herbert-a-simon` | `kt:allen-newell`, `kt:general-problem-solver`, `kt:logic-theorist` |
 | `kt:loss-function` | `kt:gradient-descent`, `kt:stochastic-gradient-descent`, `kt:supervised-learning` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
 | `kt:mathematical-optimization` | `kt:adagrad`, `kt:gradient-descent`, `kt:stochastic-gradient-descent` |
@@ -25,7 +26,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:zero-redundancy-optimizer` | `kt:data-parallelism`, `kt:distributed-training`, `kt:pipeline-parallelism` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
 | `kt:all-reduce` | `kt:data-parallelism`, `kt:distributed-training` |
-| `kt:allen-newell` | `kt:general-problem-solver`, `kt:logic-theorist` |
 | `kt:alpha-beta-pruning` | `kt:deep-blue`, `kt:monte-carlo-tree-search` |
 | `kt:alphabet-inc` | `kt:google-deepmind`, `kt:google` |
 | `kt:apache-lucene` | `kt:bm25`, `kt:tf-idf` |
@@ -50,7 +50,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:finetuned-language-models-are-zero-shot-learners` | `kt:zero-shot-prompting`, `kt:instruction-tuning` |
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
 | `kt:grouped-query-attention` | `kt:multi-query-attention`, `kt:kv-cache` |
-| `kt:herbert-a-simon` | `kt:general-problem-solver`, `kt:logic-theorist` |
 | `kt:highway-network` | `kt:residual-connection`, `kt:residual-connection` |
 | `kt:hotpotqa` | `kt:react-prompting`, `kt:reflexion` |
 | `kt:hugging-face` | `kt:hugging-face-transformers`, `kt:hugging-face-trl` |
@@ -79,6 +78,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:monte-carlo-methods` | `kt:monte-carlo-tree-search`, `kt:temporal-difference-learning` |
 | `kt:muzero` | `kt:alphazero`, `kt:monte-carlo-tree-search` |
 | `kt:nist` | `kt:nist-ai-risk-management-framework`, `kt:nist-generative-ai-profile` |
+| `kt:physical-symbol-system-hypothesis` | `kt:allen-newell`, `kt:symbolic-ai` |
 | `kt:post-training` | `kt:hugging-face-trl`, `kt:instruction-tuning` |
 | `kt:post-training-quantization` | `kt:awq`, `kt:gptq` |
 | `kt:princeton-university` | `kt:swe-agent`, `kt:swe-bench` |
@@ -87,6 +87,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:self-correction` | `kt:reflexion`, `kt:self-refine-iterative-refinement-with-self-feedback` |
 | `kt:self-play` | `kt:alphago-zero`, `kt:alphazero` |
 | `kt:self-refine` | `kt:agentic-workflow`, `kt:voyager` |
+| `kt:soar` | `kt:allen-newell`, `kt:general-problem-solver` |
 | `kt:sparse-autoencoder` | `kt:autoencoder`, `kt:mechanistic-interpretability` |
 | `kt:support-vector-machine` | `kt:perceptron`, `kt:statistical-learning-theory` |
 | `kt:tensorflow-serving` | `kt:model-serving`, `kt:triton-inference-server` |
@@ -249,6 +250,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:generalized-advantage-estimation` | `kt:proximal-policy-optimization` |
 | `kt:generative-adversarial-nets` | `kt:generative-adversarial-network` |
 | `kt:george-cybenko` | `kt:universal-approximation-theorem` |
+| `kt:george-polya` | `kt:allen-newell` |
 | `kt:georgetown-ibm-experiment` | `kt:machine-translation` |
 | `kt:glove-global-vectors-for-word-representation` | `kt:glove` |
 | `kt:google-brain` | `kt:concrete-problems-in-ai-safety` |
@@ -392,7 +394,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pattern-recognition` | `kt:computer-vision` |
 | `kt:penetration-testing` | `kt:red-teaming` |
 | `kt:philosophy-of-artificial-intelligence` | `kt:chinese-room-argument` |
-| `kt:physical-symbol-system-hypothesis` | `kt:symbolic-ai` |
 | `kt:plackett-luce-model` | `kt:bradley-terry-model` |
 | `kt:playing-atari-with-deep-reinforcement-learning` | `kt:deep-q-network` |
 | `kt:policy-gradient-methods-for-reinforcement-learning-with-function-approximation` | `kt:policy-gradient` |
@@ -449,7 +450,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sglang-efficient-execution-of-structured-language-model-programs` | `kt:prefix-caching` |
 | `kt:show-your-work-scratchpads-for-intermediate-computation-with-language-models` | `kt:scratchpad` |
 | `kt:singular-value-decomposition` | `kt:principal-component-analysis` |
-| `kt:soar` | `kt:general-problem-solver` |
 | `kt:soft-actor-critic` | `kt:actor-critic` |
 | `kt:softmax-function` | `kt:attention-mechanism` |
 | `kt:softmax-regression` | `kt:image-classification` |

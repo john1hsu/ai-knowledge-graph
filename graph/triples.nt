@@ -584,6 +584,27 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <https://github.com/john1hsu/ai-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/allen-newell> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/allen-newell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Person> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/allen-newell> <http://www.w3.org/2000/01/rdf-schema#label> "Allen Newell" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/allen-newell> <http://www.w3.org/2004/02/skos/core#altLabel> "A. Newell" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/allen-newell> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/allen-newell> <http://www.w3.org/2004/02/skos/core#definition> "American computer scientist and cognitive psychologist (1927–1992) who, with Herbert A. Simon and Cliff Shaw, built the Logic Theorist, the General Problem Solver and the IPL list-processing languages, co-formulated the physical symbol system hypothesis, and later led the Soar cognitive architecture; co-recipient of the 1975 ACM Turing Award." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/allen-newell> <http://www.w3.org/2004/02/skos/core#prefLabel> "Allen Newell" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/allen-newell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/general-problem-solver> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/allen-newell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/herbert-a-simon> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/allen-newell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/heuristic-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/allen-newell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/logic-theorist> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/allen-newell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/physical-symbol-system-hypothesis> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/allen-newell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/soar> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/allen-newell> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/allen-newell/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/allen-newell> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/allen-newell/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/allen-newell> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/allen-newell/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/allen-newell> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/allen-newell/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/allen-newell> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/allen-newell/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/allen-newell> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-history" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/allen-newell> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/george-polya> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/allen-newell> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "historical" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/alphago-zero> <http://purl.org/dc/terms/created> "2026-11-16" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/alphago-zero> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Model> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/alphago-zero> <http://www.w3.org/2000/01/rdf-schema#label> "AlphaGo Zero" .
@@ -6196,6 +6217,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/algorithmic-bias-and-fairness/s5> <https://schema.org/url> "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.Sp.1270.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/allen-newell/s1> <http://purl.org/dc/terms/publisher> "Association for Computing Machinery (amturing.acm.org)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/allen-newell/s1> <http://purl.org/dc/terms/title> "Allen Newell — A.M. Turing Award Laureate" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/allen-newell/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/allen-newell/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/allen-newell/s1> <https://schema.org/url> "https://amturing.acm.org/award_winners/newell_3167755.cfm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/allen-newell/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/allen-newell/s2> <http://purl.org/dc/terms/title> "Allen Newell" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/allen-newell/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/allen-newell/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/allen-newell/s2> <https://schema.org/url> "https://www.britannica.com/biography/Allen-Newell" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/allen-newell/s3> <http://purl.org/dc/terms/publisher> "A. Newell and H. A. Simon, Communications of the ACM 19(3), 113–126, March 1976 (course-reading copy, California State University Long Beach)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/allen-newell/s3> <http://purl.org/dc/terms/title> "Computer Science as Empirical Inquiry: Symbols and Search (1975 ACM Turing Award Lecture)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/allen-newell/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/allen-newell/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/allen-newell/s3> <https://schema.org/url> "https://home.csulb.edu/~cwallis/382/readings/482/Newell&Simonpssh.1976.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/allen-newell/s4> <http://purl.org/dc/terms/publisher> "P. S. Rosenbloom, A. Newell and J. E. Laird, 1989 (Defense Technical Information Center)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/allen-newell/s4> <http://purl.org/dc/terms/title> "Towards the Knowledge Level in Soar: The Role of the Architecture in the Use of Knowledge (Technical Report AIP-65)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/allen-newell/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/allen-newell/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/allen-newell/s4> <https://schema.org/url> "https://apps.dtic.mil/sti/pdfs/ADA218926.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/allen-newell/s5> <http://purl.org/dc/terms/publisher> "University of Michigan, College of Engineering" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/allen-newell/s5> <http://purl.org/dc/terms/title> "Professional History — John E. Laird" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/allen-newell/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/allen-newell/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/allen-newell/s5> <https://schema.org/url> "https://laird.engin.umich.edu/professional-history" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago-zero/s1> <http://purl.org/dc/terms/publisher> "Nature 550(7676), 354-359, October 2017 (Silver et al., DeepMind), DOI 10.1038/nature24270; RePEc/IDEAS bibliographic record" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago-zero/s1> <http://purl.org/dc/terms/title> "Mastering the game of Go without human knowledge" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/alphago-zero/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
