@@ -92,7 +92,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tokenization` | `kt:perplexity`, `kt:structured-output` |
 | `kt:transposed-convolution` | `kt:semantic-segmentation`, `kt:u-net` |
 | `kt:vector-space-model` | `kt:information-retrieval`, `kt:tf-idf` |
-| `kt:webarena` | `kt:computer-use-agents`, `kt:osworld` |
 | `kt:weight-decay` | `kt:dropout`, `kt:regularization` |
 | `kt:a-stochastic-approximation-method` | `kt:stochastic-gradient-descent` |
 | `kt:activation-checkpointing` | `kt:pipeline-parallelism` |
@@ -143,6 +142,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:boosting` | `kt:ensemble-methods` |
 | `kt:calibrate-before-use-improving-few-shot-performance-of-language-models` | `kt:contextual-calibration` |
 | `kt:campbells-law` | `kt:goodharts-law` |
+| `kt:carnegie-mellon-university` | `kt:webarena` |
 | `kt:center-for-ai-standards-and-innovation` | `kt:ai-safety-institutes` |
 | `kt:chain-of-thought-faithfulness` | `kt:reasoning-models` |
 | `kt:chain-of-thought-prompting-elicits-reasoning-in-large-language-models` | `kt:chain-of-thought` |
@@ -523,6 +523,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:value-iteration` | `kt:markov-decision-process` |
 | `kt:variational-inference` | `kt:variational-autoencoder` |
 | `kt:vc-dimension` | `kt:statistical-learning-theory` |
+| `kt:visualwebarena` | `kt:webarena` |
 | `kt:vladimir-vapnik` | `kt:statistical-learning-theory` |
 | `kt:vowpal-wabbit` | `kt:contextual-bandit` |
 | `kt:voyager-an-open-ended-embodied-agent-with-large-language-models` | `kt:voyager` |
@@ -531,6 +532,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:warren-mcculloch` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:wasserstein-gan` | `kt:generative-adversarial-network` |
 | `kt:weak-to-strong-generalization` | `kt:scalable-oversight` |
+| `kt:webarena-a-realistic-web-environment-for-building-autonomous-agents` | `kt:webarena` |
+| `kt:webarena-verified` | `kt:webarena` |
 | `kt:whisper` | `kt:automatic-speech-recognition` |
 | `kt:william-r-thompson` | `kt:thompson-sampling` |
 | `kt:yann-lecun` | `kt:convolutional-neural-network` |

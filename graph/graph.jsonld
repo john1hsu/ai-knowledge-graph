@@ -1617,6 +1617,90 @@
       ]
     },
     {
+      "@id": "kt:webarena",
+      "@type": "kto:Benchmark",
+      "skos:prefLabel": "WebArena",
+      "skos:definition": "A self-hostable environment of fully functional websites and an accompanying set of 812 long-horizon tasks, introduced by Carnegie Mellon University researchers in 2023 and published at ICLR 2024, that evaluates autonomous web agents by checking whether each task was actually accomplished.",
+      "kto:domain": "agents-and-tool-use",
+      "dcterms:created": "2026-11-18",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+          "dcterms:publisher": "arXiv 2307.13854 (Zhou, Xu et al.; authors' version)",
+          "schema:url": "https://arxiv.org/pdf/2307.13854",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "WebArena: A Realistic Web Environment for Building Autonomous Agents (poster page)",
+          "dcterms:publisher": "ICLR 2024",
+          "schema:url": "https://iclr.cc/virtual/2024/poster/17826",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks",
+          "dcterms:publisher": "Proceedings of ACL 2024 (Long Papers), pp. 881–905",
+          "schema:url": "https://aclanthology.org/2024.acl-long.50",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "WebArena Verified: Reliable Evaluation for Web Agents",
+          "dcterms:publisher": "NeurIPS 2025 Workshop on Scaling Environments for Agents (El hattami, Thakkar, Chapados, Pal)",
+          "schema:url": "https://neurips.cc/virtual/2025/124576",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/agents-and-tool-use/webarena.md",
+      "skos:altLabel": [
+        "WebArena benchmark"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-evaluation"
+        },
+        {
+          "@id": "kt:ai-agent"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:osworld"
+        },
+        {
+          "@id": "kt:computer-use-agents"
+        },
+        {
+          "@id": "kt:visualwebarena"
+        },
+        {
+          "@id": "kt:llm-as-a-judge"
+        },
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:webarena-a-realistic-web-environment-for-building-autonomous-agents"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:carnegie-mellon-university"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:osworld"
+        }
+      ],
+      "kto:followedBy": [
+        {
+          "@id": "kt:webarena-verified"
+        }
+      ]
+    },
+    {
       "@id": "kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity",
       "@type": "kto:Work",
       "skos:prefLabel": "A Logical Calculus of the Ideas Immanent in Nervous Activity",

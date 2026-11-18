@@ -13051,6 +13051,26 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s4> <https://schema.org/url> "https://github.com/minedojo/voyager" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/webarena/s1> <http://purl.org/dc/terms/publisher> "arXiv 2307.13854 (Zhou, Xu et al.; authors' version)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/webarena/s1> <http://purl.org/dc/terms/title> "WebArena: A Realistic Web Environment for Building Autonomous Agents" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/webarena/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/webarena/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/webarena/s1> <https://schema.org/url> "https://arxiv.org/pdf/2307.13854" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/webarena/s2> <http://purl.org/dc/terms/publisher> "ICLR 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/webarena/s2> <http://purl.org/dc/terms/title> "WebArena: A Realistic Web Environment for Building Autonomous Agents (poster page)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/webarena/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/webarena/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/webarena/s2> <https://schema.org/url> "https://iclr.cc/virtual/2024/poster/17826" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/webarena/s3> <http://purl.org/dc/terms/publisher> "Proceedings of ACL 2024 (Long Papers), pp. 881–905" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/webarena/s3> <http://purl.org/dc/terms/title> "VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/webarena/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/webarena/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/webarena/s3> <https://schema.org/url> "https://aclanthology.org/2024.acl-long.50" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/webarena/s4> <http://purl.org/dc/terms/publisher> "NeurIPS 2025 Workshop on Scaling Environments for Agents (El hattami, Thakkar, Chapados, Pal)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/webarena/s4> <http://purl.org/dc/terms/title> "WebArena Verified: Reliable Evaluation for Web Agents" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/webarena/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/webarena/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/webarena/s4> <https://schema.org/url> "https://neurips.cc/virtual/2025/124576" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s1> <http://purl.org/dc/terms/publisher> "Proceedings of AISTATS 2010, PMLR 9:249–256 (Glorot and Bengio)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s1> <http://purl.org/dc/terms/title> "Understanding the difficulty of training deep feedforward neural networks" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -14188,6 +14208,29 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "agents-and-tool-use" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/voyager-an-open-ended-embodied-agent-with-large-language-models> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/webarena> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/webarena> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Benchmark> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/webarena> <http://www.w3.org/2000/01/rdf-schema#label> "WebArena" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/webarena> <http://www.w3.org/2004/02/skos/core#altLabel> "WebArena benchmark" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/webarena> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/webarena> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/webarena> <http://www.w3.org/2004/02/skos/core#definition> "A self-hostable environment of fully functional websites and an accompanying set of 812 long-horizon tasks, introduced by Carnegie Mellon University researchers in 2023 and published at ICLR 2024, that evaluates autonomous web agents by checking whether each task was actually accomplished." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/webarena> <http://www.w3.org/2004/02/skos/core#prefLabel> "WebArena" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/webarena> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/computer-use-agents> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/webarena> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/webarena> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/llm-as-a-judge> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/webarena> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/osworld> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/webarena> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/visualwebarena> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/webarena> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/webarena/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/webarena> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/webarena/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/webarena> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/webarena/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/webarena> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/webarena/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/webarena> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/osworld> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/webarena> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/carnegie-mellon-university> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/webarena> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "agents-and-tool-use" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/webarena> <https://github.com/john1hsu/ai-knowledge-graph/ontology#followedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/webarena-verified> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/webarena> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/webarena-a-realistic-web-environment-for-building-autonomous-agents> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/webarena> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <http://purl.org/dc/terms/created> "2026-11-18" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <http://www.w3.org/2000/01/rdf-schema#label> "Weight initialization" .

@@ -5736,6 +5736,24 @@
     ]
   },
   {
+    "id": "kt:webarena",
+    "title": "WebArena",
+    "aliases": [
+      "WebArena benchmark"
+    ],
+    "type": "Benchmark",
+    "domain": "agents-and-tool-use",
+    "file": "articles/agents-and-tool-use/webarena.md",
+    "created": "2026-11-18",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/pdf/2307.13854",
+      "https://iclr.cc/virtual/2024/poster/17826",
+      "https://aclanthology.org/2024.acl-long.50",
+      "https://neurips.cc/virtual/2025/124576"
+    ]
+  },
+  {
     "id": "kt:weight-initialization",
     "title": "Weight initialization",
     "aliases": [
