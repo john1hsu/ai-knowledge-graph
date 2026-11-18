@@ -20954,6 +20954,110 @@
       ]
     },
     {
+      "@id": "kt:responsible-scaling-policy",
+      "@type": "kto:Policy",
+      "skos:prefLabel": "Responsible scaling policy",
+      "skos:definition": "A voluntary, published commitment framework in which a frontier AI developer ties specified dangerous-capability thresholds to the safety and security safeguards it must have in place before training or deploying more capable models.",
+      "kto:domain": "safety-alignment-and-security",
+      "dcterms:created": "2026-11-18",
+      "kto:maturity": "emerging",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Responsible Scaling Policies (RSPs)",
+          "dcterms:publisher": "METR (Barnes, Wijk, Chan), 26 September 2023",
+          "schema:url": "https://metr.org/blog/2023-09-26-rsp",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Anthropic's Responsible Scaling Policy",
+          "dcterms:publisher": "Anthropic, 19 September 2023",
+          "schema:url": "https://www.anthropic.com/news/anthropics-responsible-scaling-policy",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Anthropic's Responsible Scaling Policy (policy page and version history, v3.4)",
+          "dcterms:publisher": "Anthropic, last updated 14 August 2026",
+          "schema:url": "https://www.anthropic.com/rsp",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Activating AI Safety Level 3 Protections",
+          "dcterms:publisher": "Anthropic, 22 May 2025",
+          "schema:url": "https://anthropic.com/news/activating-asl3-protections",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Frontier AI Safety Commitments, AI Seoul Summit 2024",
+          "dcterms:publisher": "UK Department for Science, Innovation and Technology (GOV.UK), 21 May 2024",
+          "schema:url": "https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Common Elements of Frontier AI Safety Policies (December 2025 Update)",
+          "dcterms:publisher": "METR, 9 December 2025",
+          "schema:url": "https://metr.org/blog/2025-12-09-common-elements-of-frontier-ai-safety-policies/",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "Anthropic's RSP v3.0: How it Works, What's Changed, and Some Reflections",
+          "dcterms:publisher": "Centre for the Governance of AI (Williams, Freund), 5 March 2026",
+          "schema:url": "https://www.governance.ai/analysis/anthropics-rsp-v3-0-how-it-works-whats-changed-and-some-reflections",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/safety-alignment-and-security/responsible-scaling-policy.md",
+      "skos:altLabel": [
+        "RSP",
+        "responsible scaling policies",
+        "frontier AI safety policy"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-safety"
+        },
+        {
+          "@id": "kt:ai-risk-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:red-teaming"
+        },
+        {
+          "@id": "kt:jailbreak"
+        },
+        {
+          "@id": "kt:frontier-ai-safety-commitments"
+        },
+        {
+          "@id": "kt:ai-safety-institutes"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:anthropic"
+        },
+        {
+          "@id": "kt:metr"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:biosafety-level"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:ai-evaluation"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:ai-safety-level"
+        }
+      ]
+    },
+    {
       "@id": "kt:reward-hacking",
       "@type": "kto:Risk",
       "skos:prefLabel": "Reward hacking",

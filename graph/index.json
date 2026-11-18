@@ -4530,6 +4530,29 @@
     ]
   },
   {
+    "id": "kt:responsible-scaling-policy",
+    "title": "Responsible scaling policy",
+    "aliases": [
+      "RSP",
+      "responsible scaling policies",
+      "frontier AI safety policy"
+    ],
+    "type": "Policy",
+    "domain": "safety-alignment-and-security",
+    "file": "articles/safety-alignment-and-security/responsible-scaling-policy.md",
+    "created": "2026-11-18",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://metr.org/blog/2023-09-26-rsp",
+      "https://www.anthropic.com/news/anthropics-responsible-scaling-policy",
+      "https://www.anthropic.com/rsp",
+      "https://anthropic.com/news/activating-asl3-protections",
+      "https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024",
+      "https://metr.org/blog/2025-12-09-common-elements-of-frontier-ai-safety-policies/",
+      "https://www.governance.ai/analysis/anthropics-rsp-v3-0-how-it-works-whats-changed-and-some-reflections"
+    ]
+  },
+  {
     "id": "kt:retrieval-augmented-generation",
     "title": "Retrieval-augmented generation for knowledge-intensive tasks",
     "aliases": [

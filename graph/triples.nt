@@ -5408,6 +5408,34 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <https://github.com/john1hsu/ai-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/responsible-scaling-policy> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/responsible-scaling-policy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Policy> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/responsible-scaling-policy> <http://www.w3.org/2000/01/rdf-schema#label> "Responsible scaling policy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/responsible-scaling-policy> <http://www.w3.org/2004/02/skos/core#altLabel> "RSP" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/responsible-scaling-policy> <http://www.w3.org/2004/02/skos/core#altLabel> "frontier AI safety policy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/responsible-scaling-policy> <http://www.w3.org/2004/02/skos/core#altLabel> "responsible scaling policies" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/responsible-scaling-policy> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-risk-management> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/responsible-scaling-policy> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/responsible-scaling-policy> <http://www.w3.org/2004/02/skos/core#definition> "A voluntary, published commitment framework in which a frontier AI developer ties specified dangerous-capability thresholds to the safety and security safeguards it must have in place before training or deploying more capable models." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/responsible-scaling-policy> <http://www.w3.org/2004/02/skos/core#prefLabel> "Responsible scaling policy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/responsible-scaling-policy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-institutes> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/responsible-scaling-policy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/frontier-ai-safety-commitments> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/responsible-scaling-policy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/jailbreak> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/responsible-scaling-policy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/red-teaming> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/responsible-scaling-policy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/responsible-scaling-policy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/responsible-scaling-policy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/responsible-scaling-policy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/responsible-scaling-policy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/responsible-scaling-policy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/responsible-scaling-policy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s7> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/responsible-scaling-policy> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/anthropic> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/responsible-scaling-policy> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/metr> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/responsible-scaling-policy> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/responsible-scaling-policy> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "safety-alignment-and-security" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/responsible-scaling-policy> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety-level> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/responsible-scaling-policy> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/biosafety-level> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/responsible-scaling-policy> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> <http://www.w3.org/2000/01/rdf-schema#label> "Retrieval-augmented generation for knowledge-intensive tasks" .
@@ -11478,6 +11506,41 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s7> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/residual-connection/s7> <https://schema.org/url> "https://arxiv.org/abs/1505.00387v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s1> <http://purl.org/dc/terms/publisher> "METR (Barnes, Wijk, Chan), 26 September 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s1> <http://purl.org/dc/terms/title> "Responsible Scaling Policies (RSPs)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s1> <https://schema.org/url> "https://metr.org/blog/2023-09-26-rsp" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s2> <http://purl.org/dc/terms/publisher> "Anthropic, 19 September 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s2> <http://purl.org/dc/terms/title> "Anthropic's Responsible Scaling Policy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s2> <https://schema.org/url> "https://www.anthropic.com/news/anthropics-responsible-scaling-policy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s3> <http://purl.org/dc/terms/publisher> "Anthropic, last updated 14 August 2026" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s3> <http://purl.org/dc/terms/title> "Anthropic's Responsible Scaling Policy (policy page and version history, v3.4)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s3> <https://schema.org/url> "https://www.anthropic.com/rsp" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s4> <http://purl.org/dc/terms/publisher> "Anthropic, 22 May 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s4> <http://purl.org/dc/terms/title> "Activating AI Safety Level 3 Protections" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s4> <https://schema.org/url> "https://anthropic.com/news/activating-asl3-protections" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s5> <http://purl.org/dc/terms/publisher> "UK Department for Science, Innovation and Technology (GOV.UK), 21 May 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s5> <http://purl.org/dc/terms/title> "Frontier AI Safety Commitments, AI Seoul Summit 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s5> <https://schema.org/url> "https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s6> <http://purl.org/dc/terms/publisher> "METR, 9 December 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s6> <http://purl.org/dc/terms/title> "Common Elements of Frontier AI Safety Policies (December 2025 Update)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s6> <https://schema.org/url> "https://metr.org/blog/2025-12-09-common-elements-of-frontier-ai-safety-policies/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s7> <http://purl.org/dc/terms/publisher> "Centre for the Governance of AI (Williams, Freund), 5 March 2026" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s7> <http://purl.org/dc/terms/title> "Anthropic's RSP v3.0: How it Works, What's Changed, and Some Reflections" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s7> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/responsible-scaling-policy/s7> <https://schema.org/url> "https://www.governance.ai/analysis/anthropics-rsp-v3-0-how-it-works-whats-changed-and-some-reflections" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/retrieval-augmented-generation/s1> <http://purl.org/dc/terms/publisher> "Advances in Neural Information Processing Systems 33 (NeurIPS 2020), pp. 9459-9474 (Lewis, Perez, Piktus, Petroni, Karpukhin, Goyal, Küttler, Lewis, Yih, Rocktäschel, Riedel and Kiela)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/retrieval-augmented-generation/s1> <http://purl.org/dc/terms/title> "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/retrieval-augmented-generation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

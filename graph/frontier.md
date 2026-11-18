@@ -7,9 +7,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:heuristic-search` | `kt:allen-newell`, `kt:deep-blue`, `kt:general-problem-solver`, `kt:logic-theorist`, `kt:beam-search`, `kt:tree-of-thoughts` |
 | `kt:parallel-computing` | `kt:ai-hardware`, `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
+| `kt:anthropic` | `kt:model-context-protocol`, `kt:openai`, `kt:responsible-scaling-policy`, `kt:constitutional-ai` |
 | `kt:mathematical-optimization` | `kt:adagrad`, `kt:gradient-descent`, `kt:loss-function`, `kt:stochastic-gradient-descent` |
 | `kt:microsoft-research` | `kt:alfworld`, `kt:autogen`, `kt:residual-connection`, `kt:graphrag` |
-| `kt:anthropic` | `kt:model-context-protocol`, `kt:openai`, `kt:constitutional-ai` |
 | `kt:application-specific-integrated-circuit` | `kt:deep-blue`, `kt:ai-accelerator`, `kt:tpu` |
 | `kt:automated-planning` | `kt:planning-in-llms`, `kt:general-problem-solver`, `kt:knowledge-representation` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
@@ -104,6 +104,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:agentbench` | `kt:alfworld` |
 | `kt:ai-governance-a-research-agenda` | `kt:ai-governance` |
 | `kt:ai-safety-gridworlds` | `kt:concrete-problems-in-ai-safety` |
+| `kt:ai-safety-level` | `kt:responsible-scaling-policy` |
 | `kt:ai-safety-summit` | `kt:ai-safety-institutes` |
 | `kt:ai-safety-via-debate` | `kt:scalable-oversight` |
 | `kt:alan-turing` | `kt:turing-test` |
@@ -137,6 +138,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:berkeley-function-calling-leaderboard` | `kt:tool-use` |
 | `kt:big-bench` | `kt:emergent-abilities` |
 | `kt:big-bench-hard` | `kt:program-aided-language-models` |
+| `kt:biosafety-level` | `kt:responsible-scaling-policy` |
 | `kt:bleu-a-method-for-automatic-evaluation-of-machine-translation` | `kt:bleu` |
 | `kt:boltzmann-machine` | `kt:geoffrey-hinton` |
 | `kt:boosting` | `kt:ensemble-methods` |
@@ -238,6 +240,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:flamingo-a-visual-language-model-for-few-shot-learning` | `kt:vision-language-model` |
 | `kt:frank-rosenblatt` | `kt:perceptron` |
 | `kt:from-local-to-global-a-graphrag-approach-to-query-focused-summarization` | `kt:graphrag` |
+| `kt:frontier-ai-safety-commitments` | `kt:responsible-scaling-policy` |
 | `kt:fully-convolutional-network` | `kt:u-net` |
 | `kt:function-approximation` | `kt:sarsa` |
 | `kt:function-calling` | `kt:structured-output` |
@@ -346,6 +349,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:memory-wall` | `kt:high-bandwidth-memory` |
 | `kt:message-understanding-conference-6` | `kt:named-entity-recognition` |
 | `kt:meteor` | `kt:bleu` |
+| `kt:metr` | `kt:responsible-scaling-policy` |
 | `kt:michael-wooldridge` | `kt:multi-agent-systems` |
 | `kt:microsoft-agent-framework` | `kt:autogen` |
 | `kt:microsoft-coco-common-objects-in-context` | `kt:ms-coco` |
@@ -429,7 +433,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:report-on-a-general-problem-solving-program` | `kt:general-problem-solver` |
 | `kt:representation-learning-a-review-and-new-perspectives` | `kt:representation-learning` |
 | `kt:resource-description-framework` | `kt:knowledge-graph` |
-| `kt:responsible-scaling-policy` | `kt:ai-risk-management` |
 | `kt:retrieval-augmented-generation-for-knowledge-intensive-nlp-tasks` | `kt:retrieval-augmented-generation` |
 | `kt:rewardbench` | `kt:reward-model` |
 | `kt:richard-bellman` | `kt:markov-decision-process` |
