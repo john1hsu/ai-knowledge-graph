@@ -2733,6 +2733,95 @@
       ]
     },
     {
+      "@id": "kt:heuristic-search",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Heuristic search",
+      "skos:definition": "A family of problem-solving methods that explore a space of candidate states or partial solutions while using problem-specific knowledge, typically a heuristic function estimating the remaining cost to a goal, to decide what to expand next; A* and IDA* are its best-known algorithms, and Newell and Simon held it to be central to intelligence.",
+      "kto:domain": "ai-history",
+      "dcterms:created": "2026-11-18",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "A Formal Basis for the Heuristic Determination of Minimum Cost Paths",
+          "dcterms:publisher": "P. E. Hart, N. J. Nilsson and B. Raphael, IEEE Transactions on Systems Science and Cybernetics SSC-4(2), 1968 (copy hosted for a St. Francis Xavier University course)",
+          "schema:url": "https://people.stfx.ca/jdelamer/courses/csci-564/_downloads/b2220c66675ddde471ca1795147b8e86/A_Formal_Basis_for_the_Heuristic_Determination_of_Minimum_Cost_Paths.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Computer Science as Empirical Inquiry: Symbols and Search",
+          "dcterms:publisher": "A. Newell and H. A. Simon, Communications of the ACM 19(3), 1976 (1975 Turing Award lecture; copy hosted by Politecnico di Milano)",
+          "schema:url": "https://schiaffonati.faculty.polimi.it/TFI/newell_simon_1976.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Iterative-Deepening-A*: An Optimal Admissible Tree Search",
+          "dcterms:publisher": "R. E. Korf, Proceedings of IJCAI 1985, pp. 1034–1035",
+          "schema:url": "https://ijcai.org/proceedings/1985/208",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "CSC384 Lecture 3: Heuristic Search (part 2)",
+          "dcterms:publisher": "University of Toronto, Department of Computer Science, CSC384 Introduction to Artificial Intelligence, Winter 2020",
+          "schema:url": "https://www.teach.cs.toronto.edu/~csc384h/winter/Lectures/csc384w20-Lecture03-Heuristic-Search-part2-1pp.pdf",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/ai-history/heuristic-search.md",
+      "skos:altLabel": [
+        "informed search",
+        "heuristic state-space search",
+        "best-first heuristic search"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:symbolic-ai"
+        },
+        {
+          "@id": "kt:state-space-search"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:automated-planning"
+        },
+        {
+          "@id": "kt:monte-carlo-tree-search"
+        },
+        {
+          "@id": "kt:beam-search"
+        },
+        {
+          "@id": "kt:tree-of-thoughts"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:a-star-search"
+        },
+        {
+          "@id": "kt:iterative-deepening-a-star"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:physical-symbol-system-hypothesis"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:general-problem-solver"
+        },
+        {
+          "@id": "kt:deep-blue"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:a-formal-basis-for-the-heuristic-determination-of-minimum-cost-paths"
+        }
+      ]
+    },
+    {
       "@id": "kt:imagenet-and-alexnet",
       "@type": "kto:Event",
       "skos:prefLabel": "ImageNet and AlexNet",

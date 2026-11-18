@@ -4,19 +4,19 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:heuristic-search` | `kt:allen-newell`, `kt:deep-blue`, `kt:general-problem-solver`, `kt:logic-theorist`, `kt:beam-search`, `kt:tree-of-thoughts` |
 | `kt:parallel-computing` | `kt:ai-hardware`, `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:anthropic` | `kt:model-context-protocol`, `kt:openai`, `kt:responsible-scaling-policy`, `kt:constitutional-ai` |
+| `kt:automated-planning` | `kt:planning-in-llms`, `kt:general-problem-solver`, `kt:heuristic-search`, `kt:knowledge-representation` |
 | `kt:mathematical-optimization` | `kt:adagrad`, `kt:gradient-descent`, `kt:loss-function`, `kt:stochastic-gradient-descent` |
 | `kt:microsoft-research` | `kt:alfworld`, `kt:autogen`, `kt:residual-connection`, `kt:graphrag` |
 | `kt:application-specific-integrated-circuit` | `kt:deep-blue`, `kt:ai-accelerator`, `kt:tpu` |
-| `kt:automated-planning` | `kt:planning-in-llms`, `kt:general-problem-solver`, `kt:knowledge-representation` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
 | `kt:faiss` | `kt:apache-lucene`, `kt:approximate-nearest-neighbor-search`, `kt:vector-database` |
 | `kt:herbert-a-simon` | `kt:allen-newell`, `kt:general-problem-solver`, `kt:logic-theorist` |
 | `kt:logistic-regression` | `kt:conditional-random-field`, `kt:loss-function`, `kt:bradley-terry-model` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
+| `kt:physical-symbol-system-hypothesis` | `kt:allen-newell`, `kt:heuristic-search`, `kt:symbolic-ai` |
 | `kt:r-cnn` | `kt:faster-r-cnn`, `kt:pascal-voc`, `kt:yolo` |
 | `kt:rmsprop` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:adagrad` |
 | `kt:support-vector-machine` | `kt:perceptron`, `kt:loss-function`, `kt:statistical-learning-theory` |
@@ -75,7 +75,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:muzero` | `kt:alphazero`, `kt:monte-carlo-tree-search` |
 | `kt:nist` | `kt:nist-ai-risk-management-framework`, `kt:nist-generative-ai-profile` |
 | `kt:online-learning` | `kt:adagrad`, `kt:contextual-bandit` |
-| `kt:physical-symbol-system-hypothesis` | `kt:allen-newell`, `kt:symbolic-ai` |
 | `kt:post-training` | `kt:hugging-face-trl`, `kt:instruction-tuning` |
 | `kt:post-training-quantization` | `kt:awq`, `kt:gptq` |
 | `kt:princeton-university` | `kt:swe-agent`, `kt:swe-bench` |
@@ -93,6 +92,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:transposed-convolution` | `kt:semantic-segmentation`, `kt:u-net` |
 | `kt:vector-space-model` | `kt:information-retrieval`, `kt:tf-idf` |
 | `kt:weight-decay` | `kt:dropout`, `kt:regularization` |
+| `kt:a-formal-basis-for-the-heuristic-determination-of-minimum-cost-paths` | `kt:heuristic-search` |
+| `kt:a-star-search` | `kt:heuristic-search` |
 | `kt:a-stochastic-approximation-method` | `kt:stochastic-gradient-descent` |
 | `kt:activation-checkpointing` | `kt:pipeline-parallelism` |
 | `kt:adam-a-method-for-stochastic-optimization` | `kt:adam-optimizer` |
@@ -298,6 +299,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:iso-iec-42006` | `kt:iso-iec-42001` |
 | `kt:iso-iec-jtc-1-sc-42` | `kt:iso-iec-42001` |
 | `kt:iterated-amplification` | `kt:scalable-oversight` |
+| `kt:iterative-deepening-a-star` | `kt:heuristic-search` |
 | `kt:james-lighthill` | `kt:lighthill-report` |
 | `kt:jedec` | `kt:high-bandwidth-memory` |
 | `kt:john-duchi` | `kt:adagrad` |
@@ -471,6 +473,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:stanford-crfm` | `kt:foundation-model` |
 | `kt:stanford-nlp-group` | `kt:glove` |
 | `kt:star-bootstrapping-reasoning-with-reasoning` | `kt:star-self-taught-reasoner` |
+| `kt:state-space-search` | `kt:heuristic-search` |
 | `kt:statistical-machine-translation` | `kt:machine-translation` |
 | `kt:stealing-machine-learning-models-via-prediction-apis` | `kt:model-extraction` |
 | `kt:stochastic-approximation` | `kt:stochastic-gradient-descent` |

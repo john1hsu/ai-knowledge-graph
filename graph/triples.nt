@@ -2946,6 +2946,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/truthfulqa> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> <https://github.com/john1hsu/ai-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/nist-ai-risk-management-framework> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/heuristic-search> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/heuristic-search> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/heuristic-search> <http://www.w3.org/2000/01/rdf-schema#label> "Heuristic search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/heuristic-search> <http://www.w3.org/2004/02/skos/core#altLabel> "best-first heuristic search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/heuristic-search> <http://www.w3.org/2004/02/skos/core#altLabel> "heuristic state-space search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/heuristic-search> <http://www.w3.org/2004/02/skos/core#altLabel> "informed search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/heuristic-search> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/state-space-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/heuristic-search> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/heuristic-search> <http://www.w3.org/2004/02/skos/core#definition> "A family of problem-solving methods that explore a space of candidate states or partial solutions while using problem-specific knowledge, typically a heuristic function estimating the remaining cost to a goal, to decide what to expand next; A* and IDA* are its best-known algorithms, and Newell and Simon held it to be central to intelligence." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/heuristic-search> <http://www.w3.org/2004/02/skos/core#prefLabel> "Heuristic search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/heuristic-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/automated-planning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/heuristic-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/beam-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/heuristic-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/heuristic-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/tree-of-thoughts> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/heuristic-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/heuristic-search/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/heuristic-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/heuristic-search/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/heuristic-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/heuristic-search/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/heuristic-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/heuristic-search/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/heuristic-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-history" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/heuristic-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/a-star-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/heuristic-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/iterative-deepening-a-star> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/heuristic-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/physical-symbol-system-hypothesis> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/heuristic-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/heuristic-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/a-formal-basis-for-the-heuristic-determination-of-minimum-cost-paths> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/heuristic-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/heuristic-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/general-problem-solver> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hidden-markov-model> <http://www.w3.org/2000/01/rdf-schema#label> "Hidden Markov model" .
@@ -9001,6 +9027,26 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hallucination/s6> <https://schema.org/url> "https://oatml.cs.ox.ac.uk/blog/2024/06/19/detecting_hallucinations_2024.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/heuristic-search/s1> <http://purl.org/dc/terms/publisher> "P. E. Hart, N. J. Nilsson and B. Raphael, IEEE Transactions on Systems Science and Cybernetics SSC-4(2), 1968 (copy hosted for a St. Francis Xavier University course)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/heuristic-search/s1> <http://purl.org/dc/terms/title> "A Formal Basis for the Heuristic Determination of Minimum Cost Paths" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/heuristic-search/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/heuristic-search/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/heuristic-search/s1> <https://schema.org/url> "https://people.stfx.ca/jdelamer/courses/csci-564/_downloads/b2220c66675ddde471ca1795147b8e86/A_Formal_Basis_for_the_Heuristic_Determination_of_Minimum_Cost_Paths.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/heuristic-search/s2> <http://purl.org/dc/terms/publisher> "A. Newell and H. A. Simon, Communications of the ACM 19(3), 1976 (1975 Turing Award lecture; copy hosted by Politecnico di Milano)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/heuristic-search/s2> <http://purl.org/dc/terms/title> "Computer Science as Empirical Inquiry: Symbols and Search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/heuristic-search/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/heuristic-search/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/heuristic-search/s2> <https://schema.org/url> "https://schiaffonati.faculty.polimi.it/TFI/newell_simon_1976.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/heuristic-search/s3> <http://purl.org/dc/terms/publisher> "R. E. Korf, Proceedings of IJCAI 1985, pp. 1034–1035" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/heuristic-search/s3> <http://purl.org/dc/terms/title> "Iterative-Deepening-A*: An Optimal Admissible Tree Search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/heuristic-search/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/heuristic-search/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/heuristic-search/s3> <https://schema.org/url> "https://ijcai.org/proceedings/1985/208" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/heuristic-search/s4> <http://purl.org/dc/terms/publisher> "University of Toronto, Department of Computer Science, CSC384 Introduction to Artificial Intelligence, Winter 2020" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/heuristic-search/s4> <http://purl.org/dc/terms/title> "CSC384 Lecture 3: Heuristic Search (part 2)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/heuristic-search/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/heuristic-search/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/heuristic-search/s4> <https://schema.org/url> "https://www.teach.cs.toronto.edu/~csc384h/winter/Lectures/csc384w20-Lecture03-Heuristic-Search-part2-1pp.pdf" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s1> <http://purl.org/dc/terms/publisher> "Daniel Jurafsky and James H. Martin, Stanford University (draft of August 19, 2026)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s1> <http://purl.org/dc/terms/title> "Speech and Language Processing (3rd ed. draft), Appendix A: Hidden Markov Models" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hidden-markov-model/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

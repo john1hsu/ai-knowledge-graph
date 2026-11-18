@@ -2483,6 +2483,26 @@
     ]
   },
   {
+    "id": "kt:heuristic-search",
+    "title": "Heuristic search",
+    "aliases": [
+      "informed search",
+      "heuristic state-space search",
+      "best-first heuristic search"
+    ],
+    "type": "Technique",
+    "domain": "ai-history",
+    "file": "articles/ai-history/heuristic-search.md",
+    "created": "2026-11-18",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://people.stfx.ca/jdelamer/courses/csci-564/_downloads/b2220c66675ddde471ca1795147b8e86/A_Formal_Basis_for_the_Heuristic_Determination_of_Minimum_Cost_Paths.pdf",
+      "https://schiaffonati.faculty.polimi.it/TFI/newell_simon_1976.pdf",
+      "https://ijcai.org/proceedings/1985/208",
+      "https://www.teach.cs.toronto.edu/~csc384h/winter/Lectures/csc384w20-Lecture03-Heuristic-Search-part2-1pp.pdf"
+    ]
+  },
+  {
     "id": "kt:hidden-markov-model",
     "title": "Hidden Markov model",
     "aliases": [
