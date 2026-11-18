@@ -3545,6 +3545,27 @@
     ]
   },
   {
+    "id": "kt:osworld",
+    "title": "OSWorld",
+    "aliases": [
+      "OSWorld benchmark",
+      "OSWorld-Verified"
+    ],
+    "type": "Benchmark",
+    "domain": "agents-and-tool-use",
+    "file": "articles/agents-and-tool-use/osworld.md",
+    "created": "2026-11-18",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://arxiv.org/pdf/2404.07972",
+      "https://proceedings.neurips.cc/paper_files/paper/2024/hash/5d413e48f84dc61244b6be550f1cd8f5-Abstract-Datasets_and_Benchmarks_Track.html",
+      "https://github.com/xlang-ai/OSWorld",
+      "https://xlang.ai/blog/osworld-verified",
+      "https://www.anthropic.com/news/claude-sonnet-4-5",
+      "https://www.anthropic.com/news/claude-sonnet-4-6"
+    ]
+  },
+  {
     "id": "kt:overfitting",
     "title": "Overfitting",
     "aliases": [

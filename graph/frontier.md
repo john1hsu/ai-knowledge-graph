@@ -95,6 +95,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tokenization` | `kt:perplexity`, `kt:structured-output` |
 | `kt:transposed-convolution` | `kt:semantic-segmentation`, `kt:u-net` |
 | `kt:vector-space-model` | `kt:information-retrieval`, `kt:tf-idf` |
+| `kt:webarena` | `kt:computer-use-agents`, `kt:osworld` |
 | `kt:weight-decay` | `kt:dropout`, `kt:regularization` |
 | `kt:a-stochastic-approximation-method` | `kt:stochastic-gradient-descent` |
 | `kt:activation-checkpointing` | `kt:pipeline-parallelism` |
@@ -380,7 +381,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:optimal-brain-compression` | `kt:gptq` |
 | `kt:optimal-brain-damage` | `kt:model-pruning` |
 | `kt:orca-a-distributed-serving-system-for-transformer-based-generative-models` | `kt:orca-serving-system` |
-| `kt:osworld` | `kt:computer-use-agents` |
+| `kt:osworld-benchmarking-multimodal-agents-for-open-ended-tasks-in-real-computer-environments` | `kt:osworld` |
 | `kt:outlines` | `kt:structured-output` |
 | `kt:pac-learning` | `kt:statistical-learning-theory` |
 | `kt:paired-comparison` | `kt:bradley-terry-model` |
@@ -436,6 +437,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:rule-based-system` | `kt:eliza` |
 | `kt:ruler` | `kt:context-window` |
 | `kt:sacrebleu` | `kt:bleu` |
+| `kt:salesforce-research` | `kt:osworld` |
 | `kt:sarathi-serve` | `kt:orca-serving-system` |
 | `kt:scalable-parallel-programming-with-cuda` | `kt:cuda` |
 | `kt:scaling-laws-for-neural-language-models` | `kt:scaling-laws` |
@@ -500,6 +502,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:underfitting` | `kt:overfitting` |
 | `kt:universal-language-model-fine-tuning-for-text-classification` | `kt:fine-tuning` |
 | `kt:universal-self-consistency` | `kt:self-consistency` |
+| `kt:university-of-hong-kong` | `kt:osworld` |
 | `kt:us-department-of-commerce` | `kt:bureau-of-industry-and-security` |
 | `kt:value-iteration` | `kt:markov-decision-process` |
 | `kt:variational-inference` | `kt:variational-autoencoder` |
@@ -511,7 +514,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:warren-mcculloch` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:wasserstein-gan` | `kt:generative-adversarial-network` |
 | `kt:weak-to-strong-generalization` | `kt:scalable-oversight` |
-| `kt:webarena` | `kt:computer-use-agents` |
 | `kt:weight-initialization` | `kt:vanishing-gradient-problem` |
 | `kt:whisper` | `kt:automatic-speech-recognition` |
 | `kt:william-r-thompson` | `kt:thompson-sampling` |

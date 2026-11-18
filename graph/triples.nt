@@ -4218,6 +4218,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "inference-and-optimization" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/orca-a-distributed-serving-system-for-transformer-based-generative-models> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/orca-serving-system> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/osworld> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/osworld> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Benchmark> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/osworld> <http://www.w3.org/2000/01/rdf-schema#label> "OSWorld" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/osworld> <http://www.w3.org/2004/02/skos/core#altLabel> "OSWorld benchmark" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/osworld> <http://www.w3.org/2004/02/skos/core#altLabel> "OSWorld-Verified" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/osworld> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/osworld> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/computer-use-agents> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/osworld> <http://www.w3.org/2004/02/skos/core#definition> "A benchmark and executable environment, presented at NeurIPS 2024, that tests multimodal agents on 369 open-ended tasks inside real virtual machines running desktop software, scoring each attempt with a task-specific script that inspects the final machine state; its 2025 OSWorld-Verified revision is the standard yardstick for computer-use agents." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/osworld> <http://www.w3.org/2004/02/skos/core#prefLabel> "OSWorld" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/osworld> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/osworld> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/alfworld> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/osworld> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/swe-bench> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/osworld> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/osworld> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/osworld> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/osworld> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/osworld> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/osworld> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/osworld> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/osworld> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/webarena> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/osworld> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/salesforce-research> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/osworld> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/university-of-hong-kong> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/osworld> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "agents-and-tool-use" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/osworld> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/osworld-benchmarking-multimodal-agents-for-open-ended-tasks-in-real-computer-environments> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/osworld> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <http://www.w3.org/2000/01/rdf-schema#label> "Overfitting" .
@@ -9946,6 +9971,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/orca-serving-system/s5> <https://schema.org/url> "https://www.usenix.org/conference/osdi24/presentation/agrawal" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s1> <http://purl.org/dc/terms/publisher> "arXiv 2404.07972 (Xie, Zhang et al.; authors' version)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s1> <http://purl.org/dc/terms/title> "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s1> <https://schema.org/url> "https://arxiv.org/pdf/2404.07972" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s2> <http://purl.org/dc/terms/publisher> "NeurIPS 2024 Datasets and Benchmarks Track" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s2> <http://purl.org/dc/terms/title> "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments (proceedings)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s2> <https://schema.org/url> "https://proceedings.neurips.cc/paper_files/paper/2024/hash/5d413e48f84dc61244b6be550f1cd8f5-Abstract-Datasets_and_Benchmarks_Track.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s3> <http://purl.org/dc/terms/publisher> "XLANG Lab, GitHub" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s3> <http://purl.org/dc/terms/title> "xlang-ai/OSWorld repository README" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s3> <https://schema.org/url> "https://github.com/xlang-ai/OSWorld" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s4> <http://purl.org/dc/terms/publisher> "XLANG Lab (University of Hong Kong) blog, 28 July 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s4> <http://purl.org/dc/terms/title> "Introducing OSWorld-Verified" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s4> <https://schema.org/url> "https://xlang.ai/blog/osworld-verified" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s5> <http://purl.org/dc/terms/publisher> "Anthropic, 29 September 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s5> <http://purl.org/dc/terms/title> "Introducing Claude Sonnet 4.5" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s5> <https://schema.org/url> "https://www.anthropic.com/news/claude-sonnet-4-5" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s6> <http://purl.org/dc/terms/publisher> "Anthropic, 17 February 2026" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s6> <http://purl.org/dc/terms/title> "Introducing Claude Sonnet 4.6" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/osworld/s6> <https://schema.org/url> "https://www.anthropic.com/news/claude-sonnet-4-6" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s1> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (Zhang, Lipton, Li and Smola), d2l.ai" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s1> <http://purl.org/dc/terms/title> "3.6. Generalization" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
