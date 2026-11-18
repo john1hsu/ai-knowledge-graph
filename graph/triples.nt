@@ -12557,6 +12557,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/voyager/s4> <https://schema.org/url> "https://github.com/minedojo/voyager" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s1> <http://purl.org/dc/terms/publisher> "Proceedings of AISTATS 2010, PMLR 9:249–256 (Glorot and Bengio)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s1> <http://purl.org/dc/terms/title> "Understanding the difficulty of training deep feedforward neural networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s1> <https://schema.org/url> "https://proceedings.mlr.press/v9/glorot10a.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s2> <http://purl.org/dc/terms/publisher> "ICCV 2015, pp. 1026–1034, CVF Open Access (He, Zhang, Ren and Sun)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s2> <http://purl.org/dc/terms/title> "Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s2> <https://schema.org/url> "https://openaccess.thecvf.com/content_iccv_2015/html/He_Delving_Deep_into_ICCV_2015_paper" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s3> <http://purl.org/dc/terms/publisher> "arXiv / ar5iv (He, Zhang, Ren and Sun)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s3> <http://purl.org/dc/terms/title> "Delving Deep into Rectifiers (arXiv:1502.01852, HTML rendering)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s3> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/1502.01852" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s4> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (Zhang, Lipton, Li and Smola), d2l.ai" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s4> <http://purl.org/dc/terms/title> "Numerical Stability and Initialization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s4> <https://schema.org/url> "https://classic.d2l.ai/_sources/chapter_multilayer-perceptrons/numerical-stability-and-init.rst.txt" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s5> <http://purl.org/dc/terms/publisher> "PyTorch 2.3 documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s5> <http://purl.org/dc/terms/title> "torch.nn.init" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s5> <https://schema.org/url> "https://docs.pytorch.org/docs/2.3/nn.init.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s6> <http://purl.org/dc/terms/publisher> "arXiv:1312.6120 (Saxe, McClelland and Ganguli, 2013–2014)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s6> <http://purl.org/dc/terms/title> "Exact solutions to the nonlinear dynamics of learning in deep linear neural networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s6> <https://schema.org/url> "https://arxiv.org/abs/1312.6120" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s1> <http://purl.org/dc/terms/publisher> "Proceedings of the Ninth Workshop on Statistical Machine Translation, ACL (Bojar, Buck, Federmann, Haddow, Koehn et al.), 2014" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s1> <http://purl.org/dc/terms/title> "Findings of the 2014 Workshop on Statistical Machine Translation" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/wmt-2014/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -13663,6 +13693,37 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "agents-and-tool-use" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/voyager-an-open-ended-embodied-agent-with-large-language-models> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/voyager> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <http://www.w3.org/2000/01/rdf-schema#label> "Weight initialization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <http://www.w3.org/2004/02/skos/core#altLabel> "Glorot initialization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <http://www.w3.org/2004/02/skos/core#altLabel> "He initialization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <http://www.w3.org/2004/02/skos/core#altLabel> "Kaiming initialization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <http://www.w3.org/2004/02/skos/core#altLabel> "Xavier initialization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <http://www.w3.org/2004/02/skos/core#altLabel> "parameter initialization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <http://www.w3.org/2004/02/skos/core#definition> "The choice of starting values for a neural network's weights before training. Schemes such as Xavier/Glorot and He/Kaiming initialization draw random weights whose variance is scaled by layer width, so that activations and gradients keep a stable magnitude across many layers and symmetry between units is broken." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <http://www.w3.org/2004/02/skos/core#prefLabel> "Weight initialization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/batch-normalization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/residual-connection> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/weight-initialization/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "deep-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/delving-deep-into-rectifiers> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/understanding-the-difficulty-of-training-deep-feedforward-neural-networks> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/ai-knowledge-graph/id/vanishing-gradient-problem> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/weight-initialization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> <http://purl.org/dc/terms/created> "2026-11-16" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Benchmark> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/wmt-2014> <http://www.w3.org/2000/01/rdf-schema#label> "WMT 2014" .

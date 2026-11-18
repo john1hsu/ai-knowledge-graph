@@ -5539,6 +5539,30 @@
     ]
   },
   {
+    "id": "kt:weight-initialization",
+    "title": "Weight initialization",
+    "aliases": [
+      "parameter initialization",
+      "Xavier initialization",
+      "Glorot initialization",
+      "He initialization",
+      "Kaiming initialization"
+    ],
+    "type": "Technique",
+    "domain": "deep-learning",
+    "file": "articles/deep-learning/weight-initialization.md",
+    "created": "2026-11-18",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://proceedings.mlr.press/v9/glorot10a.html",
+      "https://openaccess.thecvf.com/content_iccv_2015/html/He_Delving_Deep_into_ICCV_2015_paper",
+      "https://ar5iv.labs.arxiv.org/html/1502.01852",
+      "https://classic.d2l.ai/_sources/chapter_multilayer-perceptrons/numerical-stability-and-init.rst.txt",
+      "https://docs.pytorch.org/docs/2.3/nn.init.html",
+      "https://arxiv.org/abs/1312.6120"
+    ]
+  },
+  {
     "id": "kt:wmt-2014",
     "title": "WMT 2014",
     "aliases": [

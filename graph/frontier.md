@@ -193,6 +193,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:deep-thought-chess-computer` | `kt:deep-blue` |
 | `kt:deep-unsupervised-learning-using-nonequilibrium-thermodynamics` | `kt:diffusion-model` |
 | `kt:deformable-part-model` | `kt:pascal-voc` |
+| `kt:delving-deep-into-rectifiers` | `kt:weight-initialization` |
 | `kt:dense-passage-retrieval` | `kt:hybrid-search` |
 | `kt:description-logic` | `kt:knowledge-representation` |
 | `kt:devops` | `kt:mlops` |
@@ -502,6 +503,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:uk-ai-security-institute` | `kt:ai-safety-institutes` |
 | `kt:umap` | `kt:dimensionality-reduction` |
 | `kt:underfitting` | `kt:overfitting` |
+| `kt:understanding-the-difficulty-of-training-deep-feedforward-neural-networks` | `kt:weight-initialization` |
 | `kt:universal-language-model-fine-tuning-for-text-classification` | `kt:fine-tuning` |
 | `kt:universal-self-consistency` | `kt:self-consistency` |
 | `kt:university-of-hong-kong` | `kt:osworld` |
@@ -517,7 +519,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:warren-mcculloch` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:wasserstein-gan` | `kt:generative-adversarial-network` |
 | `kt:weak-to-strong-generalization` | `kt:scalable-oversight` |
-| `kt:weight-initialization` | `kt:vanishing-gradient-problem` |
 | `kt:whisper` | `kt:automatic-speech-recognition` |
 | `kt:william-r-thompson` | `kt:thompson-sampling` |
 | `kt:yann-lecun` | `kt:convolutional-neural-network` |
