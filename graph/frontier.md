@@ -134,6 +134,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:backdoor-attack` | `kt:data-poisoning` |
 | `kt:backpropagation-through-time` | `kt:recurrent-neural-network` |
 | `kt:bagging` | `kt:ensemble-methods` |
+| `kt:batch-calibration` | `kt:contextual-calibration` |
 | `kt:batch-normalization-accelerating-deep-network-training` | `kt:batch-normalization` |
 | `kt:bayesian-inference` | `kt:thompson-sampling` |
 | `kt:beir-a-heterogeneous-benchmark-for-zero-shot-evaluation-of-information-retrieval-models` | `kt:beir` |
@@ -143,6 +144,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:bleu-a-method-for-automatic-evaluation-of-machine-translation` | `kt:bleu` |
 | `kt:boltzmann-machine` | `kt:geoffrey-hinton` |
 | `kt:boosting` | `kt:ensemble-methods` |
+| `kt:calibrate-before-use-improving-few-shot-performance-of-language-models` | `kt:contextual-calibration` |
 | `kt:campbells-law` | `kt:goodharts-law` |
 | `kt:center-for-ai-standards-and-innovation` | `kt:ai-safety-institutes` |
 | `kt:chain-of-thought-faithfulness` | `kt:reasoning-models` |
@@ -172,7 +174,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:constitutional-ai-harmlessness-from-ai-feedback` | `kt:constitutional-ai` |
 | `kt:constrained-decoding` | `kt:structured-output` |
 | `kt:content-provenance` | `kt:nist-generative-ai-profile` |
-| `kt:contextual-calibration` | `kt:prompt-sensitivity` |
 | `kt:council-of-europe` | `kt:council-of-europe-framework-convention-on-ai` |
 | `kt:cross-entropy` | `kt:perplexity` |
 | `kt:cudnn` | `kt:cuda` |

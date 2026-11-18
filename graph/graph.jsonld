@@ -14134,6 +14134,92 @@
       ]
     },
     {
+      "@id": "kt:contextual-calibration",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Contextual calibration",
+      "skos:definition": "A training-free correction for few-shot and zero-shot prompting that measures a language model's built-in preference for certain answers by scoring a content-free input such as \"N/A\", then rescales the output probabilities so that this input would receive a uniform prediction over labels.",
+      "kto:domain": "prompting-and-reasoning",
+      "dcterms:created": "2026-11-18",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Calibrate Before Use: Improving Few-shot Performance of Language Models",
+          "dcterms:publisher": "ICML 2021, PMLR vol. 139, pp. 12697-12706 (Zhao, Wallace, Feng, Klein, Singh)",
+          "schema:url": "https://proceedings.mlr.press/v139/zhao21c.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Calibrate Before Use: Improving Few-Shot Performance of Language Models (arXiv v2)",
+          "dcterms:publisher": "arXiv 2102.09690v2 (Zhao, Wallace, Feng, Klein, Singh)",
+          "schema:url": "https://arxiv.org/abs/2102.09690v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Calibrate Before Use (full text, ar5iv rendering of arXiv 2102.09690)",
+          "dcterms:publisher": "ar5iv / arXiv (Zhao et al.)",
+          "schema:url": "https://ar5iv.labs.arxiv.org/html/2102.09690",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Batch Calibration: Rethinking Calibration for In-Context Learning and Prompt Engineering",
+          "dcterms:publisher": "ICLR 2024 (Zhou, Wan, Proleev, Mincu, Chen, Heller, Roy)",
+          "schema:url": "https://proceedings.iclr.cc/paper_files/paper/2024/file/003e438cf04e3caf0a5c908495e484fe-Paper-Conference.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Batch calibration: Rethinking calibration for in-context learning and prompt engineering",
+          "dcterms:publisher": "Google Research blog (Han Zhou, Subhrajit Roy), October 2023",
+          "schema:url": "https://research.google/blog/batch-calibration-rethinking-calibration-for-in-context-learning-and-prompt-engineering/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Mitigating Label Biases for In-context Learning",
+          "dcterms:publisher": "arXiv 2305.19148v3 (Fei, Hou, Chen, Bosselut); ACL 2023 main conference",
+          "schema:url": "https://arxiv.org/abs/2305.19148v3",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/prompting-and-reasoning/contextual-calibration.md",
+      "skos:altLabel": [
+        "calibrate before use",
+        "content-free calibration"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:in-context-learning"
+        },
+        {
+          "@id": "kt:prompt-engineering"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:few-shot-prompting"
+        },
+        {
+          "@id": "kt:zero-shot-prompting"
+        },
+        {
+          "@id": "kt:batch-calibration"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:prompt-sensitivity"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:calibrate-before-use-improving-few-shot-performance-of-language-models"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:language-models-are-few-shot-learners"
+        }
+      ]
+    },
+    {
       "@id": "kt:few-shot-prompting",
       "@type": "kto:Technique",
       "skos:prefLabel": "Few-shot prompting",

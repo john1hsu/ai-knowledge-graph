@@ -1317,6 +1317,27 @@
     ]
   },
   {
+    "id": "kt:contextual-calibration",
+    "title": "Contextual calibration",
+    "aliases": [
+      "calibrate before use",
+      "content-free calibration"
+    ],
+    "type": "Technique",
+    "domain": "prompting-and-reasoning",
+    "file": "articles/prompting-and-reasoning/contextual-calibration.md",
+    "created": "2026-11-18",
+    "maturity": "established",
+    "source_urls": [
+      "https://proceedings.mlr.press/v139/zhao21c.html",
+      "https://arxiv.org/abs/2102.09690v2",
+      "https://ar5iv.labs.arxiv.org/html/2102.09690",
+      "https://proceedings.iclr.cc/paper_files/paper/2024/file/003e438cf04e3caf0a5c908495e484fe-Paper-Conference.pdf",
+      "https://research.google/blog/batch-calibration-rethinking-calibration-for-in-context-learning-and-prompt-engineering/",
+      "https://arxiv.org/abs/2305.19148v3"
+    ]
+  },
+  {
     "id": "kt:contrastive-learning",
     "title": "Contrastive learning",
     "aliases": [

@@ -1580,6 +1580,29 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/ruler> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-calibration> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-calibration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-calibration> <http://www.w3.org/2000/01/rdf-schema#label> "Contextual calibration" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-calibration> <http://www.w3.org/2004/02/skos/core#altLabel> "calibrate before use" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-calibration> <http://www.w3.org/2004/02/skos/core#altLabel> "content-free calibration" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-calibration> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-calibration> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-calibration> <http://www.w3.org/2004/02/skos/core#definition> "A training-free correction for few-shot and zero-shot prompting that measures a language model's built-in preference for certain answers by scoring a content-free input such as \"N/A\", then rescales the output probabilities so that this input would receive a uniform prediction over labels." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-calibration> <http://www.w3.org/2004/02/skos/core#prefLabel> "Contextual calibration" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-calibration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/batch-calibration> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-calibration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-calibration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-prompting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-calibration> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-calibration> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-calibration> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-calibration> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-calibration> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-calibration> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-calibration> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/language-models-are-few-shot-learners> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-calibration> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "prompting-and-reasoning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-calibration> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/calibrate-before-use-improving-few-shot-performance-of-language-models> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-calibration> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-calibration> <https://github.com/john1hsu/ai-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/contrastive-learning> <http://purl.org/dc/terms/created> "2026-11-17" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/contrastive-learning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/contrastive-learning> <http://www.w3.org/2000/01/rdf-schema#label> "Contrastive learning" .
@@ -7113,6 +7136,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s6> <https://schema.org/url> "https://platform.claude.com/docs/es/build-with-claude/context-windows" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s1> <http://purl.org/dc/terms/publisher> "ICML 2021, PMLR vol. 139, pp. 12697-12706 (Zhao, Wallace, Feng, Klein, Singh)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s1> <http://purl.org/dc/terms/title> "Calibrate Before Use: Improving Few-shot Performance of Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s1> <https://schema.org/url> "https://proceedings.mlr.press/v139/zhao21c.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s2> <http://purl.org/dc/terms/publisher> "arXiv 2102.09690v2 (Zhao, Wallace, Feng, Klein, Singh)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s2> <http://purl.org/dc/terms/title> "Calibrate Before Use: Improving Few-Shot Performance of Language Models (arXiv v2)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s2> <https://schema.org/url> "https://arxiv.org/abs/2102.09690v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s3> <http://purl.org/dc/terms/publisher> "ar5iv / arXiv (Zhao et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s3> <http://purl.org/dc/terms/title> "Calibrate Before Use (full text, ar5iv rendering of arXiv 2102.09690)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s3> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/2102.09690" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s4> <http://purl.org/dc/terms/publisher> "ICLR 2024 (Zhou, Wan, Proleev, Mincu, Chen, Heller, Roy)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s4> <http://purl.org/dc/terms/title> "Batch Calibration: Rethinking Calibration for In-Context Learning and Prompt Engineering" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s4> <https://schema.org/url> "https://proceedings.iclr.cc/paper_files/paper/2024/file/003e438cf04e3caf0a5c908495e484fe-Paper-Conference.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s5> <http://purl.org/dc/terms/publisher> "Google Research blog (Han Zhou, Subhrajit Roy), October 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s5> <http://purl.org/dc/terms/title> "Batch calibration: Rethinking calibration for in-context learning and prompt engineering" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s5> <https://schema.org/url> "https://research.google/blog/batch-calibration-rethinking-calibration-for-in-context-learning-and-prompt-engineering/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s6> <http://purl.org/dc/terms/publisher> "arXiv 2305.19148v3 (Fei, Hou, Chen, Bosselut); ACL 2023 main conference" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s6> <http://purl.org/dc/terms/title> "Mitigating Label Biases for In-context Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s6> <https://schema.org/url> "https://arxiv.org/abs/2305.19148v3" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s1> <http://purl.org/dc/terms/publisher> "CVPR 2006 (Hadsell, Chopra and LeCun), author copy hosted at NYU" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s1> <http://purl.org/dc/terms/title> "Dimensionality Reduction by Learning an Invariant Mapping" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/contrastive-learning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
