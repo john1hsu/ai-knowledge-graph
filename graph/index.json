@@ -3109,6 +3109,27 @@
     ]
   },
   {
+    "id": "kt:model-extraction",
+    "title": "Model extraction",
+    "aliases": [
+      "model stealing",
+      "model extraction attack",
+      "model stealing attack"
+    ],
+    "type": "Risk",
+    "domain": "safety-alignment-and-security",
+    "file": "articles/safety-alignment-and-security/model-extraction.md",
+    "created": "2026-11-18",
+    "maturity": "established",
+    "source_urls": [
+      "https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-2e2025.pdf",
+      "https://arxiv.org/abs/1609.02943v1",
+      "https://www.usenix.org/conference/usenixsecurity20/presentation/jagielski",
+      "https://openaccess.thecvf.com/content_CVPR_2019/html/Orekondy_Knockoff_Nets_Stealing_Functionality_of_Black-Box_Models_CVPR_2019_paper.html",
+      "https://proceedings.mlr.press/v235/carlini24a.html"
+    ]
+  },
+  {
     "id": "kt:model-pruning",
     "title": "Model pruning",
     "aliases": [

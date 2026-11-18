@@ -71,10 +71,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:marvin-minsky` | `kt:dartmouth-workshop`, `kt:perceptron` |
 | `kt:masked-language-modeling` | `kt:self-supervised-learning`, `kt:bert` |
 | `kt:medical-image-analysis` | `kt:semantic-segmentation`, `kt:u-net` |
+| `kt:membership-inference-attack` | `kt:benchmark-contamination`, `kt:model-extraction` |
 | `kt:meta-ai` | `kt:toolformer`, `kt:pytorch` |
 | `kt:mini-swe-agent` | `kt:swe-agent`, `kt:swe-agent` |
 | `kt:model-compression-caruana-2006` | `kt:model-compression`, `kt:knowledge-distillation` |
-| `kt:model-extraction` | `kt:adversarial-machine-learning`, `kt:data-poisoning` |
 | `kt:model-parallelism` | `kt:data-parallelism`, `kt:pipeline-parallelism` |
 | `kt:monte-carlo-methods` | `kt:monte-carlo-tree-search`, `kt:temporal-difference-learning` |
 | `kt:muzero` | `kt:alphazero`, `kt:monte-carlo-tree-search` |
@@ -337,7 +337,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mathematical-reasoning` | `kt:program-induction-by-rationale-generation` |
 | `kt:maximum-entropy-markov-model` | `kt:conditional-random-field` |
 | `kt:mbpp` | `kt:humaneval` |
-| `kt:membership-inference-attack` | `kt:benchmark-contamination` |
 | `kt:memgpt` | `kt:agent-memory` |
 | `kt:memory-wall` | `kt:high-bandwidth-memory` |
 | `kt:message-understanding-conference-6` | `kt:named-entity-recognition` |
@@ -457,6 +456,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:stanford-nlp-group` | `kt:glove` |
 | `kt:star-bootstrapping-reasoning-with-reasoning` | `kt:star-self-taught-reasoner` |
 | `kt:statistical-machine-translation` | `kt:machine-translation` |
+| `kt:stealing-machine-learning-models-via-prediction-apis` | `kt:model-extraction` |
 | `kt:stochastic-approximation` | `kt:stochastic-gradient-descent` |
 | `kt:stone-weierstrass-theorem` | `kt:universal-approximation-theorem` |
 | `kt:strategic-computing-initiative` | `kt:ai-winter` |

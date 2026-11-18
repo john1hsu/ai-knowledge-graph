@@ -19673,6 +19673,87 @@
       ]
     },
     {
+      "@id": "kt:model-extraction",
+      "@type": "kto:Risk",
+      "skos:prefLabel": "Model extraction",
+      "skos:definition": "A privacy attack in which an adversary with query access to a deployed machine learning model uses its outputs to learn the model's parameters or architecture, or to train a substitute that reproduces its behaviour.",
+      "kto:domain": "safety-alignment-and-security",
+      "dcterms:created": "2026-11-18",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations (NIST AI 100-2 E2025)",
+          "dcterms:publisher": "NIST (Vassilev, Oprea, Fordyce, Anderson, Davies, Hamin), March 2025",
+          "schema:url": "https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-2e2025.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Stealing Machine Learning Models via Prediction APIs",
+          "dcterms:publisher": "arXiv:1609.02943 (Tramèr, Zhang, Juels, Reiter, Ristenpart); USENIX Security 2016",
+          "schema:url": "https://arxiv.org/abs/1609.02943v1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "High Accuracy and High Fidelity Extraction of Neural Networks",
+          "dcterms:publisher": "USENIX Security 2020 (Jagielski, Carlini, Berthelot, Kurakin, Papernot)",
+          "schema:url": "https://www.usenix.org/conference/usenixsecurity20/presentation/jagielski",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Knockoff Nets: Stealing Functionality of Black-Box Models",
+          "dcterms:publisher": "CVPR 2019 (Orekondy, Schiele, Fritz)",
+          "schema:url": "https://openaccess.thecvf.com/content_CVPR_2019/html/Orekondy_Knockoff_Nets_Stealing_Functionality_of_Black-Box_Models_CVPR_2019_paper.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Stealing Part of a Production Language Model",
+          "dcterms:publisher": "ICML 2024, PMLR vol. 235 (Carlini, Paleka, Dvijotham, Steinke, Hayase, Cooper, Lee, Jagielski, Nasr, Conmy, Wallace, Rolnick, Tramèr)",
+          "schema:url": "https://proceedings.mlr.press/v235/carlini24a.html",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/safety-alignment-and-security/model-extraction.md",
+      "skos:altLabel": [
+        "model stealing",
+        "model extraction attack",
+        "model stealing attack"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:adversarial-machine-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:data-poisoning"
+        },
+        {
+          "@id": "kt:adversarial-example"
+        },
+        {
+          "@id": "kt:membership-inference-attack"
+        },
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:knowledge-distillation"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:adversarial-example"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:stealing-machine-learning-models-via-prediction-apis"
+        }
+      ]
+    },
+    {
       "@id": "kt:prompt-injection",
       "@type": "kto:Risk",
       "skos:prefLabel": "Prompt injection",

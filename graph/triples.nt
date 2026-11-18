@@ -3691,6 +3691,29 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/model-context-protocol> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "agents-and-tool-use" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/model-context-protocol> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/language-server-protocol> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/model-context-protocol> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-extraction> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-extraction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Risk> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-extraction> <http://www.w3.org/2000/01/rdf-schema#label> "Model extraction" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-extraction> <http://www.w3.org/2004/02/skos/core#altLabel> "model extraction attack" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-extraction> <http://www.w3.org/2004/02/skos/core#altLabel> "model stealing attack" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-extraction> <http://www.w3.org/2004/02/skos/core#altLabel> "model stealing" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-extraction> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-extraction> <http://www.w3.org/2004/02/skos/core#definition> "A privacy attack in which an adversary with query access to a deployed machine learning model uses its outputs to learn the model's parameters or architecture, or to train a substitute that reproduces its behaviour." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-extraction> <http://www.w3.org/2004/02/skos/core#prefLabel> "Model extraction" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-extraction> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-example> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-extraction> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/data-poisoning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-extraction> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-extraction> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/membership-inference-attack> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-extraction> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-extraction/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-extraction> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-extraction/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-extraction> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-extraction/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-extraction> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-extraction/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-extraction> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-extraction/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-extraction> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-distillation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-extraction> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "safety-alignment-and-security" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-extraction> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/adversarial-example> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-extraction> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/stealing-machine-learning-models-via-prediction-apis> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/model-extraction> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/model-pruning> <http://www.w3.org/2000/01/rdf-schema#label> "Model pruning" .
@@ -9408,6 +9431,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "preprint" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-context-protocol/s5> <https://schema.org/url> "https://arxiv.org/html/2503.23278v3" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-extraction/s1> <http://purl.org/dc/terms/publisher> "NIST (Vassilev, Oprea, Fordyce, Anderson, Davies, Hamin), March 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-extraction/s1> <http://purl.org/dc/terms/title> "Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations (NIST AI 100-2 E2025)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-extraction/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-extraction/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-extraction/s1> <https://schema.org/url> "https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-2e2025.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-extraction/s2> <http://purl.org/dc/terms/publisher> "arXiv:1609.02943 (Tramèr, Zhang, Juels, Reiter, Ristenpart); USENIX Security 2016" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-extraction/s2> <http://purl.org/dc/terms/title> "Stealing Machine Learning Models via Prediction APIs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-extraction/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-extraction/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-extraction/s2> <https://schema.org/url> "https://arxiv.org/abs/1609.02943v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-extraction/s3> <http://purl.org/dc/terms/publisher> "USENIX Security 2020 (Jagielski, Carlini, Berthelot, Kurakin, Papernot)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-extraction/s3> <http://purl.org/dc/terms/title> "High Accuracy and High Fidelity Extraction of Neural Networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-extraction/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-extraction/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-extraction/s3> <https://schema.org/url> "https://www.usenix.org/conference/usenixsecurity20/presentation/jagielski" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-extraction/s4> <http://purl.org/dc/terms/publisher> "CVPR 2019 (Orekondy, Schiele, Fritz)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-extraction/s4> <http://purl.org/dc/terms/title> "Knockoff Nets: Stealing Functionality of Black-Box Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-extraction/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-extraction/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-extraction/s4> <https://schema.org/url> "https://openaccess.thecvf.com/content_CVPR_2019/html/Orekondy_Knockoff_Nets_Stealing_Functionality_of_Black-Box_Models_CVPR_2019_paper.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-extraction/s5> <http://purl.org/dc/terms/publisher> "ICML 2024, PMLR vol. 235 (Carlini, Paleka, Dvijotham, Steinke, Hayase, Cooper, Lee, Jagielski, Nasr, Conmy, Wallace, Rolnick, Tramèr)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-extraction/s5> <http://purl.org/dc/terms/title> "Stealing Part of a Production Language Model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-extraction/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-extraction/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/model-extraction/s5> <https://schema.org/url> "https://proceedings.mlr.press/v235/carlini24a.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 1989 (Advances in Neural Information Processing Systems 2; LeCun, Denker and Solla)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s1> <http://purl.org/dc/terms/title> "Optimal Brain Damage" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/model-pruning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
