@@ -15038,6 +15038,89 @@
       ]
     },
     {
+      "@id": "kt:decomposed-prompting",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Decomposed prompting",
+      "skos:definition": "A few-shot prompting technique in which a decomposer prompt writes a step-by-step program of sub-tasks and a controller routes each step to a dedicated handler (another prompt, a further decomposition, a trained model or a symbolic function such as retrieval), so complex tasks are solved by a library of simpler, separately tunable modules.",
+      "kto:domain": "prompting-and-reasoning",
+      "dcterms:created": "2026-11-18",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Decomposed Prompting: A Modular Approach for Solving Complex Tasks",
+          "dcterms:publisher": "arXiv 2210.02406 (Khot, Trivedi, Finlayson, Fu, Richardson, Clark, Sabharwal)",
+          "schema:url": "https://arxiv.org/pdf/2210.02406.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Decomposed Prompting: A Modular Approach for Solving Complex Tasks (ICLR 2023 poster)",
+          "dcterms:publisher": "ICLR 2023",
+          "schema:url": "https://iclr.cc/virtual/2023/poster/10871",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Prompt Report: A Systematic Survey of Prompting Techniques",
+          "dcterms:publisher": "arXiv 2406.06608v5 (Schulhoff, Ilie, Balepur, Kahadze, Liu, et al.)",
+          "schema:url": "https://arxiv.org/html/2406.06608v5",
+          "kto:sourceType": "preprint"
+        },
+        {
+          "dcterms:title": "allenai/DecomP: code, datasets and prompts for Decomposed Prompting",
+          "dcterms:publisher": "Allen Institute for AI (GitHub)",
+          "schema:url": "https://github.com/allenai/DecomP",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/prompting-and-reasoning/decomposed-prompting.md",
+      "skos:altLabel": [
+        "DecomP",
+        "DECOMP",
+        "modular prompting"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:prompt-engineering"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:least-to-most-prompting"
+        },
+        {
+          "@id": "kt:chain-of-thought"
+        },
+        {
+          "@id": "kt:tool-use"
+        },
+        {
+          "@id": "kt:retrieval-augmented-generation"
+        },
+        {
+          "@id": "kt:agentic-workflow"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:decomposed-prompting-a-modular-approach-for-solving-complex-tasks"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:allen-institute-for-ai"
+        }
+      ],
+      "kto:extends": [
+        {
+          "@id": "kt:few-shot-prompting"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:hotpotqa"
+        }
+      ]
+    },
+    {
       "@id": "kt:few-shot-prompting",
       "@type": "kto:Technique",
       "skos:prefLabel": "Few-shot prompting",

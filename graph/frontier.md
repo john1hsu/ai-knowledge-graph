@@ -24,6 +24,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
 | `kt:ai-ethics` | `kt:algorithmic-bias-and-fairness`, `kt:fairness-accountability-and-transparency` |
 | `kt:all-reduce` | `kt:data-parallelism`, `kt:distributed-training` |
+| `kt:allen-institute-for-ai` | `kt:commonsenseqa`, `kt:decomposed-prompting` |
 | `kt:alpha-beta-pruning` | `kt:deep-blue`, `kt:monte-carlo-tree-search` |
 | `kt:alphabet-inc` | `kt:google-deepmind`, `kt:google` |
 | `kt:apache-lucene` | `kt:bm25`, `kt:tf-idf` |
@@ -110,7 +111,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alfred-benchmark` | `kt:alfworld` |
 | `kt:alfworld-aligning-text-and-embodied-environments-for-interactive-learning` | `kt:alfworld` |
 | `kt:alibi` | `kt:positional-encoding` |
-| `kt:allen-institute-for-ai` | `kt:commonsenseqa` |
 | `kt:alphafold` | `kt:google-deepmind` |
 | `kt:animals-with-attributes` | `kt:zero-shot-learning` |
 | `kt:ann-benchmarks` | `kt:approximate-nearest-neighbor-search` |
@@ -185,7 +185,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:datasheets-for-datasets-paper` | `kt:datasheets-for-datasets` |
 | `kt:decision-tree` | `kt:ensemble-methods` |
 | `kt:decoding-strategy` | `kt:beam-search` |
-| `kt:decomposed-prompting` | `kt:least-to-most-prompting` |
+| `kt:decomposed-prompting-a-modular-approach-for-solving-complex-tasks` | `kt:decomposed-prompting` |
 | `kt:deep-residual-learning-for-image-recognition` | `kt:residual-connection` |
 | `kt:deep-thought-chess-computer` | `kt:deep-blue` |
 | `kt:deep-unsupervised-learning-using-nonequilibrium-thermodynamics` | `kt:diffusion-model` |

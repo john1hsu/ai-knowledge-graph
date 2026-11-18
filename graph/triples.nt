@@ -1873,6 +1873,30 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets> <https://github.com/john1hsu/ai-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/datasheets-for-datasets> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/decomposed-prompting> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/decomposed-prompting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/decomposed-prompting> <http://www.w3.org/2000/01/rdf-schema#label> "Decomposed prompting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/decomposed-prompting> <http://www.w3.org/2004/02/skos/core#altLabel> "DECOMP" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/decomposed-prompting> <http://www.w3.org/2004/02/skos/core#altLabel> "DecomP" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/decomposed-prompting> <http://www.w3.org/2004/02/skos/core#altLabel> "modular prompting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/decomposed-prompting> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/decomposed-prompting> <http://www.w3.org/2004/02/skos/core#definition> "A few-shot prompting technique in which a decomposer prompt writes a step-by-step program of sub-tasks and a controller routes each step to a dedicated handler (another prompt, a further decomposition, a trained model or a symbolic function such as retrieval), so complex tasks are solved by a library of simpler, separately tunable modules." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/decomposed-prompting> <http://www.w3.org/2004/02/skos/core#prefLabel> "Decomposed prompting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/decomposed-prompting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/agentic-workflow> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/decomposed-prompting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/decomposed-prompting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/least-to-most-prompting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/decomposed-prompting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/decomposed-prompting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/decomposed-prompting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/decomposed-prompting/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/decomposed-prompting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/decomposed-prompting/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/decomposed-prompting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/decomposed-prompting/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/decomposed-prompting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/decomposed-prompting/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/decomposed-prompting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/allen-institute-for-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/decomposed-prompting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "prompting-and-reasoning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/decomposed-prompting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/hotpotqa> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/decomposed-prompting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#extends> <https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/decomposed-prompting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/decomposed-prompting-a-modular-approach-for-solving-complex-tasks> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/decomposed-prompting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <http://purl.org/dc/terms/created> "2026-11-15" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Model> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/deep-blue> <http://www.w3.org/2000/01/rdf-schema#label> "Deep Blue" .
@@ -7774,6 +7798,26 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/datasheets-for-datasets/s6> <https://schema.org/url> "https://arxiv.org/html/2401.13822v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/decomposed-prompting/s1> <http://purl.org/dc/terms/publisher> "arXiv 2210.02406 (Khot, Trivedi, Finlayson, Fu, Richardson, Clark, Sabharwal)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/decomposed-prompting/s1> <http://purl.org/dc/terms/title> "Decomposed Prompting: A Modular Approach for Solving Complex Tasks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/decomposed-prompting/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/decomposed-prompting/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/decomposed-prompting/s1> <https://schema.org/url> "https://arxiv.org/pdf/2210.02406.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/decomposed-prompting/s2> <http://purl.org/dc/terms/publisher> "ICLR 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/decomposed-prompting/s2> <http://purl.org/dc/terms/title> "Decomposed Prompting: A Modular Approach for Solving Complex Tasks (ICLR 2023 poster)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/decomposed-prompting/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/decomposed-prompting/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/decomposed-prompting/s2> <https://schema.org/url> "https://iclr.cc/virtual/2023/poster/10871" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/decomposed-prompting/s3> <http://purl.org/dc/terms/publisher> "arXiv 2406.06608v5 (Schulhoff, Ilie, Balepur, Kahadze, Liu, et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/decomposed-prompting/s3> <http://purl.org/dc/terms/title> "The Prompt Report: A Systematic Survey of Prompting Techniques" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/decomposed-prompting/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/decomposed-prompting/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "preprint" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/decomposed-prompting/s3> <https://schema.org/url> "https://arxiv.org/html/2406.06608v5" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/decomposed-prompting/s4> <http://purl.org/dc/terms/publisher> "Allen Institute for AI (GitHub)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/decomposed-prompting/s4> <http://purl.org/dc/terms/title> "allenai/DecomP: code, datasets and prompts for Decomposed Prompting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/decomposed-prompting/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/decomposed-prompting/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/decomposed-prompting/s4> <https://schema.org/url> "https://github.com/allenai/DecomP" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s1> <http://purl.org/dc/terms/publisher> "M. Campbell, A. J. Hoane Jr. and F.-h. Hsu; copy hosted by Northern Arizona University course readings" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s1> <http://purl.org/dc/terms/title> "Deep Blue (authors' manuscript of Artificial Intelligence 134(1–2):57–83, 2002)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-blue/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

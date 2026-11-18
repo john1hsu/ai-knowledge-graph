@@ -1577,6 +1577,26 @@
     ]
   },
   {
+    "id": "kt:decomposed-prompting",
+    "title": "Decomposed prompting",
+    "aliases": [
+      "DecomP",
+      "DECOMP",
+      "modular prompting"
+    ],
+    "type": "Technique",
+    "domain": "prompting-and-reasoning",
+    "file": "articles/prompting-and-reasoning/decomposed-prompting.md",
+    "created": "2026-11-18",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/pdf/2210.02406.pdf",
+      "https://iclr.cc/virtual/2023/poster/10871",
+      "https://arxiv.org/html/2406.06608v5",
+      "https://github.com/allenai/DecomP"
+    ]
+  },
+  {
     "id": "kt:deep-blue",
     "title": "Deep Blue",
     "aliases": [
