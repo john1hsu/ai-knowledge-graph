@@ -23081,6 +23081,114 @@
       ]
     },
     {
+      "@id": "kt:foundation-model",
+      "@type": "kto:Paradigm",
+      "skos:prefLabel": "Foundation model",
+      "skos:definition": "A model trained on broad data, generally with self-supervision at scale, that can be adapted to a wide range of downstream tasks; the term was coined by Stanford researchers in 2021 and its regulatory counterpart in the EU is the \"general-purpose AI model\".",
+      "kto:domain": "transformers-and-llms",
+      "dcterms:created": "2026-11-18",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "On the Opportunities and Risks of Foundation Models",
+          "dcterms:publisher": "arXiv:2108.07258 (Bommasani et al., Stanford CRFM)",
+          "schema:url": "https://arxiv.org/abs/2108.07258",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "On the Opportunities and Risks of Foundation Models (report page)",
+          "dcterms:publisher": "Stanford Center for Research on Foundation Models",
+          "schema:url": "https://crfm.stanford.edu/report.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Dual-use foundation model (glossary entry, from NIST SP 800-218A)",
+          "dcterms:publisher": "NIST Computer Security Resource Center",
+          "schema:url": "https://csrc.nist.gov/glossary/term/dual_use_foundation_model",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "AI Act, Article 3: Definitions",
+          "dcterms:publisher": "European Commission AI Act Service Desk",
+          "schema:url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-3",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "AI Act, Article 51: Classification of general-purpose AI models as models with systemic risk",
+          "dcterms:publisher": "European Commission AI Act Service Desk",
+          "schema:url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-51",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "The Foundation Model Transparency Index (December 2025)",
+          "dcterms:publisher": "Stanford CRFM / HAI",
+          "schema:url": "https://crfm.stanford.edu/fmti/December-2025",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/transformers-and-llms/foundation-model.md",
+      "skos:altLabel": [
+        "foundation models",
+        "base model paradigm"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:deep-learning"
+        },
+        {
+          "@id": "kt:transfer-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:large-language-model"
+        },
+        {
+          "@id": "kt:bert"
+        },
+        {
+          "@id": "kt:clip"
+        },
+        {
+          "@id": "kt:emergent-abilities"
+        },
+        {
+          "@id": "kt:fine-tuning"
+        },
+        {
+          "@id": "kt:in-context-learning"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:on-the-opportunities-and-risks-of-foundation-models"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:stanford-crfm"
+        }
+      ],
+      "kto:trainedWith": [
+        {
+          "@id": "kt:self-supervised-learning"
+        },
+        {
+          "@id": "kt:pretraining"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:eu-ai-act"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:scaling-laws"
+        }
+      ]
+    },
+    {
       "@id": "kt:in-context-learning",
       "@type": "kto:Concept",
       "skos:prefLabel": "In-context learning",

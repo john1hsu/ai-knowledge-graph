@@ -12,7 +12,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:application-specific-integrated-circuit` | `kt:deep-blue`, `kt:ai-accelerator`, `kt:tpu` |
 | `kt:automated-planning` | `kt:planning-in-llms`, `kt:general-problem-solver`, `kt:knowledge-representation` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
-| `kt:foundation-model` | `kt:self-supervised-learning`, `kt:transfer-learning`, `kt:large-language-model` |
 | `kt:herbert-a-simon` | `kt:allen-newell`, `kt:general-problem-solver`, `kt:logic-theorist` |
 | `kt:loss-function` | `kt:gradient-descent`, `kt:stochastic-gradient-descent`, `kt:supervised-learning` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
@@ -382,6 +381,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:olaf-ronneberger` | `kt:u-net` |
 | `kt:on-line-q-learning-using-connectionist-systems` | `kt:sarsa` |
 | `kt:on-the-likelihood-that-one-unknown-probability-exceeds-another` | `kt:thompson-sampling` |
+| `kt:on-the-opportunities-and-risks-of-foundation-models` | `kt:foundation-model` |
 | `kt:optimal-brain-compression` | `kt:gptq` |
 | `kt:optimal-brain-damage` | `kt:model-pruning` |
 | `kt:orca-a-distributed-serving-system-for-transformer-based-generative-models` | `kt:orca-serving-system` |
@@ -460,6 +460,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:softmax-regression` | `kt:image-classification` |
 | `kt:sparse-transformer` | `kt:language-models-are-few-shot-learners` |
 | `kt:speech-processing` | `kt:automatic-speech-recognition` |
+| `kt:stanford-crfm` | `kt:foundation-model` |
 | `kt:stanford-nlp-group` | `kt:glove` |
 | `kt:star-bootstrapping-reasoning-with-reasoning` | `kt:star-self-taught-reasoner` |
 | `kt:statistical-machine-translation` | `kt:machine-translation` |

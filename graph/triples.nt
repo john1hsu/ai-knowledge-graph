@@ -2447,6 +2447,35 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/foundation-model> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/foundation-model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Paradigm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/foundation-model> <http://www.w3.org/2000/01/rdf-schema#label> "Foundation model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/foundation-model> <http://www.w3.org/2004/02/skos/core#altLabel> "base model paradigm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/foundation-model> <http://www.w3.org/2004/02/skos/core#altLabel> "foundation models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/foundation-model> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/foundation-model> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/transfer-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/foundation-model> <http://www.w3.org/2004/02/skos/core#definition> "A model trained on broad data, generally with self-supervision at scale, that can be adapted to a wide range of downstream tasks; the term was coined by Stanford researchers in 2021 and its regulatory counterpart in the EU is the \"general-purpose AI model\"." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/foundation-model> <http://www.w3.org/2004/02/skos/core#prefLabel> "Foundation model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/foundation-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/bert> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/foundation-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/clip> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/foundation-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/foundation-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/foundation-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/foundation-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/foundation-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/foundation-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/foundation-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/foundation-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/foundation-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/foundation-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/foundation-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/stanford-crfm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/foundation-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/foundation-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "transformers-and-llms" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/foundation-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/on-the-opportunities-and-risks-of-foundation-models> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/foundation-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/foundation-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/eu-ai-act> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/foundation-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/pretraining> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/foundation-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/self-supervised-learning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/general-problem-solver> <http://purl.org/dc/terms/created> "2026-11-17" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/general-problem-solver> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Model> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/general-problem-solver> <http://www.w3.org/2000/01/rdf-schema#label> "General Problem Solver" .
@@ -8296,6 +8325,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/flash-attention/s6> <https://schema.org/url> "https://huggingface.co/docs/transformers/main/en/attention_interface" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s1> <http://purl.org/dc/terms/publisher> "arXiv:2108.07258 (Bommasani et al., Stanford CRFM)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s1> <http://purl.org/dc/terms/title> "On the Opportunities and Risks of Foundation Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s1> <https://schema.org/url> "https://arxiv.org/abs/2108.07258" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s2> <http://purl.org/dc/terms/publisher> "Stanford Center for Research on Foundation Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s2> <http://purl.org/dc/terms/title> "On the Opportunities and Risks of Foundation Models (report page)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s2> <https://schema.org/url> "https://crfm.stanford.edu/report.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s3> <http://purl.org/dc/terms/publisher> "NIST Computer Security Resource Center" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s3> <http://purl.org/dc/terms/title> "Dual-use foundation model (glossary entry, from NIST SP 800-218A)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s3> <https://schema.org/url> "https://csrc.nist.gov/glossary/term/dual_use_foundation_model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s4> <http://purl.org/dc/terms/publisher> "European Commission AI Act Service Desk" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s4> <http://purl.org/dc/terms/title> "AI Act, Article 3: Definitions" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s4> <https://schema.org/url> "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-3" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s5> <http://purl.org/dc/terms/publisher> "European Commission AI Act Service Desk" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s5> <http://purl.org/dc/terms/title> "AI Act, Article 51: Classification of general-purpose AI models as models with systemic risk" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s5> <https://schema.org/url> "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-51" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s6> <http://purl.org/dc/terms/publisher> "Stanford CRFM / HAI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s6> <http://purl.org/dc/terms/title> "The Foundation Model Transparency Index (December 2025)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/foundation-model/s6> <https://schema.org/url> "https://crfm.stanford.edu/fmti/December-2025" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/general-problem-solver/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/general-problem-solver/s1> <http://purl.org/dc/terms/title> "General Problem Solver" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/general-problem-solver/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

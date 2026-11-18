@@ -2062,6 +2062,27 @@
     ]
   },
   {
+    "id": "kt:foundation-model",
+    "title": "Foundation model",
+    "aliases": [
+      "foundation models",
+      "base model paradigm"
+    ],
+    "type": "Paradigm",
+    "domain": "transformers-and-llms",
+    "file": "articles/transformers-and-llms/foundation-model.md",
+    "created": "2026-11-18",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/abs/2108.07258",
+      "https://crfm.stanford.edu/report.html",
+      "https://csrc.nist.gov/glossary/term/dual_use_foundation_model",
+      "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-3",
+      "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-51",
+      "https://crfm.stanford.edu/fmti/December-2025"
+    ]
+  },
+  {
     "id": "kt:general-problem-solver",
     "title": "General Problem Solver",
     "aliases": [
