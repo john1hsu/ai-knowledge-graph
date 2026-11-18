@@ -49,7 +49,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
 | `kt:grouped-query-attention` | `kt:multi-query-attention`, `kt:kv-cache` |
 | `kt:highway-network` | `kt:residual-connection`, `kt:residual-connection` |
-| `kt:hotpotqa` | `kt:react-prompting`, `kt:reflexion` |
 | `kt:hugging-face` | `kt:hugging-face-transformers`, `kt:hugging-face-trl` |
 | `kt:hugging-face-diffusers` | `kt:diffusion-model`, `kt:latent-diffusion-model` |
 | `kt:hugging-face-hub` | `kt:datasheets-for-datasets`, `kt:model-cards` |
@@ -164,6 +163,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:commonsenseqa-2-0` | `kt:commonsenseqa` |
 | `kt:commonsenseqa-a-question-answering-challenge-targeting-commonsense-knowledge` | `kt:commonsenseqa` |
 | `kt:compositional-generalization` | `kt:least-to-most-prompting` |
+| `kt:compositional-questions-do-not-necessitate-multi-hop-reasoning` | `kt:hotpotqa` |
 | `kt:computer-architecture` | `kt:ai-hardware` |
 | `kt:computer-graphics` | `kt:computer-vision` |
 | `kt:computer-science` | `kt:artificial-intelligence` |
@@ -265,6 +265,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:harold-hotelling` | `kt:principal-component-analysis` |
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
 | `kt:high-resolution-image-synthesis-with-latent-diffusion-models` | `kt:latent-diffusion-model` |
+| `kt:hotpotqa-a-dataset-for-diverse-explainable-multi-hop-question-answering` | `kt:hotpotqa` |
 | `kt:humanevalfix` | `kt:swe-agent` |
 | `kt:ian-goodfellow` | `kt:generative-adversarial-network` |
 | `kt:ibm-research` | `kt:deep-blue` |
@@ -410,6 +411,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:proximal-policy-optimization-algorithms` | `kt:proximal-policy-optimization` |
 | `kt:pytorch-an-imperative-style-high-performance-deep-learning-library` | `kt:pytorch` |
 | `kt:qlora-efficient-finetuning-of-quantized-llms` | `kt:qlora` |
+| `kt:question-answering` | `kt:hotpotqa` |
 | `kt:quiet-star` | `kt:star-self-taught-reasoner` |
 | `kt:random-forest` | `kt:ensemble-methods` |
 | `kt:realm` | `kt:retrieval-augmented-generation` |

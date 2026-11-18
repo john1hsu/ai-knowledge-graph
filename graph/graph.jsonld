@@ -8938,6 +8938,96 @@
       ]
     },
     {
+      "@id": "kt:hotpotqa",
+      "@type": "kto:Benchmark",
+      "skos:prefLabel": "HotpotQA",
+      "skos:definition": "A multi-hop question answering benchmark of about 113,000 crowd-written, Wikipedia-based questions, introduced at EMNLP 2018, in which answering requires combining evidence from two paragraphs and systems are also scored on identifying the sentence-level supporting facts behind each answer.",
+      "kto:domain": "evaluation-and-benchmarks",
+      "dcterms:created": "2026-11-18",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering",
+          "dcterms:publisher": "Yang, Qi, Zhang, Bengio, Cohen, Salakhutdinov and Manning (CMU, Stanford, Mila, Google AI), arXiv 1809.09600",
+          "schema:url": "https://arxiv.org/pdf/1809.09600",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering (anthology record)",
+          "dcterms:publisher": "EMNLP 2018, pp. 2369-2380, Association for Computational Linguistics, DOI 10.18653/v1/D18-1259",
+          "schema:url": "https://aclanthology.org/D18-1259/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Compositional Questions Do Not Necessitate Multi-hop Reasoning",
+          "dcterms:publisher": "ACL 2019, pp. 4249-4257 (Min, Wallace, Singh, Gardner, Hajishirzi and Zettlemoyer), DOI 10.18653/v1/P19-1416",
+          "schema:url": "https://aclanthology.org/P19-1416/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "dcterms:publisher": "ICLR 2023 (Yao, Zhao, Yu, Du, Shafran, Narasimhan and Cao)",
+          "schema:url": "https://iclr.cc/virtual/2023/poster/11003",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "hotpot_qa dataset card",
+          "dcterms:publisher": "Hugging Face Datasets",
+          "schema:url": "https://huggingface.co/datasets/hotpot_qa?row=16",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/evaluation-and-benchmarks/hotpotqa.md",
+      "skos:altLabel": [
+        "Hotpot QA",
+        "HotpotQA dataset",
+        "hotpot_qa"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-evaluation"
+        },
+        {
+          "@id": "kt:question-answering"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:compositional-questions-do-not-necessitate-multi-hop-reasoning"
+        },
+        {
+          "@id": "kt:react-prompting"
+        },
+        {
+          "@id": "kt:reflexion"
+        },
+        {
+          "@id": "kt:retrieval-augmented-generation"
+        },
+        {
+          "@id": "kt:information-retrieval"
+        },
+        {
+          "@id": "kt:benchmark-contamination"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:hotpotqa-a-dataset-for-diverse-explainable-multi-hop-question-answering"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:tf-idf"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:natural-language-processing"
+        }
+      ]
+    },
+    {
       "@id": "kt:human-evaluation",
       "@type": "kto:Technique",
       "skos:prefLabel": "Human evaluation",

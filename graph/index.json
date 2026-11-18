@@ -2421,6 +2421,27 @@
     ]
   },
   {
+    "id": "kt:hotpotqa",
+    "title": "HotpotQA",
+    "aliases": [
+      "Hotpot QA",
+      "HotpotQA dataset",
+      "hotpot_qa"
+    ],
+    "type": "Benchmark",
+    "domain": "evaluation-and-benchmarks",
+    "file": "articles/evaluation-and-benchmarks/hotpotqa.md",
+    "created": "2026-11-18",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/pdf/1809.09600",
+      "https://aclanthology.org/D18-1259/",
+      "https://aclanthology.org/P19-1416/",
+      "https://iclr.cc/virtual/2023/poster/11003",
+      "https://huggingface.co/datasets/hotpot_qa?row=16"
+    ]
+  },
+  {
     "id": "kt:hugging-face-transformers",
     "title": "Hugging Face Transformers",
     "aliases": [

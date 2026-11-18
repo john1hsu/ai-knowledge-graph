@@ -2866,6 +2866,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> <https://github.com/john1hsu/ai-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/ai-knowledge-graph/id/memory-wall> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/high-bandwidth-memory> <https://github.com/john1hsu/ai-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-accelerator> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hotpotqa> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hotpotqa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Benchmark> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hotpotqa> <http://www.w3.org/2000/01/rdf-schema#label> "HotpotQA" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hotpotqa> <http://www.w3.org/2004/02/skos/core#altLabel> "Hotpot QA" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hotpotqa> <http://www.w3.org/2004/02/skos/core#altLabel> "HotpotQA dataset" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hotpotqa> <http://www.w3.org/2004/02/skos/core#altLabel> "hotpot_qa" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hotpotqa> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hotpotqa> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/question-answering> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hotpotqa> <http://www.w3.org/2004/02/skos/core#definition> "A multi-hop question answering benchmark of about 113,000 crowd-written, Wikipedia-based questions, introduced at EMNLP 2018, in which answering requires combining evidence from two paragraphs and systems are also scored on identifying the sentence-level supporting facts behind each answer." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hotpotqa> <http://www.w3.org/2004/02/skos/core#prefLabel> "HotpotQA" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hotpotqa> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hotpotqa> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/compositional-questions-do-not-necessitate-multi-hop-reasoning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hotpotqa> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hotpotqa> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/react-prompting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hotpotqa> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/reflexion> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hotpotqa> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hotpotqa> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/hotpotqa/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hotpotqa> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/hotpotqa/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hotpotqa> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/hotpotqa/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hotpotqa> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/hotpotqa/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hotpotqa> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/hotpotqa/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hotpotqa> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hotpotqa> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "evaluation-and-benchmarks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hotpotqa> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hotpotqa-a-dataset-for-diverse-explainable-multi-hop-question-answering> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hotpotqa> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/hotpotqa> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/natural-language-processing> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Tool> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-transformers> <http://www.w3.org/2000/01/rdf-schema#label> "Hugging Face Transformers" .
@@ -8705,6 +8731,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/high-bandwidth-memory/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/high-bandwidth-memory/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/high-bandwidth-memory/s5> <https://schema.org/url> "https://arxiv.org/abs/2403.14123" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hotpotqa/s1> <http://purl.org/dc/terms/publisher> "Yang, Qi, Zhang, Bengio, Cohen, Salakhutdinov and Manning (CMU, Stanford, Mila, Google AI), arXiv 1809.09600" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hotpotqa/s1> <http://purl.org/dc/terms/title> "HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hotpotqa/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hotpotqa/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hotpotqa/s1> <https://schema.org/url> "https://arxiv.org/pdf/1809.09600" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hotpotqa/s2> <http://purl.org/dc/terms/publisher> "EMNLP 2018, pp. 2369-2380, Association for Computational Linguistics, DOI 10.18653/v1/D18-1259" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hotpotqa/s2> <http://purl.org/dc/terms/title> "HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering (anthology record)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hotpotqa/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hotpotqa/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hotpotqa/s2> <https://schema.org/url> "https://aclanthology.org/D18-1259/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hotpotqa/s3> <http://purl.org/dc/terms/publisher> "ACL 2019, pp. 4249-4257 (Min, Wallace, Singh, Gardner, Hajishirzi and Zettlemoyer), DOI 10.18653/v1/P19-1416" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hotpotqa/s3> <http://purl.org/dc/terms/title> "Compositional Questions Do Not Necessitate Multi-hop Reasoning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hotpotqa/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hotpotqa/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hotpotqa/s3> <https://schema.org/url> "https://aclanthology.org/P19-1416/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hotpotqa/s4> <http://purl.org/dc/terms/publisher> "ICLR 2023 (Yao, Zhao, Yu, Du, Shafran, Narasimhan and Cao)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hotpotqa/s4> <http://purl.org/dc/terms/title> "ReAct: Synergizing Reasoning and Acting in Language Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hotpotqa/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hotpotqa/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hotpotqa/s4> <https://schema.org/url> "https://iclr.cc/virtual/2023/poster/11003" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hotpotqa/s5> <http://purl.org/dc/terms/publisher> "Hugging Face Datasets" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hotpotqa/s5> <http://purl.org/dc/terms/title> "hotpot_qa dataset card" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hotpotqa/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hotpotqa/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/hotpotqa/s5> <https://schema.org/url> "https://huggingface.co/datasets/hotpot_qa?row=16" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s1> <http://purl.org/dc/terms/publisher> "Proceedings of EMNLP 2020, System Demonstrations, pp. 38–45 (Wolf et al., Hugging Face)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s1> <http://purl.org/dc/terms/title> "Transformers: State-of-the-Art Natural Language Processing" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hugging-face-transformers/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
