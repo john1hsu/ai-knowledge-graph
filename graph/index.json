@@ -4901,6 +4901,27 @@
     ]
   },
   {
+    "id": "kt:thompson-sampling",
+    "title": "Thompson sampling",
+    "aliases": [
+      "posterior sampling",
+      "probability matching",
+      "Bayesian bandit sampling"
+    ],
+    "type": "Algorithm",
+    "domain": "reinforcement-learning",
+    "file": "articles/reinforcement-learning/thompson-sampling.md",
+    "created": "2026-11-18",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://arxiv.org/pdf/1707.02038",
+      "https://papers.nips.cc/paper/2011/hash/e53a0a2978c28872a4505bdb51db06dc-Abstract.html",
+      "https://proceedings.mlr.press/v23/agrawal12.html",
+      "https://scilit.com/publications/3b2c486513e80dfc7acce5004b46ba1e",
+      "https://assets.cambridge.org/97811084/86828/toc/9781108486828_toc.pdf"
+    ]
+  },
+  {
     "id": "kt:tool-use",
     "title": "Tool use",
     "aliases": [

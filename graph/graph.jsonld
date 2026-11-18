@@ -16786,6 +16786,93 @@
       ]
     },
     {
+      "@id": "kt:thompson-sampling",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "Thompson sampling",
+      "skos:definition": "A Bayesian strategy for the exploration-exploitation trade-off in which the learner draws one sample from its posterior over each action's value and plays the action whose sample is best, so each action is chosen with the posterior probability that it is optimal.",
+      "kto:domain": "reinforcement-learning",
+      "dcterms:created": "2026-11-18",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "A Tutorial on Thompson Sampling",
+          "dcterms:publisher": "Foundations and Trends in Machine Learning 11(1):1-96, 2018 (Russo, Van Roy, Kazerouni, Osband and Wen), authors' arXiv version 1707.02038v3",
+          "schema:url": "https://arxiv.org/pdf/1707.02038",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "An Empirical Evaluation of Thompson Sampling",
+          "dcterms:publisher": "Advances in Neural Information Processing Systems 24 (NIPS 2011), Chapelle and Li",
+          "schema:url": "https://papers.nips.cc/paper/2011/hash/e53a0a2978c28872a4505bdb51db06dc-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Analysis of Thompson Sampling for the Multi-armed Bandit Problem",
+          "dcterms:publisher": "Proceedings of the 25th Conference on Learning Theory (COLT 2012), PMLR 23:39.1-39.26 (Agrawal and Goyal)",
+          "schema:url": "https://proceedings.mlr.press/v23/agrawal12.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "On the Likelihood that One Unknown Probability Exceeds Another in View of the Evidence of Two Samples",
+          "dcterms:publisher": "Biometrika 25(3/4):285-294, 1933 (W. R. Thompson), bibliographic record via Scilit, DOI 10.2307/2332286",
+          "schema:url": "https://scilit.com/publications/3b2c486513e80dfc7acce5004b46ba1e",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Bandit Algorithms, table of contents (ch. 36 Thompson Sampling)",
+          "dcterms:publisher": "Cambridge University Press, 2020 (Lattimore and Szepesvári)",
+          "schema:url": "https://assets.cambridge.org/97811084/86828/toc/9781108486828_toc.pdf",
+          "kto:sourceType": "textbook"
+        }
+      ],
+      "kto:file": "articles/reinforcement-learning/thompson-sampling.md",
+      "skos:altLabel": [
+        "posterior sampling",
+        "probability matching",
+        "Bayesian bandit sampling"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:multi-armed-bandit"
+        },
+        {
+          "@id": "kt:exploration-exploitation"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:contextual-bandit"
+        },
+        {
+          "@id": "kt:recommender-system"
+        },
+        {
+          "@id": "kt:bayesian-inference"
+        },
+        {
+          "@id": "kt:reinforcement-learning"
+        },
+        {
+          "@id": "kt:information-directed-sampling"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:on-the-likelihood-that-one-unknown-probability-exceeds-another"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:william-r-thompson"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:upper-confidence-bound"
+        }
+      ]
+    },
+    {
       "@id": "kt:upper-confidence-bound",
       "@type": "kto:Algorithm",
       "skos:prefLabel": "Upper confidence bound",

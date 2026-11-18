@@ -11544,6 +11544,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s6> <https://schema.org/url> "https://lucene.apache.org/core/api/core/org/apache/lucene/search/similarities/TFIDFSimilarity.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/thompson-sampling/s1> <http://purl.org/dc/terms/publisher> "Foundations and Trends in Machine Learning 11(1):1-96, 2018 (Russo, Van Roy, Kazerouni, Osband and Wen), authors' arXiv version 1707.02038v3" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/thompson-sampling/s1> <http://purl.org/dc/terms/title> "A Tutorial on Thompson Sampling" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/thompson-sampling/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/thompson-sampling/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/thompson-sampling/s1> <https://schema.org/url> "https://arxiv.org/pdf/1707.02038" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/thompson-sampling/s2> <http://purl.org/dc/terms/publisher> "Advances in Neural Information Processing Systems 24 (NIPS 2011), Chapelle and Li" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/thompson-sampling/s2> <http://purl.org/dc/terms/title> "An Empirical Evaluation of Thompson Sampling" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/thompson-sampling/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/thompson-sampling/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/thompson-sampling/s2> <https://schema.org/url> "https://papers.nips.cc/paper/2011/hash/e53a0a2978c28872a4505bdb51db06dc-Abstract.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/thompson-sampling/s3> <http://purl.org/dc/terms/publisher> "Proceedings of the 25th Conference on Learning Theory (COLT 2012), PMLR 23:39.1-39.26 (Agrawal and Goyal)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/thompson-sampling/s3> <http://purl.org/dc/terms/title> "Analysis of Thompson Sampling for the Multi-armed Bandit Problem" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/thompson-sampling/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/thompson-sampling/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/thompson-sampling/s3> <https://schema.org/url> "https://proceedings.mlr.press/v23/agrawal12.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/thompson-sampling/s4> <http://purl.org/dc/terms/publisher> "Biometrika 25(3/4):285-294, 1933 (W. R. Thompson), bibliographic record via Scilit, DOI 10.2307/2332286" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/thompson-sampling/s4> <http://purl.org/dc/terms/title> "On the Likelihood that One Unknown Probability Exceeds Another in View of the Evidence of Two Samples" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/thompson-sampling/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/thompson-sampling/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/thompson-sampling/s4> <https://schema.org/url> "https://scilit.com/publications/3b2c486513e80dfc7acce5004b46ba1e" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/thompson-sampling/s5> <http://purl.org/dc/terms/publisher> "Cambridge University Press, 2020 (Lattimore and Szepesvári)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/thompson-sampling/s5> <http://purl.org/dc/terms/title> "Bandit Algorithms, table of contents (ch. 36 Thompson Sampling)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/thompson-sampling/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/thompson-sampling/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/thompson-sampling/s5> <https://schema.org/url> "https://assets.cambridge.org/97811084/86828/toc/9781108486828_toc.pdf" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/tool-use/s1> <http://purl.org/dc/terms/publisher> "arXiv 2205.00445 (Karpas et al., AI21 Labs; authors' version)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/tool-use/s1> <http://purl.org/dc/terms/title> "MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/tool-use/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -12612,6 +12637,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#supersededBy> <https://github.com/john1hsu/ai-knowledge-graph/id/bm25> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/vector-space-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/thompson-sampling> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/thompson-sampling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/thompson-sampling> <http://www.w3.org/2000/01/rdf-schema#label> "Thompson sampling" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/thompson-sampling> <http://www.w3.org/2004/02/skos/core#altLabel> "Bayesian bandit sampling" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/thompson-sampling> <http://www.w3.org/2004/02/skos/core#altLabel> "posterior sampling" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/thompson-sampling> <http://www.w3.org/2004/02/skos/core#altLabel> "probability matching" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/thompson-sampling> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/thompson-sampling> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/multi-armed-bandit> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/thompson-sampling> <http://www.w3.org/2004/02/skos/core#definition> "A Bayesian strategy for the exploration-exploitation trade-off in which the learner draws one sample from its posterior over each action's value and plays the action whose sample is best, so each action is chosen with the posterior probability that it is optimal." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/thompson-sampling> <http://www.w3.org/2004/02/skos/core#prefLabel> "Thompson sampling" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/thompson-sampling> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/bayesian-inference> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/thompson-sampling> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/contextual-bandit> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/thompson-sampling> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/information-directed-sampling> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/thompson-sampling> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/recommender-system> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/thompson-sampling> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/thompson-sampling> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/thompson-sampling/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/thompson-sampling> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/thompson-sampling/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/thompson-sampling> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/thompson-sampling/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/thompson-sampling> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/thompson-sampling/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/thompson-sampling> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/thompson-sampling/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/thompson-sampling> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/upper-confidence-bound> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/thompson-sampling> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/william-r-thompson> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/thompson-sampling> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "reinforcement-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/thompson-sampling> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/on-the-likelihood-that-one-unknown-probability-exceeds-another> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/thompson-sampling> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> <http://www.w3.org/2000/01/rdf-schema#label> "Tool use" .
