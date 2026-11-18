@@ -12238,6 +12238,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/yolo/s5> <https://schema.org/url> "https://docs.ultralytics.com/models/yolo26/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s1> <http://purl.org/dc/terms/publisher> "NIPS 2009, Advances in Neural Information Processing Systems 22 (Palatucci, Pomerleau, Hinton and Mitchell)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s1> <http://purl.org/dc/terms/title> "Zero-shot Learning with Semantic Output Codes" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s1> <https://schema.org/url> "https://proceedings.neurips.cc/paper_files/paper/2009/file/1543843a4723ed2ab08e18053ae6dc5b-Paper.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s2> <http://purl.org/dc/terms/publisher> "CVPR 2009, pp. 951–958, doi:10.1109/CVPR.2009.5206594 (Lampert, Nickisch and Harmeling); ISTA Research Explorer record" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s2> <http://purl.org/dc/terms/title> "Learning to detect unseen object classes by between-class attribute transfer" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s2> <https://schema.org/url> "https://research-explorer.ista.ac.at/record/3704" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s3> <http://purl.org/dc/terms/publisher> "NeurIPS 2013, Advances in Neural Information Processing Systems 26 (Socher, Ganjoo, Manning and Ng)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s3> <http://purl.org/dc/terms/title> "Zero-Shot Learning Through Cross-Modal Transfer" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s3> <https://schema.org/url> "https://proceedings.neurips.cc/paper_files/paper/2013/file/2d6cc4b2d139a53512fb8cbb3086ae2e-Paper.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s4> <http://purl.org/dc/terms/publisher> "CVPR 2017, pp. 4582–4591 (Xian, Schiele and Akata), CVF Open Access" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s4> <http://purl.org/dc/terms/title> "Zero-Shot Learning - The Good, the Bad and the Ugly" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s4> <https://schema.org/url> "https://openaccess.thecvf.com/content_cvpr_2017/html/Xian_Zero-Shot_Learning_-_CVPR_2017_paper.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s5> <http://purl.org/dc/terms/publisher> "Max Planck Institute for Informatics, Computer Vision and Machine Learning department" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s5> <http://purl.org/dc/terms/title> "Zero-Shot Learning - A Comprehensive Evaluation of the Good, the Bad and the Ugly (benchmark page)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s5> <https://schema.org/url> "https://mpi-inf.mpg.de/zsl-benchmark" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s6> <http://purl.org/dc/terms/publisher> "ICML 2021, PMLR 139:8748–8763 (Radford et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s6> <http://purl.org/dc/terms/title> "Learning Transferable Visual Models From Natural Language Supervision" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s6> <https://schema.org/url> "https://proceedings.mlr.press/v139/radford21a.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-prompting/s1> <http://purl.org/dc/terms/publisher> "arXiv 2005.14165 via ar5iv (Brown, Mann, Ryder, Subbiah, Kaplan, Dhariwal, et al.; NeurIPS 2020)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-prompting/s1> <http://purl.org/dc/terms/title> "Language Models are Few-Shot Learners" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-prompting/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -13316,6 +13346,35 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/you-only-look-once-unified-real-time-object-detection> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/yolo> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/autonomous-driving> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-learning> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-learning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Paradigm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-learning> <http://www.w3.org/2000/01/rdf-schema#label> "Zero-shot learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "ZSL" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "generalized zero-shot learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "zero-data learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-learning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-learning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/transfer-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-learning> <http://www.w3.org/2004/02/skos/core#definition> "A learning setting in which a model must recognise classes (or perform tasks) for which it saw no labelled training examples, by mapping inputs into an auxiliary semantic space, such as attributes, word vectors or natural-language descriptions, that also describes the unseen classes." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-learning> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zero-shot learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-prompting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/zero-shot-learning/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/representation-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "training-and-adaptation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/animals-with-attributes> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/attribute-based-classification> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-learning-with-semantic-output-codes> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/clip> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-prompting> <http://purl.org/dc/terms/created> "2026-11-16" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-prompting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/zero-shot-prompting> <http://www.w3.org/2000/01/rdf-schema#label> "Zero-shot prompting" .

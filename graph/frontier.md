@@ -9,7 +9,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ai-hardware` | `kt:ai-accelerator`, `kt:gpu-computing`, `kt:high-bandwidth-memory`, `kt:nvidia` |
 | `kt:microsoft-research` | `kt:alfworld`, `kt:autogen`, `kt:residual-connection`, `kt:graphrag` |
 | `kt:parallel-computing` | `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
-| `kt:zero-shot-learning` | `kt:clip`, `kt:zero-shot-prompting`, `kt:contrastive-learning`, `kt:instruction-tuning` |
 | `kt:anthropic` | `kt:model-context-protocol`, `kt:openai`, `kt:constitutional-ai` |
 | `kt:application-specific-integrated-circuit` | `kt:deep-blue`, `kt:ai-accelerator`, `kt:tpu` |
 | `kt:automated-planning` | `kt:planning-in-llms`, `kt:general-problem-solver`, `kt:knowledge-representation` |
@@ -117,6 +116,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alibi` | `kt:positional-encoding` |
 | `kt:allen-institute-for-ai` | `kt:commonsenseqa` |
 | `kt:alphafold` | `kt:google-deepmind` |
+| `kt:animals-with-attributes` | `kt:zero-shot-learning` |
 | `kt:ann-benchmarks` | `kt:approximate-nearest-neighbor-search` |
 | `kt:approximation-by-superpositions-of-a-sigmoidal-function` | `kt:universal-approximation-theorem` |
 | `kt:aqua-rat` | `kt:program-induction-by-rationale-generation` |
@@ -126,6 +126,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:arthur-samuel` | `kt:machine-learning` |
 | `kt:asymptotically-efficient-adaptive-allocation-rules` | `kt:upper-confidence-bound` |
 | `kt:asynchronous-advantage-actor-critic` | `kt:actor-critic` |
+| `kt:attribute-based-classification` | `kt:zero-shot-learning` |
 | `kt:augustin-louis-cauchy` | `kt:gradient-descent` |
 | `kt:auto-encoding-variational-bayes` | `kt:variational-autoencoder` |
 | `kt:automated-theorem-proving` | `kt:logic-theorist` |
@@ -229,6 +230,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:feature-store` | `kt:mlops` |
 | `kt:federated-learning` | `kt:data-poisoning` |
 | `kt:feng-hsiung-hsu` | `kt:deep-blue` |
+| `kt:few-shot-learning` | `kt:zero-shot-learning` |
 | `kt:findings-of-the-2014-workshop-on-statistical-machine-translation` | `kt:wmt-2014` |
 | `kt:finite-time-analysis-of-the-multiarmed-bandit-problem` | `kt:upper-confidence-bound` |
 | `kt:flamingo-a-visual-language-model-for-few-shot-learning` | `kt:vision-language-model` |
@@ -514,3 +516,4 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:yann-lecun` | `kt:convolutional-neural-network` |
 | `kt:yoshua-bengio` | `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
 | `kt:you-only-look-once-unified-real-time-object-detection` | `kt:yolo` |
+| `kt:zero-shot-learning-with-semantic-output-codes` | `kt:zero-shot-learning` |

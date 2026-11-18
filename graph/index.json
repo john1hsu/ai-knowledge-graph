@@ -5441,6 +5441,28 @@
     ]
   },
   {
+    "id": "kt:zero-shot-learning",
+    "title": "Zero-shot learning",
+    "aliases": [
+      "ZSL",
+      "zero-data learning",
+      "generalized zero-shot learning"
+    ],
+    "type": "Paradigm",
+    "domain": "training-and-adaptation",
+    "file": "articles/training-and-adaptation/zero-shot-learning.md",
+    "created": "2026-11-18",
+    "maturity": "established",
+    "source_urls": [
+      "https://proceedings.neurips.cc/paper_files/paper/2009/file/1543843a4723ed2ab08e18053ae6dc5b-Paper.pdf",
+      "https://research-explorer.ista.ac.at/record/3704",
+      "https://proceedings.neurips.cc/paper_files/paper/2013/file/2d6cc4b2d139a53512fb8cbb3086ae2e-Paper.pdf",
+      "https://openaccess.thecvf.com/content_cvpr_2017/html/Xian_Zero-Shot_Learning_-_CVPR_2017_paper.html",
+      "https://mpi-inf.mpg.de/zsl-benchmark",
+      "https://proceedings.mlr.press/v139/radford21a.html"
+    ]
+  },
+  {
     "id": "kt:zero-shot-prompting",
     "title": "Zero-shot prompting",
     "aliases": [

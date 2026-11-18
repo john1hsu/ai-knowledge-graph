@@ -21526,6 +21526,114 @@
       ]
     },
     {
+      "@id": "kt:zero-shot-learning",
+      "@type": "kto:Paradigm",
+      "skos:prefLabel": "Zero-shot learning",
+      "skos:definition": "A learning setting in which a model must recognise classes (or perform tasks) for which it saw no labelled training examples, by mapping inputs into an auxiliary semantic space, such as attributes, word vectors or natural-language descriptions, that also describes the unseen classes.",
+      "kto:domain": "training-and-adaptation",
+      "dcterms:created": "2026-11-18",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Zero-shot Learning with Semantic Output Codes",
+          "dcterms:publisher": "NIPS 2009, Advances in Neural Information Processing Systems 22 (Palatucci, Pomerleau, Hinton and Mitchell)",
+          "schema:url": "https://proceedings.neurips.cc/paper_files/paper/2009/file/1543843a4723ed2ab08e18053ae6dc5b-Paper.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Learning to detect unseen object classes by between-class attribute transfer",
+          "dcterms:publisher": "CVPR 2009, pp. 951–958, doi:10.1109/CVPR.2009.5206594 (Lampert, Nickisch and Harmeling); ISTA Research Explorer record",
+          "schema:url": "https://research-explorer.ista.ac.at/record/3704",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Zero-Shot Learning Through Cross-Modal Transfer",
+          "dcterms:publisher": "NeurIPS 2013, Advances in Neural Information Processing Systems 26 (Socher, Ganjoo, Manning and Ng)",
+          "schema:url": "https://proceedings.neurips.cc/paper_files/paper/2013/file/2d6cc4b2d139a53512fb8cbb3086ae2e-Paper.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Zero-Shot Learning - The Good, the Bad and the Ugly",
+          "dcterms:publisher": "CVPR 2017, pp. 4582–4591 (Xian, Schiele and Akata), CVF Open Access",
+          "schema:url": "https://openaccess.thecvf.com/content_cvpr_2017/html/Xian_Zero-Shot_Learning_-_CVPR_2017_paper.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Zero-Shot Learning - A Comprehensive Evaluation of the Good, the Bad and the Ugly (benchmark page)",
+          "dcterms:publisher": "Max Planck Institute for Informatics, Computer Vision and Machine Learning department",
+          "schema:url": "https://mpi-inf.mpg.de/zsl-benchmark",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Learning Transferable Visual Models From Natural Language Supervision",
+          "dcterms:publisher": "ICML 2021, PMLR 139:8748–8763 (Radford et al.)",
+          "schema:url": "https://proceedings.mlr.press/v139/radford21a.html",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/training-and-adaptation/zero-shot-learning.md",
+      "skos:altLabel": [
+        "ZSL",
+        "zero-data learning",
+        "generalized zero-shot learning"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:transfer-learning"
+        },
+        {
+          "@id": "kt:machine-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:zero-shot-prompting"
+        },
+        {
+          "@id": "kt:embeddings"
+        },
+        {
+          "@id": "kt:image-classification"
+        },
+        {
+          "@id": "kt:few-shot-learning"
+        },
+        {
+          "@id": "kt:in-context-learning"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:zero-shot-learning-with-semantic-output-codes"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:representation-learning"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:attribute-based-classification"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:clip"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:animals-with-attributes"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:supervised-learning"
+        }
+      ]
+    },
+    {
       "@id": "kt:attention-is-all-you-need",
       "@type": "kto:Work",
       "skos:prefLabel": "Attention Is All You Need",
