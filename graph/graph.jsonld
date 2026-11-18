@@ -11981,6 +11981,89 @@
       ]
     },
     {
+      "@id": "kt:grouped-query-attention",
+      "@type": "kto:Architecture",
+      "skos:prefLabel": "Grouped-query attention",
+      "skos:definition": "A transformer attention variant that partitions the query heads into G groups, each sharing a single key head and value head, so the KV cache shrinks by a factor of H/G; it interpolates between multi-head attention (G = H) and multi-query attention (G = 1) to get most of MQA's decoding speed at close to multi-head quality.",
+      "kto:domain": "inference-and-optimization",
+      "dcterms:created": "2026-11-18",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints",
+          "dcterms:publisher": "Ainslie et al., Proceedings of EMNLP 2023, pp. 4895–4901 (ACL Anthology PDF)",
+          "schema:url": "https://aclanthology.org/2023.emnlp-main.298.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Llama 2: Open Foundation and Fine-Tuned Chat Models",
+          "dcterms:publisher": "Touvron et al., Meta, arXiv 2307.09288 (2023)",
+          "schema:url": "https://arxiv.org/pdf/2307.09288",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Mistral 7B",
+          "dcterms:publisher": "Jiang et al., Mistral AI, arXiv 2310.06825 (2023)",
+          "schema:url": "https://arxiv.org/pdf/2310.06825",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "torch.nn.functional.scaled_dot_product_attention",
+          "dcterms:publisher": "PyTorch documentation (main, 2.16 pre-release)",
+          "schema:url": "https://docs.pytorch.org/docs/main/generated/torch.nn.functional.scaled_dot_product_attention.html",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/inference-and-optimization/grouped-query-attention.md",
+      "skos:altLabel": [
+        "GQA",
+        "grouped query attention",
+        "grouped-query self-attention"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:self-attention"
+        },
+        {
+          "@id": "kt:llm-inference-optimization"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:flash-attention"
+        },
+        {
+          "@id": "kt:batching-and-paged-attention"
+        },
+        {
+          "@id": "kt:llama-2"
+        },
+        {
+          "@id": "kt:mistral-7b"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:gqa-training-generalized-multi-query-transformer-models-from-multi-head-checkpoints"
+        }
+      ],
+      "kto:extends": [
+        {
+          "@id": "kt:multi-query-attention"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:kv-cache"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:pytorch"
+        }
+      ]
+    },
+    {
       "@id": "kt:llm-inference-optimization",
       "@type": "kto:Field",
       "skos:prefLabel": "LLM inference optimization",

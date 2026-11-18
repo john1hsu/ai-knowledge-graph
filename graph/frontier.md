@@ -46,7 +46,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:faiss` | `kt:approximate-nearest-neighbor-search`, `kt:vector-database` |
 | `kt:finetuned-language-models-are-zero-shot-learners` | `kt:zero-shot-prompting`, `kt:instruction-tuning` |
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
-| `kt:grouped-query-attention` | `kt:multi-query-attention`, `kt:kv-cache` |
 | `kt:highway-network` | `kt:residual-connection`, `kt:residual-connection` |
 | `kt:hugging-face` | `kt:hugging-face-transformers`, `kt:hugging-face-trl` |
 | `kt:hugging-face-diffusers` | `kt:diffusion-model`, `kt:latent-diffusion-model` |
@@ -258,6 +257,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:gpqa` | `kt:reasoning-models` |
 | `kt:gpt-j` | `kt:toolformer` |
 | `kt:gptq-accurate-post-training-quantization-for-generative-pre-trained-transformers` | `kt:gptq` |
+| `kt:gqa-training-generalized-multi-query-transformer-models-from-multi-head-checkpoints` | `kt:grouped-query-attention` |
 | `kt:gradient-based-learning-applied-to-document-recognition` | `kt:convolutional-neural-network` |
 | `kt:gradient-clipping` | `kt:vanishing-gradient-problem` |
 | `kt:graph-of-thoughts` | `kt:tree-of-thoughts` |
@@ -325,6 +325,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:linear-probing` | `kt:fine-tuning` |
 | `kt:livebench` | `kt:benchmark-contamination` |
 | `kt:livecodebench` | `kt:humaneval` |
+| `kt:llama-2` | `kt:grouped-query-attention` |
 | `kt:llmops` | `kt:mlops` |
 | `kt:loftq` | `kt:qlora` |
 | `kt:long-short-term-memory-1997` | `kt:long-short-term-memory` |
@@ -350,6 +351,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:microsoft-coco-common-objects-in-context` | `kt:ms-coco` |
 | `kt:min-p-sampling` | `kt:sampling-temperature-and-top-p` |
 | `kt:minds-brains-and-programs` | `kt:chinese-room-argument` |
+| `kt:mistral-7b` | `kt:grouped-query-attention` |
 | `kt:mixed-precision-training` | `kt:tensor-cores` |
 | `kt:mlflow` | `kt:mlops` |
 | `kt:mmlu-pro` | `kt:mmlu` |

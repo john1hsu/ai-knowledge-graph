@@ -2795,6 +2795,30 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/graphrag> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "retrieval-and-knowledge" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/graphrag> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/from-local-to-global-a-graphrag-approach-to-query-focused-summarization> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/graphrag> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/grouped-query-attention> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/grouped-query-attention> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/grouped-query-attention> <http://www.w3.org/2000/01/rdf-schema#label> "Grouped-query attention" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/grouped-query-attention> <http://www.w3.org/2004/02/skos/core#altLabel> "GQA" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/grouped-query-attention> <http://www.w3.org/2004/02/skos/core#altLabel> "grouped query attention" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/grouped-query-attention> <http://www.w3.org/2004/02/skos/core#altLabel> "grouped-query self-attention" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/grouped-query-attention> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/llm-inference-optimization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/grouped-query-attention> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/self-attention> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/grouped-query-attention> <http://www.w3.org/2004/02/skos/core#definition> "A transformer attention variant that partitions the query heads into G groups, each sharing a single key head and value head, so the KV cache shrinks by a factor of H/G; it interpolates between multi-head attention (G = H) and multi-query attention (G = 1) to get most of MQA's decoding speed at close to multi-head quality." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/grouped-query-attention> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grouped-query attention" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/grouped-query-attention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/batching-and-paged-attention> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/grouped-query-attention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/flash-attention> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/grouped-query-attention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/llama-2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/grouped-query-attention> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/mistral-7b> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/grouped-query-attention> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/grouped-query-attention/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/grouped-query-attention> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/grouped-query-attention/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/grouped-query-attention> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/grouped-query-attention/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/grouped-query-attention> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/grouped-query-attention/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/grouped-query-attention> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/kv-cache> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/grouped-query-attention> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "inference-and-optimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/grouped-query-attention> <https://github.com/john1hsu/ai-knowledge-graph/ontology#extends> <https://github.com/john1hsu/ai-knowledge-graph/id/multi-query-attention> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/grouped-query-attention> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/grouped-query-attention> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/gqa-training-generalized-multi-query-transformer-models-from-multi-head-checkpoints> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/grouped-query-attention> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Benchmark> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> <http://www.w3.org/2000/01/rdf-schema#label> "GSM8K" .
@@ -8680,6 +8704,26 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/graphrag/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/graphrag/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/graphrag/s4> <https://schema.org/url> "https://pmc.ncbi.nlm.nih.gov/articles/PMC6435756" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/grouped-query-attention/s1> <http://purl.org/dc/terms/publisher> "Ainslie et al., Proceedings of EMNLP 2023, pp. 4895–4901 (ACL Anthology PDF)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/grouped-query-attention/s1> <http://purl.org/dc/terms/title> "GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/grouped-query-attention/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/grouped-query-attention/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/grouped-query-attention/s1> <https://schema.org/url> "https://aclanthology.org/2023.emnlp-main.298.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/grouped-query-attention/s2> <http://purl.org/dc/terms/publisher> "Touvron et al., Meta, arXiv 2307.09288 (2023)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/grouped-query-attention/s2> <http://purl.org/dc/terms/title> "Llama 2: Open Foundation and Fine-Tuned Chat Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/grouped-query-attention/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/grouped-query-attention/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/grouped-query-attention/s2> <https://schema.org/url> "https://arxiv.org/pdf/2307.09288" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/grouped-query-attention/s3> <http://purl.org/dc/terms/publisher> "Jiang et al., Mistral AI, arXiv 2310.06825 (2023)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/grouped-query-attention/s3> <http://purl.org/dc/terms/title> "Mistral 7B" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/grouped-query-attention/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/grouped-query-attention/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/grouped-query-attention/s3> <https://schema.org/url> "https://arxiv.org/pdf/2310.06825" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/grouped-query-attention/s4> <http://purl.org/dc/terms/publisher> "PyTorch documentation (main, 2.16 pre-release)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/grouped-query-attention/s4> <http://purl.org/dc/terms/title> "torch.nn.functional.scaled_dot_product_attention" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/grouped-query-attention/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/grouped-query-attention/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/grouped-query-attention/s4> <https://schema.org/url> "https://docs.pytorch.org/docs/main/generated/torch.nn.functional.scaled_dot_product_attention.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s1> <http://purl.org/dc/terms/publisher> "arXiv:2110.14168 (Cobbe, Kosaraju, Bavarian, Chen, Jun, Kaiser, Plappert, Tworek, Hilton, Nakano, Hesse, Schulman; OpenAI), October 2021" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s1> <http://purl.org/dc/terms/title> "Training Verifiers to Solve Math Word Problems" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gsm8k/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

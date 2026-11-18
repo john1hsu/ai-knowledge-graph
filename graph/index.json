@@ -2355,6 +2355,26 @@
     ]
   },
   {
+    "id": "kt:grouped-query-attention",
+    "title": "Grouped-query attention",
+    "aliases": [
+      "GQA",
+      "grouped query attention",
+      "grouped-query self-attention"
+    ],
+    "type": "Architecture",
+    "domain": "inference-and-optimization",
+    "file": "articles/inference-and-optimization/grouped-query-attention.md",
+    "created": "2026-11-18",
+    "maturity": "established",
+    "source_urls": [
+      "https://aclanthology.org/2023.emnlp-main.298.pdf",
+      "https://arxiv.org/pdf/2307.09288",
+      "https://arxiv.org/pdf/2310.06825",
+      "https://docs.pytorch.org/docs/main/generated/torch.nn.functional.scaled_dot_product_attention.html"
+    ]
+  },
+  {
     "id": "kt:gsm8k",
     "title": "GSM8K",
     "aliases": [
