@@ -5419,6 +5419,104 @@
       ]
     },
     {
+      "@id": "kt:image-captioning",
+      "@type": "kto:Application",
+      "skos:prefLabel": "Image captioning",
+      "skos:definition": "The task of automatically generating a natural-language sentence that describes the content of an image, typically solved with an encoder-decoder network that conditions a language decoder on visual features and scored against human-written reference captions.",
+      "kto:domain": "computer-vision-and-multimodal",
+      "dcterms:created": "2026-11-18",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Show and Tell: A Neural Image Caption Generator",
+          "dcterms:publisher": "CVPR 2015 (Vinyals, Toshev, Bengio, Erhan)",
+          "schema:url": "https://openaccess.thecvf.com/content_cvpr_2015/html/Vinyals_Show_and_Tell_2015_CVPR_paper.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Show, Attend and Tell: Neural Image Caption Generation with Visual Attention",
+          "dcterms:publisher": "Xu, Ba, Kiros, Cho, Courville, Salakhutdinov, Zemel and Bengio; arXiv 1502.03044 (authors' version of the ICML 2015 paper)",
+          "schema:url": "https://arxiv.org/abs/1502.03044v3",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Microsoft COCO Captions: Data Collection and Evaluation Server",
+          "dcterms:publisher": "Chen, Fang, Lin, Vedantam, Gupta, Dollár and Zitnick; arXiv 1504.00325",
+          "schema:url": "https://arxiv.org/abs/1504.00325",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "CIDEr: Consensus-Based Image Description Evaluation",
+          "dcterms:publisher": "CVPR 2015 (Vedantam, Zitnick, Parikh)",
+          "schema:url": "https://openaccess.thecvf.com/content_cvpr_2015/html/Vedantam_CIDEr_Consensus-Based_Image_2015_CVPR_paper.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering",
+          "dcterms:publisher": "CVPR 2018 (Anderson, He, Buehler, Teney, Johnson, Gould, Zhang)",
+          "schema:url": "https://openaccess.thecvf.com/content_cvpr_2018/html/Anderson_Bottom-Up_and_Top-Down_CVPR_2018_paper.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation",
+          "dcterms:publisher": "ICML 2022, PMLR 162 (Li, Li, Xiong, Hoi)",
+          "schema:url": "https://proceedings.mlr.press/v162/li22n.html",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/computer-vision-and-multimodal/image-captioning.md",
+      "skos:altLabel": [
+        "automatic image captioning",
+        "image description generation",
+        "image-to-text generation"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:computer-vision"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:attention-mechanism"
+        },
+        {
+          "@id": "kt:beam-search"
+        },
+        {
+          "@id": "kt:bleu"
+        },
+        {
+          "@id": "kt:vision-language-model"
+        },
+        {
+          "@id": "kt:recurrent-neural-network"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:show-and-tell-a-neural-image-caption-generator"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:sequence-to-sequence-learning"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:ms-coco"
+        },
+        {
+          "@id": "kt:cider"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:image-classification"
+        }
+      ]
+    },
+    {
       "@id": "kt:image-classification",
       "@type": "kto:Application",
       "skos:prefLabel": "Image classification",

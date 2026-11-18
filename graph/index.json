@@ -2482,6 +2482,28 @@
     ]
   },
   {
+    "id": "kt:image-captioning",
+    "title": "Image captioning",
+    "aliases": [
+      "automatic image captioning",
+      "image description generation",
+      "image-to-text generation"
+    ],
+    "type": "Application",
+    "domain": "computer-vision-and-multimodal",
+    "file": "articles/computer-vision-and-multimodal/image-captioning.md",
+    "created": "2026-11-18",
+    "maturity": "established",
+    "source_urls": [
+      "https://openaccess.thecvf.com/content_cvpr_2015/html/Vinyals_Show_and_Tell_2015_CVPR_paper.html",
+      "https://arxiv.org/abs/1502.03044v3",
+      "https://arxiv.org/abs/1504.00325",
+      "https://openaccess.thecvf.com/content_cvpr_2015/html/Vedantam_CIDEr_Consensus-Based_Image_2015_CVPR_paper.html",
+      "https://openaccess.thecvf.com/content_cvpr_2018/html/Anderson_Bottom-Up_and_Top-Down_CVPR_2018_paper.html",
+      "https://proceedings.mlr.press/v162/li22n.html"
+    ]
+  },
+  {
     "id": "kt:image-classification",
     "title": "Image classification",
     "aliases": [

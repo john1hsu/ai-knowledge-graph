@@ -2940,6 +2940,33 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/hybrid-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/dense-passage-retrieval> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hybrid-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/hybrid-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-captioning> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-captioning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Application> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-captioning> <http://www.w3.org/2000/01/rdf-schema#label> "Image captioning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-captioning> <http://www.w3.org/2004/02/skos/core#altLabel> "automatic image captioning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-captioning> <http://www.w3.org/2004/02/skos/core#altLabel> "image description generation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-captioning> <http://www.w3.org/2004/02/skos/core#altLabel> "image-to-text generation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-captioning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-captioning> <http://www.w3.org/2004/02/skos/core#definition> "The task of automatically generating a natural-language sentence that describes the content of an image, typically solved with an encoder-decoder network that conditions a language decoder on visual features and scored against human-written reference captions." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-captioning> <http://www.w3.org/2004/02/skos/core#prefLabel> "Image captioning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-captioning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/attention-mechanism> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-captioning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/beam-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-captioning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/bleu> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-captioning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-captioning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/vision-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-captioning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-captioning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-captioning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-captioning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-captioning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-captioning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-captioning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/sequence-to-sequence-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-captioning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-captioning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "computer-vision-and-multimodal" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-captioning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/cider> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-captioning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-captioning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/show-and-tell-a-neural-image-caption-generator> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/image-captioning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Application> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/image-classification> <http://www.w3.org/2000/01/rdf-schema#label> "Image classification" .
@@ -8696,6 +8723,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hybrid-search/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hybrid-search/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/hybrid-search/s6> <https://schema.org/url> "https://docs.weaviate.io/weaviate/concepts/search/hybrid-search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s1> <http://purl.org/dc/terms/publisher> "CVPR 2015 (Vinyals, Toshev, Bengio, Erhan)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s1> <http://purl.org/dc/terms/title> "Show and Tell: A Neural Image Caption Generator" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s1> <https://schema.org/url> "https://openaccess.thecvf.com/content_cvpr_2015/html/Vinyals_Show_and_Tell_2015_CVPR_paper.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s2> <http://purl.org/dc/terms/publisher> "Xu, Ba, Kiros, Cho, Courville, Salakhutdinov, Zemel and Bengio; arXiv 1502.03044 (authors' version of the ICML 2015 paper)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s2> <http://purl.org/dc/terms/title> "Show, Attend and Tell: Neural Image Caption Generation with Visual Attention" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s2> <https://schema.org/url> "https://arxiv.org/abs/1502.03044v3" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s3> <http://purl.org/dc/terms/publisher> "Chen, Fang, Lin, Vedantam, Gupta, Dollár and Zitnick; arXiv 1504.00325" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s3> <http://purl.org/dc/terms/title> "Microsoft COCO Captions: Data Collection and Evaluation Server" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s3> <https://schema.org/url> "https://arxiv.org/abs/1504.00325" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s4> <http://purl.org/dc/terms/publisher> "CVPR 2015 (Vedantam, Zitnick, Parikh)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s4> <http://purl.org/dc/terms/title> "CIDEr: Consensus-Based Image Description Evaluation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s4> <https://schema.org/url> "https://openaccess.thecvf.com/content_cvpr_2015/html/Vedantam_CIDEr_Consensus-Based_Image_2015_CVPR_paper.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s5> <http://purl.org/dc/terms/publisher> "CVPR 2018 (Anderson, He, Buehler, Teney, Johnson, Gould, Zhang)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s5> <http://purl.org/dc/terms/title> "Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s5> <https://schema.org/url> "https://openaccess.thecvf.com/content_cvpr_2018/html/Anderson_Bottom-Up_and_Top-Down_CVPR_2018_paper.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s6> <http://purl.org/dc/terms/publisher> "ICML 2022, PMLR 162 (Li, Li, Xiong, Hoi)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s6> <http://purl.org/dc/terms/title> "BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/image-captioning/s6> <https://schema.org/url> "https://proceedings.mlr.press/v162/li22n.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/image-classification/s1> <http://purl.org/dc/terms/publisher> "Stanford University CS231n, Deep Learning for Computer Vision (lecture slides)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/image-classification/s1> <http://purl.org/dc/terms/title> "Lecture 2: Image Classification with Linear Classifiers (CS231n, 2024)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/image-classification/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

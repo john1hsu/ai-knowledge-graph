@@ -55,7 +55,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hugging-face-diffusers` | `kt:diffusion-model`, `kt:latent-diffusion-model` |
 | `kt:hugging-face-hub` | `kt:datasheets-for-datasets`, `kt:model-cards` |
 | `kt:hugging-face-peft` | `kt:parameter-efficient-fine-tuning`, `kt:qlora` |
-| `kt:image-captioning` | `kt:ms-coco`, `kt:attention-mechanism` |
 | `kt:induction-head` | `kt:mechanistic-interpretability`, `kt:in-context-learning` |
 | `kt:iso-iec-27001` | `kt:iso-iec-42001`, `kt:iso-iec-42001` |
 | `kt:john-mccarthy` | `kt:artificial-intelligence`, `kt:dartmouth-workshop` |
@@ -155,6 +154,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chatgpt` | `kt:openai` |
 | `kt:christian-szegedy` | `kt:adversarial-example` |
 | `kt:christopher-watkins` | `kt:q-learning` |
+| `kt:cider` | `kt:image-captioning` |
 | `kt:cityscapes` | `kt:semantic-segmentation` |
 | `kt:claude` | `kt:constitutional-ai` |
 | `kt:clipper-prediction-serving-system` | `kt:model-serving` |
@@ -448,6 +448,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sepp-hochreiter` | `kt:long-short-term-memory` |
 | `kt:sglang` | `kt:prefix-caching` |
 | `kt:sglang-efficient-execution-of-structured-language-model-programs` | `kt:prefix-caching` |
+| `kt:show-and-tell-a-neural-image-caption-generator` | `kt:image-captioning` |
 | `kt:show-your-work-scratchpads-for-intermediate-computation-with-language-models` | `kt:scratchpad` |
 | `kt:singular-value-decomposition` | `kt:principal-component-analysis` |
 | `kt:soft-actor-critic` | `kt:actor-critic` |
