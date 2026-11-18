@@ -11628,6 +11628,109 @@
       ]
     },
     {
+      "@id": "kt:multi-query-attention",
+      "@type": "kto:Architecture",
+      "skos:prefLabel": "Multi-query attention",
+      "skos:definition": "A variant of transformer multi-head attention in which every query head keeps its own projection but all heads share one key projection and one value projection, shrinking the KV cache and the memory traffic of each autoregressive decoding step at a small cost in model quality.",
+      "kto:domain": "inference-and-optimization",
+      "dcterms:created": "2026-11-18",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Fast Transformer Decoding: One Write-Head is All You Need",
+          "dcterms:publisher": "Noam Shazeer (Google), arXiv 1911.02150 (2019)",
+          "schema:url": "https://arxiv.org/pdf/1911.02150",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints",
+          "dcterms:publisher": "Ainslie et al., Proceedings of EMNLP 2023, pp. 4895–4901",
+          "schema:url": "https://aclanthology.org/2023.emnlp-main.298",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Efficiently Scaling Transformer Inference",
+          "dcterms:publisher": "Pope et al., Proceedings of Machine Learning and Systems 5 (MLSys 2023), pp. 606–624",
+          "schema:url": "https://proceedings.mlsys.org/paper_files/paper/2023/hash/c4be71ab8d24cdfb45e3d06dbfca2780-Abstract-mlsys2023.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "PaLM: Scaling Language Modeling with Pathways",
+          "dcterms:publisher": "Chowdhery et al., Journal of Machine Learning Research 24 (2023)",
+          "schema:url": "https://jmlr.org/papers/volume24/22-1144/22-1144.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Optimizing LLMs for Speed and Memory",
+          "dcterms:publisher": "Hugging Face Transformers documentation",
+          "schema:url": "https://huggingface.co/docs/transformers/llm_tutorial_optimization",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/inference-and-optimization/multi-query-attention.md",
+      "skos:altLabel": [
+        "MQA",
+        "multiquery attention",
+        "multi-query self-attention",
+        "single key-value head attention"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:self-attention"
+        },
+        {
+          "@id": "kt:llm-inference-optimization"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:kv-cache"
+        },
+        {
+          "@id": "kt:transformer-architecture"
+        },
+        {
+          "@id": "kt:flash-attention"
+        },
+        {
+          "@id": "kt:batching-and-paged-attention"
+        },
+        {
+          "@id": "kt:palm"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:fast-transformer-decoding-one-write-head-is-all-you-need"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:noam-shazeer"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:grouped-query-attention"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:kv-cache"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:context-window"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:hugging-face-transformers"
+        }
+      ]
+    },
+    {
       "@id": "kt:orca-serving-system",
       "@type": "kto:Tool",
       "skos:prefLabel": "Orca (LLM serving system)",

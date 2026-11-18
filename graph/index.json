@@ -3242,6 +3242,28 @@
     ]
   },
   {
+    "id": "kt:multi-query-attention",
+    "title": "Multi-query attention",
+    "aliases": [
+      "MQA",
+      "multiquery attention",
+      "multi-query self-attention",
+      "single key-value head attention"
+    ],
+    "type": "Architecture",
+    "domain": "inference-and-optimization",
+    "file": "articles/inference-and-optimization/multi-query-attention.md",
+    "created": "2026-11-18",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/pdf/1911.02150",
+      "https://aclanthology.org/2023.emnlp-main.298",
+      "https://proceedings.mlsys.org/paper_files/paper/2023/hash/c4be71ab8d24cdfb45e3d06dbfca2780-Abstract-mlsys2023.html",
+      "https://jmlr.org/papers/volume24/22-1144/22-1144.pdf",
+      "https://huggingface.co/docs/transformers/llm_tutorial_optimization"
+    ]
+  },
+  {
     "id": "kt:named-entity-recognition",
     "title": "Named-entity recognition",
     "aliases": [

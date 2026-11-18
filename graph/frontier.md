@@ -51,6 +51,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:faiss` | `kt:approximate-nearest-neighbor-search`, `kt:vector-database` |
 | `kt:finetuned-language-models-are-zero-shot-learners` | `kt:zero-shot-prompting`, `kt:instruction-tuning` |
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
+| `kt:grouped-query-attention` | `kt:multi-query-attention`, `kt:kv-cache` |
 | `kt:herbert-a-simon` | `kt:general-problem-solver`, `kt:logic-theorist` |
 | `kt:highway-network` | `kt:residual-connection`, `kt:residual-connection` |
 | `kt:hotpotqa` | `kt:react-prompting`, `kt:reflexion` |
@@ -220,6 +221,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:factor-analysis` | `kt:principal-component-analysis` |
 | `kt:fast-inference-from-transformers-via-speculative-decoding` | `kt:speculative-decoding` |
 | `kt:fast-r-cnn` | `kt:faster-r-cnn` |
+| `kt:fast-transformer-decoding-one-write-head-is-all-you-need` | `kt:multi-query-attention` |
 | `kt:faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks` | `kt:faster-r-cnn` |
 | `kt:fastertransformer` | `kt:orca-serving-system` |
 | `kt:fasttext` | `kt:word2vec` |
@@ -253,7 +255,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:gradient-based-learning-applied-to-document-recognition` | `kt:convolutional-neural-network` |
 | `kt:gradient-clipping` | `kt:vanishing-gradient-problem` |
 | `kt:graph-of-thoughts` | `kt:tree-of-thoughts` |
-| `kt:grouped-query-attention` | `kt:kv-cache` |
 | `kt:harold-hotelling` | `kt:principal-component-analysis` |
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
 | `kt:high-resolution-image-synthesis-with-latent-diffusion-models` | `kt:latent-diffusion-model` |
@@ -354,7 +355,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mrkl-systems` | `kt:tool-use` |
 | `kt:ms-marco` | `kt:reranking` |
 | `kt:mteb` | `kt:beir` |
-| `kt:multi-query-attention` | `kt:kv-cache` |
 | `kt:multi-task-learning` | `kt:transfer-learning` |
 | `kt:multimodal-learning` | `kt:vision-language-model` |
 | `kt:murray-campbell` | `kt:deep-blue` |
@@ -365,6 +365,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:neuro-symbolic-ai` | `kt:symbolic-ai` |
 | `kt:new-legislative-framework` | `kt:eu-ai-act` |
 | `kt:newtons-method` | `kt:gradient-descent` |
+| `kt:noam-shazeer` | `kt:multi-query-attention` |
 | `kt:non-maximum-suppression` | `kt:object-detection` |
 | `kt:nvidia-dynamo` | `kt:triton-inference-server` |
 | `kt:oecd` | `kt:oecd-ai-principles` |
@@ -381,6 +382,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pac-learning` | `kt:statistical-learning-theory` |
 | `kt:paired-comparison` | `kt:bradley-terry-model` |
 | `kt:pal-program-aided-language-models` | `kt:program-aided-language-models` |
+| `kt:palm` | `kt:multi-query-attention` |
 | `kt:parameter-efficient-transfer-learning-for-nlp` | `kt:parameter-efficient-fine-tuning` |
 | `kt:partially-observable-markov-decision-process` | `kt:markov-decision-process` |
 | `kt:pattern-recognition` | `kt:computer-vision` |
