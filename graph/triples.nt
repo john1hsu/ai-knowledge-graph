@@ -732,6 +732,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/attention-is-all-you-need> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/an-image-is-worth-16x16-words> <https://github.com/john1hsu/ai-knowledge-graph/ontology#runsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/tpu> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Tool> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> <http://www.w3.org/2000/01/rdf-schema#label> "Apache Lucene" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> <http://www.w3.org/2004/02/skos/core#altLabel> "Apache Lucene Core" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> <http://www.w3.org/2004/02/skos/core#altLabel> "Lucene Core" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> <http://www.w3.org/2004/02/skos/core#altLabel> "Lucene" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> <http://www.w3.org/2004/02/skos/core#definition> "An open-source Java search library from the Apache Software Foundation that builds inverted indexes over text and structured fields, ranks results with pluggable scoring models such as BM25, and since version 9.0 also supports approximate nearest-neighbour vector search with HNSW graphs; it is the engine inside Solr, Elasticsearch and OpenSearch." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> <http://www.w3.org/2004/02/skos/core#prefLabel> "Apache Lucene" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/bm25> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/hybrid-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/vector-database> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s7> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/faiss> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/inverted-index> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/doug-cutting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "retrieval-and-knowledge" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/hybrid-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/hnsw> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> <http://www.w3.org/2000/01/rdf-schema#label> "Approximate nearest neighbor search" .
@@ -6613,6 +6643,41 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/an-image-is-worth-16x16-words/s5> <https://schema.org/url> "https://huggingface.co/docs/transformers/model_doc/vit" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s1> <http://purl.org/dc/terms/publisher> "Apache Software Foundation (lucene.apache.org)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s1> <http://purl.org/dc/terms/title> "Apache Lucene Core" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s1> <https://schema.org/url> "https://lucene.apache.org/core/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s2> <http://purl.org/dc/terms/publisher> "Apache Software Foundation, Lucene Javadoc" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s2> <http://purl.org/dc/terms/title> "Lucene 9.11.0 core API (package overview)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s2> <https://schema.org/url> "https://lucene.apache.org/core/9_11_0/core" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s3> <http://purl.org/dc/terms/publisher> "Apache Lucene PMC release announcement (Apache Confluence)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s3> <http://purl.org/dc/terms/title> "07 December 2021, Apache Lucene 9.0 available" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s3> <https://schema.org/url> "https://cwiki-test.apache.org/confluence/x/xZBnCw" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s4> <http://purl.org/dc/terms/publisher> "Yang, Fang and Lin, SIGIR 2017 (authors' copy)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s4> <http://purl.org/dc/terms/title> "Anserini: Enabling the Use of Lucene for Information Retrieval Research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s4> <https://schema.org/url> "https://peilin-yang.github.io/files/pub/Yang_etal_SIGIR2017.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s5> <http://purl.org/dc/terms/publisher> "Lin, Pradeep, Teofili and Xian, arXiv 2308.14963 (2023)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s5> <http://purl.org/dc/terms/title> "Vector Search with OpenAI Embeddings: Lucene Is All You Need" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s5> <https://schema.org/url> "https://arxiv.org/pdf/2308.14963" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s6> <http://purl.org/dc/terms/publisher> "Elastic (company history page)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s6> <http://purl.org/dc/terms/title> "Happy birthday, Lucene" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s6> <https://schema.org/url> "https://www.elastic.co/celebrating-lucene" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s7> <http://purl.org/dc/terms/publisher> "Apache Solr PMC announcement (announce@apache.org archive), 4 March 2026" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s7> <http://purl.org/dc/terms/title> "Apache Solr 10.0.0 released" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s7> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/apache-lucene/s7> <https://schema.org/url> "https://mail-archive.com/announce@apache.org/msg10780.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s1> <http://purl.org/dc/terms/publisher> "Communications of the ACM 51(1), January 2008 (Andoni and Indyk)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s1> <http://purl.org/dc/terms/title> "Near-Optimal Hashing Algorithms for Approximate Nearest Neighbor in High Dimensions" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/approximate-nearest-neighbor-search/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -13457,6 +13522,7 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <http://www.w3.org/2004/02/skos/core#definition> "A term-weighting scheme that scores a word's importance to a document by multiplying how often it occurs in that document (term frequency) by the logarithm of how rare it is across the collection (inverse document frequency), so frequent-but-distinctive words dominate a document's vector." .
 <https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <http://www.w3.org/2004/02/skos/core#prefLabel> "TF-IDF" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/tf-idf> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/tf-idf/s1> .

@@ -1,9 +1,9 @@
 # Graph statistics
 
-- Articles (nodes written): **267**
-- Frontier nodes (referenced, unwritten): **526**
-- Edges: **2748**
-- Citations: **1446**
+- Articles (nodes written): **268**
+- Frontier nodes (referenced, unwritten): **527**
+- Edges: **2762**
+- Citations: **1453**
 
 - Weakly connected components: **1**
 - Isolated articles (no edges): **0**
@@ -30,16 +30,16 @@
 
 ## Communities (Louvain): 11
 
-1. `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:a-stochastic-approximation-method`, `kt:activation-function`, `kt:adagrad`, `kt:adam-a-method-for-stochastic-optimization`, `kt:adam-optimizer`, `kt:adamw`, `kt:adaptive-subgradient-methods-for-online-learning-and-stochastic-optimization`, `kt:ai-winter`, `kt:approximation-by-superpositions-of-a-sigmoidal-function`, `kt:artificial-neural-network`, `kt:augustin-louis-cauchy` …
-2. `kt:activation-checkpointing`, `kt:ai-accelerator`, `kt:ai-hardware`, `kt:all-reduce`, `kt:an-image-is-worth-16x16-words`, `kt:application-specific-integrated-circuit`, `kt:arithmetic-intensity`, `kt:automatic-differentiation`, `kt:awq`, `kt:awq-activation-aware-weight-quantization-for-llm-compression-and-acceleration`, `kt:batching-and-paged-attention`, `kt:clip` …
-3. `kt:agent-memory`, `kt:agent2agent-protocol`, `kt:agentbench`, `kt:agentic-systems`, `kt:agentic-workflow`, `kt:ai-agent`, `kt:alfred-benchmark`, `kt:alfworld`, `kt:alfworld-aligning-text-and-embodied-environments-for-interactive-learning`, `kt:allen-institute-for-ai`, `kt:aqua-rat`, `kt:autogen` …
-4. `kt:actor-critic`, `kt:alphabet-inc`, `kt:alphafold`, `kt:alphago`, `kt:alphago-zero`, `kt:alphazero`, `kt:animals-with-attributes`, `kt:arcade-learning-environment`, `kt:arthur-samuel`, `kt:asymptotically-efficient-adaptive-allocation-rules`, `kt:asynchronous-advantage-actor-critic`, `kt:attribute-based-classification` …
-5. `kt:adversarial-example`, `kt:adversarial-machine-learning`, `kt:adversarial-training`, `kt:ai-chip-export-controls`, `kt:ai-ethics`, `kt:ai-evaluation`, `kt:ai-governance`, `kt:ai-governance-a-research-agenda`, `kt:ai-risk-management`, `kt:ai-safety`, `kt:ai-safety-institutes`, `kt:ai-safety-summit` …
-6. `kt:adapter-modules`, `kt:ai-alignment`, `kt:ai-safety-gridworlds`, `kt:ai-safety-via-debate`, `kt:anthropic`, `kt:arena-hard`, `kt:benchmark-contamination`, `kt:bradley-terry-model`, `kt:campbells-law`, `kt:catastrophic-forgetting`, `kt:charles-goodhart`, `kt:chatbot-arena` …
-7. `kt:a-neural-probabilistic-language-model`, `kt:ann-benchmarks`, `kt:apache-lucene`, `kt:approximate-nearest-neighbor-search`, `kt:beir`, `kt:beir-a-heterogeneous-benchmark-for-zero-shot-evaluation-of-information-retrieval-models`, `kt:bm25`, `kt:colbert`, `kt:compositional-questions-do-not-necessitate-multi-hop-reasoning`, `kt:conll-2003`, `kt:dense-passage-retrieval`, `kt:efficient-estimation-of-word-representations-in-vector-space` …
-8. `kt:alan-turing`, `kt:allen-newell`, `kt:alpha-beta-pruning`, `kt:artificial-intelligence`, `kt:automated-planning`, `kt:automated-theorem-proving`, `kt:chatbot`, `kt:chinese-room-argument`, `kt:cliff-shaw`, `kt:computer-science`, `kt:computing-machinery-and-intelligence`, `kt:dartmouth-workshop` …
-9. `kt:alex-graves`, `kt:alibi`, `kt:attention-is-all-you-need`, `kt:attention-mechanism`, `kt:automatic-speech-recognition`, `kt:backpropagation-through-time`, `kt:beam-search`, `kt:bleu`, `kt:bleu-a-method-for-automatic-evaluation-of-machine-translation`, `kt:cider`, `kt:conference-on-machine-translation`, `kt:decoding-strategy` …
-10. `kt:auto-encoding-variational-bayes`, `kt:autoencoder`, `kt:curse-of-dimensionality`, `kt:deep-unsupervised-learning-using-nonequilibrium-thermodynamics`, `kt:diederik-kingma`, `kt:diffusion-model`, `kt:dimensionality-reduction`, `kt:factor-analysis`, `kt:generative-adversarial-nets`, `kt:generative-adversarial-network`, `kt:harold-hotelling`, `kt:high-resolution-image-synthesis-with-latent-diffusion-models` …
+1. `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:a-stochastic-approximation-method`, `kt:activation-function`, `kt:adagrad`, `kt:adam-a-method-for-stochastic-optimization`, `kt:adam-optimizer`, `kt:adamw`, `kt:adaptive-subgradient-methods-for-online-learning-and-stochastic-optimization`, `kt:ai-winter`, `kt:animals-with-attributes`, `kt:approximation-by-superpositions-of-a-sigmoidal-function`, `kt:arthur-samuel` …
+2. `kt:adapter-modules`, `kt:allen-institute-for-ai`, `kt:batch-calibration`, `kt:benchmark-contamination`, `kt:big-bench`, `kt:big-bench-hard`, `kt:calibrate-before-use-improving-few-shot-performance-of-language-models`, `kt:catastrophic-forgetting`, `kt:chain-of-thought`, `kt:chain-of-thought-faithfulness`, `kt:chain-of-thought-prompting-elicits-reasoning-in-large-language-models`, `kt:commonsense-reasoning` …
+3. `kt:activation-checkpointing`, `kt:ai-accelerator`, `kt:ai-chip-export-controls`, `kt:ai-hardware`, `kt:all-reduce`, `kt:an-image-is-worth-16x16-words`, `kt:application-specific-integrated-circuit`, `kt:arithmetic-intensity`, `kt:automatic-differentiation`, `kt:awq`, `kt:awq-activation-aware-weight-quantization-for-llm-compression-and-acceleration`, `kt:batching-and-paged-attention` …
+4. `kt:actor-critic`, `kt:alphabet-inc`, `kt:alphafold`, `kt:alphago`, `kt:alphago-zero`, `kt:alphazero`, `kt:arcade-learning-environment`, `kt:asymptotically-efficient-adaptive-allocation-rules`, `kt:asynchronous-advantage-actor-critic`, `kt:bayesian-inference`, `kt:christopher-watkins`, `kt:collaborative-filtering` …
+5. `kt:adversarial-machine-learning`, `kt:ai-ethics`, `kt:ai-evaluation`, `kt:ai-governance`, `kt:ai-governance-a-research-agenda`, `kt:ai-risk-management`, `kt:ai-safety`, `kt:ai-safety-institutes`, `kt:ai-safety-summit`, `kt:algorithmic-bias-and-fairness`, `kt:backdoor-attack`, `kt:bureau-of-industry-and-security` …
+6. `kt:a-neural-probabilistic-language-model`, `kt:ann-benchmarks`, `kt:apache-lucene`, `kt:approximate-nearest-neighbor-search`, `kt:beir`, `kt:beir-a-heterogeneous-benchmark-for-zero-shot-evaluation-of-information-retrieval-models`, `kt:bert`, `kt:bm25`, `kt:colbert`, `kt:compositional-questions-do-not-necessitate-multi-hop-reasoning`, `kt:conll-2003`, `kt:dense-passage-retrieval` …
+7. `kt:alan-turing`, `kt:allen-newell`, `kt:alpha-beta-pruning`, `kt:artificial-intelligence`, `kt:automated-planning`, `kt:automated-theorem-proving`, `kt:chatbot`, `kt:chinese-room-argument`, `kt:cliff-shaw`, `kt:computer-science`, `kt:computing-machinery-and-intelligence`, `kt:dartmouth-workshop` …
+8. `kt:alex-graves`, `kt:alibi`, `kt:aqua-rat`, `kt:attention-is-all-you-need`, `kt:attention-mechanism`, `kt:automatic-speech-recognition`, `kt:backpropagation-through-time`, `kt:beam-search`, `kt:bleu`, `kt:bleu-a-method-for-automatic-evaluation-of-machine-translation`, `kt:cider`, `kt:conference-on-machine-translation` …
+9. `kt:ai-alignment`, `kt:ai-safety-gridworlds`, `kt:ai-safety-via-debate`, `kt:anthropic`, `kt:arena-hard`, `kt:bradley-terry-model`, `kt:campbells-law`, `kt:charles-goodhart`, `kt:chatbot-arena`, `kt:chatbot-arena-an-open-platform-for-evaluating-llms-by-human-preference`, `kt:chatgpt`, `kt:claude` …
+10. `kt:adversarial-example`, `kt:adversarial-training`, `kt:autonomous-driving`, `kt:christian-szegedy`, `kt:cifar-10`, `kt:cityscapes`, `kt:computer-graphics`, `kt:computer-vision`, `kt:convolutional-neural-network`, `kt:data-augmentation`, `kt:deformable-part-model`, `kt:fast-r-cnn` …
 
 ## By type
 
@@ -58,7 +58,7 @@
 - Policy: 9
 - Risk: 9
 - Technique: 60
-- Tool: 14
+- Tool: 15
 - Work: 10
 
 ## By domain
@@ -74,7 +74,7 @@
 - ml-foundations: 18
 - prompting-and-reasoning: 18
 - reinforcement-learning: 18
-- retrieval-and-knowledge: 17
+- retrieval-and-knowledge: 18
 - safety-alignment-and-security: 17
 - training-and-adaptation: 17
 - transformers-and-llms: 18
@@ -82,6 +82,6 @@
 ## By maturity (emerging/frontier nodes go stale fastest)
 
 - emerging: 34
-- established: 165
+- established: 166
 - foundational: 48
 - historical: 20

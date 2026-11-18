@@ -10,7 +10,7 @@ summary: >-
   frequency), so frequent-but-distinctive words dominate a document's vector.
 maturity: foundational
 broader: [kt:information-retrieval]
-related: [kt:semantic-search, kt:embeddings]
+related: [kt:semantic-search, kt:embeddings, kt:apache-lucene]
 relations:
   - {predicate: createdBy, object: kt:karen-sparck-jones}
   - {predicate: usedIn, object: kt:vector-space-model}

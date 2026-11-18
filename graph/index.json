@@ -623,6 +623,29 @@
     ]
   },
   {
+    "id": "kt:apache-lucene",
+    "title": "Apache Lucene",
+    "aliases": [
+      "Lucene",
+      "Lucene Core",
+      "Apache Lucene Core"
+    ],
+    "type": "Tool",
+    "domain": "retrieval-and-knowledge",
+    "file": "articles/retrieval-and-knowledge/apache-lucene.md",
+    "created": "2026-11-18",
+    "maturity": "established",
+    "source_urls": [
+      "https://lucene.apache.org/core/",
+      "https://lucene.apache.org/core/9_11_0/core",
+      "https://cwiki-test.apache.org/confluence/x/xZBnCw",
+      "https://peilin-yang.github.io/files/pub/Yang_etal_SIGIR2017.pdf",
+      "https://arxiv.org/pdf/2308.14963",
+      "https://www.elastic.co/celebrating-lucene",
+      "https://mail-archive.com/announce@apache.org/msg10780.html"
+    ]
+  },
+  {
     "id": "kt:approximate-nearest-neighbor-search",
     "title": "Approximate nearest neighbor search",
     "aliases": [

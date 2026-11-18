@@ -13,6 +13,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:application-specific-integrated-circuit` | `kt:deep-blue`, `kt:ai-accelerator`, `kt:tpu` |
 | `kt:automated-planning` | `kt:planning-in-llms`, `kt:general-problem-solver`, `kt:knowledge-representation` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
+| `kt:faiss` | `kt:apache-lucene`, `kt:approximate-nearest-neighbor-search`, `kt:vector-database` |
 | `kt:herbert-a-simon` | `kt:allen-newell`, `kt:general-problem-solver`, `kt:logic-theorist` |
 | `kt:logistic-regression` | `kt:conditional-random-field`, `kt:loss-function`, `kt:bradley-terry-model` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
@@ -27,7 +28,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:allen-institute-for-ai` | `kt:commonsenseqa`, `kt:decomposed-prompting` |
 | `kt:alpha-beta-pruning` | `kt:deep-blue`, `kt:monte-carlo-tree-search` |
 | `kt:alphabet-inc` | `kt:google-deepmind`, `kt:google` |
-| `kt:apache-lucene` | `kt:bm25`, `kt:tf-idf` |
 | `kt:automatic-differentiation` | `kt:pytorch`, `kt:backpropagation` |
 | `kt:catastrophic-forgetting` | `kt:fine-tuning`, `kt:parameter-efficient-fine-tuning` |
 | `kt:cifar-10` | `kt:image-classification`, `kt:adversarial-training` |
@@ -47,7 +47,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:expectation-maximization` | `kt:hidden-markov-model`, `kt:unsupervised-learning` |
 | `kt:expected-sarsa` | `kt:sarsa`, `kt:sarsa` |
 | `kt:export-control-reform-act` | `kt:ai-chip-export-controls`, `kt:bureau-of-industry-and-security` |
-| `kt:faiss` | `kt:approximate-nearest-neighbor-search`, `kt:vector-database` |
 | `kt:finetuned-language-models-are-zero-shot-learners` | `kt:zero-shot-prompting`, `kt:instruction-tuning` |
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
 | `kt:highway-network` | `kt:residual-connection`, `kt:residual-connection` |
@@ -56,6 +55,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hugging-face-hub` | `kt:datasheets-for-datasets`, `kt:model-cards` |
 | `kt:hugging-face-peft` | `kt:parameter-efficient-fine-tuning`, `kt:qlora` |
 | `kt:induction-head` | `kt:mechanistic-interpretability`, `kt:in-context-learning` |
+| `kt:inverted-index` | `kt:apache-lucene`, `kt:information-retrieval` |
 | `kt:iso-iec-27001` | `kt:iso-iec-42001`, `kt:iso-iec-42001` |
 | `kt:john-mccarthy` | `kt:artificial-intelligence`, `kt:dartmouth-workshop` |
 | `kt:judging-llm-as-a-judge-with-mt-bench-and-chatbot-arena` | `kt:llm-as-a-judge`, `kt:mt-bench` |
@@ -203,6 +203,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:diverse-beam-search` | `kt:beam-search` |
 | `kt:domain-adaptation` | `kt:transfer-learning` |
 | `kt:donald-michie` | `kt:lighthill-report` |
+| `kt:doug-cutting` | `kt:apache-lucene` |
 | `kt:dram` | `kt:high-bandwidth-memory` |
 | `kt:dropout-a-simple-way-to-prevent-neural-networks-from-overfitting` | `kt:dropout` |
 | `kt:early-stopping` | `kt:regularization` |
@@ -263,6 +264,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:harold-hotelling` | `kt:principal-component-analysis` |
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
 | `kt:high-resolution-image-synthesis-with-latent-diffusion-models` | `kt:latent-diffusion-model` |
+| `kt:hnsw` | `kt:apache-lucene` |
 | `kt:hotpotqa-a-dataset-for-diverse-explainable-multi-hop-question-answering` | `kt:hotpotqa` |
 | `kt:humanevalfix` | `kt:swe-agent` |
 | `kt:ian-goodfellow` | `kt:generative-adversarial-network` |
@@ -286,7 +288,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:interpretability` | `kt:mechanistic-interpretability` |
 | `kt:intriguing-properties-of-neural-networks` | `kt:adversarial-example` |
 | `kt:intrinsic-motivation` | `kt:exploration-exploitation` |
-| `kt:inverted-index` | `kt:information-retrieval` |
 | `kt:iso-31000` | `kt:ai-risk-management` |
 | `kt:iso-iec-23894` | `kt:ai-risk-management` |
 | `kt:iso-iec-42006` | `kt:iso-iec-42001` |

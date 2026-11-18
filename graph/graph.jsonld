@@ -18152,6 +18152,120 @@
       ]
     },
     {
+      "@id": "kt:apache-lucene",
+      "@type": "kto:Tool",
+      "skos:prefLabel": "Apache Lucene",
+      "skos:definition": "An open-source Java search library from the Apache Software Foundation that builds inverted indexes over text and structured fields, ranks results with pluggable scoring models such as BM25, and since version 9.0 also supports approximate nearest-neighbour vector search with HNSW graphs; it is the engine inside Solr, Elasticsearch and OpenSearch.",
+      "kto:domain": "retrieval-and-knowledge",
+      "dcterms:created": "2026-11-18",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Apache Lucene Core",
+          "dcterms:publisher": "Apache Software Foundation (lucene.apache.org)",
+          "schema:url": "https://lucene.apache.org/core/",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Lucene 9.11.0 core API (package overview)",
+          "dcterms:publisher": "Apache Software Foundation, Lucene Javadoc",
+          "schema:url": "https://lucene.apache.org/core/9_11_0/core",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "07 December 2021, Apache Lucene 9.0 available",
+          "dcterms:publisher": "Apache Lucene PMC release announcement (Apache Confluence)",
+          "schema:url": "https://cwiki-test.apache.org/confluence/x/xZBnCw",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "Anserini: Enabling the Use of Lucene for Information Retrieval Research",
+          "dcterms:publisher": "Yang, Fang and Lin, SIGIR 2017 (authors' copy)",
+          "schema:url": "https://peilin-yang.github.io/files/pub/Yang_etal_SIGIR2017.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Vector Search with OpenAI Embeddings: Lucene Is All You Need",
+          "dcterms:publisher": "Lin, Pradeep, Teofili and Xian, arXiv 2308.14963 (2023)",
+          "schema:url": "https://arxiv.org/pdf/2308.14963",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Happy birthday, Lucene",
+          "dcterms:publisher": "Elastic (company history page)",
+          "schema:url": "https://www.elastic.co/celebrating-lucene",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "Apache Solr 10.0.0 released",
+          "dcterms:publisher": "Apache Solr PMC announcement (announce@apache.org archive), 4 March 2026",
+          "schema:url": "https://mail-archive.com/announce@apache.org/msg10780.html",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/retrieval-and-knowledge/apache-lucene.md",
+      "skos:altLabel": [
+        "Lucene",
+        "Lucene Core",
+        "Apache Lucene Core"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:information-retrieval"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:bm25"
+        },
+        {
+          "@id": "kt:tf-idf"
+        },
+        {
+          "@id": "kt:approximate-nearest-neighbor-search"
+        },
+        {
+          "@id": "kt:hybrid-search"
+        },
+        {
+          "@id": "kt:semantic-search"
+        },
+        {
+          "@id": "kt:vector-database"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:doug-cutting"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:inverted-index"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:faiss"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:hybrid-search"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:retrieval-augmented-generation"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:hnsw"
+        }
+      ]
+    },
+    {
       "@id": "kt:approximate-nearest-neighbor-search",
       "@type": "kto:Technique",
       "skos:prefLabel": "Approximate nearest neighbor search",
@@ -19549,6 +19663,9 @@
         },
         {
           "@id": "kt:embeddings"
+        },
+        {
+          "@id": "kt:apache-lucene"
         }
       ],
       "kto:createdBy": [
