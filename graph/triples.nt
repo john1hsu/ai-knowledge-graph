@@ -1315,6 +1315,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/executive-orders-on-ai> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> <https://github.com/john1hsu/ai-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/ai-knowledge-graph/id/us-department-of-commerce> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/catastrophic-forgetting> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/catastrophic-forgetting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Risk> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/catastrophic-forgetting> <http://www.w3.org/2000/01/rdf-schema#label> "Catastrophic forgetting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/catastrophic-forgetting> <http://www.w3.org/2004/02/skos/core#altLabel> "catastrophic interference" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/catastrophic-forgetting> <http://www.w3.org/2004/02/skos/core#altLabel> "forgetting in sequential learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/catastrophic-forgetting> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/catastrophic-forgetting> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/continual-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/catastrophic-forgetting> <http://www.w3.org/2004/02/skos/core#definition> "The tendency of a neural network trained by gradient descent to abruptly lose previously learned knowledge or skills when it is trained on new tasks or data without continued access to the old ones; the central obstacle in continual learning and a known side effect of fine-tuning." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/catastrophic-forgetting> <http://www.w3.org/2004/02/skos/core#prefLabel> "Catastrophic forgetting" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/catastrophic-forgetting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/catastrophic-forgetting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/catastrophic-forgetting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/catastrophic-forgetting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/regularization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/catastrophic-forgetting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/transfer-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/catastrophic-forgetting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/catastrophic-forgetting/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/catastrophic-forgetting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/catastrophic-forgetting/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/catastrophic-forgetting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/catastrophic-forgetting/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/catastrophic-forgetting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/catastrophic-forgetting/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/catastrophic-forgetting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/catastrophic-forgetting/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/catastrophic-forgetting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/catastrophic-forgetting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "training-and-adaptation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/catastrophic-forgetting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/catastrophic-forgetting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#mitigatedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/elastic-weight-consolidation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/catastrophic-forgetting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#mitigatedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/experience-replay> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/catastrophic-forgetting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/ai-knowledge-graph/id/stability-plasticity-dilemma> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> <http://www.w3.org/2000/01/rdf-schema#label> "Chain-of-thought prompting" .
@@ -7276,6 +7301,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bureau-of-industry-and-security/s6> <https://schema.org/url> "https://www.bis.gov/press-release/department-commerce-announces-rescission-biden-era-artificial-intelligence-diffusion-rule-strengthens" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/catastrophic-forgetting/s1> <http://purl.org/dc/terms/publisher> "arXiv:1612.00796 (Kirkpatrick et al., DeepMind and Imperial College London; authors' version)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/catastrophic-forgetting/s1> <http://purl.org/dc/terms/title> "Overcoming catastrophic forgetting in neural networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/catastrophic-forgetting/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/catastrophic-forgetting/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/catastrophic-forgetting/s1> <https://schema.org/url> "https://arxiv.org/pdf/1612.00796" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/catastrophic-forgetting/s2> <http://purl.org/dc/terms/publisher> "Connection Science 9(4), 353–379, 1997 (Robert M. French)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/catastrophic-forgetting/s2> <http://purl.org/dc/terms/title> "Pseudo-recurrent connectionist networks: An approach to the 'sensitivity–stability' dilemma" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/catastrophic-forgetting/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/catastrophic-forgetting/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/catastrophic-forgetting/s2> <https://schema.org/url> "https://itb.biologie.hu-berlin.de/~kempter/Teaching/2003_SS_Seminar/Literature/french97.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/catastrophic-forgetting/s3> <http://purl.org/dc/terms/publisher> "Nature Machine Intelligence 4, 1185–1197, 2022 (van de Ven, Tuytelaars and Tolias)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/catastrophic-forgetting/s3> <http://purl.org/dc/terms/title> "Three types of incremental learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/catastrophic-forgetting/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/catastrophic-forgetting/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/catastrophic-forgetting/s3> <https://schema.org/url> "https://www.nature.com/articles/s42256-022-00568-3.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/catastrophic-forgetting/s4> <http://purl.org/dc/terms/publisher> "arXiv:2308.08747 (Luo, Yang, Meng, Li, Zhou and Zhang), v5 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/catastrophic-forgetting/s4> <http://purl.org/dc/terms/title> "An Empirical Study of Catastrophic Forgetting in Large Language Models During Continual Fine-tuning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/catastrophic-forgetting/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/catastrophic-forgetting/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "preprint" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/catastrophic-forgetting/s4> <https://schema.org/url> "https://arxiv.org/abs/2308.08747v5" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/catastrophic-forgetting/s5> <http://purl.org/dc/terms/publisher> "arXiv:2405.09673 (Biderman et al.), v2 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/catastrophic-forgetting/s5> <http://purl.org/dc/terms/title> "LoRA Learns Less and Forgets Less" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/catastrophic-forgetting/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/catastrophic-forgetting/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/catastrophic-forgetting/s5> <https://schema.org/url> "https://arxiv.org/abs/2405.09673v2" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 2022 (Wei, Wang, Schuurmans, Bosma, Ichter, Xia, Chi, Le, Zhou)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s1> <http://purl.org/dc/terms/title> "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/chain-of-thought/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

@@ -21513,6 +21513,95 @@
       ]
     },
     {
+      "@id": "kt:catastrophic-forgetting",
+      "@type": "kto:Risk",
+      "skos:prefLabel": "Catastrophic forgetting",
+      "skos:definition": "The tendency of a neural network trained by gradient descent to abruptly lose previously learned knowledge or skills when it is trained on new tasks or data without continued access to the old ones; the central obstacle in continual learning and a known side effect of fine-tuning.",
+      "kto:domain": "training-and-adaptation",
+      "dcterms:created": "2026-11-18",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Overcoming catastrophic forgetting in neural networks",
+          "dcterms:publisher": "arXiv:1612.00796 (Kirkpatrick et al., DeepMind and Imperial College London; authors' version)",
+          "schema:url": "https://arxiv.org/pdf/1612.00796",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Pseudo-recurrent connectionist networks: An approach to the 'sensitivity–stability' dilemma",
+          "dcterms:publisher": "Connection Science 9(4), 353–379, 1997 (Robert M. French)",
+          "schema:url": "https://itb.biologie.hu-berlin.de/~kempter/Teaching/2003_SS_Seminar/Literature/french97.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Three types of incremental learning",
+          "dcterms:publisher": "Nature Machine Intelligence 4, 1185–1197, 2022 (van de Ven, Tuytelaars and Tolias)",
+          "schema:url": "https://www.nature.com/articles/s42256-022-00568-3.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "An Empirical Study of Catastrophic Forgetting in Large Language Models During Continual Fine-tuning",
+          "dcterms:publisher": "arXiv:2308.08747 (Luo, Yang, Meng, Li, Zhou and Zhang), v5 2025",
+          "schema:url": "https://arxiv.org/abs/2308.08747v5",
+          "kto:sourceType": "preprint"
+        },
+        {
+          "dcterms:title": "LoRA Learns Less and Forgets Less",
+          "dcterms:publisher": "arXiv:2405.09673 (Biderman et al.), v2 2024",
+          "schema:url": "https://arxiv.org/abs/2405.09673v2",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/training-and-adaptation/catastrophic-forgetting.md",
+      "skos:altLabel": [
+        "catastrophic interference",
+        "forgetting in sequential learning"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:continual-learning"
+        },
+        {
+          "@id": "kt:artificial-neural-network"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:fine-tuning"
+        },
+        {
+          "@id": "kt:parameter-efficient-fine-tuning"
+        },
+        {
+          "@id": "kt:transfer-learning"
+        },
+        {
+          "@id": "kt:instruction-tuning"
+        },
+        {
+          "@id": "kt:regularization"
+        }
+      ],
+      "kto:mitigatedBy": [
+        {
+          "@id": "kt:elastic-weight-consolidation"
+        },
+        {
+          "@id": "kt:experience-replay"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:stability-plasticity-dilemma"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:overfitting"
+        }
+      ]
+    },
+    {
       "@id": "kt:constitutional-ai",
       "@type": "kto:Technique",
       "skos:prefLabel": "Constitutional AI",

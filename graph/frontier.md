@@ -29,7 +29,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alpha-beta-pruning` | `kt:deep-blue`, `kt:monte-carlo-tree-search` |
 | `kt:alphabet-inc` | `kt:google-deepmind`, `kt:google` |
 | `kt:automatic-differentiation` | `kt:pytorch`, `kt:backpropagation` |
-| `kt:catastrophic-forgetting` | `kt:fine-tuning`, `kt:parameter-efficient-fine-tuning` |
 | `kt:cifar-10` | `kt:image-classification`, `kt:adversarial-training` |
 | `kt:cliff-shaw` | `kt:general-problem-solver`, `kt:logic-theorist` |
 | `kt:computing-power-and-the-governance-of-artificial-intelligence` | `kt:compute-governance`, `kt:compute-governance` |
@@ -176,6 +175,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:constitutional-ai-harmlessness-from-ai-feedback` | `kt:constitutional-ai` |
 | `kt:constrained-decoding` | `kt:structured-output` |
 | `kt:content-provenance` | `kt:nist-generative-ai-profile` |
+| `kt:continual-learning` | `kt:catastrophic-forgetting` |
 | `kt:council-of-europe` | `kt:council-of-europe-framework-convention-on-ai` |
 | `kt:cudnn` | `kt:cuda` |
 | `kt:cutlass` | `kt:tensor-cores` |
@@ -212,6 +212,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:edward-feigenbaum` | `kt:expert-systems` |
 | `kt:efficient-estimation-of-word-representations-in-vector-space` | `kt:word2vec` |
 | `kt:efficient-selectivity-and-backup-operators-in-monte-carlo-tree-search` | `kt:monte-carlo-tree-search` |
+| `kt:elastic-weight-consolidation` | `kt:catastrophic-forgetting` |
 | `kt:eliza-a-computer-program-for-the-study-of-natural-language-communication-between-man-and-machine` | `kt:eliza` |
 | `kt:eliza-effect` | `kt:eliza` |
 | `kt:elo-rating-system` | `kt:bradley-terry-model` |
@@ -220,6 +221,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:entity-linking` | `kt:named-entity-recognition` |
 | `kt:european-union` | `kt:eu-ai-act` |
 | `kt:evaluating-large-language-models-trained-on-code` | `kt:humaneval` |
+| `kt:experience-replay` | `kt:catastrophic-forgetting` |
 | `kt:expert-iteration` | `kt:star-self-taught-reasoner` |
 | `kt:explainable-ai` | `kt:fairness-accountability-and-transparency` |
 | `kt:facial-recognition` | `kt:algorithmic-bias-and-fairness` |
@@ -465,6 +467,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:softmax-regression` | `kt:image-classification` |
 | `kt:sparse-transformer` | `kt:language-models-are-few-shot-learners` |
 | `kt:speech-processing` | `kt:automatic-speech-recognition` |
+| `kt:stability-plasticity-dilemma` | `kt:catastrophic-forgetting` |
 | `kt:stanford-crfm` | `kt:foundation-model` |
 | `kt:stanford-nlp-group` | `kt:glove` |
 | `kt:star-bootstrapping-reasoning-with-reasoning` | `kt:star-self-taught-reasoner` |

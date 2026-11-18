@@ -1102,6 +1102,26 @@
     ]
   },
   {
+    "id": "kt:catastrophic-forgetting",
+    "title": "Catastrophic forgetting",
+    "aliases": [
+      "catastrophic interference",
+      "forgetting in sequential learning"
+    ],
+    "type": "Risk",
+    "domain": "training-and-adaptation",
+    "file": "articles/training-and-adaptation/catastrophic-forgetting.md",
+    "created": "2026-11-18",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://arxiv.org/pdf/1612.00796",
+      "https://itb.biologie.hu-berlin.de/~kempter/Teaching/2003_SS_Seminar/Literature/french97.pdf",
+      "https://www.nature.com/articles/s42256-022-00568-3.pdf",
+      "https://arxiv.org/abs/2308.08747v5",
+      "https://arxiv.org/abs/2405.09673v2"
+    ]
+  },
+  {
     "id": "kt:chain-of-thought",
     "title": "Chain-of-thought prompting",
     "aliases": [

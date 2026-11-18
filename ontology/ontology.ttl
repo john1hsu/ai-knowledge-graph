@@ -78,7 +78,8 @@ kto:runsOn        a owl:ObjectProperty ; rdfs:range kto:Hardware ; rdfs:label "r
 kto:enables       a owl:ObjectProperty ; rdfs:label "enables" .
 kto:dependsOn     a owl:ObjectProperty ; rdfs:label "depends on / requires" .
 kto:usedIn        a owl:ObjectProperty ; rdfs:label "used in (application)" .
-kto:mitigates     a owl:ObjectProperty ; rdfs:label "mitigates (risk)" .
+kto:mitigates     a owl:ObjectProperty ; owl:inverseOf kto:mitigatedBy ; rdfs:label "mitigates (risk)" .
+kto:mitigatedBy   a owl:ObjectProperty ; rdfs:label "mitigated by (technique)" .
 kto:causes        a owl:ObjectProperty ; rdfs:label "causes / gives rise to" .
 kto:exploits      a owl:ObjectProperty ; rdfs:label "exploits (vulnerability)" .
 kto:regulatedBy   a owl:ObjectProperty ; rdfs:range kto:Policy ; rdfs:label "regulated / governed by" .
