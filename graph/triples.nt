@@ -12452,6 +12452,26 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/tensor-cores/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/tensor-cores/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/tensor-cores/s5> <https://schema.org/url> "https://arxiv.org/html/2501.12084v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensor-parallelism/s1> <http://purl.org/dc/terms/publisher> "arXiv:1909.08053 (Shoeybi, Patwary, Puri, LeGresley, Casper, Catanzaro), NVIDIA, 2019" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensor-parallelism/s1> <http://purl.org/dc/terms/title> "Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensor-parallelism/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensor-parallelism/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensor-parallelism/s1> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/1909.08053" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensor-parallelism/s2> <http://purl.org/dc/terms/publisher> "SC '21 (Narayanan, Shoeybi, Casper, LeGresley, Patwary, Korthikanti, Vainbrand, Kashinkunti, Bernauer, Catanzaro, Phanishayee, Zaharia)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensor-parallelism/s2> <http://purl.org/dc/terms/title> "Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensor-parallelism/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensor-parallelism/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensor-parallelism/s2> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/2104.04473v4" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensor-parallelism/s3> <http://purl.org/dc/terms/publisher> "MLSys 2023 (Korthikanti, Casper, Lym, McAfee, Andersch, Shoeybi, Catanzaro)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensor-parallelism/s3> <http://purl.org/dc/terms/title> "Reducing Activation Recomputation in Large Transformer Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensor-parallelism/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensor-parallelism/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensor-parallelism/s3> <https://schema.org/url> "https://proceedings.mlsys.org/paper_files/paper/2023/file/80083951326cf5b35e5100260d64ed81-Paper-mlsys2023.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensor-parallelism/s4> <http://purl.org/dc/terms/publisher> "PyTorch documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensor-parallelism/s4> <http://purl.org/dc/terms/title> "Tensor Parallelism - torch.distributed.tensor.parallel, PyTorch 2.14" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensor-parallelism/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensor-parallelism/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/tensor-parallelism/s4> <https://schema.org/url> "https://docs.pytorch.org/docs/2.14/distributed.tensor.parallel.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s1> <http://purl.org/dc/terms/publisher> "NVIDIA TensorRT-LLM documentation" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s1> <http://purl.org/dc/terms/title> "Overview — TensorRT LLM documentation (1.4.0rc3)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/tensorrt-llm/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
@@ -13636,6 +13656,33 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/tensor-cores> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/transformer-engine> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/tensor-cores> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/tensor-cores> <https://github.com/john1hsu/ai-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensor-parallelism> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensor-parallelism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensor-parallelism> <http://www.w3.org/2000/01/rdf-schema#label> "Tensor parallelism" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensor-parallelism> <http://www.w3.org/2004/02/skos/core#altLabel> "Megatron-style tensor parallelism" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensor-parallelism> <http://www.w3.org/2004/02/skos/core#altLabel> "intra-layer model parallelism" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensor-parallelism> <http://www.w3.org/2004/02/skos/core#altLabel> "tensor model parallelism" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensor-parallelism> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensor-parallelism> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/model-parallelism> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensor-parallelism> <http://www.w3.org/2004/02/skos/core#definition> "A form of model parallelism that splits the weight matrices inside each layer across several accelerators, so every device computes a slice of each matrix multiplication and the partial results are combined with collective communication such as all-reduce." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensor-parallelism> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tensor parallelism" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensor-parallelism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/activation-checkpointing> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensor-parallelism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/data-parallelism> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensor-parallelism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/pipeline-parallelism> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensor-parallelism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/sequence-parallelism> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensor-parallelism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/zero-redundancy-optimizer> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensor-parallelism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/tensor-parallelism/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensor-parallelism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/tensor-parallelism/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensor-parallelism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/tensor-parallelism/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensor-parallelism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/tensor-parallelism/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensor-parallelism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/nvidia> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensor-parallelism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/all-reduce> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensor-parallelism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-infrastructure-and-mlops" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensor-parallelism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensor-parallelism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensor-parallelism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/megatron-lm-training-multi-billion-parameter-language-models-using-model-parallelism> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensor-parallelism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/tensor-parallelism> <https://github.com/john1hsu/ai-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Tool> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/tensorrt-llm> <http://www.w3.org/2000/01/rdf-schema#label> "TensorRT-LLM" .

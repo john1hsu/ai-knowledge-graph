@@ -10,21 +10,22 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:automated-planning` | `kt:planning-in-llms`, `kt:general-problem-solver`, `kt:heuristic-search`, `kt:knowledge-representation` |
 | `kt:mathematical-optimization` | `kt:adagrad`, `kt:gradient-descent`, `kt:loss-function`, `kt:stochastic-gradient-descent` |
 | `kt:microsoft-research` | `kt:alfworld`, `kt:autogen`, `kt:residual-connection`, `kt:graphrag` |
+| `kt:zero-redundancy-optimizer` | `kt:data-parallelism`, `kt:distributed-training`, `kt:pipeline-parallelism`, `kt:tensor-parallelism` |
+| `kt:all-reduce` | `kt:data-parallelism`, `kt:distributed-training`, `kt:tensor-parallelism` |
 | `kt:application-specific-integrated-circuit` | `kt:deep-blue`, `kt:ai-accelerator`, `kt:tpu` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
 | `kt:faiss` | `kt:apache-lucene`, `kt:approximate-nearest-neighbor-search`, `kt:vector-database` |
 | `kt:herbert-a-simon` | `kt:allen-newell`, `kt:general-problem-solver`, `kt:logic-theorist` |
 | `kt:logistic-regression` | `kt:conditional-random-field`, `kt:loss-function`, `kt:bradley-terry-model` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
+| `kt:model-parallelism` | `kt:data-parallelism`, `kt:pipeline-parallelism`, `kt:tensor-parallelism` |
 | `kt:physical-symbol-system-hypothesis` | `kt:allen-newell`, `kt:heuristic-search`, `kt:symbolic-ai` |
 | `kt:r-cnn` | `kt:faster-r-cnn`, `kt:pascal-voc`, `kt:yolo` |
 | `kt:rmsprop` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:adagrad` |
 | `kt:support-vector-machine` | `kt:perceptron`, `kt:loss-function`, `kt:statistical-learning-theory` |
-| `kt:tensor-parallelism` | `kt:distributed-training`, `kt:pipeline-parallelism`, `kt:orca-serving-system` |
-| `kt:zero-redundancy-optimizer` | `kt:data-parallelism`, `kt:distributed-training`, `kt:pipeline-parallelism` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
+| `kt:activation-checkpointing` | `kt:pipeline-parallelism`, `kt:tensor-parallelism` |
 | `kt:ai-ethics` | `kt:algorithmic-bias-and-fairness`, `kt:fairness-accountability-and-transparency` |
-| `kt:all-reduce` | `kt:data-parallelism`, `kt:distributed-training` |
 | `kt:allen-institute-for-ai` | `kt:commonsenseqa`, `kt:decomposed-prompting` |
 | `kt:alpha-beta-pruning` | `kt:deep-blue`, `kt:monte-carlo-tree-search` |
 | `kt:alphabet-inc` | `kt:google-deepmind`, `kt:google` |
@@ -70,7 +71,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:meta-ai` | `kt:toolformer`, `kt:pytorch` |
 | `kt:mini-swe-agent` | `kt:swe-agent`, `kt:swe-agent` |
 | `kt:model-compression-caruana-2006` | `kt:model-compression`, `kt:knowledge-distillation` |
-| `kt:model-parallelism` | `kt:data-parallelism`, `kt:pipeline-parallelism` |
 | `kt:monte-carlo-methods` | `kt:monte-carlo-tree-search`, `kt:temporal-difference-learning` |
 | `kt:muzero` | `kt:alphazero`, `kt:monte-carlo-tree-search` |
 | `kt:nist` | `kt:nist-ai-risk-management-framework`, `kt:nist-generative-ai-profile` |
@@ -95,7 +95,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:a-formal-basis-for-the-heuristic-determination-of-minimum-cost-paths` | `kt:heuristic-search` |
 | `kt:a-star-search` | `kt:heuristic-search` |
 | `kt:a-stochastic-approximation-method` | `kt:stochastic-gradient-descent` |
-| `kt:activation-checkpointing` | `kt:pipeline-parallelism` |
 | `kt:adam-a-method-for-stochastic-optimization` | `kt:adam-optimizer` |
 | `kt:adamw` | `kt:adam-optimizer` |
 | `kt:adapter-modules` | `kt:parameter-efficient-fine-tuning` |
@@ -349,6 +348,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mathematical-reasoning` | `kt:program-induction-by-rationale-generation` |
 | `kt:maximum-entropy-markov-model` | `kt:conditional-random-field` |
 | `kt:mbpp` | `kt:humaneval` |
+| `kt:megatron-lm-training-multi-billion-parameter-language-models-using-model-parallelism` | `kt:tensor-parallelism` |
 | `kt:memgpt` | `kt:agent-memory` |
 | `kt:memory-wall` | `kt:high-bandwidth-memory` |
 | `kt:message-understanding-conference-6` | `kt:named-entity-recognition` |
@@ -459,6 +459,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:self-consistency-improves-chain-of-thought-reasoning-in-language-models` | `kt:self-consistency` |
 | `kt:sentiment-analysis` | `kt:natural-language-processing` |
 | `kt:sepp-hochreiter` | `kt:long-short-term-memory` |
+| `kt:sequence-parallelism` | `kt:tensor-parallelism` |
 | `kt:sglang` | `kt:prefix-caching` |
 | `kt:sglang-efficient-execution-of-structured-language-model-programs` | `kt:prefix-caching` |
 | `kt:show-and-tell-a-neural-image-caption-generator` | `kt:image-captioning` |

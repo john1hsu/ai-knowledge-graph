@@ -5241,6 +5241,26 @@
     ]
   },
   {
+    "id": "kt:tensor-parallelism",
+    "title": "Tensor parallelism",
+    "aliases": [
+      "intra-layer model parallelism",
+      "tensor model parallelism",
+      "Megatron-style tensor parallelism"
+    ],
+    "type": "Technique",
+    "domain": "ai-infrastructure-and-mlops",
+    "file": "articles/ai-infrastructure-and-mlops/tensor-parallelism.md",
+    "created": "2026-11-18",
+    "maturity": "established",
+    "source_urls": [
+      "https://ar5iv.labs.arxiv.org/html/1909.08053",
+      "https://ar5iv.labs.arxiv.org/html/2104.04473v4",
+      "https://proceedings.mlsys.org/paper_files/paper/2023/file/80083951326cf5b35e5100260d64ed81-Paper-mlsys2023.pdf",
+      "https://docs.pytorch.org/docs/2.14/distributed.tensor.parallel.html"
+    ]
+  },
+  {
     "id": "kt:tensorrt-llm",
     "title": "TensorRT-LLM",
     "aliases": [
