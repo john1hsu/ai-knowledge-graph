@@ -16279,6 +16279,105 @@
       ]
     },
     {
+      "@id": "kt:contextual-bandit",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Contextual bandit",
+      "skos:definition": "A sequential decision problem in which the learner observes a context each round, picks one of K actions, and sees the reward of that action only; the goal is to compete with the best policy (a mapping from contexts to actions) in a given class.",
+      "kto:domain": "reinforcement-learning",
+      "dcterms:created": "2026-11-18",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Epoch-Greedy Algorithm for Multi-armed Bandits with Side Information",
+          "dcterms:publisher": "NeurIPS 2007 (Langford and Zhang)",
+          "schema:url": "https://papers.neurips.cc/paper_files/paper/2007/file/4b04a686b0ad13dce35fa99fa4161c65-Paper.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Contextual Bandit Algorithms with Supervised Learning Guarantees",
+          "dcterms:publisher": "AISTATS 2011, PMLR 15:19-26 (Beygelzimer, Langford, Li, Reyzin and Schapire)",
+          "schema:url": "https://proceedings.mlr.press/v15/beygelzimer11a.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Taming the Monster: A Fast and Simple Algorithm for Contextual Bandits",
+          "dcterms:publisher": "arXiv 1402.0555; ICML 2014, PMLR 32(2):1638-1646 (Agarwal, Hsu, Kale, Langford, Li and Schapire)",
+          "schema:url": "https://arxiv.org/pdf/1402.0555",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Doubly Robust Policy Evaluation and Learning",
+          "dcterms:publisher": "arXiv 1103.4601; ICML 2011 (Dudík, Langford and Li)",
+          "schema:url": "https://www.arxiv.org/abs/1103.4601",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Contextual Bandits (Vowpal Wabbit Python tutorial, v9.6.0)",
+          "dcterms:publisher": "Vowpal Wabbit project documentation",
+          "schema:url": "https://vowpalwabbit.org/docs/vowpal_wabbit/python/9.6.0/tutorials/python_Contextual_bandits_and_Vowpal_Wabbit.html",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/reinforcement-learning/contextual-bandit.md",
+      "skos:altLabel": [
+        "contextual bandits",
+        "contextual multi-armed bandit",
+        "bandits with side information",
+        "associative bandit"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:multi-armed-bandit"
+        },
+        {
+          "@id": "kt:reinforcement-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:exploration-exploitation"
+        },
+        {
+          "@id": "kt:thompson-sampling"
+        },
+        {
+          "@id": "kt:upper-confidence-bound"
+        },
+        {
+          "@id": "kt:recommender-system"
+        },
+        {
+          "@id": "kt:off-policy-evaluation"
+        },
+        {
+          "@id": "kt:online-learning"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:the-epoch-greedy-algorithm-for-contextual-multi-armed-bandits"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:recommender-system"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:vowpal-wabbit"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:markov-decision-process"
+        },
+        {
+          "@id": "kt:supervised-learning"
+        }
+      ]
+    },
+    {
       "@id": "kt:deep-q-network",
       "@type": "kto:Algorithm",
       "skos:prefLabel": "Deep Q-network: human-level control through deep reinforcement learning",

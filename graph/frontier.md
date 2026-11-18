@@ -12,7 +12,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:application-specific-integrated-circuit` | `kt:deep-blue`, `kt:ai-accelerator`, `kt:tpu` |
 | `kt:automated-planning` | `kt:planning-in-llms`, `kt:general-problem-solver`, `kt:knowledge-representation` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
-| `kt:contextual-bandit` | `kt:multi-armed-bandit`, `kt:thompson-sampling`, `kt:upper-confidence-bound` |
 | `kt:fairness-accountability-and-transparency` | `kt:algorithmic-bias-and-fairness`, `kt:datasheets-for-datasets`, `kt:model-cards` |
 | `kt:foundation-model` | `kt:self-supervised-learning`, `kt:transfer-learning`, `kt:large-language-model` |
 | `kt:herbert-a-simon` | `kt:allen-newell`, `kt:general-problem-solver`, `kt:logic-theorist` |
@@ -76,6 +75,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:monte-carlo-methods` | `kt:monte-carlo-tree-search`, `kt:temporal-difference-learning` |
 | `kt:muzero` | `kt:alphazero`, `kt:monte-carlo-tree-search` |
 | `kt:nist` | `kt:nist-ai-risk-management-framework`, `kt:nist-generative-ai-profile` |
+| `kt:online-learning` | `kt:adagrad`, `kt:contextual-bandit` |
 | `kt:physical-symbol-system-hypothesis` | `kt:allen-newell`, `kt:symbolic-ai` |
 | `kt:post-training` | `kt:hugging-face-trl`, `kt:instruction-tuning` |
 | `kt:post-training-quantization` | `kt:awq`, `kt:gptq` |
@@ -375,11 +375,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:non-maximum-suppression` | `kt:object-detection` |
 | `kt:nvidia-dynamo` | `kt:triton-inference-server` |
 | `kt:oecd` | `kt:oecd-ai-principles` |
+| `kt:off-policy-evaluation` | `kt:contextual-bandit` |
 | `kt:office-of-management-and-budget` | `kt:omb-ai-memoranda` |
 | `kt:olaf-ronneberger` | `kt:u-net` |
 | `kt:on-line-q-learning-using-connectionist-systems` | `kt:sarsa` |
 | `kt:on-the-likelihood-that-one-unknown-probability-exceeds-another` | `kt:thompson-sampling` |
-| `kt:online-learning` | `kt:adagrad` |
 | `kt:optimal-brain-compression` | `kt:gptq` |
 | `kt:optimal-brain-damage` | `kt:model-pruning` |
 | `kt:orca-a-distributed-serving-system-for-transformer-based-generative-models` | `kt:orca-serving-system` |
@@ -476,6 +476,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:td-gammon` | `kt:temporal-difference-learning` |
 | `kt:tensorflow` | `kt:google` |
 | `kt:textworld` | `kt:alfworld` |
+| `kt:the-epoch-greedy-algorithm-for-contextual-multi-armed-bandits` | `kt:contextual-bandit` |
 | `kt:the-leaderboard-illusion` | `kt:chatbot-arena` |
 | `kt:the-logic-theory-machine-a-complex-information-processing-system` | `kt:logic-theorist` |
 | `kt:the-pascal-visual-object-classes-voc-challenge` | `kt:pascal-voc` |
@@ -509,6 +510,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:variational-inference` | `kt:variational-autoencoder` |
 | `kt:vc-dimension` | `kt:statistical-learning-theory` |
 | `kt:vladimir-vapnik` | `kt:statistical-learning-theory` |
+| `kt:vowpal-wabbit` | `kt:contextual-bandit` |
 | `kt:voyager-an-open-ended-embodied-agent-with-large-language-models` | `kt:voyager` |
 | `kt:vtab` | `kt:an-image-is-worth-16x16-words` |
 | `kt:walter-pitts` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |

@@ -1358,6 +1358,28 @@
     ]
   },
   {
+    "id": "kt:contextual-bandit",
+    "title": "Contextual bandit",
+    "aliases": [
+      "contextual bandits",
+      "contextual multi-armed bandit",
+      "bandits with side information",
+      "associative bandit"
+    ],
+    "type": "Concept",
+    "domain": "reinforcement-learning",
+    "file": "articles/reinforcement-learning/contextual-bandit.md",
+    "created": "2026-11-18",
+    "maturity": "established",
+    "source_urls": [
+      "https://papers.neurips.cc/paper_files/paper/2007/file/4b04a686b0ad13dce35fa99fa4161c65-Paper.pdf",
+      "https://proceedings.mlr.press/v15/beygelzimer11a.html",
+      "https://arxiv.org/pdf/1402.0555",
+      "https://www.arxiv.org/abs/1103.4601",
+      "https://vowpalwabbit.org/docs/vowpal_wabbit/python/9.6.0/tutorials/python_Contextual_bandits_and_Vowpal_Wabbit.html"
+    ]
+  },
+  {
     "id": "kt:contextual-calibration",
     "title": "Contextual calibration",
     "aliases": [

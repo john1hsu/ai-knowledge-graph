@@ -1625,6 +1625,35 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/in-context-learning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/ruler> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/context-window> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-bandit> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-bandit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-bandit> <http://www.w3.org/2000/01/rdf-schema#label> "Contextual bandit" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-bandit> <http://www.w3.org/2004/02/skos/core#altLabel> "associative bandit" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-bandit> <http://www.w3.org/2004/02/skos/core#altLabel> "bandits with side information" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-bandit> <http://www.w3.org/2004/02/skos/core#altLabel> "contextual bandits" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-bandit> <http://www.w3.org/2004/02/skos/core#altLabel> "contextual multi-armed bandit" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-bandit> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/multi-armed-bandit> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-bandit> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-bandit> <http://www.w3.org/2004/02/skos/core#definition> "A sequential decision problem in which the learner observes a context each round, picks one of K actions, and sees the reward of that action only; the goal is to compete with the best policy (a mapping from contexts to actions) in a given class." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-bandit> <http://www.w3.org/2004/02/skos/core#prefLabel> "Contextual bandit" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-bandit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-bandit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/off-policy-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-bandit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/online-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-bandit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/recommender-system> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-bandit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/thompson-sampling> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-bandit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/upper-confidence-bound> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-bandit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-bandit/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-bandit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-bandit/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-bandit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-bandit/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-bandit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-bandit/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-bandit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-bandit/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-bandit> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/markov-decision-process> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-bandit> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/supervised-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-bandit> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "reinforcement-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-bandit> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/vowpal-wabbit> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-bandit> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/the-epoch-greedy-algorithm-for-contextual-multi-armed-bandits> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-bandit> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/contextual-bandit> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/recommender-system> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/contextual-calibration> <http://purl.org/dc/terms/created> "2026-11-18" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/contextual-calibration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/contextual-calibration> <http://www.w3.org/2000/01/rdf-schema#label> "Contextual calibration" .
@@ -7328,6 +7357,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/context-window/s6> <https://schema.org/url> "https://platform.claude.com/docs/es/build-with-claude/context-windows" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-bandit/s1> <http://purl.org/dc/terms/publisher> "NeurIPS 2007 (Langford and Zhang)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-bandit/s1> <http://purl.org/dc/terms/title> "The Epoch-Greedy Algorithm for Multi-armed Bandits with Side Information" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-bandit/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-bandit/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-bandit/s1> <https://schema.org/url> "https://papers.neurips.cc/paper_files/paper/2007/file/4b04a686b0ad13dce35fa99fa4161c65-Paper.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-bandit/s2> <http://purl.org/dc/terms/publisher> "AISTATS 2011, PMLR 15:19-26 (Beygelzimer, Langford, Li, Reyzin and Schapire)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-bandit/s2> <http://purl.org/dc/terms/title> "Contextual Bandit Algorithms with Supervised Learning Guarantees" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-bandit/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-bandit/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-bandit/s2> <https://schema.org/url> "https://proceedings.mlr.press/v15/beygelzimer11a.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-bandit/s3> <http://purl.org/dc/terms/publisher> "arXiv 1402.0555; ICML 2014, PMLR 32(2):1638-1646 (Agarwal, Hsu, Kale, Langford, Li and Schapire)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-bandit/s3> <http://purl.org/dc/terms/title> "Taming the Monster: A Fast and Simple Algorithm for Contextual Bandits" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-bandit/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-bandit/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-bandit/s3> <https://schema.org/url> "https://arxiv.org/pdf/1402.0555" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-bandit/s4> <http://purl.org/dc/terms/publisher> "arXiv 1103.4601; ICML 2011 (Dudík, Langford and Li)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-bandit/s4> <http://purl.org/dc/terms/title> "Doubly Robust Policy Evaluation and Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-bandit/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-bandit/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-bandit/s4> <https://schema.org/url> "https://www.arxiv.org/abs/1103.4601" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-bandit/s5> <http://purl.org/dc/terms/publisher> "Vowpal Wabbit project documentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-bandit/s5> <http://purl.org/dc/terms/title> "Contextual Bandits (Vowpal Wabbit Python tutorial, v9.6.0)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-bandit/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-bandit/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-bandit/s5> <https://schema.org/url> "https://vowpalwabbit.org/docs/vowpal_wabbit/python/9.6.0/tutorials/python_Contextual_bandits_and_Vowpal_Wabbit.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s1> <http://purl.org/dc/terms/publisher> "ICML 2021, PMLR vol. 139, pp. 12697-12706 (Zhao, Wallace, Feng, Klein, Singh)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s1> <http://purl.org/dc/terms/title> "Calibrate Before Use: Improving Few-shot Performance of Language Models" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/contextual-calibration/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
