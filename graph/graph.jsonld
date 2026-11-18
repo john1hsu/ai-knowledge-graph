@@ -18083,6 +18083,81 @@
       ]
     },
     {
+      "@id": "kt:recommender-system",
+      "@type": "kto:Application",
+      "skos:prefLabel": "Recommender system",
+      "skos:definition": "A system that predicts which items (products, videos, articles, songs) a user is likely to prefer and ranks a personalised shortlist of them, typically by learning from past user–item interactions (collaborative filtering), item attributes (content-based filtering), or both.",
+      "kto:domain": "retrieval-and-knowledge",
+      "dcterms:created": "2026-11-18",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Matrix Factorization Techniques for Recommender Systems",
+          "dcterms:publisher": "IEEE Computer 42(8), 2009 (Koren, Bell and Volinsky); copy hosted on a Columbia University course reading list",
+          "schema:url": "https://www.cs.columbia.edu/%7Eblei/fogm/2023F/readings/KorenBellVolinsky2009.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Item-based collaborative filtering recommendation algorithms",
+          "dcterms:publisher": "Proceedings of WWW 2001, ACM, pp. 285–295 (Sarwar, Karypis, Konstan and Riedl); University of Minnesota research portal",
+          "schema:url": "https://experts.umn.edu/en/publications/item-based-collaborative-filtering-recommendation-algorithms/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Deep Neural Networks for YouTube Recommendations",
+          "dcterms:publisher": "Google Research; ACM RecSys 2016 (Covington, Adams and Sargin)",
+          "schema:url": "https://research.google/pubs/pub45530?hl=es",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Recommendation systems overview: types and architecture",
+          "dcterms:publisher": "Google for Developers, Machine Learning recommendation systems course",
+          "schema:url": "https://developers.google.cn/machine-learning/recommendation/overview/types?hl=en",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/retrieval-and-knowledge/recommender-system.md",
+      "skos:altLabel": [
+        "recommendation system",
+        "recommendation engine",
+        "recommender"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:information-retrieval"
+        },
+        {
+          "@id": "kt:machine-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:multi-armed-bandit"
+        },
+        {
+          "@id": "kt:reranking"
+        },
+        {
+          "@id": "kt:algorithmic-bias-and-fairness"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:collaborative-filtering"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:approximate-nearest-neighbor-search"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:netflix-prize"
+        }
+      ]
+    },
+    {
       "@id": "kt:reranking",
       "@type": "kto:Technique",
       "skos:prefLabel": "Reranking",

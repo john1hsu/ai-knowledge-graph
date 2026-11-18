@@ -20,7 +20,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
 | `kt:mathematical-optimization` | `kt:adagrad`, `kt:gradient-descent`, `kt:stochastic-gradient-descent` |
 | `kt:r-cnn` | `kt:faster-r-cnn`, `kt:pascal-voc`, `kt:yolo` |
-| `kt:recommender-system` | `kt:multi-armed-bandit`, `kt:thompson-sampling`, `kt:upper-confidence-bound` |
 | `kt:rmsprop` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:adagrad` |
 | `kt:tensor-parallelism` | `kt:distributed-training`, `kt:pipeline-parallelism`, `kt:orca-serving-system` |
 | `kt:zero-redundancy-optimizer` | `kt:data-parallelism`, `kt:distributed-training`, `kt:pipeline-parallelism` |
@@ -160,6 +159,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:clipper-prediction-serving-system` | `kt:model-serving` |
 | `kt:cognitive-science` | `kt:connectionism` |
 | `kt:colbert` | `kt:reranking` |
+| `kt:collaborative-filtering` | `kt:recommender-system` |
 | `kt:commonsense-reasoning` | `kt:commonsenseqa` |
 | `kt:commonsenseqa-2-0` | `kt:commonsenseqa` |
 | `kt:commonsenseqa-a-question-answering-challenge-targeting-commonsense-knowledge` | `kt:commonsenseqa` |
@@ -364,6 +364,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mycin` | `kt:expert-systems` |
 | `kt:negative-transfer` | `kt:transfer-learning` |
 | `kt:neocognitron` | `kt:convolutional-neural-network` |
+| `kt:netflix-prize` | `kt:recommender-system` |
 | `kt:neural-machine-translation` | `kt:machine-translation` |
 | `kt:neuro-symbolic-ai` | `kt:symbolic-ai` |
 | `kt:new-legislative-framework` | `kt:eu-ai-act` |

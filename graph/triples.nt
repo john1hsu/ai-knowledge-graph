@@ -4819,6 +4819,28 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought-faithfulness> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/reinforcement-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recommender-system> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recommender-system> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Application> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recommender-system> <http://www.w3.org/2000/01/rdf-schema#label> "Recommender system" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recommender-system> <http://www.w3.org/2004/02/skos/core#altLabel> "recommendation engine" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recommender-system> <http://www.w3.org/2004/02/skos/core#altLabel> "recommendation system" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recommender-system> <http://www.w3.org/2004/02/skos/core#altLabel> "recommender" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recommender-system> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recommender-system> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recommender-system> <http://www.w3.org/2004/02/skos/core#definition> "A system that predicts which items (products, videos, articles, songs) a user is likely to prefer and ranks a personalised shortlist of them, typically by learning from past user–item interactions (collaborative filtering), item attributes (content-based filtering), or both." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recommender-system> <http://www.w3.org/2004/02/skos/core#prefLabel> "Recommender system" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recommender-system> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recommender-system> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/multi-armed-bandit> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recommender-system> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/reranking> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recommender-system> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/recommender-system/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recommender-system> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/recommender-system/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recommender-system> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/recommender-system/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recommender-system> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/recommender-system/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recommender-system> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recommender-system> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "retrieval-and-knowledge" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recommender-system> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/netflix-prize> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recommender-system> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/collaborative-filtering> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/recommender-system> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/recurrent-neural-network> <http://www.w3.org/2000/01/rdf-schema#label> "Recurrent neural network" .
@@ -10516,6 +10538,26 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/reasoning-models/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/reasoning-models/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/reasoning-models/s5> <https://schema.org/url> "https://machinelearning.apple.com/research/illusion-of-thinking" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recommender-system/s1> <http://purl.org/dc/terms/publisher> "IEEE Computer 42(8), 2009 (Koren, Bell and Volinsky); copy hosted on a Columbia University course reading list" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recommender-system/s1> <http://purl.org/dc/terms/title> "Matrix Factorization Techniques for Recommender Systems" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recommender-system/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recommender-system/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recommender-system/s1> <https://schema.org/url> "https://www.cs.columbia.edu/%7Eblei/fogm/2023F/readings/KorenBellVolinsky2009.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recommender-system/s2> <http://purl.org/dc/terms/publisher> "Proceedings of WWW 2001, ACM, pp. 285–295 (Sarwar, Karypis, Konstan and Riedl); University of Minnesota research portal" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recommender-system/s2> <http://purl.org/dc/terms/title> "Item-based collaborative filtering recommendation algorithms" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recommender-system/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recommender-system/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recommender-system/s2> <https://schema.org/url> "https://experts.umn.edu/en/publications/item-based-collaborative-filtering-recommendation-algorithms/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recommender-system/s3> <http://purl.org/dc/terms/publisher> "Google Research; ACM RecSys 2016 (Covington, Adams and Sargin)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recommender-system/s3> <http://purl.org/dc/terms/title> "Deep Neural Networks for YouTube Recommendations" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recommender-system/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recommender-system/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recommender-system/s3> <https://schema.org/url> "https://research.google/pubs/pub45530?hl=es" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recommender-system/s4> <http://purl.org/dc/terms/publisher> "Google for Developers, Machine Learning recommendation systems course" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recommender-system/s4> <http://purl.org/dc/terms/title> "Recommendation systems overview: types and architecture" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recommender-system/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recommender-system/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/recommender-system/s4> <https://schema.org/url> "https://developers.google.cn/machine-learning/recommendation/overview/types?hl=en" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s1> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (Zhang, Lipton, Li and Smola)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s1> <http://purl.org/dc/terms/title> "9.4. Recurrent Neural Networks" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/recurrent-neural-network/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

@@ -4049,6 +4049,26 @@
     ]
   },
   {
+    "id": "kt:recommender-system",
+    "title": "Recommender system",
+    "aliases": [
+      "recommendation system",
+      "recommendation engine",
+      "recommender"
+    ],
+    "type": "Application",
+    "domain": "retrieval-and-knowledge",
+    "file": "articles/retrieval-and-knowledge/recommender-system.md",
+    "created": "2026-11-18",
+    "maturity": "established",
+    "source_urls": [
+      "https://www.cs.columbia.edu/%7Eblei/fogm/2023F/readings/KorenBellVolinsky2009.pdf",
+      "https://experts.umn.edu/en/publications/item-based-collaborative-filtering-recommendation-algorithms/",
+      "https://research.google/pubs/pub45530?hl=es",
+      "https://developers.google.cn/machine-learning/recommendation/overview/types?hl=en"
+    ]
+  },
+  {
     "id": "kt:recurrent-neural-network",
     "title": "Recurrent neural network",
     "aliases": [
