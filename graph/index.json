@@ -4745,6 +4745,27 @@
     ]
   },
   {
+    "id": "kt:rmsprop",
+    "title": "RMSprop",
+    "aliases": [
+      "RMSProp",
+      "root mean square propagation",
+      "rmsprop optimizer"
+    ],
+    "type": "Algorithm",
+    "domain": "deep-learning",
+    "file": "articles/deep-learning/rmsprop.md",
+    "created": "2026-11-19",
+    "maturity": "established",
+    "source_urls": [
+      "https://www.cs.toronto.edu/~bonner/courses/2016s/csc321/lectures/lec6.pdf",
+      "https://d2l.ai/chapter_optimization/rmsprop.html",
+      "https://docs.pytorch.org/docs/2.3/generated/torch.optim.RMSprop.html",
+      "https://ar5iv.labs.arxiv.org/html/1308.0850",
+      "https://arxiv.org/pdf/1609.04747"
+    ]
+  },
+  {
     "id": "kt:sampling-temperature-and-top-p",
     "title": "Sampling temperature and top-p",
     "aliases": [

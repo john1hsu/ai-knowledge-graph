@@ -5678,6 +5678,34 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/hugging-face-trl> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-reinforcement-learning-from-human-preferences> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rmsprop> <http://purl.org/dc/terms/created> "2026-11-19" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rmsprop> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rmsprop> <http://www.w3.org/2000/01/rdf-schema#label> "RMSprop" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rmsprop> <http://www.w3.org/2004/02/skos/core#altLabel> "RMSProp" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rmsprop> <http://www.w3.org/2004/02/skos/core#altLabel> "rmsprop optimizer" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rmsprop> <http://www.w3.org/2004/02/skos/core#altLabel> "root mean square propagation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rmsprop> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rmsprop> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rmsprop> <http://www.w3.org/2004/02/skos/core#definition> "An adaptive learning-rate optimizer, presented by Geoffrey Hinton in his 2012 Coursera lectures and credited to Tijmen Tieleman, that divides each parameter's gradient by the square root of an exponential moving average of that parameter's recent squared gradients; it was never formally published but became a standard deep-learning optimizer and a direct ancestor of Adam." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rmsprop> <http://www.w3.org/2004/02/skos/core#prefLabel> "RMSprop" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rmsprop> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rmsprop> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/adam-optimizer> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rmsprop> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rmsprop> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/long-short-term-memory> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rmsprop> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/momentum> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rmsprop> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/rmsprop/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rmsprop> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/rmsprop/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rmsprop> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/rmsprop/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rmsprop> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/rmsprop/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rmsprop> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/rmsprop/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rmsprop> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/adadelta> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rmsprop> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/rprop> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rmsprop> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/geoffrey-hinton> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rmsprop> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/tijmen-tieleman> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rmsprop> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "deep-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rmsprop> <https://github.com/john1hsu/ai-knowledge-graph/ontology#extends> <https://github.com/john1hsu/ai-knowledge-graph/id/adagrad> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rmsprop> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/rmsprop> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/sampling-temperature-and-top-p> <http://www.w3.org/2000/01/rdf-schema#label> "Sampling temperature and top-p" .
@@ -11899,6 +11927,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/rlhf/s6> <https://schema.org/url> "https://huggingface.co/docs/trl/v0.12.0/en/index" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rmsprop/s1> <http://purl.org/dc/terms/publisher> "Geoffrey Hinton with Nitish Srivastava and Kevin Swersky; hosted for University of Toronto CSC321 (2016)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rmsprop/s1> <http://purl.org/dc/terms/title> "Neural Networks for Machine Learning, Lecture 6 (6e: rmsprop) slides" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rmsprop/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rmsprop/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rmsprop/s1> <https://schema.org/url> "https://www.cs.toronto.edu/~bonner/courses/2016s/csc321/lectures/lec6.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rmsprop/s2> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (Zhang, Lipton, Li and Smola), d2l.ai" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rmsprop/s2> <http://purl.org/dc/terms/title> "12.8. RMSProp" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rmsprop/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rmsprop/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rmsprop/s2> <https://schema.org/url> "https://d2l.ai/chapter_optimization/rmsprop.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rmsprop/s3> <http://purl.org/dc/terms/publisher> "PyTorch" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rmsprop/s3> <http://purl.org/dc/terms/title> "torch.optim.RMSprop (PyTorch 2.3 documentation)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rmsprop/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rmsprop/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rmsprop/s3> <https://schema.org/url> "https://docs.pytorch.org/docs/2.3/generated/torch.optim.RMSprop.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rmsprop/s4> <http://purl.org/dc/terms/publisher> "Alex Graves, arXiv:1308.0850 (2013), ar5iv rendering" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rmsprop/s4> <http://purl.org/dc/terms/title> "Generating Sequences With Recurrent Neural Networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rmsprop/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rmsprop/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rmsprop/s4> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/1308.0850" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rmsprop/s5> <http://purl.org/dc/terms/publisher> "Sebastian Ruder, arXiv:1609.04747 (2016)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rmsprop/s5> <http://purl.org/dc/terms/title> "An overview of gradient descent optimization algorithms" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rmsprop/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rmsprop/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "preprint" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/rmsprop/s5> <https://schema.org/url> "https://arxiv.org/pdf/1609.04747" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s1> <http://purl.org/dc/terms/publisher> "ICLR 2020 (Holtzman, Buys, Du, Forbes, Choi); arXiv:1904.09751v2" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s1> <http://purl.org/dc/terms/title> "The Curious Case of Neural Text Degeneration" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/sampling-temperature-and-top-p/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

@@ -21,7 +21,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:model-parallelism` | `kt:data-parallelism`, `kt:pipeline-parallelism`, `kt:tensor-parallelism` |
 | `kt:physical-symbol-system-hypothesis` | `kt:allen-newell`, `kt:heuristic-search`, `kt:symbolic-ai` |
 | `kt:r-cnn` | `kt:faster-r-cnn`, `kt:pascal-voc`, `kt:yolo` |
-| `kt:rmsprop` | `kt:adam-optimizer`, `kt:adam-optimizer`, `kt:adagrad` |
 | `kt:support-vector-machine` | `kt:perceptron`, `kt:loss-function`, `kt:statistical-learning-theory` |
 | `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
 | `kt:activation-checkpointing` | `kt:pipeline-parallelism`, `kt:tensor-parallelism` |
@@ -71,6 +70,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:membership-inference-attack` | `kt:benchmark-contamination`, `kt:model-extraction` |
 | `kt:mini-swe-agent` | `kt:swe-agent`, `kt:swe-agent` |
 | `kt:model-compression-caruana-2006` | `kt:model-compression`, `kt:knowledge-distillation` |
+| `kt:momentum` | `kt:rmsprop`, `kt:stochastic-gradient-descent` |
 | `kt:monte-carlo-methods` | `kt:monte-carlo-tree-search`, `kt:temporal-difference-learning` |
 | `kt:muzero` | `kt:alphazero`, `kt:monte-carlo-tree-search` |
 | `kt:nist` | `kt:nist-ai-risk-management-framework`, `kt:nist-generative-ai-profile` |
@@ -95,6 +95,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:a-formal-basis-for-the-heuristic-determination-of-minimum-cost-paths` | `kt:heuristic-search` |
 | `kt:a-star-search` | `kt:heuristic-search` |
 | `kt:a-stochastic-approximation-method` | `kt:stochastic-gradient-descent` |
+| `kt:adadelta` | `kt:rmsprop` |
 | `kt:adam-a-method-for-stochastic-optimization` | `kt:adam-optimizer` |
 | `kt:adamw` | `kt:adam-optimizer` |
 | `kt:adapter-modules` | `kt:parameter-efficient-fine-tuning` |
@@ -367,7 +368,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:model-cards-for-model-reporting` | `kt:model-cards` |
 | `kt:model-collapse` | `kt:synthetic-data` |
 | `kt:model-registry` | `kt:mlops` |
-| `kt:momentum` | `kt:stochastic-gradient-descent` |
 | `kt:monte-carlo-dropout` | `kt:dropout` |
 | `kt:mrkl-systems` | `kt:tool-use` |
 | `kt:ms-marco` | `kt:reranking` |
@@ -450,6 +450,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:robustbench` | `kt:adversarial-training` |
 | `kt:roofline-model` | `kt:gpu-computing` |
 | `kt:rotary-position-embedding` | `kt:positional-encoding` |
+| `kt:rprop` | `kt:rmsprop` |
 | `kt:rule-based-system` | `kt:eliza` |
 | `kt:ruler` | `kt:context-window` |
 | `kt:sacrebleu` | `kt:bleu` |
@@ -504,6 +505,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:the-perceptron-a-probabilistic-model-for-information-storage-and-organization-in-the-brain` | `kt:perceptron` |
 | `kt:through-silicon-via` | `kt:high-bandwidth-memory` |
 | `kt:thurstone-mosteller-model` | `kt:bradley-terry-model` |
+| `kt:tijmen-tieleman` | `kt:rmsprop` |
 | `kt:tim-dettmers` | `kt:qlora` |
 | `kt:time-sharing` | `kt:eliza` |
 | `kt:timing-side-channel` | `kt:prefix-caching` |
