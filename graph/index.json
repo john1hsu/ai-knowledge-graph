@@ -3261,6 +3261,26 @@
     ]
   },
   {
+    "id": "kt:mathematical-optimization",
+    "title": "Mathematical optimization",
+    "aliases": [
+      "optimization",
+      "mathematical programming",
+      "numerical optimization"
+    ],
+    "type": "Field",
+    "domain": "ml-foundations",
+    "file": "articles/ml-foundations/mathematical-optimization.md",
+    "created": "2026-11-19",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://britannica.com/science/optimization",
+      "https://web.stanford.edu/class/ee364a/lectures/intro.pdf",
+      "https://leon.bottou.org/publications/pdf/sirev-2018.pdf",
+      "https://d2l.ai/chapter_optimization/optimization-intro.html"
+    ]
+  },
+  {
     "id": "kt:mechanistic-interpretability",
     "title": "Mechanistic interpretability",
     "aliases": [

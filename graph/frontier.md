@@ -8,12 +8,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:anthropic` | `kt:model-context-protocol`, `kt:openai`, `kt:responsible-scaling-policy`, `kt:constitutional-ai` |
 | `kt:automated-planning` | `kt:planning-in-llms`, `kt:general-problem-solver`, `kt:heuristic-search`, `kt:knowledge-representation` |
-| `kt:mathematical-optimization` | `kt:adagrad`, `kt:gradient-descent`, `kt:loss-function`, `kt:stochastic-gradient-descent` |
 | `kt:microsoft-research` | `kt:alfworld`, `kt:autogen`, `kt:residual-connection`, `kt:graphrag` |
 | `kt:zero-redundancy-optimizer` | `kt:data-parallelism`, `kt:distributed-training`, `kt:pipeline-parallelism`, `kt:tensor-parallelism` |
 | `kt:all-reduce` | `kt:data-parallelism`, `kt:distributed-training`, `kt:tensor-parallelism` |
 | `kt:application-specific-integrated-circuit` | `kt:deep-blue`, `kt:ai-accelerator`, `kt:tpu` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
+| `kt:empirical-risk-minimization` | `kt:loss-function`, `kt:mathematical-optimization`, `kt:supervised-learning` |
 | `kt:faiss` | `kt:apache-lucene`, `kt:approximate-nearest-neighbor-search`, `kt:vector-database` |
 | `kt:herbert-a-simon` | `kt:allen-newell`, `kt:general-problem-solver`, `kt:logic-theorist` |
 | `kt:logistic-regression` | `kt:conditional-random-field`, `kt:loss-function`, `kt:bradley-terry-model` |
@@ -43,7 +43,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:diederik-kingma` | `kt:adam-optimizer`, `kt:variational-autoencoder` |
 | `kt:double-q-learning` | `kt:deep-q-network`, `kt:q-learning` |
 | `kt:efficient-memory-management-for-large-language-model-serving-with-pagedattention` | `kt:batching-and-paged-attention`, `kt:vllm` |
-| `kt:empirical-risk-minimization` | `kt:loss-function`, `kt:supervised-learning` |
 | `kt:expectation-maximization` | `kt:hidden-markov-model`, `kt:unsupervised-learning` |
 | `kt:expected-sarsa` | `kt:sarsa`, `kt:sarsa` |
 | `kt:export-control-reform-act` | `kt:ai-chip-export-controls`, `kt:bureau-of-industry-and-security` |
@@ -113,6 +112,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alphafold` | `kt:google-deepmind` |
 | `kt:animals-with-attributes` | `kt:zero-shot-learning` |
 | `kt:ann-benchmarks` | `kt:approximate-nearest-neighbor-search` |
+| `kt:applied-mathematics` | `kt:mathematical-optimization` |
 | `kt:approximation-by-superpositions-of-a-sigmoidal-function` | `kt:universal-approximation-theorem` |
 | `kt:aqua-rat` | `kt:program-induction-by-rationale-generation` |
 | `kt:arcade-learning-environment` | `kt:deep-q-network` |
@@ -176,6 +176,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:constrained-decoding` | `kt:structured-output` |
 | `kt:content-provenance` | `kt:nist-generative-ai-profile` |
 | `kt:continual-learning` | `kt:catastrophic-forgetting` |
+| `kt:convex-optimization` | `kt:mathematical-optimization` |
 | `kt:council-of-europe` | `kt:council-of-europe-framework-convention-on-ai` |
 | `kt:cudnn` | `kt:cuda` |
 | `kt:cutlass` | `kt:tensor-cores` |
@@ -329,6 +330,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:lenet` | `kt:imagenet-and-alexnet` |
 | `kt:librispeech` | `kt:automatic-speech-recognition` |
 | `kt:linear-probing` | `kt:fine-tuning` |
+| `kt:linear-programming` | `kt:mathematical-optimization` |
 | `kt:livebench` | `kt:benchmark-contamination` |
 | `kt:livecodebench` | `kt:humaneval` |
 | `kt:llama-2` | `kt:grouped-query-attention` |

@@ -14489,6 +14489,88 @@
       ]
     },
     {
+      "@id": "kt:mathematical-optimization",
+      "@type": "kto:Field",
+      "skos:prefLabel": "Mathematical optimization",
+      "skos:definition": "The branch of applied mathematics concerned with choosing values of decision variables that minimize or maximize an objective function, usually subject to constraints; it supplies the problem formulation and the algorithms (gradient methods, linear and convex programming) that underlie training machine-learning models.",
+      "kto:domain": "ml-foundations",
+      "dcterms:created": "2026-11-19",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Optimization (mathematics)",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://britannica.com/science/optimization",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "EE364a Convex Optimization I — Lecture 1: Introduction",
+          "dcterms:publisher": "Stanford University (Stephen Boyd), course slides",
+          "schema:url": "https://web.stanford.edu/class/ee364a/lectures/intro.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Optimization Methods for Large-Scale Machine Learning",
+          "dcterms:publisher": "SIAM Review 60(2), 223–311, 2018 (Bottou, Curtis and Nocedal), authors' copy",
+          "schema:url": "https://leon.bottou.org/publications/pdf/sirev-2018.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "12.1. Optimization and Deep Learning",
+          "dcterms:publisher": "Dive into Deep Learning (Zhang, Lipton, Li and Smola), d2l.ai",
+          "schema:url": "https://d2l.ai/chapter_optimization/optimization-intro.html",
+          "kto:sourceType": "textbook"
+        }
+      ],
+      "kto:file": "articles/ml-foundations/mathematical-optimization.md",
+      "skos:altLabel": [
+        "optimization",
+        "mathematical programming",
+        "numerical optimization"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:applied-mathematics"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:machine-learning"
+        },
+        {
+          "@id": "kt:loss-function"
+        },
+        {
+          "@id": "kt:gradient-descent"
+        },
+        {
+          "@id": "kt:stochastic-gradient-descent"
+        },
+        {
+          "@id": "kt:regularization"
+        },
+        {
+          "@id": "kt:overfitting"
+        },
+        {
+          "@id": "kt:statistical-learning-theory"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:convex-optimization"
+        },
+        {
+          "@id": "kt:linear-programming"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:empirical-risk-minimization"
+        }
+      ]
+    },
+    {
       "@id": "kt:overfitting",
       "@type": "kto:Concept",
       "skos:prefLabel": "Overfitting",

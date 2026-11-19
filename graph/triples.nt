@@ -3885,6 +3885,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/markov-decision-process> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/value-iteration> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/markov-decision-process> <https://github.com/john1hsu/ai-knowledge-graph/ontology#extends> <https://github.com/john1hsu/ai-knowledge-graph/id/markov-chain> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/markov-decision-process> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mathematical-optimization> <http://purl.org/dc/terms/created> "2026-11-19" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mathematical-optimization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Field> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mathematical-optimization> <http://www.w3.org/2000/01/rdf-schema#label> "Mathematical optimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mathematical-optimization> <http://www.w3.org/2004/02/skos/core#altLabel> "mathematical programming" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mathematical-optimization> <http://www.w3.org/2004/02/skos/core#altLabel> "numerical optimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mathematical-optimization> <http://www.w3.org/2004/02/skos/core#altLabel> "optimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mathematical-optimization> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/applied-mathematics> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mathematical-optimization> <http://www.w3.org/2004/02/skos/core#definition> "The branch of applied mathematics concerned with choosing values of decision variables that minimize or maximize an objective function, usually subject to constraints; it supplies the problem formulation and the algorithms (gradient methods, linear and convex programming) that underlie training machine-learning models." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mathematical-optimization> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mathematical optimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mathematical-optimization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/gradient-descent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mathematical-optimization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/loss-function> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mathematical-optimization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mathematical-optimization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mathematical-optimization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/regularization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mathematical-optimization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mathematical-optimization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/stochastic-gradient-descent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mathematical-optimization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/mathematical-optimization/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mathematical-optimization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/mathematical-optimization/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mathematical-optimization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/mathematical-optimization/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mathematical-optimization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/mathematical-optimization/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mathematical-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ml-foundations" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mathematical-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/empirical-risk-minimization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mathematical-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/convex-optimization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mathematical-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/linear-programming> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mathematical-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Field> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/mechanistic-interpretability> <http://www.w3.org/2000/01/rdf-schema#label> "Mechanistic interpretability" .
@@ -10002,6 +10027,26 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/markov-decision-process/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/markov-decision-process/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/markov-decision-process/s5> <https://schema.org/url> "https://people.smp.uq.edu.au/YoniNazarathy/Control4406_2014/resources/KaelblingLittmanCassandra1998.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mathematical-optimization/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mathematical-optimization/s1> <http://purl.org/dc/terms/title> "Optimization (mathematics)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mathematical-optimization/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mathematical-optimization/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mathematical-optimization/s1> <https://schema.org/url> "https://britannica.com/science/optimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mathematical-optimization/s2> <http://purl.org/dc/terms/publisher> "Stanford University (Stephen Boyd), course slides" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mathematical-optimization/s2> <http://purl.org/dc/terms/title> "EE364a Convex Optimization I — Lecture 1: Introduction" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mathematical-optimization/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mathematical-optimization/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mathematical-optimization/s2> <https://schema.org/url> "https://web.stanford.edu/class/ee364a/lectures/intro.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mathematical-optimization/s3> <http://purl.org/dc/terms/publisher> "SIAM Review 60(2), 223–311, 2018 (Bottou, Curtis and Nocedal), authors' copy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mathematical-optimization/s3> <http://purl.org/dc/terms/title> "Optimization Methods for Large-Scale Machine Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mathematical-optimization/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mathematical-optimization/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mathematical-optimization/s3> <https://schema.org/url> "https://leon.bottou.org/publications/pdf/sirev-2018.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mathematical-optimization/s4> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (Zhang, Lipton, Li and Smola), d2l.ai" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mathematical-optimization/s4> <http://purl.org/dc/terms/title> "12.1. Optimization and Deep Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mathematical-optimization/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mathematical-optimization/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mathematical-optimization/s4> <https://schema.org/url> "https://d2l.ai/chapter_optimization/optimization-intro.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s1> <http://purl.org/dc/terms/publisher> "Distill, 2020 (Olah, Cammarata, Schubert, Goh, Petrov, Carter); doi:10.23915/distill.00024.001" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s1> <http://purl.org/dc/terms/title> "Zoom In: An Introduction to Circuits" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/mechanistic-interpretability/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
