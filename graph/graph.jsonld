@@ -15654,6 +15654,94 @@
       ]
     },
     {
+      "@id": "kt:automatic-prompt-optimization",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Automatic prompt optimization",
+      "skos:definition": "A family of methods that treat a language model's prompt as a parameter to be searched or edited automatically, usually by another LLM, so as to maximize a task metric on a set of examples instead of hand-tuning the wording.",
+      "kto:domain": "prompting-and-reasoning",
+      "dcterms:created": "2026-11-19",
+      "kto:maturity": "emerging",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Large Language Models Are Human-Level Prompt Engineers",
+          "dcterms:publisher": "arXiv 2211.01910v2 (Zhou, Muresanu, Han, Paster, Pitis, Chan, Ba)",
+          "schema:url": "https://arxiv.org/abs/2211.01910",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Large Language Models as Optimizers",
+          "dcterms:publisher": "ICLR 2024 proceedings (Yang, Wang, Lu, Liu, Le, Zhou, Chen)",
+          "schema:url": "https://proceedings.iclr.cc/paper_files/paper/2024/hash/3339f19c5fcee3ad74502947a32be9e6-Abstract-Conference.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Large Language Models as Optimizers (full text, v3)",
+          "dcterms:publisher": "arXiv 2309.03409v3 (Yang et al.)",
+          "schema:url": "https://arxiv.org/html/2309.03409v3",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Automatic Prompt Optimization with \"Gradient Descent\" and Beam Search",
+          "dcterms:publisher": "EMNLP 2023, pp. 7957-7968 (Pryzant, Iter, Li, Lee, Zhu, Zeng)",
+          "schema:url": "https://aclanthology.org/2023.emnlp-main.494",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "DSPy: Compiling Declarative Language Model Calls into State-of-the-Art Pipelines",
+          "dcterms:publisher": "ICLR 2024 proceedings (Khattab, Singhvi, Maheshwari, Zhang, Santhanam, Vardhamanan, Haq, Sharma, Joshi, Moazam, Miller, Zaharia, Potts)",
+          "schema:url": "https://proceedings.iclr.cc/paper_files/paper/2024/hash/f1cf02ce09757f57c3b93c0db83181e0-Abstract-Conference.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Optimizers: choosing one",
+          "dcterms:publisher": "DSPy documentation (Stanford NLP)",
+          "schema:url": "https://dspy.ai/current/diving-deeper/choosing-an-optimizer/",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/prompting-and-reasoning/automatic-prompt-optimization.md",
+      "skos:altLabel": [
+        "APO",
+        "prompt optimization",
+        "automated prompt engineering",
+        "LLM-driven prompt search"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:prompt-engineering"
+        },
+        {
+          "@id": "kt:mathematical-optimization"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:prompt-sensitivity"
+        },
+        {
+          "@id": "kt:chain-of-thought"
+        },
+        {
+          "@id": "kt:few-shot-prompting"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:dspy"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:prompt-tuning"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:gsm8k"
+        }
+      ]
+    },
+    {
       "@id": "kt:chain-of-thought",
       "@type": "kto:Technique",
       "skos:prefLabel": "Chain-of-thought prompting",

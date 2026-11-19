@@ -77,6 +77,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:post-training-quantization` | `kt:awq`, `kt:gptq` |
 | `kt:princeton-university` | `kt:swe-agent`, `kt:swe-bench` |
 | `kt:probabilistic-relevance-framework` | `kt:bm25`, `kt:bm25` |
+| `kt:prompt-tuning` | `kt:automatic-prompt-optimization`, `kt:parameter-efficient-fine-tuning` |
 | `kt:scikit-learn` | `kt:dimensionality-reduction`, `kt:principal-component-analysis` |
 | `kt:self-correction` | `kt:reflexion`, `kt:self-refine-iterative-refinement-with-self-feedback` |
 | `kt:self-play` | `kt:alphago-zero`, `kt:alphazero` |
@@ -212,6 +213,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:doug-cutting` | `kt:apache-lucene` |
 | `kt:dram` | `kt:high-bandwidth-memory` |
 | `kt:dropout-a-simple-way-to-prevent-neural-networks-from-overfitting` | `kt:dropout` |
+| `kt:dspy` | `kt:automatic-prompt-optimization` |
 | `kt:early-stopping` | `kt:regularization` |
 | `kt:edward-feigenbaum` | `kt:expert-systems` |
 | `kt:efficient-estimation-of-word-representations-in-vector-space` | `kt:word2vec` |
@@ -425,7 +427,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:program-induction` | `kt:program-induction-by-rationale-generation` |
 | `kt:program-of-thoughts` | `kt:program-aided-language-models` |
 | `kt:projected-gradient-descent` | `kt:adversarial-training` |
-| `kt:prompt-tuning` | `kt:parameter-efficient-fine-tuning` |
 | `kt:proximal-policy-optimization-algorithms` | `kt:proximal-policy-optimization` |
 | `kt:pytorch-an-imperative-style-high-performance-deep-learning-library` | `kt:pytorch` |
 | `kt:qlora-efficient-finetuning-of-quantized-llms` | `kt:qlora` |

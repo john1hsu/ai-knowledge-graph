@@ -1025,6 +1025,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/alfworld> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <https://github.com/john1hsu/ai-knowledge-graph/ontology#supersededBy> <https://github.com/john1hsu/ai-knowledge-graph/id/microsoft-agent-framework> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-prompt-optimization> <http://purl.org/dc/terms/created> "2026-11-19" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-prompt-optimization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-prompt-optimization> <http://www.w3.org/2000/01/rdf-schema#label> "Automatic prompt optimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-prompt-optimization> <http://www.w3.org/2004/02/skos/core#altLabel> "APO" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-prompt-optimization> <http://www.w3.org/2004/02/skos/core#altLabel> "LLM-driven prompt search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-prompt-optimization> <http://www.w3.org/2004/02/skos/core#altLabel> "automated prompt engineering" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-prompt-optimization> <http://www.w3.org/2004/02/skos/core#altLabel> "prompt optimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-prompt-optimization> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/mathematical-optimization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-prompt-optimization> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-engineering> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-prompt-optimization> <http://www.w3.org/2004/02/skos/core#definition> "A family of methods that treat a language model's prompt as a parameter to be searched or edited automatically, usually by another LLM, so as to maximize a task metric on a set of examples instead of hand-tuning the wording." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-prompt-optimization> <http://www.w3.org/2004/02/skos/core#prefLabel> "Automatic prompt optimization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-prompt-optimization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-prompt-optimization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/few-shot-prompting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-prompt-optimization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-sensitivity> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-prompt-optimization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-prompt-optimization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-prompt-optimization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-prompt-optimization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-prompt-optimization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-prompt-optimization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-prompt-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-prompt-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "prompting-and-reasoning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-prompt-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/gsm8k> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-prompt-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/dspy> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-prompt-optimization> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Application> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/automatic-speech-recognition> <http://www.w3.org/2000/01/rdf-schema#label> "Automatic speech recognition" .
@@ -7262,6 +7287,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s6> <https://schema.org/url> "https://learn.microsoft.com/en-us/agent-framework/overview/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s1> <http://purl.org/dc/terms/publisher> "arXiv 2211.01910v2 (Zhou, Muresanu, Han, Paster, Pitis, Chan, Ba)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s1> <http://purl.org/dc/terms/title> "Large Language Models Are Human-Level Prompt Engineers" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s1> <https://schema.org/url> "https://arxiv.org/abs/2211.01910" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s2> <http://purl.org/dc/terms/publisher> "ICLR 2024 proceedings (Yang, Wang, Lu, Liu, Le, Zhou, Chen)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s2> <http://purl.org/dc/terms/title> "Large Language Models as Optimizers" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s2> <https://schema.org/url> "https://proceedings.iclr.cc/paper_files/paper/2024/hash/3339f19c5fcee3ad74502947a32be9e6-Abstract-Conference.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s3> <http://purl.org/dc/terms/publisher> "arXiv 2309.03409v3 (Yang et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s3> <http://purl.org/dc/terms/title> "Large Language Models as Optimizers (full text, v3)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s3> <https://schema.org/url> "https://arxiv.org/html/2309.03409v3" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s4> <http://purl.org/dc/terms/publisher> "EMNLP 2023, pp. 7957-7968 (Pryzant, Iter, Li, Lee, Zhu, Zeng)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s4> <http://purl.org/dc/terms/title> "Automatic Prompt Optimization with \"Gradient Descent\" and Beam Search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s4> <https://schema.org/url> "https://aclanthology.org/2023.emnlp-main.494" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s5> <http://purl.org/dc/terms/publisher> "ICLR 2024 proceedings (Khattab, Singhvi, Maheshwari, Zhang, Santhanam, Vardhamanan, Haq, Sharma, Joshi, Moazam, Miller, Zaharia, Potts)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s5> <http://purl.org/dc/terms/title> "DSPy: Compiling Declarative Language Model Calls into State-of-the-Art Pipelines" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s5> <https://schema.org/url> "https://proceedings.iclr.cc/paper_files/paper/2024/hash/f1cf02ce09757f57c3b93c0db83181e0-Abstract-Conference.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s6> <http://purl.org/dc/terms/publisher> "DSPy documentation (Stanford NLP)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s6> <http://purl.org/dc/terms/title> "Optimizers: choosing one" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s6> <https://schema.org/url> "https://dspy.ai/current/diving-deeper/choosing-an-optimizer/" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s1> <http://purl.org/dc/terms/publisher> "Daniel Jurafsky and James H. Martin, Stanford University (draft of August 2026)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s1> <http://purl.org/dc/terms/title> "Speech and Language Processing (3rd ed. draft), Chapter 16: Automatic Speech Recognition" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-speech-recognition/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

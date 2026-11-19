@@ -865,6 +865,29 @@
     ]
   },
   {
+    "id": "kt:automatic-prompt-optimization",
+    "title": "Automatic prompt optimization",
+    "aliases": [
+      "APO",
+      "prompt optimization",
+      "automated prompt engineering",
+      "LLM-driven prompt search"
+    ],
+    "type": "Technique",
+    "domain": "prompting-and-reasoning",
+    "file": "articles/prompting-and-reasoning/automatic-prompt-optimization.md",
+    "created": "2026-11-19",
+    "maturity": "emerging",
+    "source_urls": [
+      "https://arxiv.org/abs/2211.01910",
+      "https://proceedings.iclr.cc/paper_files/paper/2024/hash/3339f19c5fcee3ad74502947a32be9e6-Abstract-Conference.html",
+      "https://arxiv.org/html/2309.03409v3",
+      "https://aclanthology.org/2023.emnlp-main.494",
+      "https://proceedings.iclr.cc/paper_files/paper/2024/hash/f1cf02ce09757f57c3b93c0db83181e0-Abstract-Conference.html",
+      "https://dspy.ai/current/diving-deeper/choosing-an-optimizer/"
+    ]
+  },
+  {
     "id": "kt:automatic-speech-recognition",
     "title": "Automatic speech recognition",
     "aliases": [
