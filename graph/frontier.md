@@ -15,6 +15,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
 | `kt:empirical-risk-minimization` | `kt:loss-function`, `kt:mathematical-optimization`, `kt:supervised-learning` |
 | `kt:herbert-a-simon` | `kt:allen-newell`, `kt:general-problem-solver`, `kt:logic-theorist` |
+| `kt:language-model` | `kt:perplexity`, `kt:a-neural-probabilistic-language-model`, `kt:large-language-model` |
 | `kt:logistic-regression` | `kt:conditional-random-field`, `kt:loss-function`, `kt:bradley-terry-model` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
 | `kt:meta-ai` | `kt:toolformer`, `kt:pytorch`, `kt:faiss` |
@@ -22,7 +23,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:physical-symbol-system-hypothesis` | `kt:allen-newell`, `kt:heuristic-search`, `kt:symbolic-ai` |
 | `kt:r-cnn` | `kt:faster-r-cnn`, `kt:pascal-voc`, `kt:yolo` |
 | `kt:support-vector-machine` | `kt:perceptron`, `kt:loss-function`, `kt:statistical-learning-theory` |
-| `kt:a-neural-probabilistic-language-model` | `kt:embeddings`, `kt:word2vec` |
 | `kt:activation-checkpointing` | `kt:pipeline-parallelism`, `kt:tensor-parallelism` |
 | `kt:ai-ethics` | `kt:algorithmic-bias-and-fairness`, `kt:fairness-accountability-and-transparency` |
 | `kt:allen-institute-for-ai` | `kt:commonsenseqa`, `kt:decomposed-prompting` |
@@ -58,7 +58,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:iso-iec-27001` | `kt:iso-iec-42001`, `kt:iso-iec-42001` |
 | `kt:john-mccarthy` | `kt:artificial-intelligence`, `kt:dartmouth-workshop` |
 | `kt:judging-llm-as-a-judge-with-mt-bench-and-chatbot-arena` | `kt:llm-as-a-judge`, `kt:mt-bench` |
-| `kt:language-model` | `kt:perplexity`, `kt:large-language-model` |
 | `kt:latent-semantic-analysis` | `kt:glove`, `kt:semantic-search` |
 | `kt:lmsys` | `kt:chatbot-arena`, `kt:mt-bench` |
 | `kt:lora` | `kt:parameter-efficient-fine-tuning`, `kt:qlora` |
@@ -92,6 +91,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:transposed-convolution` | `kt:semantic-segmentation`, `kt:u-net` |
 | `kt:vector-space-model` | `kt:information-retrieval`, `kt:tf-idf` |
 | `kt:weight-decay` | `kt:dropout`, `kt:regularization` |
+| `kt:yoshua-bengio` | `kt:a-neural-probabilistic-language-model`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
 | `kt:a-formal-basis-for-the-heuristic-determination-of-minimum-cost-paths` | `kt:heuristic-search` |
 | `kt:a-star-search` | `kt:heuristic-search` |
 | `kt:a-stochastic-approximation-method` | `kt:stochastic-gradient-descent` |
@@ -376,6 +376,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:multimodal-learning` | `kt:vision-language-model` |
 | `kt:murray-campbell` | `kt:deep-blue` |
 | `kt:mycin` | `kt:expert-systems` |
+| `kt:n-gram-language-model` | `kt:a-neural-probabilistic-language-model` |
 | `kt:negative-transfer` | `kt:transfer-learning` |
 | `kt:neocognitron` | `kt:convolutional-neural-network` |
 | `kt:netflix-prize` | `kt:recommender-system` |
@@ -547,6 +548,5 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:whisper` | `kt:automatic-speech-recognition` |
 | `kt:william-r-thompson` | `kt:thompson-sampling` |
 | `kt:yann-lecun` | `kt:convolutional-neural-network` |
-| `kt:yoshua-bengio` | `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
 | `kt:you-only-look-once-unified-real-time-object-detection` | `kt:yolo` |
 | `kt:zero-shot-learning-with-semantic-output-codes` | `kt:zero-shot-learning` |

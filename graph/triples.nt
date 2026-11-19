@@ -20,6 +20,29 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/a-logical-calculus-of-the-ideas-immanent-in-nervous-activity> <https://github.com/john1hsu/ai-knowledge-graph/ontology#followedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/perceptron> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/a-logical-calculus-of-the-ideas-immanent-in-nervous-activity> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/turing-machine> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/a-logical-calculus-of-the-ideas-immanent-in-nervous-activity> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "historical" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/a-neural-probabilistic-language-model> <http://purl.org/dc/terms/created> "2026-11-19" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/a-neural-probabilistic-language-model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Work> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/a-neural-probabilistic-language-model> <http://www.w3.org/2000/01/rdf-schema#label> "A Neural Probabilistic Language Model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/a-neural-probabilistic-language-model> <http://www.w3.org/2004/02/skos/core#altLabel> "Bengio et al. 2003" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/a-neural-probabilistic-language-model> <http://www.w3.org/2004/02/skos/core#altLabel> "NPLM" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/a-neural-probabilistic-language-model> <http://www.w3.org/2004/02/skos/core#altLabel> "feedforward neural language model paper" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/a-neural-probabilistic-language-model> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/artificial-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/a-neural-probabilistic-language-model> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/a-neural-probabilistic-language-model> <http://www.w3.org/2004/02/skos/core#definition> "The paper by Yoshua Bengio, Réjean Ducharme, Pascal Vincent and Christian Jauvin (NIPS 2000; extended in JMLR 2003) that introduced the first widely influential neural language model, jointly learning a vector for each word and a feed-forward network that predicts the next word from those vectors." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/a-neural-probabilistic-language-model> <http://www.w3.org/2004/02/skos/core#prefLabel> "A Neural Probabilistic Language Model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/a-neural-probabilistic-language-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/large-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/a-neural-probabilistic-language-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/perplexity> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/a-neural-probabilistic-language-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/word2vec> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/a-neural-probabilistic-language-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/a-neural-probabilistic-language-model/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/a-neural-probabilistic-language-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/a-neural-probabilistic-language-model/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/a-neural-probabilistic-language-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/a-neural-probabilistic-language-model/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/a-neural-probabilistic-language-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/a-neural-probabilistic-language-model/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/a-neural-probabilistic-language-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/a-neural-probabilistic-language-model/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/a-neural-probabilistic-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/n-gram-language-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/a-neural-probabilistic-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/yoshua-bengio> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/a-neural-probabilistic-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "transformers-and-llms" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/a-neural-probabilistic-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/a-neural-probabilistic-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <http://www.w3.org/2000/01/rdf-schema#label> "Activation function" .
@@ -6047,6 +6070,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/a-logical-calculus-of-the-ideas-immanent-in-nervous-activity/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/a-logical-calculus-of-the-ideas-immanent-in-nervous-activity/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/a-logical-calculus-of-the-ideas-immanent-in-nervous-activity/s5> <https://schema.org/url> "https://www.rand.org/pubs/research_memoranda/RM704.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/a-neural-probabilistic-language-model/s1> <http://purl.org/dc/terms/publisher> "Bengio, Ducharme, Vincent and Jauvin, Journal of Machine Learning Research 3 (Feb 2003), 1137-1155" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/a-neural-probabilistic-language-model/s1> <http://purl.org/dc/terms/title> "A Neural Probabilistic Language Model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/a-neural-probabilistic-language-model/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/a-neural-probabilistic-language-model/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/a-neural-probabilistic-language-model/s1> <https://schema.org/url> "https://www.jmlr.org/papers/v3/bengio03a.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/a-neural-probabilistic-language-model/s2> <http://purl.org/dc/terms/publisher> "Bengio, Ducharme, Vincent and Jauvin; PDF hosted on Columbia University course reading list" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/a-neural-probabilistic-language-model/s2> <http://purl.org/dc/terms/title> "A Neural Probabilistic Language Model (JMLR 2003, full text)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/a-neural-probabilistic-language-model/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/a-neural-probabilistic-language-model/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/a-neural-probabilistic-language-model/s2> <https://schema.org/url> "https://www.cs.columbia.edu/%7Eblei/seminar/2016_discrete_data/readings/BengioDucharmeVincentJanvin2003.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/a-neural-probabilistic-language-model/s3> <http://purl.org/dc/terms/publisher> "Bengio, Ducharme and Vincent, Advances in Neural Information Processing Systems 13 (NIPS 2000)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/a-neural-probabilistic-language-model/s3> <http://purl.org/dc/terms/title> "A Neural Probabilistic Language Model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/a-neural-probabilistic-language-model/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/a-neural-probabilistic-language-model/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/a-neural-probabilistic-language-model/s3> <https://schema.org/url> "https://papers.nips.cc/paper/1839-a-neural-probabilistic-language-model" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/a-neural-probabilistic-language-model/s4> <http://purl.org/dc/terms/publisher> "D. Jurafsky and J. H. Martin, Stanford University (draft of August 2026)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/a-neural-probabilistic-language-model/s4> <http://purl.org/dc/terms/title> "Speech and Language Processing (3rd ed. draft), Chapter 6: Neural Networks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/a-neural-probabilistic-language-model/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/a-neural-probabilistic-language-model/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/a-neural-probabilistic-language-model/s4> <https://schema.org/url> "https://web.stanford.edu/~jurafsky/slp3/6.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/a-neural-probabilistic-language-model/s5> <http://purl.org/dc/terms/publisher> "Association for Computing Machinery" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/a-neural-probabilistic-language-model/s5> <http://purl.org/dc/terms/title> "Yoshua Bengio, A.M. Turing Award laureate (2018)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/a-neural-probabilistic-language-model/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/a-neural-probabilistic-language-model/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/a-neural-probabilistic-language-model/s5> <https://schema.org/url> "https://amturing.acm.org/award_recipient/bengio_3406375" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s1> <http://purl.org/dc/terms/publisher> "Zhang, Lipton, Li and Smola, Dive into Deep Learning (d2l.ai)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s1> <http://purl.org/dc/terms/title> "5.1. Multilayer Perceptrons (Dive into Deep Learning)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

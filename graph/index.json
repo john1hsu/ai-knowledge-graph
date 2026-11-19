@@ -20,6 +20,27 @@
     ]
   },
   {
+    "id": "kt:a-neural-probabilistic-language-model",
+    "title": "A Neural Probabilistic Language Model",
+    "aliases": [
+      "Bengio et al. 2003",
+      "NPLM",
+      "feedforward neural language model paper"
+    ],
+    "type": "Work",
+    "domain": "transformers-and-llms",
+    "file": "articles/transformers-and-llms/a-neural-probabilistic-language-model.md",
+    "created": "2026-11-19",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://www.jmlr.org/papers/v3/bengio03a.html",
+      "https://www.cs.columbia.edu/%7Eblei/seminar/2016_discrete_data/readings/BengioDucharmeVincentJanvin2003.pdf",
+      "https://papers.nips.cc/paper/1839-a-neural-probabilistic-language-model",
+      "https://web.stanford.edu/~jurafsky/slp3/6.pdf",
+      "https://amturing.acm.org/award_recipient/bengio_3406375"
+    ]
+  },
+  {
     "id": "kt:activation-function",
     "title": "Activation function",
     "aliases": [

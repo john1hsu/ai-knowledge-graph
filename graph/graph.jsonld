@@ -23809,6 +23809,87 @@
       ]
     },
     {
+      "@id": "kt:a-neural-probabilistic-language-model",
+      "@type": "kto:Work",
+      "skos:prefLabel": "A Neural Probabilistic Language Model",
+      "skos:definition": "The paper by Yoshua Bengio, Réjean Ducharme, Pascal Vincent and Christian Jauvin (NIPS 2000; extended in JMLR 2003) that introduced the first widely influential neural language model, jointly learning a vector for each word and a feed-forward network that predicts the next word from those vectors.",
+      "kto:domain": "transformers-and-llms",
+      "dcterms:created": "2026-11-19",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "A Neural Probabilistic Language Model",
+          "dcterms:publisher": "Bengio, Ducharme, Vincent and Jauvin, Journal of Machine Learning Research 3 (Feb 2003), 1137-1155",
+          "schema:url": "https://www.jmlr.org/papers/v3/bengio03a.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "A Neural Probabilistic Language Model (JMLR 2003, full text)",
+          "dcterms:publisher": "Bengio, Ducharme, Vincent and Jauvin; PDF hosted on Columbia University course reading list",
+          "schema:url": "https://www.cs.columbia.edu/%7Eblei/seminar/2016_discrete_data/readings/BengioDucharmeVincentJanvin2003.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "A Neural Probabilistic Language Model",
+          "dcterms:publisher": "Bengio, Ducharme and Vincent, Advances in Neural Information Processing Systems 13 (NIPS 2000)",
+          "schema:url": "https://papers.nips.cc/paper/1839-a-neural-probabilistic-language-model",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Speech and Language Processing (3rd ed. draft), Chapter 6: Neural Networks",
+          "dcterms:publisher": "D. Jurafsky and J. H. Martin, Stanford University (draft of August 2026)",
+          "schema:url": "https://web.stanford.edu/~jurafsky/slp3/6.pdf",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Yoshua Bengio, A.M. Turing Award laureate (2018)",
+          "dcterms:publisher": "Association for Computing Machinery",
+          "schema:url": "https://amturing.acm.org/award_recipient/bengio_3406375",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/transformers-and-llms/a-neural-probabilistic-language-model.md",
+      "skos:altLabel": [
+        "Bengio et al. 2003",
+        "NPLM",
+        "feedforward neural language model paper"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:language-model"
+        },
+        {
+          "@id": "kt:artificial-neural-network"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:word2vec"
+        },
+        {
+          "@id": "kt:perplexity"
+        },
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:yoshua-bengio"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:n-gram-language-model"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:embeddings"
+        }
+      ]
+    },
+    {
       "@id": "kt:attention-is-all-you-need",
       "@type": "kto:Work",
       "skos:prefLabel": "Attention Is All You Need",
