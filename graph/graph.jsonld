@@ -9028,6 +9028,95 @@
       ]
     },
     {
+      "@id": "kt:big-bench",
+      "@type": "kto:Benchmark",
+      "skos:prefLabel": "BIG-bench",
+      "skos:definition": "A collaborative benchmark of more than 200 language tasks, contributed by over 400 researchers and published in 2022 (Srivastava et al.), built to probe abilities thought to be beyond language models and to study how their capabilities change with scale.",
+      "kto:domain": "evaluation-and-benchmarks",
+      "dcterms:created": "2026-11-19",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models (arXiv:2206.04615v3)",
+          "dcterms:publisher": "arXiv (Srivastava et al.)",
+          "schema:url": "https://arxiv.org/pdf/2206.04615v3.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models",
+          "dcterms:publisher": "Google Research publications",
+          "schema:url": "https://research.google/pubs/beyond-the-imitation-game-quantifying-and-extrapolating-the-capabilities-of-language-models/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "BIG-bench repository README",
+          "dcterms:publisher": "google/BIG-bench on GitHub",
+          "schema:url": "https://raw.githubusercontent.com/google/BIG-bench/main/README.md",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them",
+          "dcterms:publisher": "Findings of ACL 2023, pp. 13003–13051 (Suzgun et al.)",
+          "schema:url": "https://aclanthology.org/2023.findings-acl.824",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "BIG-Bench Extra Hard",
+          "dcterms:publisher": "ACL 2025, Volume 1 (Long Papers), pp. 26473–26501 (Kazemi et al.)",
+          "schema:url": "https://aclanthology.org/2025.acl-long.1285",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Are Emergent Abilities of Large Language Models a Mirage?",
+          "dcterms:publisher": "NeurIPS 2023 (Schaeffer, Miranda, Koyejo)",
+          "schema:url": "https://papers.neurips.cc/paper_files/paper/2023/file/adc98a266f45005c403b8311ca7e8bd7-Paper-Conference.pdf",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/evaluation-and-benchmarks/big-bench.md",
+      "skos:altLabel": [
+        "Beyond the Imitation Game Benchmark",
+        "BIG-Bench"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-evaluation"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:emergent-abilities"
+        },
+        {
+          "@id": "kt:scaling-laws"
+        },
+        {
+          "@id": "kt:benchmark-contamination"
+        },
+        {
+          "@id": "kt:mmlu"
+        },
+        {
+          "@id": "kt:chain-of-thought"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:beyond-the-imitation-game-quantifying-and-extrapolating-the-capabilities-of-language-models"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:big-bench-hard"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:turing-test"
+        }
+      ]
+    },
+    {
       "@id": "kt:bleu",
       "@type": "kto:Concept",
       "skos:prefLabel": "BLEU",

@@ -29,6 +29,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alpha-beta-pruning` | `kt:deep-blue`, `kt:monte-carlo-tree-search` |
 | `kt:alphabet-inc` | `kt:google-deepmind`, `kt:google` |
 | `kt:automatic-differentiation` | `kt:pytorch`, `kt:backpropagation` |
+| `kt:big-bench-hard` | `kt:big-bench`, `kt:program-aided-language-models` |
 | `kt:cifar-10` | `kt:image-classification`, `kt:adversarial-training` |
 | `kt:cityscapes` | `kt:instance-segmentation`, `kt:semantic-segmentation` |
 | `kt:cliff-shaw` | `kt:general-problem-solver`, `kt:logic-theorist` |
@@ -136,8 +137,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:bayesian-inference` | `kt:thompson-sampling` |
 | `kt:beir-a-heterogeneous-benchmark-for-zero-shot-evaluation-of-information-retrieval-models` | `kt:beir` |
 | `kt:berkeley-function-calling-leaderboard` | `kt:tool-use` |
-| `kt:big-bench` | `kt:emergent-abilities` |
-| `kt:big-bench-hard` | `kt:program-aided-language-models` |
+| `kt:beyond-the-imitation-game-quantifying-and-extrapolating-the-capabilities-of-language-models` | `kt:big-bench` |
 | `kt:billion-scale-similarity-search-with-gpus` | `kt:faiss` |
 | `kt:biosafety-level` | `kt:responsible-scaling-policy` |
 | `kt:bleu-a-method-for-automatic-evaluation-of-machine-translation` | `kt:bleu` |

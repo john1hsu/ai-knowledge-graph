@@ -1036,6 +1036,27 @@
     ]
   },
   {
+    "id": "kt:big-bench",
+    "title": "BIG-bench",
+    "aliases": [
+      "Beyond the Imitation Game Benchmark",
+      "BIG-Bench"
+    ],
+    "type": "Benchmark",
+    "domain": "evaluation-and-benchmarks",
+    "file": "articles/evaluation-and-benchmarks/big-bench.md",
+    "created": "2026-11-19",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/pdf/2206.04615v3.pdf",
+      "https://research.google/pubs/beyond-the-imitation-game-quantifying-and-extrapolating-the-capabilities-of-language-models/",
+      "https://raw.githubusercontent.com/google/BIG-bench/main/README.md",
+      "https://aclanthology.org/2023.findings-acl.824",
+      "https://aclanthology.org/2025.acl-long.1285",
+      "https://papers.neurips.cc/paper_files/paper/2023/file/adc98a266f45005c403b8311ca7e8bd7-Paper-Conference.pdf"
+    ]
+  },
+  {
     "id": "kt:bleu",
     "title": "BLEU",
     "aliases": [

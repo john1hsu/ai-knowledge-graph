@@ -1231,6 +1231,30 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ml-foundations" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bias-variance-tradeoff> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/big-bench> <http://purl.org/dc/terms/created> "2026-11-19" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/big-bench> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Benchmark> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/big-bench> <http://www.w3.org/2000/01/rdf-schema#label> "BIG-bench" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/big-bench> <http://www.w3.org/2004/02/skos/core#altLabel> "BIG-Bench" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/big-bench> <http://www.w3.org/2004/02/skos/core#altLabel> "Beyond the Imitation Game Benchmark" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/big-bench> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/big-bench> <http://www.w3.org/2004/02/skos/core#definition> "A collaborative benchmark of more than 200 language tasks, contributed by over 400 researchers and published in 2022 (Srivastava et al.), built to probe abilities thought to be beyond language models and to study how their capabilities change with scale." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/big-bench> <http://www.w3.org/2004/02/skos/core#prefLabel> "BIG-bench" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/big-bench> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/big-bench> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/chain-of-thought> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/big-bench> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/emergent-abilities> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/big-bench> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/big-bench> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/scaling-laws> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/big-bench> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/big-bench> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/big-bench> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/big-bench> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/big-bench> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/big-bench> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/big-bench> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "evaluation-and-benchmarks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/big-bench> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/big-bench-hard> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/big-bench> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/turing-test> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/big-bench> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/beyond-the-imitation-game-quantifying-and-extrapolating-the-capabilities-of-language-models> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/big-bench> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bleu> <http://purl.org/dc/terms/created> "2026-11-16" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bleu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/bleu> <http://www.w3.org/2000/01/rdf-schema#label> "BLEU" .
@@ -7370,6 +7394,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bias-variance-tradeoff/s5> <https://schema.org/url> "https://iclr.cc/virtual/2020/poster/1489" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s1> <http://purl.org/dc/terms/publisher> "arXiv (Srivastava et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s1> <http://purl.org/dc/terms/title> "Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models (arXiv:2206.04615v3)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s1> <https://schema.org/url> "https://arxiv.org/pdf/2206.04615v3.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s2> <http://purl.org/dc/terms/publisher> "Google Research publications" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s2> <http://purl.org/dc/terms/title> "Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s2> <https://schema.org/url> "https://research.google/pubs/beyond-the-imitation-game-quantifying-and-extrapolating-the-capabilities-of-language-models/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s3> <http://purl.org/dc/terms/publisher> "google/BIG-bench on GitHub" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s3> <http://purl.org/dc/terms/title> "BIG-bench repository README" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s3> <https://schema.org/url> "https://raw.githubusercontent.com/google/BIG-bench/main/README.md" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s4> <http://purl.org/dc/terms/publisher> "Findings of ACL 2023, pp. 13003–13051 (Suzgun et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s4> <http://purl.org/dc/terms/title> "Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s4> <https://schema.org/url> "https://aclanthology.org/2023.findings-acl.824" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s5> <http://purl.org/dc/terms/publisher> "ACL 2025, Volume 1 (Long Papers), pp. 26473–26501 (Kazemi et al.)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s5> <http://purl.org/dc/terms/title> "BIG-Bench Extra Hard" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s5> <https://schema.org/url> "https://aclanthology.org/2025.acl-long.1285" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s6> <http://purl.org/dc/terms/publisher> "NeurIPS 2023 (Schaeffer, Miranda, Koyejo)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s6> <http://purl.org/dc/terms/title> "Are Emergent Abilities of Large Language Models a Mirage?" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/big-bench/s6> <https://schema.org/url> "https://papers.neurips.cc/paper_files/paper/2023/file/adc98a266f45005c403b8311ca7e8bd7-Paper-Conference.pdf" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bleu/s1> <http://purl.org/dc/terms/publisher> "ACL 2002 (Papineni, Roukos, Ward, Zhu; IBM T. J. Watson Research Center)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bleu/s1> <http://purl.org/dc/terms/title> "Bleu: a Method for Automatic Evaluation of Machine Translation" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/bleu/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
