@@ -347,6 +347,28 @@
     ]
   },
   {
+    "id": "kt:ai-ethics",
+    "title": "AI ethics",
+    "aliases": [
+      "ethics of artificial intelligence",
+      "ethics of AI",
+      "artificial intelligence ethics",
+      "AI ethics principles"
+    ],
+    "type": "Field",
+    "domain": "governance-and-policy",
+    "file": "articles/governance-and-policy/ai-ethics.md",
+    "created": "2026-11-19",
+    "maturity": "established",
+    "source_urls": [
+      "https://plato.stanford.edu/entries/ethics-ai/",
+      "https://arxiv.org/pdf/1906.11668",
+      "https://arxiv.org/pdf/1906.06668",
+      "https://philarchive.org/archive/FLOAUF",
+      "https://news.un.org/en/story/2021/11/1106612"
+    ]
+  },
+  {
     "id": "kt:ai-evaluation",
     "title": "Evaluation of AI systems",
     "aliases": [

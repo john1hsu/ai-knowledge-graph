@@ -24,7 +24,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:r-cnn` | `kt:faster-r-cnn`, `kt:pascal-voc`, `kt:yolo` |
 | `kt:support-vector-machine` | `kt:perceptron`, `kt:loss-function`, `kt:statistical-learning-theory` |
 | `kt:activation-checkpointing` | `kt:pipeline-parallelism`, `kt:tensor-parallelism` |
-| `kt:ai-ethics` | `kt:algorithmic-bias-and-fairness`, `kt:fairness-accountability-and-transparency` |
 | `kt:allen-institute-for-ai` | `kt:commonsenseqa`, `kt:decomposed-prompting` |
 | `kt:alpha-beta-pruning` | `kt:deep-blue`, `kt:monte-carlo-tree-search` |
 | `kt:alphabet-inc` | `kt:google-deepmind`, `kt:google` |
@@ -46,6 +45,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:efficient-memory-management-for-large-language-model-serving-with-pagedattention` | `kt:batching-and-paged-attention`, `kt:vllm` |
 | `kt:expectation-maximization` | `kt:hidden-markov-model`, `kt:unsupervised-learning` |
 | `kt:expected-sarsa` | `kt:sarsa`, `kt:sarsa` |
+| `kt:explainable-ai` | `kt:ai-ethics`, `kt:fairness-accountability-and-transparency` |
 | `kt:export-control-reform-act` | `kt:ai-chip-export-controls`, `kt:bureau-of-industry-and-security` |
 | `kt:finetuned-language-models-are-zero-shot-learners` | `kt:zero-shot-prompting`, `kt:instruction-tuning` |
 | `kt:finite-automaton` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity`, `kt:hidden-markov-model` |
@@ -115,6 +115,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alphafold` | `kt:google-deepmind` |
 | `kt:animals-with-attributes` | `kt:zero-shot-learning` |
 | `kt:ann-benchmarks` | `kt:approximate-nearest-neighbor-search` |
+| `kt:applied-ethics` | `kt:ai-ethics` |
 | `kt:applied-mathematics` | `kt:mathematical-optimization` |
 | `kt:approximation-by-superpositions-of-a-sigmoidal-function` | `kt:universal-approximation-theorem` |
 | `kt:aqua-rat` | `kt:program-induction-by-rationale-generation` |
@@ -139,6 +140,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:berkeley-function-calling-leaderboard` | `kt:tool-use` |
 | `kt:beyond-the-imitation-game-quantifying-and-extrapolating-the-capabilities-of-language-models` | `kt:big-bench` |
 | `kt:billion-scale-similarity-search-with-gpus` | `kt:faiss` |
+| `kt:bioethics` | `kt:ai-ethics` |
 | `kt:biosafety-level` | `kt:responsible-scaling-policy` |
 | `kt:bleu-a-method-for-automatic-evaluation-of-machine-translation` | `kt:bleu` |
 | `kt:boltzmann-machine` | `kt:geoffrey-hinton` |
@@ -226,7 +228,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:evaluating-large-language-models-trained-on-code` | `kt:humaneval` |
 | `kt:experience-replay` | `kt:catastrophic-forgetting` |
 | `kt:expert-iteration` | `kt:star-self-taught-reasoner` |
-| `kt:explainable-ai` | `kt:fairness-accountability-and-transparency` |
 | `kt:facial-recognition` | `kt:algorithmic-bias-and-fairness` |
 | `kt:factor-analysis` | `kt:principal-component-analysis` |
 | `kt:fast-inference-from-transformers-via-speculative-decoding` | `kt:speculative-decoding` |
@@ -341,6 +342,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:long-short-term-memory-networks-for-machine-reading` | `kt:self-attention` |
 | `kt:low-rank-factorization` | `kt:model-compression` |
 | `kt:lvis` | `kt:ms-coco` |
+| `kt:machine-ethics` | `kt:ai-ethics` |
 | `kt:machine-learning-systems` | `kt:llm-inference-optimization` |
 | `kt:margaret-mitchell` | `kt:model-cards` |
 | `kt:masked-autoencoder` | `kt:vision-transformer` |
@@ -527,6 +529,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:umap` | `kt:dimensionality-reduction` |
 | `kt:underfitting` | `kt:overfitting` |
 | `kt:understanding-the-difficulty-of-training-deep-feedforward-neural-networks` | `kt:weight-initialization` |
+| `kt:unesco-recommendation-on-the-ethics-of-ai` | `kt:ai-ethics` |
 | `kt:universal-language-model-fine-tuning-for-text-classification` | `kt:fine-tuning` |
 | `kt:universal-self-consistency` | `kt:self-consistency` |
 | `kt:university-of-hong-kong` | `kt:osworld` |

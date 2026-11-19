@@ -10525,6 +10525,97 @@
       ]
     },
     {
+      "@id": "kt:ai-ethics",
+      "@type": "kto:Field",
+      "skos:prefLabel": "AI ethics",
+      "skos:definition": "The branch of applied ethics that studies the moral questions raised by designing, deploying and living with artificial intelligence, from privacy, bias and opacity in today's systems to machine moral agency, and that produced the wave of AI ethics principles (transparency, fairness, non-maleficence, responsibility, privacy) issued by companies, governments and intergovernmental bodies since the mid-2010s.",
+      "kto:domain": "governance-and-policy",
+      "dcterms:created": "2026-11-19",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Ethics of Artificial Intelligence and Robotics",
+          "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Vincent C. Müller; first published 30 April 2020, revised 27 March 2026)",
+          "schema:url": "https://plato.stanford.edu/entries/ethics-ai/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Artificial Intelligence: the global landscape of ethics guidelines",
+          "dcterms:publisher": "Jobin, Ienca & Vayena, arXiv 1906.11668 (published in Nature Machine Intelligence, 2019, doi:10.1038/s42256-019-0088-2)",
+          "schema:url": "https://arxiv.org/pdf/1906.11668",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Principles alone cannot guarantee ethical AI",
+          "dcterms:publisher": "Brent Mittelstadt, arXiv 1906.06668 (published in Nature Machine Intelligence, 2019)",
+          "schema:url": "https://arxiv.org/pdf/1906.06668",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "A Unified Framework of Five Principles for AI in Society",
+          "dcterms:publisher": "Floridi & Cowls, Harvard Data Science Review 1(1), 2019 (authors' archived copy, PhilArchive)",
+          "schema:url": "https://philarchive.org/archive/FLOAUF",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "193 countries adopt first-ever global agreement on the Ethics of Artificial Intelligence",
+          "dcterms:publisher": "UN News, 25 November 2021",
+          "schema:url": "https://news.un.org/en/story/2021/11/1106612",
+          "kto:sourceType": "intergovernmental"
+        }
+      ],
+      "kto:file": "articles/governance-and-policy/ai-ethics.md",
+      "skos:altLabel": [
+        "ethics of artificial intelligence",
+        "ethics of AI",
+        "artificial intelligence ethics",
+        "AI ethics principles"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-governance"
+        },
+        {
+          "@id": "kt:applied-ethics"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:algorithmic-bias-and-fairness"
+        },
+        {
+          "@id": "kt:fairness-accountability-and-transparency"
+        },
+        {
+          "@id": "kt:oecd-ai-principles"
+        },
+        {
+          "@id": "kt:ai-safety"
+        },
+        {
+          "@id": "kt:explainable-ai"
+        },
+        {
+          "@id": "kt:unesco-recommendation-on-the-ethics-of-ai"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:machine-ethics"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:bioethics"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:ai-alignment"
+        }
+      ]
+    },
+    {
       "@id": "kt:ai-governance",
       "@type": "kto:Field",
       "skos:prefLabel": "AI governance",

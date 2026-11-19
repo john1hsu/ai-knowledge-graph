@@ -402,6 +402,33 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/bureau-of-industry-and-security> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "governance-and-policy" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-chip-export-controls> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "emerging" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-ethics> <http://purl.org/dc/terms/created> "2026-11-19" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-ethics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Field> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-ethics> <http://www.w3.org/2000/01/rdf-schema#label> "AI ethics" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-ethics> <http://www.w3.org/2004/02/skos/core#altLabel> "AI ethics principles" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-ethics> <http://www.w3.org/2004/02/skos/core#altLabel> "artificial intelligence ethics" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-ethics> <http://www.w3.org/2004/02/skos/core#altLabel> "ethics of AI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-ethics> <http://www.w3.org/2004/02/skos/core#altLabel> "ethics of artificial intelligence" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-ethics> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-governance> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-ethics> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/applied-ethics> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-ethics> <http://www.w3.org/2004/02/skos/core#definition> "The branch of applied ethics that studies the moral questions raised by designing, deploying and living with artificial intelligence, from privacy, bias and opacity in today's systems to machine moral agency, and that produced the wave of AI ethics principles (transparency, fairness, non-maleficence, responsibility, privacy) issued by companies, governments and intergovernmental bodies since the mid-2010s." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-ethics> <http://www.w3.org/2004/02/skos/core#prefLabel> "AI ethics" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-ethics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-safety> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-ethics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/algorithmic-bias-and-fairness> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-ethics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/explainable-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-ethics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-ethics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/oecd-ai-principles> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-ethics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/unesco-recommendation-on-the-ethics-of-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-ethics> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-ethics/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-ethics> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-ethics/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-ethics> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-ethics/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-ethics> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-ethics/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-ethics> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-ethics/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-ethics> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-ethics> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "governance-and-policy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-ethics> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/machine-ethics> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-ethics> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/bioethics> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/ai-ethics> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Field> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> <http://www.w3.org/2000/01/rdf-schema#label> "Evaluation of AI systems" .
@@ -6504,6 +6531,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-chip-export-controls/s6> <https://schema.org/url> "https://www.govinfo.gov/content/pkg/FR-2026-01-15/html/2026-00789.htm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-ethics/s1> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (Vincent C. Müller; first published 30 April 2020, revised 27 March 2026)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-ethics/s1> <http://purl.org/dc/terms/title> "Ethics of Artificial Intelligence and Robotics" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-ethics/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-ethics/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-ethics/s1> <https://schema.org/url> "https://plato.stanford.edu/entries/ethics-ai/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-ethics/s2> <http://purl.org/dc/terms/publisher> "Jobin, Ienca & Vayena, arXiv 1906.11668 (published in Nature Machine Intelligence, 2019, doi:10.1038/s42256-019-0088-2)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-ethics/s2> <http://purl.org/dc/terms/title> "Artificial Intelligence: the global landscape of ethics guidelines" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-ethics/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-ethics/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-ethics/s2> <https://schema.org/url> "https://arxiv.org/pdf/1906.11668" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-ethics/s3> <http://purl.org/dc/terms/publisher> "Brent Mittelstadt, arXiv 1906.06668 (published in Nature Machine Intelligence, 2019)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-ethics/s3> <http://purl.org/dc/terms/title> "Principles alone cannot guarantee ethical AI" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-ethics/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-ethics/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-ethics/s3> <https://schema.org/url> "https://arxiv.org/pdf/1906.06668" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-ethics/s4> <http://purl.org/dc/terms/publisher> "Floridi & Cowls, Harvard Data Science Review 1(1), 2019 (authors' archived copy, PhilArchive)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-ethics/s4> <http://purl.org/dc/terms/title> "A Unified Framework of Five Principles for AI in Society" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-ethics/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-ethics/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-ethics/s4> <https://schema.org/url> "https://philarchive.org/archive/FLOAUF" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-ethics/s5> <http://purl.org/dc/terms/publisher> "UN News, 25 November 2021" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-ethics/s5> <http://purl.org/dc/terms/title> "193 countries adopt first-ever global agreement on the Ethics of Artificial Intelligence" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-ethics/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-ethics/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "intergovernmental" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-ethics/s5> <https://schema.org/url> "https://news.un.org/en/story/2021/11/1106612" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-evaluation/s1> <http://purl.org/dc/terms/publisher> "Transactions on Machine Learning Research, 2023 (Liang, Bommasani, Lee et al.)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-evaluation/s1> <http://purl.org/dc/terms/title> "Holistic Evaluation of Language Models" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ai-evaluation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
