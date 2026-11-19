@@ -2785,6 +2785,26 @@
     ]
   },
   {
+    "id": "kt:instance-segmentation",
+    "title": "Instance segmentation",
+    "aliases": [
+      "simultaneous detection and segmentation",
+      "object instance segmentation"
+    ],
+    "type": "Application",
+    "domain": "computer-vision-and-multimodal",
+    "file": "articles/computer-vision-and-multimodal/instance-segmentation.md",
+    "created": "2026-11-19",
+    "maturity": "established",
+    "source_urls": [
+      "https://www.d2l.ai/_sources/chapter_computer-vision/semantic-segmentation-and-dataset.rst.txt",
+      "https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/shape/sds",
+      "https://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf",
+      "https://openaccess.thecvf.com/content_CVPR_2019/papers/Kirillov_Panoptic_Segmentation_CVPR_2019_paper.pdf",
+      "https://openaccess.thecvf.com/content/ICCV2023/papers/Kirillov_Segment_Anything_ICCV_2023_paper.pdf"
+    ]
+  },
+  {
     "id": "kt:instruction-tuning",
     "title": "Instruction tuning",
     "aliases": [

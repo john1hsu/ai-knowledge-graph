@@ -3315,6 +3315,30 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/inverted-index> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/vector-space-model> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/information-retrieval> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instance-segmentation> <http://purl.org/dc/terms/created> "2026-11-19" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instance-segmentation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Application> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instance-segmentation> <http://www.w3.org/2000/01/rdf-schema#label> "Instance segmentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instance-segmentation> <http://www.w3.org/2004/02/skos/core#altLabel> "object instance segmentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instance-segmentation> <http://www.w3.org/2004/02/skos/core#altLabel> "simultaneous detection and segmentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instance-segmentation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/computer-vision> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instance-segmentation> <http://www.w3.org/2004/02/skos/core#definition> "The computer vision task of detecting every object instance in an image and outlining each one with its own pixel-level mask and class label, so that two objects of the same class are kept apart; it combines object detection's per-object outputs with semantic segmentation's per-pixel precision." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instance-segmentation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Instance segmentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instance-segmentation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instance-segmentation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/mask-r-cnn> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instance-segmentation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/object-detection> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instance-segmentation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/panoptic-segmentation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instance-segmentation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/segment-anything-model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instance-segmentation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/instance-segmentation/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instance-segmentation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/instance-segmentation/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instance-segmentation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/instance-segmentation/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instance-segmentation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/instance-segmentation/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instance-segmentation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/instance-segmentation/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instance-segmentation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-segmentation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instance-segmentation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/convolutional-neural-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instance-segmentation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "computer-vision-and-multimodal" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instance-segmentation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/cityscapes> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instance-segmentation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/instance-segmentation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/instruction-tuning> <http://www.w3.org/2000/01/rdf-schema#label> "Instruction tuning" .
@@ -9422,6 +9446,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "encyclopedia" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/information-retrieval/s6> <https://schema.org/url> "https://britannica.com/print/article/1379580" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instance-segmentation/s1> <http://purl.org/dc/terms/publisher> "Dive into Deep Learning (d2l.ai)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instance-segmentation/s1> <http://purl.org/dc/terms/title> "14.9. Semantic Segmentation and the Dataset" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instance-segmentation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instance-segmentation/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instance-segmentation/s1> <https://schema.org/url> "https://www.d2l.ai/_sources/chapter_computer-vision/semantic-segmentation-and-dataset.rst.txt" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instance-segmentation/s2> <http://purl.org/dc/terms/publisher> "UC Berkeley EECS (Hariharan, Arbeláez, Girshick, Malik; ECCV 2014)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instance-segmentation/s2> <http://purl.org/dc/terms/title> "Simultaneous Detection and Segmentation (project page)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instance-segmentation/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instance-segmentation/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instance-segmentation/s2> <https://schema.org/url> "https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/shape/sds" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instance-segmentation/s3> <http://purl.org/dc/terms/publisher> "ICCV 2017 (He, Gkioxari, Dollár, Girshick), CVF Open Access" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instance-segmentation/s3> <http://purl.org/dc/terms/title> "Mask R-CNN" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instance-segmentation/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instance-segmentation/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instance-segmentation/s3> <https://schema.org/url> "https://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instance-segmentation/s4> <http://purl.org/dc/terms/publisher> "CVPR 2019 (Kirillov, He, Girshick, Rother, Dollár), CVF Open Access" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instance-segmentation/s4> <http://purl.org/dc/terms/title> "Panoptic Segmentation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instance-segmentation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instance-segmentation/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instance-segmentation/s4> <https://schema.org/url> "https://openaccess.thecvf.com/content_CVPR_2019/papers/Kirillov_Panoptic_Segmentation_CVPR_2019_paper.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instance-segmentation/s5> <http://purl.org/dc/terms/publisher> "ICCV 2023 (Kirillov et al.), CVF Open Access" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instance-segmentation/s5> <http://purl.org/dc/terms/title> "Segment Anything" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instance-segmentation/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instance-segmentation/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/instance-segmentation/s5> <https://schema.org/url> "https://openaccess.thecvf.com/content/ICCV2023/papers/Kirillov_Segment_Anything_ICCV_2023_paper.pdf" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s1> <http://purl.org/dc/terms/publisher> "ICLR 2022; arXiv 2109.01652v5, Google Research (Wei, Bosma, Zhao, Guu, Yu, Lester, Du, Dai and Le)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s1> <http://purl.org/dc/terms/title> "Finetuned Language Models Are Zero-Shot Learners" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/instruction-tuning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

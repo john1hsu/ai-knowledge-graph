@@ -31,6 +31,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alphabet-inc` | `kt:google-deepmind`, `kt:google` |
 | `kt:automatic-differentiation` | `kt:pytorch`, `kt:backpropagation` |
 | `kt:cifar-10` | `kt:image-classification`, `kt:adversarial-training` |
+| `kt:cityscapes` | `kt:instance-segmentation`, `kt:semantic-segmentation` |
 | `kt:cliff-shaw` | `kt:general-problem-solver`, `kt:logic-theorist` |
 | `kt:computing-power-and-the-governance-of-artificial-intelligence` | `kt:compute-governance`, `kt:compute-governance` |
 | `kt:cross-entropy` | `kt:perplexity`, `kt:loss-function` |
@@ -64,6 +65,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:lora` | `kt:parameter-efficient-fine-tuning`, `kt:qlora` |
 | `kt:lottery-ticket-hypothesis` | `kt:model-compression`, `kt:model-pruning` |
 | `kt:marvin-minsky` | `kt:dartmouth-workshop`, `kt:perceptron` |
+| `kt:mask-r-cnn` | `kt:faster-r-cnn`, `kt:instance-segmentation` |
 | `kt:masked-language-modeling` | `kt:self-supervised-learning`, `kt:bert` |
 | `kt:medical-image-analysis` | `kt:semantic-segmentation`, `kt:u-net` |
 | `kt:membership-inference-attack` | `kt:benchmark-contamination`, `kt:model-extraction` |
@@ -153,7 +155,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:christian-szegedy` | `kt:adversarial-example` |
 | `kt:christopher-watkins` | `kt:q-learning` |
 | `kt:cider` | `kt:image-captioning` |
-| `kt:cityscapes` | `kt:semantic-segmentation` |
 | `kt:claude` | `kt:constitutional-ai` |
 | `kt:clipper-prediction-serving-system` | `kt:model-serving` |
 | `kt:cognitive-science` | `kt:connectionism` |
@@ -288,7 +289,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:information-science` | `kt:information-retrieval` |
 | `kt:information-theory` | `kt:perplexity` |
 | `kt:inspect-ai` | `kt:ai-evaluation` |
-| `kt:instance-segmentation` | `kt:semantic-segmentation` |
 | `kt:instruction-hierarchy` | `kt:prompt-injection` |
 | `kt:inter-annotator-agreement` | `kt:human-evaluation` |
 | `kt:interpretability` | `kt:mechanistic-interpretability` |
@@ -342,7 +342,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:lvis` | `kt:ms-coco` |
 | `kt:machine-learning-systems` | `kt:llm-inference-optimization` |
 | `kt:margaret-mitchell` | `kt:model-cards` |
-| `kt:mask-r-cnn` | `kt:faster-r-cnn` |
 | `kt:masked-autoencoder` | `kt:vision-transformer` |
 | `kt:mastering-chess-and-shogi-by-self-play-with-a-general-reinforcement-learning-algorithm` | `kt:alphazero` |
 | `kt:mastering-the-game-of-go-with-deep-neural-networks-and-tree-search` | `kt:alphago` |
@@ -403,6 +402,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:paired-comparison` | `kt:bradley-terry-model` |
 | `kt:pal-program-aided-language-models` | `kt:program-aided-language-models` |
 | `kt:palm` | `kt:multi-query-attention` |
+| `kt:panoptic-segmentation` | `kt:instance-segmentation` |
 | `kt:parameter-efficient-transfer-learning-for-nlp` | `kt:parameter-efficient-fine-tuning` |
 | `kt:partially-observable-markov-decision-process` | `kt:markov-decision-process` |
 | `kt:pattern-recognition` | `kt:computer-vision` |
@@ -458,6 +458,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:scaling-laws-for-neural-language-models` | `kt:scaling-laws` |
 | `kt:science-and-technology-studies` | `kt:fairness-accountability-and-transparency` |
 | `kt:score-matching` | `kt:diffusion-model` |
+| `kt:segment-anything-model` | `kt:instance-segmentation` |
 | `kt:self-consistency-improves-chain-of-thought-reasoning-in-language-models` | `kt:self-consistency` |
 | `kt:sentiment-analysis` | `kt:natural-language-processing` |
 | `kt:sepp-hochreiter` | `kt:long-short-term-memory` |
