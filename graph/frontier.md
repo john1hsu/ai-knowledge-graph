@@ -39,7 +39,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:deep-learning-framework` | `kt:hugging-face-transformers`, `kt:pytorch` |
 | `kt:dendral` | `kt:expert-systems`, `kt:lighthill-report` |
 | `kt:diederik-kingma` | `kt:adam-optimizer`, `kt:variational-autoencoder` |
-| `kt:double-q-learning` | `kt:deep-q-network`, `kt:q-learning` |
 | `kt:efficient-memory-management-for-large-language-model-serving-with-pagedattention` | `kt:batching-and-paged-attention`, `kt:vllm` |
 | `kt:expectation-maximization` | `kt:hidden-markov-model`, `kt:unsupervised-learning` |
 | `kt:expected-sarsa` | `kt:sarsa`, `kt:sarsa` |
@@ -83,6 +82,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:self-refine` | `kt:agentic-workflow`, `kt:voyager` |
 | `kt:sequence-parallelism` | `kt:tensor-parallelism`, `kt:activation-checkpointing` |
 | `kt:soar` | `kt:allen-newell`, `kt:general-problem-solver` |
+| `kt:soft-actor-critic` | `kt:actor-critic`, `kt:double-q-learning` |
 | `kt:sparse-autoencoder` | `kt:autoencoder`, `kt:mechanistic-interpretability` |
 | `kt:tensorflow-serving` | `kt:model-serving`, `kt:triton-inference-server` |
 | `kt:text-to-image-generation` | `kt:diffusion-model`, `kt:latent-diffusion-model` |
@@ -271,6 +271,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:gradient-based-learning-applied-to-document-recognition` | `kt:convolutional-neural-network` |
 | `kt:gradient-clipping` | `kt:vanishing-gradient-problem` |
 | `kt:graph-of-thoughts` | `kt:tree-of-thoughts` |
+| `kt:hado-van-hasselt` | `kt:double-q-learning` |
 | `kt:harold-hotelling` | `kt:principal-component-analysis` |
 | `kt:hidden-technical-debt-in-machine-learning-systems` | `kt:mlops` |
 | `kt:high-resolution-image-synthesis-with-latent-diffusion-models` | `kt:latent-diffusion-model` |
@@ -354,6 +355,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mastering-the-game-of-go-with-deep-neural-networks-and-tree-search` | `kt:alphago` |
 | `kt:mastering-the-game-of-go-without-human-knowledge` | `kt:alphago-zero` |
 | `kt:mathematical-reasoning` | `kt:program-induction-by-rationale-generation` |
+| `kt:maximization-bias` | `kt:double-q-learning` |
 | `kt:maximum-entropy-markov-model` | `kt:conditional-random-field` |
 | `kt:mbpp` | `kt:humaneval` |
 | `kt:megatron-lm-training-multi-billion-parameter-language-models-using-model-parallelism` | `kt:tensor-parallelism` |
@@ -475,7 +477,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:show-and-tell-a-neural-image-caption-generator` | `kt:image-captioning` |
 | `kt:show-your-work-scratchpads-for-intermediate-computation-with-language-models` | `kt:scratchpad` |
 | `kt:singular-value-decomposition` | `kt:principal-component-analysis` |
-| `kt:soft-actor-critic` | `kt:actor-critic` |
 | `kt:softmax-function` | `kt:attention-mechanism` |
 | `kt:softmax-regression` | `kt:image-classification` |
 | `kt:sparse-transformer` | `kt:language-models-are-few-shot-learners` |
@@ -527,6 +528,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:triviaqa` | `kt:language-models-are-few-shot-learners` |
 | `kt:truthfulqa-measuring-how-models-mimic-human-falsehoods` | `kt:truthfulqa` |
 | `kt:turing-machine` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
+| `kt:twin-delayed-ddpg` | `kt:double-q-learning` |
 | `kt:u-net-convolutional-networks-for-biomedical-image-segmentation` | `kt:u-net` |
 | `kt:uc-berkeley` | `kt:vllm` |
 | `kt:uk-ai-security-institute` | `kt:ai-safety-institutes` |

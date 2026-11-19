@@ -2315,6 +2315,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/reconciling-modern-machine-learning-practice-and-the-bias-variance-trade-off> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/double-descent> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-q-learning> <http://purl.org/dc/terms/created> "2026-11-19" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-q-learning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-q-learning> <http://www.w3.org/2000/01/rdf-schema#label> "Double Q-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-q-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "double estimator Q-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-q-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "double learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-q-learning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-q-learning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/temporal-difference-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-q-learning> <http://www.w3.org/2004/02/skos/core#definition> "An off-policy temporal-difference control algorithm that keeps two independent action-value estimates and uses one to pick the greedy next action and the other to value it, removing the upward maximization bias that makes standard Q-learning overestimate action values." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-q-learning> <http://www.w3.org/2004/02/skos/core#prefLabel> "Double Q-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-q-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/actor-critic> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-q-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-q-network> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-q-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/exploration-exploitation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-q-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/sarsa> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-q-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/soft-actor-critic> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-q-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/double-q-learning/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-q-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/double-q-learning/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-q-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/double-q-learning/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-q-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/double-q-learning/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-q-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/hado-van-hasselt> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-q-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/markov-decision-process> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-q-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "reinforcement-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-q-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/twin-delayed-ddpg> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-q-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#extends> <https://github.com/john1hsu/ai-knowledge-graph/id/q-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-q-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/double-q-learning> <https://github.com/john1hsu/ai-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/ai-knowledge-graph/id/maximization-bias> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/dropout> <http://www.w3.org/2000/01/rdf-schema#label> "Dropout" .
@@ -8643,6 +8668,26 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/double-descent/s6> <https://schema.org/url> "https://mlanthology.org/iclr/2021/nakkiran2021iclr-optimal" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-q-learning/s1> <http://purl.org/dc/terms/publisher> "Advances in Neural Information Processing Systems 23 (NIPS 2010), van Hasselt" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-q-learning/s1> <http://purl.org/dc/terms/title> "Double Q-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-q-learning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-q-learning/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-q-learning/s1> <https://schema.org/url> "https://papers.nips.cc/paper/3964-double-q-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-q-learning/s2> <http://purl.org/dc/terms/publisher> "MIT Press, 2018 (Sutton and Barto), course copy hosted by Texas A&M CSCE 421" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-q-learning/s2> <http://purl.org/dc/terms/title> "Reinforcement Learning: An Introduction (2nd ed.), section 6.7 Maximization Bias and Double Learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-q-learning/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-q-learning/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-q-learning/s2> <https://schema.org/url> "https://people.engr.tamu.edu/guni/csce421/files/RLbook2018.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-q-learning/s3> <http://purl.org/dc/terms/publisher> "AAAI 2016 (van Hasselt, Guez and Silver), authors' arXiv version 1509.06461 via ar5iv" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-q-learning/s3> <http://purl.org/dc/terms/title> "Deep Reinforcement Learning with Double Q-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-q-learning/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-q-learning/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-q-learning/s3> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/1509.06461" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-q-learning/s4> <http://purl.org/dc/terms/publisher> "ICML 2018, PMLR 80 (Fujimoto, van Hoof and Meger), arXiv 1802.09477" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-q-learning/s4> <http://purl.org/dc/terms/title> "Addressing Function Approximation Error in Actor-Critic Methods" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-q-learning/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-q-learning/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/double-q-learning/s4> <https://schema.org/url> "https://www.arxiv.org/pdf/1802.09477" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s1> <http://purl.org/dc/terms/publisher> "Journal of Machine Learning Research 15(56), 1929–1958 (2014) (Srivastava, Hinton, Krizhevsky, Sutskever and Salakhutdinov)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s1> <http://purl.org/dc/terms/title> "Dropout: A Simple Way to Prevent Neural Networks from Overfitting" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/dropout/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

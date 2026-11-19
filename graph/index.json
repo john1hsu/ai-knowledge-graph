@@ -1945,6 +1945,25 @@
     ]
   },
   {
+    "id": "kt:double-q-learning",
+    "title": "Double Q-learning",
+    "aliases": [
+      "double learning",
+      "double estimator Q-learning"
+    ],
+    "type": "Algorithm",
+    "domain": "reinforcement-learning",
+    "file": "articles/reinforcement-learning/double-q-learning.md",
+    "created": "2026-11-19",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://papers.nips.cc/paper/3964-double-q-learning",
+      "https://people.engr.tamu.edu/guni/csce421/files/RLbook2018.pdf",
+      "https://ar5iv.labs.arxiv.org/html/1509.06461",
+      "https://www.arxiv.org/pdf/1802.09477"
+    ]
+  },
+  {
     "id": "kt:dropout",
     "title": "Dropout",
     "aliases": [
