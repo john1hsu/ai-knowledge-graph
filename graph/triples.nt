@@ -2419,6 +2419,29 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "governance-and-policy" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/science-and-technology-studies> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/fairness-accountability-and-transparency> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faiss> <http://purl.org/dc/terms/created> "2026-11-19" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faiss> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Tool> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faiss> <http://www.w3.org/2000/01/rdf-schema#label> "Faiss" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faiss> <http://www.w3.org/2004/02/skos/core#altLabel> "FAISS" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faiss> <http://www.w3.org/2004/02/skos/core#altLabel> "Facebook AI Similarity Search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faiss> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/approximate-nearest-neighbor-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faiss> <http://www.w3.org/2004/02/skos/core#definition> "An open-source C++ library with Python wrappers, developed by Meta's FAIR group, for efficient similarity search, clustering and compression of dense vectors, offering exact and approximate nearest-neighbour indexes on CPU and GPU." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faiss> <http://www.w3.org/2004/02/skos/core#prefLabel> "Faiss" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faiss> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faiss> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/semantic-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faiss> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/vector-database> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faiss> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/faiss/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faiss> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/faiss/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faiss> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/faiss/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faiss> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/faiss/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faiss> <https://github.com/john1hsu/ai-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/ai-knowledge-graph/id/apache-lucene> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faiss> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/product-quantization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faiss> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/meta-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faiss> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "retrieval-and-knowledge" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faiss> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/billion-scale-similarity-search-with-gpus> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faiss> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faiss> <https://github.com/john1hsu/ai-knowledge-graph/ontology#runsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/faiss> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/faster-r-cnn> <http://www.w3.org/2000/01/rdf-schema#label> "Faster R-CNN" .
@@ -8526,6 +8549,26 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/fairness-accountability-and-transparency/s6> <https://schema.org/url> "https://facct-blog.github.io/2026-06-22/review-process" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faiss/s1> <http://purl.org/dc/terms/publisher> "arXiv:2401.08281v3 (Douze, Guzhva, Deng, Johnson, Szilvasy, Mazaré, Lomeli, Hosseini and Jégou; Meta FAIR), February 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faiss/s1> <http://purl.org/dc/terms/title> "The Faiss library" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faiss/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faiss/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faiss/s1> <https://schema.org/url> "https://arxiv.org/abs/2401.08281v3" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faiss/s2> <http://purl.org/dc/terms/publisher> "arXiv:1702.08734 (Johnson, Douze and Jégou; Facebook AI Research), February 2017" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faiss/s2> <http://purl.org/dc/terms/title> "Billion-scale similarity search with GPUs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faiss/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faiss/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faiss/s2> <https://schema.org/url> "https://arxiv.org/pdf/1702.08734" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faiss/s3> <http://purl.org/dc/terms/publisher> "Engineering at Meta (Jégou, Douze and Johnson), 29 March 2017" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faiss/s3> <http://purl.org/dc/terms/title> "Faiss: A library for efficient similarity search" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faiss/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faiss/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faiss/s3> <https://schema.org/url> "https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faiss/s4> <http://purl.org/dc/terms/publisher> "GitHub (Meta FAIR)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faiss/s4> <http://purl.org/dc/terms/title> "facebookresearch/faiss — README and LICENSE" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faiss/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faiss/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/faiss/s4> <https://schema.org/url> "https://github.com/facebookresearch/faiss" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s1> <http://purl.org/dc/terms/publisher> "Ren, He, Girshick and Sun, Advances in Neural Information Processing Systems 28 (NIPS 2015)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s1> <http://purl.org/dc/terms/title> "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/faster-r-cnn/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

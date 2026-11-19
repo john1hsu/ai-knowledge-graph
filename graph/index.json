@@ -2036,6 +2036,25 @@
     ]
   },
   {
+    "id": "kt:faiss",
+    "title": "Faiss",
+    "aliases": [
+      "FAISS",
+      "Facebook AI Similarity Search"
+    ],
+    "type": "Tool",
+    "domain": "retrieval-and-knowledge",
+    "file": "articles/retrieval-and-knowledge/faiss.md",
+    "created": "2026-11-19",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/abs/2401.08281v3",
+      "https://arxiv.org/pdf/1702.08734",
+      "https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/",
+      "https://github.com/facebookresearch/faiss"
+    ]
+  },
+  {
     "id": "kt:faster-r-cnn",
     "title": "Faster R-CNN",
     "aliases": [

@@ -18992,6 +18992,92 @@
       ]
     },
     {
+      "@id": "kt:faiss",
+      "@type": "kto:Tool",
+      "skos:prefLabel": "Faiss",
+      "skos:definition": "An open-source C++ library with Python wrappers, developed by Meta's FAIR group, for efficient similarity search, clustering and compression of dense vectors, offering exact and approximate nearest-neighbour indexes on CPU and GPU.",
+      "kto:domain": "retrieval-and-knowledge",
+      "dcterms:created": "2026-11-19",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Faiss library",
+          "dcterms:publisher": "arXiv:2401.08281v3 (Douze, Guzhva, Deng, Johnson, Szilvasy, Mazaré, Lomeli, Hosseini and Jégou; Meta FAIR), February 2025",
+          "schema:url": "https://arxiv.org/abs/2401.08281v3",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Billion-scale similarity search with GPUs",
+          "dcterms:publisher": "arXiv:1702.08734 (Johnson, Douze and Jégou; Facebook AI Research), February 2017",
+          "schema:url": "https://arxiv.org/pdf/1702.08734",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Faiss: A library for efficient similarity search",
+          "dcterms:publisher": "Engineering at Meta (Jégou, Douze and Johnson), 29 March 2017",
+          "schema:url": "https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "facebookresearch/faiss — README and LICENSE",
+          "dcterms:publisher": "GitHub (Meta FAIR)",
+          "schema:url": "https://github.com/facebookresearch/faiss",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/retrieval-and-knowledge/faiss.md",
+      "skos:altLabel": [
+        "FAISS",
+        "Facebook AI Similarity Search"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:approximate-nearest-neighbor-search"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:vector-database"
+        },
+        {
+          "@id": "kt:embeddings"
+        },
+        {
+          "@id": "kt:semantic-search"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:meta-ai"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:billion-scale-similarity-search-with-gpus"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:product-quantization"
+        }
+      ],
+      "kto:runsOn": [
+        {
+          "@id": "kt:gpu-computing"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:retrieval-augmented-generation"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:apache-lucene"
+        }
+      ]
+    },
+    {
       "@id": "kt:glove",
       "@type": "kto:Algorithm",
       "skos:prefLabel": "GloVe",

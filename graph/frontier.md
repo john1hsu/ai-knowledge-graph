@@ -14,10 +14,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:application-specific-integrated-circuit` | `kt:deep-blue`, `kt:ai-accelerator`, `kt:tpu` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
 | `kt:empirical-risk-minimization` | `kt:loss-function`, `kt:mathematical-optimization`, `kt:supervised-learning` |
-| `kt:faiss` | `kt:apache-lucene`, `kt:approximate-nearest-neighbor-search`, `kt:vector-database` |
 | `kt:herbert-a-simon` | `kt:allen-newell`, `kt:general-problem-solver`, `kt:logic-theorist` |
 | `kt:logistic-regression` | `kt:conditional-random-field`, `kt:loss-function`, `kt:bradley-terry-model` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
+| `kt:meta-ai` | `kt:toolformer`, `kt:pytorch`, `kt:faiss` |
 | `kt:model-parallelism` | `kt:data-parallelism`, `kt:pipeline-parallelism`, `kt:tensor-parallelism` |
 | `kt:physical-symbol-system-hypothesis` | `kt:allen-newell`, `kt:heuristic-search`, `kt:symbolic-ai` |
 | `kt:r-cnn` | `kt:faster-r-cnn`, `kt:pascal-voc`, `kt:yolo` |
@@ -69,7 +69,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:masked-language-modeling` | `kt:self-supervised-learning`, `kt:bert` |
 | `kt:medical-image-analysis` | `kt:semantic-segmentation`, `kt:u-net` |
 | `kt:membership-inference-attack` | `kt:benchmark-contamination`, `kt:model-extraction` |
-| `kt:meta-ai` | `kt:toolformer`, `kt:pytorch` |
 | `kt:mini-swe-agent` | `kt:swe-agent`, `kt:swe-agent` |
 | `kt:model-compression-caruana-2006` | `kt:model-compression`, `kt:knowledge-distillation` |
 | `kt:monte-carlo-methods` | `kt:monte-carlo-tree-search`, `kt:temporal-difference-learning` |
@@ -138,6 +137,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:berkeley-function-calling-leaderboard` | `kt:tool-use` |
 | `kt:big-bench` | `kt:emergent-abilities` |
 | `kt:big-bench-hard` | `kt:program-aided-language-models` |
+| `kt:billion-scale-similarity-search-with-gpus` | `kt:faiss` |
 | `kt:biosafety-level` | `kt:responsible-scaling-policy` |
 | `kt:bleu-a-method-for-automatic-evaluation-of-machine-translation` | `kt:bleu` |
 | `kt:boltzmann-machine` | `kt:geoffrey-hinton` |
@@ -416,6 +416,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pregel` | `kt:langgraph` |
 | `kt:probabilistic-graphical-model` | `kt:conditional-random-field` |
 | `kt:process-reward-model` | `kt:test-time-compute` |
+| `kt:product-quantization` | `kt:faiss` |
 | `kt:program-induction` | `kt:program-induction-by-rationale-generation` |
 | `kt:program-of-thoughts` | `kt:program-aided-language-models` |
 | `kt:projected-gradient-descent` | `kt:adversarial-training` |
