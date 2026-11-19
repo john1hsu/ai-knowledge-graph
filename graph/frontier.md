@@ -5,13 +5,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:parallel-computing` | `kt:ai-hardware`, `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
+| `kt:zero-redundancy-optimizer` | `kt:data-parallelism`, `kt:distributed-training`, `kt:pipeline-parallelism`, `kt:tensor-parallelism`, `kt:activation-checkpointing` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:anthropic` | `kt:model-context-protocol`, `kt:openai`, `kt:responsible-scaling-policy`, `kt:constitutional-ai` |
 | `kt:automated-planning` | `kt:planning-in-llms`, `kt:general-problem-solver`, `kt:heuristic-search`, `kt:knowledge-representation` |
 | `kt:microsoft-research` | `kt:alfworld`, `kt:autogen`, `kt:residual-connection`, `kt:graphrag` |
-| `kt:zero-redundancy-optimizer` | `kt:data-parallelism`, `kt:distributed-training`, `kt:pipeline-parallelism`, `kt:tensor-parallelism` |
 | `kt:all-reduce` | `kt:data-parallelism`, `kt:distributed-training`, `kt:tensor-parallelism` |
 | `kt:application-specific-integrated-circuit` | `kt:deep-blue`, `kt:ai-accelerator`, `kt:tpu` |
+| `kt:automatic-differentiation` | `kt:pytorch`, `kt:backpropagation`, `kt:activation-checkpointing` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
 | `kt:empirical-risk-minimization` | `kt:loss-function`, `kt:mathematical-optimization`, `kt:supervised-learning` |
 | `kt:herbert-a-simon` | `kt:allen-newell`, `kt:general-problem-solver`, `kt:logic-theorist` |
@@ -23,11 +24,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:physical-symbol-system-hypothesis` | `kt:allen-newell`, `kt:heuristic-search`, `kt:symbolic-ai` |
 | `kt:r-cnn` | `kt:faster-r-cnn`, `kt:pascal-voc`, `kt:yolo` |
 | `kt:support-vector-machine` | `kt:perceptron`, `kt:loss-function`, `kt:statistical-learning-theory` |
-| `kt:activation-checkpointing` | `kt:pipeline-parallelism`, `kt:tensor-parallelism` |
 | `kt:allen-institute-for-ai` | `kt:commonsenseqa`, `kt:decomposed-prompting` |
 | `kt:alpha-beta-pruning` | `kt:deep-blue`, `kt:monte-carlo-tree-search` |
 | `kt:alphabet-inc` | `kt:google-deepmind`, `kt:google` |
-| `kt:automatic-differentiation` | `kt:pytorch`, `kt:backpropagation` |
 | `kt:big-bench-hard` | `kt:big-bench`, `kt:program-aided-language-models` |
 | `kt:cifar-10` | `kt:image-classification`, `kt:adversarial-training` |
 | `kt:cityscapes` | `kt:instance-segmentation`, `kt:semantic-segmentation` |
@@ -82,6 +81,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:self-correction` | `kt:reflexion`, `kt:self-refine-iterative-refinement-with-self-feedback` |
 | `kt:self-play` | `kt:alphago-zero`, `kt:alphazero` |
 | `kt:self-refine` | `kt:agentic-workflow`, `kt:voyager` |
+| `kt:sequence-parallelism` | `kt:tensor-parallelism`, `kt:activation-checkpointing` |
 | `kt:soar` | `kt:allen-newell`, `kt:general-problem-solver` |
 | `kt:sparse-autoencoder` | `kt:autoencoder`, `kt:mechanistic-interpretability` |
 | `kt:tensorflow-serving` | `kt:model-serving`, `kt:triton-inference-server` |
@@ -469,7 +469,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:self-consistency-improves-chain-of-thought-reasoning-in-language-models` | `kt:self-consistency` |
 | `kt:sentiment-analysis` | `kt:natural-language-processing` |
 | `kt:sepp-hochreiter` | `kt:long-short-term-memory` |
-| `kt:sequence-parallelism` | `kt:tensor-parallelism` |
 | `kt:sglang` | `kt:prefix-caching` |
 | `kt:sglang-efficient-execution-of-structured-language-model-programs` | `kt:prefix-caching` |
 | `kt:show-and-tell-a-neural-image-caption-generator` | `kt:image-captioning` |
@@ -511,11 +510,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:the-perceptron-a-probabilistic-model-for-information-storage-and-organization-in-the-brain` | `kt:perceptron` |
 | `kt:through-silicon-via` | `kt:high-bandwidth-memory` |
 | `kt:thurstone-mosteller-model` | `kt:bradley-terry-model` |
+| `kt:tianqi-chen` | `kt:activation-checkpointing` |
 | `kt:tijmen-tieleman` | `kt:rmsprop` |
 | `kt:tim-dettmers` | `kt:qlora` |
 | `kt:time-sharing` | `kt:eliza` |
 | `kt:timing-side-channel` | `kt:prefix-caching` |
 | `kt:timnit-gebru` | `kt:datasheets-for-datasets` |
+| `kt:training-deep-nets-with-sublinear-memory-cost` | `kt:activation-checkpointing` |
 | `kt:training-verifiers-to-solve-math-word-problems` | `kt:gsm8k` |
 | `kt:transformer-engine` | `kt:tensor-cores` |
 | `kt:transformers-state-of-the-art-natural-language-processing` | `kt:hugging-face-transformers` |

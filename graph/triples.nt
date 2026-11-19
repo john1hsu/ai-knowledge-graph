@@ -43,6 +43,34 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/a-neural-probabilistic-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "transformers-and-llms" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/a-neural-probabilistic-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/embeddings> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/a-neural-probabilistic-language-model> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-checkpointing> <http://purl.org/dc/terms/created> "2026-11-19" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-checkpointing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-checkpointing> <http://www.w3.org/2000/01/rdf-schema#label> "Activation checkpointing" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-checkpointing> <http://www.w3.org/2004/02/skos/core#altLabel> "activation recomputation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-checkpointing> <http://www.w3.org/2004/02/skos/core#altLabel> "gradient checkpointing" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-checkpointing> <http://www.w3.org/2004/02/skos/core#altLabel> "rematerialization" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-checkpointing> <http://www.w3.org/2004/02/skos/core#altLabel> "sublinear memory training" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-checkpointing> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-checkpointing> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-checkpointing> <http://www.w3.org/2004/02/skos/core#definition> "A training memory optimization that keeps only a subset of a network's intermediate activations during the forward pass and recomputes the discarded ones during backpropagation, trading extra computation for a much smaller activation-memory footprint." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-checkpointing> <http://www.w3.org/2004/02/skos/core#prefLabel> "Activation checkpointing" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-checkpointing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/fine-tuning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-checkpointing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/pipeline-parallelism> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-checkpointing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/qlora> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-checkpointing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/sequence-parallelism> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-checkpointing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/tensor-parallelism> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-checkpointing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/zero-redundancy-optimizer> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-checkpointing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-checkpointing/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-checkpointing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-checkpointing/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-checkpointing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-checkpointing/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-checkpointing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-checkpointing/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-checkpointing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-checkpointing/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-checkpointing> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/automatic-differentiation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-checkpointing> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/tianqi-chen> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-checkpointing> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "training-and-adaptation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-checkpointing> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-checkpointing> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/training-deep-nets-with-sublinear-memory-cost> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/activation-checkpointing> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/activation-function> <http://www.w3.org/2000/01/rdf-schema#label> "Activation function" .
@@ -6169,6 +6197,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/a-neural-probabilistic-language-model/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/a-neural-probabilistic-language-model/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/a-neural-probabilistic-language-model/s5> <https://schema.org/url> "https://amturing.acm.org/award_recipient/bengio_3406375" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-checkpointing/s1> <http://purl.org/dc/terms/publisher> "arXiv 1604.06174 (Chen, Xu, Zhang and Guestrin), 2016" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-checkpointing/s1> <http://purl.org/dc/terms/title> "Training Deep Nets with Sublinear Memory Cost" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-checkpointing/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-checkpointing/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-checkpointing/s1> <https://schema.org/url> "https://arxiv.org/abs/1604.06174v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-checkpointing/s2> <http://purl.org/dc/terms/publisher> "arXiv 1604.06174 (Chen, Xu, Zhang and Guestrin), 2016" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-checkpointing/s2> <http://purl.org/dc/terms/title> "Training Deep Nets with Sublinear Memory Cost (full text)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-checkpointing/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-checkpointing/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-checkpointing/s2> <https://schema.org/url> "https://www.arxiv.org/pdf/1604.06174" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-checkpointing/s3> <http://purl.org/dc/terms/publisher> "MLSys 2023 (Korthikanti, Casper, Lym, McAfee, Andersch, Shoeybi and Catanzaro; NVIDIA)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-checkpointing/s3> <http://purl.org/dc/terms/title> "Reducing Activation Recomputation in Large Transformer Models" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-checkpointing/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-checkpointing/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-checkpointing/s3> <https://schema.org/url> "https://proceedings.mlsys.org/paper_files/paper/2023/hash/80083951326cf5b35e5100260d64ed81-Abstract-mlsys2023.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-checkpointing/s4> <http://purl.org/dc/terms/publisher> "PyTorch" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-checkpointing/s4> <http://purl.org/dc/terms/title> "torch.utils.checkpoint (PyTorch 2.3 documentation)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-checkpointing/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-checkpointing/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-checkpointing/s4> <https://schema.org/url> "https://docs.pytorch.org/docs/2.3/checkpoint.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-checkpointing/s5> <http://purl.org/dc/terms/publisher> "PyTorch" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-checkpointing/s5> <http://purl.org/dc/terms/title> "torch.utils.checkpoint (PyTorch 2.9 documentation source)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-checkpointing/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-checkpointing/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-checkpointing/s5> <https://schema.org/url> "https://docs.pytorch.org/docs/2.9/_sources/checkpoint.md.txt" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s1> <http://purl.org/dc/terms/publisher> "Zhang, Lipton, Li and Smola, Dive into Deep Learning (d2l.ai)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s1> <http://purl.org/dc/terms/title> "5.1. Multilayer Perceptrons (Dive into Deep Learning)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/activation-function/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

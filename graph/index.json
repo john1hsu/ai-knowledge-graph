@@ -41,6 +41,28 @@
     ]
   },
   {
+    "id": "kt:activation-checkpointing",
+    "title": "Activation checkpointing",
+    "aliases": [
+      "gradient checkpointing",
+      "activation recomputation",
+      "rematerialization",
+      "sublinear memory training"
+    ],
+    "type": "Technique",
+    "domain": "training-and-adaptation",
+    "file": "articles/training-and-adaptation/activation-checkpointing.md",
+    "created": "2026-11-19",
+    "maturity": "established",
+    "source_urls": [
+      "https://arxiv.org/abs/1604.06174v2",
+      "https://www.arxiv.org/pdf/1604.06174",
+      "https://proceedings.mlsys.org/paper_files/paper/2023/hash/80083951326cf5b35e5100260d64ed81-Abstract-mlsys2023.html",
+      "https://docs.pytorch.org/docs/2.3/checkpoint.html",
+      "https://docs.pytorch.org/docs/2.9/_sources/checkpoint.md.txt"
+    ]
+  },
+  {
     "id": "kt:activation-function",
     "title": "Activation function",
     "aliases": [

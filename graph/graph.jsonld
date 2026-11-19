@@ -22311,6 +22311,102 @@
       ]
     },
     {
+      "@id": "kt:activation-checkpointing",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Activation checkpointing",
+      "skos:definition": "A training memory optimization that keeps only a subset of a network's intermediate activations during the forward pass and recomputes the discarded ones during backpropagation, trading extra computation for a much smaller activation-memory footprint.",
+      "kto:domain": "training-and-adaptation",
+      "dcterms:created": "2026-11-19",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Training Deep Nets with Sublinear Memory Cost",
+          "dcterms:publisher": "arXiv 1604.06174 (Chen, Xu, Zhang and Guestrin), 2016",
+          "schema:url": "https://arxiv.org/abs/1604.06174v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Training Deep Nets with Sublinear Memory Cost (full text)",
+          "dcterms:publisher": "arXiv 1604.06174 (Chen, Xu, Zhang and Guestrin), 2016",
+          "schema:url": "https://www.arxiv.org/pdf/1604.06174",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Reducing Activation Recomputation in Large Transformer Models",
+          "dcterms:publisher": "MLSys 2023 (Korthikanti, Casper, Lym, McAfee, Andersch, Shoeybi and Catanzaro; NVIDIA)",
+          "schema:url": "https://proceedings.mlsys.org/paper_files/paper/2023/hash/80083951326cf5b35e5100260d64ed81-Abstract-mlsys2023.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "torch.utils.checkpoint (PyTorch 2.3 documentation)",
+          "dcterms:publisher": "PyTorch",
+          "schema:url": "https://docs.pytorch.org/docs/2.3/checkpoint.html",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "torch.utils.checkpoint (PyTorch 2.9 documentation source)",
+          "dcterms:publisher": "PyTorch",
+          "schema:url": "https://docs.pytorch.org/docs/2.9/_sources/checkpoint.md.txt",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/training-and-adaptation/activation-checkpointing.md",
+      "skos:altLabel": [
+        "gradient checkpointing",
+        "activation recomputation",
+        "rematerialization",
+        "sublinear memory training"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:backpropagation"
+        },
+        {
+          "@id": "kt:distributed-training"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:pipeline-parallelism"
+        },
+        {
+          "@id": "kt:tensor-parallelism"
+        },
+        {
+          "@id": "kt:sequence-parallelism"
+        },
+        {
+          "@id": "kt:zero-redundancy-optimizer"
+        },
+        {
+          "@id": "kt:fine-tuning"
+        },
+        {
+          "@id": "kt:qlora"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:training-deep-nets-with-sublinear-memory-cost"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:automatic-differentiation"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:pytorch"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:tianqi-chen"
+        }
+      ]
+    },
+    {
       "@id": "kt:bradley-terry-model",
       "@type": "kto:Concept",
       "skos:prefLabel": "Bradley-Terry model",
