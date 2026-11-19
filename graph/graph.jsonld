@@ -21417,6 +21417,93 @@
       ]
     },
     {
+      "@id": "kt:deep-reinforcement-learning-from-human-preferences",
+      "@type": "kto:Work",
+      "skos:prefLabel": "Deep Reinforcement Learning from Human Preferences",
+      "skos:definition": "A NeurIPS 2017 paper by Christiano, Leike, Brown, Martic, Legg and Amodei (OpenAI and DeepMind) showing that deep reinforcement-learning agents can learn Atari games and simulated-robot behaviours with no access to the true reward, using a reward predictor fitted to non-expert human comparisons of short video clips.",
+      "kto:domain": "safety-alignment-and-security",
+      "dcterms:created": "2026-11-19",
+      "kto:maturity": "historical",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Deep Reinforcement Learning from Human Preferences",
+          "dcterms:publisher": "NeurIPS 2017, Advances in Neural Information Processing Systems 30 (Christiano, Leike, Brown, Martic, Legg, Amodei)",
+          "schema:url": "https://proceedings.neurips.cc/paper/2017/file/d5e2c0adad503c91f91df240d0cd4e49-Paper.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Learning from human preferences",
+          "dcterms:publisher": "OpenAI (Dario Amodei, Paul Christiano, Alex Ray), 13 June 2017",
+          "schema:url": "https://openai.com/index/learning-from-human-preferences/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Learning through human feedback",
+          "dcterms:publisher": "DeepMind blog (Jan Leike, Miljan Martic, Shane Legg), 12 June 2017",
+          "schema:url": "https://deepmind.google/discover/blog/learning-through-human-feedback/",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Training language models to follow instructions with human feedback",
+          "dcterms:publisher": "arXiv:2203.02155 (Ouyang et al., OpenAI), March 2022",
+          "schema:url": "https://arxiv.org/abs/2203.02155v1",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/safety-alignment-and-security/deep-reinforcement-learning-from-human-preferences.md",
+      "skos:altLabel": [
+        "Christiano et al. 2017",
+        "arXiv:1706.03741",
+        "Learning from human preferences"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-alignment"
+        },
+        {
+          "@id": "kt:reinforcement-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:rlhf"
+        },
+        {
+          "@id": "kt:reward-model"
+        },
+        {
+          "@id": "kt:reward-hacking"
+        },
+        {
+          "@id": "kt:scalable-oversight"
+        },
+        {
+          "@id": "kt:concrete-problems-in-ai-safety"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:openai"
+        },
+        {
+          "@id": "kt:google-deepmind"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:bradley-terry-model"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:actor-critic"
+        },
+        {
+          "@id": "kt:trust-region-policy-optimization"
+        }
+      ]
+    },
+    {
       "@id": "kt:goodharts-law",
       "@type": "kto:Concept",
       "skos:prefLabel": "Goodhart's law",

@@ -1817,6 +1817,26 @@
     ]
   },
   {
+    "id": "kt:deep-reinforcement-learning-from-human-preferences",
+    "title": "Deep Reinforcement Learning from Human Preferences",
+    "aliases": [
+      "Christiano et al. 2017",
+      "arXiv:1706.03741",
+      "Learning from human preferences"
+    ],
+    "type": "Work",
+    "domain": "safety-alignment-and-security",
+    "file": "articles/safety-alignment-and-security/deep-reinforcement-learning-from-human-preferences.md",
+    "created": "2026-11-19",
+    "maturity": "historical",
+    "source_urls": [
+      "https://proceedings.neurips.cc/paper/2017/file/d5e2c0adad503c91f91df240d0cd4e49-Paper.pdf",
+      "https://openai.com/index/learning-from-human-preferences/",
+      "https://deepmind.google/discover/blog/learning-through-human-feedback/",
+      "https://arxiv.org/abs/2203.02155v1"
+    ]
+  },
+  {
     "id": "kt:diffusion-model",
     "title": "Diffusion model",
     "aliases": [

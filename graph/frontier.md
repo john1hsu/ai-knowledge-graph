@@ -37,7 +37,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:curse-of-dimensionality` | `kt:universal-approximation-theorem`, `kt:dimensionality-reduction` |
 | `kt:deep-belief-network` | `kt:geoffrey-hinton`, `kt:deep-learning` |
 | `kt:deep-learning-framework` | `kt:hugging-face-transformers`, `kt:pytorch` |
-| `kt:deep-reinforcement-learning-from-human-preferences` | `kt:reward-model`, `kt:rlhf` |
 | `kt:dendral` | `kt:expert-systems`, `kt:lighthill-report` |
 | `kt:diederik-kingma` | `kt:adam-optimizer`, `kt:variational-autoencoder` |
 | `kt:double-q-learning` | `kt:deep-q-network`, `kt:q-learning` |
@@ -90,6 +89,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:the-curious-case-of-neural-text-degeneration` | `kt:beam-search`, `kt:sampling-temperature-and-top-p` |
 | `kt:tokenization` | `kt:perplexity`, `kt:structured-output` |
 | `kt:transposed-convolution` | `kt:semantic-segmentation`, `kt:u-net` |
+| `kt:trust-region-policy-optimization` | `kt:proximal-policy-optimization`, `kt:deep-reinforcement-learning-from-human-preferences` |
 | `kt:vector-space-model` | `kt:information-retrieval`, `kt:tf-idf` |
 | `kt:weight-decay` | `kt:dropout`, `kt:regularization` |
 | `kt:yoshua-bengio` | `kt:a-neural-probabilistic-language-model`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
@@ -525,7 +525,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tree-of-thoughts-deliberate-problem-solving-with-large-language-models` | `kt:tree-of-thoughts` |
 | `kt:tri-dao` | `kt:flash-attention` |
 | `kt:triviaqa` | `kt:language-models-are-few-shot-learners` |
-| `kt:trust-region-policy-optimization` | `kt:proximal-policy-optimization` |
 | `kt:truthfulqa-measuring-how-models-mimic-human-falsehoods` | `kt:truthfulqa` |
 | `kt:turing-machine` | `kt:a-logical-calculus-of-the-ideas-immanent-in-nervous-activity` |
 | `kt:u-net-convolutional-networks-for-biomedical-image-segmentation` | `kt:u-net` |
