@@ -62,7 +62,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:latent-semantic-analysis` | `kt:glove`, `kt:semantic-search` |
 | `kt:lmsys` | `kt:chatbot-arena`, `kt:mt-bench` |
 | `kt:lora` | `kt:parameter-efficient-fine-tuning`, `kt:qlora` |
-| `kt:lottery-ticket-hypothesis` | `kt:model-compression`, `kt:model-pruning` |
 | `kt:marvin-minsky` | `kt:dartmouth-workshop`, `kt:perceptron` |
 | `kt:mask-r-cnn` | `kt:faster-r-cnn`, `kt:instance-segmentation` |
 | `kt:masked-language-modeling` | `kt:self-supervised-learning`, `kt:bert` |
@@ -302,10 +301,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:iso-iec-jtc-1-sc-42` | `kt:iso-iec-42001` |
 | `kt:iterated-amplification` | `kt:scalable-oversight` |
 | `kt:iterative-deepening-a-star` | `kt:heuristic-search` |
+| `kt:iterative-magnitude-pruning` | `kt:lottery-ticket-hypothesis` |
 | `kt:james-lighthill` | `kt:lighthill-report` |
 | `kt:jedec` | `kt:high-bandwidth-memory` |
 | `kt:john-duchi` | `kt:adagrad` |
 | `kt:john-searle` | `kt:chinese-room-argument` |
+| `kt:jonathan-frankle` | `kt:lottery-ticket-hypothesis` |
 | `kt:joseph-redmon` | `kt:yolo` |
 | `kt:joseph-weizenbaum` | `kt:eliza` |
 | `kt:jsonschemabench` | `kt:structured-output` |
@@ -331,6 +332,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:leiden-algorithm` | `kt:graphrag` |
 | `kt:lenet` | `kt:imagenet-and-alexnet` |
 | `kt:librispeech` | `kt:automatic-speech-recognition` |
+| `kt:linear-mode-connectivity` | `kt:lottery-ticket-hypothesis` |
 | `kt:linear-probing` | `kt:fine-tuning` |
 | `kt:linear-programming` | `kt:mathematical-optimization` |
 | `kt:livebench` | `kt:benchmark-contamination` |
@@ -504,6 +506,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:the-epoch-greedy-algorithm-for-contextual-multi-armed-bandits` | `kt:contextual-bandit` |
 | `kt:the-leaderboard-illusion` | `kt:chatbot-arena` |
 | `kt:the-logic-theory-machine-a-complex-information-processing-system` | `kt:logic-theorist` |
+| `kt:the-lottery-ticket-hypothesis-finding-sparse-trainable-neural-networks` | `kt:lottery-ticket-hypothesis` |
 | `kt:the-pascal-visual-object-classes-voc-challenge` | `kt:pascal-voc` |
 | `kt:the-perceptron-a-probabilistic-model-for-information-storage-and-organization-in-the-brain` | `kt:perceptron` |
 | `kt:through-silicon-via` | `kt:high-bandwidth-memory` |

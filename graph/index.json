@@ -3299,6 +3299,27 @@
     ]
   },
   {
+    "id": "kt:lottery-ticket-hypothesis",
+    "title": "Lottery ticket hypothesis",
+    "aliases": [
+      "LTH",
+      "winning tickets",
+      "winning lottery tickets"
+    ],
+    "type": "Concept",
+    "domain": "inference-and-optimization",
+    "file": "articles/inference-and-optimization/lottery-ticket-hypothesis.md",
+    "created": "2026-11-19",
+    "maturity": "established",
+    "source_urls": [
+      "https://iclr.cc/virtual/2019/poster/972",
+      "https://arxiv.org/pdf/1803.03635.pdf",
+      "https://proceedings.mlr.press/v119/frankle20a",
+      "https://arxiv.org/abs/1810.05270v2",
+      "https://papers.nips.cc/paper/2019/hash/1113d7a76ffceca1bb350bfe145467c6-Abstract.html"
+    ]
+  },
+  {
     "id": "kt:machine-learning",
     "title": "Machine learning",
     "aliases": [

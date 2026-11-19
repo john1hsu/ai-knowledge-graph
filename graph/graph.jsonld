@@ -12772,6 +12772,87 @@
       ]
     },
     {
+      "@id": "kt:lottery-ticket-hypothesis",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Lottery ticket hypothesis",
+      "skos:definition": "The conjecture, introduced by Frankle and Carbin (ICLR 2019), that a dense randomly initialized neural network contains sparse subnetworks (\"winning tickets\") that, trained in isolation from their original initial weights, reach accuracy comparable to the full network in a similar number of iterations.",
+      "kto:domain": "inference-and-optimization",
+      "dcterms:created": "2026-11-19",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks",
+          "dcterms:publisher": "ICLR 2019 (Frankle and Carbin), conference poster page",
+          "schema:url": "https://iclr.cc/virtual/2019/poster/972",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks (full paper)",
+          "dcterms:publisher": "Frankle and Carbin, authors' arXiv version 1803.03635",
+          "schema:url": "https://arxiv.org/pdf/1803.03635.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Linear Mode Connectivity and the Lottery Ticket Hypothesis",
+          "dcterms:publisher": "ICML 2020, PMLR 119 (Frankle, Dziugaite, Roy and Carbin)",
+          "schema:url": "https://proceedings.mlr.press/v119/frankle20a",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Rethinking the Value of Network Pruning",
+          "dcterms:publisher": "ICLR 2019 (Liu, Sun, Zhou, Huang and Darrell), authors' arXiv version 1810.05270",
+          "schema:url": "https://arxiv.org/abs/1810.05270v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask",
+          "dcterms:publisher": "NeurIPS 2019 (Zhou, Lan, Liu and Yosinski)",
+          "schema:url": "https://papers.nips.cc/paper/2019/hash/1113d7a76ffceca1bb350bfe145467c6-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/inference-and-optimization/lottery-ticket-hypothesis.md",
+      "skos:altLabel": [
+        "LTH",
+        "winning tickets",
+        "winning lottery tickets"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:model-pruning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:model-compression"
+        },
+        {
+          "@id": "kt:weight-initialization"
+        },
+        {
+          "@id": "kt:stochastic-gradient-descent"
+        },
+        {
+          "@id": "kt:linear-mode-connectivity"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:the-lottery-ticket-hypothesis-finding-sparse-trainable-neural-networks"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:jonathan-frankle"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:iterative-magnitude-pruning"
+        }
+      ]
+    },
+    {
       "@id": "kt:model-compression",
       "@type": "kto:Paradigm",
       "skos:prefLabel": "Model compression",
