@@ -22,6 +22,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:meta-ai` | `kt:toolformer`, `kt:pytorch`, `kt:faiss` |
 | `kt:model-parallelism` | `kt:data-parallelism`, `kt:pipeline-parallelism`, `kt:tensor-parallelism` |
 | `kt:physical-symbol-system-hypothesis` | `kt:allen-newell`, `kt:heuristic-search`, `kt:symbolic-ai` |
+| `kt:prompt-tuning` | `kt:mrkl-systems`, `kt:automatic-prompt-optimization`, `kt:parameter-efficient-fine-tuning` |
 | `kt:r-cnn` | `kt:faster-r-cnn`, `kt:pascal-voc`, `kt:yolo` |
 | `kt:support-vector-machine` | `kt:perceptron`, `kt:loss-function`, `kt:statistical-learning-theory` |
 | `kt:allen-institute-for-ai` | `kt:commonsenseqa`, `kt:decomposed-prompting` |
@@ -69,13 +70,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:momentum` | `kt:rmsprop`, `kt:stochastic-gradient-descent` |
 | `kt:monte-carlo-methods` | `kt:monte-carlo-tree-search`, `kt:temporal-difference-learning` |
 | `kt:muzero` | `kt:alphazero`, `kt:monte-carlo-tree-search` |
+| `kt:neuro-symbolic-ai` | `kt:mrkl-systems`, `kt:symbolic-ai` |
 | `kt:nist` | `kt:nist-ai-risk-management-framework`, `kt:nist-generative-ai-profile` |
 | `kt:online-learning` | `kt:adagrad`, `kt:contextual-bandit` |
 | `kt:post-training` | `kt:hugging-face-trl`, `kt:instruction-tuning` |
 | `kt:post-training-quantization` | `kt:awq`, `kt:gptq` |
 | `kt:princeton-university` | `kt:swe-agent`, `kt:swe-bench` |
 | `kt:probabilistic-relevance-framework` | `kt:bm25`, `kt:bm25` |
-| `kt:prompt-tuning` | `kt:automatic-prompt-optimization`, `kt:parameter-efficient-fine-tuning` |
 | `kt:scikit-learn` | `kt:dimensionality-reduction`, `kt:principal-component-analysis` |
 | `kt:self-correction` | `kt:reflexion`, `kt:self-refine-iterative-refinement-with-self-feedback` |
 | `kt:self-play` | `kt:alphago-zero`, `kt:alphazero` |
@@ -107,6 +108,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ai-safety-level` | `kt:responsible-scaling-policy` |
 | `kt:ai-safety-summit` | `kt:ai-safety-institutes` |
 | `kt:ai-safety-via-debate` | `kt:scalable-oversight` |
+| `kt:ai21-labs` | `kt:mrkl-systems` |
 | `kt:alan-turing` | `kt:turing-test` |
 | `kt:alex-graves` | `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
 | `kt:alfred-benchmark` | `kt:alfworld` |
@@ -314,6 +316,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:joseph-weizenbaum` | `kt:eliza` |
 | `kt:jsonschemabench` | `kt:structured-output` |
 | `kt:juergen-schmidhuber` | `kt:long-short-term-memory` |
+| `kt:jurassic-1` | `kt:mrkl-systems` |
 | `kt:k-means-clustering` | `kt:unsupervised-learning` |
 | `kt:karen-sparck-jones` | `kt:tf-idf` |
 | `kt:karl-pearson` | `kt:principal-component-analysis` |
@@ -377,7 +380,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:model-collapse` | `kt:synthetic-data` |
 | `kt:model-registry` | `kt:mlops` |
 | `kt:monte-carlo-dropout` | `kt:dropout` |
-| `kt:mrkl-systems` | `kt:tool-use` |
 | `kt:ms-marco` | `kt:reranking` |
 | `kt:mteb` | `kt:beir` |
 | `kt:multi-task-learning` | `kt:transfer-learning` |
@@ -389,7 +391,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:neocognitron` | `kt:convolutional-neural-network` |
 | `kt:netflix-prize` | `kt:recommender-system` |
 | `kt:neural-machine-translation` | `kt:machine-translation` |
-| `kt:neuro-symbolic-ai` | `kt:symbolic-ai` |
 | `kt:new-legislative-framework` | `kt:eu-ai-act` |
 | `kt:newtons-method` | `kt:gradient-descent` |
 | `kt:noam-shazeer` | `kt:multi-query-attention` |

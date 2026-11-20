@@ -890,6 +890,98 @@
       ]
     },
     {
+      "@id": "kt:mrkl-systems",
+      "@type": "kto:Architecture",
+      "skos:prefLabel": "MRKL systems",
+      "skos:definition": "A modular neuro-symbolic architecture proposed by AI21 Labs in 2022 (pronounced \"miracle\") in which a router sends each natural-language input to the most suitable expert module, either a neural model or a discrete tool such as a calculator, API or database, with a general-purpose language model as the fallback.",
+      "kto:domain": "agents-and-tool-use",
+      "dcterms:created": "2026-11-20",
+      "kto:maturity": "historical",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning",
+          "dcterms:publisher": "arXiv 2205.00445 (Karpas et al., AI21 Labs; authors' version)",
+          "schema:url": "https://arxiv.org/pdf/2205.00445",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning",
+          "dcterms:publisher": "AI21 Labs research page",
+          "schema:url": "https://ai21.com/research/mrkl-systems-a-modular-neuro-symbolic-architecture-that-combines-large-language-models-external-knowledge-sources-and-discrete-reasoning",
+          "kto:sourceType": "lab-research"
+        },
+        {
+          "dcterms:title": "Neural Nets + Rules = Truer Text: Jurassic-X can answer questions, check facts, solve math, and more",
+          "dcterms:publisher": "DeepLearning.AI, The Batch (April 20, 2022)",
+          "schema:url": "https://www.deeplearning.ai/the-batch/neural-nets-rules-truer-text",
+          "kto:sourceType": "news"
+        },
+        {
+          "dcterms:title": "The Prompt Report: A Systematic Survey of Prompt Engineering Techniques",
+          "dcterms:publisher": "arXiv 2406.06608v6 (Schulhoff et al., 2025)",
+          "schema:url": "https://arxiv.org/pdf/2406.06608",
+          "kto:sourceType": "preprint"
+        }
+      ],
+      "kto:file": "articles/agents-and-tool-use/mrkl-systems.md",
+      "skos:altLabel": [
+        "MRKL",
+        "Modular Reasoning Knowledge and Language",
+        "MRKL architecture",
+        "Jurassic-X"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:neuro-symbolic-ai"
+        },
+        {
+          "@id": "kt:ai-agent"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:tool-use"
+        },
+        {
+          "@id": "kt:toolformer"
+        },
+        {
+          "@id": "kt:react-prompting"
+        },
+        {
+          "@id": "kt:retrieval-augmented-generation"
+        },
+        {
+          "@id": "kt:catastrophic-forgetting"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:ai21-labs"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:jurassic-1"
+        }
+      ],
+      "kto:trainedWith": [
+        {
+          "@id": "kt:prompt-tuning"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:hallucination"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:symbolic-ai"
+        }
+      ]
+    },
+    {
       "@id": "kt:multi-agent-systems",
       "@type": "kto:Paradigm",
       "skos:prefLabel": "Multi-agent systems",

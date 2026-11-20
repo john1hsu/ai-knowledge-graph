@@ -4415,6 +4415,33 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/alphago> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/muzero> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mrkl-systems> <http://purl.org/dc/terms/created> "2026-11-20" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mrkl-systems> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mrkl-systems> <http://www.w3.org/2000/01/rdf-schema#label> "MRKL systems" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mrkl-systems> <http://www.w3.org/2004/02/skos/core#altLabel> "Jurassic-X" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mrkl-systems> <http://www.w3.org/2004/02/skos/core#altLabel> "MRKL architecture" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mrkl-systems> <http://www.w3.org/2004/02/skos/core#altLabel> "MRKL" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mrkl-systems> <http://www.w3.org/2004/02/skos/core#altLabel> "Modular Reasoning Knowledge and Language" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mrkl-systems> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-agent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mrkl-systems> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/neuro-symbolic-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mrkl-systems> <http://www.w3.org/2004/02/skos/core#definition> "A modular neuro-symbolic architecture proposed by AI21 Labs in 2022 (pronounced \"miracle\") in which a router sends each natural-language input to the most suitable expert module, either a neural model or a discrete tool such as a calculator, API or database, with a general-purpose language model as the fallback." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mrkl-systems> <http://www.w3.org/2004/02/skos/core#prefLabel> "MRKL systems" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mrkl-systems> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/catastrophic-forgetting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mrkl-systems> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/react-prompting> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mrkl-systems> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/retrieval-augmented-generation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mrkl-systems> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/tool-use> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mrkl-systems> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/toolformer> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mrkl-systems> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/mrkl-systems/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mrkl-systems> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/mrkl-systems/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mrkl-systems> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/mrkl-systems/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mrkl-systems> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/mrkl-systems/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mrkl-systems> <https://github.com/john1hsu/ai-knowledge-graph/ontology#basedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/jurassic-1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mrkl-systems> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/ai21-labs> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mrkl-systems> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "agents-and-tool-use" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mrkl-systems> <https://github.com/john1hsu/ai-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mrkl-systems> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "historical" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mrkl-systems> <https://github.com/john1hsu/ai-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/ai-knowledge-graph/id/hallucination> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/mrkl-systems> <https://github.com/john1hsu/ai-knowledge-graph/ontology#trainedWith> <https://github.com/john1hsu/ai-knowledge-graph/id/prompt-tuning> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <http://purl.org/dc/terms/created> "2026-11-17" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Benchmark> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/ms-coco> <http://www.w3.org/2000/01/rdf-schema#label> "MS COCO" .
@@ -10838,6 +10865,26 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/monte-carlo-tree-search/s5> <https://schema.org/url> "https://arxiv.org/abs/1911.08265v2" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mrkl-systems/s1> <http://purl.org/dc/terms/publisher> "arXiv 2205.00445 (Karpas et al., AI21 Labs; authors' version)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mrkl-systems/s1> <http://purl.org/dc/terms/title> "MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mrkl-systems/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mrkl-systems/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mrkl-systems/s1> <https://schema.org/url> "https://arxiv.org/pdf/2205.00445" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mrkl-systems/s2> <http://purl.org/dc/terms/publisher> "AI21 Labs research page" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mrkl-systems/s2> <http://purl.org/dc/terms/title> "MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mrkl-systems/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mrkl-systems/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "lab-research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mrkl-systems/s2> <https://schema.org/url> "https://ai21.com/research/mrkl-systems-a-modular-neuro-symbolic-architecture-that-combines-large-language-models-external-knowledge-sources-and-discrete-reasoning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mrkl-systems/s3> <http://purl.org/dc/terms/publisher> "DeepLearning.AI, The Batch (April 20, 2022)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mrkl-systems/s3> <http://purl.org/dc/terms/title> "Neural Nets + Rules = Truer Text: Jurassic-X can answer questions, check facts, solve math, and more" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mrkl-systems/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mrkl-systems/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mrkl-systems/s3> <https://schema.org/url> "https://www.deeplearning.ai/the-batch/neural-nets-rules-truer-text" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mrkl-systems/s4> <http://purl.org/dc/terms/publisher> "arXiv 2406.06608v6 (Schulhoff et al., 2025)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mrkl-systems/s4> <http://purl.org/dc/terms/title> "The Prompt Report: A Systematic Survey of Prompt Engineering Techniques" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mrkl-systems/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mrkl-systems/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "preprint" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/mrkl-systems/s4> <https://schema.org/url> "https://arxiv.org/pdf/2406.06608" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s1> <http://purl.org/dc/terms/publisher> "Lin, Maire, Belongie, Bourdev, Girshick, Hays, Perona, Ramanan, Zitnick and Dollár; arXiv 1405.0312 (full version of the ECCV 2014 paper)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s1> <http://purl.org/dc/terms/title> "Microsoft COCO: Common Objects in Context" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/ms-coco/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

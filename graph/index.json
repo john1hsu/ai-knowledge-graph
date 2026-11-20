@@ -3704,6 +3704,27 @@
     ]
   },
   {
+    "id": "kt:mrkl-systems",
+    "title": "MRKL systems",
+    "aliases": [
+      "MRKL",
+      "Modular Reasoning Knowledge and Language",
+      "MRKL architecture",
+      "Jurassic-X"
+    ],
+    "type": "Architecture",
+    "domain": "agents-and-tool-use",
+    "file": "articles/agents-and-tool-use/mrkl-systems.md",
+    "created": "2026-11-20",
+    "maturity": "historical",
+    "source_urls": [
+      "https://arxiv.org/pdf/2205.00445",
+      "https://ai21.com/research/mrkl-systems-a-modular-neuro-symbolic-architecture-that-combines-large-language-models-external-knowledge-sources-and-discrete-reasoning",
+      "https://www.deeplearning.ai/the-batch/neural-nets-rules-truer-text",
+      "https://arxiv.org/pdf/2406.06608"
+    ]
+  },
+  {
     "id": "kt:ms-coco",
     "title": "MS COCO",
     "aliases": [
