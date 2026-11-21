@@ -2189,6 +2189,32 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/deep-reinforcement-learning-from-human-preferences> <https://github.com/john1hsu/ai-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/ai-knowledge-graph/id/trust-region-policy-optimization> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/deep-reinforcement-learning-from-human-preferences> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "safety-alignment-and-security" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/deep-reinforcement-learning-from-human-preferences> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "historical" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dendral> <http://purl.org/dc/terms/created> "2026-11-21" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dendral> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Model> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dendral> <http://www.w3.org/2000/01/rdf-schema#label> "DENDRAL" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dendral> <http://www.w3.org/2004/02/skos/core#altLabel> "DENDRitic ALgorithm" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dendral> <http://www.w3.org/2004/02/skos/core#altLabel> "Dendral project" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dendral> <http://www.w3.org/2004/02/skos/core#altLabel> "Dendral" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dendral> <http://www.w3.org/2004/02/skos/core#altLabel> "Heuristic DENDRAL" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dendral> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/expert-systems> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dendral> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-ai> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dendral> <http://www.w3.org/2004/02/skos/core#definition> "A Stanford research program begun in 1965 by Edward Feigenbaum, Joshua Lederberg, Bruce Buchanan and Carl Djerassi that inferred the molecular structures of unknown organic compounds from mass-spectrometry data by planning, generating and testing candidate structures with encoded chemical knowledge; it is widely described as the first expert system." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dendral> <http://www.w3.org/2004/02/skos/core#prefLabel> "DENDRAL" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dendral> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/heuristic-search> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dendral> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-base> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dendral> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/knowledge-representation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dendral> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/lighthill-report> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dendral> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/dendral/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dendral> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/dendral/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dendral> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/dendral/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dendral> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/bruce-buchanan> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dendral> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/edward-feigenbaum> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dendral> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/joshua-lederberg> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dendral> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-history" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dendral> <https://github.com/john1hsu/ai-knowledge-graph/ontology#followedBy> <https://github.com/john1hsu/ai-knowledge-graph/id/mycin> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dendral> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/meta-dendral> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dendral> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/lisp> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/dendral> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "historical" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/diffusion-model> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/diffusion-model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Architecture> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/diffusion-model> <http://www.w3.org/2000/01/rdf-schema#label> "Diffusion model" .
@@ -8560,6 +8586,21 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-reinforcement-learning-from-human-preferences/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-reinforcement-learning-from-human-preferences/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/deep-reinforcement-learning-from-human-preferences/s4> <https://schema.org/url> "https://arxiv.org/abs/2203.02155v1" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dendral/s1> <http://purl.org/dc/terms/publisher> "R. K. Lindsay, B. G. Buchanan, E. A. Feigenbaum and J. Lederberg, Artificial Intelligence 61 (1993) 209–261 (University of Michigan Deep Blue repository)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dendral/s1> <http://purl.org/dc/terms/title> "DENDRAL: A case study of the first expert system for scientific hypothesis formation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dendral/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dendral/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dendral/s1> <https://schema.org/url> "https://deepblue.lib.umich.edu/bitstream/handle/2027.42/30758/0000409.pdf%3Bjsessionid%3D70A227C7B0C5A1B04090514F8977501C" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dendral/s2> <http://purl.org/dc/terms/publisher> "Joshua Lederberg, Rockefeller University, ACM, 1987 (MIT STS.035 course reading)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dendral/s2> <http://purl.org/dc/terms/title> "How DENDRAL was conceived and born" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dendral/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dendral/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dendral/s2> <https://schema.org/url> "https://web.mit.edu/skendig/Public/Classes/Classes/STS.035/w07-lederberg1.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dendral/s3> <http://purl.org/dc/terms/publisher> "U.S. National Library of Medicine, Profiles in Science — The Joshua Lederberg Papers" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dendral/s3> <http://purl.org/dc/terms/title> "Computers, Artificial Intelligence, and Expert Systems in Biomedical Research" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dendral/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dendral/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/dendral/s3> <https://schema.org/url> "https://profiles.nlm.nih.gov/spotlight/bb/feature/ai" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/diffusion-model/s1> <http://purl.org/dc/terms/publisher> "Sohl-Dickstein, Weiss, Maheswaranathan and Ganguli, Proceedings of ICML 2015 (PMLR 37), pp. 2256–2265" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/diffusion-model/s1> <http://purl.org/dc/terms/title> "Deep Unsupervised Learning using Nonequilibrium Thermodynamics" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/diffusion-model/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

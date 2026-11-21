@@ -2473,6 +2473,90 @@
       ]
     },
     {
+      "@id": "kt:dendral",
+      "@type": "kto:Model",
+      "skos:prefLabel": "DENDRAL",
+      "skos:definition": "A Stanford research program begun in 1965 by Edward Feigenbaum, Joshua Lederberg, Bruce Buchanan and Carl Djerassi that inferred the molecular structures of unknown organic compounds from mass-spectrometry data by planning, generating and testing candidate structures with encoded chemical knowledge; it is widely described as the first expert system.",
+      "kto:domain": "ai-history",
+      "dcterms:created": "2026-11-21",
+      "kto:maturity": "historical",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "DENDRAL: A case study of the first expert system for scientific hypothesis formation",
+          "dcterms:publisher": "R. K. Lindsay, B. G. Buchanan, E. A. Feigenbaum and J. Lederberg, Artificial Intelligence 61 (1993) 209–261 (University of Michigan Deep Blue repository)",
+          "schema:url": "https://deepblue.lib.umich.edu/bitstream/handle/2027.42/30758/0000409.pdf%3Bjsessionid%3D70A227C7B0C5A1B04090514F8977501C",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "How DENDRAL was conceived and born",
+          "dcterms:publisher": "Joshua Lederberg, Rockefeller University, ACM, 1987 (MIT STS.035 course reading)",
+          "schema:url": "https://web.mit.edu/skendig/Public/Classes/Classes/STS.035/w07-lederberg1.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Computers, Artificial Intelligence, and Expert Systems in Biomedical Research",
+          "dcterms:publisher": "U.S. National Library of Medicine, Profiles in Science — The Joshua Lederberg Papers",
+          "schema:url": "https://profiles.nlm.nih.gov/spotlight/bb/feature/ai",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/ai-history/dendral.md",
+      "skos:altLabel": [
+        "Dendral",
+        "Heuristic DENDRAL",
+        "DENDRitic ALgorithm",
+        "Dendral project"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:expert-systems"
+        },
+        {
+          "@id": "kt:symbolic-ai"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:heuristic-search"
+        },
+        {
+          "@id": "kt:knowledge-representation"
+        },
+        {
+          "@id": "kt:lighthill-report"
+        },
+        {
+          "@id": "kt:knowledge-base"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:edward-feigenbaum"
+        },
+        {
+          "@id": "kt:joshua-lederberg"
+        },
+        {
+          "@id": "kt:bruce-buchanan"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:meta-dendral"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:lisp"
+        }
+      ],
+      "kto:followedBy": [
+        {
+          "@id": "kt:mycin"
+        }
+      ]
+    },
+    {
       "@id": "kt:eliza",
       "@type": "kto:Model",
       "skos:prefLabel": "ELIZA",

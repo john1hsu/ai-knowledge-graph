@@ -38,8 +38,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:curse-of-dimensionality` | `kt:universal-approximation-theorem`, `kt:dimensionality-reduction` |
 | `kt:deep-belief-network` | `kt:geoffrey-hinton`, `kt:deep-learning` |
 | `kt:deep-learning-framework` | `kt:hugging-face-transformers`, `kt:pytorch` |
-| `kt:dendral` | `kt:expert-systems`, `kt:lighthill-report` |
 | `kt:diederik-kingma` | `kt:adam-optimizer`, `kt:variational-autoencoder` |
+| `kt:edward-feigenbaum` | `kt:dendral`, `kt:expert-systems` |
 | `kt:efficient-memory-management-for-large-language-model-serving-with-pagedattention` | `kt:batching-and-paged-attention`, `kt:vllm` |
 | `kt:expectation-maximization` | `kt:hidden-markov-model`, `kt:unsupervised-learning` |
 | `kt:expected-sarsa` | `kt:sarsa`, `kt:sarsa` |
@@ -57,6 +57,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:iso-iec-27001` | `kt:iso-iec-42001`, `kt:iso-iec-42001` |
 | `kt:john-mccarthy` | `kt:artificial-intelligence`, `kt:dartmouth-workshop` |
 | `kt:judging-llm-as-a-judge-with-mt-bench-and-chatbot-arena` | `kt:llm-as-a-judge`, `kt:mt-bench` |
+| `kt:knowledge-base` | `kt:dendral`, `kt:expert-systems` |
 | `kt:latent-semantic-analysis` | `kt:glove`, `kt:semantic-search` |
 | `kt:lmsys` | `kt:chatbot-arena`, `kt:mt-bench` |
 | `kt:lora` | `kt:parameter-efficient-fine-tuning`, `kt:qlora` |
@@ -70,6 +71,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:momentum` | `kt:rmsprop`, `kt:stochastic-gradient-descent` |
 | `kt:monte-carlo-methods` | `kt:monte-carlo-tree-search`, `kt:temporal-difference-learning` |
 | `kt:muzero` | `kt:alphazero`, `kt:monte-carlo-tree-search` |
+| `kt:mycin` | `kt:dendral`, `kt:expert-systems` |
 | `kt:neuro-symbolic-ai` | `kt:mrkl-systems`, `kt:symbolic-ai` |
 | `kt:nist` | `kt:nist-ai-risk-management-framework`, `kt:nist-generative-ai-profile` |
 | `kt:online-learning` | `kt:adagrad`, `kt:contextual-bandit` |
@@ -147,6 +149,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:bleu-a-method-for-automatic-evaluation-of-machine-translation` | `kt:bleu` |
 | `kt:boltzmann-machine` | `kt:geoffrey-hinton` |
 | `kt:boosting` | `kt:ensemble-methods` |
+| `kt:bruce-buchanan` | `kt:dendral` |
 | `kt:calibrate-before-use-improving-few-shot-performance-of-language-models` | `kt:contextual-calibration` |
 | `kt:campbells-law` | `kt:goodharts-law` |
 | `kt:carnegie-mellon-university` | `kt:webarena` |
@@ -217,7 +220,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dropout-a-simple-way-to-prevent-neural-networks-from-overfitting` | `kt:dropout` |
 | `kt:dspy` | `kt:automatic-prompt-optimization` |
 | `kt:early-stopping` | `kt:regularization` |
-| `kt:edward-feigenbaum` | `kt:expert-systems` |
 | `kt:efficient-estimation-of-word-representations-in-vector-space` | `kt:word2vec` |
 | `kt:efficient-selectivity-and-backup-operators-in-monte-carlo-tree-search` | `kt:monte-carlo-tree-search` |
 | `kt:elastic-weight-consolidation` | `kt:catastrophic-forgetting` |
@@ -314,6 +316,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:jonathan-frankle` | `kt:lottery-ticket-hypothesis` |
 | `kt:joseph-redmon` | `kt:yolo` |
 | `kt:joseph-weizenbaum` | `kt:eliza` |
+| `kt:joshua-lederberg` | `kt:dendral` |
 | `kt:jsonschemabench` | `kt:structured-output` |
 | `kt:juergen-schmidhuber` | `kt:long-short-term-memory` |
 | `kt:jurassic-1` | `kt:mrkl-systems` |
@@ -321,7 +324,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:karen-sparck-jones` | `kt:tf-idf` |
 | `kt:karl-pearson` | `kt:principal-component-analysis` |
 | `kt:kernel-pca` | `kt:principal-component-analysis` |
-| `kt:knowledge-base` | `kt:expert-systems` |
 | `kt:knowledge-graph-embedding` | `kt:knowledge-graph` |
 | `kt:langchain` | `kt:langgraph` |
 | `kt:language-server-protocol` | `kt:model-context-protocol` |
@@ -341,6 +343,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:linear-mode-connectivity` | `kt:lottery-ticket-hypothesis` |
 | `kt:linear-probing` | `kt:fine-tuning` |
 | `kt:linear-programming` | `kt:mathematical-optimization` |
+| `kt:lisp` | `kt:dendral` |
 | `kt:livebench` | `kt:benchmark-contamination` |
 | `kt:livecodebench` | `kt:humaneval` |
 | `kt:llama-2` | `kt:grouped-query-attention` |
@@ -365,6 +368,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:memgpt` | `kt:agent-memory` |
 | `kt:memory-wall` | `kt:high-bandwidth-memory` |
 | `kt:message-understanding-conference-6` | `kt:named-entity-recognition` |
+| `kt:meta-dendral` | `kt:dendral` |
 | `kt:meteor` | `kt:bleu` |
 | `kt:metr` | `kt:responsible-scaling-policy` |
 | `kt:michael-wooldridge` | `kt:multi-agent-systems` |
@@ -385,7 +389,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:multi-task-learning` | `kt:transfer-learning` |
 | `kt:multimodal-learning` | `kt:vision-language-model` |
 | `kt:murray-campbell` | `kt:deep-blue` |
-| `kt:mycin` | `kt:expert-systems` |
 | `kt:n-gram-language-model` | `kt:a-neural-probabilistic-language-model` |
 | `kt:negative-transfer` | `kt:transfer-learning` |
 | `kt:neocognitron` | `kt:convolutional-neural-network` |

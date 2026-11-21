@@ -1837,6 +1837,26 @@
     ]
   },
   {
+    "id": "kt:dendral",
+    "title": "DENDRAL",
+    "aliases": [
+      "Dendral",
+      "Heuristic DENDRAL",
+      "DENDRitic ALgorithm",
+      "Dendral project"
+    ],
+    "type": "Model",
+    "domain": "ai-history",
+    "file": "articles/ai-history/dendral.md",
+    "created": "2026-11-21",
+    "maturity": "historical",
+    "source_urls": [
+      "https://deepblue.lib.umich.edu/bitstream/handle/2027.42/30758/0000409.pdf%3Bjsessionid%3D70A227C7B0C5A1B04090514F8977501C",
+      "https://web.mit.edu/skendig/Public/Classes/Classes/STS.035/w07-lederberg1.pdf",
+      "https://profiles.nlm.nih.gov/spotlight/bb/feature/ai"
+    ]
+  },
+  {
     "id": "kt:diffusion-model",
     "title": "Diffusion model",
     "aliases": [
