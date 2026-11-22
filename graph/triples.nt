@@ -4936,6 +4936,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ml-foundations" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/overfitting> <https://github.com/john1hsu/ai-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/statistical-learning-theory> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parallel-computing> <http://purl.org/dc/terms/created> "2026-11-22" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parallel-computing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Paradigm> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parallel-computing> <http://www.w3.org/2000/01/rdf-schema#label> "Parallel computing" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parallel-computing> <http://www.w3.org/2004/02/skos/core#altLabel> "concurrent computation on multiple processors" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parallel-computing> <http://www.w3.org/2004/02/skos/core#altLabel> "parallel processing" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parallel-computing> <http://www.w3.org/2004/02/skos/core#altLabel> "parallel programming" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parallel-computing> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/computer-architecture> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parallel-computing> <http://www.w3.org/2004/02/skos/core#definition> "The simultaneous use of multiple processors or compute resources to solve one computational problem, which is split into parts that run concurrently under a coordination mechanism; it is the computing paradigm on which GPU acceleration and distributed training of neural networks rest." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parallel-computing> <http://www.w3.org/2004/02/skos/core#prefLabel> "Parallel computing" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parallel-computing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-hardware> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parallel-computing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/amdahls-law> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parallel-computing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/cuda> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parallel-computing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/gpu-computing> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parallel-computing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/message-passing-interface> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parallel-computing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/parallel-computing/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parallel-computing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/parallel-computing/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parallel-computing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/parallel-computing/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parallel-computing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/parallel-computing/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parallel-computing> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/serial-computing> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parallel-computing> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "ai-infrastructure-and-mlops" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parallel-computing> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/deep-learning> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parallel-computing> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/distributed-training> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parallel-computing> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/data-parallelism> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parallel-computing> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/model-parallelism> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/parallel-computing> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> <http://purl.org/dc/terms/created> "2026-11-15" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Paradigm> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/parameter-efficient-fine-tuning> <http://www.w3.org/2000/01/rdf-schema#label> "Parameter-efficient fine-tuning" .
@@ -11396,6 +11421,26 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/overfitting/s6> <https://schema.org/url> "https://d2l.ai/chapter_multilayer-perceptrons/generalization-deep.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parallel-computing/s1> <http://purl.org/dc/terms/publisher> "Lawrence Livermore National Laboratory, HPC @ LLNL (Livermore Computing Getting Started workshop series), June 2026 version" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parallel-computing/s1> <http://purl.org/dc/terms/title> "Introduction to Parallel Computing Tutorial" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parallel-computing/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parallel-computing/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parallel-computing/s1> <https://schema.org/url> "https://hpc.llnl.gov/training/tutorials/introduction-parallel-computing-tutorial" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parallel-computing/s2> <http://purl.org/dc/terms/publisher> "AFIPS Conference Proceedings vol. 30, Spring Joint Computer Conference 1967, pp. 483-485 (Gene M. Amdahl, IBM); 2007 IEEE SSCS News reprint hosted by Stony Brook University" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parallel-computing/s2> <http://purl.org/dc/terms/title> "Validity of the Single Processor Approach to Achieving Large Scale Computing Capabilities" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parallel-computing/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parallel-computing/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parallel-computing/s2> <https://schema.org/url> "https://www3.cs.stonybrook.edu/~rezaul/Spring-2019/CSE613/reading/Amdahl-1967.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parallel-computing/s3> <http://purl.org/dc/terms/publisher> "Communications of the ACM 31(5), May 1988 (John L. Gustafson, Sandia National Laboratories); University of Utah course copy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parallel-computing/s3> <http://purl.org/dc/terms/title> "Reevaluating Amdahl's Law" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parallel-computing/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parallel-computing/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parallel-computing/s3> <https://schema.org/url> "https://users.cs.utah.edu/~hari/teaching/paralg/Gustafson88.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parallel-computing/s4> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parallel-computing/s4> <http://purl.org/dc/terms/title> "Parallel processing" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parallel-computing/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parallel-computing/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/parallel-computing/s4> <https://schema.org/url> "https://www.britannica.com/technology/parallel-processing" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s1> <http://purl.org/dc/terms/publisher> "arXiv 1902.00751 (ICML 2019), Google Research (Houlsby et al.)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s1> <http://purl.org/dc/terms/title> "Parameter-Efficient Transfer Learning for NLP" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/parameter-efficient-fine-tuning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

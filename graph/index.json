@@ -4135,6 +4135,26 @@
     ]
   },
   {
+    "id": "kt:parallel-computing",
+    "title": "Parallel computing",
+    "aliases": [
+      "parallel processing",
+      "parallel programming",
+      "concurrent computation on multiple processors"
+    ],
+    "type": "Paradigm",
+    "domain": "ai-infrastructure-and-mlops",
+    "file": "articles/ai-infrastructure-and-mlops/parallel-computing.md",
+    "created": "2026-11-22",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://hpc.llnl.gov/training/tutorials/introduction-parallel-computing-tutorial",
+      "https://www3.cs.stonybrook.edu/~rezaul/Spring-2019/CSE613/reading/Amdahl-1967.pdf",
+      "https://users.cs.utah.edu/~hari/teaching/paralg/Gustafson88.pdf",
+      "https://www.britannica.com/technology/parallel-processing"
+    ]
+  },
+  {
     "id": "kt:parameter-efficient-fine-tuning",
     "title": "Parameter-efficient fine-tuning",
     "aliases": [

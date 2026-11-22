@@ -4,12 +4,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:parallel-computing` | `kt:ai-hardware`, `kt:cuda`, `kt:data-parallelism`, `kt:distributed-training`, `kt:gpu-computing` |
 | `kt:zero-redundancy-optimizer` | `kt:data-parallelism`, `kt:distributed-training`, `kt:pipeline-parallelism`, `kt:tensor-parallelism`, `kt:activation-checkpointing` |
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:anthropic` | `kt:model-context-protocol`, `kt:openai`, `kt:responsible-scaling-policy`, `kt:constitutional-ai` |
 | `kt:automated-planning` | `kt:planning-in-llms`, `kt:general-problem-solver`, `kt:heuristic-search`, `kt:knowledge-representation` |
 | `kt:microsoft-research` | `kt:alfworld`, `kt:autogen`, `kt:residual-connection`, `kt:graphrag` |
+| `kt:model-parallelism` | `kt:data-parallelism`, `kt:parallel-computing`, `kt:pipeline-parallelism`, `kt:tensor-parallelism` |
 | `kt:all-reduce` | `kt:data-parallelism`, `kt:distributed-training`, `kt:tensor-parallelism` |
 | `kt:application-specific-integrated-circuit` | `kt:deep-blue`, `kt:ai-accelerator`, `kt:tpu` |
 | `kt:automatic-differentiation` | `kt:pytorch`, `kt:backpropagation`, `kt:activation-checkpointing` |
@@ -20,7 +20,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:logistic-regression` | `kt:conditional-random-field`, `kt:loss-function`, `kt:bradley-terry-model` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
 | `kt:meta-ai` | `kt:toolformer`, `kt:pytorch`, `kt:faiss` |
-| `kt:model-parallelism` | `kt:data-parallelism`, `kt:pipeline-parallelism`, `kt:tensor-parallelism` |
 | `kt:physical-symbol-system-hypothesis` | `kt:allen-newell`, `kt:heuristic-search`, `kt:symbolic-ai` |
 | `kt:prompt-tuning` | `kt:mrkl-systems`, `kt:automatic-prompt-optimization`, `kt:parameter-efficient-fine-tuning` |
 | `kt:r-cnn` | `kt:faster-r-cnn`, `kt:pascal-voc`, `kt:yolo` |
@@ -32,6 +31,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cifar-10` | `kt:image-classification`, `kt:adversarial-training` |
 | `kt:cityscapes` | `kt:instance-segmentation`, `kt:semantic-segmentation` |
 | `kt:cliff-shaw` | `kt:general-problem-solver`, `kt:logic-theorist` |
+| `kt:computer-architecture` | `kt:ai-hardware`, `kt:parallel-computing` |
 | `kt:computing-power-and-the-governance-of-artificial-intelligence` | `kt:compute-governance`, `kt:compute-governance` |
 | `kt:cross-entropy` | `kt:perplexity`, `kt:loss-function` |
 | `kt:cross-validation` | `kt:bias-variance-tradeoff`, `kt:overfitting` |
@@ -117,6 +117,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alfworld-aligning-text-and-embodied-environments-for-interactive-learning` | `kt:alfworld` |
 | `kt:alibi` | `kt:positional-encoding` |
 | `kt:alphafold` | `kt:google-deepmind` |
+| `kt:amdahls-law` | `kt:parallel-computing` |
 | `kt:animals-with-attributes` | `kt:zero-shot-learning` |
 | `kt:ann-benchmarks` | `kt:approximate-nearest-neighbor-search` |
 | `kt:applied-ethics` | `kt:ai-ethics` |
@@ -173,7 +174,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:commonsenseqa-a-question-answering-challenge-targeting-commonsense-knowledge` | `kt:commonsenseqa` |
 | `kt:compositional-generalization` | `kt:least-to-most-prompting` |
 | `kt:compositional-questions-do-not-necessitate-multi-hop-reasoning` | `kt:hotpotqa` |
-| `kt:computer-architecture` | `kt:ai-hardware` |
 | `kt:computer-graphics` | `kt:computer-vision` |
 | `kt:computer-science` | `kt:artificial-intelligence` |
 | `kt:computing-machinery-and-intelligence` | `kt:turing-test` |
@@ -367,6 +367,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:megatron-lm-training-multi-billion-parameter-language-models-using-model-parallelism` | `kt:tensor-parallelism` |
 | `kt:memgpt` | `kt:agent-memory` |
 | `kt:memory-wall` | `kt:high-bandwidth-memory` |
+| `kt:message-passing-interface` | `kt:parallel-computing` |
 | `kt:message-understanding-conference-6` | `kt:named-entity-recognition` |
 | `kt:meta-dendral` | `kt:dendral` |
 | `kt:meteor` | `kt:bleu` |
@@ -476,6 +477,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:self-consistency-improves-chain-of-thought-reasoning-in-language-models` | `kt:self-consistency` |
 | `kt:sentiment-analysis` | `kt:natural-language-processing` |
 | `kt:sepp-hochreiter` | `kt:long-short-term-memory` |
+| `kt:serial-computing` | `kt:parallel-computing` |
 | `kt:sglang` | `kt:prefix-caching` |
 | `kt:sglang-efficient-execution-of-structured-language-model-programs` | `kt:prefix-caching` |
 | `kt:show-and-tell-a-neural-image-caption-generator` | `kt:image-captioning` |
