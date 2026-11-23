@@ -8,8 +8,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:anthropic` | `kt:model-context-protocol`, `kt:openai`, `kt:responsible-scaling-policy`, `kt:constitutional-ai` |
 | `kt:automated-planning` | `kt:planning-in-llms`, `kt:general-problem-solver`, `kt:heuristic-search`, `kt:knowledge-representation` |
+| `kt:meta-ai` | `kt:toolformer`, `kt:pytorch`, `kt:mask-r-cnn`, `kt:faiss` |
 | `kt:microsoft-research` | `kt:alfworld`, `kt:autogen`, `kt:residual-connection`, `kt:graphrag` |
 | `kt:model-parallelism` | `kt:data-parallelism`, `kt:parallel-computing`, `kt:pipeline-parallelism`, `kt:tensor-parallelism` |
+| `kt:r-cnn` | `kt:faster-r-cnn`, `kt:mask-r-cnn`, `kt:pascal-voc`, `kt:yolo` |
 | `kt:all-reduce` | `kt:data-parallelism`, `kt:distributed-training`, `kt:tensor-parallelism` |
 | `kt:application-specific-integrated-circuit` | `kt:deep-blue`, `kt:ai-accelerator`, `kt:tpu` |
 | `kt:automatic-differentiation` | `kt:pytorch`, `kt:backpropagation`, `kt:activation-checkpointing` |
@@ -19,10 +21,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:language-model` | `kt:perplexity`, `kt:a-neural-probabilistic-language-model`, `kt:large-language-model` |
 | `kt:logistic-regression` | `kt:conditional-random-field`, `kt:loss-function`, `kt:bradley-terry-model` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
-| `kt:meta-ai` | `kt:toolformer`, `kt:pytorch`, `kt:faiss` |
 | `kt:physical-symbol-system-hypothesis` | `kt:allen-newell`, `kt:heuristic-search`, `kt:symbolic-ai` |
 | `kt:prompt-tuning` | `kt:mrkl-systems`, `kt:automatic-prompt-optimization`, `kt:parameter-efficient-fine-tuning` |
-| `kt:r-cnn` | `kt:faster-r-cnn`, `kt:pascal-voc`, `kt:yolo` |
 | `kt:support-vector-machine` | `kt:perceptron`, `kt:loss-function`, `kt:statistical-learning-theory` |
 | `kt:allen-institute-for-ai` | `kt:commonsenseqa`, `kt:decomposed-prompting` |
 | `kt:alpha-beta-pruning` | `kt:deep-blue`, `kt:monte-carlo-tree-search` |
@@ -62,7 +62,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:lmsys` | `kt:chatbot-arena`, `kt:mt-bench` |
 | `kt:lora` | `kt:parameter-efficient-fine-tuning`, `kt:qlora` |
 | `kt:marvin-minsky` | `kt:dartmouth-workshop`, `kt:perceptron` |
-| `kt:mask-r-cnn` | `kt:faster-r-cnn`, `kt:instance-segmentation` |
 | `kt:masked-language-modeling` | `kt:self-supervised-learning`, `kt:bert` |
 | `kt:medical-image-analysis` | `kt:semantic-segmentation`, `kt:u-net` |
 | `kt:membership-inference-attack` | `kt:benchmark-contamination`, `kt:model-extraction` |
@@ -205,6 +204,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:delving-deep-into-rectifiers` | `kt:weight-initialization` |
 | `kt:dense-passage-retrieval` | `kt:hybrid-search` |
 | `kt:description-logic` | `kt:knowledge-representation` |
+| `kt:detectron2` | `kt:mask-r-cnn` |
 | `kt:devops` | `kt:mlops` |
 | `kt:differential-privacy` | `kt:synthetic-data` |
 | `kt:digital-omnibus-on-ai` | `kt:eu-ai-act` |
@@ -242,6 +242,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fastertransformer` | `kt:orca-serving-system` |
 | `kt:fasttext` | `kt:word2vec` |
 | `kt:feature-engineering` | `kt:representation-learning` |
+| `kt:feature-pyramid-network` | `kt:mask-r-cnn` |
 | `kt:feature-store` | `kt:mlops` |
 | `kt:federated-learning` | `kt:data-poisoning` |
 | `kt:feng-hsiung-hsu` | `kt:deep-blue` |
@@ -281,6 +282,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:high-resolution-image-synthesis-with-latent-diffusion-models` | `kt:latent-diffusion-model` |
 | `kt:hnsw` | `kt:apache-lucene` |
 | `kt:hotpotqa-a-dataset-for-diverse-explainable-multi-hop-question-answering` | `kt:hotpotqa` |
+| `kt:human-pose-estimation` | `kt:mask-r-cnn` |
 | `kt:humanevalfix` | `kt:swe-agent` |
 | `kt:ian-goodfellow` | `kt:generative-adversarial-network` |
 | `kt:ibm-research` | `kt:deep-blue` |
