@@ -14,7 +14,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:r-cnn` | `kt:faster-r-cnn`, `kt:mask-r-cnn`, `kt:pascal-voc`, `kt:yolo` |
 | `kt:all-reduce` | `kt:data-parallelism`, `kt:distributed-training`, `kt:tensor-parallelism` |
 | `kt:application-specific-integrated-circuit` | `kt:deep-blue`, `kt:ai-accelerator`, `kt:tpu` |
-| `kt:automatic-differentiation` | `kt:pytorch`, `kt:backpropagation`, `kt:activation-checkpointing` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
 | `kt:empirical-risk-minimization` | `kt:loss-function`, `kt:mathematical-optimization`, `kt:supervised-learning` |
 | `kt:herbert-a-simon` | `kt:allen-newell`, `kt:general-problem-solver`, `kt:logic-theorist` |
@@ -96,6 +95,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:weight-decay` | `kt:dropout`, `kt:regularization` |
 | `kt:yoshua-bengio` | `kt:a-neural-probabilistic-language-model`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
 | `kt:a-formal-basis-for-the-heuristic-determination-of-minimum-cost-paths` | `kt:heuristic-search` |
+| `kt:a-simple-automatic-derivative-evaluation-program` | `kt:automatic-differentiation` |
 | `kt:a-star-search` | `kt:heuristic-search` |
 | `kt:a-stochastic-approximation-method` | `kt:stochastic-gradient-descent` |
 | `kt:adadelta` | `kt:rmsprop` |
@@ -312,6 +312,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:iterative-deepening-a-star` | `kt:heuristic-search` |
 | `kt:iterative-magnitude-pruning` | `kt:lottery-ticket-hypothesis` |
 | `kt:james-lighthill` | `kt:lighthill-report` |
+| `kt:jax` | `kt:automatic-differentiation` |
 | `kt:jedec` | `kt:high-bandwidth-memory` |
 | `kt:john-duchi` | `kt:adagrad` |
 | `kt:john-searle` | `kt:chinese-room-argument` |
@@ -401,6 +402,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:newtons-method` | `kt:gradient-descent` |
 | `kt:noam-shazeer` | `kt:multi-query-attention` |
 | `kt:non-maximum-suppression` | `kt:object-detection` |
+| `kt:numerical-analysis` | `kt:automatic-differentiation` |
+| `kt:numerical-differentiation` | `kt:automatic-differentiation` |
 | `kt:nvidia-dynamo` | `kt:triton-inference-server` |
 | `kt:oecd` | `kt:oecd-ai-principles` |
 | `kt:off-policy-evaluation` | `kt:contextual-bandit` |
@@ -507,6 +510,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:swin-transformer` | `kt:vision-transformer` |
 | `kt:switchboard-corpus` | `kt:automatic-speech-recognition` |
 | `kt:symbol-grounding-problem` | `kt:chinese-room-argument` |
+| `kt:symbolic-differentiation` | `kt:automatic-differentiation` |
 | `kt:systolic-array` | `kt:tpu` |
 | `kt:t-sne` | `kt:dimensionality-reduction` |
 | `kt:td-gammon` | `kt:temporal-difference-learning` |

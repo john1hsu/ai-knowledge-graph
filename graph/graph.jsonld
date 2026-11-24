@@ -7622,6 +7622,102 @@
       ]
     },
     {
+      "@id": "kt:automatic-differentiation",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Automatic differentiation",
+      "skos:definition": "A family of techniques that computes exact derivatives of functions written as computer programs by decomposing them into elementary operations and applying the chain rule to each, in forward mode (Jacobian-vector products) or reverse mode (vector-Jacobian products); reverse mode underlies the gradient computation of every major deep learning framework.",
+      "kto:domain": "deep-learning",
+      "dcterms:created": "2026-11-24",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Automatic Differentiation in Machine Learning: a Survey",
+          "dcterms:publisher": "Journal of Machine Learning Research 18(153):1-43, 2018 (Baydin, Pearlmutter, Radul and Siskind)",
+          "schema:url": "https://jmlr.org/papers/v18/17-468.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Automatic Differentiation in Machine Learning: a Survey (arXiv v4, full text)",
+          "dcterms:publisher": "arXiv 1502.05767 (authors' version of the JMLR paper, February 2018)",
+          "schema:url": "https://arxiv.org/pdf/1502.05767",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "A Simple Automatic Derivative Evaluation Program",
+          "dcterms:publisher": "Communications of the ACM 7(8):463-464, August 1964 (R. E. Wengert), Princeton COS 597C course copy",
+          "schema:url": "https://www.cs.princeton.edu/courses/archive/fall19/cos597C/files/wengert1964.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "2.5. Automatic Differentiation",
+          "dcterms:publisher": "Zhang, Lipton, Li and Smola, Dive into Deep Learning (d2l.ai)",
+          "schema:url": "https://d2l.ai/chapter_preliminaries/autograd.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "The Autodiff Cookbook",
+          "dcterms:publisher": "JAX documentation (archived version of the cookbook)",
+          "schema:url": "https://docs.jax.dev/en/latest/notebooks/autodiff_cookbook.html",
+          "kto:sourceType": "official-docs"
+        }
+      ],
+      "kto:file": "articles/deep-learning/automatic-differentiation.md",
+      "skos:altLabel": [
+        "autodiff",
+        "algorithmic differentiation",
+        "AD",
+        "autograd"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:numerical-analysis"
+        },
+        {
+          "@id": "kt:mathematical-optimization"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:backpropagation"
+        },
+        {
+          "@id": "kt:gradient-descent"
+        },
+        {
+          "@id": "kt:activation-checkpointing"
+        },
+        {
+          "@id": "kt:pytorch"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:a-simple-automatic-derivative-evaluation-program"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:backpropagation"
+        }
+      ],
+      "kto:implementedIn": [
+        {
+          "@id": "kt:pytorch"
+        },
+        {
+          "@id": "kt:jax"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:numerical-differentiation"
+        },
+        {
+          "@id": "kt:symbolic-differentiation"
+        }
+      ]
+    },
+    {
       "@id": "kt:backpropagation",
       "@type": "kto:Algorithm",
       "skos:prefLabel": "Backpropagation algorithm",

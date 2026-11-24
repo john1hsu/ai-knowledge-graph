@@ -865,6 +865,28 @@
     ]
   },
   {
+    "id": "kt:automatic-differentiation",
+    "title": "Automatic differentiation",
+    "aliases": [
+      "autodiff",
+      "algorithmic differentiation",
+      "AD",
+      "autograd"
+    ],
+    "type": "Technique",
+    "domain": "deep-learning",
+    "file": "articles/deep-learning/automatic-differentiation.md",
+    "created": "2026-11-24",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://jmlr.org/papers/v18/17-468.html",
+      "https://arxiv.org/pdf/1502.05767",
+      "https://www.cs.princeton.edu/courses/archive/fall19/cos597C/files/wengert1964.pdf",
+      "https://d2l.ai/chapter_preliminaries/autograd.html",
+      "https://docs.jax.dev/en/latest/notebooks/autodiff_cookbook.html"
+    ]
+  },
+  {
     "id": "kt:automatic-prompt-optimization",
     "title": "Automatic prompt optimization",
     "aliases": [

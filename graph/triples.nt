@@ -1025,6 +1025,34 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <https://github.com/john1hsu/ai-knowledge-graph/ontology#evaluatedOn> <https://github.com/john1hsu/ai-knowledge-graph/id/alfworld> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/autogen> <https://github.com/john1hsu/ai-knowledge-graph/ontology#supersededBy> <https://github.com/john1hsu/ai-knowledge-graph/id/microsoft-agent-framework> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-differentiation> <http://purl.org/dc/terms/created> "2026-11-24" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-differentiation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-differentiation> <http://www.w3.org/2000/01/rdf-schema#label> "Automatic differentiation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-differentiation> <http://www.w3.org/2004/02/skos/core#altLabel> "AD" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-differentiation> <http://www.w3.org/2004/02/skos/core#altLabel> "algorithmic differentiation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-differentiation> <http://www.w3.org/2004/02/skos/core#altLabel> "autodiff" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-differentiation> <http://www.w3.org/2004/02/skos/core#altLabel> "autograd" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-differentiation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/mathematical-optimization> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-differentiation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/numerical-analysis> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-differentiation> <http://www.w3.org/2004/02/skos/core#definition> "A family of techniques that computes exact derivatives of functions written as computer programs by decomposing them into elementary operations and applying the chain rule to each, in forward mode (Jacobian-vector products) or reverse mode (vector-Jacobian products); reverse mode underlies the gradient computation of every major deep learning framework." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-differentiation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Automatic differentiation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-differentiation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/activation-checkpointing> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-differentiation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-differentiation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/gradient-descent> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-differentiation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-differentiation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-differentiation/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-differentiation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-differentiation/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-differentiation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-differentiation/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-differentiation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-differentiation/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-differentiation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-differentiation/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-differentiation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/numerical-differentiation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-differentiation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/ai-knowledge-graph/id/symbolic-differentiation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-differentiation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "deep-learning" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-differentiation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#enables> <https://github.com/john1hsu/ai-knowledge-graph/id/backpropagation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-differentiation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/jax> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-differentiation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#implementedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/pytorch> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-differentiation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/a-simple-automatic-derivative-evaluation-program> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/automatic-differentiation> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "foundational" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/automatic-prompt-optimization> <http://purl.org/dc/terms/created> "2026-11-19" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/automatic-prompt-optimization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Technique> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/automatic-prompt-optimization> <http://www.w3.org/2000/01/rdf-schema#label> "Automatic prompt optimization" .
@@ -7442,6 +7470,31 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/autogen/s6> <https://schema.org/url> "https://learn.microsoft.com/en-us/agent-framework/overview/" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-differentiation/s1> <http://purl.org/dc/terms/publisher> "Journal of Machine Learning Research 18(153):1-43, 2018 (Baydin, Pearlmutter, Radul and Siskind)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-differentiation/s1> <http://purl.org/dc/terms/title> "Automatic Differentiation in Machine Learning: a Survey" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-differentiation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-differentiation/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-differentiation/s1> <https://schema.org/url> "https://jmlr.org/papers/v18/17-468.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-differentiation/s2> <http://purl.org/dc/terms/publisher> "arXiv 1502.05767 (authors' version of the JMLR paper, February 2018)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-differentiation/s2> <http://purl.org/dc/terms/title> "Automatic Differentiation in Machine Learning: a Survey (arXiv v4, full text)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-differentiation/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-differentiation/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-differentiation/s2> <https://schema.org/url> "https://arxiv.org/pdf/1502.05767" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-differentiation/s3> <http://purl.org/dc/terms/publisher> "Communications of the ACM 7(8):463-464, August 1964 (R. E. Wengert), Princeton COS 597C course copy" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-differentiation/s3> <http://purl.org/dc/terms/title> "A Simple Automatic Derivative Evaluation Program" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-differentiation/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-differentiation/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-differentiation/s3> <https://schema.org/url> "https://www.cs.princeton.edu/courses/archive/fall19/cos597C/files/wengert1964.pdf" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-differentiation/s4> <http://purl.org/dc/terms/publisher> "Zhang, Lipton, Li and Smola, Dive into Deep Learning (d2l.ai)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-differentiation/s4> <http://purl.org/dc/terms/title> "2.5. Automatic Differentiation" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-differentiation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-differentiation/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-differentiation/s4> <https://schema.org/url> "https://d2l.ai/chapter_preliminaries/autograd.html" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-differentiation/s5> <http://purl.org/dc/terms/publisher> "JAX documentation (archived version of the cookbook)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-differentiation/s5> <http://purl.org/dc/terms/title> "The Autodiff Cookbook" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-differentiation/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-differentiation/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-differentiation/s5> <https://schema.org/url> "https://docs.jax.dev/en/latest/notebooks/autodiff_cookbook.html" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s1> <http://purl.org/dc/terms/publisher> "arXiv 2211.01910v2 (Zhou, Muresanu, Han, Paster, Pitis, Chan, Ba)" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s1> <http://purl.org/dc/terms/title> "Large Language Models Are Human-Level Prompt Engineers" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/automatic-prompt-optimization/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
