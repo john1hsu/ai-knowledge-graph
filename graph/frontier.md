@@ -194,6 +194,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:data-drift` | `kt:mlops` |
 | `kt:dataset-cards` | `kt:datasheets-for-datasets` |
 | `kt:datasheets-for-datasets-paper` | `kt:datasheets-for-datasets` |
+| `kt:david-rein` | `kt:gpqa` |
 | `kt:decision-tree` | `kt:ensemble-methods` |
 | `kt:decoding-strategy` | `kt:beam-search` |
 | `kt:decomposed-prompting-a-modular-approach-for-solving-complex-tasks` | `kt:decomposed-prompting` |
@@ -269,7 +270,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:glove-global-vectors-for-word-representation` | `kt:glove` |
 | `kt:google-brain` | `kt:concrete-problems-in-ai-safety` |
 | `kt:gpipe` | `kt:pipeline-parallelism` |
-| `kt:gpqa` | `kt:reasoning-models` |
+| `kt:gpqa-a-graduate-level-google-proof-q-a-benchmark` | `kt:gpqa` |
 | `kt:gpt-j` | `kt:toolformer` |
 | `kt:gptq-accurate-post-training-quantization-for-generative-pre-trained-transformers` | `kt:gptq` |
 | `kt:gqa-training-generalized-multi-query-transformer-models-from-multi-head-checkpoints` | `kt:grouped-query-attention` |
@@ -473,6 +474,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ruler` | `kt:context-window` |
 | `kt:sacrebleu` | `kt:bleu` |
 | `kt:salesforce-research` | `kt:osworld` |
+| `kt:samuel-bowman` | `kt:gpqa` |
 | `kt:sarathi-serve` | `kt:orca-serving-system` |
 | `kt:scalable-parallel-programming-with-cuda` | `kt:cuda` |
 | `kt:scaling-laws-for-neural-language-models` | `kt:scaling-laws` |

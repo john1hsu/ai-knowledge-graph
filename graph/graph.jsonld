@@ -9852,6 +9852,100 @@
       ]
     },
     {
+      "@id": "kt:gpqa",
+      "@type": "kto:Benchmark",
+      "skos:prefLabel": "GPQA: A Graduate-Level Google-Proof Q&A Benchmark",
+      "skos:definition": "A benchmark of 448 expert-written, four-option multiple-choice questions in biology, physics and chemistry, released by Rein et al. in 2023, designed so that PhD-level domain experts mostly answer correctly while skilled non-experts with unrestricted web access mostly fail; its 198-question Diamond subset became a standard test of frontier model reasoning.",
+      "kto:domain": "evaluation-and-benchmarks",
+      "dcterms:created": "2026-11-25",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "GPQA: A Graduate-Level Google-Proof Q&A Benchmark (arXiv:2311.12022 abstract page)",
+          "dcterms:publisher": "arXiv (Rein, Hou, Stickland, Petty, Pang, Dirani, Michael, Bowman; NYU, Cohere, Anthropic), November 2023",
+          "schema:url": "https://arxiv.org/abs/2311.12022",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "GPQA: A Graduate-Level Google-Proof Q&A Benchmark (full paper PDF)",
+          "dcterms:publisher": "arXiv (Rein et al.), published at the First Conference on Language Modeling (COLM) 2024",
+          "schema:url": "https://arxiv.org/pdf/2311.12022",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "idavidrein/gpqa: baselines, analysis code and dataset release",
+          "dcterms:publisher": "GitHub (David Rein)",
+          "schema:url": "https://github.com/idavidrein/gpqa",
+          "kto:sourceType": "official-docs"
+        },
+        {
+          "dcterms:title": "GPQA Diamond (benchmark description and methodology)",
+          "dcterms:publisher": "Epoch AI Benchmarking Hub",
+          "schema:url": "https://epoch.ai/benchmarks/gpqa-diamond",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "GPQA Diamond: What's left?",
+          "dcterms:publisher": "Epoch AI Gradient Updates (Greg Burnham), May 30, 2025",
+          "schema:url": "https://epoch.ai/gradient-updates/gpqa-diamond-whats-left",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "Independent AI Testing Authority Turns From Saturated Knowledge Benchmarks to Harder Business Tests",
+          "dcterms:publisher": "The Batch, DeepLearning.AI, January 30, 2026",
+          "schema:url": "https://www.deeplearning.ai/the-batch/independent-ai-testing-authority-turns-from-saturated-knowledge-benchmarks-to-harder-business-tests",
+          "kto:sourceType": "news"
+        }
+      ],
+      "kto:file": "articles/evaluation-and-benchmarks/gpqa.md",
+      "skos:altLabel": [
+        "GPQA",
+        "GPQA Diamond",
+        "Google-Proof Q&A",
+        "Graduate-Level Google-Proof Q&A"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-evaluation"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:scalable-oversight"
+        },
+        {
+          "@id": "kt:mmlu"
+        },
+        {
+          "@id": "kt:benchmark-contamination"
+        },
+        {
+          "@id": "kt:reasoning-models"
+        },
+        {
+          "@id": "kt:big-bench"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:gpqa-a-graduate-level-google-proof-q-a-benchmark"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:david-rein"
+        },
+        {
+          "@id": "kt:samuel-bowman"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:scalable-oversight"
+        }
+      ]
+    },
+    {
       "@id": "kt:gsm8k",
       "@type": "kto:Benchmark",
       "skos:prefLabel": "GSM8K",
@@ -22928,6 +23022,9 @@
         },
         {
           "@id": "kt:reward-hacking"
+        },
+        {
+          "@id": "kt:gpqa"
         }
       ],
       "kto:introducedIn": [

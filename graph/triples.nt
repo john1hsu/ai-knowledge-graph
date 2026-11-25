@@ -3023,6 +3023,33 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/google> <https://github.com/john1hsu/ai-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/ai-knowledge-graph/id/google-deepmind> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/google> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/google> <https://github.com/john1hsu/ai-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/ai-knowledge-graph/id/alphabet-inc> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpqa> <http://purl.org/dc/terms/created> "2026-11-25" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpqa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Benchmark> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpqa> <http://www.w3.org/2000/01/rdf-schema#label> "GPQA: A Graduate-Level Google-Proof Q&A Benchmark" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpqa> <http://www.w3.org/2004/02/skos/core#altLabel> "GPQA Diamond" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpqa> <http://www.w3.org/2004/02/skos/core#altLabel> "GPQA" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpqa> <http://www.w3.org/2004/02/skos/core#altLabel> "Google-Proof Q&A" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpqa> <http://www.w3.org/2004/02/skos/core#altLabel> "Graduate-Level Google-Proof Q&A" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpqa> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-evaluation> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpqa> <http://www.w3.org/2004/02/skos/core#definition> "A benchmark of 448 expert-written, four-option multiple-choice questions in biology, physics and chemistry, released by Rein et al. in 2023, designed so that PhD-level domain experts mostly answer correctly while skilled non-experts with unrestricted web access mostly fail; its 198-question Diamond subset became a standard test of frontier model reasoning." .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpqa> <http://www.w3.org/2004/02/skos/core#prefLabel> "GPQA: A Graduate-Level Google-Proof Q&A Benchmark" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpqa> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/benchmark-contamination> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpqa> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/big-bench> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpqa> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/mmlu> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpqa> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/reasoning-models> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpqa> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpqa> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s1> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpqa> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s2> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpqa> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s3> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpqa> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s4> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpqa> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s5> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpqa> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s6> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpqa> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/david-rein> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpqa> <https://github.com/john1hsu/ai-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/ai-knowledge-graph/id/samuel-bowman> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpqa> <https://github.com/john1hsu/ai-knowledge-graph/ontology#domain> "evaluation-and-benchmarks" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpqa> <https://github.com/john1hsu/ai-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/gpqa-a-graduate-level-google-proof-q-a-benchmark> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpqa> <https://github.com/john1hsu/ai-knowledge-graph/ontology#maturity> "established" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/gpqa> <https://github.com/john1hsu/ai-knowledge-graph/ontology#usedIn> <https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Algorithm> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/gptq> <http://www.w3.org/2000/01/rdf-schema#label> "GPTQ" .
@@ -6103,6 +6130,7 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/ai-knowledge-graph/id/ai-alignment> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> <http://www.w3.org/2004/02/skos/core#definition> "The alignment research problem of supervising AI systems reliably when a full human evaluation of their behaviour is too costly, or when the systems may come to exceed human skill at the task being judged." .
 <https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scalable oversight" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/gpqa> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/reward-hacking> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/ai-knowledge-graph/id/rlhf> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/scalable-oversight> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/ai-knowledge-graph/id/source/scalable-oversight/s1> .
@@ -9525,6 +9553,36 @@
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/google/s5> <https://schema.org/url> "https://usenix.org/conference/osdi16/technical-sessions/presentation/abadi" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s1> <http://purl.org/dc/terms/publisher> "arXiv (Rein, Hou, Stickland, Petty, Pang, Dirani, Michael, Bowman; NYU, Cohere, Anthropic), November 2023" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s1> <http://purl.org/dc/terms/title> "GPQA: A Graduate-Level Google-Proof Q&A Benchmark (arXiv:2311.12022 abstract page)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s1> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s1> <https://schema.org/url> "https://arxiv.org/abs/2311.12022" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s2> <http://purl.org/dc/terms/publisher> "arXiv (Rein et al.), published at the First Conference on Language Modeling (COLM) 2024" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s2> <http://purl.org/dc/terms/title> "GPQA: A Graduate-Level Google-Proof Q&A Benchmark (full paper PDF)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s2> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s2> <https://schema.org/url> "https://arxiv.org/pdf/2311.12022" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s3> <http://purl.org/dc/terms/publisher> "GitHub (David Rein)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s3> <http://purl.org/dc/terms/title> "idavidrein/gpqa: baselines, analysis code and dataset release" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s3> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "official-docs" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s3> <https://schema.org/url> "https://github.com/idavidrein/gpqa" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s4> <http://purl.org/dc/terms/publisher> "Epoch AI Benchmarking Hub" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s4> <http://purl.org/dc/terms/title> "GPQA Diamond (benchmark description and methodology)" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s4> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s4> <https://schema.org/url> "https://epoch.ai/benchmarks/gpqa-diamond" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s5> <http://purl.org/dc/terms/publisher> "Epoch AI Gradient Updates (Greg Burnham), May 30, 2025" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s5> <http://purl.org/dc/terms/title> "GPQA Diamond: What's left?" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s5> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s5> <https://schema.org/url> "https://epoch.ai/gradient-updates/gpqa-diamond-whats-left" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s6> <http://purl.org/dc/terms/publisher> "The Batch, DeepLearning.AI, January 30, 2026" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s6> <http://purl.org/dc/terms/title> "Independent AI Testing Authority Turns From Saturated Knowledge Benchmarks to Harder Business Tests" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s6> <https://github.com/john1hsu/ai-knowledge-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/ai-knowledge-graph/id/source/gpqa/s6> <https://schema.org/url> "https://www.deeplearning.ai/the-batch/independent-ai-testing-authority-turns-from-saturated-knowledge-benchmarks-to-harder-business-tests" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s1> <http://purl.org/dc/terms/publisher> "ICLR 2023 (Frantar, Ashkboos, Hoefler and Alistarh), authors' arXiv version 2210.17323" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s1> <http://purl.org/dc/terms/title> "GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers" .
 <https://github.com/john1hsu/ai-knowledge-graph/id/source/gptq/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/ai-knowledge-graph/ontology#Source> .

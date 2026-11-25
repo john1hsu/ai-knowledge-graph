@@ -9,7 +9,7 @@ summary: >-
   behaviour is too costly, or when the systems may come to exceed human skill at the task being judged.
 maturity: emerging
 broader: [kt:ai-alignment]
-related: [kt:rlhf, kt:reward-hacking]
+related: [kt:rlhf, kt:reward-hacking, kt:gpqa]
 relations:
   - {predicate: introducedIn, object: kt:concrete-problems-in-ai-safety}
   - {predicate: hasPart, object: kt:ai-safety-via-debate}
