@@ -14954,6 +14954,108 @@
       ]
     },
     {
+      "@id": "kt:empirical-risk-minimization",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Empirical risk minimization",
+      "skos:definition": "The learning principle that, because the expected loss over the true data distribution cannot be computed, chooses the hypothesis that minimizes the average loss on the training sample instead; it underlies least squares, logistic regression, SVMs and neural-network training, and its success depends on controlling the capacity of the hypothesis class.",
+      "kto:domain": "ml-foundations",
+      "dcterms:created": "2026-11-26",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Principles of Risk Minimization for Learning Theory",
+          "dcterms:publisher": "Advances in Neural Information Processing Systems 4 (NIPS 1991) (V. Vapnik)",
+          "schema:url": "https://proceedings.neurips.cc/paper/1991/hash/ff4d5fbbafdf976cfdc032e3bde78de5-Abstract.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Understanding Machine Learning: From Theory to Algorithms",
+          "dcterms:publisher": "Cambridge University Press, 2014 (S. Shalev-Shwartz and S. Ben-David), authors' free edition",
+          "schema:url": "https://cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "10: Empirical Risk Minimization",
+          "dcterms:publisher": "Cornell University CS 4780/5780 Machine Learning, lecture notes (Spring 2023)",
+          "schema:url": "https://www.cs.cornell.edu/courses/cs4780/2023sp/lectures/lecturenote10.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "mixup: Beyond Empirical Risk Minimization",
+          "dcterms:publisher": "ICLR 2018 (H. Zhang, M. Cisse, Y. N. Dauphin, D. Lopez-Paz), authors' arXiv version",
+          "schema:url": "https://arxiv.org/abs/1710.09412v2",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/ml-foundations/empirical-risk-minimization.md",
+      "skos:altLabel": [
+        "ERM",
+        "ERM principle",
+        "empirical risk minimisation"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:statistical-learning-theory"
+        },
+        {
+          "@id": "kt:supervised-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:loss-function"
+        },
+        {
+          "@id": "kt:regularization"
+        },
+        {
+          "@id": "kt:overfitting"
+        },
+        {
+          "@id": "kt:mathematical-optimization"
+        },
+        {
+          "@id": "kt:bias-variance-tradeoff"
+        },
+        {
+          "@id": "kt:double-descent"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:vladimir-vapnik"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:loss-function"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:vc-dimension"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:structural-risk-minimization"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:mixup"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:support-vector-machine"
+        },
+        {
+          "@id": "kt:logistic-regression"
+        }
+      ]
+    },
+    {
       "@id": "kt:ensemble-methods",
       "@type": "kto:Technique",
       "skos:prefLabel": "Ensemble methods",

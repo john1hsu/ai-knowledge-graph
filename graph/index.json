@@ -2094,6 +2094,26 @@
     ]
   },
   {
+    "id": "kt:empirical-risk-minimization",
+    "title": "Empirical risk minimization",
+    "aliases": [
+      "ERM",
+      "ERM principle",
+      "empirical risk minimisation"
+    ],
+    "type": "Concept",
+    "domain": "ml-foundations",
+    "file": "articles/ml-foundations/empirical-risk-minimization.md",
+    "created": "2026-11-26",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://proceedings.neurips.cc/paper/1991/hash/ff4d5fbbafdf976cfdc032e3bde78de5-Abstract.html",
+      "https://cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf",
+      "https://www.cs.cornell.edu/courses/cs4780/2023sp/lectures/lecturenote10.html",
+      "https://arxiv.org/abs/1710.09412v2"
+    ]
+  },
+  {
     "id": "kt:ensemble-methods",
     "title": "Ensemble methods",
     "aliases": [

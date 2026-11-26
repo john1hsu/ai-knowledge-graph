@@ -8,21 +8,20 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:agentic-systems` | `kt:agentic-workflow`, `kt:autogen`, `kt:langgraph`, `kt:multi-agent-systems` |
 | `kt:anthropic` | `kt:model-context-protocol`, `kt:openai`, `kt:responsible-scaling-policy`, `kt:constitutional-ai` |
 | `kt:automated-planning` | `kt:planning-in-llms`, `kt:general-problem-solver`, `kt:heuristic-search`, `kt:knowledge-representation` |
+| `kt:logistic-regression` | `kt:conditional-random-field`, `kt:empirical-risk-minimization`, `kt:loss-function`, `kt:bradley-terry-model` |
 | `kt:meta-ai` | `kt:toolformer`, `kt:pytorch`, `kt:mask-r-cnn`, `kt:faiss` |
 | `kt:microsoft-research` | `kt:alfworld`, `kt:autogen`, `kt:residual-connection`, `kt:graphrag` |
 | `kt:model-parallelism` | `kt:data-parallelism`, `kt:parallel-computing`, `kt:pipeline-parallelism`, `kt:tensor-parallelism` |
 | `kt:r-cnn` | `kt:faster-r-cnn`, `kt:mask-r-cnn`, `kt:pascal-voc`, `kt:yolo` |
+| `kt:support-vector-machine` | `kt:perceptron`, `kt:empirical-risk-minimization`, `kt:loss-function`, `kt:statistical-learning-theory` |
 | `kt:all-reduce` | `kt:data-parallelism`, `kt:distributed-training`, `kt:tensor-parallelism` |
 | `kt:application-specific-integrated-circuit` | `kt:deep-blue`, `kt:ai-accelerator`, `kt:tpu` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
-| `kt:empirical-risk-minimization` | `kt:loss-function`, `kt:mathematical-optimization`, `kt:supervised-learning` |
 | `kt:herbert-a-simon` | `kt:allen-newell`, `kt:general-problem-solver`, `kt:logic-theorist` |
 | `kt:language-model` | `kt:perplexity`, `kt:a-neural-probabilistic-language-model`, `kt:large-language-model` |
-| `kt:logistic-regression` | `kt:conditional-random-field`, `kt:loss-function`, `kt:bradley-terry-model` |
 | `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
 | `kt:physical-symbol-system-hypothesis` | `kt:allen-newell`, `kt:heuristic-search`, `kt:symbolic-ai` |
 | `kt:prompt-tuning` | `kt:mrkl-systems`, `kt:automatic-prompt-optimization`, `kt:parameter-efficient-fine-tuning` |
-| `kt:support-vector-machine` | `kt:perceptron`, `kt:loss-function`, `kt:statistical-learning-theory` |
 | `kt:allen-institute-for-ai` | `kt:commonsenseqa`, `kt:decomposed-prompting` |
 | `kt:alpha-beta-pruning` | `kt:deep-blue`, `kt:monte-carlo-tree-search` |
 | `kt:alphabet-inc` | `kt:google-deepmind`, `kt:google` |
@@ -91,7 +90,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tokenization` | `kt:perplexity`, `kt:structured-output` |
 | `kt:transposed-convolution` | `kt:semantic-segmentation`, `kt:u-net` |
 | `kt:trust-region-policy-optimization` | `kt:proximal-policy-optimization`, `kt:deep-reinforcement-learning-from-human-preferences` |
+| `kt:vc-dimension` | `kt:empirical-risk-minimization`, `kt:statistical-learning-theory` |
 | `kt:vector-space-model` | `kt:information-retrieval`, `kt:tf-idf` |
+| `kt:vladimir-vapnik` | `kt:empirical-risk-minimization`, `kt:statistical-learning-theory` |
 | `kt:weight-decay` | `kt:dropout`, `kt:regularization` |
 | `kt:yoshua-bengio` | `kt:a-neural-probabilistic-language-model`, `kt:neural-machine-translation-by-jointly-learning-to-align-and-translate` |
 | `kt:a-formal-basis-for-the-heuristic-determination-of-minimum-cost-paths` | `kt:heuristic-search` |
@@ -383,6 +384,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:minds-brains-and-programs` | `kt:chinese-room-argument` |
 | `kt:mistral-7b` | `kt:grouped-query-attention` |
 | `kt:mixed-precision-training` | `kt:tensor-cores` |
+| `kt:mixup` | `kt:empirical-risk-minimization` |
 | `kt:mlflow` | `kt:mlops` |
 | `kt:mmlu-pro` | `kt:mmlu` |
 | `kt:model-cards-for-model-reporting` | `kt:model-cards` |
@@ -505,6 +507,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:stone-weierstrass-theorem` | `kt:universal-approximation-theorem` |
 | `kt:strategic-computing-initiative` | `kt:ai-winter` |
 | `kt:strong-ai` | `kt:chinese-room-argument` |
+| `kt:structural-risk-minimization` | `kt:empirical-risk-minimization` |
 | `kt:stylegan` | `kt:generative-adversarial-network` |
 | `kt:swe-agent-agent-computer-interfaces-enable-automated-software-engineering` | `kt:swe-agent` |
 | `kt:swe-bench-can-language-models-resolve-real-world-github-issues` | `kt:swe-bench` |
@@ -556,9 +559,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:us-department-of-commerce` | `kt:bureau-of-industry-and-security` |
 | `kt:value-iteration` | `kt:markov-decision-process` |
 | `kt:variational-inference` | `kt:variational-autoencoder` |
-| `kt:vc-dimension` | `kt:statistical-learning-theory` |
 | `kt:visualwebarena` | `kt:webarena` |
-| `kt:vladimir-vapnik` | `kt:statistical-learning-theory` |
 | `kt:vowpal-wabbit` | `kt:contextual-bandit` |
 | `kt:voyager-an-open-ended-embodied-agent-with-large-language-models` | `kt:voyager` |
 | `kt:vtab` | `kt:an-image-is-worth-16x16-words` |
