@@ -12580,6 +12580,9 @@
         },
         {
           "@id": "kt:council-of-europe-framework-convention-on-ai"
+        },
+        {
+          "@id": "kt:unesco-recommendation-on-the-ethics-of-ai"
         }
       ],
       "kto:createdBy": [
@@ -12680,6 +12683,94 @@
       "kto:contrastsWith": [
         {
           "@id": "kt:eu-ai-act"
+        }
+      ]
+    },
+    {
+      "@id": "kt:unesco-recommendation-on-the-ethics-of-ai",
+      "@type": "kto:Policy",
+      "skos:prefLabel": "UNESCO Recommendation on the Ethics of Artificial Intelligence",
+      "skos:definition": "A non-binding global standard-setting instrument adopted by UNESCO's General Conference on 23 November 2021, which sets out four values, ten principles and eleven policy action areas for the ethical development and use of AI, backed by UNESCO tools such as the Readiness Assessment Methodology and Ethical Impact Assessment.",
+      "kto:domain": "governance-and-policy",
+      "dcterms:created": "2026-11-27",
+      "kto:maturity": "established",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Recommendation on the Ethics of Artificial Intelligence (SHS/BIO/PI/2021/1)",
+          "dcterms:publisher": "UNESCO General Conference, 41st session, adopted 23 November 2021 (copy hosted by the Internet Governance Forum)",
+          "schema:url": "https://intgovforum.org/sites/default/files/webform/igf_2023_workshop_proposal_form/241947/381137eng.pdf",
+          "kto:sourceType": "intergovernmental"
+        },
+        {
+          "dcterms:title": "193 countries adopt first-ever global agreement on the Ethics of Artificial Intelligence",
+          "dcterms:publisher": "UN News, 25 November 2021",
+          "schema:url": "https://news.un.org/en/story/2021/11/1106612",
+          "kto:sourceType": "intergovernmental"
+        },
+        {
+          "dcterms:title": "Final report on the draft text of the Recommendation on the Ethics of Artificial Intelligence (SHS/IGM-AIETHICS/2021/APR/INF.1)",
+          "dcterms:publisher": "UNESCO, 31 March 2021",
+          "schema:url": "https://unesdoc.unesco.org/ark:/48223/pf0000376712",
+          "kto:sourceType": "intergovernmental"
+        },
+        {
+          "dcterms:title": "Readiness assessment methodology: a tool of the Recommendation on the Ethics of Artificial Intelligence",
+          "dcterms:publisher": "UNESCO, 2023",
+          "schema:url": "https://unesdoc.unesco.org/ark:/48223/pf0000385198",
+          "kto:sourceType": "intergovernmental"
+        },
+        {
+          "dcterms:title": "Contribution by UNESCO to the CSTD 2025-2026 priority theme on Science, Technology and Innovation in the age of AI",
+          "dcterms:publisher": "UNESCO submission to the UN Commission on Science and Technology for Development, 17 November 2025",
+          "schema:url": "https://unctad.org/system/files/non-official-document/cstd2025-26_ai_c23_unesco_en.pdf",
+          "kto:sourceType": "intergovernmental"
+        },
+        {
+          "dcterms:title": "The Annual AI Governance Report 2025: Steering the Future of AI (page 27)",
+          "dcterms:publisher": "International Telecommunication Union, 2025",
+          "schema:url": "https://www.itu.int/net/epub/TSB/2025-The-Annual-AI-Governance-Report-2025-Steering-the-Future-of-AI/files/basic-html/page27.html",
+          "kto:sourceType": "intergovernmental"
+        }
+      ],
+      "kto:file": "articles/governance-and-policy/unesco-recommendation-on-the-ethics-of-ai.md",
+      "skos:altLabel": [
+        "UNESCO Recommendation on the Ethics of AI",
+        "UNESCO AI ethics recommendation",
+        "SHS/BIO/PI/2021/1"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:ai-ethics"
+        },
+        {
+          "@id": "kt:ai-governance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:oecd-ai-principles"
+        },
+        {
+          "@id": "kt:eu-ai-act"
+        },
+        {
+          "@id": "kt:council-of-europe-framework-convention-on-ai"
+        },
+        {
+          "@id": "kt:algorithmic-bias-and-fairness"
+        },
+        {
+          "@id": "kt:ai-risk-management"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:unesco"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:ethical-impact-assessment"
         }
       ]
     },

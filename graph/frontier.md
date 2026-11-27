@@ -231,6 +231,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:embodied-ai` | `kt:alfworld` |
 | `kt:emergent-abilities-of-large-language-models` | `kt:emergent-abilities` |
 | `kt:entity-linking` | `kt:named-entity-recognition` |
+| `kt:ethical-impact-assessment` | `kt:unesco-recommendation-on-the-ethics-of-ai` |
 | `kt:european-union` | `kt:eu-ai-act` |
 | `kt:evaluating-large-language-models-trained-on-code` | `kt:humaneval` |
 | `kt:experience-replay` | `kt:catastrophic-forgetting` |
@@ -552,7 +553,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:umap` | `kt:dimensionality-reduction` |
 | `kt:underfitting` | `kt:overfitting` |
 | `kt:understanding-the-difficulty-of-training-deep-feedforward-neural-networks` | `kt:weight-initialization` |
-| `kt:unesco-recommendation-on-the-ethics-of-ai` | `kt:ai-ethics` |
+| `kt:unesco` | `kt:unesco-recommendation-on-the-ethics-of-ai` |
 | `kt:universal-language-model-fine-tuning-for-text-classification` | `kt:fine-tuning` |
 | `kt:universal-self-consistency` | `kt:self-consistency` |
 | `kt:university-of-hong-kong` | `kt:osworld` |

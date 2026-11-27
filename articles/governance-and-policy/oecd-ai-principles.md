@@ -10,7 +10,7 @@ summary: >-
   recommendations for national policy, plus a widely reused definition of an "AI system".
 maturity: established
 broader: [kt:ai-governance]
-related: [kt:eu-ai-act, kt:nist-ai-risk-management-framework, kt:ai-risk-management, kt:algorithmic-bias-and-fairness, kt:council-of-europe-framework-convention-on-ai]
+related: [kt:eu-ai-act, kt:nist-ai-risk-management-framework, kt:ai-risk-management, kt:algorithmic-bias-and-fairness, kt:council-of-europe-framework-convention-on-ai, kt:unesco-recommendation-on-the-ethics-of-ai]
 relations:
   - {predicate: createdBy, object: kt:oecd}
 sources:

@@ -5953,6 +5953,28 @@
     ]
   },
   {
+    "id": "kt:unesco-recommendation-on-the-ethics-of-ai",
+    "title": "UNESCO Recommendation on the Ethics of Artificial Intelligence",
+    "aliases": [
+      "UNESCO Recommendation on the Ethics of AI",
+      "UNESCO AI ethics recommendation",
+      "SHS/BIO/PI/2021/1"
+    ],
+    "type": "Policy",
+    "domain": "governance-and-policy",
+    "file": "articles/governance-and-policy/unesco-recommendation-on-the-ethics-of-ai.md",
+    "created": "2026-11-27",
+    "maturity": "established",
+    "source_urls": [
+      "https://intgovforum.org/sites/default/files/webform/igf_2023_workshop_proposal_form/241947/381137eng.pdf",
+      "https://news.un.org/en/story/2021/11/1106612",
+      "https://unesdoc.unesco.org/ark:/48223/pf0000376712",
+      "https://unesdoc.unesco.org/ark:/48223/pf0000385198",
+      "https://unctad.org/system/files/non-official-document/cstd2025-26_ai_c23_unesco_en.pdf",
+      "https://www.itu.int/net/epub/TSB/2025-The-Annual-AI-Governance-Report-2025-Steering-the-Future-of-AI/files/basic-html/page27.html"
+    ]
+  },
+  {
     "id": "kt:universal-approximation-theorem",
     "title": "Universal approximation theorem",
     "aliases": [
