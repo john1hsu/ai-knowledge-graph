@@ -26032,6 +26032,87 @@
       ]
     },
     {
+      "@id": "kt:language-model",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Language model",
+      "skos:definition": "A model that assigns probabilities to sequences of words or tokens, usually by predicting a probability distribution over the next token given the preceding ones; it spans n-gram counting models, neural networks and today's large language models.",
+      "kto:domain": "transformers-and-llms",
+      "dcterms:created": "2026-11-28",
+      "kto:maturity": "foundational",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Speech and Language Processing (3rd ed. draft), Chapter 3: N-gram Language Models",
+          "dcterms:publisher": "D. Jurafsky and J. H. Martin, Stanford University (draft of August 19, 2026)",
+          "schema:url": "https://web.stanford.edu/%7Ejurafsky/slp3/3.pdf",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "A Mathematical Theory of Communication",
+          "dcterms:publisher": "C. E. Shannon, Bell System Technical Journal 27 (1948); reprint hosted by MIT CSAIL",
+          "schema:url": "https://people.csail.mit.edu/dmoshkov/courses/codes/shannon1948.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "A Neural Probabilistic Language Model",
+          "dcterms:publisher": "Bengio, Ducharme, Vincent and Jauvin, Journal of Machine Learning Research 3 (2003), 1137-1155",
+          "schema:url": "https://www.jmlr.org/papers/v3/bengio03a.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Recurrent neural network based language model",
+          "dcterms:publisher": "Mikolov, Karafiát, Burget, Černocký and Khudanpur, Proc. Interspeech 2010, 1045-1048",
+          "schema:url": "https://www.isca-archive.org/interspeech_2010/mikolov10_interspeech.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Language Models are Unsupervised Multitask Learners",
+          "dcterms:publisher": "Radford, Wu, Child, Luan, Amodei and Sutskever (OpenAI technical report); PDF hosted by Bau Lab",
+          "schema:url": "https://papers.baulab.info/papers/Radford-2018.pdf",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/transformers-and-llms/language-model.md",
+      "skos:altLabel": [
+        "statistical language model",
+        "probabilistic language model",
+        "language modeling"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:natural-language-processing"
+        },
+        {
+          "@id": "kt:generative-model"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:n-gram-language-model"
+        },
+        {
+          "@id": "kt:recurrent-neural-network"
+        },
+        {
+          "@id": "kt:large-language-model"
+        }
+      ],
+      "kto:basedOn": [
+        {
+          "@id": "kt:markov-chain"
+        }
+      ],
+      "kto:evaluatedOn": [
+        {
+          "@id": "kt:perplexity"
+        }
+      ],
+      "kto:usedIn": [
+        {
+          "@id": "kt:automatic-speech-recognition"
+        }
+      ]
+    },
+    {
       "@id": "kt:language-models-are-few-shot-learners",
       "@type": "kto:Work",
       "skos:prefLabel": "Language Models are Few-Shot Learners",

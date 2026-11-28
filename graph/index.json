@@ -3235,6 +3235,27 @@
     ]
   },
   {
+    "id": "kt:language-model",
+    "title": "Language model",
+    "aliases": [
+      "statistical language model",
+      "probabilistic language model",
+      "language modeling"
+    ],
+    "type": "Concept",
+    "domain": "transformers-and-llms",
+    "file": "articles/transformers-and-llms/language-model.md",
+    "created": "2026-11-28",
+    "maturity": "foundational",
+    "source_urls": [
+      "https://web.stanford.edu/%7Ejurafsky/slp3/3.pdf",
+      "https://people.csail.mit.edu/dmoshkov/courses/codes/shannon1948.pdf",
+      "https://www.jmlr.org/papers/v3/bengio03a.html",
+      "https://www.isca-archive.org/interspeech_2010/mikolov10_interspeech.html",
+      "https://papers.baulab.info/papers/Radford-2018.pdf"
+    ]
+  },
+  {
     "id": "kt:language-models-are-few-shot-learners",
     "title": "Language Models are Few-Shot Learners",
     "aliases": [

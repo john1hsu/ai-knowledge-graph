@@ -9,6 +9,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:anthropic` | `kt:model-context-protocol`, `kt:openai`, `kt:responsible-scaling-policy`, `kt:constitutional-ai` |
 | `kt:automated-planning` | `kt:planning-in-llms`, `kt:general-problem-solver`, `kt:heuristic-search`, `kt:knowledge-representation` |
 | `kt:logistic-regression` | `kt:conditional-random-field`, `kt:empirical-risk-minimization`, `kt:loss-function`, `kt:bradley-terry-model` |
+| `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process`, `kt:language-model` |
 | `kt:meta-ai` | `kt:toolformer`, `kt:pytorch`, `kt:mask-r-cnn`, `kt:faiss` |
 | `kt:microsoft-research` | `kt:alfworld`, `kt:autogen`, `kt:residual-connection`, `kt:graphrag` |
 | `kt:model-parallelism` | `kt:data-parallelism`, `kt:parallel-computing`, `kt:pipeline-parallelism`, `kt:tensor-parallelism` |
@@ -18,8 +19,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:application-specific-integrated-circuit` | `kt:deep-blue`, `kt:ai-accelerator`, `kt:tpu` |
 | `kt:autonomous-driving` | `kt:object-detection`, `kt:semantic-segmentation`, `kt:yolo` |
 | `kt:herbert-a-simon` | `kt:allen-newell`, `kt:general-problem-solver`, `kt:logic-theorist` |
-| `kt:language-model` | `kt:perplexity`, `kt:a-neural-probabilistic-language-model`, `kt:large-language-model` |
-| `kt:markov-chain` | `kt:hidden-markov-model`, `kt:markov-decision-process`, `kt:markov-decision-process` |
 | `kt:physical-symbol-system-hypothesis` | `kt:allen-newell`, `kt:heuristic-search`, `kt:symbolic-ai` |
 | `kt:prompt-tuning` | `kt:mrkl-systems`, `kt:automatic-prompt-optimization`, `kt:parameter-efficient-fine-tuning` |
 | `kt:allen-institute-for-ai` | `kt:commonsenseqa`, `kt:decomposed-prompting` |
@@ -69,6 +68,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:monte-carlo-methods` | `kt:monte-carlo-tree-search`, `kt:temporal-difference-learning` |
 | `kt:muzero` | `kt:alphazero`, `kt:monte-carlo-tree-search` |
 | `kt:mycin` | `kt:dendral`, `kt:expert-systems` |
+| `kt:n-gram-language-model` | `kt:a-neural-probabilistic-language-model`, `kt:language-model` |
 | `kt:neuro-symbolic-ai` | `kt:mrkl-systems`, `kt:symbolic-ai` |
 | `kt:nist` | `kt:nist-ai-risk-management-framework`, `kt:nist-generative-ai-profile` |
 | `kt:online-learning` | `kt:adagrad`, `kt:contextual-bandit` |
@@ -397,7 +397,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:multi-task-learning` | `kt:transfer-learning` |
 | `kt:multimodal-learning` | `kt:vision-language-model` |
 | `kt:murray-campbell` | `kt:deep-blue` |
-| `kt:n-gram-language-model` | `kt:a-neural-probabilistic-language-model` |
 | `kt:negative-transfer` | `kt:transfer-learning` |
 | `kt:neocognitron` | `kt:convolutional-neural-network` |
 | `kt:netflix-prize` | `kt:recommender-system` |
